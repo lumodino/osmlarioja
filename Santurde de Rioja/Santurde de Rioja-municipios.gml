@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=municipios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>42.369581 -3.034495</gml:lowerCorner>
+      		<gml:upperCorner>42.414170 -2.963021</gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:municipios gml:id="municipios.26140">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>42.369581 -3.034495</gml:lowerCorner>
+        		<gml:upperCorner>42.414170 -2.963021</gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">42.369581 -2.974900 42.369860 -2.973880 42.369939 -2.965584 42.370830 -2.963021 42.372289 -2.964150 42.374351 -2.963396 42.377441 -2.964681 42.378467 -2.964098 42.387412 -2.969341 42.387592 -2.969329 42.389357 -2.969194 42.393932 -2.968827 42.394923 -2.969179 42.396805 -2.969822 42.397156 -2.969931 42.398228 -2.970040 42.399336 -2.969821 42.406135 -2.966682 42.406171 -2.966658 42.411871 -2.965427 42.412818 -2.969644 42.414170 -2.975635 42.412738 -2.976462 42.412162 -2.976961 42.411793 -2.977654 42.411604 -2.978541 42.410903 -2.984496 42.409669 -2.988543 42.409210 -2.989248 42.404987 -2.992445 42.404194 -2.993162 42.403456 -2.994013 42.402897 -2.994803 42.402096 -2.996978 42.401430 -2.999020 42.400835 -3.001972 42.400286 -3.005168 42.399547 -3.003175 42.397845 -3.006189 42.396980 -3.008679 42.396458 -3.009250 42.396692 -3.011620 42.396368 -3.012531 42.396187 -3.014827 42.394647 -3.016747 42.392539 -3.018982 42.390909 -3.020415 42.390936 -3.020889 42.391214 -3.024947 42.391439 -3.025603 42.392826 -3.027766 42.390402 -3.030863 42.389736 -3.031822 42.389132 -3.033304 42.388555 -3.034495 42.387862 -3.034300 42.387340 -3.033729 42.385908 -3.031262 42.385638 -3.030788 42.385234 -3.027787 42.385279 -3.025892 42.384748 -3.024361 42.384127 -3.023352 42.383118 -3.022247 42.382515 -3.021056 42.382434 -3.020886 42.380679 -3.016998 42.379670 -3.014204 42.379274 -3.013439 42.377950 -3.011216 42.376573 -3.006855 42.376384 -3.005725 42.376375 -3.003672 42.376258 -3.003077 42.375915 -3.002154 42.375564 -3.001620 42.375663 -3.000769 42.374673 -2.996907 42.374294 -2.995935 42.373997 -2.994417 42.373943 -2.993470 42.373880 -2.992267 42.373628 -2.991235 42.372177 -2.986814 42.372465 -2.985539 42.373050 -2.982976 42.373257 -2.981506 42.372608 -2.980304 42.372185 -2.979490 42.370104 -2.978033 42.369834 -2.977013 42.369581 -2.974900 </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:NOMBRE>Santurde de Rioja</ms:NOMBRE>
+      </ms:municipios>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
