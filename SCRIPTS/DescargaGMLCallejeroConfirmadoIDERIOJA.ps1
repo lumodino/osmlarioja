@@ -6,11 +6,15 @@ $DebugPreference = "Continue"
 
 #LISTADO DE PARAMETROS DEL SERVIDOR WFS. CAPA. CAMPO PARA AGRUPACION DE DATOS. CAMPOS DESCARGADOS. URL BASE DEL SERVIDOR WFS.
 @(
-[pscustomobject]@{capa="municipios";camponombre= "NOMBRE";campos = "NOMBRE,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
-[pscustomobject]@{capa="viales";camponombre= "NOMBRE_MUNICIPIO";campos = "NOMBRE_COMPLETO_VIAL,NOMBRE_POBLAMIENTO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
-[pscustomobject]@{capa="portales";camponombre= "NOMBRE_MUNICIPIO";campos = "NOMBRE_COMPLETO_VIAL,NUMERO_POLICIA,EXTENSION,CODIGO_POSTAL,NOMBRE_POBLAMIENTO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
-[pscustomobject]@{capa="poblaciones";camponombre= "T108_000_MUNICIPIOS_DENO";campos = "T108_000_NUCL_URB_DENO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
-[pscustomobject]@{capa="edificios";camponombre= "T223_000_INEMUNICIPIO_DENO";campos = "T223_000_INEMUNICIPIO_DENO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
+
+#CARTOGRAFIA TEMATICA IDERIOJA
+[pscustomobject]@{capa="carreteras";camponombre= "T106_106_CODIGOC";campos = "T106_106_REDVIARIA_DENO,T106_106_NOMBRE,T106_106_CODIGOC,msGeometry";URLWFS="https://ogc.larioja.org/wfs/request.php?"}
+#LISTADO DE CAPAS CALLEJERO CONFIRMADO IDERIOJA
+#[pscustomobject]@{capa="municipios";camponombre= "NOMBRE";campos = "NOMBRE,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
+#[pscustomobject]@{capa="viales";camponombre= "NOMBRE_MUNICIPIO";campos = "NOMBRE_COMPLETO_VIAL,NOMBRE_POBLAMIENTO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
+#[pscustomobject]@{capa="portales";camponombre= "NOMBRE_MUNICIPIO";campos = "NOMBRE_COMPLETO_VIAL,NUMERO_POLICIA,EXTENSION,CODIGO_POSTAL,NOMBRE_POBLAMIENTO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
+#[pscustomobject]@{capa="poblaciones";camponombre= "T108_000_MUNICIPIOS_DENO";campos = "T108_000_NUCL_URB_DENO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
+#[pscustomobject]@{capa="edificios";camponombre= "T223_000_INEMUNICIPIO_DENO";campos = "T223_000_INEMUNICIPIO_DENO,msGeometry";URLWFS="https://ogc.larioja.org/wfs/callejerodelarioja/request.php?"}
     ) | ForEach-Object {
             #ASIGNACION DE OBJETO EN CURSO PARA SU TRATAMIENTO
             $capa= $_.capa
