@@ -1,0 +1,569 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=vias_pecuarias_lineas&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>-2.847898 42.502348 </gml:lowerCorner>
+      		<gml:upperCorner>-2.832162 42.508574 </gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889880">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837319 42.506016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837316 42.506021 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837316 42.506021  -2.837319 42.506016  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889881">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837321 42.506012 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837319 42.506016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837319 42.506016  -2.837321 42.506012  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890407">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837319 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834317 42.506016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837319 42.506016  -2.837309 42.506014  -2.837304 42.506013  -2.837289 42.506009  -2.837270 42.506004  -2.837264 42.506002  -2.837251 42.505999  -2.837242 42.505997  -2.837235 42.505995  -2.837227 42.505993  -2.837217 42.505991  -2.837208 42.505989  -2.837203 42.505988  -2.837196 42.505987  -2.837190 42.505986  -2.837183 42.505984  -2.837178 42.505983  -2.837171 42.505982  -2.837166 42.505981  -2.837160 42.505980  -2.837154 42.505978  -2.837147 42.505977  -2.837133 42.505974  -2.837125 42.505973  -2.837109 42.505969  -2.837099 42.505967  -2.837089 42.505965  -2.837076 42.505963  -2.837068 42.505961  -2.837060 42.505959  -2.837054 42.505958  -2.837043 42.505956  -2.837035 42.505954  -2.837028 42.505953  -2.837008 42.505949  -2.836998 42.505947  -2.836988 42.505945  -2.836979 42.505943  -2.836966 42.505940  -2.836954 42.505938  -2.836946 42.505936  -2.836934 42.505934  -2.836925 42.505932  -2.836915 42.505930  -2.836903 42.505928  -2.836890 42.505925  -2.836881 42.505923  -2.836841 42.505915  -2.836814 42.505910  -2.836779 42.505902  -2.836758 42.505898  -2.836742 42.505895  -2.836722 42.505891  -2.836703 42.505887  -2.836691 42.505885  -2.836680 42.505882  -2.836661 42.505879  -2.836649 42.505876  -2.836601 42.505866  -2.836563 42.505859  -2.836548 42.505856  -2.836533 42.505852  -2.836509 42.505848  -2.836500 42.505846  -2.836484 42.505843  -2.836468 42.505839  -2.836458 42.505837  -2.836429 42.505832  -2.836414 42.505828  -2.836401 42.505826  -2.836375 42.505818  -2.836360 42.505813  -2.836334 42.505805  -2.836320 42.505801  -2.836313 42.505799  -2.836301 42.505795  -2.836288 42.505791  -2.836271 42.505786  -2.836252 42.505780  -2.836231 42.505773  -2.836223 42.505771  -2.836209 42.505767  -2.836181 42.505758  -2.836161 42.505752  -2.836132 42.505743  -2.836109 42.505736  -2.836084 42.505728  -2.836066 42.505722  -2.836040 42.505714  -2.836032 42.505712  -2.835969 42.505692  -2.835945 42.505685  -2.835816 42.505645  -2.835717 42.505615  -2.835577 42.505571  -2.835485 42.505543  -2.835348 42.505500  -2.835268 42.505476  -2.834976 42.505386  -2.834884 42.505357  -2.834629 42.505279  -2.834516 42.505197  -2.834479 42.505139  -2.834448 42.505091  -2.834437 42.504973  -2.834423 42.504819  -2.834411 42.504692  -2.834401 42.504584  -2.834388 42.504454  -2.834376 42.504319  -2.834362 42.504174  -2.834351 42.504060  -2.834336 42.503893  -2.834336 42.503892  -2.834324 42.503775  -2.834319 42.503718  -2.834318 42.503707  -2.834318 42.503702  -2.834317 42.503698  -2.834317 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890408">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847822 42.506016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837319 42.508525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.847822 42.508525  -2.847608 42.508487  -2.847539 42.508474  -2.847349 42.508437  -2.847111 42.508418  -2.846876 42.508356  -2.846674 42.508290  -2.846462 42.508264  -2.846281 42.508292  -2.846055 42.508248  -2.845785 42.508195  -2.845589 42.508157  -2.845486 42.508136  -2.845482 42.508136  -2.845318 42.508095  -2.844966 42.508008  -2.844163 42.507809  -2.844159 42.507808  -2.843761 42.507709  -2.843758 42.507708  -2.843321 42.507600  -2.843320 42.507600  -2.843080 42.507540  -2.842740 42.507456  -2.842740 42.507456  -2.842733 42.507454  -2.842567 42.507410  -2.842564 42.507409  -2.842401 42.507366  -2.841794 42.507204  -2.840827 42.506947  -2.840611 42.506889  -2.840314 42.506810  -2.840056 42.506741  -2.839916 42.506704  -2.839355 42.506554  -2.837419 42.506038  -2.837365 42.506024  -2.837319 42.506016  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890409">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847822 42.506016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837319 42.508525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.847822 42.508525  -2.847608 42.508487  -2.847539 42.508474  -2.847349 42.508437  -2.847111 42.508418  -2.846876 42.508356  -2.846674 42.508290  -2.846462 42.508264  -2.846281 42.508292  -2.846055 42.508248  -2.845785 42.508195  -2.845589 42.508157  -2.845486 42.508136  -2.845482 42.508136  -2.845318 42.508095  -2.844966 42.508008  -2.844163 42.507809  -2.844159 42.507808  -2.843761 42.507709  -2.843758 42.507708  -2.843321 42.507600  -2.843320 42.507600  -2.843080 42.507540  -2.842740 42.507456  -2.842740 42.507456  -2.842733 42.507454  -2.842567 42.507410  -2.842564 42.507409  -2.842401 42.507366  -2.841794 42.507204  -2.840827 42.506947  -2.840611 42.506889  -2.840314 42.506810  -2.840056 42.506741  -2.839916 42.506704  -2.839355 42.506554  -2.837419 42.506038  -2.837365 42.506024  -2.837319 42.506016  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960 // BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890414">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837319 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834317 42.506016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834317 42.503697  -2.834317 42.503698  -2.834318 42.503702  -2.834318 42.503707  -2.834319 42.503718  -2.834324 42.503775  -2.834336 42.503892  -2.834336 42.503893  -2.834351 42.504060  -2.834362 42.504174  -2.834376 42.504319  -2.834388 42.504454  -2.834401 42.504584  -2.834411 42.504692  -2.834423 42.504819  -2.834437 42.504973  -2.834448 42.505091  -2.834479 42.505139  -2.834516 42.505197  -2.834629 42.505279  -2.834884 42.505357  -2.834976 42.505386  -2.835268 42.505476  -2.835348 42.505500  -2.835485 42.505543  -2.835577 42.505571  -2.835717 42.505615  -2.835816 42.505645  -2.835945 42.505685  -2.835969 42.505692  -2.836032 42.505712  -2.836040 42.505714  -2.836066 42.505722  -2.836084 42.505728  -2.836109 42.505736  -2.836132 42.505743  -2.836161 42.505752  -2.836181 42.505758  -2.836209 42.505767  -2.836223 42.505771  -2.836231 42.505773  -2.836252 42.505780  -2.836271 42.505786  -2.836288 42.505791  -2.836301 42.505795  -2.836313 42.505799  -2.836320 42.505801  -2.836334 42.505805  -2.836360 42.505813  -2.836375 42.505818  -2.836401 42.505826  -2.836414 42.505828  -2.836429 42.505832  -2.836458 42.505837  -2.836468 42.505839  -2.836484 42.505843  -2.836500 42.505846  -2.836509 42.505848  -2.836533 42.505852  -2.836548 42.505856  -2.836563 42.505859  -2.836601 42.505866  -2.836649 42.505876  -2.836661 42.505879  -2.836680 42.505882  -2.836691 42.505885  -2.836703 42.505887  -2.836722 42.505891  -2.836742 42.505895  -2.836758 42.505898  -2.836779 42.505902  -2.836814 42.505910  -2.836841 42.505915  -2.836881 42.505923  -2.836890 42.505925  -2.836903 42.505928  -2.836915 42.505930  -2.836925 42.505932  -2.836934 42.505934  -2.836946 42.505936  -2.836954 42.505938  -2.836966 42.505940  -2.836979 42.505943  -2.836988 42.505945  -2.836998 42.505947  -2.837008 42.505949  -2.837028 42.505953  -2.837035 42.505954  -2.837043 42.505956  -2.837054 42.505958  -2.837060 42.505959  -2.837068 42.505961  -2.837076 42.505963  -2.837089 42.505965  -2.837099 42.505967  -2.837109 42.505969  -2.837125 42.505973  -2.837133 42.505974  -2.837147 42.505977  -2.837154 42.505978  -2.837160 42.505980  -2.837166 42.505981  -2.837171 42.505982  -2.837178 42.505983  -2.837183 42.505984  -2.837190 42.505986  -2.837196 42.505987  -2.837203 42.505988  -2.837208 42.505989  -2.837217 42.505991  -2.837227 42.505993  -2.837235 42.505995  -2.837242 42.505997  -2.837251 42.505999  -2.837264 42.506002  -2.837270 42.506004  -2.837289 42.506009  -2.837304 42.506013  -2.837309 42.506014  -2.837319 42.506016  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890415">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834317 42.502520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832221 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834317 42.503697  -2.834314 42.503671  -2.834301 42.503566  -2.834266 42.503283  -2.834162 42.502956  -2.833722 42.502756  -2.833167 42.502569  -2.832726 42.502528  -2.832417 42.502520  -2.832310 42.502544  -2.832264 42.502554  -2.832221 42.502563  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960 // BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890416">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837319 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834317 42.506016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837319 42.506016  -2.837309 42.506014  -2.837304 42.506013  -2.837289 42.506009  -2.837270 42.506004  -2.837264 42.506002  -2.837251 42.505999  -2.837242 42.505997  -2.837235 42.505995  -2.837227 42.505993  -2.837217 42.505991  -2.837208 42.505989  -2.837203 42.505988  -2.837196 42.505987  -2.837190 42.505986  -2.837183 42.505984  -2.837178 42.505983  -2.837171 42.505982  -2.837166 42.505981  -2.837160 42.505980  -2.837154 42.505978  -2.837147 42.505977  -2.837133 42.505974  -2.837125 42.505973  -2.837109 42.505969  -2.837099 42.505967  -2.837089 42.505965  -2.837076 42.505963  -2.837068 42.505961  -2.837060 42.505959  -2.837054 42.505958  -2.837043 42.505956  -2.837035 42.505954  -2.837028 42.505953  -2.837008 42.505949  -2.836998 42.505947  -2.836988 42.505945  -2.836979 42.505943  -2.836966 42.505940  -2.836954 42.505938  -2.836946 42.505936  -2.836934 42.505934  -2.836925 42.505932  -2.836915 42.505930  -2.836903 42.505928  -2.836890 42.505925  -2.836881 42.505923  -2.836841 42.505915  -2.836814 42.505910  -2.836779 42.505902  -2.836758 42.505898  -2.836742 42.505895  -2.836722 42.505891  -2.836703 42.505887  -2.836691 42.505885  -2.836680 42.505882  -2.836661 42.505879  -2.836649 42.505876  -2.836601 42.505866  -2.836563 42.505859  -2.836548 42.505856  -2.836533 42.505852  -2.836509 42.505848  -2.836500 42.505846  -2.836484 42.505843  -2.836468 42.505839  -2.836458 42.505837  -2.836429 42.505832  -2.836414 42.505828  -2.836401 42.505826  -2.836375 42.505818  -2.836360 42.505813  -2.836334 42.505805  -2.836320 42.505801  -2.836313 42.505799  -2.836301 42.505795  -2.836288 42.505791  -2.836271 42.505786  -2.836252 42.505780  -2.836231 42.505773  -2.836223 42.505771  -2.836209 42.505767  -2.836181 42.505758  -2.836161 42.505752  -2.836132 42.505743  -2.836109 42.505736  -2.836084 42.505728  -2.836066 42.505722  -2.836040 42.505714  -2.836032 42.505712  -2.835969 42.505692  -2.835945 42.505685  -2.835816 42.505645  -2.835717 42.505615  -2.835577 42.505571  -2.835485 42.505543  -2.835348 42.505500  -2.835268 42.505476  -2.834976 42.505386  -2.834884 42.505357  -2.834629 42.505279  -2.834516 42.505197  -2.834479 42.505139  -2.834448 42.505091  -2.834437 42.504973  -2.834423 42.504819  -2.834411 42.504692  -2.834401 42.504584  -2.834388 42.504454  -2.834376 42.504319  -2.834362 42.504174  -2.834351 42.504060  -2.834336 42.503893  -2.834336 42.503892  -2.834324 42.503775  -2.834319 42.503718  -2.834318 42.503707  -2.834318 42.503702  -2.834317 42.503698  -2.834317 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960 // BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890417">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847822 42.506016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837319 42.508525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837319 42.506016  -2.837365 42.506024  -2.837419 42.506038  -2.839355 42.506554  -2.839916 42.506704  -2.840056 42.506741  -2.840314 42.506810  -2.840611 42.506889  -2.840827 42.506947  -2.841794 42.507204  -2.842401 42.507366  -2.842564 42.507409  -2.842567 42.507410  -2.842733 42.507454  -2.842740 42.507456  -2.842740 42.507456  -2.843080 42.507540  -2.843320 42.507600  -2.843321 42.507600  -2.843758 42.507708  -2.843761 42.507709  -2.844159 42.507808  -2.844163 42.507809  -2.844966 42.508008  -2.845318 42.508095  -2.845482 42.508136  -2.845486 42.508136  -2.845589 42.508157  -2.845785 42.508195  -2.846055 42.508248  -2.846281 42.508292  -2.846462 42.508264  -2.846674 42.508290  -2.846876 42.508356  -2.847111 42.508418  -2.847349 42.508437  -2.847539 42.508474  -2.847608 42.508487  -2.847822 42.508525  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847834 42.506082 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837280 42.508574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.847834 42.508574  -2.847811 42.508573  -2.847782 42.508573  -2.847778 42.508555  -2.847596 42.508523  -2.847340 42.508473  -2.847100 42.508455  -2.846858 42.508390  -2.846701 42.508339  -2.846660 42.508326  -2.846599 42.508318  -2.846500 42.508343  -2.846190 42.508422  -2.846065 42.508439  -2.845803 42.508367  -2.845436 42.508340  -2.844347 42.508034  -2.843670 42.507871  -2.843014 42.507703  -2.842498 42.507577  -2.842401 42.507550  -2.841955 42.507426  -2.841475 42.507288  -2.840870 42.507108  -2.840581 42.507004  -2.840526 42.506961  -2.840438 42.506862  -2.840338 42.506838  -2.840205 42.506858  -2.839997 42.506871  -2.839872 42.506851  -2.839771 42.506809  -2.839630 42.506749  -2.839472 42.506688  -2.839309 42.506646  -2.839133 42.506609  -2.838943 42.506556  -2.838776 42.506517  -2.838601 42.506469  -2.838427 42.506436  -2.838221 42.506356  -2.838063 42.506311  -2.837694 42.506197  -2.837532 42.506154  -2.837323 42.506096  -2.837280 42.506082  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890421">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834457 42.502348 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832162 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.832162 42.502360  -2.832253 42.502348  -2.833328 42.502413  -2.833639 42.502528  -2.834457 42.502831  -2.834437 42.503050  -2.834417 42.503297  -2.834382 42.503436  -2.834361 42.503557  -2.834319 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890422">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837316 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834312 42.506021 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837316 42.506021  -2.837233 42.505999  -2.836400 42.505830  -2.836399 42.505830  -2.836399 42.505830  -2.835895 42.505674  -2.834626 42.505283  -2.834626 42.505283  -2.834626 42.505282  -2.834625 42.505282  -2.834625 42.505282  -2.834625 42.505282  -2.834625 42.505282  -2.834512 42.505201  -2.834512 42.505200  -2.834512 42.505200  -2.834511 42.505200  -2.834511 42.505200  -2.834511 42.505199  -2.834443 42.505093  -2.834442 42.505093  -2.834442 42.505093  -2.834442 42.505093  -2.834442 42.505092  -2.834442 42.505092  -2.834442 42.505092  -2.834312 42.503702  -2.834316 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890426">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834317 42.502520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832221 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.832221 42.502563  -2.832264 42.502554  -2.832310 42.502544  -2.832417 42.502520  -2.832726 42.502528  -2.833167 42.502569  -2.833722 42.502756  -2.834162 42.502956  -2.834266 42.503283  -2.834301 42.503566  -2.834314 42.503671  -2.834317 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890437">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847898 42.508287 </gml:lowerCorner>
+        		<gml:upperCorner>-2.847822 42.508525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.847836 42.508291  -2.847898 42.508287  -2.847822 42.508525  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890438">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847834 42.508525 </gml:lowerCorner>
+        		<gml:upperCorner>-2.847822 42.508574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.847822 42.508525  -2.847834 42.508574  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890439">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847836 42.505807 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837461 42.508291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837461 42.505807  -2.837506 42.505816  -2.837813 42.505884  -2.837839 42.505950  -2.839172 42.506294  -2.839305 42.506226  -2.839895 42.506362  -2.840057 42.506408  -2.840367 42.506494  -2.840584 42.506556  -2.840756 42.506605  -2.841087 42.506681  -2.841433 42.506769  -2.841738 42.506852  -2.842204 42.507023  -2.842740 42.507196  -2.843685 42.507479  -2.843749 42.507515  -2.843907 42.507568  -2.844027 42.507549  -2.844141 42.507573  -2.844654 42.507738  -2.845032 42.507842  -2.845589 42.508000  -2.845641 42.508015  -2.846024 42.508079  -2.846600 42.508140  -2.847088 42.508192  -2.847546 42.508250  -2.847834 42.508291  -2.847836 42.508291  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890440">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837461 42.505807 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837321 42.506012 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837321 42.506012  -2.837461 42.505807  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890441">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837316 42.506021 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837280 42.506082 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837280 42.506082  -2.837316 42.506021  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837321 42.506012 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837319 42.506016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837321 42.506012  -2.837319 42.506016  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837319 42.506016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837316 42.506021 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.837319 42.506016  -2.837316 42.506021  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890445">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837321 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834319 42.506012 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834319 42.503697  -2.834324 42.503701  -2.834324 42.503703  -2.834454 42.505090  -2.834521 42.505195  -2.834632 42.505275  -2.836403 42.505822  -2.837237 42.505990  -2.837237 42.505991  -2.837321 42.506012  -2.837321 42.506012  -2.837321 42.506012  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890446">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834317 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834316 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834316 42.503697  -2.834317 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834317 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834316 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834317 42.503697  -2.834316 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890448">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834319 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834317 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834319 42.503697  -2.834317 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890449">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834319 42.503697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834317 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834317 42.503697  -2.834319 42.503697  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834316 42.502763 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832280 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834316 42.503697  -2.834303 42.503651  -2.834249 42.503475  -2.834151 42.503291  -2.833975 42.503094  -2.833576 42.502917  -2.833128 42.502812  -2.832699 42.502763  -2.832383 42.502767  -2.832316 42.502768  -2.832280 42.502768  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890451">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.834317 42.502520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832221 42.503697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.834317 42.503697  -2.834314 42.503671  -2.834301 42.503566  -2.834266 42.503283  -2.834162 42.502956  -2.833722 42.502756  -2.833167 42.502569  -2.832726 42.502528  -2.832417 42.502520  -2.832310 42.502544  -2.832264 42.502554  -2.832221 42.502563  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890452">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.832221 42.502360 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832162 42.502563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.832221 42.502563  -2.832162 42.502360  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 29/07/1960</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.890453">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.832280 42.502563 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832221 42.502768 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.832280 42.502768  -2.832221 42.502563  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>VEREDA DEL MONTE</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 19/10/1968</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO ENTRE FINCAS PARTICULARES. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
+

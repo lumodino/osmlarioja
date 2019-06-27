@@ -23,6 +23,12 @@ $DebugPreference = "Continue"
             $URLWFS=$_.URLWFS
             Write-Debug "Descargando lista de elementos $camponombre en capa $capa"
             #DESCARGA DE TODOS LOS ELEMENTOS DEL CAMPO NOMBRE SIN ELEMENTOS DUPLICADOS.
+            #-------------------------
+            #ADVERTENCIA!!!!!!!!!!!!!!
+            #-------------------------
+            #ESTA LINEA DESCARGA UN ÚNICO CAMPO DE TODOS LOS OBJETOS DE LA CAPA. EL LISTADO PUEDE SER INCORRECTO SI EL SERVIDOR SUMINISTRA UN MAXIMO DE OBJETOS
+            #EL WFS DE IDERIOJA CONFIRMADO TIENE ESTE LIMITE QUE AFECTA POR LO MENOS A LA CAPA DE VIALES.
+            #-----------------------------------------------------------------------------------------------
             ([XML]((Invoke-WebRequest "$($URLWFS)service=wfs&version=1.1.0&request=getfeature&typename=$($capa)&srsname=EPSG:4326&pagingEnabled=false&format-options=XMLSCHEMA&propertyName=$($camponombre)" -UseBasicParsing).content)).FeatureCollection.featureMember.$CAPA.$CAMPONOMBRE | Sort-Object | Get-Unique | ForEach-Object {
                 #CREACION DE LA CARPETA SI NO EXISTE.
                 if(!(Test-Path $carpetadescarga\$($_))){Write-debug "NO EXISTE CARPETA. CREANDO CARPETA $carpetadescarga\$($_)";New-Item -Path $carpetadescarga\$($_) -ItemType Directory|Out-Null}

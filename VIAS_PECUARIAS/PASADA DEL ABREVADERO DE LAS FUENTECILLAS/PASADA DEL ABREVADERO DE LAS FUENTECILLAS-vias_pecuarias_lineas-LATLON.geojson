@@ -1,0 +1,16 @@
+﻿{
+"type": "FeatureCollection",
+"name": "vias_pecuarias_lineas",
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889265", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.963429, 42.409626 ], [ -2.963438, 42.409627 ], [ -2.963922, 42.4097 ], [ -2.964397, 42.409763 ], [ -2.964881, 42.409851 ], [ -2.96525, 42.409909 ], [ -2.965514, 42.409952 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889266", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.96337, 42.409615 ], [ -2.963429, 42.409626 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889342", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.963429, 42.409626 ], [ -2.963446, 42.409582 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889398", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.963411, 42.409673 ], [ -2.963429, 42.409626 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889432", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.963363, 42.409614 ], [ -2.96337, 42.409615 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889437", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.963446, 42.409582 ], [ -2.965115, 42.409843 ], [ -2.965524, 42.409906 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889479", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.965504, 42.409994 ], [ -2.963411, 42.409673 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889480", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.965524, 42.409906 ], [ -2.965514, 42.409949 ], [ -2.965514, 42.409952 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.889481", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.965514, 42.409952 ], [ -2.965504, 42.409994 ] ] } }
+]
+}
+

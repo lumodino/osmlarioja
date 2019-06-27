@@ -1,0 +1,8 @@
+﻿{
+"type": "FeatureCollection",
+"name": "vias_pecuarias_poligonos",
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_poligonos.897929", "NOMBRE": "PASADA DEL ABREVADERO DE LAS FUENTECILLAS", "PUB_CLASIF": "BOE 22\/09\/1963", "ICONA_ETIQUETA": "Si", "COMENTARIO": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.965524, 42.409906 ], [ -2.965115, 42.409843 ], [ -2.963446, 42.409582 ], [ -2.963429, 42.409626 ], [ -2.963411, 42.409673 ], [ -2.965504, 42.409994 ], [ -2.965514, 42.409952 ], [ -2.965514, 42.409949 ], [ -2.965524, 42.409906 ] ] ] } }
+]
+}
+

@@ -1,0 +1,20689 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>-2.253592 42.204160 </gml:lowerCorner>
+      		<gml:upperCorner>-2.193785 42.225138 </gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850893">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.243770 42.205588 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242689 42.205925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.243733 42.205588  -2.242689 42.205841  -2.242726 42.205925  -2.243770 42.205673  -2.243733 42.205588  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850894">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238948 42.211341 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238515 42.211711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238710 42.211490  -2.238885 42.211419  -2.238840 42.211341  -2.238521 42.211469  -2.238515 42.211490  -2.238626 42.211579  -2.238792 42.211711  -2.238948 42.211607  -2.238872 42.211547  -2.238859 42.211536  -2.238805 42.211573  -2.238722 42.211506  -2.238710 42.211490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850895">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196731 42.210760 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196259 42.210946 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196596 42.210857  -2.196672 42.210856  -2.196672 42.210859  -2.196726 42.210859  -2.196726 42.210859  -2.196729 42.210859  -2.196731 42.210783  -2.196600 42.210785  -2.196523 42.210785  -2.196484 42.210785  -2.196484 42.210779  -2.196452 42.210777  -2.196456 42.210760  -2.196413 42.210763  -2.196401 42.210841  -2.196365 42.210835  -2.196370 42.210810  -2.196344 42.210806  -2.196345 42.210802  -2.196355 42.210761  -2.196293 42.210762  -2.196285 42.210793  -2.196275 42.210829  -2.196259 42.210899  -2.196468 42.210927  -2.196483 42.210856  -2.196533 42.210857  -2.196533 42.210861  -2.196534 42.210908  -2.196492 42.210906  -2.196489 42.210930  -2.196598 42.210946  -2.196596 42.210857  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850896">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239889 42.210610 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239411 42.210958 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:MultiSurface srsName="EPSG:4326">
+            <gml:surfaceMembers>
+              <gml:Polygon>
+                <gml:exterior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.239522 42.210958  -2.239889 42.210867  -2.239799 42.210666  -2.239789 42.210644  -2.239788 42.210642  -2.239781 42.210632  -2.239765 42.210623  -2.239744 42.210610  -2.239718 42.210616  -2.239669 42.210629  -2.239617 42.210642  -2.239565 42.210655  -2.239511 42.210668  -2.239419 42.210691  -2.239411 42.210704  -2.239413 42.210711  -2.239423 42.210733  -2.239434 42.210757  -2.239522 42.210958  </gml:posList>
+                  </gml:LinearRing>
+                </gml:exterior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.239637 42.210830  -2.239576 42.210845  -2.239564 42.210818  -2.239626 42.210804  -2.239637 42.210830  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.239702 42.210785  -2.239746 42.210774  -2.239757 42.210800  -2.239714 42.210810  -2.239702 42.210785  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+              </gml:Polygon>
+            </gml:surfaceMembers>
+          </gml:MultiSurface>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850897">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240849 42.207085 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240475 42.207350 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240750 42.207097  -2.240735 42.207085  -2.240558 42.207201  -2.240556 42.207200  -2.240475 42.207254  -2.240590 42.207350  -2.240789 42.207219  -2.240849 42.207180  -2.240782 42.207123  -2.240750 42.207097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850898">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241183 42.206706 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240765 42.206986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241121 42.206739  -2.241082 42.206706  -2.240827 42.206871  -2.240808 42.206883  -2.240765 42.206910  -2.240856 42.206986  -2.240921 42.206943  -2.241168 42.206783  -2.241183 42.206795  -2.241171 42.206781  -2.241121 42.206739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850899">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237324 42.211712 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236950 42.212002 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236950 42.211898  -2.236991 42.211998  -2.237005 42.212002  -2.237190 42.211912  -2.237319 42.211816  -2.237284 42.211790  -2.237324 42.211760  -2.237275 42.211723  -2.237259 42.211712  -2.237216 42.211744  -2.237215 42.211744  -2.237175 42.211774  -2.237214 42.211801  -2.237174 42.211831  -2.237135 42.211860  -2.237102 42.211824  -2.236950 42.211898  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850900">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242585 42.205877 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242180 42.206119 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242585 42.205970  -2.242515 42.205877  -2.242352 42.205970  -2.242264 42.206009  -2.242180 42.206043  -2.242237 42.206119  -2.242585 42.205970  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850901">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239742 42.208115 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239522 42.208380 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239650 42.208115  -2.239522 42.208213  -2.239587 42.208380  -2.239742 42.208348  -2.239679 42.208187  -2.239714 42.208160  -2.239650 42.208115  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850902">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242064 42.206026 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241776 42.206258 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241899 42.206067  -2.241861 42.206101  -2.241805 42.206131  -2.241776 42.206164  -2.241857 42.206201  -2.241880 42.206212  -2.241978 42.206258  -2.242036 42.206190  -2.242000 42.206172  -2.242029 42.206138  -2.242008 42.206126  -2.242064 42.206059  -2.242003 42.206029  -2.242000 42.206032  -2.241990 42.206026  -2.241984 42.206033  -2.241973 42.206044  -2.241974 42.206061  -2.241973 42.206063  -2.241935 42.206044  -2.241899 42.206067  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850903">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241978 42.206212 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241693 42.206522 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241754 42.206522  -2.241978 42.206258  -2.241880 42.206212  -2.241792 42.206326  -2.241817 42.206337  -2.241800 42.206359  -2.241694 42.206492  -2.241693 42.206492  -2.241694 42.206492  -2.241754 42.206522  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850904">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238936 42.211870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238639 42.212097 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238759 42.211870  -2.238674 42.211930  -2.238650 42.211946  -2.238684 42.211974  -2.238748 42.211930  -2.238792 42.211966  -2.238701 42.212028  -2.238692 42.212020  -2.238639 42.212056  -2.238688 42.212097  -2.238936 42.211965  -2.238874 42.211916  -2.238842 42.211938  -2.238759 42.211870  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850905">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241046 42.206965 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240782 42.207180 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240815 42.207051  -2.240817 42.207052  -2.240849 42.207079  -2.240782 42.207123  -2.240849 42.207180  -2.241046 42.207051  -2.240946 42.206965  -2.240881 42.207008  -2.240815 42.207051  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850906">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242155 42.206952 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241911 42.207173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241976 42.207166  -2.242014 42.207168  -2.242027 42.207173  -2.242149 42.207005  -2.242155 42.206996  -2.242036 42.206952  -2.241911 42.207129  -2.241982 42.207156  -2.241976 42.207166  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850907">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196352 42.210927 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196118 42.211073 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196118 42.211071  -2.196350 42.211073  -2.196352 42.211025  -2.196352 42.210989  -2.196120 42.210927  -2.196118 42.211071  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850908">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235291 42.211695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234849 42.211969 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234975 42.211969  -2.234978 42.211969  -2.235020 42.211968  -2.235015 42.211902  -2.235149 42.211897  -2.235151 42.211851  -2.235286 42.211850  -2.235280 42.211756  -2.235291 42.211744  -2.235276 42.211732  -2.235243 42.211707  -2.235175 42.211708  -2.235145 42.211708  -2.235141 42.211695  -2.235106 42.211695  -2.235016 42.211696  -2.234994 42.211697  -2.234893 42.211698  -2.234893 42.211700  -2.234894 42.211754  -2.234893 42.211754  -2.234850 42.211774  -2.234849 42.211775  -2.234852 42.211823  -2.234853 42.211824  -2.234893 42.211841  -2.234898 42.211886  -2.234896 42.211901  -2.234902 42.211969  -2.234923 42.211969  -2.234975 42.211969  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850909">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195457 42.210707 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195125 42.210864 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195275 42.210736  -2.195150 42.210707  -2.195125 42.210779  -2.195287 42.210827  -2.195401 42.210864  -2.195410 42.210863  -2.195457 42.210782  -2.195320 42.210748  -2.195275 42.210736  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850910">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239970 42.208018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239716 42.208209 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239861 42.208018  -2.239716 42.208132  -2.239826 42.208209  -2.239841 42.208197  -2.239853 42.208206  -2.239967 42.208116  -2.239955 42.208107  -2.239970 42.208095  -2.239861 42.208018  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850911">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238537 42.211542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238259 42.211716 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238259 42.211648  -2.238296 42.211677  -2.238321 42.211696  -2.238346 42.211716  -2.238391 42.211685  -2.238425 42.211712  -2.238473 42.211679  -2.238483 42.211687  -2.238510 42.211669  -2.238504 42.211665  -2.238537 42.211642  -2.238412 42.211542  -2.238259 42.211648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850912">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240717 42.206998 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240429 42.207191 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240547 42.207181  -2.240717 42.207069  -2.240647 42.207012  -2.240629 42.206998  -2.240429 42.207135  -2.240488 42.207185  -2.240495 42.207191  -2.240531 42.207167  -2.240547 42.207181  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850913">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242059 42.207166 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241835 42.207319 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241872 42.207172  -2.241835 42.207284  -2.242013 42.207319  -2.242059 42.207186  -2.242027 42.207173  -2.242014 42.207168  -2.241976 42.207166  -2.241972 42.207173  -2.241955 42.207171  -2.241919 42.207169  -2.241917 42.207177  -2.241872 42.207172  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850914">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239386 42.211613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238940 42.211909 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238972 42.211854  -2.239034 42.211904  -2.239040 42.211909  -2.239086 42.211877  -2.239086 42.211877  -2.239074 42.211867  -2.239087 42.211858  -2.239106 42.211844  -2.239119 42.211855  -2.239310 42.211724  -2.239333 42.211743  -2.239341 42.211749  -2.239386 42.211718  -2.239378 42.211712  -2.239355 42.211694  -2.239257 42.211615  -2.239254 42.211613  -2.239219 42.211637  -2.238940 42.211828  -2.238972 42.211854  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850915">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239317 42.211411 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239018 42.211637 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239219 42.211637  -2.239254 42.211613  -2.239257 42.211615  -2.239296 42.211587  -2.239317 42.211573  -2.239255 42.211524  -2.239269 42.211514  -2.239238 42.211469  -2.239196 42.211435  -2.239155 42.211464  -2.239148 42.211468  -2.239145 42.211470  -2.239100 42.211433  -2.239073 42.211411  -2.239021 42.211447  -2.239019 42.211446  -2.239018 42.211453  -2.239085 42.211506  -2.239075 42.211520  -2.239219 42.211637  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850916">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241776 42.206528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241431 42.206733 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241709 42.206540  -2.241732 42.206572  -2.241686 42.206591  -2.241642 42.206532  -2.241626 42.206539  -2.241640 42.206552  -2.241665 42.206581  -2.241580 42.206619  -2.241565 42.206603  -2.241542 42.206613  -2.241566 42.206646  -2.241522 42.206664  -2.241508 42.206645  -2.241476 42.206661  -2.241431 42.206679  -2.241464 42.206724  -2.241472 42.206733  -2.241618 42.206676  -2.241717 42.206635  -2.241776 42.206609  -2.241739 42.206533  -2.241736 42.206528  -2.241709 42.206540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850917">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241622 42.209449 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241368 42.209611 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241368 42.209541  -2.241564 42.209611  -2.241622 42.209519  -2.241426 42.209449  -2.241368 42.209541  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850918">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241403 42.206539 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241161 42.206740 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241375 42.206648  -2.241399 42.206633  -2.241403 42.206630  -2.241374 42.206590  -2.241339 42.206539  -2.241161 42.206654  -2.241201 42.206687  -2.241252 42.206728  -2.241269 42.206740  -2.241254 42.206727  -2.241375 42.206648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850919">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236593 42.211193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236374 42.211369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236551 42.211247  -2.236520 42.211193  -2.236393 42.211229  -2.236401 42.211241  -2.236446 42.211304  -2.236374 42.211332  -2.236403 42.211369  -2.236593 42.211318  -2.236592 42.211317  -2.236565 42.211271  -2.236551 42.211247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850920">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236911 42.212724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236671 42.212899 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236896 42.212831  -2.236870 42.212811  -2.236911 42.212783  -2.236832 42.212724  -2.236671 42.212840  -2.236802 42.212899  -2.236896 42.212831  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850921">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241800 42.206306 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241585 42.206492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241604 42.206436  -2.241645 42.206479  -2.241646 42.206480  -2.241693 42.206492  -2.241694 42.206492  -2.241800 42.206359  -2.241681 42.206306  -2.241585 42.206428  -2.241604 42.206436  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850922">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197613 42.210933 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197296 42.211015 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197469 42.211006  -2.197470 42.211015  -2.197613 42.211011  -2.197611 42.210939  -2.197611 42.210933  -2.197562 42.210934  -2.197542 42.210935  -2.197515 42.210936  -2.197515 42.210934  -2.197394 42.210949  -2.197296 42.210964  -2.197314 42.211012  -2.197420 42.211013  -2.197413 42.210996  -2.197448 42.210994  -2.197469 42.211006  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850923">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237072 42.211181 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236795 42.211336 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236819 42.211242  -2.236836 42.211241  -2.236869 42.211336  -2.236945 42.211312  -2.236924 42.211250  -2.236977 42.211237  -2.236988 42.211290  -2.237065 42.211276  -2.237072 42.211230  -2.236997 42.211235  -2.236998 42.211227  -2.236998 42.211212  -2.236903 42.211186  -2.236902 42.211181  -2.236795 42.211206  -2.236819 42.211242  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850924">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236725 42.212372 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236483 42.212540 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236563 42.212478  -2.236636 42.212540  -2.236725 42.212480  -2.236659 42.212427  -2.236679 42.212413  -2.236629 42.212372  -2.236483 42.212405  -2.236537 42.212456  -2.236563 42.212478  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850925">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241746 42.207230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241557 42.207393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241731 42.207257  -2.241613 42.207230  -2.241557 42.207364  -2.241684 42.207392  -2.241690 42.207393  -2.241746 42.207260  -2.241731 42.207257  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850926">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236921 42.212297 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236659 42.212480 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236725 42.212480  -2.236921 42.212350  -2.236857 42.212297  -2.236679 42.212413  -2.236659 42.212427  -2.236725 42.212480  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850927">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236820 42.211136 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236575 42.211272 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236662 42.211272  -2.236820 42.211171  -2.236794 42.211137  -2.236714 42.211136  -2.236575 42.211176  -2.236662 42.211272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850928">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238688 42.211994 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238471 42.212173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238688 42.212097  -2.238639 42.212056  -2.238577 42.212005  -2.238569 42.211994  -2.238537 42.212010  -2.238564 42.212039  -2.238532 42.212056  -2.238530 42.212054  -2.238487 42.212077  -2.238507 42.212098  -2.238487 42.212108  -2.238476 42.212096  -2.238471 42.212097  -2.238543 42.212173  -2.238688 42.212097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850929">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194291 42.211224 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194088 42.211376 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194129 42.211345  -2.194088 42.211352  -2.194096 42.211376  -2.194202 42.211351  -2.194280 42.211341  -2.194278 42.211323  -2.194288 42.211323  -2.194291 42.211253  -2.194291 42.211254  -2.194271 42.211255  -2.194271 42.211281  -2.194246 42.211282  -2.194242 42.211252  -2.194241 42.211246  -2.194174 42.211252  -2.194169 42.211224  -2.194125 42.211229  -2.194134 42.211283  -2.194107 42.211287  -2.194116 42.211312  -2.194129 42.211345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850930">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240397 42.209401 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240172 42.209656 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240172 42.209633  -2.240232 42.209656  -2.240397 42.209425  -2.240337 42.209401  -2.240172 42.209633  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850931">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241645 42.206436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241334 42.206590 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241604 42.206436  -2.241471 42.206514  -2.241451 42.206486  -2.241334 42.206533  -2.241339 42.206539  -2.241374 42.206590  -2.241445 42.206558  -2.241443 42.206555  -2.241475 42.206541  -2.241492 42.206566  -2.241493 42.206567  -2.241520 42.206551  -2.241613 42.206497  -2.241645 42.206479  -2.241604 42.206436  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850932">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240492 42.210523 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240260 42.210705 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240406 42.210523  -2.240260 42.210669  -2.240310 42.210705  -2.240492 42.210587  -2.240406 42.210523  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850933">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195479 42.211063 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195225 42.211182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195225 42.211073  -2.195249 42.211074  -2.195244 42.211110  -2.195248 42.211131  -2.195261 42.211182  -2.195322 42.211170  -2.195323 42.211170  -2.195379 42.211158  -2.195427 42.211142  -2.195438 42.211137  -2.195479 42.211119  -2.195421 42.211083  -2.195341 42.211063  -2.195338 42.211107  -2.195303 42.211101  -2.195303 42.211064  -2.195272 42.211070  -2.195251 42.211074  -2.195225 42.211073  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850934">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238759 42.211765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238542 42.211930 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238759 42.211870  -2.238628 42.211765  -2.238542 42.211824  -2.238674 42.211930  -2.238759 42.211870  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850935">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236636 42.212478 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236431 42.212648 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236450 42.212614  -2.236451 42.212615  -2.236527 42.212648  -2.236636 42.212540  -2.236563 42.212478  -2.236546 42.212495  -2.236514 42.212524  -2.236510 42.212528  -2.236508 42.212529  -2.236506 42.212531  -2.236490 42.212546  -2.236453 42.212581  -2.236451 42.212583  -2.236431 42.212591  -2.236450 42.212614  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850936">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237735 42.211737 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237536 42.211893 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237668 42.211737  -2.237536 42.211785  -2.237620 42.211893  -2.237735 42.211817  -2.237668 42.211737  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850937">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195836 42.210601 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195618 42.210716 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195692 42.210603  -2.195682 42.210639  -2.195638 42.210632  -2.195636 42.210632  -2.195634 42.210632  -2.195632 42.210632  -2.195630 42.210633  -2.195628 42.210634  -2.195626 42.210634  -2.195624 42.210635  -2.195622 42.210637  -2.195621 42.210638  -2.195620 42.210639  -2.195619 42.210641  -2.195618 42.210643  -2.195618 42.210644  -2.195618 42.210646  -2.195618 42.210648  -2.195619 42.210649  -2.195620 42.210651  -2.195621 42.210653  -2.195622 42.210654  -2.195623 42.210655  -2.195625 42.210656  -2.195627 42.210657  -2.195629 42.210658  -2.195631 42.210658  -2.195676 42.210665  -2.195668 42.210695  -2.195812 42.210716  -2.195836 42.210622  -2.195756 42.210611  -2.195711 42.210604  -2.195692 42.210601  -2.195692 42.210603  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850938">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237620 42.211785 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237411 42.211927 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237544 42.211895  -2.237569 42.211927  -2.237620 42.211893  -2.237536 42.211785  -2.237476 42.211807  -2.237411 42.211834  -2.237489 42.211926  -2.237544 42.211895  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850939">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194626 42.211353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194409 42.211461 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194409 42.211461  -2.194536 42.211430  -2.194544 42.211382  -2.194588 42.211380  -2.194589 42.211417  -2.194624 42.211417  -2.194626 42.211355  -2.194545 42.211353  -2.194540 42.211359  -2.194414 42.211360  -2.194412 42.211405  -2.194409 42.211461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850940">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194183 42.211072 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194008 42.211206 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194183 42.211190  -2.194173 42.211098  -2.194120 42.211100  -2.194117 42.211072  -2.194062 42.211075  -2.194068 42.211106  -2.194008 42.211112  -2.194026 42.211206  -2.194183 42.211190  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850941">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195549 42.210409 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195367 42.210564 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195511 42.210564  -2.195549 42.210463  -2.195480 42.210448  -2.195489 42.210423  -2.195434 42.210409  -2.195423 42.210436  -2.195401 42.210432  -2.195367 42.210534  -2.195511 42.210564  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850942">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195718 42.210576 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195681 42.210604 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195692 42.210603  -2.195692 42.210601  -2.195711 42.210604  -2.195718 42.210580  -2.195688 42.210576  -2.195681 42.210602  -2.195691 42.210603  -2.195692 42.210603  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850943">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196425 42.210647 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196309 42.210742 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196417 42.210728  -2.196425 42.210653  -2.196319 42.210647  -2.196309 42.210742  -2.196415 42.210742  -2.196417 42.210728  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850944">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196275 42.210687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196201 42.210736 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196202 42.210693  -2.196201 42.210736  -2.196273 42.210734  -2.196275 42.210687  -2.196202 42.210693  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850945">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197532 42.210556 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197239 42.210702 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197532 42.210700  -2.197529 42.210585  -2.197443 42.210585  -2.197444 42.210556  -2.197239 42.210557  -2.197240 42.210662  -2.197421 42.210661  -2.197421 42.210702  -2.197532 42.210700  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850946">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197169 42.210860 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196963 42.210968 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196963 42.210860  -2.196964 42.210920  -2.196970 42.210968  -2.197169 42.210961  -2.197165 42.210868  -2.196963 42.210860  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850947">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194179 42.211809 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194036 42.211894 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194148 42.211809  -2.194079 42.211826  -2.194085 42.211841  -2.194036 42.211854  -2.194057 42.211894  -2.194109 42.211878  -2.194116 42.211890  -2.194179 42.211872  -2.194148 42.211809  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850948">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194414 42.211358 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194354 42.211408 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194414 42.211360  -2.194354 42.211358  -2.194361 42.211408  -2.194412 42.211405  -2.194414 42.211360  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850949">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197651 42.211301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197573 42.211362 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197573 42.211301  -2.197586 42.211362  -2.197647 42.211359  -2.197651 42.211311  -2.197573 42.211301  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850950">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194595 42.208359 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194422 42.208449 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194580 42.208449  -2.194595 42.208404  -2.194544 42.208392  -2.194547 42.208374  -2.194530 42.208359  -2.194496 42.208359  -2.194485 42.208379  -2.194483 42.208386  -2.194451 42.208384  -2.194445 42.208371  -2.194424 42.208374  -2.194422 42.208420  -2.194580 42.208449  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850951">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194607 42.208451 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194519 42.208543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194607 42.208461  -2.194546 42.208451  -2.194519 42.208531  -2.194577 42.208543  -2.194607 42.208461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850952">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194577 42.208531 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194490 42.208626 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194577 42.208543  -2.194519 42.208531  -2.194490 42.208619  -2.194550 42.208626  -2.194577 42.208543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850953">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238003 42.210759 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237929 42.210840 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238000 42.210840  -2.238003 42.210762  -2.237930 42.210759  -2.237929 42.210837  -2.238000 42.210840  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850954">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238223 42.211472 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238146 42.211527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238146 42.211491  -2.238179 42.211527  -2.238223 42.211503  -2.238175 42.211472  -2.238146 42.211491  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850955">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237245 42.211003 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237127 42.211090 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237245 42.211068  -2.237241 42.211024  -2.237183 42.211003  -2.237127 42.211062  -2.237167 42.211081  -2.237183 42.211073  -2.237216 42.211090  -2.237245 42.211068  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850956">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.251129 42.204160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.251003 42.204291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.251072 42.204291  -2.251129 42.204186  -2.251061 42.204160  -2.251003 42.204269  -2.251072 42.204291  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850957">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.251077 42.204292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.250977 42.204392 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.251055 42.204392  -2.251077 42.204306  -2.250995 42.204292  -2.250977 42.204372  -2.251055 42.204392  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850958">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.249857 42.210461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.249488 42.210659 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.249812 42.210659  -2.249857 42.210603  -2.249533 42.210461  -2.249488 42.210517  -2.249812 42.210659  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850959">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.249624 42.210915 </gml:lowerCorner>
+        		<gml:upperCorner>-2.249028 42.211356 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.249624 42.211300  -2.249112 42.210915  -2.249028 42.210962  -2.249525 42.211356  -2.249624 42.211300  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850960">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196403 42.211023 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196350 42.211085 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196359 42.211085  -2.196403 42.211085  -2.196402 42.211045  -2.196401 42.211023  -2.196352 42.211025  -2.196350 42.211073  -2.196359 42.211085  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850961">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196363 42.211059 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196114 42.211115 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196118 42.211071  -2.196114 42.211059  -2.196116 42.211071  -2.196120 42.211115  -2.196247 42.211114  -2.196363 42.211112  -2.196359 42.211085  -2.196350 42.211073  -2.196118 42.211071  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850962">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235008 42.211969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234923 42.212038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234947 42.212006  -2.234964 42.212038  -2.235008 42.212023  -2.234975 42.211969  -2.234923 42.211969  -2.234947 42.212006  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850963">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238628 42.211669 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238418 42.211824 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238542 42.211824  -2.238628 42.211765  -2.238510 42.211669  -2.238483 42.211687  -2.238473 42.211679  -2.238425 42.211712  -2.238430 42.211716  -2.238418 42.211723  -2.238542 42.211824  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850964">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195966 42.211139 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195771 42.211302 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195778 42.211267  -2.195771 42.211302  -2.195869 42.211300  -2.195867 42.211293  -2.195862 42.211267  -2.195853 42.211235  -2.195851 42.211214  -2.195877 42.211210  -2.195879 42.211210  -2.195880 42.211189  -2.195963 42.211196  -2.195966 42.211155  -2.195861 42.211147  -2.195807 42.211139  -2.195789 42.211213  -2.195778 42.211267  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850965">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239085 42.211446 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238872 42.211607 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238872 42.211547  -2.238948 42.211607  -2.238996 42.211574  -2.239020 42.211557  -2.239075 42.211520  -2.239085 42.211506  -2.239018 42.211453  -2.239019 42.211446  -2.238872 42.211547  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850966">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241564 42.209541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241322 42.209683 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241322 42.209613  -2.241501 42.209677  -2.241518 42.209683  -2.241561 42.209615  -2.241564 42.209611  -2.241368 42.209541  -2.241322 42.209613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850967">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237788 42.211985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237562 42.212127 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237669 42.211989  -2.237563 42.212058  -2.237562 42.212073  -2.237626 42.212127  -2.237741 42.212052  -2.237788 42.212021  -2.237747 42.211985  -2.237700 42.212015  -2.237669 42.211989  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850968">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239968 42.211081 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239732 42.211216 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239809 42.211114  -2.239822 42.211141  -2.239732 42.211165  -2.239757 42.211216  -2.239968 42.211158  -2.239930 42.211081  -2.239809 42.211114  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850969">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195081 42.210935 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194836 42.211037 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195026 42.211035  -2.195026 42.211035  -2.195052 42.211037  -2.195078 42.211034  -2.195081 42.210957  -2.195077 42.210935  -2.195060 42.210937  -2.195064 42.210955  -2.195022 42.210954  -2.195017 42.210988  -2.195015 42.211000  -2.194961 42.210993  -2.194966 42.210962  -2.194851 42.210954  -2.194836 42.211028  -2.194958 42.211028  -2.195026 42.211035  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850970">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239006 42.211048 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238805 42.211173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238805 42.211088  -2.238805 42.211088  -2.238805 42.211088  -2.238841 42.211173  -2.239006 42.211134  -2.238976 42.211063  -2.238968 42.211048  -2.238805 42.211088  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850971">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235852 42.211821 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235646 42.211978 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235852 42.211925  -2.235820 42.211905  -2.235831 42.211896  -2.235804 42.211874  -2.235729 42.211821  -2.235646 42.211881  -2.235731 42.211938  -2.235751 42.211952  -2.235790 42.211978  -2.235791 42.211977  -2.235852 42.211925  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850972">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242401 42.205779 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242195 42.205922 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242320 42.205922  -2.242401 42.205852  -2.242262 42.205779  -2.242227 42.205819  -2.242238 42.205824  -2.242195 42.205875  -2.242228 42.205887  -2.242320 42.205922  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850973">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196635 42.210624 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196417 42.210728 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196428 42.210624  -2.196425 42.210653  -2.196417 42.210728  -2.196513 42.210725  -2.196513 42.210725  -2.196630 42.210724  -2.196635 42.210677  -2.196517 42.210676  -2.196522 42.210636  -2.196428 42.210624  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850974">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239207 42.212114 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238968 42.212246 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239023 42.212114  -2.238974 42.212145  -2.238968 42.212148  -2.239060 42.212229  -2.239058 42.212244  -2.239095 42.212246  -2.239097 42.212232  -2.239207 42.212162  -2.239159 42.212120  -2.239084 42.212168  -2.239023 42.212114  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850975">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241855 42.206852 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241699 42.207054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241855 42.206862  -2.241854 42.206857  -2.241851 42.206854  -2.241847 42.206852  -2.241843 42.206852  -2.241840 42.206853  -2.241836 42.206857  -2.241699 42.207025  -2.241814 42.207054  -2.241831 42.207008  -2.241843 42.206963  -2.241855 42.206862  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850976">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237415 42.212200 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237195 42.212348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237415 42.212272  -2.237348 42.212200  -2.237195 42.212300  -2.237223 42.212338  -2.237231 42.212348  -2.237262 42.212335  -2.237339 42.212303  -2.237415 42.212272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850977">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241763 42.207131 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241577 42.207257 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241643 42.207131  -2.241577 42.207221  -2.241613 42.207230  -2.241731 42.207257  -2.241763 42.207177  -2.241752 42.207162  -2.241754 42.207156  -2.241643 42.207131  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850978">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237196 42.212729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236997 42.212867 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237117 42.212729  -2.237096 42.212738  -2.237065 42.212764  -2.237046 42.212752  -2.236997 42.212795  -2.237110 42.212867  -2.237160 42.212823  -2.237195 42.212794  -2.237187 42.212788  -2.237196 42.212780  -2.237117 42.212729  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850979">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236955 42.212561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236750 42.212723 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236955 42.212674  -2.236916 42.212645  -2.236849 42.212593  -2.236808 42.212561  -2.236750 42.212621  -2.236886 42.212723  -2.236955 42.212674  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850980">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239422 42.210781 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239235 42.210916 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239361 42.210785  -2.239349 42.210791  -2.239344 42.210803  -2.239243 42.210828  -2.239235 42.210830  -2.239274 42.210916  -2.239422 42.210879  -2.239385 42.210793  -2.239380 42.210781  -2.239361 42.210785  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850981">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238223 42.211813 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238025 42.211957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238101 42.211813  -2.238025 42.211883  -2.238146 42.211957  -2.238223 42.211888  -2.238101 42.211813  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850982">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237519 42.211834 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237344 42.212009 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237411 42.211834  -2.237344 42.211885  -2.237446 42.212009  -2.237519 42.211960  -2.237489 42.211926  -2.237411 42.211834  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850983">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.198054 42.210722 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197738 42.210805 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197753 42.210759  -2.197762 42.210805  -2.197894 42.210799  -2.197899 42.210799  -2.197951 42.210805  -2.197951 42.210805  -2.198043 42.210801  -2.198054 42.210763  -2.197955 42.210762  -2.197888 42.210758  -2.197837 42.210759  -2.197805 42.210760  -2.197804 42.210739  -2.197774 42.210739  -2.197771 42.210722  -2.197738 42.210722  -2.197746 42.210757  -2.197752 42.210757  -2.197753 42.210759  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850984">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242157 42.207186 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242013 42.207340 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242144 42.207219  -2.242100 42.207202  -2.242092 42.207199  -2.242059 42.207186  -2.242013 42.207319  -2.242116 42.207340  -2.242157 42.207224  -2.242144 42.207219  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850985">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237985 42.211229 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237829 42.211370 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237832 42.211312  -2.237851 42.211349  -2.237929 42.211370  -2.237985 42.211353  -2.237919 42.211229  -2.237829 42.211256  -2.237855 42.211306  -2.237832 42.211312  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850986">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196823 42.210630 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196661 42.210729 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196746 42.210654  -2.196747 42.210631  -2.196671 42.210630  -2.196666 42.210652  -2.196661 42.210728  -2.196737 42.210728  -2.196820 42.210729  -2.196823 42.210655  -2.196746 42.210654  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850987">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235232 42.212144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235032 42.212349 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235232 42.212317  -2.235230 42.212311  -2.235200 42.212321  -2.235083 42.212144  -2.235041 42.212165  -2.235032 42.212175  -2.235045 42.212196  -2.235141 42.212349  -2.235176 42.212337  -2.235232 42.212317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850988">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235600 42.211568 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235399 42.211716 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235600 42.211611  -2.235553 42.211568  -2.235502 42.211595  -2.235399 42.211660  -2.235462 42.211716  -2.235560 42.211648  -2.235600 42.211611  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850989">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236578 42.212897 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236423 42.213069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236463 42.213005  -2.236477 42.213031  -2.236477 42.213032  -2.236482 42.213031  -2.236517 42.213069  -2.236578 42.213041  -2.236501 42.212899  -2.236500 42.212897  -2.236423 42.212926  -2.236432 42.212943  -2.236463 42.213005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850990">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236834 42.211728 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236676 42.211860 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236822 42.211728  -2.236680 42.211737  -2.236676 42.211860  -2.236684 42.211859  -2.236765 42.211842  -2.236769 42.211779  -2.236834 42.211775  -2.236822 42.211728  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850991">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236652 42.212274 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236399 42.212405 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236652 42.212366  -2.236632 42.212335  -2.236515 42.212360  -2.236472 42.212274  -2.236399 42.212293  -2.236449 42.212372  -2.236483 42.212405  -2.236629 42.212372  -2.236652 42.212366  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850992">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242198 42.207005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242027 42.207199 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242149 42.207005  -2.242027 42.207173  -2.242059 42.207186  -2.242092 42.207199  -2.242182 42.207079  -2.242157 42.207069  -2.242169 42.207051  -2.242172 42.207053  -2.242183 42.207038  -2.242188 42.207040  -2.242198 42.207025  -2.242149 42.207005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850993">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195785 42.211123 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195650 42.211245 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195650 42.211168  -2.195654 42.211233  -2.195744 42.211245  -2.195777 42.211160  -2.195777 42.211159  -2.195785 42.211133  -2.195657 42.211123  -2.195650 42.211168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850994">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241368 42.206740 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241183 42.206880 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241269 42.206740  -2.241183 42.206795  -2.241282 42.206880  -2.241368 42.206824  -2.241269 42.206740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850995">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237644 42.213525 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237480 42.213650 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237499 42.213627  -2.237583 42.213650  -2.237598 42.213649  -2.237644 42.213557  -2.237528 42.213525  -2.237480 42.213622  -2.237499 42.213627  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850996">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238386 42.211132 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238238 42.211277 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238349 42.211169  -2.238333 42.211132  -2.238238 42.211155  -2.238294 42.211277  -2.238386 42.211255  -2.238349 42.211169  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850997">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195243 42.210850 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195102 42.211006 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195104 42.210909  -2.195112 42.210953  -2.195109 42.210984  -2.195164 42.210996  -2.195224 42.211006  -2.195243 42.210948  -2.195240 42.210948  -2.195243 42.210926  -2.195177 42.210915  -2.195177 42.210920  -2.195143 42.210917  -2.195147 42.210851  -2.195103 42.210850  -2.195102 42.210885  -2.195104 42.210909  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850998">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239306 42.211223 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239112 42.211378 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239134 42.211287  -2.239190 42.211378  -2.239306 42.211338  -2.239278 42.211295  -2.239247 42.211249  -2.239230 42.211223  -2.239112 42.211254  -2.239134 42.211287  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3850999">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238511 42.211061 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238319 42.211169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238399 42.211080  -2.238319 42.211099  -2.238333 42.211132  -2.238349 42.211169  -2.238511 42.211130  -2.238481 42.211061  -2.238399 42.211080  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851000">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236750 42.213698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236481 42.213759 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236711 42.213757  -2.236750 42.213759  -2.236749 42.213716  -2.236595 42.213705  -2.236489 42.213698  -2.236481 42.213754  -2.236548 42.213757  -2.236549 42.213746  -2.236633 42.213753  -2.236649 42.213754  -2.236711 42.213757  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851001">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.243432 42.205395 </gml:lowerCorner>
+        		<gml:upperCorner>-2.243277 42.205525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.243277 42.205426  -2.243323 42.205525  -2.243432 42.205498  -2.243386 42.205395  -2.243277 42.205426  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851002">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237794 42.211089 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237659 42.211180 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237659 42.211173  -2.237659 42.211180  -2.237794 42.211180  -2.237793 42.211089  -2.237659 42.211090  -2.237659 42.211173  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851003">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197121 42.211201 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196918 42.211345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197057 42.211299  -2.197044 42.211262  -2.197093 42.211250  -2.197094 42.211252  -2.197121 42.211245  -2.197100 42.211201  -2.197041 42.211217  -2.197016 42.211224  -2.197017 42.211228  -2.197036 42.211267  -2.196975 42.211284  -2.196973 42.211281  -2.196918 42.211292  -2.196920 42.211297  -2.196935 42.211345  -2.197021 42.211334  -2.197023 42.211340  -2.197069 42.211332  -2.197057 42.211299  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851004">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237425 42.211968 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237235 42.212101 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237294 42.212101  -2.237425 42.212023  -2.237376 42.211968  -2.237292 42.212009  -2.237235 42.212036  -2.237251 42.212053  -2.237276 42.212081  -2.237294 42.212101  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851005">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237913 42.211646 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237716 42.211786 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237716 42.211719  -2.237783 42.211786  -2.237913 42.211700  -2.237895 42.211682  -2.237854 42.211706  -2.237834 42.211686  -2.237876 42.211663  -2.237858 42.211646  -2.237833 42.211658  -2.237716 42.211719  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851006">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194930 42.211173 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194778 42.211260 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194930 42.211174  -2.194778 42.211173  -2.194781 42.211235  -2.194854 42.211260  -2.194925 42.211260  -2.194926 42.211248  -2.194926 42.211248  -2.194930 42.211174  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851007">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238298 42.212445 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238104 42.212562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238298 42.212507  -2.238243 42.212445  -2.238104 42.212513  -2.238146 42.212562  -2.238174 42.212548  -2.238185 42.212562  -2.238298 42.212507  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851008">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239155 42.211028 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238976 42.211134 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238976 42.211063  -2.239006 42.211134  -2.239011 42.211133  -2.239155 42.211099  -2.239122 42.211028  -2.239106 42.211031  -2.239106 42.211031  -2.239052 42.211045  -2.238976 42.211063  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851009">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236430 42.212518 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236303 42.212620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236303 42.212544  -2.236352 42.212620  -2.236430 42.212590  -2.236409 42.212564  -2.236384 42.212534  -2.236371 42.212518  -2.236332 42.212534  -2.236303 42.212544  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851010">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240705 42.208851 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240542 42.208982 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240542 42.208945  -2.240639 42.208982  -2.240705 42.208889  -2.240608 42.208851  -2.240542 42.208945  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851011">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196093 42.210907 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195844 42.211058 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195881 42.211058  -2.195967 42.211053  -2.195965 42.211038  -2.196090 42.211031  -2.196093 42.211031  -2.196093 42.211031  -2.196085 42.210952  -2.196085 42.210952  -2.196081 42.210912  -2.196029 42.210916  -2.196028 42.210916  -2.196029 42.210918  -2.196027 42.210922  -2.195955 42.210926  -2.195954 42.210922  -2.195953 42.210907  -2.195868 42.210913  -2.195866 42.210913  -2.195844 42.210953  -2.195853 42.211043  -2.195853 42.211043  -2.195879 42.211042  -2.195881 42.211058  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851012">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236046 42.211846 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235901 42.212012 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235988 42.211938  -2.235994 42.211940  -2.235958 42.212001  -2.235997 42.212012  -2.236031 42.211953  -2.236032 42.211951  -2.236046 42.211926  -2.236029 42.211873  -2.235951 42.211846  -2.235927 42.211877  -2.235901 42.211909  -2.235988 42.211938  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851013">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240881 42.206910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240699 42.207051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240856 42.206986  -2.240765 42.206910  -2.240720 42.206940  -2.240699 42.206953  -2.240815 42.207051  -2.240881 42.207008  -2.240856 42.206986  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851014">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235695 42.212331 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235513 42.212419 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235604 42.212337  -2.235534 42.212331  -2.235513 42.212418  -2.235558 42.212419  -2.235568 42.212376  -2.235611 42.212379  -2.235601 42.212415  -2.235689 42.212417  -2.235695 42.212353  -2.235624 42.212339  -2.235604 42.212337  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851015">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237276 42.212338 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237101 42.212458 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237150 42.212458  -2.237241 42.212423  -2.237276 42.212409  -2.237261 42.212390  -2.237231 42.212348  -2.237223 42.212338  -2.237101 42.212389  -2.237107 42.212397  -2.237127 42.212425  -2.237150 42.212458  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851016">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240817 42.206953 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240647 42.207097 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240750 42.207097  -2.240817 42.207052  -2.240815 42.207051  -2.240699 42.206953  -2.240647 42.207012  -2.240717 42.207069  -2.240735 42.207085  -2.240750 42.207097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851017">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235996 42.213209 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235799 42.213310 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235967 42.213225  -2.235956 42.213224  -2.235856 42.213209  -2.235799 42.213281  -2.235862 42.213310  -2.235863 42.213296  -2.235880 42.213296  -2.235902 42.213301  -2.235907 42.213297  -2.235942 42.213261  -2.235971 42.213275  -2.235982 42.213260  -2.235996 42.213238  -2.235967 42.213225  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851018">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197772 42.210757 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197626 42.210852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197762 42.210805  -2.197753 42.210759  -2.197752 42.210757  -2.197746 42.210757  -2.197747 42.210761  -2.197626 42.210765  -2.197645 42.210852  -2.197772 42.210848  -2.197762 42.210805  -2.197762 42.210805  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851019">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240639 42.208945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240479 42.209072 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240542 42.208945  -2.240479 42.209034  -2.240575 42.209072  -2.240639 42.208982  -2.240542 42.208945  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851020">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.203031 42.207252 </gml:lowerCorner>
+        		<gml:upperCorner>-2.202646 42.207537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.202963 42.207537  -2.203031 42.207490  -2.202701 42.207252  -2.202646 42.207292  -2.202963 42.207537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851021">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.202753 42.207332 </gml:lowerCorner>
+        		<gml:upperCorner>-2.202558 42.207476 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.202753 42.207443  -2.202607 42.207332  -2.202558 42.207367  -2.202705 42.207476  -2.202753 42.207443  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851022">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.204989 42.208788 </gml:lowerCorner>
+        		<gml:upperCorner>-2.204798 42.208907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.204953 42.208907  -2.204989 42.208824  -2.204828 42.208788  -2.204798 42.208858  -2.204953 42.208907  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851023">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.204828 42.208765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.204705 42.208858 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.204828 42.208788  -2.204732 42.208765  -2.204705 42.208834  -2.204798 42.208858  -2.204828 42.208788  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851024">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.205541 42.208887 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205231 42.208997 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.205519 42.208997  -2.205541 42.208940  -2.205245 42.208887  -2.205231 42.208950  -2.205519 42.208997  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851025">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.205723 42.208940 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205519 42.209038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.205519 42.208997  -2.205706 42.209038  -2.205723 42.208969  -2.205541 42.208940  -2.205519 42.208997  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851026">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.253592 42.215411 </gml:lowerCorner>
+        		<gml:upperCorner>-2.253220 42.215633 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.253592 42.215441  -2.253555 42.215411  -2.253502 42.215413  -2.253220 42.215582  -2.253280 42.215633  -2.253592 42.215441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851027">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236496 42.211509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236410 42.211584 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236410 42.211558  -2.236443 42.211584  -2.236444 42.211584  -2.236454 42.211573  -2.236496 42.211533  -2.236458 42.211509  -2.236451 42.211514  -2.236449 42.211515  -2.236410 42.211558  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851028">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236587 42.211519 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236444 42.211626 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236444 42.211584  -2.236495 42.211626  -2.236572 42.211613  -2.236569 42.211593  -2.236587 42.211579  -2.236587 42.211579  -2.236587 42.211579  -2.236553 42.211550  -2.236539 42.211538  -2.236517 42.211519  -2.236496 42.211533  -2.236454 42.211573  -2.236444 42.211584  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851029">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237924 42.212516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237735 42.212624 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237797 42.212521  -2.237794 42.212518  -2.237735 42.212546  -2.237802 42.212624  -2.237911 42.212571  -2.237914 42.212570  -2.237917 42.212569  -2.237920 42.212567  -2.237921 42.212566  -2.237923 42.212564  -2.237924 42.212563  -2.237924 42.212562  -2.237924 42.212561  -2.237924 42.212559  -2.237923 42.212558  -2.237923 42.212556  -2.237921 42.212554  -2.237887 42.212516  -2.237820 42.212548  -2.237797 42.212521  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851030">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239028 42.211304 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238856 42.211415 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238971 42.211310  -2.238965 42.211311  -2.238967 42.211315  -2.238884 42.211337  -2.238856 42.211345  -2.238890 42.211415  -2.239028 42.211377  -2.238994 42.211308  -2.238992 42.211304  -2.238971 42.211310  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851031">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194774 42.211230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194633 42.211349 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194675 42.211347  -2.194765 42.211349  -2.194774 42.211295  -2.194738 42.211292  -2.194743 42.211272  -2.194749 42.211246  -2.194706 42.211236  -2.194636 42.211230  -2.194633 42.211286  -2.194680 42.211288  -2.194684 42.211288  -2.194680 42.211305  -2.194675 42.211347  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851032">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236500 42.212832 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236305 42.212970 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236396 42.212880  -2.236338 42.212906  -2.236305 42.212920  -2.236365 42.212970  -2.236385 42.212960  -2.236371 42.212946  -2.236423 42.212926  -2.236500 42.212897  -2.236479 42.212856  -2.236466 42.212851  -2.236414 42.212832  -2.236396 42.212880  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851033">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195261 42.211073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195125 42.211188 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195136 42.211185  -2.195196 42.211188  -2.195261 42.211182  -2.195248 42.211131  -2.195244 42.211110  -2.195249 42.211074  -2.195225 42.211073  -2.195221 42.211106  -2.195194 42.211107  -2.195169 42.211104  -2.195177 42.211081  -2.195154 42.211076  -2.195145 42.211094  -2.195125 42.211131  -2.195125 42.211132  -2.195128 42.211126  -2.195139 42.211128  -2.195136 42.211140  -2.195136 42.211185  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851034">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237326 42.211416 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237157 42.211515 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237326 42.211461  -2.237313 42.211416  -2.237303 42.211418  -2.237301 42.211416  -2.237244 42.211433  -2.237235 42.211436  -2.237228 42.211437  -2.237212 42.211441  -2.237206 42.211442  -2.237183 42.211447  -2.237183 42.211447  -2.237157 42.211449  -2.237177 42.211515  -2.237183 42.211515  -2.237214 42.211506  -2.237326 42.211461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851035">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235348 42.211934 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235218 42.212075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235332 42.211981  -2.235292 42.211955  -2.235259 42.211934  -2.235218 42.212042  -2.235232 42.212047  -2.235252 42.212053  -2.235276 42.212061  -2.235295 42.212068  -2.235319 42.212075  -2.235331 42.212039  -2.235348 42.211985  -2.235332 42.211981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851036">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237025 42.212458 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236859 42.212582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237005 42.212511  -2.236989 42.212495  -2.236971 42.212477  -2.236952 42.212458  -2.236859 42.212519  -2.236877 42.212536  -2.236894 42.212552  -2.236869 42.212569  -2.236876 42.212575  -2.236883 42.212582  -2.236941 42.212545  -2.236954 42.212557  -2.236976 42.212578  -2.237025 42.212547  -2.236993 42.212519  -2.237005 42.212511  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851037">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196040 42.210679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195915 42.210790 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196021 42.210790  -2.196040 42.210691  -2.195993 42.210686  -2.195993 42.210686  -2.195934 42.210679  -2.195915 42.210775  -2.196021 42.210790  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851038">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235202 42.213176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235019 42.213275 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235078 42.213269  -2.235085 42.213275  -2.235144 42.213260  -2.235146 42.213263  -2.235202 42.213266  -2.235181 42.213237  -2.235127 42.213176  -2.235094 42.213198  -2.235072 42.213179  -2.235019 42.213190  -2.235034 42.213221  -2.235036 42.213225  -2.235078 42.213269  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851039">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233975 42.212251 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233768 42.212347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233791 42.212347  -2.233791 42.212347  -2.233975 42.212322  -2.233973 42.212315  -2.233928 42.212321  -2.233909 42.212266  -2.233953 42.212256  -2.233952 42.212251  -2.233768 42.212283  -2.233768 42.212283  -2.233791 42.212347  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851040">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241684 42.207364 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241525 42.207468 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241684 42.207392  -2.241557 42.207364  -2.241526 42.207439  -2.241525 42.207440  -2.241645 42.207468  -2.241684 42.207392  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851041">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239977 42.210444 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239803 42.210627 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239849 42.210491  -2.239874 42.210502  -2.239839 42.210550  -2.239825 42.210569  -2.239803 42.210598  -2.239818 42.210604  -2.239816 42.210605  -2.239870 42.210627  -2.239977 42.210482  -2.239924 42.210460  -2.239885 42.210444  -2.239849 42.210491  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851042">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196937 42.210754 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196729 42.210862 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196729 42.210859  -2.196780 42.210862  -2.196796 42.210839  -2.196823 42.210797  -2.196936 42.210789  -2.196937 42.210754  -2.196794 42.210769  -2.196792 42.210783  -2.196731 42.210783  -2.196729 42.210859  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851043">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197361 42.210744 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197210 42.210832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197227 42.210832  -2.197321 42.210831  -2.197318 42.210789  -2.197351 42.210788  -2.197352 42.210783  -2.197361 42.210744  -2.197314 42.210746  -2.197210 42.210751  -2.197213 42.210772  -2.197215 42.210786  -2.197223 42.210786  -2.197227 42.210832  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851044">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237482 42.211097 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237326 42.211229 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237359 42.211142  -2.237326 42.211217  -2.237462 42.211229  -2.237473 42.211151  -2.237482 42.211112  -2.237378 42.211097  -2.237359 42.211142  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851045">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235974 42.213015 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235795 42.213171 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235900 42.213153  -2.235950 42.213171  -2.235974 42.213135  -2.235955 42.213126  -2.235914 42.213074  -2.235854 42.213015  -2.235835 42.213029  -2.235816 42.213044  -2.235795 42.213064  -2.235822 42.213083  -2.235820 42.213085  -2.235855 42.213113  -2.235880 42.213095  -2.235925 42.213137  -2.235900 42.213153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851046">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194302 42.211393 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193984 42.211556 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.193984 42.211525  -2.193997 42.211537  -2.194022 42.211556  -2.194119 42.211485  -2.194181 42.211475  -2.194217 42.211467  -2.194218 42.211467  -2.194241 42.211462  -2.194254 42.211462  -2.194269 42.211465  -2.194302 42.211464  -2.194293 42.211393  -2.194250 42.211400  -2.194254 42.211414  -2.194223 42.211419  -2.194209 42.211421  -2.194206 42.211421  -2.194188 42.211426  -2.194166 42.211430  -2.194154 42.211398  -2.194069 42.211416  -2.194088 42.211441  -2.194092 42.211447  -2.194093 42.211447  -2.194101 42.211458  -2.194063 42.211481  -2.193984 42.211525  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851047">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237215 42.211696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237053 42.211824 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237053 42.211770  -2.237091 42.211808  -2.237102 42.211824  -2.237103 42.211823  -2.237105 42.211821  -2.237132 42.211801  -2.237172 42.211772  -2.237175 42.211774  -2.237215 42.211744  -2.237198 42.211731  -2.237162 42.211696  -2.237144 42.211703  -2.237053 42.211770  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851048">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235884 42.212146 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235711 42.212252 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235872 42.212193  -2.235884 42.212182  -2.235820 42.212146  -2.235804 42.212163  -2.235775 42.212147  -2.235749 42.212174  -2.235711 42.212210  -2.235764 42.212231  -2.235818 42.212252  -2.235833 42.212225  -2.235834 42.212224  -2.235866 42.212190  -2.235872 42.212193  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851049">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235362 42.212773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235273 42.212937 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235362 42.212773  -2.235362 42.212773  -2.235292 42.212790  -2.235273 42.212919  -2.235313 42.212937  -2.235315 42.212933  -2.235346 42.212877  -2.235353 42.212851  -2.235354 42.212849  -2.235362 42.212773  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236527 42.212614 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236375 42.212731 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236375 42.212688  -2.236407 42.212704  -2.236411 42.212700  -2.236485 42.212731  -2.236527 42.212648  -2.236451 42.212615  -2.236450 42.212614  -2.236401 42.212663  -2.236376 42.212688  -2.236375 42.212688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851051">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237008 42.213262 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236864 42.213398 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236864 42.213396  -2.236871 42.213396  -2.236889 42.213398  -2.236947 42.213395  -2.236953 42.213351  -2.236973 42.213338  -2.236984 42.213341  -2.236992 42.213326  -2.237008 42.213297  -2.236915 42.213262  -2.236864 42.213396  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851052">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196719 42.211147 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196576 42.211222 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196580 42.211193  -2.196582 42.211197  -2.196584 42.211222  -2.196719 42.211217  -2.196710 42.211149  -2.196628 42.211152  -2.196613 42.211152  -2.196612 42.211147  -2.196612 42.211147  -2.196580 42.211148  -2.196576 42.211160  -2.196578 42.211175  -2.196580 42.211193  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851053">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236912 42.211876 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236755 42.211983 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236758 42.211922  -2.236759 42.211922  -2.236802 42.211919  -2.236863 42.211983  -2.236912 42.211958  -2.236878 42.211876  -2.236755 42.211885  -2.236758 42.211922  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851054">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238025 42.211583 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237858 42.211700 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237858 42.211646  -2.237876 42.211663  -2.237895 42.211682  -2.237913 42.211700  -2.238025 42.211627  -2.237979 42.211583  -2.237858 42.211646  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851055">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237144 42.211655 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236980 42.211770 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237070 42.211655  -2.236980 42.211724  -2.237053 42.211770  -2.237144 42.211703  -2.237087 42.211666  -2.237070 42.211655  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851056">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238780 42.211134 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238600 42.211225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238758 42.211134  -2.238600 42.211173  -2.238623 42.211225  -2.238780 42.211187  -2.238758 42.211134  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851057">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236888 42.211579 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236737 42.211670 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236888 42.211657  -2.236863 42.211579  -2.236737 42.211594  -2.236752 42.211637  -2.236779 42.211632  -2.236792 42.211670  -2.236888 42.211657  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851058">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238365 42.211696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238177 42.211827 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238177 42.211796  -2.238226 42.211827  -2.238365 42.211730  -2.238346 42.211716  -2.238321 42.211696  -2.238283 42.211723  -2.238250 42.211746  -2.238216 42.211770  -2.238177 42.211796  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851059">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236784 42.213095 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236591 42.213238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236784 42.213204  -2.236633 42.213095  -2.236591 42.213123  -2.236733 42.213224  -2.236752 42.213238  -2.236784 42.213204  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851060">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195340 42.210864 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195177 42.210957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195177 42.210915  -2.195243 42.210926  -2.195240 42.210948  -2.195243 42.210948  -2.195318 42.210957  -2.195325 42.210945  -2.195331 42.210924  -2.195340 42.210896  -2.195336 42.210895  -2.195261 42.210876  -2.195204 42.210864  -2.195198 42.210899  -2.195177 42.210897  -2.195177 42.210915  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851061">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235667 42.212467 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235519 42.212537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235641 42.212528  -2.235667 42.212526  -2.235666 42.212506  -2.235663 42.212473  -2.235565 42.212469  -2.235519 42.212467  -2.235524 42.212537  -2.235559 42.212534  -2.235641 42.212528  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851062">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196974 42.210881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196856 42.211004 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196964 42.210920  -2.196919 42.210924  -2.196907 42.210884  -2.196906 42.210881  -2.196856 42.210896  -2.196858 42.210903  -2.196884 42.210988  -2.196885 42.210991  -2.196974 42.211004  -2.196970 42.210968  -2.196964 42.210920  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851063">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197037 42.211334 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196854 42.211410 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197023 42.211340  -2.197021 42.211334  -2.196935 42.211345  -2.196935 42.211345  -2.196854 42.211360  -2.196866 42.211389  -2.196871 42.211403  -2.196874 42.211410  -2.196901 42.211403  -2.196932 42.211398  -2.196964 42.211392  -2.196984 42.211392  -2.197009 42.211393  -2.197037 42.211395  -2.197023 42.211340  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851064">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235697 42.212376 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235558 42.212475 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235673 42.212474  -2.235697 42.212475  -2.235697 42.212468  -2.235692 42.212469  -2.235690 42.212417  -2.235689 42.212417  -2.235601 42.212415  -2.235611 42.212379  -2.235568 42.212376  -2.235558 42.212419  -2.235563 42.212420  -2.235565 42.212469  -2.235663 42.212473  -2.235673 42.212474  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851065">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235629 42.213070 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235515 42.213205 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235536 42.213203  -2.235554 42.213205  -2.235585 42.213167  -2.235597 42.213135  -2.235629 42.213085  -2.235535 42.213070  -2.235530 42.213127  -2.235522 42.213166  -2.235515 42.213201  -2.235536 42.213203  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851066">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236907 42.211455 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236788 42.211554 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236907 42.211554  -2.236888 42.211455  -2.236873 42.211456  -2.236788 42.211465  -2.236797 42.211535  -2.236893 42.211552  -2.236907 42.211554  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851067">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235230 42.212125 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235083 42.212321 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235148 42.212161  -2.235128 42.212126  -2.235121 42.212125  -2.235083 42.212144  -2.235200 42.212321  -2.235230 42.212311  -2.235217 42.212285  -2.235212 42.212286  -2.235210 42.212282  -2.235215 42.212281  -2.235196 42.212246  -2.235190 42.212248  -2.235188 42.212244  -2.235193 42.212242  -2.235171 42.212202  -2.235166 42.212204  -2.235163 42.212200  -2.235169 42.212198  -2.235150 42.212165  -2.235145 42.212167  -2.235143 42.212163  -2.235148 42.212161  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851068">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241508 42.206558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241374 42.206679 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241445 42.206558  -2.241374 42.206590  -2.241403 42.206630  -2.241399 42.206633  -2.241431 42.206679  -2.241476 42.206661  -2.241508 42.206645  -2.241496 42.206629  -2.241460 42.206579  -2.241445 42.206558  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851069">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235685 42.212154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235547 42.212279 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235685 42.212195  -2.235681 42.212187  -2.235681 42.212187  -2.235625 42.212154  -2.235547 42.212264  -2.235621 42.212279  -2.235630 42.212264  -2.235685 42.212195  -2.235685 42.212195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851070">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236485 42.212700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236366 42.212821 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236366 42.212754  -2.236381 42.212774  -2.236474 42.212821  -2.236485 42.212731  -2.236411 42.212700  -2.236407 42.212704  -2.236366 42.212754  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851071">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236061 42.212300 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235927 42.212374 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236061 42.212308  -2.236031 42.212306  -2.235928 42.212300  -2.235927 42.212370  -2.236036 42.212374  -2.236049 42.212338  -2.236057 42.212340  -2.236061 42.212330  -2.236061 42.212308  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851072">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195544 42.210965 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195464 42.211093 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195470 42.210965  -2.195464 42.211081  -2.195536 42.211093  -2.195540 42.211015  -2.195540 42.211014  -2.195544 42.210977  -2.195470 42.210965  -2.195470 42.210965  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851073">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235553 42.213561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235411 42.213688 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235490 42.213688  -2.235553 42.213662  -2.235473 42.213561  -2.235411 42.213585  -2.235490 42.213688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851074">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236389 42.213107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236244 42.213232 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236389 42.213168  -2.236384 42.213165  -2.236379 42.213168  -2.236361 42.213153  -2.236376 42.213142  -2.236331 42.213107  -2.236244 42.213181  -2.236303 42.213232  -2.236348 42.213186  -2.236367 42.213172  -2.236375 42.213177  -2.236389 42.213168  -2.236389 42.213168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851075">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238296 42.211648 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238106 42.211779 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238259 42.211648  -2.238157 42.211717  -2.238106 42.211752  -2.238149 42.211779  -2.238191 42.211750  -2.238225 42.211726  -2.238259 42.211703  -2.238296 42.211677  -2.238259 42.211648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851076">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235708 42.211934 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235361 42.212186 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235431 42.212159  -2.235490 42.212186  -2.235514 42.212149  -2.235549 42.212160  -2.235576 42.212124  -2.235577 42.212121  -2.235583 42.212124  -2.235590 42.212128  -2.235601 42.212134  -2.235603 42.212135  -2.235614 42.212141  -2.235643 42.212114  -2.235708 42.212053  -2.235651 42.212023  -2.235600 42.211996  -2.235549 42.211974  -2.235513 42.211958  -2.235466 42.211934  -2.235463 42.211936  -2.235393 42.211996  -2.235364 42.212018  -2.235372 42.212023  -2.235431 42.212056  -2.235428 42.212059  -2.235499 42.212095  -2.235494 42.212102  -2.235418 42.212066  -2.235392 42.212095  -2.235361 42.212127  -2.235431 42.212159  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851077">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236044 42.211357 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235915 42.211472 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235915 42.211394  -2.235966 42.211464  -2.235972 42.211472  -2.236008 42.211459  -2.236044 42.211411  -2.236006 42.211357  -2.235915 42.211394  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851078">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241817 42.206275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241559 42.206436 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241559 42.206416  -2.241604 42.206436  -2.241585 42.206428  -2.241681 42.206306  -2.241800 42.206359  -2.241817 42.206337  -2.241792 42.206326  -2.241790 42.206327  -2.241672 42.206275  -2.241656 42.206295  -2.241559 42.206416  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851079">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235416 42.213077 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235244 42.213150 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235244 42.213116  -2.235269 42.213150  -2.235382 42.213150  -2.235416 42.213114  -2.235402 42.213100  -2.235403 42.213099  -2.235370 42.213080  -2.235357 42.213079  -2.235346 42.213077  -2.235311 42.213082  -2.235303 42.213112  -2.235264 42.213114  -2.235244 42.213116  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851080">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194932 42.210692 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194806 42.210779 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194912 42.210779  -2.194932 42.210703  -2.194828 42.210692  -2.194807 42.210765  -2.194806 42.210767  -2.194912 42.210779  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851081">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237842 42.211923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237669 42.212021 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237669 42.211989  -2.237700 42.212015  -2.237747 42.211985  -2.237788 42.212021  -2.237797 42.212016  -2.237842 42.211986  -2.237770 42.211923  -2.237669 42.211989  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851082">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.206103 42.208773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205748 42.208989 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.206041 42.208989  -2.206103 42.208851  -2.205805 42.208773  -2.205783 42.208814  -2.205748 42.208904  -2.206041 42.208989  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851083">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.205574 42.208765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205144 42.208950 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.205541 42.208940  -2.205574 42.208836  -2.205225 42.208765  -2.205144 42.208935  -2.205231 42.208950  -2.205245 42.208887  -2.205541 42.208940  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851084">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.205824 42.208691 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205620 42.208814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.205805 42.208773  -2.205824 42.208737  -2.205653 42.208691  -2.205620 42.208769  -2.205783 42.208814  -2.205805 42.208773  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851085">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.205677 42.208059 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205355 42.208265 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.205600 42.208265  -2.205677 42.208189  -2.205417 42.208059  -2.205355 42.208139  -2.205600 42.208265  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851086">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.204387 42.207591 </gml:lowerCorner>
+        		<gml:upperCorner>-2.204288 42.207668 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.204338 42.207668  -2.204387 42.207623  -2.204342 42.207591  -2.204288 42.207640  -2.204338 42.207668  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851087">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238491 42.211331 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238151 42.211524 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238175 42.211472  -2.238223 42.211503  -2.238257 42.211524  -2.238491 42.211367  -2.238451 42.211331  -2.238259 42.211381  -2.238151 42.211448  -2.238175 42.211472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851088">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237187 42.211098 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236972 42.211202 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237127 42.211202  -2.237159 42.211168  -2.237187 42.211133  -2.236998 42.211098  -2.236972 42.211159  -2.237127 42.211202  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851089">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242298 42.206940 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242164 42.207029 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242278 42.206998  -2.242298 42.206960  -2.242250 42.206941  -2.242240 42.206951  -2.242208 42.206940  -2.242164 42.207000  -2.242255 42.207029  -2.242278 42.206998  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851090">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240747 42.209558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240540 42.209794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240569 42.209706  -2.240540 42.209758  -2.240587 42.209772  -2.240661 42.209794  -2.240690 42.209743  -2.240633 42.209725  -2.240650 42.209693  -2.240727 42.209717  -2.240747 42.209679  -2.240698 42.209663  -2.240711 42.209638  -2.240658 42.209620  -2.240682 42.209577  -2.240624 42.209558  -2.240607 42.209588  -2.240579 42.209579  -2.240554 42.209622  -2.240607 42.209639  -2.240587 42.209676  -2.240569 42.209706  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851091">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194134 42.211229 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194001 42.211317 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194081 42.211317  -2.194116 42.211312  -2.194107 42.211287  -2.194134 42.211283  -2.194125 42.211229  -2.194068 42.211236  -2.194001 42.211244  -2.194012 42.211307  -2.194078 42.211295  -2.194077 42.211294  -2.194081 42.211317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851092">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196961 42.211094 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196788 42.211223 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196918 42.211096  -2.196921 42.211110  -2.196914 42.211111  -2.196925 42.211146  -2.196867 42.211161  -2.196788 42.211182  -2.196807 42.211223  -2.196884 42.211203  -2.196961 42.211183  -2.196938 42.211107  -2.196937 42.211103  -2.196935 42.211094  -2.196918 42.211096  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851093">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242257 42.207088 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242100 42.207219 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242144 42.207219  -2.242216 42.207161  -2.242257 42.207125  -2.242205 42.207088  -2.242100 42.207202  -2.242144 42.207219  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851094">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194456 42.211246 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194347 42.211335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194347 42.211324  -2.194348 42.211324  -2.194447 42.211335  -2.194448 42.211310  -2.194451 42.211289  -2.194456 42.211264  -2.194430 42.211263  -2.194435 42.211247  -2.194416 42.211246  -2.194415 42.211248  -2.194353 42.211248  -2.194347 42.211324  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851095">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236139 42.212264 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236024 42.212410 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236101 42.212267  -2.236062 42.212264  -2.236056 42.212269  -2.236062 42.212269  -2.236061 42.212308  -2.236061 42.212330  -2.236057 42.212340  -2.236049 42.212338  -2.236036 42.212374  -2.236034 42.212378  -2.236024 42.212406  -2.236026 42.212406  -2.236060 42.212410  -2.236063 42.212410  -2.236071 42.212370  -2.236135 42.212374  -2.236139 42.212339  -2.236103 42.212335  -2.236112 42.212268  -2.236101 42.212267  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851096">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236941 42.211714 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236822 42.211803 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236822 42.211728  -2.236834 42.211775  -2.236840 42.211803  -2.236941 42.211791  -2.236922 42.211714  -2.236822 42.211728  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851097">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235419 42.212198 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235249 42.212265 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235262 42.212265  -2.235418 42.212247  -2.235419 42.212215  -2.235396 42.212216  -2.235398 42.212198  -2.235337 42.212204  -2.235329 42.212208  -2.235307 42.212211  -2.235249 42.212216  -2.235262 42.212265  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851098">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195963 42.211189 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195876 42.211292 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195879 42.211210  -2.195877 42.211210  -2.195876 42.211229  -2.195876 42.211232  -2.195879 42.211291  -2.195947 42.211292  -2.195960 42.211228  -2.195963 42.211196  -2.195880 42.211189  -2.195879 42.211210  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851099">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236985 42.211446 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236888 42.211554 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236974 42.211492  -2.236970 42.211478  -2.236968 42.211470  -2.236959 42.211446  -2.236888 42.211455  -2.236907 42.211554  -2.236976 42.211546  -2.236985 42.211534  -2.236974 42.211492  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851100">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235418 42.212247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235262 42.212322 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235403 42.212310  -2.235396 42.212260  -2.235418 42.212260  -2.235418 42.212247  -2.235262 42.212265  -2.235282 42.212314  -2.235284 42.212322  -2.235311 42.212318  -2.235403 42.212310  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851101">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234994 42.213076 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234867 42.213179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234932 42.213081  -2.234894 42.213090  -2.234877 42.213095  -2.234867 42.213097  -2.234884 42.213133  -2.234905 42.213179  -2.234925 42.213173  -2.234955 42.213165  -2.234994 42.213151  -2.234973 42.213119  -2.234972 42.213118  -2.234953 42.213076  -2.234932 42.213081  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851102">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194928 42.210767 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194788 42.210837 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194806 42.210767  -2.194788 42.210825  -2.194884 42.210837  -2.194927 42.210832  -2.194928 42.210781  -2.194912 42.210779  -2.194806 42.210767  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851103">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235502 42.212767 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235382 42.212887 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235429 42.212768  -2.235411 42.212800  -2.235394 42.212832  -2.235382 42.212855  -2.235415 42.212870  -2.235412 42.212874  -2.235442 42.212887  -2.235474 42.212838  -2.235481 42.212829  -2.235492 42.212812  -2.235502 42.212794  -2.235429 42.212767  -2.235429 42.212768  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851104">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235912 42.211949 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235776 42.212068 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235844 42.212068  -2.235912 42.211972  -2.235859 42.211949  -2.235776 42.212027  -2.235831 42.212061  -2.235844 42.212068  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851105">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236452 42.211987 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236342 42.212207 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236369 42.212099  -2.236342 42.212128  -2.236382 42.212154  -2.236376 42.212160  -2.236417 42.212207  -2.236444 42.212196  -2.236390 42.212125  -2.236435 42.212019  -2.236452 42.212018  -2.236452 42.211998  -2.236417 42.211987  -2.236417 42.211987  -2.236397 42.212033  -2.236369 42.212099  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851106">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194636 42.211221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194562 42.211347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194572 42.211273  -2.194566 42.211316  -2.194562 42.211347  -2.194627 42.211347  -2.194633 42.211286  -2.194633 42.211286  -2.194636 42.211230  -2.194633 42.211230  -2.194575 42.211221  -2.194572 42.211273  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851107">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235868 42.213690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235775 42.213795 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235868 42.213693  -2.235800 42.213690  -2.235775 42.213779  -2.235820 42.213791  -2.235860 42.213795  -2.235868 42.213693  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236751 42.213783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236626 42.213859 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236646 42.213787  -2.236637 42.213812  -2.236626 42.213846  -2.236627 42.213847  -2.236743 42.213859  -2.236745 42.213842  -2.236747 42.213821  -2.236751 42.213786  -2.236709 42.213785  -2.236647 42.213783  -2.236646 42.213787  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851109">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235904 42.212224 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235782 42.212333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235818 42.212252  -2.235782 42.212312  -2.235866 42.212333  -2.235904 42.212251  -2.235834 42.212224  -2.235833 42.212225  -2.235818 42.212252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851110">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196935 42.211297 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196804 42.211401 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196920 42.211297  -2.196882 42.211304  -2.196813 42.211319  -2.196807 42.211343  -2.196804 42.211358  -2.196819 42.211401  -2.196866 42.211389  -2.196854 42.211360  -2.196935 42.211345  -2.196935 42.211345  -2.196920 42.211297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851111">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237795 42.212093 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237651 42.212198 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237795 42.212142  -2.237735 42.212093  -2.237651 42.212148  -2.237709 42.212198  -2.237795 42.212142  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851112">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237050 42.213693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236851 42.213750 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236851 42.213712  -2.236854 42.213750  -2.237045 42.213732  -2.237050 42.213693  -2.236851 42.213712  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851113">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194936 42.211295 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194765 42.211353 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194765 42.211349  -2.194775 42.211349  -2.194839 42.211353  -2.194899 42.211336  -2.194929 42.211337  -2.194936 42.211305  -2.194816 42.211297  -2.194813 42.211297  -2.194774 42.211295  -2.194765 42.211349  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851114">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238569 42.211972 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238406 42.212061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238569 42.211994  -2.238550 42.211972  -2.238486 42.211996  -2.238475 42.211986  -2.238406 42.212028  -2.238437 42.212061  -2.238504 42.212027  -2.238530 42.212054  -2.238532 42.212056  -2.238564 42.212039  -2.238537 42.212010  -2.238569 42.211994  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851115">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235764 42.212195 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235630 42.212298 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235685 42.212195  -2.235685 42.212195  -2.235630 42.212264  -2.235720 42.212298  -2.235764 42.212231  -2.235711 42.212210  -2.235685 42.212195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851116">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235041 42.212099 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234916 42.212203 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234931 42.212152  -2.234966 42.212203  -2.234989 42.212194  -2.235032 42.212175  -2.235041 42.212165  -2.235001 42.212099  -2.234916 42.212130  -2.234917 42.212130  -2.234931 42.212152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851117">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237719 42.213338 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237538 42.213492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237552 42.213428  -2.237617 42.213462  -2.237689 42.213492  -2.237714 42.213466  -2.237719 42.213460  -2.237692 42.213439  -2.237616 42.213403  -2.237644 42.213371  -2.237574 42.213338  -2.237538 42.213377  -2.237585 42.213396  -2.237584 42.213397  -2.237583 42.213397  -2.237552 42.213428  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851118">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235590 42.212594 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235499 42.212652 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235499 42.212628  -2.235578 42.212652  -2.235582 42.212641  -2.235590 42.212595  -2.235513 42.212594  -2.235499 42.212627  -2.235499 42.212628  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851119">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237128 42.213326 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236970 42.213433 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236973 42.213338  -2.236970 42.213413  -2.237101 42.213433  -2.237128 42.213369  -2.236992 42.213326  -2.236984 42.213341  -2.236973 42.213338  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851120">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236800 42.212274 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236627 42.212366 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236652 42.212366  -2.236654 42.212366  -2.236800 42.212314  -2.236778 42.212274  -2.236627 42.212327  -2.236632 42.212335  -2.236652 42.212366  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851121">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237386 42.211683 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237275 42.211816 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237275 42.211723  -2.237324 42.211760  -2.237284 42.211790  -2.237319 42.211816  -2.237386 42.211766  -2.237329 42.211683  -2.237275 42.211723  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851122">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237590 42.212164 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237451 42.212273 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237451 42.212203  -2.237531 42.212273  -2.237590 42.212235  -2.237510 42.212164  -2.237451 42.212203  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851123">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235436 42.212355 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235294 42.212442 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235294 42.212362  -2.235319 42.212442  -2.235342 42.212438  -2.235370 42.212434  -2.235400 42.212430  -2.235432 42.212425  -2.235436 42.212392  -2.235417 42.212392  -2.235415 42.212386  -2.235358 42.212391  -2.235347 42.212355  -2.235294 42.212362  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851124">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235778 42.212092 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235625 42.212187 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235753 42.212129  -2.235736 42.212119  -2.235688 42.212092  -2.235625 42.212154  -2.235681 42.212187  -2.235681 42.212187  -2.235715 42.212154  -2.235749 42.212174  -2.235775 42.212147  -2.235778 42.212144  -2.235753 42.212129  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851125">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238159 42.212093 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238006 42.212190 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238006 42.212158  -2.238046 42.212190  -2.238095 42.212158  -2.238098 42.212160  -2.238159 42.212120  -2.238126 42.212093  -2.238105 42.212107  -2.238088 42.212094  -2.238013 42.212144  -2.238020 42.212149  -2.238006 42.212158  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851126">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236066 42.211247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235919 42.211343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236066 42.211297  -2.236041 42.211247  -2.236036 42.211250  -2.235927 42.211292  -2.235919 42.211296  -2.235944 42.211343  -2.235949 42.211341  -2.236066 42.211297  -2.236066 42.211297  -2.236066 42.211297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851127">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196120 42.211059 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195988 42.211129 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195988 42.211103  -2.195994 42.211129  -2.196067 42.211123  -2.196120 42.211115  -2.196116 42.211071  -2.196114 42.211059  -2.196110 42.211059  -2.196089 42.211061  -2.196005 42.211066  -2.196012 42.211102  -2.195988 42.211103  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851128">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236188 42.211742 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236056 42.211845 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236153 42.211813  -2.236152 42.211812  -2.236188 42.211777  -2.236152 42.211760  -2.236118 42.211742  -2.236080 42.211782  -2.236078 42.211782  -2.236056 42.211809  -2.236058 42.211818  -2.236125 42.211845  -2.236153 42.211813  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851129">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194096 42.211294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193987 42.211392 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194012 42.211307  -2.194012 42.211308  -2.193987 42.211312  -2.193994 42.211333  -2.193994 42.211333  -2.194017 42.211392  -2.194096 42.211376  -2.194088 42.211352  -2.194081 42.211317  -2.194077 42.211294  -2.194078 42.211295  -2.194012 42.211307  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851130">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237031 42.213511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236893 42.213576 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237026 42.213537  -2.237022 42.213511  -2.236893 42.213522  -2.236895 42.213542  -2.236897 42.213576  -2.237031 42.213562  -2.237026 42.213537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851131">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236238 42.213104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236145 42.213239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236206 42.213105  -2.236164 42.213109  -2.236145 42.213111  -2.236162 42.213157  -2.236187 42.213208  -2.236220 42.213239  -2.236238 42.213229  -2.236227 42.213199  -2.236223 42.213149  -2.236220 42.213104  -2.236206 42.213105  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851132">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235536 42.213193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235426 42.213275 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235536 42.213203  -2.235515 42.213201  -2.235446 42.213194  -2.235441 42.213193  -2.235426 42.213268  -2.235515 42.213275  -2.235536 42.213203  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851133">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236358 42.212245 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236223 42.212326 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236358 42.212290  -2.236352 42.212255  -2.236305 42.212245  -2.236300 42.212268  -2.236241 42.212254  -2.236223 42.212294  -2.236294 42.212313  -2.236341 42.212326  -2.236351 42.212311  -2.236358 42.212290  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851134">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236579 42.213255 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236455 42.213364 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236455 42.213312  -2.236455 42.213313  -2.236526 42.213364  -2.236579 42.213305  -2.236508 42.213255  -2.236483 42.213282  -2.236455 42.213312  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851135">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236259 42.211352 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236128 42.211456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236224 42.211371  -2.236205 42.211352  -2.236128 42.211387  -2.236141 42.211401  -2.236173 42.211430  -2.236182 42.211439  -2.236200 42.211455  -2.236202 42.211456  -2.236259 42.211399  -2.236224 42.211371  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851136">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236331 42.213686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236199 42.213783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236249 42.213686  -2.236199 42.213747  -2.236280 42.213783  -2.236331 42.213723  -2.236249 42.213686  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851137">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236333 42.211456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236177 42.211573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236177 42.211494  -2.236177 42.211494  -2.236207 42.211522  -2.236243 42.211554  -2.236260 42.211569  -2.236265 42.211573  -2.236333 42.211536  -2.236283 42.211492  -2.236242 42.211456  -2.236177 42.211494  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851138">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240488 42.207172 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240350 42.207280 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240465 42.207199  -2.240433 42.207172  -2.240405 42.207190  -2.240412 42.207201  -2.240350 42.207242  -2.240395 42.207280  -2.240488 42.207219  -2.240465 42.207199  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851139">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235966 42.211394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235842 42.211493 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235887 42.211493  -2.235966 42.211464  -2.235915 42.211394  -2.235842 42.211423  -2.235875 42.211477  -2.235887 42.211493  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851140">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235083 42.212023 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234964 42.212165 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235001 42.212099  -2.235041 42.212165  -2.235083 42.212144  -2.235011 42.212024  -2.235009 42.212025  -2.235008 42.212023  -2.234964 42.212038  -2.235001 42.212099  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851141">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236646 42.213774 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236517 42.213846 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236517 42.213831  -2.236520 42.213831  -2.236626 42.213846  -2.236637 42.213812  -2.236646 42.213787  -2.236535 42.213774  -2.236533 42.213774  -2.236517 42.213831  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851142">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238032 42.211441 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237915 42.211526 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237939 42.211441  -2.237915 42.211505  -2.238016 42.211526  -2.238032 42.211460  -2.237939 42.211441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851143">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196687 42.211024 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196544 42.211086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196624 42.211036  -2.196544 42.211024  -2.196546 42.211086  -2.196618 42.211082  -2.196686 42.211082  -2.196687 42.211051  -2.196624 42.211036  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851144">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235944 42.211296 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235794 42.211391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235944 42.211343  -2.235919 42.211296  -2.235878 42.211316  -2.235794 42.211355  -2.235828 42.211391  -2.235944 42.211343  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851145">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194766 42.210725 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194645 42.210804 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194764 42.210746  -2.194766 42.210742  -2.194731 42.210736  -2.194703 42.210732  -2.194664 42.210725  -2.194645 42.210786  -2.194747 42.210804  -2.194764 42.210746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851146">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196540 42.211171 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196433 42.211277 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196540 42.211197  -2.196486 42.211187  -2.196489 42.211172  -2.196469 42.211171  -2.196464 42.211184  -2.196449 42.211225  -2.196433 42.211264  -2.196503 42.211277  -2.196540 42.211197  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851147">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.206052 42.211603 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205917 42.211709 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.206052 42.211699  -2.206033 42.211603  -2.205917 42.211617  -2.205932 42.211709  -2.205961 42.211708  -2.206052 42.211699  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851148">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.206054 42.211699 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205959 42.211740 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.206052 42.211699  -2.205961 42.211708  -2.205959 42.211740  -2.206037 42.211734  -2.206033 42.211724  -2.206054 42.211720  -2.206052 42.211699  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851149">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.207904 42.210598 </gml:lowerCorner>
+        		<gml:upperCorner>-2.207830 42.210674 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.207858 42.210674  -2.207904 42.210668  -2.207883 42.210598  -2.207830 42.210609  -2.207858 42.210674  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851150">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.220292 42.217576 </gml:lowerCorner>
+        		<gml:upperCorner>-2.220194 42.217684 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.220291 42.217684  -2.220292 42.217600  -2.220194 42.217576  -2.220200 42.217658  -2.220202 42.217683  -2.220291 42.217684  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851151">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236594 42.211360 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236478 42.211452 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236519 42.211423  -2.236551 42.211452  -2.236576 42.211441  -2.236594 42.211430  -2.236540 42.211385  -2.236550 42.211379  -2.236523 42.211360  -2.236517 42.211363  -2.236494 42.211375  -2.236491 42.211377  -2.236478 42.211385  -2.236519 42.211423  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851152">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236449 42.211497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236376 42.211558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236412 42.211497  -2.236409 42.211500  -2.236409 42.211500  -2.236376 42.211531  -2.236405 42.211554  -2.236410 42.211558  -2.236449 42.211515  -2.236412 42.211497  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851153">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.252777 42.216197 </gml:lowerCorner>
+        		<gml:upperCorner>-2.252451 42.216356 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.252777 42.216284  -2.252758 42.216254  -2.252776 42.216246  -2.252758 42.216208  -2.252747 42.216197  -2.252451 42.216275  -2.252482 42.216330  -2.252487 42.216328  -2.252501 42.216356  -2.252578 42.216353  -2.252723 42.216316  -2.252777 42.216284  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851154">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241079 42.207033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240789 42.207233 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240849 42.207180  -2.240789 42.207219  -2.240805 42.207233  -2.241070 42.207059  -2.241075 42.207054  -2.241078 42.207050  -2.241079 42.207045  -2.241078 42.207040  -2.241075 42.207033  -2.241046 42.207051  -2.240849 42.207180  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851155">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240808 42.206833 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240676 42.206940 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240806 42.206853  -2.240782 42.206833  -2.240676 42.206903  -2.240720 42.206940  -2.240765 42.206910  -2.240808 42.206883  -2.240787 42.206865  -2.240806 42.206853  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851156">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195209 42.211280 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195106 42.211369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195209 42.211329  -2.195202 42.211294  -2.195173 42.211297  -2.195170 42.211280  -2.195106 42.211288  -2.195119 42.211364  -2.195188 42.211369  -2.195181 42.211333  -2.195181 42.211333  -2.195209 42.211329  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851157">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240575 42.209034 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240442 42.209124 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240479 42.209034  -2.240442 42.209087  -2.240538 42.209124  -2.240575 42.209072  -2.240479 42.209034  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851158">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241426 42.209429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241311 42.209541 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241368 42.209541  -2.241426 42.209449  -2.241370 42.209429  -2.241311 42.209520  -2.241368 42.209541  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851159">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237028 42.211604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236888 42.211700 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236941 42.211628  -2.236942 42.211633  -2.236924 42.211641  -2.236888 42.211657  -2.236904 42.211700  -2.237028 42.211647  -2.237000 42.211604  -2.236941 42.211628  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851160">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236289 42.213369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236149 42.213462 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236169 42.213438  -2.236219 42.213454  -2.236249 42.213462  -2.236289 42.213406  -2.236156 42.213369  -2.236149 42.213385  -2.236194 42.213398  -2.236172 42.213432  -2.236169 42.213438  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851161">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236352 42.211948 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236202 42.212038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236287 42.212025  -2.236316 42.212038  -2.236316 42.212037  -2.236337 42.212010  -2.236352 42.211994  -2.236318 42.211979  -2.236314 42.211984  -2.236231 42.211948  -2.236230 42.211949  -2.236217 42.211962  -2.236202 42.211989  -2.236287 42.212025  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851162">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238548 42.210947 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238390 42.211029 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238525 42.210947  -2.238390 42.210989  -2.238413 42.211029  -2.238460 42.211014  -2.238548 42.210987  -2.238546 42.210983  -2.238525 42.210947  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851163">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236446 42.211241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236319 42.211332 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236319 42.211261  -2.236332 42.211278  -2.236356 42.211309  -2.236368 42.211325  -2.236374 42.211332  -2.236446 42.211304  -2.236401 42.211241  -2.236363 42.211250  -2.236319 42.211261  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851164">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195072 42.210708 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194973 42.210783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195069 42.210783  -2.195072 42.210720  -2.194977 42.210709  -2.194976 42.210708  -2.194973 42.210742  -2.194978 42.210742  -2.194977 42.210781  -2.195069 42.210783  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851165">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241569 42.207250 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241459 42.207357 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241528 42.207357  -2.241569 42.207262  -2.241514 42.207250  -2.241459 42.207338  -2.241499 42.207349  -2.241528 42.207357  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851166">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236737 42.213328 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236631 42.213429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236705 42.213429  -2.236710 42.213416  -2.236731 42.213363  -2.236737 42.213352  -2.236668 42.213328  -2.236631 42.213412  -2.236705 42.213429  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851167">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236204 42.212964 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236084 42.213066 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236084 42.213000  -2.236136 42.213066  -2.236171 42.213042  -2.236202 42.213025  -2.236204 42.213024  -2.236161 42.212964  -2.236144 42.212972  -2.236119 42.212983  -2.236084 42.213000  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851168">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238131 42.212318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238006 42.212418 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238072 42.212318  -2.238006 42.212350  -2.238014 42.212359  -2.238065 42.212418  -2.238131 42.212385  -2.238072 42.212318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851169">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237272 42.211259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237134 42.211327 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237272 42.211309  -2.237261 42.211267  -2.237259 42.211259  -2.237142 42.211279  -2.237134 42.211288  -2.237144 42.211327  -2.237272 42.211309  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851170">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195386 42.210945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195296 42.211044 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195386 42.210952  -2.195384 42.210952  -2.195325 42.210945  -2.195321 42.210957  -2.195318 42.210957  -2.195297 42.211022  -2.195296 42.211026  -2.195370 42.211044  -2.195386 42.210952  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851171">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236249 42.213669 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236109 42.213747 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236249 42.213686  -2.236144 42.213669  -2.236109 42.213714  -2.236198 42.213746  -2.236199 42.213747  -2.236249 42.213686  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851172">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237465 42.213168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237386 42.213217 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237424 42.213168  -2.237411 42.213179  -2.237386 42.213200  -2.237424 42.213217  -2.237465 42.213186  -2.237424 42.213168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851173">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235274 42.213102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235147 42.213195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235192 42.213195  -2.235274 42.213157  -2.235269 42.213150  -2.235244 42.213116  -2.235235 42.213102  -2.235147 42.213137  -2.235166 42.213156  -2.235163 42.213158  -2.235192 42.213195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851174">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239612 42.211296 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239332 42.211484 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239422 42.211324  -2.239394 42.211330  -2.239371 42.211335  -2.239383 42.211360  -2.239332 42.211374  -2.239353 42.211417  -2.239367 42.211452  -2.239395 42.211470  -2.239422 42.211484  -2.239441 42.211478  -2.239612 42.211432  -2.239545 42.211296  -2.239422 42.211324  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851175">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236792 42.213513 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236677 42.213576 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236787 42.213541  -2.236784 42.213517  -2.236677 42.213513  -2.236690 42.213570  -2.236691 42.213575  -2.236792 42.213576  -2.236787 42.213541  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851176">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236200 42.211430 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236033 42.211512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236033 42.211461  -2.236097 42.211512  -2.236145 42.211483  -2.236200 42.211455  -2.236182 42.211439  -2.236173 42.211430  -2.236157 42.211438  -2.236115 42.211460  -2.236088 42.211430  -2.236033 42.211461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851177">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235001 42.212038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234877 42.212130 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234900 42.212106  -2.234916 42.212130  -2.235001 42.212099  -2.234964 42.212038  -2.234913 42.212060  -2.234877 42.212074  -2.234885 42.212087  -2.234887 42.212086  -2.234900 42.212106  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851178">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238259 42.211616 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238114 42.211717 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238259 42.211648  -2.238256 42.211649  -2.238242 42.211637  -2.238243 42.211637  -2.238220 42.211616  -2.238114 42.211683  -2.238140 42.211706  -2.238143 42.211705  -2.238157 42.211717  -2.238259 42.211648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851179">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195447 42.210952 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195370 42.211061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195370 42.211044  -2.195434 42.211061  -2.195446 42.210967  -2.195447 42.210960  -2.195386 42.210952  -2.195370 42.211044  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851180">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236352 42.213393 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236209 42.213494 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236289 42.213406  -2.236249 42.213462  -2.236219 42.213454  -2.236209 42.213475  -2.236254 42.213486  -2.236256 42.213481  -2.236299 42.213494  -2.236305 42.213482  -2.236309 42.213476  -2.236303 42.213474  -2.236328 42.213444  -2.236352 42.213415  -2.236300 42.213393  -2.236289 42.213406  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851181">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241791 42.207089 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241643 42.207177 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241643 42.207131  -2.241754 42.207156  -2.241752 42.207162  -2.241763 42.207177  -2.241791 42.207117  -2.241672 42.207089  -2.241643 42.207131  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851182">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238314 42.211990 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238141 42.212102 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238277 42.212055  -2.238171 42.211990  -2.238141 42.212016  -2.238243 42.212077  -2.238285 42.212102  -2.238314 42.212084  -2.238289 42.212062  -2.238277 42.212055  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851183">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197194 42.210633 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197097 42.210711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197099 42.210659  -2.197105 42.210711  -2.197194 42.210703  -2.197183 42.210633  -2.197183 42.210634  -2.197097 42.210642  -2.197099 42.210659  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851184">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235676 42.213145 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235565 42.213249 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235676 42.213174  -2.235616 42.213145  -2.235565 42.213228  -2.235629 42.213249  -2.235676 42.213174  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851185">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236121 42.213197 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235967 42.213289 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236121 42.213258  -2.236043 42.213224  -2.235984 42.213197  -2.235967 42.213225  -2.235996 42.213238  -2.235982 42.213260  -2.236008 42.213270  -2.236018 42.213256  -2.236094 42.213289  -2.236113 42.213268  -2.236121 42.213258  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851186">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236330 42.213565 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236212 42.213657 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236293 42.213654  -2.236330 42.213589  -2.236242 42.213565  -2.236212 42.213616  -2.236291 42.213657  -2.236293 42.213654  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851187">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235538 42.213788 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235430 42.213882 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235519 42.213788  -2.235483 42.213799  -2.235430 42.213815  -2.235475 42.213882  -2.235534 42.213863  -2.235521 42.213840  -2.235538 42.213835  -2.235519 42.213788  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851188">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240601 42.210102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240345 42.210344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:MultiSurface srsName="EPSG:4326">
+            <gml:surfaceMembers>
+              <gml:Polygon>
+                <gml:exterior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.240366 42.210319  -2.240409 42.210329  -2.240465 42.210344  -2.240490 42.210289  -2.240506 42.210292  -2.240509 42.210292  -2.240516 42.210290  -2.240521 42.210288  -2.240528 42.210284  -2.240541 42.210254  -2.240568 42.210261  -2.240575 42.210261  -2.240582 42.210259  -2.240588 42.210256  -2.240590 42.210252  -2.240591 42.210249  -2.240591 42.210245  -2.240588 42.210241  -2.240585 42.210238  -2.240567 42.210233  -2.240601 42.210162  -2.240504 42.210138  -2.240362 42.210102  -2.240345 42.210140  -2.240415 42.210158  -2.240397 42.210197  -2.240419 42.210203  -2.240418 42.210205  -2.240390 42.210267  -2.240366 42.210319  </gml:posList>
+                  </gml:LinearRing>
+                </gml:exterior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.240479 42.210276  -2.240436 42.210265  -2.240449 42.210237  -2.240492 42.210248  -2.240479 42.210276  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.240451 42.210227  -2.240457 42.210215  -2.240439 42.210211  -2.240458 42.210169  -2.240486 42.210176  -2.240533 42.210188  -2.240509 42.210241  -2.240451 42.210227  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+              </gml:Polygon>
+            </gml:surfaceMembers>
+          </gml:MultiSurface>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851189">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235292 42.212786 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235227 42.212919 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235273 42.212919  -2.235292 42.212790  -2.235241 42.212786  -2.235236 42.212881  -2.235227 42.212914  -2.235273 42.212919  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851190">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239902 42.211956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239773 42.212047 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239853 42.211956  -2.239780 42.211993  -2.239776 42.211995  -2.239773 42.211996  -2.239822 42.212047  -2.239902 42.212007  -2.239853 42.211956  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851191">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238792 42.211930 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238657 42.212028 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238684 42.211974  -2.238661 42.211990  -2.238657 42.211992  -2.238692 42.212020  -2.238701 42.212028  -2.238792 42.211966  -2.238748 42.211930  -2.238684 42.211974  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851192">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236314 42.212035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236196 42.212139 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236235 42.212035  -2.236196 42.212085  -2.236252 42.212139  -2.236297 42.212104  -2.236314 42.212091  -2.236296 42.212080  -2.236259 42.212064  -2.236271 42.212047  -2.236235 42.212035  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237293 42.211161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237127 42.211215 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237249 42.211161  -2.237159 42.211168  -2.237127 42.211202  -2.237282 42.211215  -2.237293 42.211197  -2.237249 42.211161  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851194">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238330 42.212507 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238185 42.212599 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238298 42.212507  -2.238185 42.212562  -2.238218 42.212599  -2.238330 42.212544  -2.238298 42.212507  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851195">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194851 42.210948 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194757 42.211028 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194851 42.210954  -2.194845 42.210954  -2.194771 42.210948  -2.194757 42.211022  -2.194836 42.211028  -2.194836 42.211028  -2.194851 42.210954  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851196">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194934 42.211054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194820 42.211152 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194893 42.211151  -2.194930 42.211152  -2.194932 42.211091  -2.194934 42.211054  -2.194866 42.211069  -2.194820 42.211118  -2.194822 42.211118  -2.194823 42.211115  -2.194855 42.211115  -2.194890 42.211111  -2.194893 42.211151  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851197">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235980 42.212874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235831 42.212971 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235890 42.212945  -2.235929 42.212971  -2.235929 42.212971  -2.235970 42.212943  -2.235980 42.212951  -2.235903 42.212890  -2.235884 42.212874  -2.235878 42.212877  -2.235875 42.212879  -2.235872 42.212881  -2.235870 42.212883  -2.235831 42.212908  -2.235889 42.212944  -2.235890 42.212945  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851198">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235535 42.213063 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235430 42.213166 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235499 42.213063  -2.235495 42.213089  -2.235489 42.213128  -2.235435 42.213122  -2.235430 42.213121  -2.235432 42.213161  -2.235447 42.213161  -2.235522 42.213166  -2.235530 42.213127  -2.235535 42.213070  -2.235499 42.213063  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236010 42.211685 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235859 42.211774 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236010 42.211742  -2.235932 42.211685  -2.235886 42.211721  -2.235859 42.211739  -2.235879 42.211754  -2.235908 42.211733  -2.235964 42.211774  -2.236010 42.211742  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851200">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235819 42.211455 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235692 42.211535 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235692 42.211493  -2.235714 42.211535  -2.235819 42.211528  -2.235762 42.211455  -2.235692 42.211493  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851201">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196589 42.211193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196503 42.211294 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196540 42.211197  -2.196503 42.211277  -2.196589 42.211294  -2.196584 42.211222  -2.196582 42.211197  -2.196580 42.211193  -2.196561 42.211195  -2.196540 42.211197  -2.196540 42.211197  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851202">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237254 42.213711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237145 42.213780 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237145 42.213716  -2.237160 42.213780  -2.237244 42.213768  -2.237254 42.213711  -2.237145 42.213716  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851203">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236655 42.211817 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236430 42.211977 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236614 42.211971  -2.236615 42.211977  -2.236652 42.211976  -2.236652 42.211920  -2.236652 42.211917  -2.236655 42.211887  -2.236643 42.211887  -2.236551 42.211896  -2.236532 42.211853  -2.236510 42.211817  -2.236430 42.211832  -2.236430 42.211832  -2.236430 42.211833  -2.236443 42.211864  -2.236444 42.211865  -2.236461 42.211908  -2.236467 42.211907  -2.236474 42.211931  -2.236471 42.211932  -2.236483 42.211971  -2.236611 42.211959  -2.236614 42.211971  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851204">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195608 42.211125 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195420 42.211190 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195460 42.211178  -2.195509 42.211190  -2.195509 42.211176  -2.195569 42.211176  -2.195569 42.211176  -2.195608 42.211170  -2.195606 42.211149  -2.195604 42.211131  -2.195565 42.211125  -2.195564 42.211148  -2.195563 42.211148  -2.195504 42.211147  -2.195453 42.211154  -2.195429 42.211165  -2.195420 42.211177  -2.195458 42.211181  -2.195457 42.211177  -2.195460 42.211178  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851205">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240662 42.207411 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240457 42.207545 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240502 42.207411  -2.240457 42.207447  -2.240583 42.207545  -2.240662 42.207448  -2.240603 42.207432  -2.240502 42.207411  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851206">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236118 42.212997 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235997 42.213122 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235997 42.213021  -2.236021 42.213039  -2.236053 42.213088  -2.236088 42.213122  -2.236118 42.213108  -2.236062 42.213019  -2.236041 42.212997  -2.236038 42.212998  -2.235997 42.213021  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851207">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.220303 42.217657 </gml:lowerCorner>
+        		<gml:upperCorner>-2.220182 42.217727 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.220202 42.217683  -2.220200 42.217658  -2.220182 42.217657  -2.220185 42.217727  -2.220303 42.217727  -2.220303 42.217684  -2.220291 42.217684  -2.220202 42.217683  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851208">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236551 42.211423 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236412 42.211515 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236412 42.211497  -2.236449 42.211515  -2.236451 42.211514  -2.236458 42.211509  -2.236459 42.211508  -2.236483 42.211492  -2.236483 42.211491  -2.236523 42.211464  -2.236528 42.211461  -2.236551 42.211452  -2.236519 42.211423  -2.236447 42.211459  -2.236412 42.211497  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851209">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236519 42.211385 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236420 42.211459 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236519 42.211423  -2.236478 42.211385  -2.236453 42.211401  -2.236420 42.211422  -2.236422 42.211436  -2.236433 42.211446  -2.236447 42.211459  -2.236519 42.211423  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851210">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234898 42.211593 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234800 42.211654 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234898 42.211635  -2.234879 42.211593  -2.234800 42.211610  -2.234817 42.211654  -2.234898 42.211635  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851211">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235684 42.211904 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235568 42.211988 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235568 42.211960  -2.235637 42.211988  -2.235684 42.211952  -2.235651 42.211917  -2.235635 42.211904  -2.235568 42.211960  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851212">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234947 42.211969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234863 42.212025 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234923 42.211969  -2.234902 42.211969  -2.234899 42.211969  -2.234863 42.211970  -2.234895 42.212025  -2.234947 42.212006  -2.234923 42.211969  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851213">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235321 42.213150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235192 42.213246 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235234 42.213246  -2.235321 42.213203  -2.235292 42.213182  -2.235269 42.213150  -2.235274 42.213157  -2.235192 42.213195  -2.235214 42.213222  -2.235234 42.213246  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851214">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235856 42.213160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235773 42.213281 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235776 42.213176  -2.235789 42.213210  -2.235790 42.213232  -2.235776 42.213265  -2.235773 42.213269  -2.235799 42.213281  -2.235856 42.213209  -2.235833 42.213160  -2.235776 42.213176  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851215">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235797 42.213979 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235698 42.214065 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235797 42.213994  -2.235723 42.213979  -2.235698 42.214051  -2.235773 42.214065  -2.235797 42.213994  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851216">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236533 42.213770 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236412 42.213831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236517 42.213831  -2.236533 42.213774  -2.236429 42.213770  -2.236412 42.213800  -2.236428 42.213821  -2.236517 42.213831  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851217">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236822 42.211206 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236713 42.211311 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236746 42.211242  -2.236746 42.211243  -2.236713 42.211269  -2.236731 42.211286  -2.236759 42.211311  -2.236780 42.211293  -2.236796 42.211280  -2.236799 42.211278  -2.236822 42.211251  -2.236819 42.211242  -2.236795 42.211206  -2.236746 42.211242  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851218">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236353 42.212187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236241 42.212268 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236241 42.212254  -2.236300 42.212268  -2.236305 42.212245  -2.236352 42.212255  -2.236353 42.212212  -2.236273 42.212187  -2.236241 42.212254  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851219">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238841 42.211088 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238744 42.211187 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238805 42.211088  -2.238804 42.211089  -2.238745 42.211103  -2.238744 42.211103  -2.238758 42.211134  -2.238780 42.211187  -2.238841 42.211173  -2.238805 42.211088  -2.238805 42.211088  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851220">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236427 42.211803 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236308 42.211897 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236413 42.211897  -2.236427 42.211850  -2.236402 42.211825  -2.236362 42.211803  -2.236308 42.211841  -2.236413 42.211897  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851221">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238758 42.211103 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238586 42.211173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238700 42.211113  -2.238586 42.211140  -2.238600 42.211173  -2.238758 42.211134  -2.238744 42.211103  -2.238700 42.211113  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851222">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240564 42.207167 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240395 42.207295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240547 42.207181  -2.240531 42.207167  -2.240495 42.207191  -2.240488 42.207185  -2.240465 42.207199  -2.240488 42.207219  -2.240395 42.207280  -2.240413 42.207295  -2.240475 42.207254  -2.240556 42.207200  -2.240564 42.207196  -2.240547 42.207181  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851223">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197755 42.210943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197640 42.211007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197640 42.210953  -2.197649 42.211007  -2.197755 42.210996  -2.197738 42.210943  -2.197688 42.210948  -2.197640 42.210953  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851224">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236847 42.213786 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236745 42.213844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236745 42.213842  -2.236847 42.213844  -2.236847 42.213787  -2.236751 42.213786  -2.236747 42.213821  -2.236745 42.213842  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851225">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235673 42.212528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235557 42.212584 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235641 42.212528  -2.235559 42.212534  -2.235557 42.212583  -2.235592 42.212584  -2.235673 42.212584  -2.235672 42.212567  -2.235670 42.212544  -2.235670 42.212544  -2.235642 42.212546  -2.235641 42.212528  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851226">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233798 42.213447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233616 42.213538 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233637 42.213447  -2.233616 42.213474  -2.233772 42.213538  -2.233798 42.213514  -2.233637 42.213447  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851227">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195609 42.211014 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195536 42.211094 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195608 42.211058  -2.195609 42.211014  -2.195540 42.211015  -2.195536 42.211093  -2.195536 42.211093  -2.195608 42.211094  -2.195608 42.211058  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851228">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241183 42.206783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240921 42.206956 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240936 42.206956  -2.240992 42.206920  -2.241183 42.206795  -2.241168 42.206783  -2.240921 42.206943  -2.240936 42.206956  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851229">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196724 42.210882 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196620 42.210955 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196624 42.210882  -2.196621 42.210890  -2.196620 42.210950  -2.196653 42.210955  -2.196653 42.210954  -2.196721 42.210925  -2.196724 42.210890  -2.196671 42.210890  -2.196671 42.210890  -2.196635 42.210890  -2.196624 42.210882  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851230">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195154 42.211054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195045 42.211132 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195154 42.211076  -2.195152 42.211064  -2.195132 42.211060  -2.195106 42.211055  -2.195098 42.211054  -2.195095 42.211062  -2.195083 42.211060  -2.195076 42.211060  -2.195045 42.211108  -2.195066 42.211117  -2.195074 42.211119  -2.195125 42.211132  -2.195125 42.211131  -2.195145 42.211094  -2.195154 42.211076  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851231">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196884 42.210903 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196780 42.210988 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196884 42.210988  -2.196858 42.210903  -2.196785 42.210941  -2.196780 42.210976  -2.196884 42.210988  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851232">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238072 42.212359 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237953 42.212462 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238065 42.212418  -2.238014 42.212359  -2.237953 42.212389  -2.237955 42.212391  -2.237965 42.212386  -2.238032 42.212462  -2.238072 42.212442  -2.238055 42.212423  -2.238065 42.212418  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851233">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.198389 42.210693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.198267 42.210759 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.198267 42.210711  -2.198282 42.210759  -2.198389 42.210741  -2.198374 42.210693  -2.198267 42.210711  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851234">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235484 42.212419 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235400 42.212509 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235484 42.212419  -2.235432 42.212425  -2.235400 42.212430  -2.235410 42.212471  -2.235411 42.212472  -2.235429 42.212509  -2.235468 42.212499  -2.235471 42.212508  -2.235478 42.212464  -2.235484 42.212419  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851235">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236449 42.211129 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236306 42.211205 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236399 42.211129  -2.236306 42.211166  -2.236339 42.211205  -2.236449 42.211167  -2.236400 42.211130  -2.236399 42.211129  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851236">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195372 42.211186 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195297 42.211276 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195297 42.211258  -2.195320 42.211270  -2.195335 42.211275  -2.195344 42.211276  -2.195355 42.211275  -2.195372 42.211272  -2.195372 42.211219  -2.195370 42.211186  -2.195309 42.211196  -2.195308 42.211222  -2.195297 42.211258  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851237">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196275 42.210809 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196185 42.210899 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196259 42.210899  -2.196275 42.210829  -2.196202 42.210809  -2.196185 42.210876  -2.196259 42.210899  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851238">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235427 42.212965 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235291 42.213038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235356 42.212965  -2.235354 42.212966  -2.235291 42.213007  -2.235304 42.213014  -2.235345 42.213038  -2.235427 42.213025  -2.235391 42.212985  -2.235385 42.212981  -2.235356 42.212965  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851239">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236157 42.211638 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236057 42.211741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236057 42.211685  -2.236085 42.211741  -2.236157 42.211672  -2.236093 42.211638  -2.236063 42.211671  -2.236057 42.211685  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851240">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237294 42.213998 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237164 42.214060 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237279 42.213999  -2.237215 42.214010  -2.237164 42.214018  -2.237170 42.214060  -2.237294 42.214042  -2.237283 42.213998  -2.237279 42.213999  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851241">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235503 42.212348 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235408 42.212425 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235484 42.212419  -2.235503 42.212348  -2.235440 42.212348  -2.235408 42.212348  -2.235415 42.212386  -2.235417 42.212392  -2.235436 42.212392  -2.235432 42.212425  -2.235484 42.212419  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851242">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236393 42.211709 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236258 42.211807 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236311 42.211730  -2.236258 42.211768  -2.236264 42.211773  -2.236282 42.211784  -2.236318 42.211807  -2.236361 42.211772  -2.236393 42.211747  -2.236367 42.211727  -2.236365 42.211725  -2.236340 42.211709  -2.236311 42.211730  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851243">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235948 42.213318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235815 42.213408 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235860 42.213318  -2.235815 42.213353  -2.235907 42.213408  -2.235948 42.213380  -2.235860 42.213318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851244">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235415 42.212849 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235315 42.212962 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235389 42.212909  -2.235386 42.212908  -2.235412 42.212874  -2.235415 42.212870  -2.235382 42.212855  -2.235380 42.212859  -2.235356 42.212852  -2.235354 42.212849  -2.235353 42.212851  -2.235346 42.212877  -2.235315 42.212933  -2.235349 42.212962  -2.235389 42.212909  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851245">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235729 42.213174 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235629 42.213260 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235707 42.213252  -2.235729 42.213189  -2.235681 42.213176  -2.235676 42.213174  -2.235629 42.213249  -2.235663 42.213260  -2.235705 42.213259  -2.235707 42.213252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851246">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236203 42.212268 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236103 42.212342 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236203 42.212284  -2.236162 42.212275  -2.236112 42.212268  -2.236103 42.212335  -2.236139 42.212339  -2.236171 42.212342  -2.236203 42.212284  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851247">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237203 42.211515 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237080 42.211577 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237177 42.211515  -2.237124 42.211521  -2.237080 42.211525  -2.237087 42.211550  -2.237095 42.211577  -2.237203 42.211557  -2.237183 42.211515  -2.237177 42.211515  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851248">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196860 42.211078 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196757 42.211154 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196839 42.211078  -2.196757 42.211087  -2.196779 42.211154  -2.196860 42.211132  -2.196839 42.211078  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851249">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236430 42.213432 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236303 42.213513 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236382 42.213505  -2.236430 42.213453  -2.236387 42.213432  -2.236386 42.213432  -2.236359 42.213458  -2.236328 42.213444  -2.236303 42.213474  -2.236309 42.213476  -2.236305 42.213482  -2.236330 42.213490  -2.236377 42.213513  -2.236382 42.213505  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851250">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235564 42.212829 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235442 42.212908 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235464 42.212903  -2.235523 42.212908  -2.235553 42.212905  -2.235564 42.212895  -2.235519 42.212883  -2.235541 42.212857  -2.235481 42.212829  -2.235474 42.212838  -2.235442 42.212887  -2.235466 42.212899  -2.235464 42.212903  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851251">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235389 42.211526 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235282 42.211611 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235321 42.211611  -2.235389 42.211585  -2.235353 42.211526  -2.235282 42.211550  -2.235317 42.211609  -2.235318 42.211608  -2.235321 42.211611  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851252">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235988 42.211909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235859 42.211981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235934 42.211981  -2.235942 42.211971  -2.235959 42.211979  -2.235988 42.211938  -2.235901 42.211909  -2.235900 42.211910  -2.235859 42.211949  -2.235912 42.211972  -2.235934 42.211981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851253">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238179 42.211491 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238058 42.211582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238146 42.211491  -2.238058 42.211541  -2.238096 42.211582  -2.238179 42.211528  -2.238179 42.211527  -2.238146 42.211491  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851254">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196936 42.210789 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196796 42.210839 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196936 42.210789  -2.196823 42.210797  -2.196796 42.210839  -2.196936 42.210831  -2.196936 42.210827  -2.196936 42.210816  -2.196936 42.210789  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851255">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237104 42.213159 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236970 42.213236 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237104 42.213196  -2.237007 42.213159  -2.236988 42.213179  -2.236987 42.213178  -2.236971 42.213197  -2.236970 42.213197  -2.237033 42.213221  -2.237074 42.213236  -2.237104 42.213196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851256">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197238 42.211185 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197131 42.211262 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197135 42.211192  -2.197156 42.211236  -2.197167 42.211243  -2.197184 42.211251  -2.197198 42.211257  -2.197226 42.211262  -2.197238 42.211198  -2.197131 42.211185  -2.197135 42.211192  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851257">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237783 42.211719 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237668 42.211817 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237716 42.211719  -2.237705 42.211724  -2.237668 42.211737  -2.237735 42.211817  -2.237783 42.211786  -2.237716 42.211719  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851258">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195611 42.210945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195470 42.211015 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195540 42.211014  -2.195540 42.211015  -2.195609 42.211014  -2.195611 42.210963  -2.195547 42.210957  -2.195471 42.210945  -2.195470 42.210965  -2.195470 42.210965  -2.195544 42.210977  -2.195540 42.211014  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851259">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235790 42.213176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235707 42.213265 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235707 42.213252  -2.235776 42.213265  -2.235790 42.213232  -2.235789 42.213210  -2.235776 42.213176  -2.235729 42.213189  -2.235707 42.213252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851260">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236397 42.212010 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236296 42.212099 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236314 42.212091  -2.236329 42.212074  -2.236369 42.212099  -2.236397 42.212033  -2.236337 42.212010  -2.236316 42.212037  -2.236316 42.212038  -2.236296 42.212080  -2.236314 42.212091  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851261">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237107 42.212370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237001 42.212477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237038 42.212469  -2.237045 42.212477  -2.237088 42.212450  -2.237092 42.212447  -2.237063 42.212424  -2.237107 42.212397  -2.237101 42.212389  -2.237088 42.212370  -2.237001 42.212426  -2.237022 42.212451  -2.237038 42.212469  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851262">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238692 42.211966 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238577 42.212056 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238639 42.212056  -2.238692 42.212020  -2.238657 42.211992  -2.238661 42.211990  -2.238632 42.211966  -2.238577 42.212005  -2.238639 42.212056  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851263">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239545 42.211172 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239230 42.211348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239230 42.211223  -2.239247 42.211249  -2.239278 42.211295  -2.239306 42.211338  -2.239313 42.211348  -2.239371 42.211335  -2.239394 42.211330  -2.239422 42.211324  -2.239545 42.211296  -2.239483 42.211172  -2.239230 42.211223  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851264">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196985 42.210547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196933 42.210655 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196937 42.210585  -2.196935 42.210643  -2.196934 42.210643  -2.196933 42.210655  -2.196985 42.210652  -2.196985 42.210600  -2.196985 42.210585  -2.196984 42.210552  -2.196984 42.210550  -2.196939 42.210547  -2.196937 42.210585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851265">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237277 42.213188 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237160 42.213255 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237277 42.213207  -2.237213 42.213188  -2.237182 42.213190  -2.237160 42.213232  -2.237252 42.213255  -2.237277 42.213207  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851266">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236451 42.211910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236329 42.211986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236451 42.211975  -2.236451 42.211971  -2.236439 42.211936  -2.236436 42.211935  -2.236393 42.211919  -2.236391 42.211918  -2.236387 42.211925  -2.236356 42.211910  -2.236354 42.211914  -2.236329 42.211949  -2.236335 42.211951  -2.236376 42.211967  -2.236374 42.211970  -2.236412 42.211986  -2.236427 42.211967  -2.236451 42.211975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851267">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235952 42.211972 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235844 42.212088 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235934 42.211981  -2.235912 42.211972  -2.235844 42.212068  -2.235881 42.212088  -2.235952 42.211989  -2.235934 42.211981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851268">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236633 42.213041 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236511 42.213125 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236591 42.213123  -2.236633 42.213095  -2.236578 42.213042  -2.236578 42.213041  -2.236517 42.213069  -2.236511 42.213073  -2.236588 42.213125  -2.236591 42.213123  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851269">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237528 42.213513 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237435 42.213622 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237480 42.213622  -2.237528 42.213525  -2.237483 42.213513  -2.237435 42.213609  -2.237480 42.213622  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851270">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.223973 42.217205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.223714 42.217373 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.223923 42.217373  -2.223954 42.217317  -2.223947 42.217314  -2.223973 42.217249  -2.223799 42.217207  -2.223739 42.217205  -2.223714 42.217258  -2.223773 42.217306  -2.223857 42.217338  -2.223852 42.217354  -2.223923 42.217373  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851271">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.224410 42.217443 </gml:lowerCorner>
+        		<gml:upperCorner>-2.224160 42.217562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.224410 42.217529  -2.224386 42.217443  -2.224160 42.217467  -2.224172 42.217517  -2.224188 42.217515  -2.224201 42.217562  -2.224410 42.217529  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851272">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.224645 42.217582 </gml:lowerCorner>
+        		<gml:upperCorner>-2.224537 42.217741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.224645 42.217590  -2.224568 42.217582  -2.224537 42.217712  -2.224559 42.217716  -2.224557 42.217735  -2.224597 42.217741  -2.224645 42.217590  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851273">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236660 42.211336 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236540 42.211430 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236550 42.211379  -2.236540 42.211385  -2.236594 42.211430  -2.236660 42.211387  -2.236616 42.211336  -2.236597 42.211347  -2.236550 42.211379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851274">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236597 42.211346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236523 42.211379 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236523 42.211360  -2.236550 42.211379  -2.236597 42.211347  -2.236581 42.211346  -2.236566 42.211347  -2.236555 42.211349  -2.236553 42.211349  -2.236523 42.211360  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851275">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235644 42.211844 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235574 42.211894 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235574 42.211869  -2.235620 42.211894  -2.235634 42.211874  -2.235644 42.211861  -2.235598 42.211844  -2.235581 42.211861  -2.235574 42.211869  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851276">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235635 42.211869 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235517 42.211960 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235517 42.211931  -2.235567 42.211960  -2.235568 42.211960  -2.235635 42.211904  -2.235631 42.211900  -2.235630 42.211901  -2.235620 42.211894  -2.235574 42.211869  -2.235517 42.211931  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851277">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235651 42.211811 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235539 42.211861 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235539 42.211840  -2.235581 42.211861  -2.235598 42.211844  -2.235644 42.211861  -2.235651 42.211851  -2.235564 42.211811  -2.235539 42.211840  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851278">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235581 42.211827 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235425 42.211934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235425 42.211890  -2.235514 42.211934  -2.235517 42.211931  -2.235574 42.211869  -2.235581 42.211861  -2.235539 42.211840  -2.235532 42.211848  -2.235485 42.211827  -2.235425 42.211890  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851279">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236562 42.211461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236483 42.211519 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236483 42.211491  -2.236517 42.211519  -2.236518 42.211519  -2.236562 42.211493  -2.236528 42.211461  -2.236523 42.211464  -2.236483 42.211491  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851280">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236517 42.211491 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236458 42.211533 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236458 42.211509  -2.236496 42.211533  -2.236517 42.211519  -2.236483 42.211491  -2.236483 42.211492  -2.236459 42.211508  -2.236458 42.211509  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851281">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236698 42.212848 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236618 42.212970 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236674 42.212970  -2.236695 42.212968  -2.236698 42.212884  -2.236618 42.212848  -2.236635 42.212894  -2.236674 42.212970  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851282">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236330 42.211275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236198 42.211392 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236221 42.211312  -2.236260 42.211353  -2.236281 42.211375  -2.236282 42.211376  -2.236293 42.211392  -2.236330 42.211383  -2.236302 42.211350  -2.236290 42.211336  -2.236264 42.211305  -2.236240 42.211275  -2.236198 42.211289  -2.236221 42.211312  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851283">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238096 42.211541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237979 42.211627 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238025 42.211627  -2.238096 42.211582  -2.238058 42.211541  -2.238057 42.211542  -2.238029 42.211558  -2.237979 42.211583  -2.238025 42.211627  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851284">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237144 42.211594 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237031 42.211666 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237070 42.211655  -2.237087 42.211666  -2.237144 42.211639  -2.237135 42.211625  -2.237126 42.211610  -2.237117 42.211594  -2.237084 42.211597  -2.237031 42.211611  -2.237056 42.211647  -2.237070 42.211655  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851285">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236251 42.212160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236119 42.212221 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236132 42.212171  -2.236119 42.212219  -2.236168 42.212221  -2.236169 42.212215  -2.236173 42.212197  -2.236243 42.212204  -2.236251 42.212179  -2.236243 42.212160  -2.236191 42.212168  -2.236132 42.212171  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851286">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239964 42.211923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239853 42.212009 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239853 42.211956  -2.239902 42.212007  -2.239904 42.212009  -2.239964 42.211978  -2.239916 42.211923  -2.239853 42.211956  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851287">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236340 42.211650 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236118 42.211768 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236194 42.211726  -2.236218 42.211740  -2.236258 42.211768  -2.236311 42.211730  -2.236340 42.211709  -2.236300 42.211682  -2.236294 42.211679  -2.236271 42.211698  -2.236239 42.211669  -2.236212 42.211650  -2.236181 42.211680  -2.236151 42.211708  -2.236118 42.211742  -2.236152 42.211760  -2.236185 42.211727  -2.236189 42.211724  -2.236194 42.211726  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851288">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194516 42.211264 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194446 42.211345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194516 42.211269  -2.194460 42.211264  -2.194456 42.211264  -2.194451 42.211289  -2.194448 42.211310  -2.194447 42.211335  -2.194446 42.211345  -2.194510 42.211345  -2.194513 42.211317  -2.194510 42.211295  -2.194516 42.211269  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851289">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235521 42.212272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235440 42.212348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235521 42.212283  -2.235445 42.212272  -2.235440 42.212348  -2.235503 42.212348  -2.235520 42.212284  -2.235521 42.212283  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851290">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236425 42.211653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236300 42.211747 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236367 42.211727  -2.236393 42.211747  -2.236419 42.211727  -2.236425 42.211714  -2.236420 42.211711  -2.236369 42.211677  -2.236334 42.211653  -2.236331 42.211656  -2.236300 42.211682  -2.236340 42.211709  -2.236365 42.211725  -2.236367 42.211727  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851291">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235504 42.213388 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235391 42.213486 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235453 42.213399  -2.235396 42.213388  -2.235391 42.213403  -2.235430 42.213446  -2.235460 42.213486  -2.235504 42.213472  -2.235474 42.213430  -2.235469 42.213431  -2.235453 42.213399  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851292">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241557 42.207349 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241467 42.207439 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241528 42.207357  -2.241499 42.207349  -2.241467 42.207425  -2.241526 42.207439  -2.241557 42.207364  -2.241528 42.207357  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851293">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235796 42.213573 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235693 42.213664 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235796 42.213596  -2.235753 42.213573  -2.235693 42.213629  -2.235748 42.213664  -2.235786 42.213624  -2.235792 42.213601  -2.235796 42.213596  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851294">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196283 42.210583 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196202 42.210670 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196223 42.210646  -2.196202 42.210647  -2.196202 42.210670  -2.196283 42.210663  -2.196283 42.210597  -2.196227 42.210583  -2.196226 42.210646  -2.196223 42.210646  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851295">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236413 42.211841 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236282 42.211925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236413 42.211897  -2.236308 42.211841  -2.236282 42.211877  -2.236354 42.211914  -2.236356 42.211910  -2.236387 42.211925  -2.236391 42.211918  -2.236393 42.211919  -2.236412 42.211899  -2.236413 42.211897  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851296">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195318 42.210948 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195224 42.211022 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195224 42.211006  -2.195297 42.211022  -2.195318 42.210957  -2.195243 42.210948  -2.195224 42.211006  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851297">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236382 42.212074 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236280 42.212183 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236369 42.212099  -2.236329 42.212074  -2.236314 42.212091  -2.236297 42.212104  -2.236335 42.212127  -2.236280 42.212165  -2.236280 42.212166  -2.236322 42.212183  -2.236369 42.212156  -2.236376 42.212160  -2.236382 42.212154  -2.236342 42.212128  -2.236369 42.212099  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851298">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235888 42.212805 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235762 42.212872 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235762 42.212812  -2.235837 42.212872  -2.235861 42.212856  -2.235864 42.212854  -2.235867 42.212852  -2.235869 42.212850  -2.235872 42.212849  -2.235888 42.212838  -2.235883 42.212805  -2.235762 42.212812  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851299">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236425 42.213168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236303 42.213259 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236389 42.213168  -2.236389 42.213168  -2.236375 42.213177  -2.236367 42.213172  -2.236348 42.213186  -2.236303 42.213232  -2.236334 42.213259  -2.236394 42.213209  -2.236425 42.213189  -2.236389 42.213168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851300">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196882 42.211248 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196781 42.211343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196882 42.211304  -2.196852 42.211248  -2.196781 42.211278  -2.196799 42.211315  -2.196791 42.211342  -2.196807 42.211343  -2.196813 42.211319  -2.196882 42.211304  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851301">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240735 42.207069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240547 42.207201 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240547 42.207181  -2.240564 42.207196  -2.240556 42.207200  -2.240558 42.207201  -2.240735 42.207085  -2.240717 42.207069  -2.240547 42.207181  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851302">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237465 42.211257 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237318 42.211298 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237318 42.211257  -2.237328 42.211298  -2.237377 42.211296  -2.237430 42.211297  -2.237465 42.211267  -2.237423 42.211260  -2.237318 42.211257  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851303">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235419 42.211890 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235292 42.211981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235332 42.211981  -2.235351 42.211966  -2.235419 42.211913  -2.235382 42.211890  -2.235292 42.211955  -2.235332 42.211981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851304">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235408 42.212310 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235284 42.212362 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235294 42.212362  -2.235347 42.212355  -2.235408 42.212348  -2.235403 42.212310  -2.235311 42.212318  -2.235284 42.212322  -2.235293 42.212359  -2.235294 42.212362  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851305">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236869 42.211241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236780 42.211348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236869 42.211336  -2.236836 42.211241  -2.236819 42.211242  -2.236822 42.211251  -2.236799 42.211278  -2.236796 42.211280  -2.236780 42.211293  -2.236815 42.211322  -2.236833 42.211348  -2.236869 42.211336  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851306">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237098 42.212469 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236989 42.212561 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237039 42.212546  -2.237055 42.212561  -2.237067 42.212555  -2.237083 42.212546  -2.237098 42.212539  -2.237045 42.212477  -2.237038 42.212469  -2.236989 42.212495  -2.237005 42.212511  -2.237039 42.212546  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851307">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237102 42.211808 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236937 42.211898 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236950 42.211898  -2.237102 42.211824  -2.237091 42.211808  -2.236941 42.211862  -2.236937 42.211867  -2.236947 42.211892  -2.236950 42.211898  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851308">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235818 42.212231 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235720 42.212318 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235818 42.212252  -2.235764 42.212231  -2.235720 42.212298  -2.235780 42.212318  -2.235782 42.212312  -2.235818 42.212252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851309">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194353 42.211242 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194278 42.211324 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194353 42.211248  -2.194295 42.211247  -2.194295 42.211242  -2.194292 42.211242  -2.194291 42.211248  -2.194291 42.211253  -2.194288 42.211323  -2.194278 42.211323  -2.194347 42.211324  -2.194353 42.211248  -2.194353 42.211248  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851310">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194017 42.211333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193916 42.211415 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194017 42.211392  -2.193994 42.211333  -2.193916 42.211373  -2.193951 42.211415  -2.194017 42.211392  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851311">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237223 42.212300 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237088 42.212389 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237088 42.212370  -2.237101 42.212389  -2.237223 42.212338  -2.237195 42.212300  -2.237088 42.212370  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851312">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235488 42.212499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235372 42.212586 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235429 42.212509  -2.235375 42.212531  -2.235372 42.212527  -2.235382 42.212543  -2.235420 42.212527  -2.235437 42.212555  -2.235398 42.212570  -2.235408 42.212586  -2.235488 42.212554  -2.235471 42.212508  -2.235468 42.212499  -2.235429 42.212509  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851313">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235777 42.212671 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235713 42.212758 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235777 42.212753  -2.235772 42.212740  -2.235762 42.212714  -2.235770 42.212714  -2.235764 42.212675  -2.235713 42.212671  -2.235713 42.212722  -2.235722 42.212758  -2.235777 42.212753  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851314">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236387 42.213589 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236293 42.213678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236293 42.213654  -2.236343 42.213678  -2.236357 42.213656  -2.236387 42.213610  -2.236330 42.213589  -2.236293 42.213654  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851315">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235337 42.212166 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235233 42.212217 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235249 42.212216  -2.235307 42.212211  -2.235329 42.212208  -2.235337 42.212204  -2.235334 42.212170  -2.235299 42.212168  -2.235281 42.212166  -2.235248 42.212166  -2.235233 42.212166  -2.235240 42.212217  -2.235249 42.212216  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851316">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237452 42.212272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237339 42.212347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237415 42.212272  -2.237339 42.212303  -2.237372 42.212347  -2.237452 42.212312  -2.237415 42.212272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851317">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235795 42.213020 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235671 42.213095 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235795 42.213064  -2.235763 42.213043  -2.235733 42.213020  -2.235713 42.213029  -2.235671 42.213075  -2.235712 42.213095  -2.235734 42.213065  -2.235773 42.213085  -2.235795 42.213064  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851318">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236984 42.211335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236909 42.211434 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236912 42.211358  -2.236931 42.211434  -2.236984 42.211430  -2.236978 42.211403  -2.236972 42.211404  -2.236966 42.211385  -2.236949 42.211335  -2.236909 42.211346  -2.236912 42.211358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851319">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236293 42.211153 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236199 42.211239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236254 42.211153  -2.236199 42.211170  -2.236240 42.211239  -2.236293 42.211220  -2.236254 42.211153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851320">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235986 42.211733 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235879 42.211822 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235894 42.211795  -2.235946 42.211822  -2.235986 42.211791  -2.235964 42.211774  -2.235908 42.211733  -2.235879 42.211754  -2.235913 42.211779  -2.235894 42.211795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851321">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237372 42.212303 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237262 42.212377 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237293 42.212377  -2.237330 42.212363  -2.237332 42.212364  -2.237372 42.212347  -2.237339 42.212303  -2.237262 42.212335  -2.237293 42.212377  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851322">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241642 42.206497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241520 42.206580 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241520 42.206551  -2.241542 42.206580  -2.241546 42.206578  -2.241626 42.206539  -2.241642 42.206532  -2.241640 42.206528  -2.241642 42.206528  -2.241633 42.206518  -2.241613 42.206497  -2.241520 42.206551  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851323">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236490 42.212502 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236371 42.212581 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236453 42.212581  -2.236490 42.212546  -2.236481 42.212533  -2.236478 42.212529  -2.236478 42.212529  -2.236477 42.212527  -2.236472 42.212521  -2.236472 42.212521  -2.236458 42.212502  -2.236455 42.212503  -2.236414 42.212520  -2.236402 42.212506  -2.236396 42.212508  -2.236371 42.212518  -2.236384 42.212534  -2.236409 42.212564  -2.236434 42.212554  -2.236453 42.212581  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851324">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241252 42.206687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241121 42.206781 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241121 42.206739  -2.241171 42.206781  -2.241252 42.206728  -2.241201 42.206687  -2.241188 42.206695  -2.241189 42.206695  -2.241190 42.206696  -2.241192 42.206698  -2.241193 42.206699  -2.241194 42.206701  -2.241195 42.206702  -2.241196 42.206704  -2.241197 42.206705  -2.241198 42.206707  -2.241199 42.206708  -2.241199 42.206710  -2.241199 42.206712  -2.241199 42.206713  -2.241199 42.206715  -2.241199 42.206717  -2.241199 42.206719  -2.241198 42.206720  -2.241198 42.206722  -2.241197 42.206723  -2.241196 42.206725  -2.241195 42.206726  -2.241194 42.206728  -2.241193 42.206729  -2.241191 42.206731  -2.241190 42.206732  -2.241189 42.206733  -2.241187 42.206734  -2.241185 42.206736  -2.241183 42.206737  -2.241181 42.206737  -2.241179 42.206738  -2.241177 42.206739  -2.241175 42.206740  -2.241173 42.206740  -2.241171 42.206740  -2.241168 42.206741  -2.241166 42.206741  -2.241164 42.206741  -2.241162 42.206741  -2.241159 42.206741  -2.241157 42.206741  -2.241155 42.206740  -2.241153 42.206740  -2.241151 42.206739  -2.241148 42.206739  -2.241146 42.206738  -2.241144 42.206737  -2.241142 42.206736  -2.241141 42.206735  -2.241139 42.206734  -2.241137 42.206733  -2.241136 42.206732  -2.241134 42.206731  -2.241134 42.206730  -2.241121 42.206739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851325">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235463 42.211911 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235351 42.211996 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235393 42.211996  -2.235463 42.211936  -2.235421 42.211911  -2.235419 42.211913  -2.235351 42.211966  -2.235393 42.211996  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851326">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237767 42.212052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237626 42.212148 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237767 42.212073  -2.237741 42.212052  -2.237626 42.212127  -2.237651 42.212148  -2.237735 42.212093  -2.237767 42.212073  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851327">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234134 42.211344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234022 42.211424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234022 42.211380  -2.234094 42.211424  -2.234134 42.211388  -2.234062 42.211344  -2.234022 42.211380  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194816 42.210679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194731 42.210753 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194764 42.210746  -2.194801 42.210753  -2.194801 42.210753  -2.194801 42.210753  -2.194816 42.210691  -2.194748 42.210679  -2.194737 42.210715  -2.194731 42.210736  -2.194766 42.210742  -2.194764 42.210746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851329">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195574 42.211176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195509 42.211247 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195569 42.211176  -2.195509 42.211176  -2.195509 42.211190  -2.195510 42.211247  -2.195574 42.211243  -2.195569 42.211176  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851330">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195069 42.210781 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194966 42.210825 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195069 42.210783  -2.194977 42.210781  -2.194977 42.210786  -2.194969 42.210785  -2.194966 42.210825  -2.195066 42.210825  -2.195069 42.210783  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851331">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238072 42.212288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237938 42.212389 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238072 42.212318  -2.238066 42.212311  -2.238045 42.212288  -2.237982 42.212319  -2.238000 42.212340  -2.237938 42.212371  -2.237953 42.212389  -2.238014 42.212359  -2.238006 42.212350  -2.238072 42.212318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851332">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236272 42.212353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236178 42.212420 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236191 42.212353  -2.236191 42.212354  -2.236178 42.212408  -2.236267 42.212420  -2.236272 42.212377  -2.236259 42.212375  -2.236191 42.212353  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851333">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236662 42.211176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236549 42.211295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236662 42.211272  -2.236575 42.211176  -2.236549 42.211184  -2.236589 42.211240  -2.236630 42.211295  -2.236662 42.211272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851334">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241565 42.206551 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241460 42.206629 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241460 42.206579  -2.241496 42.206629  -2.241540 42.206611  -2.241542 42.206613  -2.241565 42.206603  -2.241554 42.206589  -2.241546 42.206578  -2.241542 42.206580  -2.241520 42.206551  -2.241493 42.206567  -2.241492 42.206566  -2.241460 42.206579  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851335">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235485 42.211778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235335 42.211890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235393 42.211778  -2.235335 42.211834  -2.235380 42.211863  -2.235425 42.211890  -2.235485 42.211827  -2.235393 42.211778  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851336">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239822 42.211981 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239717 42.212069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239822 42.212047  -2.239773 42.211996  -2.239776 42.211995  -2.239762 42.211981  -2.239717 42.212006  -2.239779 42.212069  -2.239822 42.212047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851337">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236803 42.211670 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236696 42.211718 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236792 42.211670  -2.236697 42.211678  -2.236696 42.211718  -2.236803 42.211714  -2.236795 42.211685  -2.236792 42.211670  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851338">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236688 42.211387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236528 42.211493 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236528 42.211461  -2.236562 42.211493  -2.236624 42.211470  -2.236688 42.211459  -2.236687 42.211458  -2.236678 42.211422  -2.236678 42.211421  -2.236661 42.211388  -2.236660 42.211387  -2.236594 42.211430  -2.236576 42.211441  -2.236551 42.211452  -2.236528 42.211461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851339">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236695 42.211459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236517 42.211538 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236695 42.211490  -2.236695 42.211489  -2.236688 42.211461  -2.236688 42.211459  -2.236624 42.211470  -2.236562 42.211493  -2.236518 42.211519  -2.236517 42.211519  -2.236539 42.211538  -2.236695 42.211490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851340">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236749 42.211545 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236658 42.211571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236658 42.211562  -2.236662 42.211571  -2.236749 42.211566  -2.236729 42.211545  -2.236658 42.211562  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851341">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238280 42.213871 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238191 42.213934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238247 42.213934  -2.238280 42.213901  -2.238221 42.213871  -2.238191 42.213902  -2.238247 42.213934  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851342">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239229 42.214597 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239163 42.214677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239221 42.214667  -2.239218 42.214652  -2.239229 42.214645  -2.239207 42.214597  -2.239163 42.214615  -2.239177 42.214648  -2.239163 42.214652  -2.239176 42.214677  -2.239221 42.214667  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851343">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235643 42.212641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235532 42.212739 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235532 42.212696  -2.235602 42.212735  -2.235609 42.212739  -2.235629 42.212703  -2.235643 42.212662  -2.235582 42.212641  -2.235578 42.212652  -2.235571 42.212659  -2.235549 42.212680  -2.235549 42.212681  -2.235532 42.212696  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851344">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235549 42.212659 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235484 42.212696 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235501 42.212659  -2.235484 42.212678  -2.235532 42.212696  -2.235549 42.212681  -2.235549 42.212680  -2.235501 42.212659  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851345">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196973 42.211233 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196852 42.211304 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196886 42.211233  -2.196852 42.211247  -2.196852 42.211248  -2.196882 42.211304  -2.196920 42.211297  -2.196918 42.211292  -2.196973 42.211281  -2.196964 42.211259  -2.196935 42.211266  -2.196929 42.211253  -2.196902 42.211261  -2.196886 42.211233  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851346">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194978 42.210703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194912 42.210786 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194928 42.210781  -2.194969 42.210785  -2.194977 42.210786  -2.194977 42.210781  -2.194978 42.210742  -2.194973 42.210742  -2.194976 42.210708  -2.194934 42.210703  -2.194932 42.210703  -2.194912 42.210779  -2.194928 42.210781  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851347">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236413 42.212425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236278 42.212484 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236323 42.212445  -2.236278 42.212458  -2.236280 42.212468  -2.236300 42.212484  -2.236375 42.212469  -2.236413 42.212461  -2.236394 42.212425  -2.236323 42.212445  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851348">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235959 42.213731 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235877 42.213789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235959 42.213732  -2.235883 42.213731  -2.235877 42.213782  -2.235957 42.213789  -2.235959 42.213732  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851349">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194572 42.211269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194510 42.211347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194572 42.211273  -2.194516 42.211269  -2.194516 42.211269  -2.194510 42.211295  -2.194513 42.211317  -2.194510 42.211345  -2.194510 42.211347  -2.194562 42.211347  -2.194566 42.211316  -2.194572 42.211273  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851350">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238805 42.211052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238685 42.211113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238700 42.211113  -2.238744 42.211103  -2.238745 42.211103  -2.238804 42.211089  -2.238805 42.211088  -2.238790 42.211052  -2.238685 42.211077  -2.238700 42.211113  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851351">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237294 42.211986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237163 42.212116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237294 42.212101  -2.237276 42.212081  -2.237268 42.212085  -2.237243 42.212057  -2.237251 42.212053  -2.237235 42.212036  -2.237190 42.211986  -2.237163 42.211999  -2.237269 42.212116  -2.237294 42.212101  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851352">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237927 42.213491 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237827 42.213575 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237878 42.213493  -2.237869 42.213499  -2.237827 42.213526  -2.237881 42.213575  -2.237927 42.213540  -2.237881 42.213491  -2.237878 42.213493  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851353">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236997 42.212575 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236849 42.212645 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236976 42.212578  -2.236918 42.212612  -2.236883 42.212582  -2.236876 42.212575  -2.236849 42.212593  -2.236916 42.212645  -2.236950 42.212624  -2.236997 42.212597  -2.236976 42.212578  -2.236976 42.212578  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851354">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237095 42.211520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236976 42.211594 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236985 42.211534  -2.236976 42.211546  -2.236998 42.211572  -2.237020 42.211594  -2.237055 42.211586  -2.237094 42.211577  -2.237095 42.211577  -2.237087 42.211550  -2.237080 42.211525  -2.237067 42.211526  -2.237067 42.211525  -2.237066 42.211520  -2.236985 42.211534  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851355">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237812 42.213377 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237701 42.213451 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237770 42.213377  -2.237701 42.213416  -2.237744 42.213451  -2.237812 42.213413  -2.237770 42.213377  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851356">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236260 42.211494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236145 42.211592 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236243 42.211554  -2.236207 42.211522  -2.236177 42.211494  -2.236145 42.211519  -2.236234 42.211592  -2.236248 42.211578  -2.236260 42.211569  -2.236243 42.211554  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851357">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235209 42.213339 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235104 42.213390 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235149 42.213384  -2.235186 42.213387  -2.235203 42.213390  -2.235209 42.213349  -2.235156 42.213342  -2.235104 42.213339  -2.235110 42.213380  -2.235149 42.213384  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851358">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237350 42.213207 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237252 42.213274 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237277 42.213207  -2.237252 42.213255  -2.237326 42.213274  -2.237350 42.213221  -2.237282 42.213208  -2.237277 42.213207  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851359">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234047 42.212868 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233961 42.212936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234047 42.212888  -2.233978 42.212868  -2.233961 42.212924  -2.234043 42.212936  -2.234047 42.212888  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851360">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237510 42.212125 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237405 42.212203 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237451 42.212203  -2.237510 42.212164  -2.237464 42.212125  -2.237405 42.212162  -2.237451 42.212203  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851361">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235382 42.211869 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235259 42.211955 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235382 42.211890  -2.235347 42.211869  -2.235259 42.211934  -2.235292 42.211955  -2.235382 42.211890  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851362">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236264 42.211724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236152 42.211801 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236185 42.211727  -2.236152 42.211760  -2.236188 42.211777  -2.236212 42.211790  -2.236234 42.211801  -2.236264 42.211773  -2.236258 42.211768  -2.236218 42.211740  -2.236194 42.211726  -2.236189 42.211724  -2.236185 42.211727  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851363">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237172 42.213632 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237057 42.213671 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237058 42.213632  -2.237057 42.213671  -2.237116 42.213671  -2.237172 42.213661  -2.237167 42.213633  -2.237058 42.213632  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851364">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235343 42.211608 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235239 42.211679 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235321 42.211611  -2.235318 42.211608  -2.235317 42.211609  -2.235239 42.211631  -2.235267 42.211679  -2.235343 42.211647  -2.235321 42.211611  -2.235321 42.211611  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851365">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238968 42.211028 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238805 42.211088 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238805 42.211088  -2.238968 42.211048  -2.238931 42.211028  -2.238820 42.211054  -2.238805 42.211088  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851366">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237292 42.211959 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237190 42.212036 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237190 42.211986  -2.237235 42.212036  -2.237292 42.212009  -2.237246 42.211959  -2.237190 42.211986  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195071 42.211177 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194964 42.211245 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194964 42.211245  -2.195000 42.211236  -2.195064 42.211220  -2.195071 42.211192  -2.195059 42.211195  -2.195026 42.211203  -2.195002 42.211202  -2.195004 42.211182  -2.195004 42.211182  -2.195004 42.211180  -2.194967 42.211177  -2.194964 42.211245  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851368">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235696 42.211412 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235591 42.211487 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235648 42.211412  -2.235591 42.211435  -2.235641 42.211487  -2.235696 42.211457  -2.235648 42.211412  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851369">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196503 42.211044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196402 42.211085 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196403 42.211085  -2.196403 42.211085  -2.196503 42.211085  -2.196498 42.211044  -2.196402 42.211045  -2.196403 42.211085  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851370">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237212 42.211639 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237087 42.211703 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237087 42.211666  -2.237144 42.211703  -2.237162 42.211696  -2.237212 42.211680  -2.237212 42.211680  -2.237190 42.211651  -2.237159 42.211665  -2.237144 42.211639  -2.237087 42.211666  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851371">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236130 42.211223 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236033 42.211297 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236066 42.211297  -2.236130 42.211277  -2.236099 42.211223  -2.236033 42.211244  -2.236036 42.211250  -2.236041 42.211247  -2.236066 42.211297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851372">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241982 42.207118 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241862 42.207177 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241872 42.207172  -2.241917 42.207177  -2.241919 42.207169  -2.241955 42.207171  -2.241972 42.207173  -2.241976 42.207166  -2.241982 42.207156  -2.241911 42.207129  -2.241885 42.207118  -2.241862 42.207170  -2.241872 42.207172  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851373">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233985 42.213316 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233778 42.213507 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233953 42.213316  -2.233778 42.213490  -2.233807 42.213507  -2.233985 42.213337  -2.233953 42.213316  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851374">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237514 42.211033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237404 42.211100 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237404 42.211075  -2.237478 42.211100  -2.237514 42.211065  -2.237416 42.211033  -2.237404 42.211075  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851375">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238481 42.211014 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238381 42.211080 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238399 42.211080  -2.238481 42.211061  -2.238460 42.211014  -2.238413 42.211029  -2.238381 42.211039  -2.238399 42.211080  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851376">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236035 42.212263 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235928 42.212306 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235929 42.212263  -2.235928 42.212300  -2.236031 42.212306  -2.236035 42.212268  -2.235993 42.212266  -2.235929 42.212263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851377">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235790 42.211952 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235692 42.212040 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235692 42.212018  -2.235733 42.212040  -2.235790 42.211978  -2.235751 42.211952  -2.235751 42.211952  -2.235692 42.212018  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851378">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195115 42.211159 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195002 42.211220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195064 42.211220  -2.195110 42.211208  -2.195114 42.211184  -2.195115 42.211184  -2.195114 42.211167  -2.195114 42.211166  -2.195064 42.211159  -2.195062 42.211169  -2.195004 42.211182  -2.195002 42.211202  -2.195026 42.211203  -2.195059 42.211195  -2.195071 42.211192  -2.195064 42.211220  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851379">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235376 42.213247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235234 42.213288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235249 42.213266  -2.235350 42.213288  -2.235376 42.213278  -2.235363 42.213247  -2.235234 42.213247  -2.235249 42.213266  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851380">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235950 42.213505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235843 42.213561 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235847 42.213527  -2.235843 42.213529  -2.235846 42.213532  -2.235868 42.213552  -2.235932 42.213561  -2.235939 42.213544  -2.235949 42.213520  -2.235950 42.213518  -2.235879 42.213505  -2.235847 42.213527  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851381">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197645 42.210440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197522 42.210485 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197522 42.210472  -2.197639 42.210485  -2.197645 42.210452  -2.197529 42.210440  -2.197522 42.210472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851382">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235282 42.213387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235180 42.213434 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235255 42.213393  -2.235240 42.213392  -2.235239 42.213395  -2.235203 42.213390  -2.235186 42.213387  -2.235180 42.213429  -2.235265 42.213433  -2.235277 42.213434  -2.235282 42.213392  -2.235255 42.213393  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851383">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238136 42.212046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237971 42.212160 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238126 42.212093  -2.238136 42.212086  -2.238087 42.212046  -2.237971 42.212125  -2.238004 42.212160  -2.238006 42.212158  -2.238020 42.212149  -2.238013 42.212144  -2.237989 42.212124  -2.238064 42.212074  -2.238088 42.212094  -2.238105 42.212107  -2.238126 42.212093  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851384">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237416 42.211007 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237324 42.211075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237324 42.211021  -2.237324 42.211023  -2.237338 42.211025  -2.237331 42.211061  -2.237377 42.211066  -2.237404 42.211075  -2.237416 42.211033  -2.237380 42.211029  -2.237385 42.211012  -2.237361 42.211014  -2.237327 42.211007  -2.237324 42.211021  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851385">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195026 42.210924 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194961 42.211000 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194966 42.210962  -2.194961 42.210993  -2.195015 42.211000  -2.195017 42.210988  -2.195022 42.210954  -2.195026 42.210928  -2.194973 42.210924  -2.194966 42.210962  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851386">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236068 42.212206 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235993 42.212269 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235996 42.212245  -2.235993 42.212266  -2.236035 42.212268  -2.236056 42.212269  -2.236068 42.212217  -2.236052 42.212216  -2.236053 42.212211  -2.236038 42.212210  -2.236001 42.212206  -2.235999 42.212223  -2.235996 42.212245  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851387">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236038 42.212943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235929 42.213021 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236038 42.212998  -2.235989 42.212962  -2.235980 42.212954  -2.235982 42.212952  -2.235980 42.212951  -2.235970 42.212943  -2.235929 42.212971  -2.235997 42.213021  -2.236038 42.212998  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851388">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234064 42.213163 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233998 42.213271 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234033 42.213271  -2.234064 42.213169  -2.234029 42.213163  -2.233998 42.213266  -2.234033 42.213271  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851389">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236222 42.213575 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236127 42.213655 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236148 42.213575  -2.236131 42.213593  -2.236127 42.213598  -2.236153 42.213611  -2.236130 42.213636  -2.236177 42.213654  -2.236213 42.213655  -2.236222 42.213644  -2.236198 42.213632  -2.236177 42.213591  -2.236148 42.213575  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851390">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236045 42.212485 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235894 42.212684 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235973 42.212490  -2.235961 42.212493  -2.235931 42.212498  -2.235894 42.212505  -2.235906 42.212531  -2.235929 42.212566  -2.235973 42.212624  -2.236001 42.212676  -2.236005 42.212684  -2.236011 42.212684  -2.236028 42.212665  -2.236043 42.212615  -2.236045 42.212607  -2.236000 42.212560  -2.236033 42.212554  -2.236006 42.212485  -2.235973 42.212490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851391">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197041 42.211191 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196915 42.211254 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196931 42.211252  -2.196932 42.211254  -2.196958 42.211247  -2.196956 42.211241  -2.197017 42.211228  -2.197016 42.211224  -2.197041 42.211217  -2.197035 42.211191  -2.197010 42.211194  -2.196915 42.211224  -2.196931 42.211252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851392">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235748 42.213629 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235650 42.213704 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235748 42.213664  -2.235693 42.213629  -2.235650 42.213669  -2.235706 42.213704  -2.235748 42.213664  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851393">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.223920 42.218405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.223827 42.218448 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.223920 42.218446  -2.223919 42.218405  -2.223827 42.218407  -2.223828 42.218448  -2.223920 42.218446  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851394">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.223326 42.218387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.223269 42.218457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.223326 42.218457  -2.223323 42.218390  -2.223270 42.218387  -2.223269 42.218456  -2.223326 42.218457  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851395">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.222356 42.218338 </gml:lowerCorner>
+        		<gml:upperCorner>-2.222304 42.218375 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.222356 42.218349  -2.222324 42.218338  -2.222304 42.218363  -2.222338 42.218375  -2.222356 42.218349  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851396">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.222359 42.218165 </gml:lowerCorner>
+        		<gml:upperCorner>-2.222283 42.218215 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.222359 42.218183  -2.222304 42.218165  -2.222283 42.218198  -2.222341 42.218215  -2.222359 42.218183  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851397">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.222706 42.217835 </gml:lowerCorner>
+        		<gml:upperCorner>-2.222643 42.217911 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.222690 42.217911  -2.222706 42.217842  -2.222661 42.217835  -2.222643 42.217905  -2.222690 42.217911  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851398">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236660 42.211599 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236486 42.211663 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236652 42.211638  -2.236657 42.211637  -2.236660 42.211599  -2.236657 42.211599  -2.236657 42.211599  -2.236572 42.211613  -2.236495 42.211626  -2.236486 42.211630  -2.236505 42.211663  -2.236569 42.211652  -2.236652 42.211638  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851399">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236581 42.211652 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236505 42.211694 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236505 42.211663  -2.236510 42.211694  -2.236533 42.211694  -2.236545 42.211694  -2.236581 42.211690  -2.236569 42.211652  -2.236505 42.211663  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851400">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236661 42.211638 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236569 42.211690 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236569 42.211652  -2.236581 42.211690  -2.236634 42.211683  -2.236652 42.211680  -2.236661 42.211680  -2.236652 42.211638  -2.236569 42.211652  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851401">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236510 42.211663 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236468 42.211695 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236505 42.211663  -2.236472 42.211671  -2.236468 42.211695  -2.236510 42.211694  -2.236505 42.211663  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851402">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236658 42.211721 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236553 42.211807 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236574 42.211795  -2.236576 42.211797  -2.236591 42.211807  -2.236658 42.211801  -2.236655 42.211765  -2.236620 42.211767  -2.236613 42.211738  -2.236610 42.211721  -2.236578 42.211726  -2.236553 42.211741  -2.236555 42.211753  -2.236557 42.211767  -2.236559 42.211775  -2.236574 42.211795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851403">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235535 42.211746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235393 42.211827 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235393 42.211778  -2.235485 42.211827  -2.235504 42.211806  -2.235505 42.211807  -2.235520 42.211814  -2.235535 42.211797  -2.235486 42.211777  -2.235431 42.211746  -2.235393 42.211778  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851404">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236379 42.212620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236283 42.212696 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236283 42.212647  -2.236321 42.212696  -2.236375 42.212689  -2.236375 42.212688  -2.236376 42.212688  -2.236355 42.212677  -2.236379 42.212651  -2.236352 42.212620  -2.236352 42.212620  -2.236283 42.212647  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851405">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239168 42.214527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239118 42.214581 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239168 42.214571  -2.239146 42.214527  -2.239133 42.214530  -2.239138 42.214542  -2.239118 42.214550  -2.239138 42.214581  -2.239168 42.214571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851406">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236729 42.211506 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236553 42.211579 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236553 42.211550  -2.236587 42.211579  -2.236645 42.211565  -2.236641 42.211552  -2.236651 42.211549  -2.236658 42.211562  -2.236729 42.211545  -2.236722 42.211528  -2.236706 42.211506  -2.236553 42.211550  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851407">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235867 42.211796 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235761 42.211865 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235867 42.211823  -2.235823 42.211796  -2.235761 42.211838  -2.235761 42.211838  -2.235821 42.211860  -2.235831 42.211865  -2.235867 42.211823  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851408">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236753 42.212884 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236695 42.212969 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236698 42.212884  -2.236695 42.212968  -2.236730 42.212969  -2.236753 42.212891  -2.236698 42.212884  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851409">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238684 42.211941 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238550 42.212005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238684 42.211974  -2.238650 42.211946  -2.238640 42.211954  -2.238624 42.211941  -2.238587 42.211957  -2.238550 42.211972  -2.238569 42.211994  -2.238577 42.212005  -2.238632 42.211966  -2.238661 42.211990  -2.238684 42.211974  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851410">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237177 42.211447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237104 42.211521 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237110 42.211450  -2.237111 42.211453  -2.237104 42.211454  -2.237112 42.211483  -2.237124 42.211521  -2.237177 42.211515  -2.237157 42.211449  -2.237140 42.211447  -2.237110 42.211450  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851411">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235824 42.213454 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235714 42.213531 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235823 42.213468  -2.235774 42.213454  -2.235734 42.213493  -2.235714 42.213507  -2.235741 42.213531  -2.235765 42.213518  -2.235750 42.213502  -2.235776 42.213490  -2.235790 42.213505  -2.235809 42.213494  -2.235812 42.213496  -2.235824 42.213484  -2.235823 42.213468  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851412">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236060 42.212406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235946 42.212452 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236023 42.212447  -2.236024 42.212443  -2.236056 42.212445  -2.236060 42.212410  -2.236026 42.212406  -2.236024 42.212416  -2.235946 42.212418  -2.235953 42.212452  -2.236023 42.212447  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851413">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236450 42.212590 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236352 42.212663 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236430 42.212590  -2.236352 42.212620  -2.236379 42.212651  -2.236401 42.212663  -2.236450 42.212614  -2.236431 42.212591  -2.236430 42.212590  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851414">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236897 42.213541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236787 42.213576 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236787 42.213541  -2.236792 42.213576  -2.236895 42.213576  -2.236897 42.213576  -2.236895 42.213542  -2.236787 42.213541  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851415">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236434 42.213209 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236334 42.213290 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236407 42.213252  -2.236434 42.213225  -2.236394 42.213209  -2.236334 42.213259  -2.236368 42.213290  -2.236378 42.213281  -2.236407 42.213252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851416">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236396 42.212469 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236300 42.212534 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236371 42.212518  -2.236396 42.212508  -2.236375 42.212469  -2.236300 42.212484  -2.236301 42.212485  -2.236332 42.212534  -2.236371 42.212518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851417">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236119 42.212887 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236018 42.212965 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236062 42.212887  -2.236018 42.212910  -2.236079 42.212965  -2.236094 42.212958  -2.236119 42.212946  -2.236062 42.212887  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851418">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236725 42.211859 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236641 42.211921 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236652 42.211920  -2.236725 42.211921  -2.236721 42.211887  -2.236721 42.211884  -2.236686 42.211885  -2.236684 42.211859  -2.236676 42.211860  -2.236641 42.211862  -2.236643 42.211887  -2.236655 42.211887  -2.236652 42.211917  -2.236652 42.211920  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851419">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196202 42.210669 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196148 42.210753 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196148 42.210669  -2.196148 42.210753  -2.196200 42.210753  -2.196201 42.210736  -2.196202 42.210693  -2.196202 42.210670  -2.196148 42.210669  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235767 42.212504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235669 42.212544 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235761 42.212504  -2.235676 42.212505  -2.235670 42.212506  -2.235671 42.212526  -2.235669 42.212526  -2.235670 42.212544  -2.235670 42.212544  -2.235718 42.212543  -2.235767 42.212541  -2.235761 42.212504  -2.235761 42.212504  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851421">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238950 42.210509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238835 42.210557 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238865 42.210509  -2.238861 42.210523  -2.238840 42.210520  -2.238835 42.210542  -2.238940 42.210557  -2.238950 42.210522  -2.238865 42.210509  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851422">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236993 42.212824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236900 42.212908 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236932 42.212908  -2.236993 42.212855  -2.236961 42.212824  -2.236915 42.212861  -2.236925 42.212867  -2.236900 42.212887  -2.236932 42.212908  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851423">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235930 42.211823 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235831 42.211893 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235867 42.211823  -2.235831 42.211865  -2.235853 42.211876  -2.235886 42.211893  -2.235930 42.211854  -2.235867 42.211823  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851424">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239756 42.211895 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239647 42.211965 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239726 42.211938  -2.239756 42.211921  -2.239729 42.211895  -2.239647 42.211934  -2.239677 42.211965  -2.239726 42.211938  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851425">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237066 42.211459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236968 42.211534 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237023 42.211463  -2.237003 42.211465  -2.236968 42.211470  -2.236970 42.211478  -2.236974 42.211492  -2.236985 42.211534  -2.237066 42.211520  -2.237059 42.211487  -2.237057 42.211479  -2.237052 42.211459  -2.237023 42.211463  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851426">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241665 42.206552 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241554 42.206619 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241554 42.206589  -2.241565 42.206603  -2.241580 42.206619  -2.241665 42.206581  -2.241640 42.206552  -2.241554 42.206589  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851427">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236450 42.213610 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236357 42.213679 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236387 42.213610  -2.236357 42.213656  -2.236418 42.213679  -2.236450 42.213637  -2.236387 42.213610  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851428">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236789 42.212986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236693 42.213063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236735 42.212986  -2.236693 42.213009  -2.236746 42.213063  -2.236789 42.213038  -2.236735 42.212986  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851429">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194056 42.211431 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193963 42.211499 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194056 42.211472  -2.194018 42.211431  -2.194012 42.211433  -2.193970 42.211452  -2.193963 42.211464  -2.193992 42.211499  -2.194056 42.211472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851430">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236133 42.212166 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236052 42.212219 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236119 42.212219  -2.236132 42.212171  -2.236133 42.212169  -2.236085 42.212167  -2.236061 42.212166  -2.236053 42.212211  -2.236052 42.212216  -2.236068 42.212217  -2.236111 42.212219  -2.236119 42.212219  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851431">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237117 42.212711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236970 42.212795 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237117 42.212729  -2.237088 42.212711  -2.237017 42.212737  -2.236970 42.212778  -2.236997 42.212795  -2.237046 42.212752  -2.237077 42.212725  -2.237096 42.212738  -2.237117 42.212729  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851432">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236538 42.213484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236438 42.213550 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236474 42.213536  -2.236506 42.213550  -2.236538 42.213514  -2.236473 42.213484  -2.236438 42.213520  -2.236460 42.213530  -2.236474 42.213536  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851433">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236331 42.211405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236236 42.211492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236242 42.211456  -2.236283 42.211492  -2.236317 42.211464  -2.236292 42.211441  -2.236331 42.211419  -2.236319 42.211405  -2.236236 42.211451  -2.236242 42.211456  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851434">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238530 42.212027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238437 42.212108 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238471 42.212097  -2.238476 42.212096  -2.238487 42.212108  -2.238507 42.212098  -2.238487 42.212077  -2.238530 42.212054  -2.238504 42.212027  -2.238437 42.212061  -2.238471 42.212097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235615 42.212794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235481 42.212860 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235555 42.212860  -2.235577 42.212834  -2.235612 42.212852  -2.235615 42.212849  -2.235502 42.212794  -2.235492 42.212812  -2.235481 42.212829  -2.235541 42.212857  -2.235555 42.212860  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851436">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236473 42.213453 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236382 42.213527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236382 42.213505  -2.236432 42.213527  -2.236438 42.213520  -2.236473 42.213484  -2.236430 42.213453  -2.236382 42.213505  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851437">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234932 42.213030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234849 42.213095 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234877 42.213095  -2.234894 42.213090  -2.234932 42.213081  -2.234926 42.213068  -2.234924 42.213066  -2.234918 42.213053  -2.234921 42.213035  -2.234889 42.213030  -2.234849 42.213053  -2.234877 42.213095  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851438">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235034 42.213190 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234930 42.213253 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235034 42.213221  -2.235019 42.213190  -2.234954 42.213205  -2.234930 42.213228  -2.234959 42.213253  -2.234994 42.213231  -2.234997 42.213229  -2.235034 42.213221  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851439">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235444 42.212909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235349 42.212981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235356 42.212965  -2.235385 42.212981  -2.235444 42.212935  -2.235389 42.212909  -2.235349 42.212962  -2.235356 42.212965  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851440">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236203 42.213270 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236108 42.213345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236154 42.213345  -2.236188 42.213306  -2.236203 42.213288  -2.236165 42.213270  -2.236150 42.213284  -2.236108 42.213326  -2.236148 42.213342  -2.236154 42.213345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851441">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236463 42.212943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236373 42.213018 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236463 42.213005  -2.236432 42.212943  -2.236388 42.212964  -2.236373 42.212971  -2.236432 42.213018  -2.236442 42.213014  -2.236463 42.213005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236225 42.213025 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236136 42.213111 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236145 42.213111  -2.236164 42.213109  -2.236154 42.213068  -2.236195 42.213062  -2.236206 42.213105  -2.236220 42.213104  -2.236225 42.213103  -2.236218 42.213064  -2.236202 42.213025  -2.236171 42.213042  -2.236136 42.213066  -2.236145 42.213110  -2.236145 42.213111  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851443">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235822 42.213064 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235712 42.213122 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235795 42.213064  -2.235773 42.213085  -2.235734 42.213065  -2.235712 42.213095  -2.235713 42.213095  -2.235775 42.213122  -2.235778 42.213119  -2.235820 42.213085  -2.235822 42.213083  -2.235795 42.213064  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236510 42.213218 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236407 42.213282 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236407 42.213252  -2.236483 42.213282  -2.236508 42.213255  -2.236510 42.213252  -2.236439 42.213218  -2.236434 42.213225  -2.236407 42.213252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851445">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236371 42.211461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236283 42.211536 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236371 42.211496  -2.236330 42.211467  -2.236322 42.211461  -2.236317 42.211464  -2.236283 42.211492  -2.236333 42.211536  -2.236339 42.211532  -2.236369 42.211499  -2.236371 42.211496  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851446">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236235 42.212215 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236162 42.212284 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236203 42.212284  -2.236206 42.212284  -2.236235 42.212225  -2.236169 42.212215  -2.236168 42.212221  -2.236175 42.212221  -2.236162 42.212275  -2.236203 42.212284  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234925 42.213133 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234862 42.213225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234925 42.213173  -2.234905 42.213179  -2.234884 42.213133  -2.234871 42.213137  -2.234880 42.213158  -2.234862 42.213159  -2.234862 42.213225  -2.234869 42.213225  -2.234901 42.213214  -2.234922 42.213190  -2.234925 42.213173  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851448">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236403 42.211325 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236302 42.211383 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236330 42.211383  -2.236377 42.211376  -2.236403 42.211369  -2.236374 42.211332  -2.236368 42.211325  -2.236341 42.211336  -2.236302 42.211350  -2.236330 42.211383  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851449">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241201 42.206654 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241082 42.206739 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241121 42.206739  -2.241134 42.206730  -2.241133 42.206729  -2.241132 42.206728  -2.241131 42.206726  -2.241130 42.206725  -2.241129 42.206723  -2.241128 42.206721  -2.241128 42.206720  -2.241127 42.206718  -2.241127 42.206716  -2.241127 42.206715  -2.241127 42.206713  -2.241127 42.206711  -2.241127 42.206710  -2.241128 42.206708  -2.241128 42.206706  -2.241129 42.206705  -2.241130 42.206703  -2.241131 42.206702  -2.241132 42.206700  -2.241133 42.206699  -2.241135 42.206697  -2.241136 42.206696  -2.241138 42.206695  -2.241139 42.206694  -2.241141 42.206693  -2.241143 42.206692  -2.241145 42.206691  -2.241147 42.206690  -2.241149 42.206689  -2.241151 42.206689  -2.241153 42.206688  -2.241155 42.206688  -2.241158 42.206688  -2.241160 42.206687  -2.241162 42.206687  -2.241164 42.206687  -2.241167 42.206687  -2.241169 42.206688  -2.241171 42.206688  -2.241173 42.206688  -2.241176 42.206689  -2.241178 42.206689  -2.241180 42.206690  -2.241182 42.206691  -2.241184 42.206692  -2.241185 42.206693  -2.241187 42.206694  -2.241188 42.206695  -2.241201 42.206687  -2.241161 42.206654  -2.241082 42.206706  -2.241121 42.206739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236335 42.211920 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236231 42.211984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236318 42.211979  -2.236335 42.211951  -2.236329 42.211949  -2.236327 42.211948  -2.236251 42.211920  -2.236231 42.211948  -2.236314 42.211984  -2.236318 42.211979  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851451">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238399 42.211039 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238305 42.211099 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238399 42.211080  -2.238381 42.211039  -2.238358 42.211046  -2.238305 42.211068  -2.238319 42.211099  -2.238399 42.211080  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851452">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236894 42.212519 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236808 42.212593 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236849 42.212593  -2.236876 42.212575  -2.236869 42.212569  -2.236894 42.212552  -2.236877 42.212536  -2.236859 42.212519  -2.236830 42.212538  -2.236808 42.212561  -2.236849 42.212593  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851453">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235530 42.211521 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235428 42.211587 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235438 42.211566  -2.235457 42.211587  -2.235530 42.211547  -2.235510 42.211521  -2.235428 42.211553  -2.235438 42.211566  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851454">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236833 42.211293 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236744 42.211364 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236767 42.211345  -2.236784 42.211364  -2.236785 42.211363  -2.236833 42.211348  -2.236815 42.211322  -2.236780 42.211293  -2.236759 42.211311  -2.236744 42.211319  -2.236767 42.211345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851455">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236844 42.213204 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236750 42.213269 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236815 42.213269  -2.236844 42.213232  -2.236784 42.213204  -2.236752 42.213238  -2.236750 42.213242  -2.236788 42.213258  -2.236815 42.213269  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851456">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235786 42.212912 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235695 42.212981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235714 42.212930  -2.235695 42.212956  -2.235738 42.212981  -2.235786 42.212947  -2.235732 42.212912  -2.235714 42.212930  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851457">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.217747 42.222031 </gml:lowerCorner>
+        		<gml:upperCorner>-2.217498 42.222211 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.217747 42.222083  -2.217690 42.222031  -2.217498 42.222156  -2.217556 42.222211  -2.217747 42.222083  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851458">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.218073 42.221707 </gml:lowerCorner>
+        		<gml:upperCorner>-2.217803 42.221975 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.217981 42.221975  -2.217997 42.221935  -2.218033 42.221848  -2.218073 42.221751  -2.217881 42.221707  -2.217803 42.221937  -2.217981 42.221975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851459">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.217672 42.222484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.217500 42.222582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.217672 42.222534  -2.217644 42.222484  -2.217500 42.222530  -2.217526 42.222582  -2.217672 42.222534  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851460">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236642 42.211683 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236533 42.211741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236533 42.211694  -2.236553 42.211741  -2.236578 42.211726  -2.236610 42.211721  -2.236642 42.211717  -2.236634 42.211683  -2.236581 42.211690  -2.236545 42.211694  -2.236533 42.211694  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236555 42.211694 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236458 42.211758 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236468 42.211695  -2.236458 42.211749  -2.236500 42.211749  -2.236499 42.211758  -2.236555 42.211753  -2.236553 42.211741  -2.236533 42.211694  -2.236510 42.211694  -2.236468 42.211695  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851462">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236557 42.211753 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236499 42.211770 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236557 42.211767  -2.236555 42.211753  -2.236499 42.211758  -2.236499 42.211770  -2.236557 42.211767  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851463">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236529 42.211751 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236411 42.211832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236462 42.211764  -2.236432 42.211751  -2.236411 42.211792  -2.236430 42.211832  -2.236510 42.211817  -2.236529 42.211813  -2.236527 42.211804  -2.236521 42.211786  -2.236492 42.211788  -2.236462 42.211764  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236604 42.211795 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236510 42.211853 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236510 42.211817  -2.236532 42.211853  -2.236537 42.211852  -2.236604 42.211840  -2.236591 42.211807  -2.236576 42.211797  -2.236574 42.211795  -2.236527 42.211804  -2.236529 42.211813  -2.236510 42.211817  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851465">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236559 42.211767 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236492 42.211788 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236499 42.211779  -2.236492 42.211788  -2.236521 42.211786  -2.236559 42.211775  -2.236557 42.211767  -2.236499 42.211770  -2.236499 42.211779  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851466">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235693 42.211765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235562 42.211838 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235562 42.211797  -2.235573 42.211802  -2.235651 42.211838  -2.235689 42.211817  -2.235693 42.211814  -2.235642 42.211777  -2.235590 42.211765  -2.235562 42.211797  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851467">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235590 42.211689 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235477 42.211797 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235558 42.211689  -2.235551 42.211693  -2.235515 42.211718  -2.235477 42.211755  -2.235505 42.211771  -2.235512 42.211774  -2.235545 42.211790  -2.235562 42.211797  -2.235590 42.211765  -2.235565 42.211743  -2.235588 42.211721  -2.235558 42.211689  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851468">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235733 42.211675 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235558 42.211814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235590 42.211765  -2.235642 42.211777  -2.235693 42.211814  -2.235733 42.211793  -2.235671 42.211745  -2.235636 42.211717  -2.235581 42.211675  -2.235558 42.211689  -2.235588 42.211721  -2.235565 42.211743  -2.235590 42.211765  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851469">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240496 42.211700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240321 42.211832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240496 42.211785  -2.240416 42.211700  -2.240321 42.211753  -2.240397 42.211832  -2.240496 42.211785  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851470">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240625 42.211663 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240463 42.211794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240625 42.211769  -2.240505 42.211663  -2.240463 42.211685  -2.240580 42.211794  -2.240625 42.211769  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851471">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235578 42.212628 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235490 42.212680 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235501 42.212659  -2.235549 42.212680  -2.235571 42.212659  -2.235578 42.212652  -2.235499 42.212628  -2.235490 42.212650  -2.235490 42.212655  -2.235501 42.212659  -2.235501 42.212659  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851472">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235499 42.212616 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235450 42.212650 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235462 42.212616  -2.235450 42.212640  -2.235490 42.212650  -2.235499 42.212628  -2.235499 42.212627  -2.235462 42.212616  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851473">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236706 42.211490 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236539 42.211550 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236539 42.211538  -2.236553 42.211550  -2.236706 42.211506  -2.236706 42.211506  -2.236695 42.211490  -2.236539 42.211538  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851474">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235607 42.212904 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235468 42.212967 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235468 42.212947  -2.235496 42.212967  -2.235496 42.212966  -2.235524 42.212943  -2.235541 42.212953  -2.235541 42.212953  -2.235575 42.212933  -2.235580 42.212930  -2.235585 42.212934  -2.235607 42.212924  -2.235589 42.212904  -2.235563 42.212913  -2.235562 42.212913  -2.235483 42.212938  -2.235468 42.212947  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851475">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241826 42.209003 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241270 42.209420 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:MultiSurface srsName="EPSG:4326">
+            <gml:surfaceMembers>
+              <gml:Polygon>
+                <gml:exterior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.241387 42.209360  -2.241387 42.209360  -2.241398 42.209364  -2.241507 42.209401  -2.241562 42.209420  -2.241676 42.209234  -2.241745 42.209257  -2.241754 42.209242  -2.241762 42.209230  -2.241826 42.209126  -2.241467 42.209003  -2.241270 42.209320  -2.241331 42.209341  -2.241331 42.209341  -2.241331 42.209341  -2.241350 42.209348  -2.241387 42.209360  </gml:posList>
+                  </gml:LinearRing>
+                </gml:exterior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.241423 42.209299  -2.241418 42.209308  -2.241519 42.209342  -2.241508 42.209361  -2.241354 42.209308  -2.241358 42.209301  -2.241381 42.209309  -2.241394 42.209289  -2.241423 42.209299  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.241601 42.209253  -2.241492 42.209217  -2.241526 42.209161  -2.241635 42.209197  -2.241601 42.209253  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+              </gml:Polygon>
+            </gml:surfaceMembers>
+          </gml:MultiSurface>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240849 42.207052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240750 42.207123 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240750 42.207097  -2.240782 42.207123  -2.240849 42.207079  -2.240817 42.207052  -2.240750 42.207097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851477">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236175 42.212219 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236101 42.212275 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236119 42.212219  -2.236111 42.212219  -2.236101 42.212267  -2.236112 42.212268  -2.236162 42.212275  -2.236175 42.212221  -2.236168 42.212221  -2.236119 42.212219  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851478">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235861 42.212711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235762 42.212753 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235772 42.212740  -2.235777 42.212753  -2.235820 42.212749  -2.235861 42.212749  -2.235851 42.212711  -2.235772 42.212714  -2.235770 42.212714  -2.235762 42.212714  -2.235772 42.212740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851479">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236840 42.211775 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236765 42.211842 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236840 42.211803  -2.236834 42.211775  -2.236769 42.211779  -2.236765 42.211842  -2.236806 42.211833  -2.236807 42.211807  -2.236840 42.211803  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851480">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235837 42.212812 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235735 42.212890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235762 42.212812  -2.235738 42.212814  -2.235735 42.212815  -2.235742 42.212836  -2.235810 42.212890  -2.235837 42.212872  -2.235762 42.212812  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851481">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236387 42.212715 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236043 42.213063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236226 42.212981  -2.236239 42.213004  -2.236289 42.213063  -2.236310 42.213063  -2.236363 42.213035  -2.236387 42.213023  -2.236343 42.212972  -2.236351 42.212968  -2.236331 42.212945  -2.236323 42.212948  -2.236280 42.212899  -2.236280 42.212899  -2.236373 42.212856  -2.236383 42.212833  -2.236276 42.212715  -2.236193 42.212755  -2.236200 42.212763  -2.236172 42.212775  -2.236140 42.212737  -2.236095 42.212741  -2.236043 42.212767  -2.236194 42.212942  -2.236193 42.212943  -2.236226 42.212981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851482">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236417 42.212156 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236322 42.212225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236376 42.212160  -2.236369 42.212156  -2.236322 42.212183  -2.236351 42.212202  -2.236373 42.212225  -2.236417 42.212207  -2.236376 42.212160  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851483">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236205 42.211324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236100 42.211387 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236128 42.211387  -2.236205 42.211352  -2.236182 42.211328  -2.236178 42.211324  -2.236141 42.211339  -2.236100 42.211358  -2.236128 42.211387  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851484">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239780 42.211938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239677 42.212006 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239726 42.211938  -2.239677 42.211965  -2.239717 42.212006  -2.239762 42.211981  -2.239776 42.211995  -2.239780 42.211993  -2.239726 42.211938  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197688 42.210882 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197629 42.210953 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197640 42.210953  -2.197688 42.210948  -2.197681 42.210919  -2.197674 42.210882  -2.197629 42.210885  -2.197640 42.210953  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235725 42.212957 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235623 42.213026 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235623 42.212981  -2.235640 42.212991  -2.235679 42.213017  -2.235693 42.213026  -2.235725 42.212998  -2.235649 42.212957  -2.235623 42.212981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851487">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235640 42.212961 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235557 42.213032 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235593 42.212961  -2.235577 42.212979  -2.235576 42.212978  -2.235557 42.213011  -2.235601 42.213032  -2.235619 42.213013  -2.235640 42.212991  -2.235623 42.212981  -2.235593 42.212961  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851488">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236483 42.213252 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236378 42.213312 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236407 42.213252  -2.236378 42.213281  -2.236455 42.213312  -2.236483 42.213282  -2.236407 42.213252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851489">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235761 42.212466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235673 42.212505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235761 42.212504  -2.235761 42.212466  -2.235697 42.212468  -2.235697 42.212475  -2.235673 42.212474  -2.235676 42.212505  -2.235761 42.212504  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851490">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241464 42.206633 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241375 42.206735 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241386 42.206664  -2.241437 42.206735  -2.241464 42.206724  -2.241431 42.206679  -2.241399 42.206633  -2.241375 42.206648  -2.241386 42.206664  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851491">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235878 42.211289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235773 42.211355 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235855 42.211289  -2.235773 42.211328  -2.235794 42.211355  -2.235794 42.211355  -2.235878 42.211316  -2.235855 42.211289  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851492">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236331 42.211628 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236239 42.211698 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236271 42.211698  -2.236294 42.211679  -2.236300 42.211682  -2.236331 42.211656  -2.236295 42.211628  -2.236239 42.211669  -2.236271 42.211698  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851493">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236354 42.211877 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236251 42.211949 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236282 42.211877  -2.236275 42.211887  -2.236298 42.211899  -2.236281 42.211921  -2.236257 42.211911  -2.236251 42.211920  -2.236327 42.211948  -2.236329 42.211949  -2.236354 42.211914  -2.236282 42.211877  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851494">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235253 42.212317 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235176 42.212387 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235232 42.212317  -2.235176 42.212337  -2.235212 42.212387  -2.235253 42.212375  -2.235232 42.212317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851495">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236119 42.212910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236000 42.213000 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236057 42.212975  -2.236084 42.213000  -2.236119 42.212983  -2.236094 42.212958  -2.236079 42.212965  -2.236018 42.212910  -2.236000 42.212919  -2.236028 42.212948  -2.236057 42.212975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851496">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236788 42.213363 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236710 42.213425 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236774 42.213425  -2.236788 42.213385  -2.236731 42.213363  -2.236710 42.213416  -2.236774 42.213425  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851497">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235363 42.213203 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235234 42.213247 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235234 42.213246  -2.235234 42.213247  -2.235363 42.213247  -2.235355 42.213227  -2.235321 42.213203  -2.235234 42.213246  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851498">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236976 42.212545 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236883 42.212612 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236976 42.212578  -2.236954 42.212557  -2.236941 42.212545  -2.236883 42.212582  -2.236918 42.212612  -2.236976 42.212578  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851499">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236731 42.211269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236652 42.211348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236684 42.211348  -2.236724 42.211329  -2.236703 42.211306  -2.236731 42.211286  -2.236713 42.211269  -2.236652 42.211309  -2.236684 42.211348  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851500">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241199 42.206687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241127 42.206741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241134 42.206730  -2.241134 42.206731  -2.241136 42.206732  -2.241137 42.206733  -2.241139 42.206734  -2.241141 42.206735  -2.241142 42.206736  -2.241144 42.206737  -2.241146 42.206738  -2.241148 42.206739  -2.241151 42.206739  -2.241153 42.206740  -2.241155 42.206740  -2.241157 42.206741  -2.241159 42.206741  -2.241162 42.206741  -2.241164 42.206741  -2.241166 42.206741  -2.241168 42.206741  -2.241171 42.206740  -2.241173 42.206740  -2.241175 42.206740  -2.241177 42.206739  -2.241179 42.206738  -2.241181 42.206737  -2.241183 42.206737  -2.241185 42.206736  -2.241187 42.206734  -2.241189 42.206733  -2.241190 42.206732  -2.241191 42.206731  -2.241193 42.206729  -2.241194 42.206728  -2.241195 42.206726  -2.241196 42.206725  -2.241197 42.206723  -2.241198 42.206722  -2.241198 42.206720  -2.241199 42.206719  -2.241199 42.206717  -2.241199 42.206715  -2.241199 42.206713  -2.241199 42.206712  -2.241199 42.206710  -2.241199 42.206708  -2.241198 42.206707  -2.241197 42.206705  -2.241196 42.206704  -2.241195 42.206702  -2.241194 42.206701  -2.241193 42.206699  -2.241192 42.206698  -2.241190 42.206696  -2.241189 42.206695  -2.241188 42.206695  -2.241187 42.206694  -2.241185 42.206693  -2.241184 42.206692  -2.241182 42.206691  -2.241180 42.206690  -2.241178 42.206689  -2.241176 42.206689  -2.241173 42.206688  -2.241171 42.206688  -2.241169 42.206688  -2.241167 42.206687  -2.241164 42.206687  -2.241162 42.206687  -2.241160 42.206687  -2.241158 42.206688  -2.241155 42.206688  -2.241153 42.206688  -2.241151 42.206689  -2.241149 42.206689  -2.241147 42.206690  -2.241145 42.206691  -2.241143 42.206692  -2.241141 42.206693  -2.241139 42.206694  -2.241138 42.206695  -2.241136 42.206696  -2.241135 42.206697  -2.241133 42.206699  -2.241132 42.206700  -2.241131 42.206702  -2.241130 42.206703  -2.241129 42.206705  -2.241128 42.206706  -2.241128 42.206708  -2.241127 42.206710  -2.241127 42.206711  -2.241127 42.206713  -2.241127 42.206715  -2.241127 42.206716  -2.241127 42.206718  -2.241128 42.206720  -2.241128 42.206721  -2.241129 42.206723  -2.241130 42.206725  -2.241131 42.206726  -2.241132 42.206728  -2.241133 42.206729  -2.241134 42.206730  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851501">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241749 42.208686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241665 42.208746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241727 42.208746  -2.241749 42.208703  -2.241688 42.208686  -2.241665 42.208729  -2.241727 42.208746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851502">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235438 42.211512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235353 42.211585 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235389 42.211585  -2.235438 42.211566  -2.235428 42.211553  -2.235420 42.211556  -2.235396 42.211512  -2.235353 42.211526  -2.235389 42.211585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851503">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236988 42.211237 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236924 42.211312 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236945 42.211312  -2.236986 42.211290  -2.236988 42.211290  -2.236977 42.211237  -2.236924 42.211250  -2.236945 42.211312  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851504">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236088 42.213539 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235993 42.213603 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236062 42.213603  -2.236088 42.213572  -2.236020 42.213539  -2.235996 42.213566  -2.235993 42.213570  -2.236062 42.213603  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851505">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195616 42.211170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195569 42.211254 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195616 42.211242  -2.195616 42.211237  -2.195608 42.211175  -2.195608 42.211170  -2.195569 42.211176  -2.195569 42.211176  -2.195574 42.211243  -2.195574 42.211247  -2.195596 42.211254  -2.195597 42.211244  -2.195616 42.211242  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851506">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.243323 42.205426 </gml:lowerCorner>
+        		<gml:upperCorner>-2.243251 42.205532 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.243277 42.205426  -2.243251 42.205433  -2.243295 42.205532  -2.243323 42.205525  -2.243277 42.205426  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851507">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235738 42.212915 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235649 42.212998 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235682 42.212915  -2.235658 42.212944  -2.235649 42.212957  -2.235725 42.212998  -2.235736 42.212983  -2.235738 42.212981  -2.235695 42.212956  -2.235714 42.212930  -2.235682 42.212915  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851508">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237066 42.212547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236976 42.212613 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236976 42.212578  -2.236976 42.212578  -2.236997 42.212597  -2.237016 42.212613  -2.237066 42.212582  -2.237025 42.212547  -2.236976 42.212578  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851509">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241732 42.206512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241633 42.206591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241709 42.206540  -2.241703 42.206532  -2.241678 42.206546  -2.241648 42.206516  -2.241644 42.206512  -2.241633 42.206518  -2.241642 42.206528  -2.241640 42.206528  -2.241642 42.206532  -2.241686 42.206591  -2.241732 42.206572  -2.241709 42.206540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851510">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235214 42.213158 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235127 42.213237 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235127 42.213176  -2.235181 42.213237  -2.235214 42.213222  -2.235192 42.213195  -2.235163 42.213158  -2.235127 42.213176  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851511">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234885 42.212044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234801 42.212110 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234847 42.212044  -2.234801 42.212073  -2.234838 42.212110  -2.234885 42.212087  -2.234877 42.212074  -2.234874 42.212068  -2.234847 42.212044  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236070 42.211477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235947 42.211563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235988 42.211537  -2.236021 42.211563  -2.236070 42.211520  -2.236039 42.211496  -2.236013 42.211477  -2.235947 42.211505  -2.235988 42.211537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851513">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235714 42.211493 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235631 42.211561 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235631 42.211527  -2.235665 42.211561  -2.235714 42.211535  -2.235692 42.211493  -2.235631 42.211527  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851514">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237165 42.212425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237088 42.212501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237150 42.212458  -2.237127 42.212425  -2.237092 42.212447  -2.237088 42.212450  -2.237126 42.212501  -2.237165 42.212480  -2.237150 42.212458  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851515">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237172 42.212570 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237085 42.212644 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237124 42.212570  -2.237085 42.212591  -2.237142 42.212644  -2.237172 42.212626  -2.237124 42.212570  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851516">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194684 42.211286 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194627 42.211347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194627 42.211347  -2.194675 42.211347  -2.194680 42.211305  -2.194684 42.211288  -2.194680 42.211288  -2.194633 42.211286  -2.194633 42.211286  -2.194627 42.211347  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851517">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236535 42.211971 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236451 42.212020 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236451 42.211975  -2.236452 42.211998  -2.236452 42.212018  -2.236535 42.212020  -2.236533 42.211977  -2.236451 42.211971  -2.236451 42.211975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851518">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196471 42.211156 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196404 42.211225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196469 42.211171  -2.196471 42.211165  -2.196426 42.211156  -2.196404 42.211215  -2.196449 42.211225  -2.196464 42.211184  -2.196469 42.211171  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851519">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236243 42.213306 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236154 42.213366 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236216 42.213366  -2.236243 42.213329  -2.236188 42.213306  -2.236154 42.213345  -2.236216 42.213366  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851520">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235408 42.212527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235326 42.212598 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235326 42.212550  -2.235327 42.212554  -2.235377 42.212598  -2.235408 42.212586  -2.235398 42.212570  -2.235391 42.212559  -2.235382 42.212543  -2.235372 42.212527  -2.235326 42.212550  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851521">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241754 42.206492 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241648 42.206546 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241709 42.206540  -2.241736 42.206528  -2.241739 42.206533  -2.241751 42.206525  -2.241754 42.206522  -2.241694 42.206492  -2.241648 42.206516  -2.241678 42.206546  -2.241703 42.206532  -2.241709 42.206540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851522">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197503 42.211403 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197409 42.211460 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197409 42.211407  -2.197412 42.211434  -2.197416 42.211460  -2.197447 42.211444  -2.197455 42.211435  -2.197464 42.211430  -2.197480 42.211425  -2.197503 42.211419  -2.197503 42.211408  -2.197409 42.211403  -2.197409 42.211407  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851523">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195076 42.211059 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194989 42.211108 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195007 42.211100  -2.195029 42.211107  -2.195029 42.211107  -2.195030 42.211103  -2.195045 42.211108  -2.195076 42.211060  -2.195002 42.211059  -2.194995 42.211078  -2.194989 42.211094  -2.195007 42.211100  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851524">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.218130 42.221845 </gml:lowerCorner>
+        		<gml:upperCorner>-2.217997 42.221941 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.217997 42.221935  -2.218129 42.221941  -2.218130 42.221845  -2.218033 42.221848  -2.217997 42.221935  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851525">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236644 42.211971 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236533 42.212020 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236535 42.212020  -2.236641 42.212006  -2.236644 42.211984  -2.236615 42.211988  -2.236615 42.211977  -2.236614 42.211971  -2.236587 42.211972  -2.236585 42.211979  -2.236533 42.211977  -2.236535 42.212020  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851526">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235666 42.211653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235581 42.211717 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235666 42.211687  -2.235659 42.211683  -2.235640 42.211672  -2.235609 42.211653  -2.235581 42.211675  -2.235581 42.211675  -2.235636 42.211717  -2.235666 42.211687  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851527">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235783 42.211713 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235671 42.211793 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235671 42.211745  -2.235733 42.211793  -2.235738 42.211790  -2.235767 42.211771  -2.235783 42.211759  -2.235710 42.211713  -2.235671 42.211745  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851528">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235710 42.211687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235636 42.211745 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235636 42.211717  -2.235671 42.211745  -2.235710 42.211713  -2.235701 42.211707  -2.235666 42.211687  -2.235636 42.211717  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851529">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235822 42.211687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235710 42.211759 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235731 42.211697  -2.235710 42.211713  -2.235783 42.211759  -2.235822 42.211733  -2.235760 42.211687  -2.235731 42.211697  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851530">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235790 42.211560 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235635 42.211661 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235652 42.211618  -2.235738 42.211661  -2.235752 42.211650  -2.235766 42.211637  -2.235790 42.211614  -2.235705 42.211560  -2.235635 42.211605  -2.235645 42.211612  -2.235652 42.211618  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851531">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235738 42.211618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235618 42.211683 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235652 42.211618  -2.235618 42.211647  -2.235668 42.211670  -2.235708 42.211683  -2.235738 42.211661  -2.235652 42.211618  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851532">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235855 42.211637 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235708 42.211733 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235731 42.211697  -2.235760 42.211687  -2.235822 42.211733  -2.235850 42.211710  -2.235855 42.211706  -2.235766 42.211637  -2.235752 42.211650  -2.235738 42.211661  -2.235708 42.211683  -2.235731 42.211697  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851533">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235892 42.211614 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235766 42.211706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235790 42.211614  -2.235766 42.211637  -2.235855 42.211706  -2.235892 42.211676  -2.235839 42.211636  -2.235832 42.211641  -2.235790 42.211614  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851534">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235881 42.211547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235705 42.211641 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235828 42.211568  -2.235804 42.211547  -2.235728 42.211552  -2.235706 42.211560  -2.235705 42.211560  -2.235790 42.211614  -2.235832 42.211641  -2.235839 42.211636  -2.235881 42.211604  -2.235828 42.211568  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851535">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235935 42.211604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235839 42.211678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235881 42.211604  -2.235839 42.211636  -2.235892 42.211676  -2.235895 42.211678  -2.235935 42.211649  -2.235928 42.211644  -2.235881 42.211604  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851536">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235958 42.211543 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235828 42.211644 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235869 42.211543  -2.235862 42.211547  -2.235828 42.211568  -2.235881 42.211604  -2.235928 42.211644  -2.235955 42.211623  -2.235958 42.211620  -2.235869 42.211543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851537">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235987 42.211523 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235869 42.211620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235869 42.211543  -2.235958 42.211620  -2.235983 42.211599  -2.235987 42.211595  -2.235952 42.211565  -2.235904 42.211523  -2.235902 42.211523  -2.235869 42.211543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851538">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235988 42.211505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235904 42.211565 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235988 42.211537  -2.235947 42.211505  -2.235904 42.211523  -2.235952 42.211565  -2.235988 42.211537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851539">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236021 42.211537 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235952 42.211595 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235952 42.211565  -2.235987 42.211595  -2.236021 42.211564  -2.236021 42.211563  -2.235988 42.211537  -2.235952 42.211565  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851540">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239701 42.213406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239394 42.213635 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239648 42.213635  -2.239701 42.213461  -2.239606 42.213444  -2.239612 42.213417  -2.239546 42.213406  -2.239539 42.213430  -2.239440 42.213416  -2.239394 42.213593  -2.239648 42.213635  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851541">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240559 42.212870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240419 42.212995 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240493 42.212995  -2.240559 42.212902  -2.240490 42.212870  -2.240419 42.212965  -2.240493 42.212995  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851542">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241161 42.206634 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241057 42.206706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241161 42.206654  -2.241137 42.206634  -2.241074 42.206674  -2.241057 42.206685  -2.241082 42.206706  -2.241161 42.206654  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851543">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235921 42.212190 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235834 42.212251 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235872 42.212193  -2.235866 42.212190  -2.235834 42.212224  -2.235904 42.212251  -2.235921 42.212214  -2.235872 42.212193  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851544">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236407 42.212688 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236321 42.212754 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236375 42.212688  -2.236375 42.212689  -2.236321 42.212696  -2.236366 42.212754  -2.236407 42.212704  -2.236375 42.212688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851545">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237279 42.213958 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237211 42.214010 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237279 42.213999  -2.237279 42.213964  -2.237279 42.213964  -2.237211 42.213958  -2.237215 42.214010  -2.237279 42.213999  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235960 42.213691 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235883 42.213732 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235959 42.213732  -2.235960 42.213696  -2.235887 42.213691  -2.235883 42.213731  -2.235959 42.213732  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851547">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197036 42.211228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196956 42.211284 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196958 42.211247  -2.196964 42.211259  -2.196973 42.211281  -2.196975 42.211284  -2.197036 42.211267  -2.197017 42.211228  -2.196956 42.211241  -2.196958 42.211247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238608 42.210915 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238525 42.210983 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238525 42.210947  -2.238546 42.210983  -2.238608 42.210947  -2.238582 42.210915  -2.238525 42.210947  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236153 42.213572 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236062 42.213636 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236131 42.213593  -2.236088 42.213572  -2.236062 42.213603  -2.236130 42.213636  -2.236153 42.213611  -2.236127 42.213598  -2.236131 42.213593  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851550">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236417 42.211970 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236337 42.212033 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236412 42.211986  -2.236374 42.211970  -2.236352 42.211994  -2.236337 42.212010  -2.236397 42.212033  -2.236417 42.211987  -2.236412 42.211986  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851551">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239930 42.211061 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239799 42.211114 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239809 42.211114  -2.239930 42.211081  -2.239920 42.211061  -2.239799 42.211094  -2.239809 42.211114  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851552">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236356 42.211278 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236264 42.211336 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236332 42.211278  -2.236264 42.211305  -2.236290 42.211336  -2.236329 42.211321  -2.236356 42.211309  -2.236332 42.211278  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237826 42.212073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237735 42.212142 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237795 42.212142  -2.237826 42.212122  -2.237767 42.212073  -2.237735 42.212093  -2.237795 42.212142  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235961 42.212452 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235894 42.212505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235931 42.212498  -2.235961 42.212493  -2.235953 42.212452  -2.235896 42.212457  -2.235894 42.212505  -2.235931 42.212498  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851555">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235873 42.213085 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235778 42.213141 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235870 42.213141  -2.235873 42.213140  -2.235849 42.213117  -2.235855 42.213113  -2.235820 42.213085  -2.235778 42.213119  -2.235803 42.213136  -2.235870 42.213141  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196964 42.210860 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196907 42.210924 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196964 42.210920  -2.196963 42.210860  -2.196907 42.210884  -2.196919 42.210924  -2.196964 42.210920  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851557">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237338 42.211018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237277 42.211077 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237324 42.211021  -2.237285 42.211018  -2.237277 42.211067  -2.237326 42.211077  -2.237331 42.211061  -2.237338 42.211025  -2.237324 42.211023  -2.237324 42.211021  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851558">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235270 42.212464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235206 42.212514 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235270 42.212512  -2.235266 42.212464  -2.235218 42.212464  -2.235206 42.212514  -2.235270 42.212512  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235322 42.213390 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235265 42.213458 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235265 42.213433  -2.235292 42.213458  -2.235320 42.213453  -2.235322 42.213390  -2.235282 42.213392  -2.235277 42.213434  -2.235265 42.213433  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851560">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235751 42.211938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235661 42.212018 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235692 42.212018  -2.235751 42.211952  -2.235751 42.211952  -2.235731 42.211938  -2.235661 42.211997  -2.235692 42.212018  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851561">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235767 42.212541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235672 42.212584 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235718 42.212543  -2.235716 42.212568  -2.235672 42.212567  -2.235673 42.212584  -2.235760 42.212584  -2.235767 42.212542  -2.235767 42.212541  -2.235718 42.212543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236889 42.213392 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236816 42.213442 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236864 42.213396  -2.236830 42.213392  -2.236816 42.213440  -2.236849 42.213441  -2.236863 42.213442  -2.236873 42.213442  -2.236889 42.213398  -2.236871 42.213396  -2.236864 42.213396  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851563">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236034 42.211815 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235951 42.211873 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235988 42.211815  -2.235952 42.211846  -2.235951 42.211846  -2.236029 42.211873  -2.236029 42.211872  -2.236034 42.211832  -2.235988 42.211815  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851564">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238088 42.212074 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237989 42.212144 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238088 42.212094  -2.238064 42.212074  -2.237989 42.212124  -2.238013 42.212144  -2.238088 42.212094  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233973 42.212256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233909 42.212321 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233973 42.212315  -2.233953 42.212256  -2.233909 42.212266  -2.233928 42.212321  -2.233973 42.212315  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851566">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194967 42.211174 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194926 42.211248 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194964 42.211245  -2.194967 42.211177  -2.194931 42.211174  -2.194930 42.211174  -2.194926 42.211248  -2.194964 42.211245  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236482 42.213135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236389 42.213192 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236389 42.213168  -2.236425 42.213189  -2.236428 42.213192  -2.236482 42.213174  -2.236450 42.213135  -2.236389 42.213168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235022 42.213231 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234920 42.213288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234922 42.213288  -2.235022 42.213276  -2.234994 42.213231  -2.234959 42.213253  -2.234920 42.213287  -2.234922 42.213288  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851569">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236287 42.211989 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236187 42.212047 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236287 42.212025  -2.236202 42.211989  -2.236187 42.212017  -2.236235 42.212035  -2.236271 42.212047  -2.236287 42.212025  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851570">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236094 42.213256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235997 42.213312 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236094 42.213289  -2.236018 42.213256  -2.236008 42.213270  -2.235997 42.213287  -2.236071 42.213311  -2.236075 42.213312  -2.236094 42.213289  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851571">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235603 42.213421 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235549 42.213484 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235551 42.213421  -2.235549 42.213483  -2.235591 42.213484  -2.235603 42.213437  -2.235551 42.213421  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851572">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235519 42.213732 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235447 42.213799 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235519 42.213788  -2.235495 42.213732  -2.235447 42.213748  -2.235483 42.213799  -2.235519 42.213788  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851573">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235466 42.212874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235386 42.212936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235464 42.212903  -2.235466 42.212899  -2.235442 42.212887  -2.235412 42.212874  -2.235386 42.212908  -2.235389 42.212909  -2.235444 42.212935  -2.235446 42.212936  -2.235464 42.212903  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851574">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235281 42.212512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235206 42.212557 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235270 42.212512  -2.235206 42.212514  -2.235218 42.212557  -2.235281 42.212551  -2.235270 42.212512  -2.235270 42.212512  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851575">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235578 42.213662 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235490 42.213720 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235490 42.213688  -2.235515 42.213720  -2.235578 42.213693  -2.235553 42.213662  -2.235490 42.213688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851576">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197417 42.211434 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197346 42.211475 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197416 42.211460  -2.197412 42.211434  -2.197346 42.211437  -2.197346 42.211439  -2.197348 42.211475  -2.197417 42.211473  -2.197416 42.211460  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239837 42.208263 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239752 42.208310 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239752 42.208281  -2.239762 42.208306  -2.239837 42.208310  -2.239822 42.208274  -2.239825 42.208274  -2.239821 42.208263  -2.239752 42.208281  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236135 42.212370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236063 42.212414 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236135 42.212374  -2.236071 42.212370  -2.236063 42.212410  -2.236130 42.212414  -2.236135 42.212374  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851579">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235847 42.213494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235765 42.213555 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235846 42.213532  -2.235843 42.213529  -2.235847 42.213527  -2.235812 42.213496  -2.235809 42.213494  -2.235790 42.213505  -2.235765 42.213518  -2.235786 42.213540  -2.235790 42.213537  -2.235809 42.213555  -2.235846 42.213532  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851580">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241379 42.206648 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241254 42.206740 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241376 42.206670  -2.241378 42.206662  -2.241379 42.206657  -2.241378 42.206653  -2.241375 42.206648  -2.241254 42.206727  -2.241269 42.206740  -2.241376 42.206670  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851581">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237887 42.212489 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237797 42.212548 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237797 42.212521  -2.237820 42.212548  -2.237887 42.212516  -2.237864 42.212489  -2.237797 42.212521  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851582">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195654 42.211168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195608 42.211237 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195650 42.211168  -2.195608 42.211175  -2.195616 42.211237  -2.195654 42.211233  -2.195650 42.211168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851583">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236295 42.213324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236216 42.213376 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236216 42.213366  -2.236241 42.213373  -2.236261 42.213376  -2.236286 42.213374  -2.236295 42.213348  -2.236252 42.213324  -2.236243 42.213329  -2.236216 42.213366  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851584">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237459 42.213121 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237365 42.213179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237365 42.213163  -2.237411 42.213179  -2.237424 42.213168  -2.237459 42.213142  -2.237416 42.213121  -2.237390 42.213146  -2.237365 42.213163  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851585">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234913 42.212007 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234828 42.212074 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234883 42.212029  -2.234861 42.212007  -2.234828 42.212025  -2.234847 42.212044  -2.234874 42.212068  -2.234877 42.212074  -2.234913 42.212060  -2.234883 42.212029  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237128 42.213527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237026 42.213562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237026 42.213537  -2.237031 42.213562  -2.237128 42.213553  -2.237123 42.213527  -2.237064 42.213533  -2.237026 42.213537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851587">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235499 42.213057 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235401 42.213097 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235499 42.213063  -2.235461 42.213057  -2.235401 42.213069  -2.235409 42.213097  -2.235443 42.213090  -2.235444 42.213082  -2.235495 42.213089  -2.235499 42.213063  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851588">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236025 42.212447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235953 42.212493 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236006 42.212485  -2.236025 42.212482  -2.236021 42.212465  -2.236023 42.212447  -2.235953 42.212452  -2.235961 42.212493  -2.235973 42.212490  -2.236006 42.212485  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851589">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235429 42.212471 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235358 42.212531 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235429 42.212509  -2.235411 42.212472  -2.235410 42.212471  -2.235358 42.212487  -2.235358 42.212488  -2.235372 42.212527  -2.235375 42.212531  -2.235429 42.212509  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851590">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.198660 42.211058 </gml:lowerCorner>
+        		<gml:upperCorner>-2.198582 42.211091 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.198658 42.211058  -2.198584 42.211058  -2.198582 42.211091  -2.198660 42.211091  -2.198658 42.211058  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851591">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236332 42.211253 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236240 42.211305 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236319 42.211261  -2.236312 42.211253  -2.236275 42.211264  -2.236240 42.211275  -2.236264 42.211305  -2.236332 42.211278  -2.236319 42.211261  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851592">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236173 42.211401 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236088 42.211460 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236157 42.211438  -2.236173 42.211430  -2.236141 42.211401  -2.236122 42.211412  -2.236088 42.211430  -2.236115 42.211460  -2.236157 42.211438  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851593">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235078 42.213221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234994 42.213276 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235034 42.213221  -2.234997 42.213229  -2.234994 42.213231  -2.235022 42.213276  -2.235078 42.213269  -2.235036 42.213225  -2.235034 42.213221  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851594">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240946 42.206943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240856 42.207008 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240936 42.206956  -2.240921 42.206943  -2.240856 42.206986  -2.240881 42.207008  -2.240946 42.206965  -2.240936 42.206956  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236141 42.211331 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236044 42.211412 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236122 42.211412  -2.236141 42.211401  -2.236128 42.211387  -2.236100 42.211358  -2.236074 42.211331  -2.236044 42.211341  -2.236122 42.211412  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851596">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242648 42.209237 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242432 42.209395 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242566 42.209395  -2.242585 42.209370  -2.242599 42.209375  -2.242641 42.209322  -2.242629 42.209318  -2.242648 42.209290  -2.242544 42.209246  -2.242537 42.209256  -2.242489 42.209237  -2.242432 42.209315  -2.242475 42.209334  -2.242466 42.209351  -2.242566 42.209395  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851597">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241487 42.209695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241237 42.209799 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241459 42.209799  -2.241487 42.209748  -2.241257 42.209695  -2.241237 42.209742  -2.241270 42.209749  -2.241434 42.209793  -2.241459 42.209799  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235953 42.212418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235896 42.212457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235953 42.212452  -2.235946 42.212418  -2.235912 42.212419  -2.235896 42.212457  -2.235953 42.212452  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237295 42.213376 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237184 42.213442 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237293 42.213442  -2.237295 42.213394  -2.237187 42.213376  -2.237184 42.213436  -2.237293 42.213442  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240300 42.213111 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240166 42.213206 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240300 42.213145  -2.240248 42.213111  -2.240166 42.213174  -2.240215 42.213206  -2.240300 42.213145  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851601">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239720 42.212034 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239535 42.212166 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239720 42.212097  -2.239648 42.212034  -2.239535 42.212107  -2.239608 42.212166  -2.239720 42.212097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851602">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240220 42.209586 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239763 42.210002 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240220 42.209678  -2.240003 42.209586  -2.239763 42.209918  -2.239986 42.210002  -2.240220 42.209678  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851603">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239370 42.208534 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239073 42.208799 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239124 42.208799  -2.239370 42.208581  -2.239294 42.208534  -2.239231 42.208590  -2.239251 42.208605  -2.239073 42.208767  -2.239124 42.208799  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851604">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237455 42.211397 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237364 42.211474 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237433 42.211397  -2.237422 42.211398  -2.237364 42.211408  -2.237398 42.211474  -2.237400 42.211473  -2.237455 42.211455  -2.237433 42.211397  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851605">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237361 42.211461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237214 42.211559 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237214 42.211506  -2.237251 42.211559  -2.237361 42.211504  -2.237351 42.211492  -2.237326 42.211461  -2.237214 42.211506  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851606">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237398 42.211408 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237313 42.211492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237364 42.211408  -2.237356 42.211410  -2.237313 42.211416  -2.237326 42.211461  -2.237351 42.211492  -2.237398 42.211474  -2.237364 42.211408  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851607">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237485 42.211395 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237433 42.211455 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237433 42.211397  -2.237455 42.211455  -2.237485 42.211445  -2.237465 42.211395  -2.237461 42.211395  -2.237446 42.211396  -2.237443 42.211396  -2.237439 42.211397  -2.237433 42.211397  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851608">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235694 42.213013 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235597 42.213069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235679 42.213017  -2.235658 42.213038  -2.235619 42.213013  -2.235601 42.213032  -2.235597 42.213037  -2.235649 42.213069  -2.235694 42.213027  -2.235693 42.213026  -2.235679 42.213017  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851609">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195761 42.211272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195690 42.211317 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195690 42.211280  -2.195697 42.211311  -2.195761 42.211317  -2.195757 42.211272  -2.195690 42.211280  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851610">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236335 42.212104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236252 42.212165 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236252 42.212139  -2.236252 42.212139  -2.236280 42.212165  -2.236335 42.212127  -2.236297 42.212104  -2.236252 42.212139  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851611">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237328 42.211257 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237261 42.211309 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237318 42.211257  -2.237261 42.211267  -2.237272 42.211309  -2.237273 42.211309  -2.237328 42.211298  -2.237318 42.211257  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851612">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235632 42.211547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235553 42.211611 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235600 42.211611  -2.235632 42.211583  -2.235593 42.211547  -2.235553 42.211568  -2.235600 42.211611  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851613">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194893 42.211111 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194819 42.211151 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194893 42.211151  -2.194890 42.211111  -2.194855 42.211115  -2.194823 42.211115  -2.194822 42.211118  -2.194824 42.211119  -2.194819 42.211147  -2.194882 42.211151  -2.194893 42.211151  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851614">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237691 42.213265 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237609 42.213326 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237691 42.213297  -2.237634 42.213265  -2.237609 42.213292  -2.237620 42.213299  -2.237665 42.213326  -2.237691 42.213297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851615">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236278 42.212323 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236191 42.212375 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236209 42.212323  -2.236209 42.212324  -2.236191 42.212353  -2.236259 42.212375  -2.236277 42.212345  -2.236278 42.212344  -2.236209 42.212323  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851616">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235522 42.213161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235446 42.213201 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235446 42.213194  -2.235515 42.213201  -2.235522 42.213166  -2.235447 42.213161  -2.235446 42.213194  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851617">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236172 42.213412 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236087 42.213460 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236169 42.213438  -2.236172 42.213432  -2.236132 42.213420  -2.236104 42.213412  -2.236099 42.213422  -2.236087 42.213447  -2.236157 42.213460  -2.236169 42.213438  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851618">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235393 42.211966 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235331 42.212046 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235331 42.212039  -2.235357 42.212046  -2.235361 42.212033  -2.235372 42.212023  -2.235364 42.212018  -2.235393 42.211996  -2.235351 42.211966  -2.235332 42.211981  -2.235348 42.211985  -2.235331 42.212039  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851619">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236053 42.212822 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235962 42.212878 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235985 42.212878  -2.236053 42.212846  -2.236026 42.212822  -2.235962 42.212853  -2.235985 42.212878  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851620">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237214 42.211772 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237132 42.211831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237132 42.211801  -2.237174 42.211831  -2.237214 42.211801  -2.237175 42.211774  -2.237172 42.211772  -2.237132 42.211801  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851621">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236399 42.211119 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236289 42.211166 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236399 42.211129  -2.236380 42.211119  -2.236337 42.211124  -2.236289 42.211140  -2.236304 42.211164  -2.236306 42.211166  -2.236399 42.211129  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851622">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236130 42.212410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236056 42.212448 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236063 42.212410  -2.236060 42.212410  -2.236056 42.212445  -2.236125 42.212448  -2.236130 42.212415  -2.236130 42.212414  -2.236063 42.212410  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851623">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236294 42.212294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236209 42.212345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236209 42.212323  -2.236278 42.212344  -2.236277 42.212345  -2.236294 42.212313  -2.236223 42.212294  -2.236209 42.212323  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851624">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195761 42.211311 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195688 42.211353 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195697 42.211311  -2.195688 42.211346  -2.195754 42.211353  -2.195761 42.211317  -2.195697 42.211311  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851625">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237350 42.212363 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237261 42.212417 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237261 42.212390  -2.237276 42.212409  -2.237282 42.212417  -2.237350 42.212388  -2.237332 42.212364  -2.237330 42.212363  -2.237293 42.212377  -2.237261 42.212390  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851626">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236630 42.211240 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236565 42.211318 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236593 42.211318  -2.236630 42.211295  -2.236589 42.211240  -2.236575 42.211244  -2.236588 42.211264  -2.236565 42.211271  -2.236592 42.211317  -2.236593 42.211318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851627">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239023 42.212085 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238942 42.212145 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239023 42.212114  -2.238991 42.212085  -2.238942 42.212116  -2.238974 42.212145  -2.239023 42.212114  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851628">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235830 42.213537 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235749 42.213596 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235786 42.213540  -2.235749 42.213571  -2.235753 42.213573  -2.235796 42.213596  -2.235830 42.213575  -2.235809 42.213555  -2.235790 42.213537  -2.235786 42.213540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851629">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236895 42.213517 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236784 42.213542 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236787 42.213541  -2.236895 42.213542  -2.236893 42.213522  -2.236784 42.213517  -2.236787 42.213541  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851630">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233791 42.212283 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233734 42.212352 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233791 42.212347  -2.233768 42.212283  -2.233734 42.212289  -2.233756 42.212352  -2.233791 42.212347  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851631">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235565 42.212418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235513 42.212469 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235519 42.212467  -2.235565 42.212469  -2.235563 42.212420  -2.235558 42.212419  -2.235513 42.212418  -2.235519 42.212467  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851632">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234964 42.212006 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234883 42.212060 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234947 42.212006  -2.234895 42.212025  -2.234883 42.212029  -2.234913 42.212060  -2.234964 42.212038  -2.234947 42.212006  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851633">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195454 42.210910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195386 42.210960 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195386 42.210952  -2.195447 42.210960  -2.195454 42.210924  -2.195399 42.210910  -2.195387 42.210952  -2.195386 42.210952  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851634">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235429 42.212768 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235354 42.212852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235429 42.212768  -2.235362 42.212773  -2.235354 42.212849  -2.235356 42.212852  -2.235370 42.212825  -2.235388 42.212793  -2.235411 42.212800  -2.235429 42.212768  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851635">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235612 42.212298 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235534 42.212337 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235604 42.212337  -2.235612 42.212305  -2.235541 42.212298  -2.235534 42.212331  -2.235604 42.212337  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851636">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237327 42.211003 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237251 42.211067 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237324 42.211021  -2.237327 42.211007  -2.237313 42.211004  -2.237258 42.211003  -2.237251 42.211061  -2.237277 42.211067  -2.237285 42.211018  -2.237324 42.211021  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851637">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197454 42.210730 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197390 42.210777 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197390 42.210733  -2.197390 42.210777  -2.197411 42.210770  -2.197431 42.210765  -2.197454 42.210763  -2.197452 42.210730  -2.197390 42.210733  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851638">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236260 42.211312 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236182 42.211371 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236224 42.211371  -2.236260 42.211353  -2.236221 42.211312  -2.236182 42.211328  -2.236205 42.211352  -2.236224 42.211371  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851639">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236611 42.213150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236522 42.213203 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236565 42.213150  -2.236522 42.213174  -2.236571 42.213203  -2.236611 42.213180  -2.236565 42.213150  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851640">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194801 42.210746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194747 42.210811 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194764 42.210746  -2.194747 42.210804  -2.194785 42.210811  -2.194801 42.210753  -2.194801 42.210753  -2.194764 42.210746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851641">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241727 42.208729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241648 42.208778 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241727 42.208746  -2.241665 42.208729  -2.241648 42.208761  -2.241710 42.208778  -2.241727 42.208746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851642">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235372 42.212488 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235311 42.212550 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235358 42.212488  -2.235348 42.212491  -2.235311 42.212505  -2.235326 42.212550  -2.235372 42.212527  -2.235358 42.212488  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851643">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236420 42.211647 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236369 42.211711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236416 42.211647  -2.236369 42.211677  -2.236420 42.211711  -2.236416 42.211647  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851644">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195639 42.211321 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195580 42.211361 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195583 42.211321  -2.195580 42.211361  -2.195639 42.211361  -2.195639 42.211324  -2.195583 42.211321  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851645">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235415 42.212348 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235347 42.212391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235347 42.212355  -2.235358 42.212391  -2.235415 42.212386  -2.235408 42.212348  -2.235347 42.212355  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851646">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196824 42.210626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196746 42.210655 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196746 42.210654  -2.196823 42.210655  -2.196824 42.210641  -2.196824 42.210626  -2.196747 42.210626  -2.196747 42.210631  -2.196746 42.210654  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851647">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195074 42.211103 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195010 42.211155 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195065 42.211155  -2.195074 42.211119  -2.195066 42.211117  -2.195045 42.211108  -2.195030 42.211103  -2.195029 42.211107  -2.195010 42.211153  -2.195065 42.211155  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851648">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236024 42.213520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235939 42.213566 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236020 42.213539  -2.236024 42.213534  -2.235949 42.213520  -2.235939 42.213544  -2.235996 42.213566  -2.236020 42.213539  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851649">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239968 42.209528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239892 42.209585 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.239930 42.209528  -2.239892 42.209556  -2.239930 42.209585  -2.239968 42.209557  -2.239930 42.209528  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851650">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235823 42.211779 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235736 42.211838 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235823 42.211796  -2.235796 42.211779  -2.235736 42.211816  -2.235761 42.211838  -2.235823 42.211796  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851651">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235682 42.212885 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235605 42.212944 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235682 42.212915  -2.235644 42.212885  -2.235605 42.212899  -2.235626 42.212917  -2.235658 42.212944  -2.235682 42.212915  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851652">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.220434 42.223951 </gml:lowerCorner>
+        		<gml:upperCorner>-2.220190 42.224368 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.220434 42.224334  -2.220340 42.223951  -2.220190 42.223977  -2.220209 42.224179  -2.220281 42.224368  -2.220434 42.224334  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851653">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.220592 42.224541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.220410 42.224676 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.220592 42.224644  -2.220551 42.224541  -2.220410 42.224569  -2.220451 42.224676  -2.220592 42.224644  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851654">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.220819 42.224941 </gml:lowerCorner>
+        		<gml:upperCorner>-2.220675 42.225138 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.220819 42.225126  -2.220747 42.224941  -2.220675 42.224953  -2.220744 42.225138  -2.220819 42.225126  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851655">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.220481 42.224394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.220358 42.224456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.220481 42.224434  -2.220463 42.224394  -2.220358 42.224420  -2.220376 42.224456  -2.220481 42.224434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851656">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235513 42.212593 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235462 42.212627 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235462 42.212616  -2.235499 42.212627  -2.235513 42.212594  -2.235473 42.212593  -2.235462 42.212616  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851657">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195994 42.211102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195901 42.211129 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195967 42.211102  -2.195967 42.211102  -2.195901 42.211106  -2.195902 42.211127  -2.195994 42.211129  -2.195988 42.211103  -2.195967 42.211102  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851658">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238149 42.212385 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238055 42.212442 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238065 42.212418  -2.238055 42.212423  -2.238072 42.212442  -2.238149 42.212405  -2.238131 42.212385  -2.238065 42.212418  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851659">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237124 42.211454 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237052 42.211526 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237089 42.211455  -2.237052 42.211459  -2.237057 42.211479  -2.237059 42.211487  -2.237066 42.211520  -2.237067 42.211525  -2.237067 42.211526  -2.237080 42.211525  -2.237124 42.211521  -2.237112 42.211483  -2.237104 42.211454  -2.237089 42.211455  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851660">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236150 42.213268 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236075 42.213326 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236113 42.213268  -2.236094 42.213289  -2.236075 42.213312  -2.236108 42.213326  -2.236150 42.213284  -2.236113 42.213268  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851661">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236988 42.212674 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236886 42.212725 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236955 42.212674  -2.236886 42.212723  -2.236888 42.212725  -2.236923 42.212722  -2.236988 42.212700  -2.236958 42.212677  -2.236955 42.212674  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851662">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236589 42.211184 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236520 42.211247 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236551 42.211247  -2.236572 42.211239  -2.236575 42.211244  -2.236589 42.211240  -2.236549 42.211184  -2.236522 42.211192  -2.236520 42.211193  -2.236551 42.211247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851663">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235576 42.212957 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235501 42.213011 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235501 42.212984  -2.235557 42.213011  -2.235576 42.212978  -2.235535 42.212957  -2.235501 42.212984  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851664">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235925 42.213095 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235849 42.213153 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235900 42.213153  -2.235925 42.213137  -2.235880 42.213095  -2.235855 42.213113  -2.235849 42.213117  -2.235873 42.213140  -2.235870 42.213141  -2.235876 42.213139  -2.235896 42.213151  -2.235900 42.213153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851665">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195618 42.211247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195570 42.211300 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195574 42.211247  -2.195570 42.211296  -2.195618 42.211300  -2.195617 42.211254  -2.195596 42.211254  -2.195574 42.211247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851666">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237174 42.211801 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237102 42.211860 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237102 42.211824  -2.237135 42.211860  -2.237174 42.211831  -2.237132 42.211801  -2.237105 42.211821  -2.237103 42.211823  -2.237102 42.211824  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851667">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236767 42.211319 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236684 42.211372 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236703 42.211372  -2.236767 42.211345  -2.236744 42.211319  -2.236724 42.211329  -2.236684 42.211348  -2.236703 42.211371  -2.236703 42.211372  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851668">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236111 42.212217 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236056 42.212269 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236056 42.212269  -2.236062 42.212264  -2.236101 42.212267  -2.236111 42.212219  -2.236068 42.212217  -2.236056 42.212269  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851669">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194088 42.211416 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194018 42.211473 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194056 42.211472  -2.194057 42.211473  -2.194081 42.211463  -2.194069 42.211447  -2.194088 42.211441  -2.194069 42.211416  -2.194066 42.211417  -2.194018 42.211431  -2.194056 42.211472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851670">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235495 42.213082 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235435 42.213128 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235443 42.213090  -2.235435 42.213122  -2.235489 42.213128  -2.235495 42.213089  -2.235444 42.213082  -2.235443 42.213090  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851671">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236394 42.212405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236311 42.212445 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236323 42.212445  -2.236394 42.212425  -2.236384 42.212405  -2.236311 42.212413  -2.236323 42.212445  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851672">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237235 42.211680 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237162 42.211744 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237235 42.211696  -2.237212 42.211680  -2.237162 42.211696  -2.237198 42.211731  -2.237215 42.211744  -2.237216 42.211744  -2.237211 42.211716  -2.237235 42.211696  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851673">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197062 42.210746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197005 42.210796 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197008 42.210764  -2.197012 42.210781  -2.197016 42.210795  -2.197016 42.210796  -2.197035 42.210789  -2.197062 42.210780  -2.197056 42.210746  -2.197005 42.210749  -2.197007 42.210761  -2.197008 42.210764  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851674">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235665 42.211527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235593 42.211583 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235631 42.211527  -2.235593 42.211547  -2.235632 42.211583  -2.235665 42.211561  -2.235631 42.211527  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851675">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241944 42.208611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241867 42.208665 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241944 42.208640  -2.241893 42.208611  -2.241867 42.208636  -2.241919 42.208665  -2.241944 42.208640  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851676">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235358 42.212438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235307 42.212505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235347 42.212481  -2.235342 42.212438  -2.235319 42.212442  -2.235307 42.212475  -2.235309 42.212501  -2.235311 42.212505  -2.235348 42.212491  -2.235358 42.212488  -2.235347 42.212481  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851677">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235913 42.211739 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235829 42.211795 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235859 42.211739  -2.235829 42.211760  -2.235894 42.211795  -2.235913 42.211779  -2.235879 42.211754  -2.235859 42.211739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851678">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236099 42.213406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236016 42.213447 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236087 42.213447  -2.236099 42.213422  -2.236026 42.213406  -2.236016 42.213431  -2.236087 42.213447  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851679">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197106 42.211250 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197044 42.211299 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197057 42.211299  -2.197106 42.211289  -2.197094 42.211252  -2.197093 42.211250  -2.197044 42.211262  -2.197057 42.211299  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851680">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195341 42.211049 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195272 42.211107 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195284 42.211049  -2.195272 42.211070  -2.195303 42.211064  -2.195303 42.211101  -2.195338 42.211107  -2.195341 42.211063  -2.195338 42.211063  -2.195304 42.211056  -2.195284 42.211049  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851681">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241566 42.206611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241496 42.206664 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241542 42.206613  -2.241540 42.206611  -2.241496 42.206629  -2.241508 42.206645  -2.241522 42.206664  -2.241566 42.206646  -2.241542 42.206613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851682">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236191 42.212130 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236132 42.212171 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236185 42.212130  -2.236137 42.212136  -2.236133 42.212169  -2.236132 42.212171  -2.236191 42.212168  -2.236185 42.212130  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851683">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.193997 42.211511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193922 42.211574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.193984 42.211525  -2.193967 42.211511  -2.193922 42.211542  -2.193957 42.211564  -2.193973 42.211574  -2.193958 42.211564  -2.193997 42.211537  -2.193984 42.211525  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851684">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236062 42.212858 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235987 42.212910 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236062 42.212887  -2.236034 42.212858  -2.235987 42.212883  -2.236015 42.212908  -2.236018 42.212910  -2.236062 42.212887  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851685">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195125 42.211119 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195064 42.211166 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195064 42.211159  -2.195114 42.211166  -2.195125 42.211132  -2.195074 42.211119  -2.195065 42.211155  -2.195064 42.211159  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851686">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235749 42.212154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235681 42.212210 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235685 42.212195  -2.235711 42.212210  -2.235749 42.212174  -2.235715 42.212154  -2.235681 42.212187  -2.235685 42.212195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851687">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235255 42.213349 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235203 42.213395 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235255 42.213393  -2.235249 42.213354  -2.235209 42.213349  -2.235203 42.213390  -2.235239 42.213395  -2.235240 42.213392  -2.235255 42.213393  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851688">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194000 42.211574 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193929 42.211633 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.193996 42.211588  -2.193973 42.211574  -2.193929 42.211615  -2.193960 42.211633  -2.194000 42.211590  -2.193996 42.211588  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851689">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238365 42.212031 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238289 42.212084 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238314 42.212084  -2.238365 42.212053  -2.238340 42.212031  -2.238289 42.212062  -2.238314 42.212084  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851690">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235816 42.213009 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235733 42.213064 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235816 42.213044  -2.235759 42.213009  -2.235733 42.213020  -2.235763 42.213043  -2.235795 42.213064  -2.235816 42.213044  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851691">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197412 42.211404 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197346 42.211437 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197409 42.211407  -2.197349 42.211404  -2.197346 42.211437  -2.197412 42.211434  -2.197409 42.211407  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851692">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236931 42.211358 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236761 42.211453 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236761 42.211394  -2.236785 42.211453  -2.236885 42.211440  -2.236931 42.211434  -2.236912 42.211358  -2.236761 42.211394  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851693">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236990 42.212624 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236916 42.212677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236955 42.212674  -2.236958 42.212677  -2.236990 42.212660  -2.236950 42.212624  -2.236916 42.212645  -2.236955 42.212674  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851694">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241269 42.206728 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241171 42.206795 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241269 42.206740  -2.241252 42.206728  -2.241171 42.206781  -2.241183 42.206795  -2.241269 42.206740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851695">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196580 42.211120 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196529 42.211162 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196576 42.211120  -2.196529 42.211124  -2.196533 42.211162  -2.196576 42.211160  -2.196576 42.211148  -2.196580 42.211148  -2.196580 42.211148  -2.196576 42.211120  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851696">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197135 42.211180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197035 42.211217 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197135 42.211192  -2.197131 42.211185  -2.197128 42.211180  -2.197035 42.211191  -2.197041 42.211217  -2.197100 42.211201  -2.197135 42.211192  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851697">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196744 42.211148 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196710 42.211217 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196710 42.211149  -2.196719 42.211217  -2.196744 42.211216  -2.196743 42.211181  -2.196733 42.211148  -2.196710 42.211149  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851698">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.230582 42.216229 </gml:lowerCorner>
+        		<gml:upperCorner>-2.230371 42.216378 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.230582 42.216278  -2.230524 42.216229  -2.230371 42.216331  -2.230429 42.216378  -2.230582 42.216278  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851699">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235649 42.212917 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235585 42.212981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235607 42.212924  -2.235585 42.212934  -2.235605 42.212950  -2.235593 42.212961  -2.235623 42.212981  -2.235649 42.212957  -2.235648 42.212956  -2.235610 42.212926  -2.235626 42.212917  -2.235607 42.212924  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851700">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236206 42.213062 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236154 42.213109 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236206 42.213105  -2.236195 42.213062  -2.236154 42.213068  -2.236164 42.213109  -2.236206 42.213105  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851701">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237000 42.211582 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236927 42.211628 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236941 42.211628  -2.237000 42.211604  -2.236995 42.211595  -2.236927 42.211582  -2.236937 42.211615  -2.236941 42.211628  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851702">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236711 42.213754 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236647 42.213785 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236709 42.213785  -2.236711 42.213757  -2.236649 42.213754  -2.236647 42.213783  -2.236709 42.213785  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851703">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237390 42.213123 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237314 42.213169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237365 42.213163  -2.237390 42.213146  -2.237354 42.213123  -2.237341 42.213130  -2.237331 42.213123  -2.237314 42.213136  -2.237358 42.213169  -2.237365 42.213163  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851704">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242326 42.206998 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242255 42.207047 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242278 42.206998  -2.242255 42.207029  -2.242293 42.207047  -2.242326 42.207023  -2.242278 42.206998  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851705">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241738 42.208301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241672 42.208348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241738 42.208316  -2.241693 42.208301  -2.241683 42.208315  -2.241672 42.208332  -2.241716 42.208348  -2.241738 42.208316  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851706">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236194 42.213385 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236132 42.213432 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236149 42.213385  -2.236132 42.213420  -2.236172 42.213432  -2.236194 42.213398  -2.236149 42.213385  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851707">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196845 42.210511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196800 42.210559 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196845 42.210521  -2.196813 42.210511  -2.196804 42.210521  -2.196800 42.210557  -2.196842 42.210559  -2.196845 42.210521  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851708">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242065 42.206138 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242000 42.206190 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242036 42.206190  -2.242065 42.206156  -2.242029 42.206138  -2.242000 42.206172  -2.242036 42.206190  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851709">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197156 42.211192 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197100 42.211245 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197135 42.211192  -2.197100 42.211201  -2.197121 42.211245  -2.197156 42.211236  -2.197135 42.211192  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851710">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197611 42.210891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197561 42.210934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197611 42.210933  -2.197610 42.210891  -2.197561 42.210907  -2.197562 42.210934  -2.197611 42.210933  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851711">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235893 42.211477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235818 42.211522 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235887 42.211493  -2.235875 42.211477  -2.235818 42.211499  -2.235837 42.211522  -2.235893 42.211501  -2.235887 42.211493  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851712">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194022 42.211537 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193958 42.211588 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.193973 42.211574  -2.193996 42.211588  -2.194021 42.211564  -2.194022 42.211556  -2.193997 42.211537  -2.193958 42.211564  -2.193973 42.211574  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851713">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237293 42.212335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237231 42.212390 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237261 42.212390  -2.237293 42.212377  -2.237262 42.212335  -2.237231 42.212348  -2.237261 42.212390  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851714">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236341 42.212313 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236277 42.212360 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236319 42.212356  -2.236340 42.212326  -2.236341 42.212326  -2.236294 42.212313  -2.236277 42.212345  -2.236317 42.212360  -2.236319 42.212356  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851715">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237022 42.212426 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236952 42.212477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237001 42.212426  -2.236952 42.212458  -2.236971 42.212477  -2.237022 42.212451  -2.237001 42.212426  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851716">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236090 42.212134 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236038 42.212211 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236085 42.212167  -2.236090 42.212138  -2.236057 42.212134  -2.236038 42.212210  -2.236053 42.212211  -2.236061 42.212166  -2.236085 42.212167  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851717">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235559 42.212534 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235522 42.212583 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235557 42.212583  -2.235559 42.212534  -2.235524 42.212537  -2.235522 42.212583  -2.235557 42.212583  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851718">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236316 42.212025 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236259 42.212080 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236287 42.212025  -2.236271 42.212047  -2.236259 42.212064  -2.236296 42.212080  -2.236316 42.212038  -2.236287 42.212025  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851719">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234959 42.213228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234898 42.213288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234922 42.213288  -2.234920 42.213287  -2.234959 42.213253  -2.234930 42.213228  -2.234898 42.213277  -2.234922 42.213288  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851720">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235605 42.212930 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235535 42.212979 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235585 42.212934  -2.235580 42.212930  -2.235575 42.212933  -2.235541 42.212953  -2.235535 42.212957  -2.235576 42.212978  -2.235577 42.212979  -2.235593 42.212961  -2.235605 42.212950  -2.235585 42.212934  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851721">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237867 42.211986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237797 42.212036 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237842 42.211986  -2.237797 42.212016  -2.237822 42.212036  -2.237867 42.212007  -2.237842 42.211986  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851722">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233876 42.213192 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233823 42.213236 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233866 42.213236  -2.233876 42.213198  -2.233834 42.213192  -2.233823 42.213229  -2.233866 42.213236  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851723">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241694 42.206479 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241613 42.206518 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241633 42.206518  -2.241644 42.206512  -2.241648 42.206516  -2.241694 42.206492  -2.241693 42.206492  -2.241646 42.206480  -2.241645 42.206479  -2.241613 42.206497  -2.241633 42.206518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851724">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235249 42.213222 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235181 42.213266 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235181 42.213237  -2.235202 42.213266  -2.235249 42.213266  -2.235234 42.213247  -2.235234 42.213246  -2.235214 42.213222  -2.235181 42.213237  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851725">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235835 42.212992 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235759 42.213044 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235816 42.213044  -2.235835 42.213029  -2.235786 42.212992  -2.235785 42.212993  -2.235759 42.213009  -2.235816 42.213044  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851726">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235401 42.212170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235334 42.212204 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235398 42.212198  -2.235401 42.212181  -2.235334 42.212170  -2.235337 42.212204  -2.235398 42.212198  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851727">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196726 42.210859 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196671 42.210890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196672 42.210882  -2.196671 42.210890  -2.196724 42.210890  -2.196726 42.210859  -2.196672 42.210859  -2.196672 42.210882  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851728">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236323 42.212413 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236268 42.212458 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236323 42.212445  -2.236311 42.212413  -2.236268 42.212420  -2.236278 42.212458  -2.236323 42.212445  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851729">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236883 42.212926 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236817 42.212976 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236847 42.212926  -2.236817 42.212951  -2.236855 42.212976  -2.236883 42.212951  -2.236847 42.212926  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851730">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195399 42.210896 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195325 42.210945 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195331 42.210924  -2.195325 42.210945  -2.195327 42.210936  -2.195363 42.210939  -2.195372 42.210914  -2.195396 42.210919  -2.195399 42.210910  -2.195340 42.210896  -2.195331 42.210924  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851731">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236132 42.212874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236062 42.212946 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236062 42.212887  -2.236119 42.212946  -2.236132 42.212939  -2.236085 42.212874  -2.236062 42.212887  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851732">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236356 42.211419 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236292 42.211467 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236317 42.211464  -2.236322 42.211461  -2.236330 42.211467  -2.236356 42.211450  -2.236356 42.211449  -2.236331 42.211419  -2.236292 42.211441  -2.236317 42.211464  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851733">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236243 42.212126 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236185 42.212168 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236185 42.212130  -2.236191 42.212168  -2.236243 42.212160  -2.236243 42.212159  -2.236216 42.212126  -2.236185 42.212130  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851734">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235786 42.213518 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235735 42.213571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235786 42.213540  -2.235765 42.213518  -2.235741 42.213531  -2.235735 42.213535  -2.235735 42.213563  -2.235749 42.213571  -2.235786 42.213540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851735">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235501 42.212947 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235439 42.212993 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235496 42.212967  -2.235468 42.212947  -2.235451 42.212956  -2.235439 42.212980  -2.235466 42.212993  -2.235488 42.212979  -2.235489 42.212979  -2.235501 42.212984  -2.235496 42.212967  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851736">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237127 42.212397 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237063 42.212447 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237107 42.212397  -2.237063 42.212424  -2.237092 42.212447  -2.237127 42.212425  -2.237107 42.212397  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851737">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235886 42.211876 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235820 42.211925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235852 42.211925  -2.235852 42.211925  -2.235884 42.211894  -2.235886 42.211893  -2.235853 42.211876  -2.235831 42.211896  -2.235820 42.211905  -2.235852 42.211925  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851738">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236314 42.212377 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236267 42.212420 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236268 42.212420  -2.236311 42.212413  -2.236314 42.212383  -2.236272 42.212377  -2.236267 42.212420  -2.236268 42.212420  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851739">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236994 42.211327 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236949 42.211385 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236966 42.211385  -2.236994 42.211380  -2.236983 42.211342  -2.236979 42.211327  -2.236949 42.211335  -2.236966 42.211385  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851740">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236045 42.213680 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235966 42.213712 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235970 42.213680  -2.235966 42.213698  -2.236038 42.213712  -2.236045 42.213689  -2.235970 42.213680  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851741">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241757 42.208272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241683 42.208316 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241707 42.208279  -2.241683 42.208315  -2.241693 42.208301  -2.241738 42.208316  -2.241757 42.208288  -2.241712 42.208272  -2.241707 42.208279  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851742">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235971 42.213261 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235907 42.213312 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235971 42.213275  -2.235942 42.213261  -2.235907 42.213297  -2.235937 42.213312  -2.235971 42.213275  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851743">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237045 42.211374 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237003 42.211429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237003 42.211379  -2.237013 42.211429  -2.237045 42.211427  -2.237031 42.211374  -2.237003 42.211379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851744">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235697 42.212642 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235609 42.212781 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235609 42.212739  -2.235673 42.212781  -2.235697 42.212780  -2.235695 42.212642  -2.235648 42.212643  -2.235643 42.212662  -2.235629 42.212703  -2.235609 42.212739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851745">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236141 42.211314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236074 42.211358 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236124 42.211314  -2.236074 42.211331  -2.236100 42.211358  -2.236141 42.211339  -2.236124 42.211314  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851746">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237013 42.211379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236966 42.211430 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237003 42.211379  -2.236994 42.211380  -2.236966 42.211385  -2.236972 42.211404  -2.236978 42.211403  -2.236984 42.211430  -2.237013 42.211429  -2.237003 42.211379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851747">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.228932 42.217667 </gml:lowerCorner>
+        		<gml:upperCorner>-2.228823 42.217751 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.228932 42.217698  -2.228882 42.217667  -2.228823 42.217721  -2.228823 42.217738  -2.228843 42.217751  -2.228870 42.217750  -2.228932 42.217698  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851748">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.228287 42.216594 </gml:lowerCorner>
+        		<gml:upperCorner>-2.228131 42.216676 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.228287 42.216652  -2.228262 42.216594  -2.228131 42.216621  -2.228150 42.216676  -2.228287 42.216652  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851749">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.228601 42.216664 </gml:lowerCorner>
+        		<gml:upperCorner>-2.228500 42.216731 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.228601 42.216705  -2.228566 42.216664  -2.228500 42.216689  -2.228530 42.216731  -2.228601 42.216705  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851750">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242560 42.209881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241986 42.210456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242560 42.209964  -2.242374 42.209881  -2.241986 42.210381  -2.242150 42.210456  -2.242560 42.209964  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851751">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235410 42.212430 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235347 42.212488 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235358 42.212488  -2.235358 42.212487  -2.235410 42.212471  -2.235400 42.212430  -2.235370 42.212434  -2.235380 42.212476  -2.235347 42.212481  -2.235358 42.212488  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851752">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197738 42.210911 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197681 42.210948 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197738 42.210943  -2.197728 42.210911  -2.197681 42.210919  -2.197688 42.210948  -2.197738 42.210943  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851753">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236430 42.212461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236375 42.212508 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236375 42.212469  -2.236396 42.212508  -2.236402 42.212506  -2.236430 42.212494  -2.236413 42.212461  -2.236375 42.212469  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851754">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242584 42.205811 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242514 42.205855 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242514 42.205834  -2.242531 42.205855  -2.242584 42.205832  -2.242567 42.205811  -2.242514 42.205834  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851755">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236935 42.212783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236870 42.212831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236896 42.212831  -2.236935 42.212801  -2.236911 42.212783  -2.236870 42.212811  -2.236896 42.212831  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851756">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236784 42.211345 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236703 42.211386 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236703 42.211372  -2.236725 42.211386  -2.236784 42.211364  -2.236767 42.211345  -2.236703 42.211372  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851757">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237031 42.211339 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236983 42.211380 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237003 42.211379  -2.237031 42.211374  -2.237024 42.211341  -2.237023 42.211339  -2.236983 42.211342  -2.236994 42.211380  -2.237003 42.211379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851758">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233754 42.213203 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233679 42.213254 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:MultiSurface srsName="EPSG:4326">
+            <gml:surfaceMembers>
+              <gml:Polygon>
+                <gml:exterior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.233679 42.213241  -2.233679 42.213241  -2.233730 42.213254  -2.233754 42.213221  -2.233703 42.213203  -2.233679 42.213241  </gml:posList>
+                  </gml:LinearRing>
+                </gml:exterior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.233738 42.213225  -2.233724 42.213244  -2.233694 42.213237  -2.233709 42.213214  -2.233738 42.213225  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+              </gml:Polygon>
+            </gml:surfaceMembers>
+          </gml:MultiSurface>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851759">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235854 42.212978 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235786 42.213029 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235835 42.213029  -2.235854 42.213015  -2.235806 42.212978  -2.235786 42.212992  -2.235835 42.213029  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851760">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235996 42.212239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235929 42.212266 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235996 42.212245  -2.235937 42.212239  -2.235929 42.212263  -2.235993 42.212266  -2.235996 42.212245  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851761">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236030 42.211742 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235964 42.211791 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236010 42.211742  -2.235964 42.211774  -2.235986 42.211791  -2.236030 42.211757  -2.236010 42.211742  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851762">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241640 42.206539 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241546 42.206589 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241546 42.206578  -2.241554 42.206589  -2.241640 42.206552  -2.241626 42.206539  -2.241546 42.206578  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851763">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235585 42.212857 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235519 42.212895 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235555 42.212860  -2.235541 42.212857  -2.235519 42.212883  -2.235564 42.212895  -2.235585 42.212876  -2.235555 42.212860  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851764">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235679 42.212991 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235619 42.213038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235679 42.213017  -2.235640 42.212991  -2.235619 42.213013  -2.235658 42.213038  -2.235679 42.213017  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851765">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194129 42.211312 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194081 42.211352 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194081 42.211317  -2.194088 42.211352  -2.194129 42.211345  -2.194116 42.211312  -2.194081 42.211317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851766">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236282 42.211353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236224 42.211399 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236224 42.211371  -2.236259 42.211399  -2.236282 42.211376  -2.236281 42.211375  -2.236260 42.211353  -2.236224 42.211371  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851767">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237038 42.212451 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236971 42.212495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237038 42.212469  -2.237022 42.212451  -2.236971 42.212477  -2.236989 42.212495  -2.237038 42.212469  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851768">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235380 42.212434 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235342 42.212481 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235370 42.212434  -2.235342 42.212438  -2.235347 42.212481  -2.235380 42.212476  -2.235370 42.212434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851769">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236376 42.211951 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236318 42.211994 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236352 42.211994  -2.236374 42.211970  -2.236376 42.211967  -2.236335 42.211951  -2.236318 42.211979  -2.236352 42.211994  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851770">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238032 42.210959 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237984 42.210998 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237992 42.210998  -2.238032 42.210992  -2.238023 42.210959  -2.237984 42.210965  -2.237992 42.210998  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851771">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235437 42.212527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235382 42.212570 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235382 42.212543  -2.235391 42.212559  -2.235398 42.212570  -2.235437 42.212555  -2.235420 42.212527  -2.235382 42.212543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851772">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235893 42.213468 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235823 42.213509 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235823 42.213468  -2.235824 42.213484  -2.235872 42.213509  -2.235879 42.213505  -2.235887 42.213499  -2.235893 42.213490  -2.235823 42.213468  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851773">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195029 42.211100 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194941 42.211171 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195010 42.211153  -2.195029 42.211107  -2.195029 42.211107  -2.195007 42.211100  -2.194946 42.211100  -2.194941 42.211167  -2.195005 42.211171  -2.195010 42.211153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851774">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235451 42.212215 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235418 42.212261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235418 42.212260  -2.235445 42.212261  -2.235451 42.212219  -2.235420 42.212215  -2.235419 42.212215  -2.235418 42.212247  -2.235418 42.212260  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851775">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236221 42.211289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236158 42.211328 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236221 42.211312  -2.236198 42.211289  -2.236158 42.211303  -2.236178 42.211324  -2.236182 42.211328  -2.236221 42.211312  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851776">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236085 42.212844 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235985 42.212887 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236062 42.212887  -2.236085 42.212874  -2.236056 42.212844  -2.236053 42.212846  -2.235985 42.212878  -2.235987 42.212883  -2.236034 42.212858  -2.236062 42.212887  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851777">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236752 42.213224 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236698 42.213270 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236735 42.213270  -2.236750 42.213242  -2.236752 42.213238  -2.236733 42.213224  -2.236700 42.213250  -2.236698 42.213253  -2.236735 42.213270  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851778">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236386 42.213415 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236328 42.213458 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236352 42.213415  -2.236328 42.213444  -2.236359 42.213458  -2.236386 42.213432  -2.236352 42.213415  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851779">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236104 42.213534 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236020 42.213572 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236104 42.213551  -2.236099 42.213549  -2.236027 42.213534  -2.236024 42.213534  -2.236020 42.213539  -2.236088 42.213572  -2.236104 42.213551  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851780">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235311 42.213082 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235235 42.213116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235275 42.213086  -2.235235 42.213102  -2.235244 42.213116  -2.235264 42.213114  -2.235303 42.213112  -2.235311 42.213082  -2.235275 42.213086  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851781">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236386 42.211450 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236330 42.211496 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236371 42.211496  -2.236386 42.211471  -2.236356 42.211450  -2.236330 42.211467  -2.236371 42.211496  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851782">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235045 42.212175 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234989 42.212215 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235045 42.212196  -2.235032 42.212175  -2.234989 42.212194  -2.234990 42.212208  -2.235002 42.212215  -2.235002 42.212215  -2.235045 42.212196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851783">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195399 42.210910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195325 42.210952 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195325 42.210945  -2.195384 42.210952  -2.195386 42.210952  -2.195387 42.210952  -2.195399 42.210910  -2.195396 42.210919  -2.195372 42.210914  -2.195363 42.210939  -2.195327 42.210936  -2.195325 42.210945  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851784">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237895 42.211663 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237834 42.211706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237895 42.211682  -2.237876 42.211663  -2.237834 42.211686  -2.237854 42.211706  -2.237895 42.211682  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851785">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235868 42.213532 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235809 42.213575 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235868 42.213552  -2.235846 42.213532  -2.235809 42.213555  -2.235830 42.213575  -2.235868 42.213552  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851786">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.239052 42.211030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238970 42.211063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238976 42.211063  -2.239052 42.211045  -2.239046 42.211030  -2.238970 42.211049  -2.238976 42.211063  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851787">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.242155 42.210448 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241964 42.210586 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.242155 42.210507  -2.242026 42.210448  -2.241964 42.210528  -2.242093 42.210586  -2.242155 42.210507  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851788">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241966 42.211056 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241743 42.211195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241905 42.211195  -2.241966 42.211118  -2.241830 42.211056  -2.241819 42.211070  -2.241791 42.211057  -2.241743 42.211122  -2.241780 42.211139  -2.241772 42.211152  -2.241860 42.211188  -2.241866 42.211178  -2.241905 42.211195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851789">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241200 42.210625 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241037 42.210771 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241111 42.210755  -2.241200 42.210669  -2.241123 42.210625  -2.241037 42.210713  -2.241080 42.210740  -2.241060 42.210758  -2.241081 42.210771  -2.241105 42.210752  -2.241111 42.210755  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851790">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235612 42.212834 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235555 42.212876 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235555 42.212860  -2.235585 42.212876  -2.235612 42.212852  -2.235577 42.212834  -2.235555 42.212860  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851791">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236148 42.213551 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236088 42.213593 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236088 42.213572  -2.236131 42.213593  -2.236148 42.213575  -2.236104 42.213551  -2.236088 42.213572  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851792">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236759 42.211286 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236703 42.211329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236724 42.211329  -2.236744 42.211319  -2.236759 42.211311  -2.236731 42.211286  -2.236703 42.211306  -2.236724 42.211329  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851793">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236921 42.211958 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236863 42.212002 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236863 42.211983  -2.236881 42.212002  -2.236921 42.211979  -2.236912 42.211958  -2.236863 42.211983  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851794">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236758 42.211885 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236721 42.211922 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236725 42.211921  -2.236758 42.211922  -2.236755 42.211885  -2.236721 42.211887  -2.236725 42.211921  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851795">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236379 42.212290 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236340 42.212335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236371 42.212334  -2.236379 42.212335  -2.236379 42.212293  -2.236358 42.212290  -2.236351 42.212311  -2.236341 42.212326  -2.236340 42.212326  -2.236371 42.212334  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851796">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237218 42.212794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237160 42.212838 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237160 42.212823  -2.237183 42.212838  -2.237218 42.212808  -2.237195 42.212794  -2.237160 42.212823  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851797">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234900 42.212086 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234838 42.212127 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234900 42.212106  -2.234887 42.212086  -2.234885 42.212087  -2.234838 42.212110  -2.234856 42.212127  -2.234900 42.212106  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851798">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238216 42.211750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238149 42.211796 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238177 42.211796  -2.238216 42.211770  -2.238191 42.211750  -2.238189 42.211760  -2.238201 42.211770  -2.238182 42.211783  -2.238170 42.211773  -2.238189 42.211760  -2.238191 42.211750  -2.238149 42.211779  -2.238177 42.211796  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851799">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236788 42.213242 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236735 42.213279 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236735 42.213270  -2.236778 42.213279  -2.236788 42.213258  -2.236750 42.213242  -2.236735 42.213270  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851800">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236432 42.212926 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236371 42.212964 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236385 42.212960  -2.236388 42.212964  -2.236432 42.212943  -2.236423 42.212926  -2.236371 42.212946  -2.236385 42.212960  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851801">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235800 42.213275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235740 42.213307 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235740 42.213297  -2.235784 42.213307  -2.235800 42.213287  -2.235749 42.213275  -2.235740 42.213297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851802">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235879 42.213484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235812 42.213527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235879 42.213505  -2.235872 42.213509  -2.235824 42.213484  -2.235812 42.213496  -2.235847 42.213527  -2.235879 42.213505  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851803">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236371 42.212326 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236319 42.212366 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236371 42.212334  -2.236340 42.212326  -2.236319 42.212356  -2.236350 42.212366  -2.236371 42.212334  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851804">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237259 42.211696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237211 42.211744 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237235 42.211696  -2.237211 42.211716  -2.237216 42.211744  -2.237259 42.211712  -2.237235 42.211696  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851805">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236062 42.212268 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236031 42.212308 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236056 42.212269  -2.236035 42.212268  -2.236031 42.212306  -2.236061 42.212308  -2.236062 42.212269  -2.236056 42.212269  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851806">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235718 42.212543 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235670 42.212568 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235718 42.212543  -2.235670 42.212544  -2.235672 42.212567  -2.235716 42.212568  -2.235718 42.212543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851807">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237123 42.213508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237058 42.213533 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237058 42.213508  -2.237064 42.213533  -2.237123 42.213527  -2.237121 42.213517  -2.237058 42.213508  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851808">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235357 42.212039 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235319 42.212084 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235319 42.212075  -2.235341 42.212082  -2.235346 42.212084  -2.235357 42.212046  -2.235331 42.212039  -2.235319 42.212075  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851809">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234931 42.212130 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234878 42.212169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234931 42.212152  -2.234917 42.212130  -2.234878 42.212147  -2.234892 42.212169  -2.234931 42.212152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851810">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236178 42.211303 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236124 42.211339 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236178 42.211324  -2.236158 42.211303  -2.236124 42.211314  -2.236141 42.211339  -2.236178 42.211324  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851811">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195208 42.211027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195152 42.211076 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195154 42.211076  -2.195164 42.211046  -2.195204 42.211054  -2.195208 42.211031  -2.195164 42.211027  -2.195160 42.211041  -2.195160 42.211041  -2.195152 42.211064  -2.195154 42.211076  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851812">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240099 42.208067 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240048 42.208106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240099 42.208082  -2.240073 42.208067  -2.240048 42.208090  -2.240074 42.208106  -2.240099 42.208082  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851813">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236028 42.212908 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235973 42.212957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236028 42.212948  -2.236000 42.212919  -2.236018 42.212910  -2.236015 42.212908  -2.235973 42.212931  -2.236014 42.212957  -2.236028 42.212948  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851814">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238321 42.211677 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238259 42.211723 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238259 42.211703  -2.238283 42.211723  -2.238321 42.211696  -2.238296 42.211677  -2.238295 42.211688  -2.238306 42.211697  -2.238284 42.211712  -2.238273 42.211703  -2.238295 42.211688  -2.238296 42.211677  -2.238259 42.211703  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851815">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195139 42.211126 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195114 42.211185 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195115 42.211184  -2.195136 42.211185  -2.195136 42.211140  -2.195139 42.211128  -2.195128 42.211126  -2.195125 42.211132  -2.195114 42.211166  -2.195114 42.211167  -2.195115 42.211184  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851816">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194295 42.211215 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194263 42.211250 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194291 42.211248  -2.194292 42.211242  -2.194295 42.211242  -2.194295 42.211215  -2.194263 42.211218  -2.194263 42.211250  -2.194291 42.211248  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851817">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241492 42.206541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241443 42.206579 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241445 42.206558  -2.241460 42.206579  -2.241492 42.206566  -2.241475 42.206541  -2.241443 42.206555  -2.241445 42.206558  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851818">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241707 42.208271 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241661 42.208315 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241707 42.208279  -2.241685 42.208271  -2.241661 42.208307  -2.241683 42.208315  -2.241707 42.208279  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851819">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.233928 42.211897 </gml:lowerCorner>
+        		<gml:upperCorner>-2.233876 42.211936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.233906 42.211936  -2.233928 42.211920  -2.233897 42.211897  -2.233876 42.211913  -2.233906 42.211936  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851820">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195259 42.211036 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195225 42.211074 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195225 42.211073  -2.195251 42.211074  -2.195259 42.211041  -2.195230 42.211036  -2.195225 42.211073  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851821">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237064 42.213507 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237022 42.213537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237026 42.213537  -2.237064 42.213533  -2.237058 42.213508  -2.237058 42.213507  -2.237022 42.213511  -2.237026 42.213537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196931 42.211224 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196886 42.211261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196886 42.211233  -2.196902 42.211261  -2.196929 42.211253  -2.196931 42.211252  -2.196915 42.211224  -2.196886 42.211233  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851823">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194291 42.211248 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194242 42.211282 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194291 42.211248  -2.194263 42.211250  -2.194242 42.211252  -2.194246 42.211282  -2.194271 42.211281  -2.194271 42.211255  -2.194291 42.211254  -2.194291 42.211253  -2.194291 42.211248  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851824">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196612 42.211117 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196576 42.211148 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196576 42.211120  -2.196580 42.211148  -2.196580 42.211148  -2.196612 42.211147  -2.196612 42.211147  -2.196609 42.211117  -2.196576 42.211120  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851825">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236144 42.212946 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236094 42.212983 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236094 42.212958  -2.236119 42.212983  -2.236144 42.212972  -2.236119 42.212946  -2.236094 42.212958  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851826">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241168 42.211346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241072 42.211414 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241168 42.211391  -2.241164 42.211384  -2.241143 42.211346  -2.241072 42.211363  -2.241098 42.211414  -2.241168 42.211391  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851827">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241229 42.211317 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241136 42.211384 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241164 42.211384  -2.241229 42.211362  -2.241223 42.211355  -2.241192 42.211317  -2.241136 42.211336  -2.241143 42.211346  -2.241164 42.211384  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851828">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241284 42.211290 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241192 42.211355 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241223 42.211355  -2.241284 42.211329  -2.241279 42.211324  -2.241236 42.211290  -2.241192 42.211317  -2.241223 42.211355  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851829">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241336 42.211253 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241236 42.211324 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241279 42.211324  -2.241336 42.211294  -2.241327 42.211289  -2.241286 42.211253  -2.241236 42.211290  -2.241279 42.211324  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851830">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241380 42.211216 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241286 42.211289 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241327 42.211289  -2.241380 42.211251  -2.241327 42.211216  -2.241286 42.211253  -2.241327 42.211289  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851831">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237761 42.211254 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237723 42.211282 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237761 42.211255  -2.237725 42.211254  -2.237723 42.211280  -2.237759 42.211282  -2.237761 42.211255  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851832">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236774 42.213416 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236705 42.213439 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236774 42.213425  -2.236710 42.213416  -2.236705 42.213429  -2.236769 42.213439  -2.236774 42.213425  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851833">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235163 42.212552 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235116 42.212591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235116 42.212580  -2.235140 42.212591  -2.235163 42.212564  -2.235138 42.212552  -2.235116 42.212580  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851834">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238250 42.211726 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238191 42.211770 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238225 42.211726  -2.238191 42.211750  -2.238216 42.211770  -2.238250 42.211746  -2.238225 42.211726  -2.238223 42.211737  -2.238235 42.211746  -2.238216 42.211759  -2.238204 42.211750  -2.238223 42.211737  -2.238225 42.211726  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851835">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238283 42.211703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238225 42.211746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238259 42.211703  -2.238225 42.211726  -2.238250 42.211746  -2.238283 42.211723  -2.238259 42.211703  -2.238258 42.211713  -2.238269 42.211723  -2.238250 42.211736  -2.238239 42.211726  -2.238258 42.211713  -2.238259 42.211703  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851836">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235749 42.213266 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235705 42.213297 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235740 42.213297  -2.235749 42.213275  -2.235708 42.213266  -2.235705 42.213288  -2.235740 42.213297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851837">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237096 42.212725 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237046 42.212764 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237096 42.212738  -2.237077 42.212725  -2.237046 42.212752  -2.237065 42.212764  -2.237096 42.212738  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851838">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195072 42.210901 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195027 42.210924 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195070 42.210901  -2.195029 42.210903  -2.195027 42.210924  -2.195072 42.210920  -2.195070 42.210901  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851839">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197213 42.210751 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197170 42.210774 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197210 42.210751  -2.197170 42.210753  -2.197172 42.210774  -2.197213 42.210772  -2.197210 42.210751  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851840">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235411 42.212793 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235370 42.212832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235394 42.212832  -2.235411 42.212800  -2.235388 42.212793  -2.235370 42.212825  -2.235394 42.212832  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851841">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236165 42.213250 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236113 42.213284 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236121 42.213258  -2.236113 42.213268  -2.236150 42.213284  -2.236165 42.213270  -2.236128 42.213250  -2.236121 42.213258  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851842">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236037 42.211797 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235988 42.211832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235988 42.211815  -2.236034 42.211832  -2.236037 42.211814  -2.236010 42.211797  -2.235988 42.211815  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851843">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237124 42.212555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237071 42.212591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237071 42.212578  -2.237085 42.212591  -2.237124 42.212570  -2.237111 42.212555  -2.237098 42.212563  -2.237083 42.212571  -2.237071 42.212578  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851844">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196592 42.211410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196549 42.211434 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196549 42.211433  -2.196587 42.211434  -2.196592 42.211413  -2.196554 42.211410  -2.196549 42.211433  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851845">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236453 42.212554 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236409 42.212591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236453 42.212581  -2.236434 42.212554  -2.236409 42.212564  -2.236430 42.212590  -2.236431 42.212591  -2.236451 42.212583  -2.236453 42.212581  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851846">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236257 42.213296 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236188 42.213329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236252 42.213324  -2.236257 42.213318  -2.236213 42.213296  -2.236200 42.213311  -2.236188 42.213306  -2.236243 42.213329  -2.236252 42.213324  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851847">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194709 42.210705 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194664 42.210732 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194709 42.210711  -2.194670 42.210705  -2.194664 42.210725  -2.194703 42.210732  -2.194709 42.210711  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851848">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236563 42.212456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236518 42.212495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236563 42.212478  -2.236537 42.212456  -2.236518 42.212469  -2.236546 42.212495  -2.236563 42.212478  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851849">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236401 42.212651 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236355 42.212688 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236376 42.212688  -2.236401 42.212663  -2.236379 42.212651  -2.236355 42.212677  -2.236376 42.212688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851850">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195757 42.211263 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195687 42.211280 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195690 42.211280  -2.195757 42.211272  -2.195756 42.211265  -2.195733 42.211265  -2.195687 42.211263  -2.195690 42.211280  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851851">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236436 42.211899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236393 42.211935 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236436 42.211935  -2.236431 42.211908  -2.236412 42.211899  -2.236393 42.211919  -2.236436 42.211935  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851852">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237424 42.211009 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237380 42.211033 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237385 42.211012  -2.237380 42.211029  -2.237416 42.211033  -2.237424 42.211009  -2.237385 42.211012  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851853">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234831 42.213052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234786 42.213087 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234786 42.213074  -2.234808 42.213087  -2.234831 42.213065  -2.234810 42.213052  -2.234786 42.213074  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851854">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235541 42.212943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235496 42.212984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235496 42.212967  -2.235501 42.212984  -2.235535 42.212957  -2.235541 42.212953  -2.235541 42.212953  -2.235524 42.212943  -2.235496 42.212966  -2.235496 42.212967  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851855">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236341 42.211321 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236290 42.211350 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236341 42.211336  -2.236329 42.211321  -2.236290 42.211336  -2.236302 42.211350  -2.236341 42.211336  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851856">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235394 42.212825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235356 42.212859 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235394 42.212832  -2.235370 42.212825  -2.235356 42.212852  -2.235380 42.212859  -2.235382 42.212855  -2.235394 42.212832  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851857">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237015 42.212301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236964 42.212337 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237002 42.212301  -2.236964 42.212327  -2.236977 42.212337  -2.237015 42.212312  -2.237002 42.212301  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851858">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235658 42.212917 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235610 42.212957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235658 42.212944  -2.235626 42.212917  -2.235610 42.212926  -2.235648 42.212956  -2.235649 42.212957  -2.235658 42.212944  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851859">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236452 42.211967 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236412 42.211998 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236451 42.211975  -2.236427 42.211967  -2.236412 42.211986  -2.236417 42.211987  -2.236417 42.211987  -2.236452 42.211998  -2.236451 42.211975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851860">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194209 42.211387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194180 42.211426 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194201 42.211390  -2.194200 42.211387  -2.194180 42.211392  -2.194188 42.211426  -2.194206 42.211421  -2.194209 42.211421  -2.194201 42.211390  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851861">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235820 42.212131 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235775 42.212163 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235820 42.212146  -2.235792 42.212131  -2.235778 42.212144  -2.235775 42.212147  -2.235804 42.212163  -2.235820 42.212146  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851862">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194254 42.211391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194217 42.211419 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194220 42.211396  -2.194217 42.211397  -2.194223 42.211419  -2.194254 42.211414  -2.194250 42.211400  -2.194248 42.211391  -2.194220 42.211396  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851863">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236298 42.211887 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236257 42.211921 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236257 42.211911  -2.236281 42.211921  -2.236298 42.211899  -2.236275 42.211887  -2.236257 42.211911  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851864">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236821 42.213258 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236778 42.213286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236815 42.213269  -2.236788 42.213258  -2.236778 42.213279  -2.236817 42.213286  -2.236821 42.213271  -2.236815 42.213269  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851865">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194101 42.211441 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194056 42.211481 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194056 42.211472  -2.194063 42.211481  -2.194101 42.211458  -2.194093 42.211447  -2.194092 42.211447  -2.194088 42.211441  -2.194069 42.211447  -2.194081 42.211463  -2.194057 42.211473  -2.194056 42.211472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851866">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241055 42.211079 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240780 42.211245 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240780 42.211174  -2.240835 42.211245  -2.240879 42.211228  -2.240890 42.211243  -2.241055 42.211176  -2.240979 42.211079  -2.240780 42.211174  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851867">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.241434 42.209749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.241258 42.209819 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.241270 42.209749  -2.241258 42.209774  -2.241418 42.209819  -2.241434 42.209793  -2.241270 42.209749  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851868">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196758 42.210890 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196721 42.210925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196724 42.210890  -2.196721 42.210925  -2.196722 42.210913  -2.196745 42.210915  -2.196758 42.210892  -2.196724 42.210890  -2.196724 42.210890  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851869">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.238172 42.210729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238129 42.210759 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.238129 42.210745  -2.238149 42.210759  -2.238172 42.210743  -2.238152 42.210729  -2.238129 42.210745  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851870">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235409 42.213069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235370 42.213099 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235403 42.213099  -2.235404 42.213098  -2.235409 42.213097  -2.235401 42.213069  -2.235373 42.213074  -2.235370 42.213080  -2.235403 42.213099  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851871">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195284 42.211041 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195251 42.211074 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195259 42.211041  -2.195251 42.211074  -2.195272 42.211070  -2.195284 42.211049  -2.195259 42.211041  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851872">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236588 42.211239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236551 42.211271 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236551 42.211247  -2.236565 42.211271  -2.236588 42.211264  -2.236575 42.211244  -2.236572 42.211239  -2.236551 42.211247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851873">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194931 42.211369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194897 42.211388 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194897 42.211369  -2.194897 42.211388  -2.194931 42.211388  -2.194931 42.211370  -2.194897 42.211369  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851874">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237663 42.210991 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237626 42.211016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237657 42.211016  -2.237663 42.210997  -2.237632 42.210991  -2.237626 42.211010  -2.237657 42.211016  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851875">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194737 42.210711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194703 42.210736 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194737 42.210715  -2.194709 42.210711  -2.194709 42.210711  -2.194703 42.210732  -2.194731 42.210736  -2.194737 42.210715  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851876">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240811 42.208884 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240775 42.208912 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240811 42.208893  -2.240789 42.208884  -2.240782 42.208888  -2.240775 42.208898  -2.240776 42.208904  -2.240798 42.208912  -2.240811 42.208893  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851877">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237023 42.211324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236979 42.211342 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237023 42.211339  -2.237019 42.211330  -2.237016 42.211327  -2.237012 42.211325  -2.237004 42.211324  -2.236994 42.211324  -2.236979 42.211327  -2.236983 42.211342  -2.237023 42.211339  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851878">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194823 42.210432 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194789 42.210456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194794 42.210432  -2.194789 42.210452  -2.194817 42.210456  -2.194823 42.210437  -2.194794 42.210432  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851879">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196487 42.210759 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196452 42.210779 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196452 42.210777  -2.196484 42.210779  -2.196487 42.210760  -2.196456 42.210759  -2.196456 42.210760  -2.196452 42.210777  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851880">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.240827 42.206853 </gml:lowerCorner>
+        		<gml:upperCorner>-2.240787 42.206883 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.240806 42.206853  -2.240787 42.206865  -2.240808 42.206883  -2.240827 42.206871  -2.240806 42.206853  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851881">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235790 42.213490 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235750 42.213518 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235790 42.213505  -2.235776 42.213490  -2.235750 42.213502  -2.235765 42.213518  -2.235790 42.213505  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851882">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236368 42.211309 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236329 42.211336 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236341 42.211336  -2.236368 42.211325  -2.236356 42.211309  -2.236329 42.211321  -2.236341 42.211336  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851883">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236477 42.213005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236442 42.213037 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236463 42.213005  -2.236442 42.213014  -2.236462 42.213037  -2.236477 42.213031  -2.236463 42.213005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851884">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236161 42.212939 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236119 42.212972 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236144 42.212972  -2.236161 42.212964  -2.236132 42.212939  -2.236119 42.212946  -2.236144 42.212972  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851885">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197282 42.210967 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197247 42.210991 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197256 42.210991  -2.197282 42.210987  -2.197274 42.210967  -2.197247 42.210972  -2.197256 42.210991  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851886">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236318 42.211784 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236272 42.211816 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236318 42.211807  -2.236282 42.211784  -2.236272 42.211793  -2.236308 42.211816  -2.236318 42.211807  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851887">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237039 42.212511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236993 42.212547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237005 42.212511  -2.236993 42.212519  -2.237025 42.212547  -2.237039 42.212546  -2.237005 42.212511  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851888">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196456 42.211354 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196428 42.211379 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196431 42.211362  -2.196429 42.211374  -2.196428 42.211377  -2.196451 42.211379  -2.196456 42.211356  -2.196433 42.211354  -2.196431 42.211362  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851889">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236363 42.211239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236312 42.211261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236319 42.211261  -2.236363 42.211250  -2.236358 42.211239  -2.236312 42.211253  -2.236319 42.211261  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851890">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195140 42.211031 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195098 42.211055 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195106 42.211055  -2.195111 42.211044  -2.195136 42.211048  -2.195140 42.211037  -2.195106 42.211031  -2.195098 42.211054  -2.195106 42.211055  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851891">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236460 42.213520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236424 42.213547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236424 42.213542  -2.236446 42.213547  -2.236460 42.213530  -2.236438 42.213520  -2.236432 42.213527  -2.236437 42.213529  -2.236424 42.213542  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851892">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195160 42.211037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195132 42.211064 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195132 42.211060  -2.195152 42.211064  -2.195160 42.211041  -2.195140 42.211037  -2.195136 42.211048  -2.195132 42.211060  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851893">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195002 42.211058 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194972 42.211078 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194995 42.211078  -2.195002 42.211059  -2.194974 42.211058  -2.194972 42.211077  -2.194995 42.211078  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851894">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235670 42.212526 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235641 42.212546 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235641 42.212528  -2.235642 42.212546  -2.235670 42.212544  -2.235667 42.212526  -2.235641 42.212528  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851895">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236401 42.211229 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236358 42.211250 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236401 42.211241  -2.236393 42.211229  -2.236391 42.211229  -2.236358 42.211239  -2.236363 42.211250  -2.236401 42.211241  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851896">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.243932 42.205662 </gml:lowerCorner>
+        		<gml:upperCorner>-2.243901 42.205684 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.243925 42.205662  -2.243901 42.205667  -2.243907 42.205684  -2.243932 42.205679  -2.243925 42.205662  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851897">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235626 42.212899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235589 42.212924 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235607 42.212924  -2.235626 42.212917  -2.235605 42.212899  -2.235589 42.212904  -2.235607 42.212924  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851898">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194852 42.210874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194825 42.210893 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194827 42.210874  -2.194825 42.210891  -2.194851 42.210893  -2.194852 42.210876  -2.194827 42.210874  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851899">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236840 42.211803 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236806 42.211833 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236840 42.211803  -2.236807 42.211807  -2.236806 42.211833  -2.236840 42.211803  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851900">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235676 42.212473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235663 42.212544 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235670 42.212544  -2.235669 42.212526  -2.235671 42.212526  -2.235670 42.212506  -2.235676 42.212505  -2.235673 42.212474  -2.235663 42.212473  -2.235666 42.212506  -2.235667 42.212526  -2.235670 42.212544  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851901">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194223 42.211390 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194201 42.211421 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194201 42.211390  -2.194209 42.211421  -2.194223 42.211419  -2.194217 42.211397  -2.194220 42.211396  -2.194201 42.211390  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851902">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197542 42.210915 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197514 42.210936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197542 42.210935  -2.197538 42.210915  -2.197514 42.210926  -2.197515 42.210934  -2.197515 42.210936  -2.197542 42.210935  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851903">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196964 42.211247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196929 42.211266 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196958 42.211247  -2.196932 42.211254  -2.196931 42.211252  -2.196929 42.211253  -2.196935 42.211266  -2.196964 42.211259  -2.196958 42.211247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851904">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196042 42.210678 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195993 42.210691 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195993 42.210686  -2.196040 42.210691  -2.196042 42.210683  -2.195995 42.210678  -2.195993 42.210686  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851905">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237098 42.212546 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237067 42.212571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237083 42.212571  -2.237098 42.212563  -2.237083 42.212546  -2.237067 42.212555  -2.237083 42.212571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851906">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196580 42.211175 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196559 42.211195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196561 42.211195  -2.196580 42.211193  -2.196578 42.211175  -2.196559 42.211176  -2.196561 42.211195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851907">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196493 42.211276 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196464 42.211295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196469 42.211276  -2.196464 42.211290  -2.196488 42.211295  -2.196493 42.211281  -2.196469 42.211276  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851908">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196672 42.210882 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196624 42.210890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196624 42.210882  -2.196635 42.210890  -2.196671 42.210890  -2.196671 42.210890  -2.196672 42.210882  -2.196640 42.210882  -2.196624 42.210882  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851909">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237111 42.212539 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237083 42.212563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237098 42.212539  -2.237083 42.212546  -2.237098 42.212563  -2.237111 42.212555  -2.237098 42.212539  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851910">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.196431 42.211358 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196404 42.211374 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.196431 42.211362  -2.196407 42.211358  -2.196404 42.211371  -2.196429 42.211374  -2.196431 42.211362  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851911">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195136 42.211044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195106 42.211060 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195132 42.211060  -2.195136 42.211048  -2.195111 42.211044  -2.195106 42.211055  -2.195132 42.211060  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851912">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237276 42.212053 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237243 42.212085 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237251 42.212053  -2.237243 42.212057  -2.237268 42.212085  -2.237276 42.212081  -2.237251 42.212053  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851913">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.237083 42.212555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.237055 42.212578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.237083 42.212571  -2.237067 42.212555  -2.237055 42.212561  -2.237071 42.212578  -2.237083 42.212571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851914">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.234676 42.211932 </gml:lowerCorner>
+        		<gml:upperCorner>-2.234648 42.211952 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.234676 42.211944  -2.234669 42.211932  -2.234648 42.211940  -2.234656 42.211952  -2.234676 42.211944  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851915">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.236213 42.213288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236188 42.213311 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.236203 42.213288  -2.236188 42.213306  -2.236200 42.213311  -2.236213 42.213296  -2.236203 42.213288  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851916">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.197016 42.210764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.196995 42.210796 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.197008 42.210764  -2.196995 42.210766  -2.197000 42.210785  -2.197013 42.210783  -2.197016 42.210796  -2.197016 42.210795  -2.197012 42.210781  -2.197008 42.210764  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851917">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195617 42.211242 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195596 42.211254 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195616 42.211242  -2.195597 42.211244  -2.195596 42.211254  -2.195617 42.211254  -2.195616 42.211242  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851918">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.235544 42.212181 </gml:lowerCorner>
+        		<gml:upperCorner>-2.235396 42.212348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.235403 42.212310  -2.235408 42.212348  -2.235440 42.212348  -2.235445 42.212272  -2.235521 42.212283  -2.235544 42.212221  -2.235459 42.212193  -2.235439 42.212187  -2.235401 42.212181  -2.235398 42.212198  -2.235396 42.212216  -2.235419 42.212215  -2.235420 42.212215  -2.235451 42.212219  -2.235445 42.212261  -2.235418 42.212260  -2.235396 42.212260  -2.235403 42.212310  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851919">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195811 42.210888 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195643 42.210986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195811 42.210973  -2.195798 42.210888  -2.195643 42.210897  -2.195652 42.210949  -2.195670 42.210948  -2.195670 42.210962  -2.195658 42.210963  -2.195659 42.210986  -2.195811 42.210973  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851920">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195837 42.211020 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195661 42.211120 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195837 42.211110  -2.195824 42.211020  -2.195748 42.211021  -2.195749 42.211030  -2.195661 42.211033  -2.195662 42.211056  -2.195663 42.211069  -2.195674 42.211070  -2.195678 42.211103  -2.195680 42.211120  -2.195750 42.211119  -2.195751 42.211109  -2.195837 42.211110  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851921">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.195678 42.211056 </gml:lowerCorner>
+        		<gml:upperCorner>-2.195608 42.211104 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.195662 42.211056  -2.195608 42.211058  -2.195608 42.211094  -2.195611 42.211104  -2.195678 42.211103  -2.195674 42.211070  -2.195663 42.211069  -2.195662 42.211056  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851922">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.193868 42.211640 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193785 42.211709 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.193868 42.211696  -2.193844 42.211640  -2.193785 42.211652  -2.193810 42.211709  -2.193868 42.211696  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.3851923">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.194881 42.211403 </gml:lowerCorner>
+        		<gml:upperCorner>-2.194790 42.211434 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.194881 42.211403  -2.194791 42.211404  -2.194790 42.211434  -2.194878 42.211431  -2.194881 42.211403  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
+

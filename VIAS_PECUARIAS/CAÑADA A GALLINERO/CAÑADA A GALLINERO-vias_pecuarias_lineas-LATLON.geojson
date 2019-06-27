@@ -1,0 +1,8 @@
+﻿{
+"type": "FeatureCollection",
+"name": "vias_pecuarias_lineas",
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.890180", "NOMBRE": "CAÑADA A GALLINERO", "PUB_CLASIF": "O.M. 30\/06\/1960", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.890253, 42.447824 ], [ -2.890317, 42.447808 ] ] } }
+]
+}
+

@@ -1,0 +1,9 @@
+﻿{
+"type": "FeatureCollection",
+"name": "vias_pecuarias_lineas",
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.891630", "NOMBRE": "COLADA PASADA DEL PORTILLEJO A LAS PEDRERAS", "PUB_CLASIF": "BOE 09\/03\/1956", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO URBANO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.473433, 42.458522 ], [ -2.473344, 42.45835 ], [ -2.473337, 42.458334 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.891978", "NOMBRE": "COLADA PASADA DEL PORTILLEJO A LAS PEDRERAS", "PUB_CLASIF": "BOE 09\/03\/1956", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO URBANO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.473337, 42.458334 ], [ -2.47322, 42.458079 ], [ -2.473058, 42.457808 ], [ -2.472781, 42.457303 ], [ -2.472536, 42.456847 ], [ -2.472291, 42.456387 ], [ -2.472145, 42.456107 ], [ -2.471835, 42.455578 ], [ -2.471668, 42.455222 ], [ -2.471472, 42.454874 ], [ -2.471247, 42.454725 ], [ -2.47112, 42.454652 ], [ -2.470838, 42.454484 ], [ -2.470472, 42.45423 ], [ -2.470374, 42.454135 ], [ -2.470347, 42.453923 ], [ -2.470395, 42.453262 ], [ -2.470455, 42.452825 ], [ -2.470503, 42.4526 ], [ -2.47088, 42.451229 ], [ -2.471085, 42.450415 ], [ -2.471202, 42.450023 ], [ -2.471301, 42.449713 ], [ -2.471348, 42.449479 ], [ -2.471327, 42.44938 ], [ -2.471202, 42.449312 ], [ -2.470874, 42.449261 ] ] } }
+]
+}
+

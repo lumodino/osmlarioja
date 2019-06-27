@@ -1,0 +1,11 @@
+﻿{
+"type": "FeatureCollection",
+"name": "vias_pecuarias_lineas",
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.892256", "NOMBRE": "COLADA PASADA DE LA NAVAL", "PUB_CLASIF": "BOE 09\/03\/1956", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO URBANO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.405533, 42.478024 ], [ -2.406449, 42.479168 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.892257", "NOMBRE": "COLADA PASADA DE LA NAVAL", "PUB_CLASIF": "BOE 09\/03\/1956", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO URBANO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.397524, 42.472493 ], [ -2.397707, 42.472443 ], [ -2.397927, 42.472293 ], [ -2.398186, 42.472153 ], [ -2.398438, 42.472 ], [ -2.398706, 42.47189 ], [ -2.399074, 42.471781 ], [ -2.399424, 42.471717 ], [ -2.399945, 42.471784 ], [ -2.400172, 42.471785 ], [ -2.400599, 42.472184 ], [ -2.400844, 42.472412 ], [ -2.401118, 42.472668 ], [ -2.40157, 42.473089 ], [ -2.401665, 42.473396 ], [ -2.402253, 42.474133 ], [ -2.402625, 42.4746 ], [ -2.402909, 42.474954 ], [ -2.403341, 42.475449 ], [ -2.403756, 42.475925 ], [ -2.404057, 42.47627 ], [ -2.404497, 42.476774 ], [ -2.404913, 42.47725 ], [ -2.405527, 42.478016 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.892278", "NOMBRE": "COLADA PASADA DE LA NAVAL", "PUB_CLASIF": "BOE 09\/03\/1956", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO URBANO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.40553, 42.47802 ], [ -2.405533, 42.478024 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "vias_pecuarias_lineas.892279", "NOMBRE": "COLADA PASADA DE LA NAVAL", "PUB_CLASIF": "BOE 09\/03\/1956", "ICONA_ETIQUETA": "Si", "COMENTARIO": "TRAMO URBANO" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.405527, 42.478016 ], [ -2.40553, 42.47802 ] ] } }
+]
+}
+

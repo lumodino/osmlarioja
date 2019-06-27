@@ -1,0 +1,246 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=vias_pecuarias_lineas&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>-2.388525 42.446494 </gml:lowerCorner>
+      		<gml:upperCorner>-2.385753 42.452922 </gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.387868 42.452652 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385785 42.452881 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.385785 42.452881  -2.386115 42.452806  -2.387014 42.452652  -2.387714 42.452666  -2.387860 42.452684  -2.387868 42.452675  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892557">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388507 42.446504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.387045 42.452675 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.387868 42.452675  -2.388018 42.452518  -2.388090 42.452417  -2.388085 42.452321  -2.388069 42.452270  -2.387968 42.452094  -2.387889 42.451981  -2.387809 42.451868  -2.387641 42.451692  -2.387526 42.451579  -2.387440 42.451492  -2.387329 42.451366  -2.387290 42.451303  -2.387232 42.451171  -2.387172 42.451041  -2.387110 42.450941  -2.387085 42.450863  -2.387045 42.450735  -2.387052 42.450659  -2.387064 42.450572  -2.387127 42.450424  -2.387156 42.450308  -2.387195 42.450176  -2.387266 42.449991  -2.387336 42.449832  -2.387425 42.449655  -2.387524 42.449507  -2.387574 42.449393  -2.387583 42.449244  -2.387616 42.449161  -2.387730 42.448950  -2.387760 42.448775  -2.387818 42.448650  -2.387914 42.448501  -2.387990 42.448363  -2.388023 42.448263  -2.388066 42.448149  -2.388076 42.447944  -2.388018 42.447790  -2.387737 42.447597  -2.387671 42.447484  -2.387647 42.447322  -2.387674 42.447244  -2.387793 42.447114  -2.388305 42.446670  -2.388507 42.446504  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892558">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.385785 42.452881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385763 42.452886 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.385763 42.452886  -2.385785 42.452881  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892576">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388492 42.446494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385753 42.452830 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.385753 42.452830  -2.385853 42.452816  -2.386171 42.452767  -2.386289 42.452750  -2.386725 42.452676  -2.386827 42.452657  -2.386997 42.452632  -2.387278 42.452628  -2.387618 42.452634  -2.387781 42.452640  -2.387963 42.452545  -2.388039 42.452456  -2.388063 42.452403  -2.388053 42.452282  -2.387948 42.452103  -2.387837 42.451945  -2.387754 42.451836  -2.387392 42.451478  -2.387284 42.451346  -2.387162 42.451087  -2.387060 42.450864  -2.387016 42.450725  -2.387027 42.450592  -2.387081 42.450442  -2.387110 42.450348  -2.387150 42.450167  -2.387222 42.449999  -2.387318 42.449793  -2.387403 42.449645  -2.387480 42.449542  -2.387528 42.449443  -2.387547 42.449369  -2.387555 42.449238  -2.387610 42.449107  -2.387669 42.449000  -2.387699 42.448945  -2.387710 42.448882  -2.387733 42.448776  -2.387787 42.448671  -2.387879 42.448506  -2.387970 42.448349  -2.388018 42.448213  -2.388049 42.448037  -2.388043 42.447944  -2.388003 42.447815  -2.387936 42.447755  -2.387850 42.447696  -2.387721 42.447616  -2.387660 42.447520  -2.387625 42.447396  -2.387620 42.447326  -2.387641 42.447277  -2.387703 42.447183  -2.387812 42.447078  -2.387967 42.446953  -2.388122 42.446821  -2.388258 42.446692  -2.388352 42.446609  -2.388453 42.446525  -2.388492 42.446494  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388525 42.446516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.387072 42.452651 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.388525 42.446516  -2.388523 42.446517  -2.388485 42.446548  -2.388317 42.446678  -2.388065 42.446908  -2.387804 42.447125  -2.387696 42.447255  -2.387670 42.447315  -2.387682 42.447376  -2.387693 42.447431  -2.387711 42.447519  -2.387762 42.447594  -2.387792 42.447617  -2.387914 42.447695  -2.388024 42.447753  -2.388070 42.447808  -2.388098 42.447916  -2.388099 42.448023  -2.388091 42.448146  -2.388065 42.448270  -2.387972 42.448462  -2.387828 42.448699  -2.387788 42.448809  -2.387764 42.448945  -2.387699 42.449043  -2.387637 42.449174  -2.387606 42.449310  -2.387610 42.449401  -2.387560 42.449509  -2.387480 42.449627  -2.387392 42.449790  -2.387332 42.449932  -2.387266 42.450091  -2.387252 42.450123  -2.387251 42.450126  -2.387194 42.450292  -2.387166 42.450427  -2.387108 42.450561  -2.387072 42.450673  -2.387084 42.450778  -2.387141 42.450939  -2.387242 42.451140  -2.387353 42.451368  -2.387478 42.451499  -2.387627 42.451644  -2.387799 42.451823  -2.387925 42.451995  -2.388039 42.452163  -2.388087 42.452268  -2.388121 42.452351  -2.388119 42.452411  -2.388093 42.452489  -2.388031 42.452560  -2.387976 42.452607  -2.387941 42.452651  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.387896 42.452670 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385810 42.452922 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.387896 42.452727  -2.387680 42.452694  -2.387225 42.452670  -2.387000 42.452675  -2.386901 42.452696  -2.386644 42.452735  -2.386342 42.452798  -2.386358 42.452813  -2.385906 42.452904  -2.385812 42.452922  -2.385810 42.452922  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892590">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.387906 42.452681 </gml:lowerCorner>
+        		<gml:upperCorner>-2.387896 42.452727 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.387896 42.452727  -2.387896 42.452689  -2.387906 42.452681  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892591">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.387941 42.452651 </gml:lowerCorner>
+        		<gml:upperCorner>-2.387906 42.452681 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.387906 42.452681  -2.387941 42.452651  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892605">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388525 42.446504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388507 42.446516 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.388507 42.446504  -2.388513 42.446508  -2.388525 42.446516  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892606">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.385810 42.452881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385785 42.452922 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.385810 42.452922  -2.385785 42.452881  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892607">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.385785 42.452830 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385753 42.452881 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.385785 42.452881  -2.385753 42.452830  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.892610">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388507 42.446494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388492 42.446504 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.388492 42.446494  -2.388507 42.446504  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>PASADA DE LA LADERA DE IGAY</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 09/03/1956</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
+

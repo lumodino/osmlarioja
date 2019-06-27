@@ -1,0 +1,930 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=vias_pecuarias_lineas&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>-2.928165 42.435994 </gml:lowerCorner>
+      		<gml:upperCorner>-2.910839 42.464629 </gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889495">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913003 42.461466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913002 42.461473 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913002 42.461473  -2.913002 42.461472  -2.913003 42.461466  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889496">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913005 42.461459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913003 42.461466 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913003 42.461466  -2.913005 42.461459  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889506">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918297 42.445557 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918273 42.445569 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918297 42.445569  -2.918274 42.445557  -2.918273 42.445557  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889509">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918215 42.445626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918210 42.445629 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918210 42.445626  -2.918215 42.445629  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889666">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913003 42.461466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910970 42.464495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.910970 42.464495  -2.910974 42.464489  -2.911128 42.464218  -2.911235 42.464041  -2.911383 42.463769  -2.911512 42.463526  -2.911630 42.463315  -2.911706 42.463180  -2.911871 42.462935  -2.911969 42.462801  -2.912035 42.462697  -2.912109 42.462561  -2.912215 42.462393  -2.912355 42.462202  -2.912425 42.462092  -2.912493 42.461989  -2.912609 42.461816  -2.912686 42.461687  -2.912766 42.461624  -2.912889 42.461540  -2.913003 42.461466  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889667">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910970 42.464495 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910839 42.464629 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.910839 42.464629  -2.910970 42.464495  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889671">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913473 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913003 42.461466 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913003 42.461466  -2.913046 42.461438  -2.913060 42.461340  -2.913075 42.461176  -2.913095 42.460986  -2.913108 42.460850  -2.913129 42.460715  -2.913144 42.460580  -2.913161 42.460389  -2.913192 42.460194  -2.913209 42.460042  -2.913238 42.459899  -2.913259 42.459729  -2.913301 42.459507  -2.913339 42.459241  -2.913372 42.458952  -2.913421 42.458693  -2.913457 42.458442  -2.913473 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889688">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913010 42.461431 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910937 42.464493 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.910937 42.464493  -2.911055 42.464276  -2.911081 42.464230  -2.911223 42.463981  -2.911291 42.463859  -2.911352 42.463751  -2.911417 42.463634  -2.911428 42.463615  -2.911555 42.463389  -2.911678 42.463183  -2.911951 42.462763  -2.911953 42.462760  -2.912185 42.462395  -2.912256 42.462286  -2.912553 42.461836  -2.912601 42.461763  -2.912635 42.461702  -2.912685 42.461644  -2.912775 42.461585  -2.912834 42.461546  -2.912919 42.461491  -2.913010 42.461431  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889690">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913479 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913002 42.461473 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913479 42.458335  -2.913473 42.458379  -2.913440 42.458602  -2.913426 42.458699  -2.913378 42.458960  -2.913345 42.459241  -2.913306 42.459514  -2.913265 42.459730  -2.913244 42.459902  -2.913215 42.460043  -2.913198 42.460197  -2.913167 42.460389  -2.913150 42.460586  -2.913134 42.460720  -2.913113 42.460855  -2.913100 42.461000  -2.913082 42.461167  -2.913066 42.461340  -2.913052 42.461439  -2.913051 42.461441  -2.913050 42.461442  -2.913002 42.461473  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889697">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911015 42.464495 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910970 42.464498 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.911015 42.464498  -2.910979 42.464495  -2.910970 42.464495  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889698">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912995 42.461508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911015 42.464498 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.912995 42.461508  -2.912923 42.461554  -2.912833 42.461615  -2.912750 42.461671  -2.912701 42.461728  -2.912668 42.461786  -2.912252 42.462419  -2.912035 42.462760  -2.912018 42.462787  -2.911746 42.463206  -2.911624 42.463411  -2.911359 42.463880  -2.911109 42.464333  -2.911015 42.464498  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889702">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913466 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913005 42.461459 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913005 42.461459  -2.913040 42.461436  -2.913054 42.461339  -2.913067 42.461198  -2.913089 42.460986  -2.913101 42.460854  -2.913122 42.460722  -2.913137 42.460595  -2.913155 42.460388  -2.913185 42.460200  -2.913204 42.460038  -2.913232 42.459901  -2.913253 42.459729  -2.913294 42.459514  -2.913332 42.459245  -2.913365 42.458954  -2.913375 42.458906  -2.913412 42.458710  -2.913427 42.458607  -2.913458 42.458394  -2.913466 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889710">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910970 42.464493 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910937 42.464495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.910970 42.464495  -2.910968 42.464495  -2.910937 42.464493  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889711">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913002 42.461473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912995 42.461508 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913002 42.461473  -2.912995 42.461508  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889712">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913010 42.461431 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913005 42.461459 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913010 42.461431  -2.913005 42.461459  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889714">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913003 42.461466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913002 42.461473 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913002 42.461473  -2.913002 42.461472  -2.913003 42.461466  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889715">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913005 42.461459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913003 42.461466 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913003 42.461466  -2.913005 42.461459  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889725">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918215 42.445629 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913473 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913473 42.458335  -2.913488 42.458224  -2.913517 42.458037  -2.913525 42.457914  -2.913543 42.457788  -2.913562 42.457687  -2.913572 42.457536  -2.913604 42.457383  -2.913629 42.457252  -2.913645 42.457059  -2.913673 42.456888  -2.913693 42.456712  -2.913733 42.456505  -2.913765 42.456329  -2.913789 42.456154  -2.913821 42.455926  -2.913866 42.455584  -2.913917 42.455274  -2.913960 42.454990  -2.913989 42.454811  -2.914015 42.454614  -2.914023 42.454461  -2.914079 42.454195  -2.914108 42.454006  -2.914139 42.453768  -2.914185 42.453489  -2.914241 42.453131  -2.914315 42.452642  -2.914328 42.452480  -2.914335 42.452403  -2.914420 42.452125  -2.914479 42.451971  -2.914520 42.451872  -2.914663 42.451606  -2.914816 42.451396  -2.914955 42.451172  -2.915221 42.450691  -2.915430 42.450354  -2.915606 42.450042  -2.915776 42.449749  -2.915993 42.449387  -2.916273 42.448897  -2.916512 42.448501  -2.916640 42.448280  -2.916692 42.448184  -2.916758 42.448078  -2.916815 42.447970  -2.916920 42.447818  -2.916998 42.447677  -2.917101 42.447510  -2.917213 42.447299  -2.917325 42.447110  -2.917429 42.446948  -2.917592 42.446691  -2.917711 42.446491  -2.917832 42.446271  -2.917949 42.446089  -2.918038 42.445918  -2.918215 42.445629  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889728">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927750 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926885 42.438596 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927750 42.438596  -2.927630 42.438585  -2.927526 42.438550  -2.927405 42.438377  -2.927309 42.438228  -2.927210 42.438065  -2.927125 42.437940  -2.927015 42.437747  -2.926919 42.437594  -2.926892 42.437529  -2.926885 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889732">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927423 42.439510 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918273 42.445557 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918273 42.445557  -2.918376 42.445489  -2.918638 42.445288  -2.918838 42.445135  -2.919074 42.444980  -2.919261 42.444843  -2.919466 42.444678  -2.919817 42.444433  -2.920015 42.444275  -2.920278 42.444093  -2.920610 42.443851  -2.920925 42.443603  -2.921260 42.443367  -2.921628 42.443082  -2.921867 42.442906  -2.922086 42.442757  -2.922234 42.442647  -2.922353 42.442557  -2.922536 42.442441  -2.922628 42.442409  -2.923009 42.442365  -2.923144 42.442137  -2.923080 42.442098  -2.923088 42.442047  -2.923245 42.441925  -2.923679 42.441615  -2.924174 42.441245  -2.924441 42.441057  -2.924680 42.440880  -2.924956 42.440681  -2.925118 42.440548  -2.925234 42.440482  -2.925336 42.440471  -2.925469 42.440482  -2.925751 42.440490  -2.925848 42.440459  -2.925941 42.440422  -2.926054 42.440378  -2.926145 42.440306  -2.926269 42.440227  -2.926324 42.440172  -2.926349 42.440137  -2.926383 42.440121  -2.926499 42.440033  -2.926660 42.439979  -2.926840 42.439937  -2.926977 42.439938  -2.927136 42.439938  -2.927320 42.439944  -2.927370 42.439867  -2.927385 42.439807  -2.927406 42.439700  -2.927423 42.439631  -2.927370 42.439541  -2.927393 42.439510  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889733">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918244 42.445590 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918215 42.445629 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918215 42.445629  -2.918225 42.445613  -2.918244 42.445590  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889734">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918273 42.445557 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918244 42.445590 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918244 42.445590  -2.918271 42.445558  -2.918273 42.445557  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889735">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.928136 42.438596 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927393 42.439510 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927393 42.439510  -2.927506 42.439355  -2.927679 42.439135  -2.927738 42.439087  -2.927887 42.438937  -2.928090 42.438791  -2.928136 42.438735  -2.928114 42.438669  -2.928019 42.438621  -2.927935 42.438613  -2.927791 42.438599  -2.927750 42.438596  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889744">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918220 42.445631 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913479 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918220 42.445631  -2.918212 42.445646  -2.918188 42.445684  -2.918178 42.445701  -2.918044 42.445919  -2.917983 42.446036  -2.917955 42.446090  -2.917881 42.446206  -2.917841 42.446268  -2.917788 42.446364  -2.917717 42.446493  -2.917685 42.446547  -2.917553 42.446763  -2.917501 42.446845  -2.917416 42.446978  -2.917332 42.447110  -2.917243 42.447261  -2.917220 42.447300  -2.917108 42.447510  -2.917060 42.447588  -2.917024 42.447646  -2.916999 42.447688  -2.916959 42.447759  -2.916926 42.447820  -2.916869 42.447902  -2.916821 42.447972  -2.916774 42.448061  -2.916756 42.448092  -2.916707 42.448171  -2.916696 42.448189  -2.916671 42.448234  -2.916638 42.448295  -2.916591 42.448377  -2.916552 42.448443  -2.916521 42.448497  -2.916397 42.448702  -2.916338 42.448800  -2.916277 42.448901  -2.916221 42.448999  -2.916189 42.449055  -2.916117 42.449182  -2.916064 42.449274  -2.916013 42.449363  -2.915978 42.449423  -2.915936 42.449494  -2.915870 42.449603  -2.915775 42.449763  -2.915655 42.449969  -2.915566 42.450123  -2.915447 42.450335  -2.915411 42.450395  -2.915292 42.450588  -2.915256 42.450646  -2.915221 42.450703  -2.915091 42.450938  -2.915054 42.451005  -2.914977 42.451143  -2.914960 42.451174  -2.914822 42.451398  -2.914767 42.451473  -2.914670 42.451607  -2.914526 42.451874  -2.914498 42.451940  -2.914424 42.452131  -2.914341 42.452404  -2.914326 42.452587  -2.914321 42.452648  -2.914246 42.453142  -2.914203 42.453414  -2.914146 42.453764  -2.914137 42.453834  -2.914116 42.453994  -2.914085 42.454192  -2.914029 42.454464  -2.914021 42.454614  -2.913980 42.454910  -2.913936 42.455187  -2.913894 42.455448  -2.913872 42.455584  -2.913850 42.455753  -2.913811 42.456039  -2.913770 42.456334  -2.913739 42.456506  -2.913699 42.456713  -2.913679 42.456889  -2.913651 42.457059  -2.913635 42.457252  -2.913614 42.457362  -2.913578 42.457537  -2.913568 42.457684  -2.913531 42.457914  -2.913523 42.458036  -2.913493 42.458232  -2.913479 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889745">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927389 42.439543 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918174 42.445505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918174 42.445505  -2.918219 42.445505  -2.918262 42.445499  -2.918311 42.445489  -2.918318 42.445486  -2.918361 42.445467  -2.919658 42.444523  -2.920125 42.444167  -2.920817 42.443654  -2.920999 42.443520  -2.922423 42.442470  -2.922474 42.442443  -2.922533 42.442410  -2.922649 42.442380  -2.922739 42.442374  -2.922819 42.442356  -2.922949 42.442350  -2.923100 42.442147  -2.923052 42.442105  -2.923052 42.442039  -2.923441 42.441753  -2.923915 42.441404  -2.924031 42.441320  -2.924204 42.441195  -2.924625 42.440890  -2.924919 42.440677  -2.925110 42.440517  -2.925211 42.440469  -2.925282 42.440447  -2.925334 42.440450  -2.925446 42.440455  -2.925635 42.440464  -2.925749 42.440465  -2.925829 42.440442  -2.926002 42.440370  -2.926067 42.440339  -2.926108 42.440305  -2.926128 42.440288  -2.926243 42.440217  -2.926329 42.440121  -2.926416 42.440065  -2.926456 42.440033  -2.926463 42.440027  -2.926580 42.439974  -2.926849 42.439915  -2.927060 42.439916  -2.927182 42.439918  -2.927304 42.439920  -2.927339 42.439861  -2.927389 42.439628  -2.927337 42.439543  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889746">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927472 42.439353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927378 42.439482 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927378 42.439482  -2.927428 42.439407  -2.927472 42.439353  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889749">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.928165 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918297 42.445569 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926915 42.437501  -2.926921 42.437524  -2.926946 42.437581  -2.927136 42.437898  -2.927193 42.437993  -2.927488 42.438451  -2.927548 42.438533  -2.927637 42.438563  -2.927734 42.438575  -2.928013 42.438596  -2.928133 42.438651  -2.928165 42.438732  -2.928112 42.438804  -2.927931 42.438940  -2.927826 42.439038  -2.927708 42.439148  -2.927480 42.439429  -2.927402 42.439542  -2.927454 42.439627  -2.927397 42.439874  -2.927347 42.439960  -2.927304 42.439966  -2.927059 42.439961  -2.926907 42.439960  -2.926857 42.439960  -2.926605 42.440016  -2.926502 42.440062  -2.926458 42.440097  -2.926375 42.440151  -2.926289 42.440247  -2.926170 42.440321  -2.926107 42.440373  -2.926047 42.440402  -2.926033 42.440409  -2.925855 42.440483  -2.925760 42.440510  -2.925633 42.440509  -2.925442 42.440500  -2.925292 42.440493  -2.925240 42.440509  -2.925150 42.440552  -2.924963 42.440708  -2.923958 42.441436  -2.923113 42.442057  -2.923113 42.442088  -2.923135 42.442107  -2.923194 42.442120  -2.923183 42.442165  -2.923088 42.442351  -2.923087 42.442396  -2.922951 42.442395  -2.922830 42.442400  -2.922751 42.442419  -2.922662 42.442424  -2.922591 42.442443  -2.922562 42.442451  -2.922463 42.442504  -2.920998 42.443584  -2.920860 42.443686  -2.920168 42.444199  -2.919702 42.444554  -2.918421 42.445486  -2.918402 42.445500  -2.918297 42.445569  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889753">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918210 42.445626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913466 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913466 42.458335  -2.913479 42.458249  -2.913511 42.458037  -2.913519 42.457920  -2.913556 42.457687  -2.913566 42.457535  -2.913599 42.457381  -2.913622 42.457252  -2.913639 42.457058  -2.913667 42.456888  -2.913687 42.456713  -2.913725 42.456513  -2.913759 42.456326  -2.913799 42.456041  -2.913838 42.455752  -2.913860 42.455583  -2.913883 42.455445  -2.913924 42.455185  -2.913966 42.454918  -2.914008 42.454614  -2.914016 42.454467  -2.914073 42.454195  -2.914104 42.453996  -2.914125 42.453829  -2.914135 42.453758  -2.914186 42.453440  -2.914229 42.453169  -2.914308 42.452650  -2.914329 42.452403  -2.914413 42.452128  -2.914485 42.451942  -2.914514 42.451871  -2.914657 42.451607  -2.914750 42.451477  -2.914810 42.451396  -2.914855 42.451322  -2.914897 42.451254  -2.914949 42.451170  -2.914963 42.451145  -2.915042 42.451002  -2.915081 42.450932  -2.915214 42.450693  -2.915229 42.450667  -2.915244 42.450644  -2.915267 42.450606  -2.915376 42.450431  -2.915433 42.450336  -2.915565 42.450102  -2.915643 42.449966  -2.915760 42.449766  -2.915851 42.449613  -2.915934 42.449474  -2.915976 42.449404  -2.915999 42.449366  -2.916034 42.449304  -2.916105 42.449178  -2.916173 42.449061  -2.916206 42.449002  -2.916261 42.448905  -2.916325 42.448800  -2.916381 42.448707  -2.916506 42.448500  -2.916535 42.448451  -2.916572 42.448386  -2.916625 42.448295  -2.916657 42.448237  -2.916691 42.448175  -2.916720 42.448128  -2.916749 42.448082  -2.916781 42.448022  -2.916809 42.447968  -2.916834 42.447933  -2.916914 42.447817  -2.916926 42.447795  -2.916959 42.447736  -2.916994 42.447672  -2.917011 42.447645  -2.917055 42.447575  -2.917094 42.447510  -2.917138 42.447429  -2.917165 42.447377  -2.917204 42.447304  -2.917232 42.447257  -2.917279 42.447177  -2.917317 42.447112  -2.917381 42.447012  -2.917472 42.446869  -2.917538 42.446765  -2.917645 42.446591  -2.917707 42.446487  -2.917760 42.446391  -2.917824 42.446273  -2.917944 42.446087  -2.917965 42.446047  -2.918034 42.445913  -2.918165 42.445700  -2.918177 42.445680  -2.918181 42.445674  -2.918196 42.445650  -2.918202 42.445639  -2.918210 42.445626  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889761">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918220 42.445629 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918215 42.445631 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918215 42.445629  -2.918216 42.445629  -2.918220 42.445631  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889763">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.918273 42.445505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.918174 42.445557 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.918273 42.445557  -2.918174 42.445505  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889767">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.928101 42.438631 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927472 42.439353 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927472 42.439353  -2.927658 42.439122  -2.927749 42.439038  -2.927886 42.438910  -2.928063 42.438778  -2.928101 42.438727  -2.928082 42.438680  -2.927993 42.438640  -2.927883 42.438631  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889769">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927726 42.438582 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927548 42.438619 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927726 42.438619  -2.927619 42.438606  -2.927548 42.438582  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889770">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927548 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926854 42.438582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927548 42.438582  -2.927505 42.438567  -2.927434 42.438472  -2.927344 42.438331  -2.927266 42.438211  -2.927138 42.438012  -2.927126 42.437992  -2.927070 42.437898  -2.926890 42.437597  -2.926869 42.437550  -2.926863 42.437536  -2.926854 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889771">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927378 42.439482 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927337 42.439543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927337 42.439543  -2.927378 42.439482  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889776">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927883 42.438619 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927726 42.438631 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.927883 42.438631  -2.927726 42.438619  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889780">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926885 42.435999 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926602 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926885 42.437501  -2.926849 42.437371  -2.926819 42.437270  -2.926776 42.437135  -2.926745 42.437040  -2.926703 42.436907  -2.926649 42.436665  -2.926618 42.436542  -2.926603 42.436489  -2.926602 42.436358  -2.926622 42.436249  -2.926662 42.436102  -2.926723 42.435999  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889794">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926854 42.435994 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926572 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926854 42.437501  -2.926807 42.437328  -2.926675 42.436914  -2.926640 42.436758  -2.926618 42.436660  -2.926573 42.436488  -2.926572 42.436406  -2.926572 42.436358  -2.926591 42.436247  -2.926633 42.436095  -2.926693 42.435994  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889795">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926723 42.435994 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926693 42.435999 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926693 42.435994  -2.926723 42.435999  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889799">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926915 42.436005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926632 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926752 42.436005  -2.926691 42.436108  -2.926651 42.436255  -2.926632 42.436361  -2.926632 42.436416  -2.926633 42.436484  -2.926677 42.436652  -2.926701 42.436758  -2.926733 42.436905  -2.926866 42.437318  -2.926915 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.889829">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926752 42.435999 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926723 42.436005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926723 42.435999  -2.926752 42.436005  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895100">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913473 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913466 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913473 42.458335  -2.913466 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895101">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913473 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913466 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913466 42.458335  -2.913473 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913479 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913473 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913479 42.458335  -2.913473 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895109">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913479 42.458335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913473 42.458335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.913473 42.458335  -2.913479 42.458335  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO>TRAMO DESAPARECIDO POR COINCIDIR CON CARRETERA. NO COMPUTA SUPERFICIE ESTADO</ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895110">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926885 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926854 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926854 42.437501  -2.926885 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895111">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926885 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926854 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926885 42.437501  -2.926854 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895112">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926915 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926885 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926885 42.437501  -2.926915 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:vias_pecuarias_lineas gml:id="vias_pecuarias_lineas.895113">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.926915 42.437501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.926885 42.437501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.926915 42.437501  -2.926885 42.437501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE>COLADA DEL CAMINO DE FUENTE DEL OLMO</ms:NOMBRE>
+        <ms:PUB_CLASIF>BOE 26/11/1959</ms:PUB_CLASIF>
+        <ms:ICONA_ETIQUETA>Si</ms:ICONA_ETIQUETA>
+        <ms:COMENTARIO> </ms:COMENTARIO>
+      </ms:vias_pecuarias_lineas>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
+
