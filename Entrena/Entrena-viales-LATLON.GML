@@ -27,6 +27,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900113</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -44,6 +47,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900113</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -61,6 +67,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Encinar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -78,6 +87,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Encinar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -95,6 +107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Encinar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -112,6 +127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Encinar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -129,6 +147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Pinar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900110</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -146,6 +167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Hiedras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900114</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -163,6 +187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Mirador</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900112</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -180,6 +207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Mirador</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900112</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -197,6 +227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -214,6 +247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -231,6 +267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -248,6 +287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -265,6 +307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -282,6 +327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -299,6 +347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -316,6 +367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -333,6 +387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -350,6 +407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -367,6 +427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -384,6 +447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -401,6 +467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -418,6 +487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -435,6 +507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lardero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -452,6 +527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lardero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -469,6 +547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lardero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -486,6 +567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lardero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -503,6 +587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lardero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -520,6 +607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lardero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -537,6 +627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -554,6 +647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -571,6 +667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -588,6 +687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -605,6 +707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -622,6 +727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -639,6 +747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -656,6 +767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -673,6 +787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -690,6 +807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -707,6 +827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Sojuela</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -724,6 +847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Sojuela</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -741,6 +867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Sojuela</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -758,6 +887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Sojuela</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -775,6 +907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Viña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900111</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -792,6 +927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Viña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900111</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -809,6 +947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Viña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900111</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -826,6 +967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Viña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900111</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -843,6 +987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -860,6 +1007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -877,6 +1027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -894,6 +1047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -911,6 +1067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -928,6 +1087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -945,6 +1107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -962,6 +1127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antelena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900093</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -979,6 +1147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antelena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900093</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -996,6 +1167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antelena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900093</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1013,6 +1187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antelena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900093</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1030,6 +1207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Escuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1047,6 +1227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Escuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1064,6 +1247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Morcilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1081,6 +1267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Morcilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1098,6 +1287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Morcilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1115,6 +1307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1132,6 +1327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1149,6 +1347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1166,6 +1367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1183,6 +1387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1200,6 +1407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1217,6 +1427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1234,6 +1447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1251,6 +1467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1268,6 +1487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1285,6 +1507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1302,6 +1527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1319,6 +1547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1336,6 +1567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1353,6 +1587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1370,6 +1607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Marcejana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900126</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1387,6 +1627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Rosa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900121</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1404,6 +1647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1421,6 +1667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1438,6 +1687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1455,6 +1707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1472,6 +1727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1489,6 +1747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1506,6 +1767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1523,6 +1787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1540,6 +1807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1557,6 +1827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1574,6 +1847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1591,6 +1867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1608,6 +1887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1625,6 +1907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1642,6 +1927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1659,6 +1947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1676,6 +1967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1693,6 +1987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1710,6 +2007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1727,6 +2027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1744,6 +2047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1761,6 +2067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1778,6 +2087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1795,6 +2107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio el Conjuro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1812,6 +2127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900072</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1829,6 +2147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900072</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1846,6 +2167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900072</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1863,6 +2187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eduardo Barriobero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.52</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1880,6 +2207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eduardo Barriobero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.52</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1897,6 +2227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eduardo Barriobero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.52</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1914,6 +2247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eduardo Barriobero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.52</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1931,6 +2267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1948,6 +2287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1965,6 +2307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1982,6 +2327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1999,6 +2347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2016,6 +2367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2033,6 +2387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2050,6 +2407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2067,6 +2427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2084,6 +2447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2101,6 +2467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2118,6 +2487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2135,6 +2507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2152,6 +2527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2169,6 +2547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2186,6 +2567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2203,6 +2587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2220,6 +2607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2237,6 +2627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2254,6 +2647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2271,6 +2667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2288,6 +2687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2305,6 +2707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2322,6 +2727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2339,6 +2747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2356,6 +2767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2373,6 +2787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2390,6 +2807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2407,6 +2827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2424,6 +2847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2441,6 +2867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2458,6 +2887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2475,6 +2907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2492,6 +2927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2509,6 +2947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2526,6 +2967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2543,6 +2987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2560,6 +3007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2577,6 +3027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Isidro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900077</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2594,6 +3047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900069</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2611,6 +3067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900069</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2628,6 +3087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900069</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2645,6 +3107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Baja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2662,6 +3127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Baja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2679,6 +3147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Baja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2696,6 +3167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Baja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2713,6 +3187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Baja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2730,6 +3207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Baja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2747,6 +3227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Nuevo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900124</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2764,6 +3247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Hermedaña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900086</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2781,6 +3267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Hermedaña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900086</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2798,6 +3287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Era Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.54</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2815,6 +3307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Santa Rosa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.45</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900078</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2832,6 +3327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Media</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2849,6 +3347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Media</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2866,6 +3367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Media</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2883,6 +3387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Media</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2900,6 +3407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Media</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2917,6 +3427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla Media</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2934,6 +3447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2951,6 +3467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.53</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900104</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2968,6 +3487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.53</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900104</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2985,6 +3507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3002,6 +3527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3019,6 +3547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3036,6 +3567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900131</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3053,6 +3587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3070,6 +3607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3087,6 +3627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3104,6 +3647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3121,6 +3667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3138,6 +3687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3155,6 +3707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cuesta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900099</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3172,6 +3727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tras la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3189,6 +3747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tras la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3206,6 +3767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tras la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3223,6 +3787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tras la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3240,6 +3807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Chorrón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3257,6 +3827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900091</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3274,6 +3847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900091</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3291,6 +3867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900091</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3308,6 +3887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Regajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3325,6 +3907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Regajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3342,6 +3927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Regajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3359,6 +3947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Regajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3376,6 +3967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Regajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3393,6 +3987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Regajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3410,6 +4007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900071</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3427,6 +4027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900071</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3444,6 +4047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900071</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3461,6 +4067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Convento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3478,6 +4087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Convento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3495,6 +4107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Convento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3512,6 +4127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino los Perros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900105</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3529,6 +4147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino los Perros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900105</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3546,6 +4167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Umbría</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3563,6 +4187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Umbría</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3580,6 +4207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Umbría</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3597,6 +4227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Babiero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900129</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3614,6 +4247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Babiero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900129</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3631,6 +4267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cascajosa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900061</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3648,6 +4287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Antiguo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900125</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3665,6 +4307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Antiguo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900125</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3682,6 +4327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Antiguo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900125</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3699,6 +4347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Piscinas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3716,6 +4367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Piscinas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3733,6 +4387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Piscinas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3750,6 +4407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Piscinas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3767,6 +4427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Piscinas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3784,6 +4447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Laguna</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900130</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3801,6 +4467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Laguna</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900130</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3818,6 +4487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tenor Sanz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3835,6 +4507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tenor Sanz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3852,6 +4527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diego Fernández</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.38</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900107</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3869,6 +4547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diego Fernández</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.38</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900107</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3886,6 +4567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Lafuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900127</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3903,6 +4587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Moncalvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900108</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3920,6 +4607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Moncalvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900108</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3937,6 +4627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Moncalvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900108</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3954,6 +4647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Blas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3971,6 +4667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Blas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3988,6 +4687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Blas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4005,6 +4707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza el Coso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4022,6 +4727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza el Coso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4039,6 +4747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza el Coso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4056,6 +4767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza el Coso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4073,6 +4787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Barbacana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4090,6 +4807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900101</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4107,6 +4827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Planos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4124,6 +4847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Río Lanza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900095</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4141,6 +4867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Velilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4158,6 +4887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Velilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4175,6 +4907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Velilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4192,6 +4927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Velilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4209,6 +4947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Velilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4226,6 +4967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Velilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Entrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Entrena</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.059.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605900085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

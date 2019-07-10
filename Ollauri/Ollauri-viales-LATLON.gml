@@ -27,6 +27,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Álamos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100056</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -44,6 +47,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Nájera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -61,6 +67,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Eras San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -78,6 +87,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Lirios</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100078</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -95,6 +107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Violeta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.68</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100077</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -112,6 +127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -129,6 +147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -146,6 +167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -163,6 +187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -180,6 +207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -197,6 +227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -214,6 +247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -231,6 +267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -248,6 +287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -265,6 +307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -282,6 +327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -299,6 +347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -316,6 +367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -333,6 +387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -350,6 +407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100043</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -367,6 +427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100043</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -384,6 +447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100043</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -401,6 +467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100043</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -418,6 +487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -435,6 +507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -452,6 +527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -469,6 +547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -486,6 +567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -503,6 +587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -520,6 +607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -537,6 +627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -554,6 +647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -571,6 +667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -588,6 +687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -605,6 +707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -622,6 +727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -639,6 +747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Longuera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -656,6 +767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Longuera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -673,6 +787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Longuera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -690,6 +807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Longuera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -707,6 +827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Panes</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -724,6 +847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Panes</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -741,6 +867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Panes</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -758,6 +887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -775,6 +907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -792,6 +927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -809,6 +947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100032</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -826,6 +967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100032</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -843,6 +987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuevas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -860,6 +1007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuevas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -877,6 +1027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuevas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -894,6 +1047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Gayo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -911,6 +1067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Gayo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -928,6 +1087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Gayo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -945,6 +1107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -962,6 +1127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -979,6 +1147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -996,6 +1167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1013,6 +1187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1030,6 +1207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1047,6 +1227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1064,6 +1247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1081,6 +1267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1098,6 +1287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1115,6 +1307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1132,6 +1327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1149,6 +1347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Higueruelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1166,6 +1367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100046</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1183,6 +1387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Almendros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100054</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1200,6 +1407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100042</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1217,6 +1427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Miralobueno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100036</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1234,6 +1447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Miralobueno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100036</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1251,6 +1467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Miralobueno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100036</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1268,6 +1487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1285,6 +1507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1302,6 +1527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1319,6 +1547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1336,6 +1567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1353,6 +1587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1370,6 +1607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1387,6 +1627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100026</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1404,6 +1647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100026</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1421,6 +1667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100026</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1438,6 +1687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100026</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1455,6 +1707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100026</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1472,6 +1727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100026</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1489,6 +1747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle José María Paternina</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1506,6 +1767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Borda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1523,6 +1787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Borda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1540,6 +1807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Borda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1557,6 +1827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Eulalia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.61</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1574,6 +1847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1591,6 +1867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1608,6 +1887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1625,6 +1907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1642,6 +1927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1659,6 +1947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1676,6 +1967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1693,6 +1987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1710,6 +2007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1727,6 +2027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1744,6 +2047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1761,6 +2067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol de la Cabra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1778,6 +2087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Viñedos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.52</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1795,6 +2107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Acacias</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100053</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1812,6 +2127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino del Peral</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100079</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1829,6 +2147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino del Peral</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100079</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1846,6 +2167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino del Peral</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100079</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1863,6 +2187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino del Peral</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100079</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1880,6 +2207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Oriente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.64</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100071</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1897,6 +2227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1914,6 +2247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1931,6 +2267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1948,6 +2287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1965,6 +2307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1982,6 +2327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1999,6 +2347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2016,6 +2367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2033,6 +2387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2050,6 +2407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo del Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2067,6 +2427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo del Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2084,6 +2447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Churrumendi</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100061</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2101,6 +2467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Groizard</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2118,6 +2487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Groizard</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2135,6 +2507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Pinos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2152,6 +2527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de las Letanías</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100075</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2169,6 +2547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de las Letanías</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100075</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2186,6 +2567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de las Letanías</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100075</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2203,6 +2587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Gallo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2220,6 +2607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Gallo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2237,6 +2627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vistalegre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100006</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2254,6 +2647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vistalegre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100006</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2271,6 +2667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vistalegre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100006</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2288,6 +2687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras de San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100064</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2305,6 +2707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras de San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100064</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2322,6 +2727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Poniente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100072</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2339,6 +2747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Poniente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100072</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2356,6 +2767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Poniente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100072</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

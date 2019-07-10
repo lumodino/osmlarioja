@@ -27,6 +27,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -44,6 +47,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -61,6 +67,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -78,6 +87,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -95,6 +107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -112,6 +127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -129,6 +147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -146,6 +167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -163,6 +187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -180,6 +207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -197,6 +227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -214,6 +247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -231,6 +267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -248,6 +287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -265,6 +307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -282,6 +327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -299,6 +347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -316,6 +367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -333,6 +387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -350,6 +407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -367,6 +427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -384,6 +447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -401,6 +467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -418,6 +487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -435,6 +507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -452,6 +527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -469,6 +547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -486,6 +567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -503,6 +587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -520,6 +607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Presidente Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -537,6 +627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600186</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -554,6 +647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600186</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -571,6 +667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600186</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -588,6 +687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -605,6 +707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -622,6 +727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -639,6 +747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -656,6 +767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -673,6 +787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Obispo Salazar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -690,6 +807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Obispo Salazar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -707,6 +827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -724,6 +847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -741,6 +867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -758,6 +887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -775,6 +907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -792,6 +927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600149</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -809,6 +947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Monseñor Martínez Somalo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -826,6 +967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Monseñor Martínez Somalo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -843,6 +987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Monseñor Martínez Somalo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -860,6 +1007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Monseñor Martínez Somalo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -877,6 +1027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Monseñor Martínez Somalo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -894,6 +1047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -911,6 +1067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -928,6 +1087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -945,6 +1107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -962,6 +1127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -979,6 +1147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600161</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -996,6 +1167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Centro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1013,6 +1187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Centro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1030,6 +1207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Centro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1047,6 +1227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Centro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1064,6 +1247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Centro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1081,6 +1267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600181</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1098,6 +1287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600181</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1115,6 +1307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600181</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1132,6 +1327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600181</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1149,6 +1347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1166,6 +1367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1183,6 +1387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1200,6 +1407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Najerilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600178</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1217,6 +1427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Najerilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600178</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1234,6 +1447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Badarán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1251,6 +1467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Badarán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1268,6 +1487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Badarán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1285,6 +1507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1302,6 +1527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1319,6 +1547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1336,6 +1567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1353,6 +1587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1370,6 +1607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1387,6 +1627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José Alonso</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1404,6 +1647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1421,6 +1667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1438,6 +1687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1455,6 +1707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1472,6 +1727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1489,6 +1747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1506,6 +1767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1523,6 +1787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600187</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1540,6 +1807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600184</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1557,6 +1827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600184</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1574,6 +1847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Sombra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600158</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1591,6 +1867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600139</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1608,6 +1887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600139</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1625,6 +1907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600139</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1642,6 +1927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600139</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1659,6 +1947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Barranco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1676,6 +1967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Isidro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.53</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600135</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1693,6 +1987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1710,6 +2007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1727,6 +2027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1744,6 +2047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1761,6 +2067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1778,6 +2087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1795,6 +2107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1812,6 +2127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1829,6 +2147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1846,6 +2167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600138</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1863,6 +2187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Veintinueve de Junio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600190</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1880,6 +2207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan José García Failde</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.72</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600189</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1897,6 +2227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trascasas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600168</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1914,6 +2247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trascasas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600168</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1931,6 +2267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1948,6 +2287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1965,6 +2307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1982,6 +2327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1999,6 +2347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2016,6 +2367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tobía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2033,6 +2387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tobía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2050,6 +2407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tobía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2067,6 +2427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tobía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2084,6 +2447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Sendero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600182</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2101,6 +2467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Sendero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600182</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2118,6 +2487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Sendero</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600182</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2135,6 +2507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Nájera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2152,6 +2527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Nájera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2169,6 +2547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Nájera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2186,6 +2567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Dehesa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600156</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2203,6 +2587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Dehesa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600156</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2220,6 +2607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600176</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2237,6 +2627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600176</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2254,6 +2647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2271,6 +2667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2288,6 +2687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2305,6 +2707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ballestería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2322,6 +2727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ballestería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2339,6 +2747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ballestería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2356,6 +2767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2373,6 +2787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2390,6 +2807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2407,6 +2827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2424,6 +2847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2441,6 +2867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2458,6 +2887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Villar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600175</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2475,6 +2907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Centro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600172</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2492,6 +2927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barberito I</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2509,6 +2947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barberito I</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2526,6 +2967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barberito I</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2543,6 +2987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bañuelos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600141</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2560,6 +3007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2577,6 +3027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Parrales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600160</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2594,6 +3047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Matute</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600111</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2611,6 +3067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía la Sombra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600170</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2628,6 +3087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía la Sombra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600170</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2645,6 +3107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Polideportivo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600188</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2662,6 +3127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campellar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600147</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2679,6 +3147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campellar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600147</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2696,6 +3167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campellar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600147</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2713,6 +3187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza del Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600133</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2730,6 +3207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza del Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600133</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2747,6 +3227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza del Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600133</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2764,6 +3247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Pablo II</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2781,6 +3267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Pablo II</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2798,6 +3287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2815,6 +3307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2832,6 +3327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2849,6 +3347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Párroco Miguel Avellaneda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600163</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2866,6 +3367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo de la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600164</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2883,6 +3387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo de la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600164</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2900,6 +3407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.68</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600183</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2917,6 +3427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Pelayo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.52</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600167</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2934,6 +3447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Mateo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.54</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600166</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2951,6 +3467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2968,6 +3487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2985,6 +3507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3002,6 +3527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3019,6 +3547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3036,6 +3567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3053,6 +3587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3070,6 +3607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle José Alonso Tejada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600154</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3087,6 +3627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle I</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3104,6 +3647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle H</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3121,6 +3667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Anguiano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.70</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602600192</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3138,6 +3687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3155,6 +3707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.026.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

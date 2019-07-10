@@ -27,6 +27,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -44,6 +47,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -61,6 +67,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -78,6 +87,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -95,6 +107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -112,6 +127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -129,6 +147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -146,6 +167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono el Manzano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -163,6 +187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Reajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.72</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -180,6 +207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -197,6 +227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -214,6 +247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -231,6 +267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -248,6 +287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -265,6 +307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -282,6 +327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400103</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -299,6 +347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.76</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -316,6 +367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.76</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -333,6 +387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.76</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -350,6 +407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.76</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -367,6 +427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.76</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -384,6 +447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.76</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -401,6 +467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -418,6 +487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -435,6 +507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -452,6 +527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -469,6 +547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -486,6 +567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -503,6 +587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -520,6 +607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -537,6 +627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -554,6 +647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -571,6 +667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -588,6 +687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Briones a Peñacerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -605,6 +707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -622,6 +727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -639,6 +747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -656,6 +767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -673,6 +787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -690,6 +807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -707,6 +827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -724,6 +847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -741,6 +867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -758,6 +887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -775,6 +907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -792,6 +927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -809,6 +947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -826,6 +967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400129</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -843,6 +987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400129</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -860,6 +1007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca de las Cuarenta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -877,6 +1027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca de las Cuarenta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -894,6 +1047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca de las Cuarenta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -911,6 +1067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca de las Cuarenta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -928,6 +1087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca de las Cuarenta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400142</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -945,6 +1107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nueva</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.61</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400114</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -962,6 +1127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nueva</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.61</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400114</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -979,6 +1147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediodía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400112</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -996,6 +1167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediodía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400112</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1013,6 +1187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediodía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400112</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1030,6 +1207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1047,6 +1227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1064,6 +1247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1081,6 +1267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1098,6 +1287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1115,6 +1307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1132,6 +1327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1149,6 +1347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1166,6 +1367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1183,6 +1387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1200,6 +1407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1217,6 +1427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1234,6 +1447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1251,6 +1467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1268,6 +1487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Príncipes de Asturias</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400160</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1285,6 +1507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Príncipes de Asturias</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400160</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1302,6 +1527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1319,6 +1547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1336,6 +1567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1353,6 +1587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1370,6 +1607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400097</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1387,6 +1627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400115</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1404,6 +1647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400115</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1421,6 +1667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400115</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1438,6 +1687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400115</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1455,6 +1707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Toloño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.83</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400122</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1472,6 +1727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Toloño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.83</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400122</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1489,6 +1747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Toloño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.83</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400122</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1506,6 +1767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Toloño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.83</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400122</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1523,6 +1787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Toloño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.83</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400122</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1540,6 +1807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1557,6 +1827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1574,6 +1847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1591,6 +1867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1608,6 +1887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1625,6 +1907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1642,6 +1927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1659,6 +1947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1676,6 +1967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1693,6 +1987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1710,6 +2007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1727,6 +2027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1744,6 +2047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1761,6 +2067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1778,6 +2087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400087</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1795,6 +2107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1812,6 +2127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1829,6 +2147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1846,6 +2167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1863,6 +2187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1880,6 +2207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1897,6 +2227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1914,6 +2247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Resaco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.73</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400118</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1931,6 +2267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Perla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.66</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400104</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1948,6 +2287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Perla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.66</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400104</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1965,6 +2307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400147</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1982,6 +2327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400127</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1999,6 +2347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400127</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2016,6 +2367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400127</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2033,6 +2387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.40</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2050,6 +2407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.40</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2067,6 +2427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.40</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2084,6 +2447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.40</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2101,6 +2467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.40</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2118,6 +2487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400151</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2135,6 +2507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400101</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2152,6 +2527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400101</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2169,6 +2547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400101</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2186,6 +2567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.55</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400111</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2203,6 +2587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2220,6 +2607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2237,6 +2627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2254,6 +2647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2271,6 +2667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2288,6 +2687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2305,6 +2707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2322,6 +2727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2339,6 +2747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2356,6 +2767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2373,6 +2787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2390,6 +2807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2407,6 +2827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2424,6 +2847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2441,6 +2867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2458,6 +2887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2475,6 +2907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2492,6 +2927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2509,6 +2947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2526,6 +2967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2543,6 +2987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2560,6 +3007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2577,6 +3027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2594,6 +3047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca del Cristo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400135</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2611,6 +3067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2628,6 +3087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400102</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2645,6 +3107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Puerta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.70</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400105</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2662,6 +3127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2679,6 +3147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2696,6 +3167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400106</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2713,6 +3187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400120</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2730,6 +3207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400120</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2747,6 +3227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400120</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2764,6 +3247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400120</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2781,6 +3267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2798,6 +3287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2815,6 +3307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2832,6 +3327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2849,6 +3347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400143</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2866,6 +3367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.43</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400130</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2883,6 +3387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.43</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400130</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2900,6 +3407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Jardín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.43</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400130</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2917,6 +3427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2934,6 +3447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2951,6 +3467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2968,6 +3487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2985,6 +3507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3002,6 +3527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400157</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3019,6 +3547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400113</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3036,6 +3567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400113</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3053,6 +3587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400113</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3070,6 +3607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400113</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3087,6 +3627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3104,6 +3647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3121,6 +3667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3138,6 +3687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400089</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3155,6 +3707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3172,6 +3727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3189,6 +3747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3206,6 +3767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3223,6 +3787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3240,6 +3807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3257,6 +3827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3274,6 +3847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Concepción</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400094</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3291,6 +3867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pozos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400110</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3308,6 +3887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pozos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400110</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3325,6 +3907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pozos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400110</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3342,6 +3927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pozos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400110</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3359,6 +3947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pozos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.69</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400110</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3376,6 +3967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estrella</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400099</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3393,6 +3987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estrella</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400099</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3410,6 +4007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estrella</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400099</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3427,6 +4027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca del Torreón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3444,6 +4047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400091</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3461,6 +4067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3478,6 +4087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3495,6 +4107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3512,6 +4127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3529,6 +4147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400098</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3546,6 +4167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400126</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3563,6 +4187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta Dulce</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400095</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3580,6 +4207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta Dulce</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400095</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3597,6 +4227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta Dulce</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400095</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3614,6 +4247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada las Huertas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.38</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3631,6 +4267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400137</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3648,6 +4287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.63</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400137</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3665,6 +4307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400124</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3682,6 +4327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Aliento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3699,6 +4347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Aliento</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400116</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3716,6 +4367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.82</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400121</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3733,6 +4387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.82</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400121</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3750,6 +4407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.82</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400121</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3767,6 +4427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Estrella</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400150</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3784,6 +4447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Santo Domingo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.77</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400093</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3801,6 +4467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Santo Domingo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.77</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400093</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3818,6 +4487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Carlos I</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.105</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400159</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3835,6 +4507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Carlos I</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.105</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400159</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3852,6 +4527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda Trilladora</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.85</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400141</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3869,6 +4547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda Trilladora</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.85</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400141</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3886,6 +4567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.81</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3903,6 +4587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3920,6 +4607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3937,6 +4627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3954,6 +4647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3971,6 +4667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3988,6 +4687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4005,6 +4707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4022,6 +4727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4039,6 +4747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4056,6 +4767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Polígono Las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400162</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4073,6 +4787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Acera del Medio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400134</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4090,6 +4807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Acera del Medio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400134</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4107,6 +4827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Acera del Medio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400134</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4124,6 +4847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Cuesta Dulce</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4141,6 +4867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Cuesta Dulce</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4158,6 +4887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Cuesta Dulce</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4175,6 +4907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4192,6 +4927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4209,6 +4947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4226,6 +4967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca del Toro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4243,6 +4987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Rosa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.74</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400107</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4260,6 +5007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4277,6 +5027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4294,6 +5047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4311,6 +5067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4328,6 +5087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4345,6 +5107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4362,6 +5127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ibarra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.37</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400117</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4379,6 +5147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Mendiguerra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400086</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4396,6 +5167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Mendiguerra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400086</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4413,6 +5187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Maestro Bergareche</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.47</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400081</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4430,6 +5207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerca de la Media Luna</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.97</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400144</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4447,6 +5227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Lucía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.107</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400161</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4464,6 +5247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Muro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.56</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400136</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4481,6 +5267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Vaquera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400158</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4498,6 +5287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Vaquera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400158</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4515,6 +5307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Vaquera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400158</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4532,6 +5327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Trasera Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4549,6 +5347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Trasera Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4566,6 +5367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Trasera Norte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4583,6 +5387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Acera de Arriba</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400133</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4600,6 +5407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.100</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4617,6 +5427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.71</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4634,6 +5447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Perla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400131</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4651,6 +5467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Pajares</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.64</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400156</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4668,6 +5487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Acera de Abajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.94</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400146</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4685,6 +5507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400149</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4702,6 +5527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400149</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4719,6 +5547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cantera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400149</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4736,6 +5567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400108</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4753,6 +5587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.034.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2603400085</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

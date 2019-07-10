@@ -27,6 +27,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700053</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -44,6 +47,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700053</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -61,6 +67,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700053</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -78,6 +87,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Valvanera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -95,6 +107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Valvanera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -112,6 +127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Valvanera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -129,6 +147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Valvanera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700051</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -146,6 +167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -163,6 +187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -180,6 +207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -197,6 +227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -214,6 +247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -231,6 +267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -248,6 +287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -265,6 +307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Morales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700062</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -282,6 +327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Eulalia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -299,6 +347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Eulalia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -316,6 +367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Eulalia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -333,6 +387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Eulalia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -350,6 +407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Eulalia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700052</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -367,6 +427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -384,6 +447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -401,6 +467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -418,6 +487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -435,6 +507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -452,6 +527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bercas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700061</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -469,6 +547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bercas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700061</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -486,6 +567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700064</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -503,6 +587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700064</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -520,6 +607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700064</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -537,6 +627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700064</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -554,6 +647,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -571,6 +667,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Magdalena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -588,6 +687,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -605,6 +707,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -622,6 +727,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Rosario</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -639,6 +747,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta del Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -656,6 +767,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta del Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -673,6 +787,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta del Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -690,6 +807,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -707,6 +827,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cañada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -724,6 +847,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cañada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -741,6 +867,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cañada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -758,6 +887,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cañada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -775,6 +907,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cañada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700067</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -792,6 +927,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Cementerio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -809,6 +947,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -826,6 +967,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -843,6 +987,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -860,6 +1007,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -877,6 +1027,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -894,6 +1047,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700054</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -911,6 +1067,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -928,6 +1087,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -945,6 +1107,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -962,6 +1127,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Santa María</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -979,6 +1147,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -996,6 +1167,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1013,6 +1187,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1030,6 +1207,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1047,6 +1227,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1064,6 +1247,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1081,6 +1267,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1098,6 +1287,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Gonzalo de Berceo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1115,6 +1307,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Peña Villarejo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700046</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1132,6 +1327,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Peña Villarejo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700046</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1149,6 +1347,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Cereceda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700069</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1166,6 +1367,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1183,6 +1387,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1200,6 +1407,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Salceda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1217,6 +1427,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Salceda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1234,6 +1447,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Salceda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700066</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1251,6 +1467,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Millán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1268,6 +1487,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700056</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1285,6 +1507,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700056</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1302,6 +1527,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700056</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1319,6 +1547,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Aselo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1336,6 +1567,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Aselo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1353,6 +1587,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calleja la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1370,6 +1607,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.16</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1387,6 +1627,9 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Nájera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Berceo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Berceo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.027.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602700033</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

@@ -29,6 +29,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49,6 +50,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -69,6 +71,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -89,6 +92,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -109,6 +113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -129,6 +134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -149,6 +155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -169,6 +176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -189,6 +197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -209,6 +218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -229,6 +239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -249,6 +260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -269,6 +281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -289,6 +302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -309,6 +323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -329,6 +344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -349,6 +365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -369,6 +386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -389,6 +407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -409,6 +428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -429,6 +449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -449,6 +470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -469,6 +491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -489,6 +512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -509,6 +533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -529,6 +554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -549,6 +575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -569,6 +596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -589,6 +617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -609,6 +638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -629,6 +659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -649,6 +680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -669,6 +701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -689,6 +722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -709,6 +743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -729,6 +764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -749,6 +785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -769,6 +806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -789,6 +827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -809,6 +848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -829,6 +869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -849,6 +890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -869,6 +911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -889,6 +932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -909,6 +953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -929,6 +974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -949,6 +995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -969,6 +1016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -989,6 +1037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1009,6 +1058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1029,6 +1079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1049,6 +1100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1069,6 +1121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1089,6 +1142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1109,6 +1163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1129,6 +1184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1149,6 +1205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1178,6 +1235,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1207,6 +1265,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1236,6 +1295,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1265,6 +1325,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1285,6 +1346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1305,6 +1367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1325,6 +1388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1345,6 +1409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1365,6 +1430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1385,6 +1451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1405,6 +1472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1425,6 +1493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1445,6 +1514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1465,6 +1535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1485,6 +1556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1505,6 +1577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1525,6 +1598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1545,6 +1619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1565,6 +1640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1585,6 +1661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1605,6 +1682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1625,6 +1703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1645,6 +1724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1665,6 +1745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1685,6 +1766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1705,6 +1787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1725,6 +1808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1745,6 +1829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1765,6 +1850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1785,6 +1871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1805,6 +1892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1825,6 +1913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1845,6 +1934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1865,6 +1955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1885,6 +1976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1905,6 +1997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1925,6 +2018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1945,6 +2039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1965,6 +2060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1985,6 +2081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2005,6 +2102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2025,6 +2123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2045,6 +2144,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2065,6 +2165,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2085,6 +2186,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2105,6 +2207,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2125,6 +2228,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2145,6 +2249,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2165,6 +2270,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2185,6 +2291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2205,6 +2312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2225,6 +2333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2245,6 +2354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2265,6 +2375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2285,6 +2396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2305,6 +2417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2325,6 +2438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2345,6 +2459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2365,6 +2480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2385,6 +2501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2405,6 +2522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2425,6 +2543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2445,6 +2564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2465,6 +2585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2485,6 +2606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2514,6 +2636,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2543,6 +2666,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2563,6 +2687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2583,6 +2708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2603,6 +2729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2623,6 +2750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2643,6 +2771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2663,6 +2792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2683,6 +2813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2703,6 +2834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2723,6 +2855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2743,6 +2876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2763,6 +2897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2783,6 +2918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2803,6 +2939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2823,6 +2960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2843,6 +2981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2863,6 +3002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2883,6 +3023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2903,6 +3044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2923,6 +3065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2943,6 +3086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2963,6 +3107,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2983,6 +3128,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3003,6 +3149,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3023,6 +3170,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3043,6 +3191,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3063,6 +3212,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3083,6 +3233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3103,6 +3254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3123,6 +3275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3143,6 +3296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3163,6 +3317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3183,6 +3338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3203,6 +3359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3223,6 +3380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3243,6 +3401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3263,6 +3422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3283,6 +3443,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3303,6 +3464,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3323,6 +3485,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3343,6 +3506,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3363,6 +3527,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3383,6 +3548,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3403,6 +3569,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3423,6 +3590,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3443,6 +3611,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3463,6 +3632,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3483,6 +3653,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3503,6 +3674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3523,6 +3695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3543,6 +3716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3563,6 +3737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3583,6 +3758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3603,6 +3779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3623,6 +3800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3643,6 +3821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3663,6 +3842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3683,6 +3863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3703,6 +3884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3723,6 +3905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3743,6 +3926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3763,6 +3947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3783,6 +3968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3803,6 +3989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3823,6 +4010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3852,6 +4040,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3872,6 +4061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3892,6 +4082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3926,6 +4117,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3946,6 +4138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3966,6 +4159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3986,6 +4180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4006,6 +4201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4026,6 +4222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4046,6 +4243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4066,6 +4264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4086,6 +4285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4106,6 +4306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4126,6 +4327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4146,6 +4348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4166,6 +4369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4186,6 +4390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4206,6 +4411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4226,6 +4432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4246,6 +4453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4266,6 +4474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4286,6 +4495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4306,6 +4516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4326,6 +4537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4346,6 +4558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4366,6 +4579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4386,6 +4600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4406,6 +4621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4426,6 +4642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4446,6 +4663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4466,6 +4684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4486,6 +4705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4506,6 +4726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4526,6 +4747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4546,6 +4768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4566,6 +4789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4586,6 +4810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4606,6 +4831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4626,6 +4852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4646,6 +4873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4666,6 +4894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4686,6 +4915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4706,6 +4936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4726,6 +4957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4746,6 +4978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4766,6 +4999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4786,6 +5020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4806,6 +5041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4826,6 +5062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4846,6 +5083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4866,6 +5104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4886,6 +5125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4906,6 +5146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4926,6 +5167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4946,6 +5188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4966,6 +5209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4986,6 +5230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5006,6 +5251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5026,6 +5272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5046,6 +5293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5066,6 +5314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5086,6 +5335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5106,6 +5356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5126,6 +5377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5146,6 +5398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5166,6 +5419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5186,6 +5440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5206,6 +5461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5226,6 +5482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5246,6 +5503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5266,6 +5524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5286,6 +5545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5306,6 +5566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5326,6 +5587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5346,6 +5608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5366,6 +5629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5386,6 +5650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5406,6 +5671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5426,6 +5692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5446,6 +5713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5466,6 +5734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5486,6 +5755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5506,6 +5776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5526,6 +5797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5546,6 +5818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5566,6 +5839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5586,6 +5860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5606,6 +5881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5626,6 +5902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5646,6 +5923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5666,6 +5944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5686,6 +5965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5706,6 +5986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5726,6 +6007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5746,6 +6028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5766,6 +6049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5786,6 +6070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5806,6 +6091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5826,6 +6112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5846,6 +6133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5866,6 +6154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5886,6 +6175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5906,6 +6196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5926,6 +6217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5946,6 +6238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5966,6 +6259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5986,6 +6280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6006,6 +6301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6026,6 +6322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6046,6 +6343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6066,6 +6364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6086,6 +6385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6106,6 +6406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6126,6 +6427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6146,6 +6448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6166,6 +6469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6186,6 +6490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6206,6 +6511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6226,6 +6532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6246,6 +6553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6266,6 +6574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6286,6 +6595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6306,6 +6616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6326,6 +6637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6346,6 +6658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6366,6 +6679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6386,6 +6700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6406,6 +6721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6426,6 +6742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6446,6 +6763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6466,6 +6784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6486,6 +6805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6506,6 +6826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6526,6 +6847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6546,6 +6868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6566,6 +6889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6586,6 +6910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6606,6 +6931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6626,6 +6952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6646,6 +6973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6666,6 +6994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6686,6 +7015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6706,6 +7036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6726,6 +7057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6746,6 +7078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6766,6 +7099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6786,6 +7120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6806,6 +7141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6826,6 +7162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6846,6 +7183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6866,6 +7204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6886,6 +7225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6906,6 +7246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6926,6 +7267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6946,6 +7288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6966,6 +7309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6986,6 +7330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7006,6 +7351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7026,6 +7372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7046,6 +7393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7066,6 +7414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7086,6 +7435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7106,6 +7456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7126,6 +7477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7146,6 +7498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7166,6 +7519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7186,6 +7540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7206,6 +7561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7226,6 +7582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7246,6 +7603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7266,6 +7624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7286,6 +7645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7306,6 +7666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7326,6 +7687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7346,6 +7708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7366,6 +7729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7386,6 +7750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7406,6 +7771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7426,6 +7792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7446,6 +7813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7466,6 +7834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7486,6 +7855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7506,6 +7876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7526,6 +7897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7546,6 +7918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7566,6 +7939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7586,6 +7960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7606,6 +7981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7626,6 +8002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7646,6 +8023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7666,6 +8044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7686,6 +8065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7706,6 +8086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7726,6 +8107,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7746,6 +8128,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7766,6 +8149,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7786,6 +8170,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7806,6 +8191,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7826,6 +8212,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7846,6 +8233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7866,6 +8254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7886,6 +8275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7906,6 +8296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7926,6 +8317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7946,6 +8338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7966,6 +8359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7986,6 +8380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8006,6 +8401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8026,6 +8422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8046,6 +8443,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8066,6 +8464,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8086,6 +8485,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8106,6 +8506,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8126,6 +8527,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8146,6 +8548,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8166,6 +8569,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8186,6 +8590,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8206,6 +8611,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8226,6 +8632,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8246,6 +8653,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8266,6 +8674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8286,6 +8695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8306,6 +8716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8326,6 +8737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8346,6 +8758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8366,6 +8779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8386,6 +8800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8406,6 +8821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8426,6 +8842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8446,6 +8863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8466,6 +8884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8486,6 +8905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8506,6 +8926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8526,6 +8947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8546,6 +8968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8566,6 +8989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8586,6 +9010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8606,6 +9031,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8626,6 +9052,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8646,6 +9073,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8666,6 +9094,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8686,6 +9115,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8706,6 +9136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8726,6 +9157,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8746,6 +9178,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8766,6 +9199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8786,6 +9220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8806,6 +9241,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8826,6 +9262,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8846,6 +9283,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8866,6 +9304,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8886,6 +9325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8906,6 +9346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8926,6 +9367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8946,6 +9388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8966,6 +9409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8986,6 +9430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9006,6 +9451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9026,6 +9472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9046,6 +9493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9066,6 +9514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9086,6 +9535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9106,6 +9556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9126,6 +9577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9146,6 +9598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9166,6 +9619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9186,6 +9640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9206,6 +9661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9226,6 +9682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9246,6 +9703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9266,6 +9724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9286,6 +9745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9306,6 +9766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9326,6 +9787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9346,6 +9808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9366,6 +9829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9386,6 +9850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9406,6 +9871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9426,6 +9892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9446,6 +9913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9466,6 +9934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9486,6 +9955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9506,6 +9976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9526,6 +9997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9546,6 +10018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9566,6 +10039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9586,6 +10060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9606,6 +10081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9626,6 +10102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9646,6 +10123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9666,6 +10144,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9686,6 +10165,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9706,6 +10186,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9726,6 +10207,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9746,6 +10228,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9766,6 +10249,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9786,6 +10270,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9806,6 +10291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9826,6 +10312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9846,6 +10333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9866,6 +10354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9886,6 +10375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9906,6 +10396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9926,6 +10417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9946,6 +10438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9966,6 +10459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9986,6 +10480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10006,6 +10501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10026,6 +10522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10046,6 +10543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10066,6 +10564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10086,6 +10585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10106,6 +10606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10126,6 +10627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10146,6 +10648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10166,6 +10669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10186,6 +10690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10206,6 +10711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10226,6 +10732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10246,6 +10753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10266,6 +10774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10286,6 +10795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10306,6 +10816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10326,6 +10837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10346,6 +10858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10366,6 +10879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10386,6 +10900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10406,6 +10921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10426,6 +10942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10446,6 +10963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10466,6 +10984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10486,6 +11005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10506,6 +11026,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10526,6 +11047,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10546,6 +11068,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10566,6 +11089,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10586,6 +11110,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10606,6 +11131,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10626,6 +11152,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10646,6 +11173,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10666,6 +11194,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10686,6 +11215,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10706,6 +11236,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10726,6 +11257,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10746,6 +11278,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10766,6 +11299,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10786,6 +11320,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10806,6 +11341,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10826,6 +11362,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10846,6 +11383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10866,6 +11404,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10886,6 +11425,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10906,6 +11446,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10926,6 +11467,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10946,6 +11488,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10966,6 +11509,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10986,6 +11530,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11006,6 +11551,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11026,6 +11572,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11046,6 +11593,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11066,6 +11614,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11086,6 +11635,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11106,6 +11656,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11126,6 +11677,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11146,6 +11698,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11166,6 +11719,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11186,6 +11740,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11206,6 +11761,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11226,6 +11782,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11246,6 +11803,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11266,6 +11824,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11286,6 +11845,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11306,6 +11866,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11326,6 +11887,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11346,6 +11908,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11366,6 +11929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11386,6 +11950,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11406,6 +11971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11426,6 +11992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11446,6 +12013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11466,6 +12034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11486,6 +12055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11506,6 +12076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11526,6 +12097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11546,6 +12118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11566,6 +12139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11586,6 +12160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11606,6 +12181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11626,6 +12202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11646,6 +12223,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11666,6 +12244,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11686,6 +12265,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11706,6 +12286,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11726,6 +12307,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11746,6 +12328,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11766,6 +12349,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11786,6 +12370,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11806,6 +12391,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11826,6 +12412,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11846,6 +12433,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11866,6 +12454,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11886,6 +12475,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11906,6 +12496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11926,6 +12517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11946,6 +12538,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11966,6 +12559,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11986,6 +12580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12006,6 +12601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12026,6 +12622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12046,6 +12643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12066,6 +12664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12086,6 +12685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12106,6 +12706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12126,6 +12727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12146,6 +12748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12166,6 +12769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12186,6 +12790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12206,6 +12811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12226,6 +12832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12246,6 +12853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12266,6 +12874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12286,6 +12895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12306,6 +12916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12326,6 +12937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12346,6 +12958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12366,6 +12979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12386,6 +13000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12406,6 +13021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12426,6 +13042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12446,6 +13063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12466,6 +13084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12486,6 +13105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12506,6 +13126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12526,6 +13147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12546,6 +13168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12566,6 +13189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12586,6 +13210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12606,6 +13231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12626,6 +13252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12646,6 +13273,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12666,6 +13294,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12686,6 +13315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12706,6 +13336,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12726,6 +13357,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12746,6 +13378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12766,6 +13399,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12786,6 +13420,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12806,6 +13441,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12826,6 +13462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12846,6 +13483,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12866,6 +13504,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12886,6 +13525,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12906,6 +13546,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12926,6 +13567,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12946,6 +13588,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12966,6 +13609,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12986,6 +13630,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13006,6 +13651,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13026,6 +13672,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13046,6 +13693,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13066,6 +13714,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13086,6 +13735,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13106,6 +13756,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13126,6 +13777,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13146,6 +13798,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13166,6 +13819,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13186,6 +13840,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13206,6 +13861,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13226,6 +13882,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13246,6 +13903,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13266,6 +13924,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13286,6 +13945,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13306,6 +13966,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13326,6 +13987,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13346,6 +14008,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13366,6 +14029,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13386,6 +14050,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13406,6 +14071,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13426,6 +14092,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13446,6 +14113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13466,6 +14134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13486,6 +14155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13506,6 +14176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13526,6 +14197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13546,6 +14218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13566,6 +14239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13586,6 +14260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13606,6 +14281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13626,6 +14302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13646,6 +14323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13666,6 +14344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13686,6 +14365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13706,6 +14386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13726,6 +14407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13746,6 +14428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13766,6 +14449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13786,6 +14470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13806,6 +14491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13826,6 +14512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13846,6 +14533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13866,6 +14554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13886,6 +14575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13906,6 +14596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13926,6 +14617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13946,6 +14638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13966,6 +14659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13986,6 +14680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14006,6 +14701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14026,6 +14722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14046,6 +14743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14066,6 +14764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14086,6 +14785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14106,6 +14806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14126,6 +14827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14146,6 +14848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14166,6 +14869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14186,6 +14890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14206,6 +14911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14226,6 +14932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14246,6 +14953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14266,6 +14974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14286,6 +14995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14306,6 +15016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14326,6 +15037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14346,6 +15058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14366,6 +15079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14386,6 +15100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14406,6 +15121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14426,6 +15142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14446,6 +15163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14466,6 +15184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14486,6 +15205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14506,6 +15226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14526,6 +15247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14546,6 +15268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14566,6 +15289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14586,6 +15310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14606,6 +15331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14626,6 +15352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14646,6 +15373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14666,6 +15394,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14686,6 +15415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14706,6 +15436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14726,6 +15457,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14746,6 +15478,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14766,6 +15499,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14786,6 +15520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14806,6 +15541,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14826,6 +15562,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14846,6 +15583,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14866,6 +15604,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14886,6 +15625,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14906,6 +15646,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14926,6 +15667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14946,6 +15688,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14966,6 +15709,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14986,6 +15730,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15006,6 +15751,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15026,6 +15772,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15046,6 +15793,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15066,6 +15814,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15086,6 +15835,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15106,6 +15856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15126,6 +15877,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15146,6 +15898,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15166,6 +15919,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15186,6 +15940,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15206,6 +15961,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15226,6 +15982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15246,6 +16003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15266,6 +16024,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15286,6 +16045,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15306,6 +16066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15326,6 +16087,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15346,6 +16108,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15366,6 +16129,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15386,6 +16150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15406,6 +16171,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15426,6 +16192,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15446,6 +16213,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15466,6 +16234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15486,6 +16255,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15506,6 +16276,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15526,6 +16297,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15546,6 +16318,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15566,6 +16339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15586,6 +16360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15606,6 +16381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15626,6 +16402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15646,6 +16423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15666,6 +16444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15686,6 +16465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15706,6 +16486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15726,6 +16507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15746,6 +16528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15766,6 +16549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15786,6 +16570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15806,6 +16591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15826,6 +16612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15846,6 +16633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15866,6 +16654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15886,6 +16675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15906,6 +16696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15926,6 +16717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15946,6 +16738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15966,6 +16759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15986,6 +16780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16006,6 +16801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16026,6 +16822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16046,6 +16843,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16066,6 +16864,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16086,6 +16885,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16106,6 +16906,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16126,6 +16927,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16146,6 +16948,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16166,6 +16969,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16186,6 +16990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16206,6 +17011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16226,6 +17032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16246,6 +17053,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16266,6 +17074,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16286,6 +17095,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16306,6 +17116,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16326,6 +17137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16346,6 +17158,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16366,6 +17179,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16386,6 +17200,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16406,6 +17221,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16426,6 +17242,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16446,6 +17263,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16466,6 +17284,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16486,6 +17305,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16506,6 +17326,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16526,6 +17347,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16546,6 +17368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16566,6 +17389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16586,6 +17410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16606,6 +17431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16626,6 +17452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16646,6 +17473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16666,6 +17494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16686,6 +17515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16706,6 +17536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16726,6 +17557,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16746,6 +17578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16766,6 +17599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16786,6 +17620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16806,6 +17641,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16826,6 +17662,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16846,6 +17683,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16866,6 +17704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16886,6 +17725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16906,6 +17746,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16926,6 +17767,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16946,6 +17788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16966,6 +17809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16986,6 +17830,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17006,6 +17851,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17026,6 +17872,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17046,6 +17893,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17066,6 +17914,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17086,6 +17935,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17106,6 +17956,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17126,6 +17977,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17146,6 +17998,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17166,6 +18019,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17186,6 +18040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17206,6 +18061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17226,6 +18082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17246,6 +18103,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17266,6 +18124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17286,6 +18145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17306,6 +18166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17326,6 +18187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17346,6 +18208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17366,6 +18229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17386,6 +18250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17406,6 +18271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17426,6 +18292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17446,6 +18313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17466,6 +18334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17486,6 +18355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17506,6 +18376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17526,6 +18397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17546,6 +18418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17566,6 +18439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17586,6 +18460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17606,6 +18481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17626,6 +18502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17646,6 +18523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17666,6 +18544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17686,6 +18565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17706,6 +18586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17726,6 +18607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17746,6 +18628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17766,6 +18649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17786,6 +18670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17806,6 +18691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17826,6 +18712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17846,6 +18733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17866,6 +18754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17886,6 +18775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17906,6 +18796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17926,6 +18817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17946,6 +18838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17966,6 +18859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17986,6 +18880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18006,6 +18901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18026,6 +18922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18046,6 +18943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18066,6 +18964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18086,6 +18985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18106,6 +19006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18126,6 +19027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18146,6 +19048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18166,6 +19069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18186,6 +19090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18206,6 +19111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18226,6 +19132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18246,6 +19153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18266,6 +19174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18286,6 +19195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18306,6 +19216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18326,6 +19237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18346,6 +19258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18366,6 +19279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18386,6 +19300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18406,6 +19321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18426,6 +19342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18446,6 +19363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18466,6 +19384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18486,6 +19405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18506,6 +19426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18526,6 +19447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18546,6 +19468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18566,6 +19489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18586,6 +19510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18606,6 +19531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18626,6 +19552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18646,6 +19573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18666,6 +19594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18686,6 +19615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18706,6 +19636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18726,6 +19657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18746,6 +19678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18766,6 +19699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18786,6 +19720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18806,6 +19741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18826,6 +19762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18846,6 +19783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18866,6 +19804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18886,6 +19825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18906,6 +19846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18926,6 +19867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18946,6 +19888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18966,6 +19909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18986,6 +19930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19006,6 +19951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19026,6 +19972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19046,6 +19993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19066,6 +20014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19086,6 +20035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19106,6 +20056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19126,6 +20077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19146,6 +20098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19166,6 +20119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19186,6 +20140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19206,6 +20161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19226,6 +20182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19246,6 +20203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19266,6 +20224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19286,6 +20245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19306,6 +20266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19326,6 +20287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19346,6 +20308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19366,6 +20329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19386,6 +20350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19406,6 +20371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19426,6 +20392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19446,6 +20413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19466,6 +20434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19486,6 +20455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19506,6 +20476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19526,6 +20497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19546,6 +20518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19566,6 +20539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19586,6 +20560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19606,6 +20581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19626,6 +20602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19646,6 +20623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19666,6 +20644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19686,6 +20665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19706,6 +20686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19726,6 +20707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19746,6 +20728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19766,6 +20749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19786,6 +20770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19806,6 +20791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19826,6 +20812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19846,6 +20833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19866,6 +20854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19886,6 +20875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19906,6 +20896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19926,6 +20917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19946,6 +20938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19966,6 +20959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19986,6 +20980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20006,6 +21001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20026,6 +21022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20046,6 +21043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20066,6 +21064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20086,6 +21085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20106,6 +21106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20126,6 +21127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20146,6 +21148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20166,6 +21169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20186,6 +21190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20206,6 +21211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20226,6 +21232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20246,6 +21253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20266,6 +21274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20286,6 +21295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20306,6 +21316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20326,6 +21337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20346,6 +21358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20366,6 +21379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20386,6 +21400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20406,6 +21421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20426,6 +21442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20446,6 +21463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20466,6 +21484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20486,6 +21505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20506,6 +21526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20526,6 +21547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20546,6 +21568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20566,6 +21589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20586,6 +21610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20606,6 +21631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20626,6 +21652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20646,6 +21673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20666,6 +21694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20686,6 +21715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20706,6 +21736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20726,6 +21757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20746,6 +21778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20766,6 +21799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20786,6 +21820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20806,6 +21841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20826,6 +21862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20846,6 +21883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20866,6 +21904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20886,6 +21925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20906,6 +21946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20926,6 +21967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20946,6 +21988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20966,6 +22009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20986,6 +22030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21006,6 +22051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21026,6 +22072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21046,6 +22093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21066,6 +22114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21086,6 +22135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21106,6 +22156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21126,6 +22177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21146,6 +22198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21166,6 +22219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21186,6 +22240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21206,6 +22261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21226,6 +22282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21246,6 +22303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21266,6 +22324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21286,6 +22345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21306,6 +22366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21326,6 +22387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21346,6 +22408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21366,6 +22429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21386,6 +22450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21406,6 +22471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21426,6 +22492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21446,6 +22513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21466,6 +22534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21486,6 +22555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21506,6 +22576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21526,6 +22597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21546,6 +22618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21566,6 +22639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21586,6 +22660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21606,6 +22681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21626,6 +22702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21646,6 +22723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21666,6 +22744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21686,6 +22765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21706,6 +22786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21726,6 +22807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21746,6 +22828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21766,6 +22849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21786,6 +22870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21806,6 +22891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21826,6 +22912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21846,6 +22933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21866,6 +22954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21886,6 +22975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21906,6 +22996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21926,6 +23017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21946,6 +23038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21966,6 +23059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21986,6 +23080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22006,6 +23101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22026,6 +23122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22046,6 +23143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22066,6 +23164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22086,6 +23185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22106,6 +23206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22126,6 +23227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22146,6 +23248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22166,6 +23269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22186,6 +23290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22206,6 +23311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22226,6 +23332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22246,6 +23353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22266,6 +23374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22286,6 +23395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22306,6 +23416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22326,6 +23437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22346,6 +23458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22366,6 +23479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22386,6 +23500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22406,6 +23521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22426,6 +23542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22446,6 +23563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22466,6 +23584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22486,6 +23605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22506,6 +23626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22526,6 +23647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22546,6 +23668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22566,6 +23689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22586,6 +23710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22606,6 +23731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22626,6 +23752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22646,6 +23773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22666,6 +23794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22686,6 +23815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22706,6 +23836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22726,6 +23857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22746,6 +23878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22766,6 +23899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22786,6 +23920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22806,6 +23941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22826,6 +23962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22846,6 +23983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22866,6 +24004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22886,6 +24025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22906,6 +24046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22926,6 +24067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22946,6 +24088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22966,6 +24109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22986,6 +24130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23006,6 +24151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23026,6 +24172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23046,6 +24193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23066,6 +24214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23086,6 +24235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23106,6 +24256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23126,6 +24277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23146,6 +24298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23166,6 +24319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23186,6 +24340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23206,6 +24361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23226,6 +24382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23246,6 +24403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23266,6 +24424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23286,6 +24445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23306,6 +24466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23326,6 +24487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23346,6 +24508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23366,6 +24529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23386,6 +24550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23406,6 +24571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23426,6 +24592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23446,6 +24613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23466,6 +24634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23486,6 +24655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23506,6 +24676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23526,6 +24697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23546,6 +24718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23566,6 +24739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23586,6 +24760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23606,6 +24781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23626,6 +24802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23646,6 +24823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23666,6 +24844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23686,6 +24865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23706,6 +24886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23726,6 +24907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23746,6 +24928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23766,6 +24949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23786,6 +24970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23806,6 +24991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23826,6 +25012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23846,6 +25033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23866,6 +25054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23886,6 +25075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23906,6 +25096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23926,6 +25117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23946,6 +25138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23966,6 +25159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23986,6 +25180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24006,6 +25201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24026,6 +25222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24046,6 +25243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24066,6 +25264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24086,6 +25285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24106,6 +25306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24126,6 +25327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24146,6 +25348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24166,6 +25369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24186,6 +25390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24206,6 +25411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24226,6 +25432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24246,6 +25453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24266,6 +25474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24286,6 +25495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24306,6 +25516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24326,6 +25537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24346,6 +25558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24366,6 +25579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24386,6 +25600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24406,6 +25621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24426,6 +25642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24446,6 +25663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24466,6 +25684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24486,6 +25705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24506,6 +25726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24526,6 +25747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24546,6 +25768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24566,6 +25789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24586,6 +25810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24606,6 +25831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24626,6 +25852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24646,6 +25873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24666,6 +25894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24686,6 +25915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24706,6 +25936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24726,6 +25957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24746,6 +25978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24766,6 +25999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24786,6 +26020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24806,6 +26041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24826,6 +26062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24846,6 +26083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24866,6 +26104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24886,6 +26125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24906,6 +26146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24926,6 +26167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24946,6 +26188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24966,6 +26209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24986,6 +26230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25006,6 +26251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25026,6 +26272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25046,6 +26293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25066,6 +26314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25086,6 +26335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25106,6 +26356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25126,6 +26377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25146,6 +26398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25166,6 +26419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25186,6 +26440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25206,6 +26461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25226,6 +26482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25246,6 +26503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25266,6 +26524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25286,6 +26545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25306,6 +26566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25326,6 +26587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25346,6 +26608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25366,6 +26629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25386,6 +26650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25406,6 +26671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25426,6 +26692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25446,6 +26713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25466,6 +26734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25486,6 +26755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25506,6 +26776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25526,6 +26797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25546,6 +26818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25566,6 +26839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25586,6 +26860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25606,6 +26881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25626,6 +26902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25646,6 +26923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25666,6 +26944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25686,6 +26965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25706,6 +26986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25726,6 +27007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25746,6 +27028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25766,6 +27049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25786,6 +27070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25806,6 +27091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25826,6 +27112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25846,6 +27133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25866,6 +27154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25886,6 +27175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25906,6 +27196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25926,6 +27217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25946,6 +27238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25966,6 +27259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25986,6 +27280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26006,6 +27301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26026,6 +27322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26046,6 +27343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26066,6 +27364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26086,6 +27385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26106,6 +27406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26126,6 +27427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26146,6 +27448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

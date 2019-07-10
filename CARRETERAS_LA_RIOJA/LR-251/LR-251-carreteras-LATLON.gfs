@@ -1,0 +1,32 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>carreteras</Name>
+    <ElementPath>carreteras</ElementPath>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>2</FeatureCount>
+      <ExtentXMin>-2.57352</ExtentXMin>
+      <ExtentXMax>-2.55882</ExtentXMax>
+      <ExtentYMin>42.46267</ExtentYMin>
+      <ExtentYMax>42.49268</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>T106_106_CODIGOC</Name>
+      <ElementPath>T106_106_CODIGOC</ElementPath>
+      <Type>String</Type>
+      <Width>6</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>T106_106_NOMBRE</Name>
+      <ElementPath>T106_106_NOMBRE</ElementPath>
+      <Type>String</Type>
+      <Width>63</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>T106_106_REDVIARIA_DENO</Name>
+      <ElementPath>T106_106_REDVIARIA_DENO</ElementPath>
+      <Type>String</Type>
+      <Width>12</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

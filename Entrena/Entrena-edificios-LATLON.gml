@@ -29,6 +29,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49,6 +50,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -69,6 +71,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -89,6 +92,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -109,6 +113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -129,6 +134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -149,6 +155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -169,6 +176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -189,6 +197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -209,6 +218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -229,6 +239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -249,6 +260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -269,6 +281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -289,6 +302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -309,6 +323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -329,6 +344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -349,6 +365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -369,6 +386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -389,6 +407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -409,6 +428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -429,6 +449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -449,6 +470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -469,6 +491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -489,6 +512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -509,6 +533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -529,6 +554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -549,6 +575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -569,6 +596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -589,6 +617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -609,6 +638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -629,6 +659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -649,6 +680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -669,6 +701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -689,6 +722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -720,6 +754,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -740,6 +775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -760,6 +796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -780,6 +817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -800,6 +838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -820,6 +859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -840,6 +880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -860,6 +901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -880,6 +922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -900,6 +943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -920,6 +964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -940,6 +985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -960,6 +1006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -980,6 +1027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1000,6 +1048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1020,6 +1069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1040,6 +1090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1060,6 +1111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1080,6 +1132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1100,6 +1153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1120,6 +1174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1140,6 +1195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1160,6 +1216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1189,6 +1246,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1209,6 +1267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1229,6 +1288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1249,6 +1309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1269,6 +1330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1289,6 +1351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1309,6 +1372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1329,6 +1393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1349,6 +1414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1369,6 +1435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1389,6 +1456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1409,6 +1477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1429,6 +1498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1449,6 +1519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1469,6 +1540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1489,6 +1561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1509,6 +1582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1529,6 +1603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1549,6 +1624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1588,6 +1664,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1608,6 +1685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1628,6 +1706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1648,6 +1727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1668,6 +1748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1688,6 +1769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1708,6 +1790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1728,6 +1811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1748,6 +1832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1768,6 +1853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1788,6 +1874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1808,6 +1895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1828,6 +1916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1848,6 +1937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1868,6 +1958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1888,6 +1979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1908,6 +2000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1928,6 +2021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1948,6 +2042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1968,6 +2063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1988,6 +2084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2008,6 +2105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2028,6 +2126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2048,6 +2147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2068,6 +2168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2088,6 +2189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2108,6 +2210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2128,6 +2231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2148,6 +2252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2168,6 +2273,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2188,6 +2294,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2208,6 +2315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2228,6 +2336,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2248,6 +2357,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2268,6 +2378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2288,6 +2399,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2308,6 +2420,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2328,6 +2441,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2348,6 +2462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2368,6 +2483,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2388,6 +2504,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2408,6 +2525,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2437,6 +2555,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2457,6 +2576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2477,6 +2597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2497,6 +2618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2517,6 +2639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2537,6 +2660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2557,6 +2681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2577,6 +2702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2597,6 +2723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2617,6 +2744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2637,6 +2765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2657,6 +2786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2677,6 +2807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2697,6 +2828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2717,6 +2849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2737,6 +2870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2757,6 +2891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2777,6 +2912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2797,6 +2933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2817,6 +2954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2837,6 +2975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2857,6 +2996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2877,6 +3017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2897,6 +3038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2917,6 +3059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2937,6 +3080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2957,6 +3101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2977,6 +3122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2997,6 +3143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3017,6 +3164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3037,6 +3185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3057,6 +3206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3077,6 +3227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3097,6 +3248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3117,6 +3269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3137,6 +3290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3157,6 +3311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3177,6 +3332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3197,6 +3353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3217,6 +3374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3237,6 +3395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3257,6 +3416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3277,6 +3437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3297,6 +3458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3317,6 +3479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3337,6 +3500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3357,6 +3521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3377,6 +3542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3397,6 +3563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3417,6 +3584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3437,6 +3605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3457,6 +3626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3477,6 +3647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3497,6 +3668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3517,6 +3689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3537,6 +3710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3557,6 +3731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3577,6 +3752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3597,6 +3773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3617,6 +3794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3637,6 +3815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3657,6 +3836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3677,6 +3857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3706,6 +3887,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3726,6 +3908,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3746,6 +3929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3766,6 +3950,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3786,6 +3971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3806,6 +3992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3826,6 +4013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3846,6 +4034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3866,6 +4055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3886,6 +4076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3906,6 +4097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3926,6 +4118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3946,6 +4139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3966,6 +4160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3986,6 +4181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4006,6 +4202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4022,6 +4219,7 @@
             <gml:posList srsDimension="2">-2.536465 42.391358  -2.536409 42.391373  -2.536409 42.391373  -2.536409 42.391373  -2.536409 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391373  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536408 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536407 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391374  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536406 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536405 42.391375  -2.536404 42.391375  -2.536404 42.391375  -2.536404 42.391375  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536404 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391376  -2.536403 42.391377  -2.536403 42.391377  -2.536403 42.391377  -2.536403 42.391377  -2.536403 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536402 42.391377  -2.536401 42.391377  -2.536401 42.391377  -2.536401 42.391377  -2.536401 42.391377  -2.536401 42.391377  -2.536401 42.391377  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536401 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391378  -2.536400 42.391379  -2.536400 42.391379  -2.536400 42.391379  -2.536400 42.391379  -2.536400 42.391379  -2.536400 42.391379  -2.536400 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536399 42.391379  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536398 42.391380  -2.536397 42.391380  -2.536397 42.391380  -2.536397 42.391380  -2.536397 42.391380  -2.536397 42.391380  -2.536397 42.391380  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536397 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391381  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536396 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391382  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536395 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391383  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536394 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391384  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536393 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391385  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536392 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391386  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536391 42.391387  -2.536390 42.391387  -2.536390 42.391387  -2.536390 42.391387  -2.536390 42.391387  -2.536390 42.391387  -2.536390 42.391387  -2.536390 42.391387  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391388  -2.536390 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391389  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536389 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391390  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536388 42.391391  -2.536387 42.391391  -2.536387 42.391391  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391392  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536387 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391393  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391394  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536386 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391395  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391396  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536385 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391397  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391398  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391399  -2.536384 42.391400  -2.536384 42.391400  -2.536384 42.391400  -2.536384 42.391400  -2.536384 42.391400  -2.536384 42.391400  -2.536384 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391400  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391401  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391402  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536383 42.391403  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391404  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391405  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391406  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391407  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391408  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391409  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391410  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391411  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391412  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391413  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391414  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391415  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391416  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536382 42.391417  -2.536383 42.391417  -2.536383 42.391417  -2.536383 42.391417  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391418  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391419  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391420  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536383 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391421  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391422  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391423  -2.536384 42.391424  -2.536384 42.391424  -2.536384 42.391424  -2.536384 42.391424  -2.536384 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391424  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391425  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536385 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391426  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391427  -2.536386 42.391428  -2.536386 42.391428  -2.536386 42.391428  -2.536386 42.391428  -2.536386 42.391428  -2.536386 42.391428  -2.536386 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391428  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536387 42.391429  -2.536388 42.391429  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391430  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536388 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391431  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536389 42.391432  -2.536390 42.391432  -2.536390 42.391432  -2.536390 42.391432  -2.536390 42.391432  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391433  -2.536390 42.391434  -2.536390 42.391434  -2.536390 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391434  -2.536391 42.391435  -2.536391 42.391435  -2.536391 42.391435  -2.536391 42.391435  -2.536391 42.391435  -2.536391 42.391435  -2.536391 42.391435  -2.536391 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391435  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536392 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391436  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536393 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391437  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536394 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391438  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536395 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391439  -2.536396 42.391440  -2.536396 42.391440  -2.536396 42.391440  -2.536396 42.391440  -2.536396 42.391440  -2.536396 42.391440  -2.536396 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391440  -2.536397 42.391441  -2.536397 42.391441  -2.536397 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536398 42.391441  -2.536399 42.391441  -2.536399 42.391441  -2.536399 42.391441  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536399 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391442  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536400 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391443  -2.536401 42.391444  -2.536401 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536402 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391444  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536403 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536404 42.391445  -2.536405 42.391445  -2.536405 42.391445  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536405 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391446  -2.536406 42.391447  -2.536406 42.391447  -2.536406 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536407 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391447  -2.536408 42.391448  -2.536408 42.391448  -2.536408 42.391448  -2.536408 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536409 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391448  -2.536410 42.391449  -2.536410 42.391449  -2.536410 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536411 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536412 42.391449  -2.536444 42.391507  -2.536444 42.391518  -2.536444 42.391518  -2.536443 42.391518  -2.536443 42.391518  -2.536443 42.391518  -2.536443 42.391518  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391519  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391520  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536443 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391521  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391522  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391523  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391524  -2.536442 42.391525  -2.536442 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391525  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391526  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391527  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391528  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391529  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391530  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391531  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391532  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391533  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391534  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391535  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391536  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391537  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391538  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391539  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391540  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391541  -2.536441 42.391542  -2.536441 42.391542  -2.536441 42.391542  -2.536441 42.391542  -2.536441 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391542  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391543  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391544  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536442 42.391545  -2.536443 42.391545  -2.536443 42.391545  -2.536443 42.391545  -2.536443 42.391545  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391546  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391547  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536443 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391548  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391549  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536444 42.391550  -2.536445 42.391550  -2.536445 42.391550  -2.536445 42.391550  -2.536445 42.391550  -2.536445 42.391550  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391551  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536445 42.391552  -2.536446 42.391552  -2.536446 42.391552  -2.536446 42.391552  -2.536446 42.391552  -2.536446 42.391552  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391553  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536446 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391554  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391555  -2.536447 42.391556  -2.536447 42.391556  -2.536447 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391556  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536448 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391557  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536449 42.391558  -2.536450 42.391558  -2.536450 42.391558  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391559  -2.536450 42.391560  -2.536450 42.391560  -2.536450 42.391560  -2.536450 42.391560  -2.536450 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391560  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536451 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391561  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536452 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391562  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536453 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391563  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536454 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391564  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536455 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391565  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536456 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391566  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536457 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391567  -2.536458 42.391568  -2.536458 42.391568  -2.536458 42.391568  -2.536458 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536459 42.391568  -2.536460 42.391568  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536460 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391569  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536461 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391570  -2.536462 42.391571  -2.536462 42.391571  -2.536462 42.391571  -2.536462 42.391571  -2.536462 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536463 42.391571  -2.536464 42.391571  -2.536464 42.391571  -2.536464 42.391571  -2.536464 42.391571  -2.536464 42.391571  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536464 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391572  -2.536465 42.391573  -2.536465 42.391573  -2.536465 42.391573  -2.536465 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536466 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391573  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536467 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536468 42.391574  -2.536469 42.391574  -2.536469 42.391574  -2.536469 42.391574  -2.536469 42.391574  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536469 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536470 42.391575  -2.536471 42.391575  -2.536471 42.391575  -2.536471 42.391575  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536471 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536472 42.391576  -2.536473 42.391576  -2.536473 42.391576  -2.536473 42.391576  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536473 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536474 42.391577  -2.536475 42.391577  -2.536475 42.391577  -2.536475 42.391577  -2.536475 42.391577  -2.536475 42.391577  -2.536475 42.391577  -2.536475 42.391577  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536475 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536476 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391578  -2.536477 42.391579  -2.536477 42.391579  -2.536477 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536478 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536479 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391579  -2.536480 42.391580  -2.536480 42.391580  -2.536480 42.391580  -2.536480 42.391580  -2.536480 42.391580  -2.536480 42.391580  -2.536480 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536481 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536482 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391580  -2.536483 42.391581  -2.536483 42.391581  -2.536483 42.391581  -2.536483 42.391581  -2.536483 42.391581  -2.536483 42.391581  -2.536483 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536484 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536485 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536486 42.391581  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536487 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536488 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536489 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536490 42.391582  -2.536491 42.391582  -2.536491 42.391582  -2.536491 42.391582  -2.536491 42.391582  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536491 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536492 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536493 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536494 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536495 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391583  -2.536496 42.391584  -2.536496 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536497 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536498 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536499 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536500 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536501 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536502 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536503 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536504 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536505 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536506 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536507 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536508 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536509 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536510 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536511 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536512 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536513 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536514 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536515 42.391584  -2.536563 42.391572  -2.536465 42.391358  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4042,6 +4240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4062,6 +4261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4082,6 +4282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4102,6 +4303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4122,6 +4324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4142,6 +4345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4162,6 +4366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4182,6 +4387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4202,6 +4408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4222,6 +4429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4242,6 +4450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4262,6 +4471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4291,6 +4501,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4311,6 +4522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4331,6 +4543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4351,6 +4564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4371,6 +4585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4391,6 +4606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4411,6 +4627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4431,6 +4648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4451,6 +4669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4471,6 +4690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4491,6 +4711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4511,6 +4732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4531,6 +4753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4551,6 +4774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4571,6 +4795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4591,6 +4816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4611,6 +4837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4631,6 +4858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4651,6 +4879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4671,6 +4900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4691,6 +4921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4711,6 +4942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4731,6 +4963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4751,6 +4984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4771,6 +5005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4791,6 +5026,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4811,6 +5047,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4831,6 +5068,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4851,6 +5089,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4871,6 +5110,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4900,6 +5140,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4920,6 +5161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4940,6 +5182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4969,6 +5212,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4989,6 +5233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5009,6 +5254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5029,6 +5275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5049,6 +5296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5069,6 +5317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5089,6 +5338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5109,6 +5359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5129,6 +5380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5149,6 +5401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5169,6 +5422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5200,6 +5454,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5220,6 +5475,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5240,6 +5496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5260,6 +5517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5280,6 +5538,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5300,6 +5559,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5320,6 +5580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5340,6 +5601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5360,6 +5622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5380,6 +5643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5400,6 +5664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5420,6 +5685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5440,6 +5706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5460,6 +5727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5480,6 +5748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5500,6 +5769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5520,6 +5790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5540,6 +5811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5560,6 +5832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5580,6 +5853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5600,6 +5874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5620,6 +5895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5640,6 +5916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5660,6 +5937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5680,6 +5958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5700,6 +5979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5720,6 +6000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5740,6 +6021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5760,6 +6042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5780,6 +6063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5800,6 +6084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5820,6 +6105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5840,6 +6126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5860,6 +6147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5880,6 +6168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5900,6 +6189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5920,6 +6210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5940,6 +6231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5960,6 +6252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5989,6 +6282,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6009,6 +6303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6029,6 +6324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6049,6 +6345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6069,6 +6366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6089,6 +6387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6109,6 +6408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6129,6 +6429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6149,6 +6450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6169,6 +6471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6189,6 +6492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6209,6 +6513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6229,6 +6534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6249,6 +6555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6269,6 +6576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6289,6 +6597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6309,6 +6618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6329,6 +6639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6349,6 +6660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6369,6 +6681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6389,6 +6702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6409,6 +6723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6429,6 +6744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6449,6 +6765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6469,6 +6786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6489,6 +6807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6509,6 +6828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6529,6 +6849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6549,6 +6870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6569,6 +6891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6589,6 +6912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6609,6 +6933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6629,6 +6954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6649,6 +6975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6669,6 +6996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6689,6 +7017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6709,6 +7038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6729,6 +7059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6749,6 +7080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6769,6 +7101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6789,6 +7122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6809,6 +7143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6829,6 +7164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6849,6 +7185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6869,6 +7206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6889,6 +7227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6909,6 +7248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6929,6 +7269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6949,6 +7290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6969,6 +7311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6989,6 +7332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7009,6 +7353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7029,6 +7374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7049,6 +7395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7069,6 +7416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7089,6 +7437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7109,6 +7458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7129,6 +7479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7149,6 +7500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7169,6 +7521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7189,6 +7542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7209,6 +7563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7229,6 +7584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7249,6 +7605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7269,6 +7626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7289,6 +7647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7309,6 +7668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7329,6 +7689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7349,6 +7710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7369,6 +7731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7389,6 +7752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7409,6 +7773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7429,6 +7794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7449,6 +7815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7469,6 +7836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7489,6 +7857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7509,6 +7878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7529,6 +7899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7549,6 +7920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7569,6 +7941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7589,6 +7962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7609,6 +7983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7629,6 +8004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7649,6 +8025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7669,6 +8046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7689,6 +8067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7709,6 +8088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7729,6 +8109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7749,6 +8130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7769,6 +8151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7789,6 +8172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7809,6 +8193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7829,6 +8214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7849,6 +8235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7869,6 +8256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7889,6 +8277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7909,6 +8298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7929,6 +8319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7949,6 +8340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7969,6 +8361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7989,6 +8382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8009,6 +8403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8029,6 +8424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8049,6 +8445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8069,6 +8466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8089,6 +8487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8109,6 +8508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8129,6 +8529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8149,6 +8550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8169,6 +8571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8189,6 +8592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8209,6 +8613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8229,6 +8634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8249,6 +8655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8269,6 +8676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8289,6 +8697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8309,6 +8718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8329,6 +8739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8349,6 +8760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8369,6 +8781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8389,6 +8802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8409,6 +8823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8429,6 +8844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8449,6 +8865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8469,6 +8886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8489,6 +8907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8509,6 +8928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8529,6 +8949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8549,6 +8970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8569,6 +8991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8589,6 +9012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8609,6 +9033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8629,6 +9054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8649,6 +9075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8669,6 +9096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8689,6 +9117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8709,6 +9138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8729,6 +9159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8749,6 +9180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8769,6 +9201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8789,6 +9222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8809,6 +9243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8829,6 +9264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8849,6 +9285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8869,6 +9306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8889,6 +9327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8909,6 +9348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8929,6 +9369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8949,6 +9390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8969,6 +9411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8989,6 +9432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9009,6 +9453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9029,6 +9474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9049,6 +9495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9069,6 +9516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9089,6 +9537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9109,6 +9558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9129,6 +9579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9149,6 +9600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9169,6 +9621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9189,6 +9642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9209,6 +9663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9229,6 +9684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9249,6 +9705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9269,6 +9726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9289,6 +9747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9309,6 +9768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9329,6 +9789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9349,6 +9810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9369,6 +9831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9389,6 +9852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9409,6 +9873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9429,6 +9894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9449,6 +9915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9469,6 +9936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9489,6 +9957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9509,6 +9978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9529,6 +9999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9549,6 +10020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9569,6 +10041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9589,6 +10062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9609,6 +10083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9629,6 +10104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9649,6 +10125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9669,6 +10146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9689,6 +10167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9709,6 +10188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9729,6 +10209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9749,6 +10230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9769,6 +10251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9789,6 +10272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9809,6 +10293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9829,6 +10314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9849,6 +10335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9869,6 +10356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9889,6 +10377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9909,6 +10398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9929,6 +10419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9949,6 +10440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9969,6 +10461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9989,6 +10482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10009,6 +10503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10029,6 +10524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10049,6 +10545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10069,6 +10566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10089,6 +10587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10109,6 +10608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10129,6 +10629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10149,6 +10650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10169,6 +10671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10189,6 +10692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10209,6 +10713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10229,6 +10734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10249,6 +10755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10269,6 +10776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10289,6 +10797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10309,6 +10818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10329,6 +10839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10349,6 +10860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10369,6 +10881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10389,6 +10902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10409,6 +10923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10429,6 +10944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10449,6 +10965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10469,6 +10986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10489,6 +11007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10509,6 +11028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10529,6 +11049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10549,6 +11070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10569,6 +11091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10589,6 +11112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10609,6 +11133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10629,6 +11154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10649,6 +11175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10669,6 +11196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10689,6 +11217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10709,6 +11238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10740,6 +11270,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10760,6 +11291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10780,6 +11312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10800,6 +11333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10820,6 +11354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10840,6 +11375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10860,6 +11396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10880,6 +11417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10900,6 +11438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10920,6 +11459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10940,6 +11480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10960,6 +11501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10980,6 +11522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11000,6 +11543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11020,6 +11564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11040,6 +11585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11060,6 +11606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11080,6 +11627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11100,6 +11648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11120,6 +11669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11140,6 +11690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11160,6 +11711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11180,6 +11732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11200,6 +11753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11220,6 +11774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11240,6 +11795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11260,6 +11816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11280,6 +11837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11300,6 +11858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11320,6 +11879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11340,6 +11900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11360,6 +11921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11380,6 +11942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11400,6 +11963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11420,6 +11984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11440,6 +12005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11460,6 +12026,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11480,6 +12047,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11500,6 +12068,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11520,6 +12089,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11540,6 +12110,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11560,6 +12131,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11580,6 +12152,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11600,6 +12173,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11620,6 +12194,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11640,6 +12215,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11660,6 +12236,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11680,6 +12257,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11700,6 +12278,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11720,6 +12299,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11740,6 +12320,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11760,6 +12341,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11780,6 +12362,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11800,6 +12383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11820,6 +12404,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11840,6 +12425,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11860,6 +12446,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11880,6 +12467,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11900,6 +12488,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11920,6 +12509,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11940,6 +12530,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11960,6 +12551,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11980,6 +12572,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12000,6 +12593,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12020,6 +12614,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12040,6 +12635,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12060,6 +12656,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12080,6 +12677,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12100,6 +12698,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12120,6 +12719,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12140,6 +12740,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12160,6 +12761,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12180,6 +12782,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12200,6 +12803,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12220,6 +12824,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12240,6 +12845,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12260,6 +12866,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12280,6 +12887,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12300,6 +12908,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12320,6 +12929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12340,6 +12950,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12360,6 +12971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12380,6 +12992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12400,6 +13013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12420,6 +13034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12440,6 +13055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12460,6 +13076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12480,6 +13097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12500,6 +13118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12520,6 +13139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12540,6 +13160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12560,6 +13181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12580,6 +13202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12600,6 +13223,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12620,6 +13244,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12640,6 +13265,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12660,6 +13286,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12680,6 +13307,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12711,6 +13339,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12731,6 +13360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12751,6 +13381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12771,6 +13402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12791,6 +13423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12811,6 +13444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12831,6 +13465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12851,6 +13486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12871,6 +13507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12891,6 +13528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12911,6 +13549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12931,6 +13570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12951,6 +13591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12971,6 +13612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12991,6 +13633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13011,6 +13654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13031,6 +13675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13051,6 +13696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13071,6 +13717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13091,6 +13738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13111,6 +13759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13131,6 +13780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13151,6 +13801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13171,6 +13822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13191,6 +13843,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13211,6 +13864,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13231,6 +13885,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13251,6 +13906,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13271,6 +13927,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13291,6 +13948,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13311,6 +13969,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13331,6 +13990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13351,6 +14011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13371,6 +14032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13391,6 +14053,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13411,6 +14074,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13431,6 +14095,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13451,6 +14116,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13471,6 +14137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13491,6 +14158,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13511,6 +14179,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13531,6 +14200,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13551,6 +14221,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13571,6 +14242,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13591,6 +14263,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13611,6 +14284,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13631,6 +14305,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13651,6 +14326,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13671,6 +14347,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13691,6 +14368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13711,6 +14389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13731,6 +14410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13751,6 +14431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13771,6 +14452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13791,6 +14473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13811,6 +14494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13831,6 +14515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13851,6 +14536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13871,6 +14557,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13891,6 +14578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13911,6 +14599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13931,6 +14620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13951,6 +14641,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13971,6 +14662,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13991,6 +14683,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14011,6 +14704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14031,6 +14725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14051,6 +14746,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14071,6 +14767,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14091,6 +14788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14111,6 +14809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14131,6 +14830,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14151,6 +14851,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14171,6 +14872,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14191,6 +14893,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14211,6 +14914,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14231,6 +14935,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14251,6 +14956,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14271,6 +14977,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14291,6 +14998,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14311,6 +15019,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14331,6 +15040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14351,6 +15061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14371,6 +15082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14391,6 +15103,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14411,6 +15124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14431,6 +15145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14451,6 +15166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14471,6 +15187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14491,6 +15208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14511,6 +15229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14531,6 +15250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14551,6 +15271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14571,6 +15292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14591,6 +15313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14611,6 +15334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14631,6 +15355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14651,6 +15376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14671,6 +15397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14691,6 +15418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14711,6 +15439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14731,6 +15460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14751,6 +15481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14771,6 +15502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14791,6 +15523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14811,6 +15544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14831,6 +15565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14851,6 +15586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14871,6 +15607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14891,6 +15628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14911,6 +15649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14931,6 +15670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14951,6 +15691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14971,6 +15712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14991,6 +15733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15011,6 +15754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15031,6 +15775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15051,6 +15796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15071,6 +15817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15091,6 +15838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15111,6 +15859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15131,6 +15880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15151,6 +15901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15171,6 +15922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15191,6 +15943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15211,6 +15964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15231,6 +15985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15251,6 +16006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15271,6 +16027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15291,6 +16048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15311,6 +16069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15331,6 +16090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15351,6 +16111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15371,6 +16132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15391,6 +16153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15411,6 +16174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15431,6 +16195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15451,6 +16216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15471,6 +16237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15491,6 +16258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15511,6 +16279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15531,6 +16300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15551,6 +16321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15571,6 +16342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15591,6 +16363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15611,6 +16384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15631,6 +16405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15651,6 +16426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15671,6 +16447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15691,6 +16468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15711,6 +16489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15731,6 +16510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15751,6 +16531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15771,6 +16552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15791,6 +16573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15811,6 +16594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15831,6 +16615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15851,6 +16636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15871,6 +16657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15891,6 +16678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15911,6 +16699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15931,6 +16720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15951,6 +16741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15971,6 +16762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15991,6 +16783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16011,6 +16804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16031,6 +16825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16051,6 +16846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16071,6 +16867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16091,6 +16888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16111,6 +16909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16131,6 +16930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16151,6 +16951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16171,6 +16972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16191,6 +16993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16211,6 +17014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16231,6 +17035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16251,6 +17056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16271,6 +17077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16291,6 +17098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16311,6 +17119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16331,6 +17140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16351,6 +17161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16371,6 +17182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16391,6 +17203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16411,6 +17224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16431,6 +17245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16451,6 +17266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16471,6 +17287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16491,6 +17308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16511,6 +17329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16531,6 +17350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16551,6 +17371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16571,6 +17392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16591,6 +17413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16611,6 +17434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16631,6 +17455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16651,6 +17476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16671,6 +17497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16691,6 +17518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16711,6 +17539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16731,6 +17560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16751,6 +17581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16771,6 +17602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16791,6 +17623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16820,6 +17653,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16840,6 +17674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16860,6 +17695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16880,6 +17716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16900,6 +17737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16920,6 +17758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16940,6 +17779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16960,6 +17800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16980,6 +17821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17000,6 +17842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17020,6 +17863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17040,6 +17884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17060,6 +17905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17080,6 +17926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17100,6 +17947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17120,6 +17968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17140,6 +17989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17160,6 +18010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17180,6 +18031,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17200,6 +18052,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17220,6 +18073,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17240,6 +18094,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17260,6 +18115,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17280,6 +18136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17300,6 +18157,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17320,6 +18178,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17340,6 +18199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17360,6 +18220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17380,6 +18241,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17400,6 +18262,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17420,6 +18283,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17440,6 +18304,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17460,6 +18325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17480,6 +18346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17500,6 +18367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17520,6 +18388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17540,6 +18409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17560,6 +18430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17580,6 +18451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17600,6 +18472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17620,6 +18493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17640,6 +18514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17660,6 +18535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17680,6 +18556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17700,6 +18577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17720,6 +18598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17740,6 +18619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17760,6 +18640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17780,6 +18661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17800,6 +18682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17820,6 +18703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17840,6 +18724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17860,6 +18745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17880,6 +18766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17900,6 +18787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17920,6 +18808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17940,6 +18829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17960,6 +18850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17980,6 +18871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18000,6 +18892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18020,6 +18913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18040,6 +18934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18060,6 +18955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18080,6 +18976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18100,6 +18997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18120,6 +19018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18140,6 +19039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18160,6 +19060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18180,6 +19081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18200,6 +19102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18220,6 +19123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18251,6 +19155,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18271,6 +19176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18291,6 +19197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18311,6 +19218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18331,6 +19239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18351,6 +19260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18371,6 +19281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18391,6 +19302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18411,6 +19323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18431,6 +19344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18451,6 +19365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18471,6 +19386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18491,6 +19407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18511,6 +19428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18531,6 +19449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18551,6 +19470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18571,6 +19491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18591,6 +19512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18611,6 +19533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18631,6 +19554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18651,6 +19575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18671,6 +19596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18691,6 +19617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18711,6 +19638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18731,6 +19659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18751,6 +19680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18771,6 +19701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18791,6 +19722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18811,6 +19743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18831,6 +19764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18851,6 +19785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18871,6 +19806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18891,6 +19827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18911,6 +19848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18931,6 +19869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18951,6 +19890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18971,6 +19911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18991,6 +19932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19011,6 +19953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19031,6 +19974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19051,6 +19995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19071,6 +20016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19091,6 +20037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19111,6 +20058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19131,6 +20079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19151,6 +20100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19171,6 +20121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19191,6 +20142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19211,6 +20163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19231,6 +20184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19251,6 +20205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19271,6 +20226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19291,6 +20247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19311,6 +20268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19331,6 +20289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19351,6 +20310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19371,6 +20331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19391,6 +20352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19411,6 +20373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19431,6 +20394,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19451,6 +20415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19471,6 +20436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19491,6 +20457,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19511,6 +20478,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19531,6 +20499,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19551,6 +20520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19571,6 +20541,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19591,6 +20562,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19611,6 +20583,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19631,6 +20604,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19651,6 +20625,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19671,6 +20646,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19691,6 +20667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19711,6 +20688,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19731,6 +20709,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19751,6 +20730,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19771,6 +20751,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19791,6 +20772,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19811,6 +20793,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19831,6 +20814,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19851,6 +20835,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19871,6 +20856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19891,6 +20877,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19911,6 +20898,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19931,6 +20919,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19951,6 +20940,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19971,6 +20961,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19991,6 +20982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20011,6 +21003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20031,6 +21024,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20051,6 +21045,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20071,6 +21066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20091,6 +21087,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20111,6 +21108,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20131,6 +21129,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20151,6 +21150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20171,6 +21171,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20191,6 +21192,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20211,6 +21213,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20231,6 +21234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20251,6 +21255,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20271,6 +21276,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20291,6 +21297,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20311,6 +21318,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20331,6 +21339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20351,6 +21360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20371,6 +21381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20391,6 +21402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20411,6 +21423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20431,6 +21444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20451,6 +21465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20471,6 +21486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20491,6 +21507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20511,6 +21528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20531,6 +21549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20551,6 +21570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20571,6 +21591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20591,6 +21612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20611,6 +21633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20631,6 +21654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20651,6 +21675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20671,6 +21696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20691,6 +21717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20711,6 +21738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20731,6 +21759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20751,6 +21780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20771,6 +21801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20791,6 +21822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20811,6 +21843,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20831,6 +21864,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20851,6 +21885,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20871,6 +21906,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20891,6 +21927,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20911,6 +21948,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20931,6 +21969,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20951,6 +21990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20971,6 +22011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20991,6 +22032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21011,6 +22053,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21031,6 +22074,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21051,6 +22095,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21071,6 +22116,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21091,6 +22137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21111,6 +22158,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21131,6 +22179,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21151,6 +22200,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21171,6 +22221,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21191,6 +22242,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21211,6 +22263,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21231,6 +22284,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21251,6 +22305,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21271,6 +22326,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21291,6 +22347,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21311,6 +22368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21331,6 +22389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21351,6 +22410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21371,6 +22431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21391,6 +22452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21411,6 +22473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21431,6 +22494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21451,6 +22515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21471,6 +22536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21491,6 +22557,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21511,6 +22578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21531,6 +22599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21551,6 +22620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21571,6 +22641,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21591,6 +22662,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21611,6 +22683,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21631,6 +22704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21651,6 +22725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21671,6 +22746,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21691,6 +22767,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21711,6 +22788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21731,6 +22809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21751,6 +22830,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21771,6 +22851,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21791,6 +22872,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21811,6 +22893,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21831,6 +22914,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21851,6 +22935,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21871,6 +22956,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21891,6 +22977,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21911,6 +22998,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21931,6 +23019,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21951,6 +23040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21971,6 +23061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21991,6 +23082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22011,6 +23103,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22031,6 +23124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22051,6 +23145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22071,6 +23166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22091,6 +23187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22111,6 +23208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22131,6 +23229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22151,6 +23250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22171,6 +23271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22191,6 +23292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22211,6 +23313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22231,6 +23334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22251,6 +23355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22271,6 +23376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22291,6 +23397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22311,6 +23418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22331,6 +23439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22351,6 +23460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22371,6 +23481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22391,6 +23502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22411,6 +23523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22431,6 +23544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22451,6 +23565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22471,6 +23586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22491,6 +23607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22511,6 +23628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22531,6 +23649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22551,6 +23670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22571,6 +23691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22591,6 +23712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22611,6 +23733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22631,6 +23754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22651,6 +23775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22671,6 +23796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22691,6 +23817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22711,6 +23838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22731,6 +23859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22751,6 +23880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22771,6 +23901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22791,6 +23922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22811,6 +23943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22831,6 +23964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22851,6 +23985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22871,6 +24006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22891,6 +24027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22911,6 +24048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22931,6 +24069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22951,6 +24090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22971,6 +24111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22991,6 +24132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23011,6 +24153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23031,6 +24174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23051,6 +24195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23071,6 +24216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23091,6 +24237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23111,6 +24258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23131,6 +24279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23151,6 +24300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23171,6 +24321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23191,6 +24342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23211,6 +24363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23231,6 +24384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23251,6 +24405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23271,6 +24426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23291,6 +24447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23311,6 +24468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23331,6 +24489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23351,6 +24510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23371,6 +24531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23391,6 +24552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23411,6 +24573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23431,6 +24594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23451,6 +24615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23471,6 +24636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23491,6 +24657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23511,6 +24678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23531,6 +24699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23551,6 +24720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23571,6 +24741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23591,6 +24762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23611,6 +24783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23631,6 +24804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23651,6 +24825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23671,6 +24846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23691,6 +24867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23711,6 +24888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23731,6 +24909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23751,6 +24930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23771,6 +24951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23791,6 +24972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23811,6 +24993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23831,6 +25014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23851,6 +25035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23871,6 +25056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23891,6 +25077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23911,6 +25098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23931,6 +25119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23951,6 +25140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23971,6 +25161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23991,6 +25182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24011,6 +25203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24031,6 +25224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24051,6 +25245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24071,6 +25266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24091,6 +25287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24111,6 +25308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24131,6 +25329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24151,6 +25350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24171,6 +25371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24191,6 +25392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24211,6 +25413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24231,6 +25434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24251,6 +25455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24271,6 +25476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24291,6 +25497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24311,6 +25518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24331,6 +25539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24351,6 +25560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24371,6 +25581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24391,6 +25602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24411,6 +25623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24431,6 +25644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24451,6 +25665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24471,6 +25686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24491,6 +25707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24511,6 +25728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24531,6 +25749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24551,6 +25770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24571,6 +25791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24591,6 +25812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24611,6 +25833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24631,6 +25854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24651,6 +25875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24671,6 +25896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24691,6 +25917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24711,6 +25938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24731,6 +25959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24751,6 +25980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24771,6 +26001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24791,6 +26022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24811,6 +26043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24831,6 +26064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24851,6 +26085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24871,6 +26106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24891,6 +26127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24911,6 +26148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24931,6 +26169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24951,6 +26190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24971,6 +26211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24991,6 +26232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25011,6 +26253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25031,6 +26274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25051,6 +26295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25071,6 +26316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25091,6 +26337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25111,6 +26358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25131,6 +26379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25151,6 +26400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25171,6 +26421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25191,6 +26442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25211,6 +26463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25231,6 +26484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25251,6 +26505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25271,6 +26526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25291,6 +26547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25311,6 +26568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25331,6 +26589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25351,6 +26610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25371,6 +26631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25391,6 +26652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25411,6 +26673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25431,6 +26694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25451,6 +26715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25471,6 +26736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25491,6 +26757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25511,6 +26778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25531,6 +26799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25551,6 +26820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25571,6 +26841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25591,6 +26862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25611,6 +26883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25631,6 +26904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25651,6 +26925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25671,6 +26946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25691,6 +26967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25711,6 +26988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25731,6 +27009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25751,6 +27030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25771,6 +27051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25791,6 +27072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25811,6 +27093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25831,6 +27114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25851,6 +27135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25871,6 +27156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25891,6 +27177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25911,6 +27198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25931,6 +27219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25951,6 +27240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25971,6 +27261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25991,6 +27282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26011,6 +27303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26031,6 +27324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26051,6 +27345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26071,6 +27366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26091,6 +27387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26111,6 +27408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26131,6 +27429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26151,6 +27450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26171,6 +27471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26191,6 +27492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26211,6 +27513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26231,6 +27534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26251,6 +27555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26271,6 +27576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26291,6 +27597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26311,6 +27618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26331,6 +27639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26351,6 +27660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26371,6 +27681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26402,6 +27713,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26422,6 +27734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26442,6 +27755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26462,6 +27776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26482,6 +27797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26502,6 +27818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26522,6 +27839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26542,6 +27860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26562,6 +27881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26582,6 +27902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26602,6 +27923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26622,6 +27944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26642,6 +27965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26662,6 +27986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26682,6 +28007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26702,6 +28028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26722,6 +28049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26742,6 +28070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26762,6 +28091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26782,6 +28112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26802,6 +28133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26822,6 +28154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26842,6 +28175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26862,6 +28196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26882,6 +28217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26902,6 +28238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26922,6 +28259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26942,6 +28280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26962,6 +28301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26982,6 +28322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27002,6 +28343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27022,6 +28364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27042,6 +28385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27062,6 +28406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27082,6 +28427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27102,6 +28448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27122,6 +28469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27142,6 +28490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27162,6 +28511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27182,6 +28532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27202,6 +28553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27222,6 +28574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27242,6 +28595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27262,6 +28616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27282,6 +28637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27302,6 +28658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27322,6 +28679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27342,6 +28700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27362,6 +28721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27382,6 +28742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27402,6 +28763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27422,6 +28784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27442,6 +28805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27462,6 +28826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27482,6 +28847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27502,6 +28868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27522,6 +28889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27542,6 +28910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27562,6 +28931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27582,6 +28952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27602,6 +28973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27622,6 +28994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27642,6 +29015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27662,6 +29036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27682,6 +29057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27702,6 +29078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27722,6 +29099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27742,6 +29120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27762,6 +29141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27782,6 +29162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27802,6 +29183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27822,6 +29204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27842,6 +29225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27862,6 +29246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27882,6 +29267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27902,6 +29288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27922,6 +29309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27942,6 +29330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27962,6 +29351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27982,6 +29372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28002,6 +29393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28022,6 +29414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28042,6 +29435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28062,6 +29456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28082,6 +29477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28102,6 +29498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28122,6 +29519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28142,6 +29540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28162,6 +29561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28182,6 +29582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28202,6 +29603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28222,6 +29624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28242,6 +29645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28262,6 +29666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28282,6 +29687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28302,6 +29708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28322,6 +29729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28342,6 +29750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28362,6 +29771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28382,6 +29792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28402,6 +29813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28422,6 +29834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28442,6 +29855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28462,6 +29876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28482,6 +29897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28502,6 +29918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28522,6 +29939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28542,6 +29960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28562,6 +29981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28582,6 +30002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28602,6 +30023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28622,6 +30044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28642,6 +30065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28662,6 +30086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28682,6 +30107,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28702,6 +30128,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28722,6 +30149,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28742,6 +30170,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28762,6 +30191,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28782,6 +30212,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28802,6 +30233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28822,6 +30254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28842,6 +30275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28862,6 +30296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28882,6 +30317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28902,6 +30338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28922,6 +30359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28942,6 +30380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28962,6 +30401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28982,6 +30422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29002,6 +30443,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29022,6 +30464,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29042,6 +30485,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29062,6 +30506,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29082,6 +30527,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29102,6 +30548,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29122,6 +30569,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29142,6 +30590,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29162,6 +30611,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29182,6 +30632,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29202,6 +30653,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29222,6 +30674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29242,6 +30695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29262,6 +30716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29282,6 +30737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29302,6 +30758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29322,6 +30779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29342,6 +30800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29362,6 +30821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29382,6 +30842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29402,6 +30863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29422,6 +30884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29442,6 +30905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29462,6 +30926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29482,6 +30947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29502,6 +30968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29522,6 +30989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29542,6 +31010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29562,6 +31031,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29582,6 +31052,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29602,6 +31073,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29622,6 +31094,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29642,6 +31115,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29662,6 +31136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29682,6 +31157,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29702,6 +31178,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29722,6 +31199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29742,6 +31220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29762,6 +31241,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29782,6 +31262,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29802,6 +31283,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29822,6 +31304,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29842,6 +31325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29862,6 +31346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29882,6 +31367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29902,6 +31388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29922,6 +31409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29942,6 +31430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29962,6 +31451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29982,6 +31472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30002,6 +31493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30022,6 +31514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30042,6 +31535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30062,6 +31556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30082,6 +31577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30102,6 +31598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30122,6 +31619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30142,6 +31640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30162,6 +31661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30182,6 +31682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30202,6 +31703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30222,6 +31724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30242,6 +31745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30262,6 +31766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30282,6 +31787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30302,6 +31808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30322,6 +31829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30342,6 +31850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30362,6 +31871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30382,6 +31892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30402,6 +31913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30422,6 +31934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30442,6 +31955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30462,6 +31976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30482,6 +31997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30502,6 +32018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30522,6 +32039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30542,6 +32060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30562,6 +32081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30582,6 +32102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30602,6 +32123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30622,6 +32144,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30642,6 +32165,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30662,6 +32186,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30682,6 +32207,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30702,6 +32228,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30722,6 +32249,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30742,6 +32270,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30762,6 +32291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30782,6 +32312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30802,6 +32333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30822,6 +32354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30842,6 +32375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30862,6 +32396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30882,6 +32417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30902,6 +32438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30922,6 +32459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30942,6 +32480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30962,6 +32501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30982,6 +32522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31002,6 +32543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31022,6 +32564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31042,6 +32585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31062,6 +32606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31082,6 +32627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31102,6 +32648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31122,6 +32669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31142,6 +32690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31162,6 +32711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31182,6 +32732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31202,6 +32753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31222,6 +32774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31242,6 +32795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31262,6 +32816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31282,6 +32837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31302,6 +32858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31322,6 +32879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31342,6 +32900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31362,6 +32921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31382,6 +32942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31402,6 +32963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31422,6 +32984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31442,6 +33005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31462,6 +33026,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31482,6 +33047,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31502,6 +33068,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31522,6 +33089,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31542,6 +33110,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31562,6 +33131,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31582,6 +33152,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31602,6 +33173,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31622,6 +33194,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31642,6 +33215,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31662,6 +33236,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31682,6 +33257,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31702,6 +33278,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31722,6 +33299,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31742,6 +33320,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31762,6 +33341,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31782,6 +33362,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31802,6 +33383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31822,6 +33404,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31842,6 +33425,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31862,6 +33446,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31882,6 +33467,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31902,6 +33488,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31922,6 +33509,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31942,6 +33530,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31962,6 +33551,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31982,6 +33572,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32002,6 +33593,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32022,6 +33614,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32042,6 +33635,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32062,6 +33656,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32082,6 +33677,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32102,6 +33698,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32122,6 +33719,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32142,6 +33740,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32162,6 +33761,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32182,6 +33782,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32202,6 +33803,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32222,6 +33824,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32242,6 +33845,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32262,6 +33866,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32282,6 +33887,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32302,6 +33908,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32322,6 +33929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32342,6 +33950,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32362,6 +33971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32382,6 +33992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32402,6 +34013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32422,6 +34034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32442,6 +34055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32462,6 +34076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32482,6 +34097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32502,6 +34118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32522,6 +34139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32542,6 +34160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32562,6 +34181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32582,6 +34202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32602,6 +34223,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32622,6 +34244,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32642,6 +34265,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32662,6 +34286,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32682,6 +34307,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32702,6 +34328,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32722,6 +34349,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32742,6 +34370,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32762,6 +34391,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32782,6 +34412,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32802,6 +34433,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32822,6 +34454,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32842,6 +34475,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32862,6 +34496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32882,6 +34517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32902,6 +34538,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32922,6 +34559,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32942,6 +34580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32962,6 +34601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32982,6 +34622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33002,6 +34643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33022,6 +34664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33042,6 +34685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33062,6 +34706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33082,6 +34727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33102,6 +34748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33122,6 +34769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33142,6 +34790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33162,6 +34811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33182,6 +34832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33202,6 +34853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33222,6 +34874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33242,6 +34895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33262,6 +34916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33282,6 +34937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33302,6 +34958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33322,6 +34979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33342,6 +35000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33362,6 +35021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33382,6 +35042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33402,6 +35063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33422,6 +35084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33442,6 +35105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33462,6 +35126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33482,6 +35147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33502,6 +35168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33522,6 +35189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33542,6 +35210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33562,6 +35231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33582,6 +35252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33602,6 +35273,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33622,6 +35294,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33642,6 +35315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33662,6 +35336,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33682,6 +35357,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33702,6 +35378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33722,6 +35399,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33742,6 +35420,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33762,6 +35441,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33782,6 +35462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33802,6 +35483,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33822,6 +35504,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33842,6 +35525,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33862,6 +35546,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33882,6 +35567,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33902,6 +35588,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33922,6 +35609,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33942,6 +35630,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33962,6 +35651,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33982,6 +35672,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34002,6 +35693,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34022,6 +35714,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34042,6 +35735,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34062,6 +35756,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34082,6 +35777,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34102,6 +35798,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34122,6 +35819,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34142,6 +35840,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34162,6 +35861,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34182,6 +35882,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34202,6 +35903,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34222,6 +35924,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34242,6 +35945,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34262,6 +35966,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34282,6 +35987,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34302,6 +36008,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34322,6 +36029,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34342,6 +36050,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34362,6 +36071,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34382,6 +36092,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34402,6 +36113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34422,6 +36134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34442,6 +36155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34462,6 +36176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34482,6 +36197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34502,6 +36218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34522,6 +36239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34542,6 +36260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34562,6 +36281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34582,6 +36302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34602,6 +36323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34622,6 +36344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34642,6 +36365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34662,6 +36386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34682,6 +36407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34702,6 +36428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34722,6 +36449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34742,6 +36470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34762,6 +36491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34782,6 +36512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34802,6 +36533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34822,6 +36554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34842,6 +36575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34862,6 +36596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34882,6 +36617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34902,6 +36638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34922,6 +36659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34942,6 +36680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34962,6 +36701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34982,6 +36722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35002,6 +36743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35022,6 +36764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35042,6 +36785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35062,6 +36806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35082,6 +36827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35102,6 +36848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35122,6 +36869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35142,6 +36890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35162,6 +36911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35182,6 +36932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35202,6 +36953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35222,6 +36974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35242,6 +36995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35262,6 +37016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35282,6 +37037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35313,6 +37069,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35333,6 +37090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35353,6 +37111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35373,6 +37132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35393,6 +37153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35413,6 +37174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35433,6 +37195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35453,6 +37216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35473,6 +37237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35493,6 +37258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35513,6 +37279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35533,6 +37300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35553,6 +37321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35573,6 +37342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35593,6 +37363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35613,6 +37384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35633,6 +37405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35653,6 +37426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35673,6 +37447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35693,6 +37468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35713,6 +37489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35733,6 +37510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35753,6 +37531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35773,6 +37552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35793,6 +37573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35813,6 +37594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35833,6 +37615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35853,6 +37636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35873,6 +37657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35893,6 +37678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35913,6 +37699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35933,6 +37720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35953,6 +37741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35973,6 +37762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35993,6 +37783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36013,6 +37804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36033,6 +37825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36053,6 +37846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36073,6 +37867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36093,6 +37888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36113,6 +37909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36133,6 +37930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36153,6 +37951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36173,6 +37972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36193,6 +37993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36213,6 +38014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36233,6 +38035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36253,6 +38056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36273,6 +38077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36293,6 +38098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36313,6 +38119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36333,6 +38140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36353,6 +38161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36373,6 +38182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36393,6 +38203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36413,6 +38224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36433,6 +38245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36453,6 +38266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36473,6 +38287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36493,6 +38308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36513,6 +38329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36533,6 +38350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36553,6 +38371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36573,6 +38392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36593,6 +38413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36613,6 +38434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36633,6 +38455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36653,6 +38476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36673,6 +38497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36693,6 +38518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36713,6 +38539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36733,6 +38560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36753,6 +38581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36773,6 +38602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36793,6 +38623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36813,6 +38644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36833,6 +38665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36853,6 +38686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36873,6 +38707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36893,6 +38728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36913,6 +38749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36933,6 +38770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36953,6 +38791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36973,6 +38812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36993,6 +38833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37013,6 +38854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37033,6 +38875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37053,6 +38896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37073,6 +38917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37093,6 +38938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37113,6 +38959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37133,6 +38980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37153,6 +39001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37173,6 +39022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37193,6 +39043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37213,6 +39064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37233,6 +39085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37253,6 +39106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37273,6 +39127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37293,6 +39148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37313,6 +39169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37333,6 +39190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37353,6 +39211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37373,6 +39232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37393,6 +39253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37413,6 +39274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37433,6 +39295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37453,6 +39316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37473,6 +39337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37493,6 +39358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37513,6 +39379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37533,6 +39400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37553,6 +39421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37573,6 +39442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37593,6 +39463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37613,6 +39484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37633,6 +39505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37653,6 +39526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37673,6 +39547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37693,6 +39568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37713,6 +39589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37733,6 +39610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37753,6 +39631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37773,6 +39652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37793,6 +39673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37813,6 +39694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37833,6 +39715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37853,6 +39736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37873,6 +39757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37893,6 +39778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37913,6 +39799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37933,6 +39820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37953,6 +39841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37973,6 +39862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37993,6 +39883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38013,6 +39904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38033,6 +39925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38053,6 +39946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38073,6 +39967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38093,6 +39988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38113,6 +40009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38133,6 +40030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38153,6 +40051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38173,6 +40072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38193,6 +40093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38213,6 +40114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38233,6 +40135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38253,6 +40156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38273,6 +40177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38293,6 +40198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38313,6 +40219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38333,6 +40240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38353,6 +40261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38373,6 +40282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38393,6 +40303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38413,6 +40324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38433,6 +40345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38453,6 +40366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38473,6 +40387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38493,6 +40408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38513,6 +40429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38533,6 +40450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38553,6 +40471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38573,6 +40492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38593,6 +40513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38613,6 +40534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38633,6 +40555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38653,6 +40576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38673,6 +40597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38693,6 +40618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38713,6 +40639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38733,6 +40660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38753,6 +40681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38773,6 +40702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38793,6 +40723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38813,6 +40744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38833,6 +40765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38853,6 +40786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38873,6 +40807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38893,6 +40828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38913,6 +40849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38933,6 +40870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38953,6 +40891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38973,6 +40912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38993,6 +40933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39013,6 +40954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39033,6 +40975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39053,6 +40996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39073,6 +41017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39093,6 +41038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39113,6 +41059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39133,6 +41080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39153,6 +41101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39173,6 +41122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39193,6 +41143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39213,6 +41164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39233,6 +41185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39253,6 +41206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39273,6 +41227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39293,6 +41248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39313,6 +41269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39333,6 +41290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39353,6 +41311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39373,6 +41332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39393,6 +41353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39413,6 +41374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39433,6 +41395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39453,6 +41416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39473,6 +41437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39493,6 +41458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39513,6 +41479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39533,6 +41500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39553,6 +41521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39573,6 +41542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39593,6 +41563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39613,6 +41584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39633,6 +41605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39653,6 +41626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39673,6 +41647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Entrena</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Entrena</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

@@ -90,6 +90,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Antoñanzas</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -205,6 +206,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>La Santa</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -348,6 +350,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>La Monjía</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -701,6 +704,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Munilla</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -781,6 +785,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Peroblasco</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -882,6 +887,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>La Monjía</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -1025,6 +1031,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Munilla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
 </wfs:FeatureCollection>

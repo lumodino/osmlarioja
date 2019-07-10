@@ -29,6 +29,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49,6 +50,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -69,6 +71,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -89,6 +92,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -109,6 +113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -129,6 +134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -149,6 +155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -169,6 +176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -189,6 +197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -209,6 +218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -229,6 +239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -249,6 +260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -269,6 +281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -289,6 +302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -309,6 +323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -329,6 +344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -349,6 +365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -369,6 +386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -389,6 +407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -409,6 +428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -429,6 +449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -449,6 +470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -478,6 +500,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -498,6 +521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -518,6 +542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -538,6 +563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -558,6 +584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -578,6 +605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -598,6 +626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -618,6 +647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -638,6 +668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -658,6 +689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -678,6 +710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -698,6 +731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -718,6 +752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -738,6 +773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -758,6 +794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -778,6 +815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -798,6 +836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -818,6 +857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -838,6 +878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -858,6 +899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -878,6 +920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -898,6 +941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -918,6 +962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -938,6 +983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -958,6 +1004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -978,6 +1025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -998,6 +1046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1018,6 +1067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1038,6 +1088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1058,6 +1109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1078,6 +1130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1098,6 +1151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1118,6 +1172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1138,6 +1193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1158,6 +1214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1178,6 +1235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1198,6 +1256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1218,6 +1277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1238,6 +1298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1258,6 +1319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1278,6 +1340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1298,6 +1361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1318,6 +1382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1338,6 +1403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1358,6 +1424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1378,6 +1445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1398,6 +1466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1418,6 +1487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1438,6 +1508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1458,6 +1529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1487,6 +1559,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1507,6 +1580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1527,6 +1601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1547,6 +1622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1567,6 +1643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1587,6 +1664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1607,6 +1685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1627,6 +1706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1647,6 +1727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1667,6 +1748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1687,6 +1769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1707,6 +1790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1727,6 +1811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1747,6 +1832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1767,6 +1853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1787,6 +1874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1807,6 +1895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1827,6 +1916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1847,6 +1937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1867,6 +1958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1887,6 +1979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1907,6 +2000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1936,6 +2030,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1956,6 +2051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1976,6 +2072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1996,6 +2093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2016,6 +2114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2036,6 +2135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2056,6 +2156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2076,6 +2177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2096,6 +2198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2116,6 +2219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2136,6 +2240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2156,6 +2261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2176,6 +2282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2196,6 +2303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2216,6 +2324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2236,6 +2345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2256,6 +2366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2276,6 +2387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2296,6 +2408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2316,6 +2429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2336,6 +2450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2356,6 +2471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2376,6 +2492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2396,6 +2513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2416,6 +2534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2436,6 +2555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2456,6 +2576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2476,6 +2597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2496,6 +2618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2516,6 +2639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2536,6 +2660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2556,6 +2681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2576,6 +2702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2596,6 +2723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2616,6 +2744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2636,6 +2765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2656,6 +2786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2676,6 +2807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2696,6 +2828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2716,6 +2849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2736,6 +2870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2756,6 +2891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2776,6 +2912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2796,6 +2933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2816,6 +2954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2836,6 +2975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2856,6 +2996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2876,6 +3017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2896,6 +3038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2916,6 +3059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2936,6 +3080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2956,6 +3101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2976,6 +3122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2996,6 +3143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3016,6 +3164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3036,6 +3185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3056,6 +3206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3076,6 +3227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3096,6 +3248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3116,6 +3269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3136,6 +3290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3156,6 +3311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3176,6 +3332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3196,6 +3353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3216,6 +3374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3236,6 +3395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3256,6 +3416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3276,6 +3437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3296,6 +3458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3316,6 +3479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3336,6 +3500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3356,6 +3521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3376,6 +3542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3396,6 +3563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3416,6 +3584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3436,6 +3605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3456,6 +3626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3476,6 +3647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3496,6 +3668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3516,6 +3689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3536,6 +3710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3556,6 +3731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3576,6 +3752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3596,6 +3773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3616,6 +3794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3636,6 +3815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3656,6 +3836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3676,6 +3857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3696,6 +3878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3716,6 +3899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3736,6 +3920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3756,6 +3941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3776,6 +3962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3796,6 +3983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3816,6 +4004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3836,6 +4025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3856,6 +4046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3876,6 +4067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3896,6 +4088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3916,6 +4109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3936,6 +4130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3956,6 +4151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3976,6 +4172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3996,6 +4193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4016,6 +4214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4036,6 +4235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4056,6 +4256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4076,6 +4277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4096,6 +4298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4116,6 +4319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4136,6 +4340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4156,6 +4361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4176,6 +4382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4196,6 +4403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4216,6 +4424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4236,6 +4445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4256,6 +4466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4276,6 +4487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4296,6 +4508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4316,6 +4529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4336,6 +4550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4356,6 +4571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4376,6 +4592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4396,6 +4613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4416,6 +4634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4436,6 +4655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4456,6 +4676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4476,6 +4697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4496,6 +4718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4516,6 +4739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4536,6 +4760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4556,6 +4781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4576,6 +4802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4596,6 +4823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4616,6 +4844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4636,6 +4865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4656,6 +4886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4676,6 +4907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4696,6 +4928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4716,6 +4949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4736,6 +4970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4756,6 +4991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4776,6 +5012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4796,6 +5033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4816,6 +5054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4836,6 +5075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4856,6 +5096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4876,6 +5117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4896,6 +5138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4916,6 +5159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4936,6 +5180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4956,6 +5201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4976,6 +5222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4996,6 +5243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5016,6 +5264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5036,6 +5285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5056,6 +5306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5076,6 +5327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5096,6 +5348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5116,6 +5369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5136,6 +5390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5156,6 +5411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5176,6 +5432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5196,6 +5453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5216,6 +5474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5236,6 +5495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5256,6 +5516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5276,6 +5537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5296,6 +5558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5316,6 +5579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5336,6 +5600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5356,6 +5621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5376,6 +5642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5396,6 +5663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5416,6 +5684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5436,6 +5705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5456,6 +5726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5476,6 +5747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5496,6 +5768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5516,6 +5789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5536,6 +5810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5556,6 +5831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5576,6 +5852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5596,6 +5873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5616,6 +5894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5636,6 +5915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5656,6 +5936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5676,6 +5957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5696,6 +5978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5716,6 +5999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5736,6 +6020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5756,6 +6041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5776,6 +6062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5796,6 +6083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5816,6 +6104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5836,6 +6125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5856,6 +6146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5876,6 +6167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5896,6 +6188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5916,6 +6209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5936,6 +6230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5956,6 +6251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5976,6 +6272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5996,6 +6293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6016,6 +6314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6036,6 +6335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6056,6 +6356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6076,6 +6377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6096,6 +6398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6116,6 +6419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6136,6 +6440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6156,6 +6461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6176,6 +6482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6196,6 +6503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6216,6 +6524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6236,6 +6545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6256,6 +6566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6276,6 +6587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6296,6 +6608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6316,6 +6629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6336,6 +6650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6356,6 +6671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6376,6 +6692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6396,6 +6713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6416,6 +6734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6436,6 +6755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6456,6 +6776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6476,6 +6797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6496,6 +6818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6516,6 +6839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6536,6 +6860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6556,6 +6881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6576,6 +6902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6596,6 +6923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6616,6 +6944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6636,6 +6965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6656,6 +6986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6676,6 +7007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6696,6 +7028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6716,6 +7049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6736,6 +7070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6756,6 +7091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6776,6 +7112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6796,6 +7133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6816,6 +7154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6836,6 +7175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6856,6 +7196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6876,6 +7217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6896,6 +7238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6916,6 +7259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6936,6 +7280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6956,6 +7301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6976,6 +7322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6996,6 +7343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7016,6 +7364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7036,6 +7385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7056,6 +7406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7076,6 +7427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7096,6 +7448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7116,6 +7469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7136,6 +7490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7156,6 +7511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7176,6 +7532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7196,6 +7553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7216,6 +7574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7236,6 +7595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7256,6 +7616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7276,6 +7637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7296,6 +7658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7316,6 +7679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7336,6 +7700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7356,6 +7721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7376,6 +7742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7396,6 +7763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7416,6 +7784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7436,6 +7805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7456,6 +7826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7476,6 +7847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7496,6 +7868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7516,6 +7889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7536,6 +7910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7556,6 +7931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7576,6 +7952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7596,6 +7973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7616,6 +7994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7636,6 +8015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7656,6 +8036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7676,6 +8057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7696,6 +8078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7716,6 +8099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7736,6 +8120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7756,6 +8141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7776,6 +8162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7796,6 +8183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7816,6 +8204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7836,6 +8225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7856,6 +8246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7876,6 +8267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7896,6 +8288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7916,6 +8309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7936,6 +8330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7956,6 +8351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7976,6 +8372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7996,6 +8393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8016,6 +8414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8036,6 +8435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8056,6 +8456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8076,6 +8477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8096,6 +8498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8116,6 +8519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8136,6 +8540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8156,6 +8561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8176,6 +8582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8196,6 +8603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8216,6 +8624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8236,6 +8645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8256,6 +8666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8276,6 +8687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8296,6 +8708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8316,6 +8729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8336,6 +8750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8356,6 +8771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8376,6 +8792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8396,6 +8813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8416,6 +8834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8436,6 +8855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8456,6 +8876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8476,6 +8897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8496,6 +8918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8516,6 +8939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8536,6 +8960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8556,6 +8981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8576,6 +9002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8596,6 +9023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8616,6 +9044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8636,6 +9065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8656,6 +9086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8676,6 +9107,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8696,6 +9128,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8716,6 +9149,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8736,6 +9170,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8756,6 +9191,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8776,6 +9212,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8796,6 +9233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8816,6 +9254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8836,6 +9275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8856,6 +9296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8876,6 +9317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8896,6 +9338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8916,6 +9359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8936,6 +9380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8956,6 +9401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8976,6 +9422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8996,6 +9443,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9016,6 +9464,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9036,6 +9485,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9056,6 +9506,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9076,6 +9527,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9096,6 +9548,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9116,6 +9569,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9136,6 +9590,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9156,6 +9611,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9176,6 +9632,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9196,6 +9653,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9216,6 +9674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9236,6 +9695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9256,6 +9716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9276,6 +9737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9296,6 +9758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9316,6 +9779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9336,6 +9800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9356,6 +9821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9376,6 +9842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9396,6 +9863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9416,6 +9884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9436,6 +9905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9456,6 +9926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9476,6 +9947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9496,6 +9968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9516,6 +9989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9536,6 +10010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9556,6 +10031,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9576,6 +10052,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9596,6 +10073,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9616,6 +10094,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9636,6 +10115,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9656,6 +10136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9676,6 +10157,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9696,6 +10178,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9716,6 +10199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9736,6 +10220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9756,6 +10241,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9776,6 +10262,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9796,6 +10283,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9816,6 +10304,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9836,6 +10325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9856,6 +10346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9876,6 +10367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9896,6 +10388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9916,6 +10409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9936,6 +10430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9956,6 +10451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9976,6 +10472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9996,6 +10493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10016,6 +10514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10036,6 +10535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10056,6 +10556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10076,6 +10577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10096,6 +10598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10116,6 +10619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10136,6 +10640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10156,6 +10661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10176,6 +10682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10196,6 +10703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10216,6 +10724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10236,6 +10745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10256,6 +10766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10276,6 +10787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10296,6 +10808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10316,6 +10829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10336,6 +10850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10356,6 +10871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10376,6 +10892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10396,6 +10913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10416,6 +10934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10436,6 +10955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10456,6 +10976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10476,6 +10997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10496,6 +11018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10516,6 +11039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10536,6 +11060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10556,6 +11081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10576,6 +11102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10596,6 +11123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10616,6 +11144,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10636,6 +11165,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10656,6 +11186,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10676,6 +11207,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10696,6 +11228,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10716,6 +11249,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10736,6 +11270,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10756,6 +11291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10776,6 +11312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10796,6 +11333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10816,6 +11354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10836,6 +11375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10856,6 +11396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10876,6 +11417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10896,6 +11438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10916,6 +11459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10936,6 +11480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10956,6 +11501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10976,6 +11522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10996,6 +11543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11016,6 +11564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11036,6 +11585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11056,6 +11606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11076,6 +11627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11096,6 +11648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11116,6 +11669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11136,6 +11690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11156,6 +11711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11176,6 +11732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11196,6 +11753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11216,6 +11774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11236,6 +11795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11256,6 +11816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11276,6 +11837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11296,6 +11858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11316,6 +11879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11336,6 +11900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11356,6 +11921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11376,6 +11942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11396,6 +11963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11416,6 +11984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11436,6 +12005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11467,6 +12037,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11487,6 +12058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11507,6 +12079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11527,6 +12100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11547,6 +12121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11567,6 +12142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11587,6 +12163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11607,6 +12184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11627,6 +12205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11647,6 +12226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11667,6 +12247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11687,6 +12268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11707,6 +12289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11727,6 +12310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11747,6 +12331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11767,6 +12352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11787,6 +12373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11807,6 +12394,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11827,6 +12415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11847,6 +12436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11867,6 +12457,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11887,6 +12478,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11907,6 +12499,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11927,6 +12520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11947,6 +12541,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11967,6 +12562,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11987,6 +12583,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12007,6 +12604,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12027,6 +12625,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12047,6 +12646,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12067,6 +12667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12087,6 +12688,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12107,6 +12709,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12127,6 +12730,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12147,6 +12751,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12167,6 +12772,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12187,6 +12793,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12207,6 +12814,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12227,6 +12835,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12247,6 +12856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12267,6 +12877,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12287,6 +12898,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12307,6 +12919,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12327,6 +12940,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12347,6 +12961,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12367,6 +12982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12387,6 +13003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12407,6 +13024,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12427,6 +13045,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12447,6 +13066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12467,6 +13087,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12487,6 +13108,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12507,6 +13129,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12527,6 +13150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12547,6 +13171,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12567,6 +13192,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12587,6 +13213,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12607,6 +13234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12627,6 +13255,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12647,6 +13276,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12667,6 +13297,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12687,6 +13318,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12707,6 +13339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12727,6 +13360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12747,6 +13381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12767,6 +13402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12787,6 +13423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12807,6 +13444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12827,6 +13465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12847,6 +13486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12867,6 +13507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12887,6 +13528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12907,6 +13549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12927,6 +13570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12947,6 +13591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12967,6 +13612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12987,6 +13633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13007,6 +13654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13027,6 +13675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13047,6 +13696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13067,6 +13717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13087,6 +13738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13107,6 +13759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13127,6 +13780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13147,6 +13801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13167,6 +13822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13198,6 +13854,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13218,6 +13875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13238,6 +13896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13258,6 +13917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13278,6 +13938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13298,6 +13959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13318,6 +13980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13338,6 +14001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13358,6 +14022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13378,6 +14043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13398,6 +14064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13418,6 +14085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13438,6 +14106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13458,6 +14127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13478,6 +14148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13498,6 +14169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13518,6 +14190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13538,6 +14211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13558,6 +14232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13578,6 +14253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13598,6 +14274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13618,6 +14295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13638,6 +14316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13658,6 +14337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13678,6 +14358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13698,6 +14379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13718,6 +14400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13738,6 +14421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13758,6 +14442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13778,6 +14463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13798,6 +14484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13818,6 +14505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13838,6 +14526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13858,6 +14547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13878,6 +14568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13898,6 +14589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13918,6 +14610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13938,6 +14631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13958,6 +14652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13978,6 +14673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13998,6 +14694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14018,6 +14715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14038,6 +14736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14058,6 +14757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14078,6 +14778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14098,6 +14799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14118,6 +14820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14138,6 +14841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14158,6 +14862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14178,6 +14883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14198,6 +14904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14218,6 +14925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14238,6 +14946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14258,6 +14967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14278,6 +14988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14298,6 +15009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14318,6 +15030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14338,6 +15051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14358,6 +15072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14378,6 +15093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14398,6 +15114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14418,6 +15135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14438,6 +15156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14458,6 +15177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14478,6 +15198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14498,6 +15219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14518,6 +15240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14538,6 +15261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14558,6 +15282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14578,6 +15303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14598,6 +15324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14618,6 +15345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14638,6 +15366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14658,6 +15387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14678,6 +15408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14698,6 +15429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14718,6 +15450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14738,6 +15471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14758,6 +15492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14778,6 +15513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14798,6 +15534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14818,6 +15555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14838,6 +15576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14858,6 +15597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14878,6 +15618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14898,6 +15639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14918,6 +15660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14938,6 +15681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14958,6 +15702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14978,6 +15723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14998,6 +15744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15018,6 +15765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15038,6 +15786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15058,6 +15807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15078,6 +15828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15098,6 +15849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15118,6 +15870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15138,6 +15891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15158,6 +15912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15178,6 +15933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15198,6 +15954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15218,6 +15975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15238,6 +15996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15258,6 +16017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15278,6 +16038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15298,6 +16059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15318,6 +16080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15338,6 +16101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15358,6 +16122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15378,6 +16143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15398,6 +16164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15418,6 +16185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15438,6 +16206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15458,6 +16227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15478,6 +16248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15498,6 +16269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15518,6 +16290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15538,6 +16311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15558,6 +16332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15578,6 +16353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15598,6 +16374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15618,6 +16395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15638,6 +16416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15658,6 +16437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15678,6 +16458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15698,6 +16479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15718,6 +16500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15738,6 +16521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15758,6 +16542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15778,6 +16563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15798,6 +16584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15818,6 +16605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15838,6 +16626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15858,6 +16647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15878,6 +16668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15898,6 +16689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15918,6 +16710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15938,6 +16731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15958,6 +16752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15978,6 +16773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15998,6 +16794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16018,6 +16815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16038,6 +16836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16058,6 +16857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16078,6 +16878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16098,6 +16899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16118,6 +16920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16138,6 +16941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16158,6 +16962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16178,6 +16983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16198,6 +17004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16218,6 +17025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16238,6 +17046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16258,6 +17067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16278,6 +17088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16298,6 +17109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16318,6 +17130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16338,6 +17151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16358,6 +17172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16378,6 +17193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16398,6 +17214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16418,6 +17235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16438,6 +17256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16458,6 +17277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16478,6 +17298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16498,6 +17319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16518,6 +17340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16538,6 +17361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16558,6 +17382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16578,6 +17403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16598,6 +17424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16618,6 +17445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16638,6 +17466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16658,6 +17487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16678,6 +17508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16698,6 +17529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16718,6 +17550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16738,6 +17571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16758,6 +17592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16778,6 +17613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16798,6 +17634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16818,6 +17655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16838,6 +17676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16858,6 +17697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16878,6 +17718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16898,6 +17739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16918,6 +17760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16938,6 +17781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16958,6 +17802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16978,6 +17823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16998,6 +17844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17018,6 +17865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17038,6 +17886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17058,6 +17907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17078,6 +17928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17098,6 +17949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17118,6 +17970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17138,6 +17991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17158,6 +18012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17178,6 +18033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17198,6 +18054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17218,6 +18075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17238,6 +18096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17258,6 +18117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17278,6 +18138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17298,6 +18159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17318,6 +18180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17338,6 +18201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17358,6 +18222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17378,6 +18243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17398,6 +18264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17418,6 +18285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17438,6 +18306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17458,6 +18327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17478,6 +18348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17498,6 +18369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17518,6 +18390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17538,6 +18411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17558,6 +18432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17578,6 +18453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17598,6 +18474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17618,6 +18495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17638,6 +18516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17658,6 +18537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17678,6 +18558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17698,6 +18579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17718,6 +18600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17738,6 +18621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17758,6 +18642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17778,6 +18663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17798,6 +18684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17818,6 +18705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17838,6 +18726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17858,6 +18747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17878,6 +18768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17898,6 +18789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17918,6 +18810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17938,6 +18831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17958,6 +18852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17978,6 +18873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17998,6 +18894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18018,6 +18915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18038,6 +18936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18058,6 +18957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18078,6 +18978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18098,6 +18999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18118,6 +19020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18138,6 +19041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18158,6 +19062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18178,6 +19083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18198,6 +19104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18218,6 +19125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18238,6 +19146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18258,6 +19167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18278,6 +19188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18298,6 +19209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18318,6 +19230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18338,6 +19251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18358,6 +19272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18378,6 +19293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18398,6 +19314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18418,6 +19335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18438,6 +19356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18458,6 +19377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18478,6 +19398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18498,6 +19419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18518,6 +19440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18538,6 +19461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18558,6 +19482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18578,6 +19503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18598,6 +19524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18618,6 +19545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18638,6 +19566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18658,6 +19587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18678,6 +19608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18698,6 +19629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18718,6 +19650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18738,6 +19671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18758,6 +19692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18778,6 +19713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18798,6 +19734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18818,6 +19755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18838,6 +19776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18858,6 +19797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18878,6 +19818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18898,6 +19839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18918,6 +19860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18938,6 +19881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18958,6 +19902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18978,6 +19923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18998,6 +19944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19018,6 +19965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19038,6 +19986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19058,6 +20007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19078,6 +20028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19098,6 +20049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19118,6 +20070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19138,6 +20091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19158,6 +20112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19178,6 +20133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19198,6 +20154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19218,6 +20175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19238,6 +20196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19258,6 +20217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19278,6 +20238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19298,6 +20259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19318,6 +20280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19338,6 +20301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19358,6 +20322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19378,6 +20343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19398,6 +20364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19418,6 +20385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19438,6 +20406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19458,6 +20427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19478,6 +20448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19498,6 +20469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19518,6 +20490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19538,6 +20511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19558,6 +20532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19578,6 +20553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19598,6 +20574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19618,6 +20595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19638,6 +20616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19658,6 +20637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19678,6 +20658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19698,6 +20679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19718,6 +20700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19738,6 +20721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19758,6 +20742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19778,6 +20763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19798,6 +20784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19818,6 +20805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19838,6 +20826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19858,6 +20847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19878,6 +20868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19898,6 +20889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19918,6 +20910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19938,6 +20931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19958,6 +20952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19978,6 +20973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19998,6 +20994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20018,6 +21015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20038,6 +21036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20058,6 +21057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20078,6 +21078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20098,6 +21099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20118,6 +21120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20138,6 +21141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20158,6 +21162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20178,6 +21183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20198,6 +21204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20218,6 +21225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20238,6 +21246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20258,6 +21267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20278,6 +21288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20298,6 +21309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20318,6 +21330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20338,6 +21351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20358,6 +21372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20378,6 +21393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20398,6 +21414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20418,6 +21435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20438,6 +21456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20458,6 +21477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20478,6 +21498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20498,6 +21519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20518,6 +21540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20538,6 +21561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20558,6 +21582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20578,6 +21603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20598,6 +21624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20618,6 +21645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20638,6 +21666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20658,6 +21687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20678,6 +21708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20698,6 +21729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20718,6 +21750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20738,6 +21771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20758,6 +21792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20778,6 +21813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20798,6 +21834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20818,6 +21855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20838,6 +21876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20858,6 +21897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20878,6 +21918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20898,6 +21939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20929,6 +21971,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20949,6 +21992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20969,6 +22013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20989,6 +22034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21009,6 +22055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21029,6 +22076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21049,6 +22097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21069,6 +22118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21089,6 +22139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21109,6 +22160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21129,6 +22181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21149,6 +22202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21169,6 +22223,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21189,6 +22244,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21209,6 +22265,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21229,6 +22286,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21249,6 +22307,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21269,6 +22328,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21289,6 +22349,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21309,6 +22370,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21329,6 +22391,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21349,6 +22412,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21369,6 +22433,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21389,6 +22454,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21409,6 +22475,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21429,6 +22496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21449,6 +22517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21469,6 +22538,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21489,6 +22559,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21509,6 +22580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21529,6 +22601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21549,6 +22622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21569,6 +22643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21589,6 +22664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21609,6 +22685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21629,6 +22706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21649,6 +22727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21669,6 +22748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21689,6 +22769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21709,6 +22790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21729,6 +22811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21749,6 +22832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21764,11 +22848,12 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.928378 42.511875  -2.928358 42.511881  -2.928351 42.511870  -2.928373 42.511866  -2.928351 42.511826  -2.928332 42.511830  -2.928316 42.511833  -2.928280 42.511840  -2.928264 42.511843  -2.928252 42.511845  -2.928282 42.511931  -2.928391 42.511897  -2.928378 42.511875  </gml:posList>
+                <gml:posList srsDimension="2">-2.928378 42.511875  -2.928373 42.511866  -2.928351 42.511826  -2.928332 42.511830  -2.928316 42.511833  -2.928280 42.511840  -2.928264 42.511843  -2.928252 42.511845  -2.928282 42.511931  -2.928391 42.511897  -2.928378 42.511875  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21789,6 +22874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21809,6 +22895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21829,6 +22916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21849,6 +22937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21869,6 +22958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21889,6 +22979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21909,6 +23000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21929,6 +23021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21949,6 +23042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21969,6 +23063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21989,6 +23084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22009,6 +23105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22029,6 +23126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22049,6 +23147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22069,6 +23168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22089,6 +23189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22109,6 +23210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22129,6 +23231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22149,6 +23252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22169,6 +23273,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22189,6 +23294,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22209,6 +23315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22229,6 +23336,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22249,6 +23357,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22269,6 +23378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22289,6 +23399,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22309,6 +23420,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22329,6 +23441,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22349,6 +23462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22369,6 +23483,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22389,6 +23504,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22409,6 +23525,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22429,6 +23546,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22449,6 +23567,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22469,6 +23588,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22489,6 +23609,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22509,6 +23630,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22529,6 +23651,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22549,6 +23672,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22569,6 +23693,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22589,6 +23714,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22609,6 +23735,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22629,6 +23756,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22649,6 +23777,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22669,6 +23798,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22689,6 +23819,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22709,6 +23840,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22729,6 +23861,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22749,6 +23882,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22769,6 +23903,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22789,6 +23924,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22809,6 +23945,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22829,6 +23966,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22849,6 +23987,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22869,6 +24008,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22889,6 +24029,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22909,6 +24050,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22929,6 +24071,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22949,6 +24092,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22969,6 +24113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22989,6 +24134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23009,6 +24155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23029,6 +24176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23049,6 +24197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23069,6 +24218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23089,6 +24239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23109,6 +24260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23129,6 +24281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23149,6 +24302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23169,6 +24323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23189,6 +24344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23209,6 +24365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23229,6 +24386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23249,6 +24407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23269,6 +24428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23289,6 +24449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23309,6 +24470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23329,6 +24491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23349,6 +24512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23369,6 +24533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23389,6 +24554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23409,6 +24575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23429,6 +24596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23449,6 +24617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

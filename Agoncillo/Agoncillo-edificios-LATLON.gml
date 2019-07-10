@@ -29,6 +29,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49,6 +50,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -69,6 +71,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -89,6 +92,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -109,6 +113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -129,6 +134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -149,6 +155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -169,6 +176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -189,6 +197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -209,6 +218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -229,6 +239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -249,6 +260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -269,6 +281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -289,6 +302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -309,6 +323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -329,6 +344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -349,6 +365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -369,6 +386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -389,6 +407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -409,6 +428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -429,6 +449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -449,6 +470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -469,6 +491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -489,6 +512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -509,6 +533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -529,6 +554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -549,6 +575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -569,6 +596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -589,6 +617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -609,6 +638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -629,6 +659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -649,6 +680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -669,6 +701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -689,6 +722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -709,6 +743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -729,6 +764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -749,6 +785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -769,6 +806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -789,6 +827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -809,6 +848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -829,6 +869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -849,6 +890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -869,6 +911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -889,6 +932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -909,6 +953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -929,6 +974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -949,6 +995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -969,6 +1016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -989,6 +1037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1009,6 +1058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1029,6 +1079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1049,6 +1100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1069,6 +1121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1089,6 +1142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1109,6 +1163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1129,6 +1184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1149,6 +1205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1169,6 +1226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1189,6 +1247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1209,6 +1268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1229,6 +1289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1249,6 +1310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1269,6 +1331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1289,6 +1352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1309,6 +1373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1329,6 +1394,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1349,6 +1415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1369,6 +1436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1389,6 +1457,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1409,6 +1478,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1429,6 +1499,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1449,6 +1520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1469,6 +1541,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1489,6 +1562,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1509,6 +1583,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1529,6 +1604,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1549,6 +1625,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1569,6 +1646,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1589,6 +1667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1609,6 +1688,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1629,6 +1709,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1649,6 +1730,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1669,6 +1751,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1689,6 +1772,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1709,6 +1793,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1729,6 +1814,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1749,6 +1835,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1769,6 +1856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1789,6 +1877,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1809,6 +1898,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1829,6 +1919,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1849,6 +1940,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1869,6 +1961,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1889,6 +1982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1909,6 +2003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1929,6 +2024,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1949,6 +2045,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1969,6 +2066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1989,6 +2087,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2009,6 +2108,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2029,6 +2129,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2049,6 +2150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2069,6 +2171,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2089,6 +2192,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2109,6 +2213,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2129,6 +2234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2149,6 +2255,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2169,6 +2276,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2189,6 +2297,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2209,6 +2318,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2229,6 +2339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2249,6 +2360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2269,6 +2381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2289,6 +2402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2309,6 +2423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2329,6 +2444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2349,6 +2465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2369,6 +2486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2389,6 +2507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2409,6 +2528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2429,6 +2549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2449,6 +2570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2469,6 +2591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2489,6 +2612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2509,6 +2633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2529,6 +2654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2549,6 +2675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2569,6 +2696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2589,6 +2717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2609,6 +2738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2629,6 +2759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2649,6 +2780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2669,6 +2801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2689,6 +2822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2709,6 +2843,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2729,6 +2864,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2749,6 +2885,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2769,6 +2906,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2789,6 +2927,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2809,6 +2948,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2829,6 +2969,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2849,6 +2990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2869,6 +3011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2889,6 +3032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2909,6 +3053,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2929,6 +3074,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2949,6 +3095,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2969,6 +3116,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2989,6 +3137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3009,6 +3158,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3029,6 +3179,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3049,6 +3200,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3069,6 +3221,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3089,6 +3242,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3109,6 +3263,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3129,6 +3284,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3149,6 +3305,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3169,6 +3326,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3189,6 +3347,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3209,6 +3368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3229,6 +3389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3249,6 +3410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3269,6 +3431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3289,6 +3452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3309,6 +3473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3329,6 +3494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3349,6 +3515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3369,6 +3536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3389,6 +3557,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3409,6 +3578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3429,6 +3599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3449,6 +3620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3469,6 +3641,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3489,6 +3662,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3509,6 +3683,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3529,6 +3704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3549,6 +3725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3569,6 +3746,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3589,6 +3767,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3609,6 +3788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3629,6 +3809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3649,6 +3830,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3669,6 +3851,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3689,6 +3872,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3709,6 +3893,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3729,6 +3914,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3749,6 +3935,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3769,6 +3956,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3789,6 +3977,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3809,6 +3998,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3829,6 +4019,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3849,6 +4040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3869,6 +4061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3889,6 +4082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3909,6 +4103,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3929,6 +4124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3949,6 +4145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3969,6 +4166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3989,6 +4187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4009,6 +4208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4029,6 +4229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4049,6 +4250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4069,6 +4271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4089,6 +4292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4109,6 +4313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4129,6 +4334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4149,6 +4355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4169,6 +4376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4189,6 +4397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4209,6 +4418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4229,6 +4439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4249,6 +4460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4269,6 +4481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4289,6 +4502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4309,6 +4523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4329,6 +4544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4349,6 +4565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4369,6 +4586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4389,6 +4607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4409,6 +4628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4429,6 +4649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4449,6 +4670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4469,6 +4691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4489,6 +4712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4509,6 +4733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4529,6 +4754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4549,6 +4775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4569,6 +4796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4589,6 +4817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4609,6 +4838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4629,6 +4859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4649,6 +4880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4669,6 +4901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4689,6 +4922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4709,6 +4943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4729,6 +4964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4749,6 +4985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4769,6 +5006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4789,6 +5027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4809,6 +5048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4829,6 +5069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4849,6 +5090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4869,6 +5111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4889,6 +5132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4909,6 +5153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4929,6 +5174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4949,6 +5195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4969,6 +5216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4989,6 +5237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5009,6 +5258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5029,6 +5279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5049,6 +5300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5069,6 +5321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5089,6 +5342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5109,6 +5363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5129,6 +5384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5149,6 +5405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5169,6 +5426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5189,6 +5447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5209,6 +5468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5229,6 +5489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5249,6 +5510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5269,6 +5531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5289,6 +5552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5309,6 +5573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5329,6 +5594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5349,6 +5615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5369,6 +5636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5389,6 +5657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5409,6 +5678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5429,6 +5699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5449,6 +5720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5469,6 +5741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5489,6 +5762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5509,6 +5783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5529,6 +5804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5549,6 +5825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5569,6 +5846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5589,6 +5867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5609,6 +5888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5629,6 +5909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5649,6 +5930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5669,6 +5951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5689,6 +5972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5709,6 +5993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5729,6 +6014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5749,6 +6035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5769,6 +6056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5789,6 +6077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5809,6 +6098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5829,6 +6119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5849,6 +6140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5869,6 +6161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5889,6 +6182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5909,6 +6203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5929,6 +6224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5949,6 +6245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5969,6 +6266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5989,6 +6287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6009,6 +6308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6029,6 +6329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6049,6 +6350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6069,6 +6371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6089,6 +6392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6109,6 +6413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6129,6 +6434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6149,6 +6455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6169,6 +6476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6189,6 +6497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6209,6 +6518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6229,6 +6539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6249,6 +6560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6269,6 +6581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6289,6 +6602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6309,6 +6623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6329,6 +6644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6349,6 +6665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6369,6 +6686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6389,6 +6707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6409,6 +6728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6429,6 +6749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6449,6 +6770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6469,6 +6791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6489,6 +6812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6509,6 +6833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6529,6 +6854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6549,6 +6875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6569,6 +6896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6589,6 +6917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6609,6 +6938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6629,6 +6959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6649,6 +6980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6669,6 +7001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6689,6 +7022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6709,6 +7043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6729,6 +7064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6749,6 +7085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6769,6 +7106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6789,6 +7127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6809,6 +7148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6829,6 +7169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6849,6 +7190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6869,6 +7211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6889,6 +7232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6909,6 +7253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6929,6 +7274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6949,6 +7295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6969,6 +7316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6989,6 +7337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7009,6 +7358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7029,6 +7379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7049,6 +7400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7069,6 +7421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7089,6 +7442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7109,6 +7463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7129,6 +7484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7149,6 +7505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7169,6 +7526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7189,6 +7547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7209,6 +7568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7229,6 +7589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7249,6 +7610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7269,6 +7631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7289,6 +7652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7309,6 +7673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7329,6 +7694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7349,6 +7715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7369,6 +7736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7389,6 +7757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7409,6 +7778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7429,6 +7799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7449,6 +7820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7469,6 +7841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7489,6 +7862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7509,6 +7883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7529,6 +7904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7549,6 +7925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7569,6 +7946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7589,6 +7967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7609,6 +7988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7629,6 +8009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7649,6 +8030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7669,6 +8051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7689,6 +8072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7709,6 +8093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7729,6 +8114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7749,6 +8135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7769,6 +8156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7789,6 +8177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7809,6 +8198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7829,6 +8219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7849,6 +8240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7869,6 +8261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7889,6 +8282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7909,6 +8303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7929,6 +8324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7949,6 +8345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7969,6 +8366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7989,6 +8387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8009,6 +8408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8029,6 +8429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8049,6 +8450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8069,6 +8471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8089,6 +8492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8109,6 +8513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8129,6 +8534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8149,6 +8555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8169,6 +8576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8189,6 +8597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8209,6 +8618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8229,6 +8639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8249,6 +8660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8269,6 +8681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8289,6 +8702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8309,6 +8723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8329,6 +8744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8349,6 +8765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8369,6 +8786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8389,6 +8807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8409,6 +8828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8429,6 +8849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8449,6 +8870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8469,6 +8891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8489,6 +8912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8509,6 +8933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8529,6 +8954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8549,6 +8975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8569,6 +8996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8589,6 +9017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8609,6 +9038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8629,6 +9059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8649,6 +9080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8669,6 +9101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8689,6 +9122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8709,6 +9143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8729,6 +9164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8749,6 +9185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8769,6 +9206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8789,6 +9227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8809,6 +9248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8829,6 +9269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8849,6 +9290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8869,6 +9311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8889,6 +9332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8909,6 +9353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8929,6 +9374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8949,6 +9395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8969,6 +9416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8989,6 +9437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9009,6 +9458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9029,6 +9479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9049,6 +9500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9069,6 +9521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9089,6 +9542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9109,6 +9563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9129,6 +9584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9149,6 +9605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9169,6 +9626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9189,6 +9647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9209,6 +9668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9229,6 +9689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9249,6 +9710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9269,6 +9731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9289,6 +9752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9309,6 +9773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9329,6 +9794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9349,6 +9815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9369,6 +9836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9389,6 +9857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9409,6 +9878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9429,6 +9899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9449,6 +9920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9469,6 +9941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9489,6 +9962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9509,6 +9983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9529,6 +10004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9549,6 +10025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9569,6 +10046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9589,6 +10067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9609,6 +10088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9629,6 +10109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9649,6 +10130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9669,6 +10151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9689,6 +10172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9709,6 +10193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9729,6 +10214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9749,6 +10235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9769,6 +10256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9789,6 +10277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9809,6 +10298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9829,6 +10319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9849,6 +10340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9869,6 +10361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9889,6 +10382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9909,6 +10403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9929,6 +10424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9949,6 +10445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9969,6 +10466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9989,6 +10487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10009,6 +10508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10029,6 +10529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10049,6 +10550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10069,6 +10571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10089,6 +10592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10109,6 +10613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10129,6 +10634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10149,6 +10655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10169,6 +10676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10189,6 +10697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10209,6 +10718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10229,6 +10739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10249,6 +10760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10269,6 +10781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10289,6 +10802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10309,6 +10823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10329,6 +10844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10349,6 +10865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10369,6 +10886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10389,6 +10907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10409,6 +10928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10429,6 +10949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10449,6 +10970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10469,6 +10991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10489,6 +11012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10509,6 +11033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10529,6 +11054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10549,6 +11075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10569,6 +11096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10589,6 +11117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10609,6 +11138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10629,6 +11159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10649,6 +11180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10669,6 +11201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10689,6 +11222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10709,6 +11243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10729,6 +11264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10749,6 +11285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10769,6 +11306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10789,6 +11327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10809,6 +11348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10829,6 +11369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10849,6 +11390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10869,6 +11411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10889,6 +11432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10909,6 +11453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10929,6 +11474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10949,6 +11495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10969,6 +11516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10989,6 +11537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11009,6 +11558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11029,6 +11579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11049,6 +11600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11069,6 +11621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11089,6 +11642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11109,6 +11663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11129,6 +11684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11149,6 +11705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11169,6 +11726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11189,6 +11747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11209,6 +11768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11229,6 +11789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11249,6 +11810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11269,6 +11831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11289,6 +11852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11309,6 +11873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11329,6 +11894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11349,6 +11915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11369,6 +11936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11389,6 +11957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11409,6 +11978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11429,6 +11999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11449,6 +12020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11469,6 +12041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11489,6 +12062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11509,6 +12083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11529,6 +12104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11549,6 +12125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11569,6 +12146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11589,6 +12167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11609,6 +12188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11629,6 +12209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11649,6 +12230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11669,6 +12251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11689,6 +12272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11709,6 +12293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11729,6 +12314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11749,6 +12335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11769,6 +12356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11789,6 +12377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11809,6 +12398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11829,6 +12419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11849,6 +12440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11869,6 +12461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11889,6 +12482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11909,6 +12503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11929,6 +12524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11949,6 +12545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11969,6 +12566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11989,6 +12587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12009,6 +12608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12029,6 +12629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12049,6 +12650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12069,6 +12671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12089,6 +12692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12109,6 +12713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12129,6 +12734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12149,6 +12755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12169,6 +12776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12189,6 +12797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12209,6 +12818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12229,6 +12839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12249,6 +12860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12269,6 +12881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12289,6 +12902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12309,6 +12923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12329,6 +12944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12349,6 +12965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12369,6 +12986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12389,6 +13007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12409,6 +13028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12429,6 +13049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12449,6 +13070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12469,6 +13091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12489,6 +13112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12509,6 +13133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12529,6 +13154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12549,6 +13175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12569,6 +13196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12589,6 +13217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12609,6 +13238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12629,6 +13259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12649,6 +13280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12669,6 +13301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12689,6 +13322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12709,6 +13343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12729,6 +13364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12749,6 +13385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12769,6 +13406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12789,6 +13427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12809,6 +13448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12829,6 +13469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12849,6 +13490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12869,6 +13511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12889,6 +13532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12909,6 +13553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12929,6 +13574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12949,6 +13595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12969,6 +13616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12989,6 +13637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13009,6 +13658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13029,6 +13679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13049,6 +13700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13069,6 +13721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13089,6 +13742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13109,6 +13763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13129,6 +13784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13149,6 +13805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13169,6 +13826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13189,6 +13847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13209,6 +13868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13229,6 +13889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13249,6 +13910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13269,6 +13931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13289,6 +13952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13309,6 +13973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13329,6 +13994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13349,6 +14015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13369,6 +14036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13389,6 +14057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13409,6 +14078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13429,6 +14099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13449,6 +14120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13469,6 +14141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13489,6 +14162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13509,6 +14183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13529,6 +14204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13549,6 +14225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13569,6 +14246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13589,6 +14267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13609,6 +14288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13629,6 +14309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13649,6 +14330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13669,6 +14351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13689,6 +14372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13709,6 +14393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13729,6 +14414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13749,6 +14435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13769,6 +14456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13789,6 +14477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13809,6 +14498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13829,6 +14519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13849,6 +14540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13869,6 +14561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13889,6 +14582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13909,6 +14603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13929,6 +14624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13949,6 +14645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13969,6 +14666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13989,6 +14687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14009,6 +14708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14029,6 +14729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14049,6 +14750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14069,6 +14771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14089,6 +14792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14109,6 +14813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14129,6 +14834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14149,6 +14855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14169,6 +14876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14189,6 +14897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14209,6 +14918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14229,6 +14939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14249,6 +14960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14269,6 +14981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14289,6 +15002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14309,6 +15023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14329,6 +15044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14349,6 +15065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14369,6 +15086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14389,6 +15107,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14409,6 +15128,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14429,6 +15149,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14449,6 +15170,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14469,6 +15191,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14489,6 +15212,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14509,6 +15233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14529,6 +15254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14549,6 +15275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14569,6 +15296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14589,6 +15317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14609,6 +15338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14629,6 +15359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14649,6 +15380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14669,6 +15401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14689,6 +15422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14709,6 +15443,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14729,6 +15464,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14749,6 +15485,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14769,6 +15506,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14789,6 +15527,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14809,6 +15548,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14829,6 +15569,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14849,6 +15590,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14869,6 +15611,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14889,6 +15632,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14909,6 +15653,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14929,6 +15674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14949,6 +15695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14969,6 +15716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -14989,6 +15737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15009,6 +15758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15029,6 +15779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15049,6 +15800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15069,6 +15821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15089,6 +15842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15109,6 +15863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15129,6 +15884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15149,6 +15905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15169,6 +15926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15189,6 +15947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15209,6 +15968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15229,6 +15989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15249,6 +16010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15269,6 +16031,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15289,6 +16052,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15309,6 +16073,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15329,6 +16094,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15349,6 +16115,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15369,6 +16136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15389,6 +16157,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15409,6 +16178,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15429,6 +16199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15449,6 +16220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15469,6 +16241,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15489,6 +16262,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15509,6 +16283,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15529,6 +16304,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15549,6 +16325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15569,6 +16346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15589,6 +16367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15609,6 +16388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15629,6 +16409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15649,6 +16430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15669,6 +16451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15689,6 +16472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15709,6 +16493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15729,6 +16514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15749,6 +16535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15769,6 +16556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15789,6 +16577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15809,6 +16598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15829,6 +16619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15849,6 +16640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15869,6 +16661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15889,6 +16682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15909,6 +16703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15929,6 +16724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15949,6 +16745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15969,6 +16766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15989,6 +16787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16009,6 +16808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16029,6 +16829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16049,6 +16850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16069,6 +16871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16089,6 +16892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16109,6 +16913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16129,6 +16934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16149,6 +16955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16169,6 +16976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16189,6 +16997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16209,6 +17018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16229,6 +17039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16249,6 +17060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16269,6 +17081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16289,6 +17102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16309,6 +17123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16329,6 +17144,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16349,6 +17165,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16369,6 +17186,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16389,6 +17207,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16409,6 +17228,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16429,6 +17249,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16449,6 +17270,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16469,6 +17291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16489,6 +17312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16509,6 +17333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16529,6 +17354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16549,6 +17375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16569,6 +17396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16589,6 +17417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16609,6 +17438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16629,6 +17459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16649,6 +17480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16669,6 +17501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16689,6 +17522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16709,6 +17543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16729,6 +17564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16749,6 +17585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16769,6 +17606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16789,6 +17627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16809,6 +17648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16829,6 +17669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16849,6 +17690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16869,6 +17711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16889,6 +17732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16909,6 +17753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16929,6 +17774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16949,6 +17795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16969,6 +17816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16989,6 +17837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17009,6 +17858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17029,6 +17879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17049,6 +17900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17069,6 +17921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17089,6 +17942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17109,6 +17963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17129,6 +17984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17149,6 +18005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17169,6 +18026,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17189,6 +18047,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17209,6 +18068,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17229,6 +18089,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17249,6 +18110,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17269,6 +18131,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17289,6 +18152,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17309,6 +18173,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17329,6 +18194,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17349,6 +18215,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17369,6 +18236,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17389,6 +18257,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17409,6 +18278,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17429,6 +18299,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17449,6 +18320,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17469,6 +18341,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17489,6 +18362,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17509,6 +18383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17529,6 +18404,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17549,6 +18425,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17569,6 +18446,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17589,6 +18467,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17609,6 +18488,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17629,6 +18509,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17649,6 +18530,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17669,6 +18551,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17689,6 +18572,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17709,6 +18593,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17729,6 +18614,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17749,6 +18635,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17769,6 +18656,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17789,6 +18677,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17809,6 +18698,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17829,6 +18719,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17849,6 +18740,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17869,6 +18761,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17889,6 +18782,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17909,6 +18803,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17929,6 +18824,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17949,6 +18845,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17969,6 +18866,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17989,6 +18887,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18009,6 +18908,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18029,6 +18929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18049,6 +18950,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18069,6 +18971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18089,6 +18992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18109,6 +19013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18129,6 +19034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18149,6 +19055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18169,6 +19076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18189,6 +19097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18209,6 +19118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18229,6 +19139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18249,6 +19160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18269,6 +19181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18289,6 +19202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18309,6 +19223,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18329,6 +19244,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18349,6 +19265,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18369,6 +19286,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18389,6 +19307,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18409,6 +19328,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18429,6 +19349,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18449,6 +19370,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18469,6 +19391,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18489,6 +19412,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18509,6 +19433,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18529,6 +19454,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18549,6 +19475,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18569,6 +19496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18589,6 +19517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18609,6 +19538,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18629,6 +19559,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18649,6 +19580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18669,6 +19601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18689,6 +19622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18709,6 +19643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18729,6 +19664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18749,6 +19685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18769,6 +19706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18789,6 +19727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18809,6 +19748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18829,6 +19769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18849,6 +19790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18869,6 +19811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18889,6 +19832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18909,6 +19853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18929,6 +19874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18949,6 +19895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18969,6 +19916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18989,6 +19937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19009,6 +19958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19029,6 +19979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19049,6 +20000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19069,6 +20021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19089,6 +20042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19109,6 +20063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19129,6 +20084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19149,6 +20105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19169,6 +20126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19189,6 +20147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19209,6 +20168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19229,6 +20189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19249,6 +20210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19269,6 +20231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19289,6 +20252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19309,6 +20273,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19329,6 +20294,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19349,6 +20315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19369,6 +20336,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19389,6 +20357,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19409,6 +20378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19429,6 +20399,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19449,6 +20420,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19469,6 +20441,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19489,6 +20462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19509,6 +20483,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19529,6 +20504,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19549,6 +20525,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19569,6 +20546,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19589,6 +20567,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19609,6 +20588,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19629,6 +20609,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19649,6 +20630,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19669,6 +20651,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19689,6 +20672,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19709,6 +20693,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19729,6 +20714,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19749,6 +20735,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19769,6 +20756,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19789,6 +20777,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19809,6 +20798,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19829,6 +20819,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19849,6 +20840,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19869,6 +20861,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19889,6 +20882,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19909,6 +20903,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19929,6 +20924,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19949,6 +20945,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19969,6 +20966,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19989,6 +20987,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20009,6 +21008,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20029,6 +21029,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20049,6 +21050,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20069,6 +21071,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20089,6 +21092,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20109,6 +21113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20129,6 +21134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20149,6 +21155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20169,6 +21176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20189,6 +21197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20209,6 +21218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20229,6 +21239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20249,6 +21260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20269,6 +21281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20289,6 +21302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20309,6 +21323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20329,6 +21344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20349,6 +21365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20369,6 +21386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20389,6 +21407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20409,6 +21428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20429,6 +21449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20449,6 +21470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20469,6 +21491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20489,6 +21512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20509,6 +21533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20529,6 +21554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20549,6 +21575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20569,6 +21596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20589,6 +21617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20609,6 +21638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20629,6 +21659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20649,6 +21680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20669,6 +21701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20689,6 +21722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20709,6 +21743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20729,6 +21764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20749,6 +21785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20769,6 +21806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20789,6 +21827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20809,6 +21848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20829,6 +21869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20849,6 +21890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20869,6 +21911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20889,6 +21932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20909,6 +21953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20929,6 +21974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20949,6 +21995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20969,6 +22016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20989,6 +22037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21009,6 +22058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21029,6 +22079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21049,6 +22100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21069,6 +22121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21089,6 +22142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21109,6 +22163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21129,6 +22184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21149,6 +22205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21169,6 +22226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21189,6 +22247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21209,6 +22268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21229,6 +22289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21249,6 +22310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21269,6 +22331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21289,6 +22352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21309,6 +22373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21329,6 +22394,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21349,6 +22415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21369,6 +22436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21389,6 +22457,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21409,6 +22478,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21429,6 +22499,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21449,6 +22520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21469,6 +22541,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21489,6 +22562,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21509,6 +22583,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21529,6 +22604,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21549,6 +22625,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21569,6 +22646,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21589,6 +22667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21609,6 +22688,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21629,6 +22709,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21649,6 +22730,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21669,6 +22751,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21689,6 +22772,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21709,6 +22793,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21729,6 +22814,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21749,6 +22835,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21769,6 +22856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21789,6 +22877,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21809,6 +22898,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21829,6 +22919,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21849,6 +22940,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21869,6 +22961,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21889,6 +22982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21909,6 +23003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21929,6 +23024,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21949,6 +23045,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21969,6 +23066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21989,6 +23087,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22009,6 +23108,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22029,6 +23129,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22049,6 +23150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22069,6 +23171,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22089,6 +23192,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22109,6 +23213,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22129,6 +23234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22149,6 +23255,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22169,6 +23276,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22189,6 +23297,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22209,6 +23318,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22229,6 +23339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22249,6 +23360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22269,6 +23381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22289,6 +23402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22309,6 +23423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22329,6 +23444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22349,6 +23465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22369,6 +23486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22389,6 +23507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22409,6 +23528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22429,6 +23549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22449,6 +23570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22469,6 +23591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22489,6 +23612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22509,6 +23633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22529,6 +23654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22549,6 +23675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22569,6 +23696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22589,6 +23717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22609,6 +23738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22629,6 +23759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22649,6 +23780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22669,6 +23801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22689,6 +23822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22709,6 +23843,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22729,6 +23864,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22749,6 +23885,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22769,6 +23906,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22789,6 +23927,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22809,6 +23948,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22829,6 +23969,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22849,6 +23990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22869,6 +24011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22889,6 +24032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22909,6 +24053,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22929,6 +24074,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22949,6 +24095,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22969,6 +24116,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22989,6 +24137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23009,6 +24158,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23029,6 +24179,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23049,6 +24200,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23069,6 +24221,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23089,6 +24242,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23109,6 +24263,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23129,6 +24284,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23149,6 +24305,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23169,6 +24326,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23189,6 +24347,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23209,6 +24368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23229,6 +24389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23249,6 +24410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23269,6 +24431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23289,6 +24452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23309,6 +24473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23329,6 +24494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23349,6 +24515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23369,6 +24536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23389,6 +24557,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23409,6 +24578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23429,6 +24599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23449,6 +24620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23469,6 +24641,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23489,6 +24662,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23509,6 +24683,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23529,6 +24704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23549,6 +24725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23569,6 +24746,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23589,6 +24767,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23609,6 +24788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23629,6 +24809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23649,6 +24830,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23669,6 +24851,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23689,6 +24872,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23709,6 +24893,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23729,6 +24914,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23749,6 +24935,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23769,6 +24956,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23789,6 +24977,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23809,6 +24998,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23829,6 +25019,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23849,6 +25040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23869,6 +25061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23889,6 +25082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23909,6 +25103,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23929,6 +25124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23949,6 +25145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23969,6 +25166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23989,6 +25187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24009,6 +25208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24029,6 +25229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24049,6 +25250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24069,6 +25271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24089,6 +25292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24109,6 +25313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24129,6 +25334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24149,6 +25355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24169,6 +25376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24189,6 +25397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24209,6 +25418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24229,6 +25439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24249,6 +25460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24269,6 +25481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24289,6 +25502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24309,6 +25523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24329,6 +25544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24349,6 +25565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24369,6 +25586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24389,6 +25607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24409,6 +25628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24429,6 +25649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24449,6 +25670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24469,6 +25691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24489,6 +25712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24509,6 +25733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24529,6 +25754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24549,6 +25775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24569,6 +25796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24589,6 +25817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24609,6 +25838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24629,6 +25859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24649,6 +25880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24669,6 +25901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24689,6 +25922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24709,6 +25943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24729,6 +25964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24749,6 +25985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24769,6 +26006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24789,6 +26027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24809,6 +26048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24829,6 +26069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24849,6 +26090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24869,6 +26111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24889,6 +26132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24909,6 +26153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24929,6 +26174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24949,6 +26195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24969,6 +26216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -24989,6 +26237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25009,6 +26258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25029,6 +26279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25049,6 +26300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25069,6 +26321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25089,6 +26342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25109,6 +26363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25129,6 +26384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25149,6 +26405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25169,6 +26426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25189,6 +26447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25209,6 +26468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25229,6 +26489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25249,6 +26510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25269,6 +26531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25289,6 +26552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25309,6 +26573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25329,6 +26594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25349,6 +26615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25369,6 +26636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25389,6 +26657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25409,6 +26678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25429,6 +26699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25449,6 +26720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25469,6 +26741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25489,6 +26762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25509,6 +26783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25529,6 +26804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25549,6 +26825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25569,6 +26846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25589,6 +26867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25609,6 +26888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25629,6 +26909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25649,6 +26930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25669,6 +26951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25689,6 +26972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25709,6 +26993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25729,6 +27014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25749,6 +27035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25769,6 +27056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25789,6 +27077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25809,6 +27098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25829,6 +27119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25849,6 +27140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25869,6 +27161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25889,6 +27182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25909,6 +27203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25929,6 +27224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25949,6 +27245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25969,6 +27266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -25989,6 +27287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26009,6 +27308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26029,6 +27329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26049,6 +27350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26069,6 +27371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26089,6 +27392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26109,6 +27413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26129,6 +27434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26149,6 +27455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26169,6 +27476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26189,6 +27497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26209,6 +27518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26229,6 +27539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26249,6 +27560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26269,6 +27581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26289,6 +27602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26309,6 +27623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26329,6 +27644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26349,6 +27665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26369,6 +27686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26389,6 +27707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26409,6 +27728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26429,6 +27749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26449,6 +27770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26469,6 +27791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26489,6 +27812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26509,6 +27833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26529,6 +27854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26549,6 +27875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26569,6 +27896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26589,6 +27917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26609,6 +27938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26629,6 +27959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26649,6 +27980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26669,6 +28001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26689,6 +28022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26709,6 +28043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26729,6 +28064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26749,6 +28085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26769,6 +28106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26789,6 +28127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26809,6 +28148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26829,6 +28169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26849,6 +28190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26869,6 +28211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26889,6 +28232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26909,6 +28253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26929,6 +28274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26949,6 +28295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26969,6 +28316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -26989,6 +28337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27009,6 +28358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27029,6 +28379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27049,6 +28400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27069,6 +28421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27089,6 +28442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27109,6 +28463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27129,6 +28484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27149,6 +28505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27169,6 +28526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27189,6 +28547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27209,6 +28568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27229,6 +28589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27249,6 +28610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27269,6 +28631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27289,6 +28652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27309,6 +28673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27329,6 +28694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27349,6 +28715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27369,6 +28736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27389,6 +28757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27409,6 +28778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27429,6 +28799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27449,6 +28820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27469,6 +28841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27489,6 +28862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27509,6 +28883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27529,6 +28904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27549,6 +28925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27569,6 +28946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27589,6 +28967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27609,6 +28988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27629,6 +29009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27649,6 +29030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27669,6 +29051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27689,6 +29072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27709,6 +29093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27729,6 +29114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27749,6 +29135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27769,6 +29156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27789,6 +29177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27809,6 +29198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27829,6 +29219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27849,6 +29240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27869,6 +29261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27889,6 +29282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27909,6 +29303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27929,6 +29324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27949,6 +29345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27969,6 +29366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -27989,6 +29387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28009,6 +29408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28029,6 +29429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28049,6 +29450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28069,6 +29471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28089,6 +29492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28109,6 +29513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28129,6 +29534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28149,6 +29555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28169,6 +29576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28189,6 +29597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28209,6 +29618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28229,6 +29639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28249,6 +29660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28269,6 +29681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28289,6 +29702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28309,6 +29723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28329,6 +29744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28349,6 +29765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28369,6 +29786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28389,6 +29807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28409,6 +29828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28429,6 +29849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28449,6 +29870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28469,6 +29891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28489,6 +29912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28509,6 +29933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28529,6 +29954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28549,6 +29975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28569,6 +29996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28589,6 +30017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28609,6 +30038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28629,6 +30059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28649,6 +30080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28669,6 +30101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28689,6 +30122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28709,6 +30143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28729,6 +30164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28749,6 +30185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28769,6 +30206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28789,6 +30227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28809,6 +30248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28829,6 +30269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28849,6 +30290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28869,6 +30311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28889,6 +30332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28909,6 +30353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28929,6 +30374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28949,6 +30395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28969,6 +30416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -28989,6 +30437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29009,6 +30458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29029,6 +30479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29049,6 +30500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29069,6 +30521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29089,6 +30542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29109,6 +30563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29129,6 +30584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29149,6 +30605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29169,6 +30626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29189,6 +30647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29209,6 +30668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29229,6 +30689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29249,6 +30710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29269,6 +30731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29289,6 +30752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29309,6 +30773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29329,6 +30794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29349,6 +30815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29369,6 +30836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29389,6 +30857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29409,6 +30878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29429,6 +30899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29449,6 +30920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29469,6 +30941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29489,6 +30962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29509,6 +30983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29529,6 +31004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29549,6 +31025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29569,6 +31046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29589,6 +31067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29609,6 +31088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29629,6 +31109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29649,6 +31130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29669,6 +31151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29689,6 +31172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29709,6 +31193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29729,6 +31214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29749,6 +31235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29769,6 +31256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29789,6 +31277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29809,6 +31298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29829,6 +31319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29849,6 +31340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29869,6 +31361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29889,6 +31382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29909,6 +31403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29929,6 +31424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29949,6 +31445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29969,6 +31466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -29989,6 +31487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30009,6 +31508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30029,6 +31529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30049,6 +31550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30069,6 +31571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30089,6 +31592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30109,6 +31613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30129,6 +31634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30149,6 +31655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30169,6 +31676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30189,6 +31697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30209,6 +31718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30229,6 +31739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30249,6 +31760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30269,6 +31781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30289,6 +31802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30309,6 +31823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30329,6 +31844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30349,6 +31865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30369,6 +31886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30389,6 +31907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30409,6 +31928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30429,6 +31949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30449,6 +31970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30469,6 +31991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30489,6 +32012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30509,6 +32033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30529,6 +32054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30549,6 +32075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30569,6 +32096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30589,6 +32117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30609,6 +32138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30629,6 +32159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30649,6 +32180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30669,6 +32201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30689,6 +32222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30709,6 +32243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30729,6 +32264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30749,6 +32285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30769,6 +32306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30789,6 +32327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30809,6 +32348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30829,6 +32369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30849,6 +32390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30869,6 +32411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30889,6 +32432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30909,6 +32453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30929,6 +32474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30949,6 +32495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30969,6 +32516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -30989,6 +32537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31009,6 +32558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31029,6 +32579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31049,6 +32600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31069,6 +32621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31089,6 +32642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31109,6 +32663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31129,6 +32684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31149,6 +32705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31169,6 +32726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31189,6 +32747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31209,6 +32768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31229,6 +32789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31249,6 +32810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31269,6 +32831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31289,6 +32852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31309,6 +32873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31329,6 +32894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31349,6 +32915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31369,6 +32936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31389,6 +32957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31409,6 +32978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31429,6 +32999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31449,6 +33020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31469,6 +33041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31489,6 +33062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31509,6 +33083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31529,6 +33104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31549,6 +33125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31569,6 +33146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31589,6 +33167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31609,6 +33188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31629,6 +33209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31649,6 +33230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31669,6 +33251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31689,6 +33272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31709,6 +33293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31729,6 +33314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31749,6 +33335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31769,6 +33356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31789,6 +33377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31809,6 +33398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31829,6 +33419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31849,6 +33440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31869,6 +33461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31889,6 +33482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31909,6 +33503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31929,6 +33524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31949,6 +33545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31969,6 +33566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -31989,6 +33587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32009,6 +33608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32029,6 +33629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32049,6 +33650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32069,6 +33671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32089,6 +33692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32109,6 +33713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32129,6 +33734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32149,6 +33755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32169,6 +33776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32189,6 +33797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32209,6 +33818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32229,6 +33839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32249,6 +33860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32269,6 +33881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32289,6 +33902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32309,6 +33923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32329,6 +33944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32349,6 +33965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32369,6 +33986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32389,6 +34007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32409,6 +34028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32429,6 +34049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32449,6 +34070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32469,6 +34091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32489,6 +34112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32509,6 +34133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32529,6 +34154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32549,6 +34175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32569,6 +34196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32589,6 +34217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32609,6 +34238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32629,6 +34259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32649,6 +34280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32669,6 +34301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32689,6 +34322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32709,6 +34343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32729,6 +34364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32749,6 +34385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32769,6 +34406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32789,6 +34427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32809,6 +34448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32829,6 +34469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32849,6 +34490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32869,6 +34511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32889,6 +34532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32909,6 +34553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32929,6 +34574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32949,6 +34595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32969,6 +34616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -32989,6 +34637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33009,6 +34658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33029,6 +34679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33049,6 +34700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33069,6 +34721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33089,6 +34742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33109,6 +34763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33129,6 +34784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33149,6 +34805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33169,6 +34826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33189,6 +34847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33209,6 +34868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33229,6 +34889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33249,6 +34910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33269,6 +34931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33289,6 +34952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33309,6 +34973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33329,6 +34994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33349,6 +35015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33369,6 +35036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33389,6 +35057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33409,6 +35078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33429,6 +35099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33449,6 +35120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33469,6 +35141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33489,6 +35162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33509,6 +35183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33529,6 +35204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33549,6 +35225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33569,6 +35246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33589,6 +35267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33609,6 +35288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33629,6 +35309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33649,6 +35330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33669,6 +35351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33689,6 +35372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33709,6 +35393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33729,6 +35414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33749,6 +35435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33769,6 +35456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33789,6 +35477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33809,6 +35498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33829,6 +35519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33849,6 +35540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33869,6 +35561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33889,6 +35582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33909,6 +35603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33929,6 +35624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33949,6 +35645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33969,6 +35666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -33989,6 +35687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34009,6 +35708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34029,6 +35729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34049,6 +35750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34069,6 +35771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34089,6 +35792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34109,6 +35813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34129,6 +35834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34149,6 +35855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34169,6 +35876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34189,6 +35897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34209,6 +35918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34229,6 +35939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34249,6 +35960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34269,6 +35981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34289,6 +36002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34309,6 +36023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34329,6 +36044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34349,6 +36065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34369,6 +36086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34389,6 +36107,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34409,6 +36128,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34429,6 +36149,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34449,6 +36170,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34469,6 +36191,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34489,6 +36212,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34509,6 +36233,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34529,6 +36254,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34549,6 +36275,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34569,6 +36296,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34589,6 +36317,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34609,6 +36338,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34629,6 +36359,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34649,6 +36380,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34669,6 +36401,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34689,6 +36422,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34709,6 +36443,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34729,6 +36464,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34749,6 +36485,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34769,6 +36506,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34789,6 +36527,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34809,6 +36548,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34829,6 +36569,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34849,6 +36590,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34869,6 +36611,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34889,6 +36632,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34909,6 +36653,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34929,6 +36674,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34949,6 +36695,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34969,6 +36716,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -34989,6 +36737,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35009,6 +36758,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35029,6 +36779,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35049,6 +36800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35069,6 +36821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35089,6 +36842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35109,6 +36863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35129,6 +36884,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35149,6 +36905,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35169,6 +36926,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35189,6 +36947,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35209,6 +36968,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35229,6 +36989,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35249,6 +37010,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35269,6 +37031,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35289,6 +37052,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35309,6 +37073,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35329,6 +37094,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35349,6 +37115,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35369,6 +37136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35389,6 +37157,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35409,6 +37178,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35429,6 +37199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35449,6 +37220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35469,6 +37241,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35489,6 +37262,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35509,6 +37283,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35529,6 +37304,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35549,6 +37325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35569,6 +37346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35589,6 +37367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35609,6 +37388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35629,6 +37409,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35649,6 +37430,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35669,6 +37451,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35689,6 +37472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35709,6 +37493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35729,6 +37514,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35749,6 +37535,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35769,6 +37556,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35789,6 +37577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35809,6 +37598,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35829,6 +37619,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35849,6 +37640,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35869,6 +37661,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35889,6 +37682,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35909,6 +37703,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35929,6 +37724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35949,6 +37745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35969,6 +37766,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -35989,6 +37787,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36009,6 +37808,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36029,6 +37829,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36049,6 +37850,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36069,6 +37871,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36089,6 +37892,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36109,6 +37913,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36129,6 +37934,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36149,6 +37955,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36169,6 +37976,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36189,6 +37997,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36209,6 +38018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36229,6 +38039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36249,6 +38060,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36269,6 +38081,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36289,6 +38102,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36309,6 +38123,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36329,6 +38144,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36349,6 +38165,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36369,6 +38186,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36389,6 +38207,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36409,6 +38228,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36429,6 +38249,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36449,6 +38270,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36469,6 +38291,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36489,6 +38312,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36509,6 +38333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36529,6 +38354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36549,6 +38375,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36569,6 +38396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36589,6 +38417,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36609,6 +38438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36629,6 +38459,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36649,6 +38480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36669,6 +38501,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36689,6 +38522,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36709,6 +38543,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36729,6 +38564,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36749,6 +38585,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36769,6 +38606,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36789,6 +38627,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36809,6 +38648,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36829,6 +38669,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36849,6 +38690,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36869,6 +38711,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36889,6 +38732,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36909,6 +38753,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36929,6 +38774,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36949,6 +38795,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36969,6 +38816,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -36989,6 +38837,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37009,6 +38858,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37029,6 +38879,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37049,6 +38900,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37069,6 +38921,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37089,6 +38942,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37109,6 +38963,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37129,6 +38984,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37149,6 +39005,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37169,6 +39026,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37189,6 +39047,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37209,6 +39068,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37229,6 +39089,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37249,6 +39110,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37269,6 +39131,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37289,6 +39152,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37309,6 +39173,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37329,6 +39194,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37349,6 +39215,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37369,6 +39236,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37389,6 +39257,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37409,6 +39278,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37429,6 +39299,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37449,6 +39320,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37469,6 +39341,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37489,6 +39362,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37509,6 +39383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37529,6 +39404,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37549,6 +39425,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37569,6 +39446,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37589,6 +39467,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37609,6 +39488,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37629,6 +39509,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37649,6 +39530,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37669,6 +39551,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37689,6 +39572,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37709,6 +39593,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37729,6 +39614,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37749,6 +39635,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37769,6 +39656,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37789,6 +39677,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37809,6 +39698,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37829,6 +39719,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37849,6 +39740,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37869,6 +39761,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37889,6 +39782,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37909,6 +39803,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37929,6 +39824,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37949,6 +39845,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37969,6 +39866,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -37989,6 +39887,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38009,6 +39908,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38029,6 +39929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38049,6 +39950,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38069,6 +39971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38089,6 +39992,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38109,6 +40013,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38129,6 +40034,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38149,6 +40055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38169,6 +40076,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38189,6 +40097,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38209,6 +40118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38229,6 +40139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38249,6 +40160,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38269,6 +40181,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38289,6 +40202,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38309,6 +40223,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38329,6 +40244,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38349,6 +40265,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38369,6 +40286,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38389,6 +40307,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38409,6 +40328,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38429,6 +40349,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38449,6 +40370,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38469,6 +40391,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38489,6 +40412,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38509,6 +40433,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38529,6 +40454,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38549,6 +40475,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38569,6 +40496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38589,6 +40517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38609,6 +40538,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38629,6 +40559,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38649,6 +40580,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38669,6 +40601,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38689,6 +40622,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38709,6 +40643,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38729,6 +40664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38749,6 +40685,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38769,6 +40706,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38789,6 +40727,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38809,6 +40748,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38829,6 +40769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38849,6 +40790,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38869,6 +40811,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38889,6 +40832,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38909,6 +40853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38929,6 +40874,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38949,6 +40895,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38969,6 +40916,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -38989,6 +40937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39009,6 +40958,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39029,6 +40979,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39049,6 +41000,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39069,6 +41021,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39089,6 +41042,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39109,6 +41063,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39129,6 +41084,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39149,6 +41105,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39169,6 +41126,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39189,6 +41147,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39209,6 +41168,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39229,6 +41189,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39249,6 +41210,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39269,6 +41231,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39289,6 +41252,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39309,6 +41273,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39329,6 +41294,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39349,6 +41315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39369,6 +41336,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39389,6 +41357,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39409,6 +41378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39429,6 +41399,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39449,6 +41420,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39469,6 +41441,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39489,6 +41462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39509,6 +41483,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39529,6 +41504,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39549,6 +41525,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39569,6 +41546,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39589,6 +41567,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39609,6 +41588,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39629,6 +41609,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39649,6 +41630,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39669,6 +41651,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39689,6 +41672,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39709,6 +41693,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39729,6 +41714,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39749,6 +41735,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39769,6 +41756,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39789,6 +41777,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39809,6 +41798,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39829,6 +41819,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39849,6 +41840,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39869,6 +41861,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39889,6 +41882,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39909,6 +41903,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39929,6 +41924,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39949,6 +41945,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39969,6 +41966,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -39989,6 +41987,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40009,6 +42008,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40029,6 +42029,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40049,6 +42050,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40069,6 +42071,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40089,6 +42092,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40109,6 +42113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40129,6 +42134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40149,6 +42155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40169,6 +42176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40189,6 +42197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40209,6 +42218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40229,6 +42239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40249,6 +42260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40269,6 +42281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40289,6 +42302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40309,6 +42323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40329,6 +42344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40349,6 +42365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40369,6 +42386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40389,6 +42407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40409,6 +42428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40429,6 +42449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40449,6 +42470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40469,6 +42491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40489,6 +42512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40509,6 +42533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40529,6 +42554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40549,6 +42575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40569,6 +42596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40589,6 +42617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40609,6 +42638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40629,6 +42659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40649,6 +42680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40669,6 +42701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40689,6 +42722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40709,6 +42743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40729,6 +42764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40749,6 +42785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40769,6 +42806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40789,6 +42827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40809,6 +42848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40829,6 +42869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40849,6 +42890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40869,6 +42911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40889,6 +42932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40909,6 +42953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40929,6 +42974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40949,6 +42995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40969,6 +43016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -40989,6 +43037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41009,6 +43058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41029,6 +43079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41049,6 +43100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41069,6 +43121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41089,6 +43142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41109,6 +43163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41129,6 +43184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41149,6 +43205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41169,6 +43226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41189,6 +43247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41209,6 +43268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41229,6 +43289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41249,6 +43310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41269,6 +43331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41289,6 +43352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41309,6 +43373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41338,6 +43403,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41382,6 +43448,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41402,6 +43469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41422,6 +43490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41442,6 +43511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41462,6 +43532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41482,6 +43553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41502,6 +43574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41522,6 +43595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41542,6 +43616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41562,6 +43637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41591,6 +43667,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41620,6 +43697,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41640,6 +43718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41660,6 +43739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41680,6 +43760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41700,6 +43781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41720,6 +43802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41740,6 +43823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41760,6 +43844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41780,6 +43865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41800,6 +43886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41820,6 +43907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41840,6 +43928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41860,6 +43949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41880,6 +43970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41900,6 +43991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41920,6 +44012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41940,6 +44033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41960,6 +44054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -41980,6 +44075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42000,6 +44096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42020,6 +44117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42040,6 +44138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42060,6 +44159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42080,6 +44180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42100,6 +44201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42120,6 +44222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42140,6 +44243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42160,6 +44264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42180,6 +44285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42200,6 +44306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42220,6 +44327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42240,6 +44348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42260,6 +44369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42280,6 +44390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42300,6 +44411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42320,6 +44432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42340,6 +44453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42360,6 +44474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42380,6 +44495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42400,6 +44516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42420,6 +44537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42440,6 +44558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42460,6 +44579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42480,6 +44600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42500,6 +44621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42520,6 +44642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42540,6 +44663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42560,6 +44684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42580,6 +44705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42600,6 +44726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42620,6 +44747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42640,6 +44768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42660,6 +44789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42680,6 +44810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42700,6 +44831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42720,6 +44852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42740,6 +44873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42760,6 +44894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42780,6 +44915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42800,6 +44936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42820,6 +44957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42840,6 +44978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42860,6 +44999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42880,6 +45020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42900,6 +45041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42920,6 +45062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42940,6 +45083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42960,6 +45104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -42980,6 +45125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43000,6 +45146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43020,6 +45167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43040,6 +45188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43060,6 +45209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43080,6 +45230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43100,6 +45251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43120,6 +45272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43140,6 +45293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43160,6 +45314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43180,6 +45335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43200,6 +45356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43220,6 +45377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43240,6 +45398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43260,6 +45419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43280,6 +45440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43300,6 +45461,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43320,6 +45482,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43340,6 +45503,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43360,6 +45524,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43380,6 +45545,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43400,6 +45566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43420,6 +45587,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43440,6 +45608,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43460,6 +45629,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43480,6 +45650,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43500,6 +45671,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43520,6 +45692,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43540,6 +45713,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43560,6 +45734,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43580,6 +45755,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43600,6 +45776,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43620,6 +45797,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43640,6 +45818,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43660,6 +45839,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43680,6 +45860,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43700,6 +45881,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43720,6 +45902,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43740,6 +45923,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43760,6 +45944,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43780,6 +45965,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43800,6 +45986,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43820,6 +46007,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43840,6 +46028,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43860,6 +46049,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43880,6 +46070,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43900,6 +46091,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43920,6 +46112,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43940,6 +46133,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43960,6 +46154,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -43980,6 +46175,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44000,6 +46196,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44020,6 +46217,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44040,6 +46238,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44060,6 +46259,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44080,6 +46280,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44100,6 +46301,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44120,6 +46322,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44140,6 +46343,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44160,6 +46364,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44180,6 +46385,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44200,6 +46406,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44220,6 +46427,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44240,6 +46448,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44260,6 +46469,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44280,6 +46490,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44300,6 +46511,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44320,6 +46532,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44340,6 +46553,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44360,6 +46574,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44380,6 +46595,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44400,6 +46616,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44420,6 +46637,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44440,6 +46658,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44460,6 +46679,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44480,6 +46700,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44500,6 +46721,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44520,6 +46742,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44540,6 +46763,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44560,6 +46784,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44580,6 +46805,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44600,6 +46826,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44620,6 +46847,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44640,6 +46868,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44660,6 +46889,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44680,6 +46910,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44700,6 +46931,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44720,6 +46952,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44740,6 +46973,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44760,6 +46994,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44780,6 +47015,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44800,6 +47036,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44820,6 +47057,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44840,6 +47078,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44860,6 +47099,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44880,6 +47120,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44900,6 +47141,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44920,6 +47162,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44940,6 +47183,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44960,6 +47204,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -44980,6 +47225,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45000,6 +47246,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45020,6 +47267,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45040,6 +47288,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45060,6 +47309,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45080,6 +47330,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45100,6 +47351,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45120,6 +47372,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45140,6 +47393,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45160,6 +47414,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45180,6 +47435,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45200,6 +47456,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45220,6 +47477,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45240,6 +47498,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45260,6 +47519,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45280,6 +47540,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45300,6 +47561,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45320,6 +47582,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45340,6 +47603,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45360,6 +47624,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45380,6 +47645,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45400,6 +47666,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45420,6 +47687,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45440,6 +47708,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45460,6 +47729,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45480,6 +47750,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45500,6 +47771,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45520,6 +47792,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45540,6 +47813,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45560,6 +47834,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45580,6 +47855,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45600,6 +47876,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45620,6 +47897,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45640,6 +47918,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45660,6 +47939,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45680,6 +47960,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45700,6 +47981,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45720,6 +48002,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45740,6 +48023,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45760,6 +48044,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45780,6 +48065,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45800,6 +48086,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45816,6 +48103,7 @@
             <gml:posList srsDimension="2">-2.293444 42.466020  -2.293450 42.465992  -2.293441 42.465950  -2.293441 42.465950  -2.293441 42.465950  -2.293441 42.465950  -2.293441 42.465950  -2.293441 42.465950  -2.293441 42.465950  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293441 42.465949  -2.293440 42.465949  -2.293440 42.465949  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465948  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293440 42.465947  -2.293439 42.465947  -2.293439 42.465947  -2.293439 42.465947  -2.293439 42.465947  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465946  -2.293439 42.465945  -2.293439 42.465945  -2.293439 42.465945  -2.293439 42.465945  -2.293439 42.465945  -2.293439 42.465945  -2.293439 42.465945  -2.293438 42.465945  -2.293438 42.465945  -2.293438 42.465945  -2.293438 42.465945  -2.293438 42.465945  -2.293438 42.465945  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465944  -2.293438 42.465943  -2.293438 42.465943  -2.293438 42.465943  -2.293438 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465943  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293437 42.465942  -2.293436 42.465942  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465941  -2.293436 42.465940  -2.293436 42.465940  -2.293436 42.465940  -2.293436 42.465940  -2.293436 42.465940  -2.293436 42.465940  -2.293436 42.465940  -2.293435 42.465940  -2.293435 42.465940  -2.293435 42.465940  -2.293435 42.465940  -2.293435 42.465940  -2.293435 42.465940  -2.293435 42.465940  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465939  -2.293435 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465938  -2.293434 42.465937  -2.293434 42.465937  -2.293434 42.465937  -2.293434 42.465937  -2.293434 42.465937  -2.293434 42.465937  -2.293434 42.465937  -2.293433 42.465937  -2.293433 42.465937  -2.293433 42.465937  -2.293433 42.465937  -2.293433 42.465937  -2.293433 42.465937  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293433 42.465936  -2.293432 42.465936  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465935  -2.293432 42.465934  -2.293432 42.465934  -2.293432 42.465934  -2.293432 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465934  -2.293431 42.465933  -2.293431 42.465933  -2.293431 42.465933  -2.293431 42.465933  -2.293431 42.465933  -2.293431 42.465933  -2.293431 42.465933  -2.293431 42.465933  -2.293430 42.465933  -2.293430 42.465933  -2.293430 42.465933  -2.293430 42.465933  -2.293430 42.465933  -2.293430 42.465933  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293430 42.465932  -2.293429 42.465932  -2.293429 42.465932  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465931  -2.293429 42.465930  -2.293429 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465930  -2.293428 42.465929  -2.293428 42.465929  -2.293428 42.465929  -2.293428 42.465929  -2.293428 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465929  -2.293427 42.465928  -2.293427 42.465928  -2.293427 42.465928  -2.293427 42.465928  -2.293427 42.465928  -2.293427 42.465928  -2.293427 42.465928  -2.293426 42.465928  -2.293426 42.465928  -2.293426 42.465928  -2.293426 42.465928  -2.293426 42.465928  -2.293426 42.465928  -2.293426 42.465928  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293426 42.465927  -2.293425 42.465927  -2.293425 42.465927  -2.293425 42.465927  -2.293425 42.465927  -2.293425 42.465927  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293425 42.465926  -2.293424 42.465926  -2.293424 42.465926  -2.293424 42.465926  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293424 42.465925  -2.293423 42.465925  -2.293423 42.465925  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293423 42.465924  -2.293422 42.465924  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293422 42.465923  -2.293421 42.465923  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293421 42.465922  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293420 42.465921  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293419 42.465920  -2.293418 42.465920  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293418 42.465919  -2.293417 42.465919  -2.293417 42.465919  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293417 42.465918  -2.293416 42.465918  -2.293416 42.465918  -2.293416 42.465918  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293416 42.465917  -2.293415 42.465917  -2.293415 42.465917  -2.293415 42.465917  -2.293415 42.465917  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293415 42.465916  -2.293414 42.465916  -2.293414 42.465916  -2.293414 42.465916  -2.293414 42.465916  -2.293414 42.465916  -2.293414 42.465916  -2.293414 42.465915  -2.293414 42.465915  -2.293414 42.465915  -2.293414 42.465915  -2.293414 42.465915  -2.293414 42.465915  -2.293414 42.465915  -2.293414 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465915  -2.293413 42.465914  -2.293413 42.465914  -2.293413 42.465914  -2.293413 42.465914  -2.293413 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465914  -2.293412 42.465913  -2.293412 42.465913  -2.293412 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293411 42.465913  -2.293410 42.465913  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293410 42.465912  -2.293409 42.465912  -2.293409 42.465912  -2.293409 42.465912  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293409 42.465911  -2.293408 42.465911  -2.293408 42.465911  -2.293408 42.465911  -2.293408 42.465911  -2.293408 42.465911  -2.293408 42.465911  -2.293408 42.465911  -2.293408 42.465910  -2.293408 42.465910  -2.293408 42.465910  -2.293408 42.465910  -2.293408 42.465910  -2.293408 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465910  -2.293407 42.465909  -2.293407 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293406 42.465909  -2.293405 42.465909  -2.293405 42.465909  -2.293405 42.465909  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293405 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465908  -2.293404 42.465907  -2.293404 42.465907  -2.293404 42.465907  -2.293404 42.465907  -2.293404 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293403 42.465907  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293402 42.465906  -2.293401 42.465906  -2.293401 42.465906  -2.293401 42.465906  -2.293401 42.465906  -2.293401 42.465906  -2.293401 42.465906  -2.293401 42.465905  -2.293401 42.465905  -2.293401 42.465905  -2.293401 42.465905  -2.293401 42.465905  -2.293401 42.465905  -2.293401 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465905  -2.293400 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293399 42.465904  -2.293398 42.465904  -2.293398 42.465904  -2.293398 42.465904  -2.293398 42.465904  -2.293398 42.465904  -2.293398 42.465904  -2.293398 42.465903  -2.293398 42.465903  -2.293398 42.465903  -2.293398 42.465903  -2.293398 42.465903  -2.293398 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293397 42.465903  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293396 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465902  -2.293395 42.465901  -2.293395 42.465901  -2.293395 42.465901  -2.293395 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293394 42.465901  -2.293393 42.465901  -2.293393 42.465901  -2.293393 42.465901  -2.293393 42.465900  -2.293393 42.465900  -2.293393 42.465900  -2.293393 42.465900  -2.293393 42.465900  -2.293393 42.465900  -2.293393 42.465900  -2.293393 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293392 42.465900  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293391 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465899  -2.293390 42.465898  -2.293390 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293389 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465898  -2.293388 42.465897  -2.293388 42.465897  -2.293388 42.465897  -2.293388 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293387 42.465897  -2.293386 42.465897  -2.293386 42.465897  -2.293386 42.465897  -2.293386 42.465897  -2.293386 42.465897  -2.293386 42.465896  -2.293386 42.465896  -2.293386 42.465896  -2.293386 42.465896  -2.293386 42.465896  -2.293386 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293385 42.465896  -2.293384 42.465896  -2.293384 42.465896  -2.293384 42.465896  -2.293384 42.465896  -2.293384 42.465896  -2.293384 42.465895  -2.293384 42.465895  -2.293384 42.465895  -2.293384 42.465895  -2.293384 42.465895  -2.293384 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293383 42.465895  -2.293382 42.465895  -2.293382 42.465895  -2.293382 42.465895  -2.293382 42.465895  -2.293382 42.465895  -2.293382 42.465895  -2.293382 42.465894  -2.293382 42.465894  -2.293382 42.465894  -2.293382 42.465894  -2.293382 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293381 42.465894  -2.293380 42.465894  -2.293380 42.465894  -2.293380 42.465894  -2.293380 42.465894  -2.293380 42.465894  -2.293380 42.465894  -2.293380 42.465893  -2.293380 42.465893  -2.293380 42.465893  -2.293380 42.465893  -2.293380 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293379 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465893  -2.293378 42.465892  -2.293378 42.465892  -2.293378 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293377 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465892  -2.293376 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293375 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293374 42.465891  -2.293373 42.465891  -2.293373 42.465891  -2.293373 42.465891  -2.293373 42.465890  -2.293373 42.465890  -2.293373 42.465890  -2.293373 42.465890  -2.293373 42.465890  -2.293373 42.465890  -2.293373 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293372 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465890  -2.293371 42.465889  -2.293371 42.465889  -2.293371 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293370 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293369 42.465889  -2.293368 42.465889  -2.293368 42.465889  -2.293368 42.465889  -2.293368 42.465888  -2.293368 42.465888  -2.293368 42.465888  -2.293368 42.465888  -2.293368 42.465888  -2.293368 42.465888  -2.293368 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293367 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465888  -2.293366 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293365 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293364 42.465887  -2.293363 42.465887  -2.293363 42.465887  -2.293363 42.465887  -2.293363 42.465887  -2.293363 42.465887  -2.293363 42.465887  -2.293363 42.465887  -2.293363 42.465886  -2.293363 42.465886  -2.293363 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293362 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293361 42.465886  -2.293360 42.465886  -2.293360 42.465886  -2.293360 42.465886  -2.293360 42.465886  -2.293360 42.465886  -2.293360 42.465886  -2.293360 42.465886  -2.293360 42.465885  -2.293360 42.465885  -2.293360 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293359 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293358 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465885  -2.293357 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293356 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293355 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293354 42.465884  -2.293353 42.465884  -2.293353 42.465884  -2.293353 42.465883  -2.293353 42.465883  -2.293353 42.465883  -2.293353 42.465883  -2.293353 42.465883  -2.293353 42.465883  -2.293353 42.465883  -2.293353 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293352 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293351 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465883  -2.293350 42.465882  -2.293350 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293349 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293348 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293347 42.465882  -2.293346 42.465882  -2.293346 42.465882  -2.293346 42.465882  -2.293346 42.465882  -2.293346 42.465882  -2.293346 42.465882  -2.293346 42.465882  -2.293346 42.465881  -2.293346 42.465881  -2.293346 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293345 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293344 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293343 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293342 42.465881  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293341 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293340 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293339 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293338 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465880  -2.293337 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293336 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293335 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293334 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293333 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293332 42.465879  -2.293331 42.465879  -2.293331 42.465879  -2.293331 42.465879  -2.293331 42.465878  -2.293331 42.465878  -2.293331 42.465878  -2.293331 42.465878  -2.293331 42.465878  -2.293331 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293330 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293329 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293328 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293327 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293326 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293325 42.465878  -2.293324 42.465878  -2.293324 42.465878  -2.293324 42.465877  -2.293324 42.465877  -2.293324 42.465877  -2.293324 42.465877  -2.293324 42.465877  -2.293324 42.465877  -2.293324 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293323 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293322 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293321 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293320 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293319 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293318 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293317 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293316 42.465877  -2.293315 42.465877  -2.293315 42.465877  -2.293315 42.465877  -2.293315 42.465877  -2.293315 42.465877  -2.293315 42.465877  -2.293315 42.465876  -2.293315 42.465876  -2.293315 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293314 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293313 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293312 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293311 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293310 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293309 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293308 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293307 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293306 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293305 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293304 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293303 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293302 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293301 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293300 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293299 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293298 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293297 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293296 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293295 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293294 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293293 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293292 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293291 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293290 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293289 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293288 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293287 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293286 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293285 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293284 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293283 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293282 42.465876  -2.293281 42.465876  -2.293281 42.465877  -2.293281 42.465877  -2.293281 42.465877  -2.293281 42.465877  -2.293281 42.465877  -2.293281 42.465877  -2.293281 42.465877  -2.293281 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293280 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293279 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293278 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293277 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293276 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293275 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293274 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293273 42.465877  -2.293272 42.465877  -2.293272 42.465877  -2.293272 42.465877  -2.293272 42.465877  -2.293272 42.465877  -2.293272 42.465878  -2.293272 42.465878  -2.293272 42.465878  -2.293272 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293271 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293270 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293269 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293268 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293267 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293266 42.465878  -2.293265 42.465878  -2.293265 42.465878  -2.293265 42.465878  -2.293265 42.465878  -2.293265 42.465879  -2.293265 42.465879  -2.293265 42.465879  -2.293265 42.465879  -2.293265 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293264 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293263 42.465879  -2.293262 42.465879  -2.293262 42.465879  -2.293262 42.465879  -2.293213 42.465818  -2.293011 42.465887  -2.293161 42.466139  -2.293120 42.466154  -2.293070 42.466071  -2.292848 42.466147  -2.292941 42.466313  -2.292874 42.466333  -2.292905 42.466389  -2.293189 42.466297  -2.293195 42.466306  -2.293320 42.466268  -2.293324 42.466275  -2.293407 42.466250  -2.293402 42.466240  -2.293524 42.466202  -2.293515 42.466185  -2.293559 42.466171  -2.293483 42.466038  -2.293456 42.466040  -2.293444 42.466020  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45836,6 +48124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45856,6 +48145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45876,6 +48166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45896,6 +48187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45916,6 +48208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45936,6 +48229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45956,6 +48250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45976,6 +48271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -45996,6 +48292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46016,6 +48313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46036,6 +48334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46056,6 +48355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46076,6 +48376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46096,6 +48397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46116,6 +48418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46136,6 +48439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46156,6 +48460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46176,6 +48481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46196,6 +48502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46216,6 +48523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46236,6 +48544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46256,6 +48565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46276,6 +48586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46296,6 +48607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46316,6 +48628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46336,6 +48649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46356,6 +48670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46376,6 +48691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46396,6 +48712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46416,6 +48733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46436,6 +48754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46456,6 +48775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46476,6 +48796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46496,6 +48817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46516,6 +48838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46536,6 +48859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46556,6 +48880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46576,6 +48901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46596,6 +48922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46616,6 +48943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46636,6 +48964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46656,6 +48985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46676,6 +49006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46696,6 +49027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46716,6 +49048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46736,6 +49069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46756,6 +49090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46776,6 +49111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46796,6 +49132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46816,6 +49153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46836,6 +49174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46856,6 +49195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46876,6 +49216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46896,6 +49237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46916,6 +49258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46936,6 +49279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46956,6 +49300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46976,6 +49321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -46996,6 +49342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47016,6 +49363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47036,6 +49384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47056,6 +49405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47076,6 +49426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47096,6 +49447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47116,6 +49468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47136,6 +49489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47156,6 +49510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47176,6 +49531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47196,6 +49552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47216,6 +49573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47236,6 +49594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47256,6 +49615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47276,6 +49636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47296,6 +49657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47316,6 +49678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47336,6 +49699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47356,6 +49720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47376,6 +49741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47396,6 +49762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47416,6 +49783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47436,6 +49804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47456,6 +49825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47476,6 +49846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47496,6 +49867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47516,6 +49888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47536,6 +49909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47556,6 +49930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47576,6 +49951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47596,6 +49972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47616,6 +49993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47636,6 +50014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47656,6 +50035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47676,6 +50056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47696,6 +50077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47716,6 +50098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47736,6 +50119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47756,6 +50140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47776,6 +50161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47796,6 +50182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47816,6 +50203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47836,6 +50224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47856,6 +50245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47876,6 +50266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47896,6 +50287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47916,6 +50308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47936,6 +50329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47956,6 +50350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47976,6 +50371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47996,6 +50392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48016,6 +50413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48036,6 +50434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48056,6 +50455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48076,6 +50476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48096,6 +50497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48116,6 +50518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48136,6 +50539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48156,6 +50560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48176,6 +50581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48196,6 +50602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48216,6 +50623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48236,6 +50644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48256,6 +50665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48276,6 +50686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48296,6 +50707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48316,6 +50728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48336,6 +50749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48356,6 +50770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48376,6 +50791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48396,6 +50812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48416,6 +50833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48436,6 +50854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48456,6 +50875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48476,6 +50896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48496,6 +50917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48516,6 +50938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48536,6 +50959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48556,6 +50980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48576,6 +51001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48596,6 +51022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48616,6 +51043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48636,6 +51064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48656,6 +51085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48676,6 +51106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48696,6 +51127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48716,6 +51148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48736,6 +51169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48756,6 +51190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48776,6 +51211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48796,6 +51232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48816,6 +51253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48836,6 +51274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48856,6 +51295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48876,6 +51316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48896,6 +51337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48916,6 +51358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48936,6 +51379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48956,6 +51400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48976,6 +51421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -48996,6 +51442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49016,6 +51463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49036,6 +51484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49056,6 +51505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49076,6 +51526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49096,6 +51547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49116,6 +51568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49136,6 +51589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49156,6 +51610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49176,6 +51631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49196,6 +51652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49216,6 +51673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49236,6 +51694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49256,6 +51715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49276,6 +51736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49296,6 +51757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49316,6 +51778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49336,6 +51799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49356,6 +51820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49376,6 +51841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49396,6 +51862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49416,6 +51883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49436,6 +51904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49456,6 +51925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49476,6 +51946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49496,6 +51967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49516,6 +51988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49536,6 +52009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49556,6 +52030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49576,6 +52051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49596,6 +52072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49616,6 +52093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49636,6 +52114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49656,6 +52135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49676,6 +52156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49696,6 +52177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49716,6 +52198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49736,6 +52219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49756,6 +52240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49776,6 +52261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49796,6 +52282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49816,6 +52303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49836,6 +52324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49856,6 +52345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49876,6 +52366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49896,6 +52387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Martín de Berberana</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49916,6 +52408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

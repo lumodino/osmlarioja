@@ -69,6 +69,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Castañares de las Cuevas</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Viguera</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -191,6 +192,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Panzares</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Viguera</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -243,6 +245,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>El Puente (de Viguera)</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Viguera</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -554,6 +557,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Viguera</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Viguera</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
 </wfs:FeatureCollection>

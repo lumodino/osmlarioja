@@ -1518,6 +1518,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Haro</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Haro</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -1570,6 +1571,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>San Felices</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Haro</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
 </wfs:FeatureCollection>

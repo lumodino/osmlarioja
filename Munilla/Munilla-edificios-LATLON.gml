@@ -29,6 +29,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -49,6 +50,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -69,6 +71,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -89,6 +92,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -109,6 +113,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -129,6 +134,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -149,6 +155,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -169,6 +176,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -189,6 +197,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -209,6 +218,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -229,6 +239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -249,6 +260,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -269,6 +281,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -289,6 +302,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -309,6 +323,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -329,6 +344,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -349,6 +365,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -369,6 +386,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -389,6 +407,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -409,6 +428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -429,6 +449,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -449,6 +470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -469,6 +491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -489,6 +512,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -509,6 +533,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -529,6 +554,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -549,6 +575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -569,6 +596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -589,6 +617,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -609,6 +638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -629,6 +659,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -649,6 +680,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -669,6 +701,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -689,6 +722,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -709,6 +743,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -729,6 +764,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -749,6 +785,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -769,6 +806,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -789,6 +827,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -809,6 +848,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -829,6 +869,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -849,6 +890,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -869,6 +911,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -889,6 +932,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Monjía</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -909,6 +953,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Monjía</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -929,6 +974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -949,6 +995,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -969,6 +1016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -989,6 +1037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1009,6 +1058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1029,6 +1079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1049,6 +1100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1069,6 +1121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1089,6 +1142,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1109,6 +1163,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1129,6 +1184,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1149,6 +1205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1169,6 +1226,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1189,6 +1247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1209,6 +1268,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1229,6 +1289,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1249,6 +1310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1269,6 +1331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1289,6 +1352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1309,6 +1373,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1329,6 +1394,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1349,6 +1415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1369,6 +1436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1389,6 +1457,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1409,6 +1478,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1429,6 +1499,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1449,6 +1520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1469,6 +1541,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1489,6 +1562,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1509,6 +1583,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1529,6 +1604,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1549,6 +1625,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1569,6 +1646,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1589,6 +1667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1609,6 +1688,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1629,6 +1709,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1649,6 +1730,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1669,6 +1751,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1689,6 +1772,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1709,6 +1793,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1729,6 +1814,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1749,6 +1835,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1769,6 +1856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1789,6 +1877,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1809,6 +1898,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1829,6 +1919,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1849,6 +1940,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1869,6 +1961,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1889,6 +1982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1909,6 +2003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1929,6 +2024,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1949,6 +2045,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1969,6 +2066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1989,6 +2087,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2009,6 +2108,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2029,6 +2129,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2049,6 +2150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2069,6 +2171,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2089,6 +2192,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2109,6 +2213,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2129,6 +2234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2149,6 +2255,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2169,6 +2276,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2189,6 +2297,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2209,6 +2318,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2229,6 +2339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2249,6 +2360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2269,6 +2381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2289,6 +2402,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2309,6 +2423,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2329,6 +2444,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2349,6 +2465,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2369,6 +2486,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Monjía</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2389,6 +2507,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2409,6 +2528,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2429,6 +2549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2449,6 +2570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2469,6 +2591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2489,6 +2612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2509,6 +2633,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2529,6 +2654,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2549,6 +2675,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2569,6 +2696,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2589,6 +2717,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2609,6 +2738,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2629,6 +2759,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2649,6 +2780,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2669,6 +2801,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2689,6 +2822,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2709,6 +2843,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2729,6 +2864,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2749,6 +2885,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2769,6 +2906,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2789,6 +2927,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2809,6 +2948,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2829,6 +2969,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2849,6 +2990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2869,6 +3011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2889,6 +3032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2909,6 +3053,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2929,6 +3074,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2949,6 +3095,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2969,6 +3116,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2989,6 +3137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3009,6 +3158,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3029,6 +3179,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3049,6 +3200,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3069,6 +3221,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3089,6 +3242,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3109,6 +3263,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3129,6 +3284,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3149,6 +3305,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3169,6 +3326,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3189,6 +3347,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3209,6 +3368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3229,6 +3389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3249,6 +3410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3269,6 +3431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3289,6 +3452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3309,6 +3473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3329,6 +3494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3349,6 +3515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3369,6 +3536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3389,6 +3557,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3409,6 +3578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3429,6 +3599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3449,6 +3620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3469,6 +3641,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3489,6 +3662,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3509,6 +3683,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3529,6 +3704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3549,6 +3725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3569,6 +3746,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3589,6 +3767,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3609,6 +3788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3629,6 +3809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3649,6 +3830,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3669,6 +3851,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3689,6 +3872,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3709,6 +3893,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3729,6 +3914,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3749,6 +3935,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3769,6 +3956,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3789,6 +3977,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3809,6 +3998,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3829,6 +4019,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3849,6 +4040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3869,6 +4061,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3889,6 +4082,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3909,6 +4103,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3929,6 +4124,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3949,6 +4145,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3969,6 +4166,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3989,6 +4187,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4009,6 +4208,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4029,6 +4229,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4049,6 +4250,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4069,6 +4271,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4089,6 +4292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4109,6 +4313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4129,6 +4334,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4149,6 +4355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4169,6 +4376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4189,6 +4397,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4209,6 +4418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4229,6 +4439,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4249,6 +4460,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4269,6 +4481,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4289,6 +4502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4309,6 +4523,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4329,6 +4544,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4349,6 +4565,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4369,6 +4586,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4389,6 +4607,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4409,6 +4628,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4429,6 +4649,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4449,6 +4670,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4469,6 +4691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4489,6 +4712,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4509,6 +4733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4529,6 +4754,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4549,6 +4775,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4569,6 +4796,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4589,6 +4817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4609,6 +4838,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4629,6 +4859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4649,6 +4880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4669,6 +4901,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4689,6 +4922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4709,6 +4943,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4729,6 +4964,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4749,6 +4985,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4769,6 +5006,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4789,6 +5027,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4809,6 +5048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4829,6 +5069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4849,6 +5090,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4869,6 +5111,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4889,6 +5132,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4909,6 +5153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4929,6 +5174,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4949,6 +5195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4969,6 +5216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4989,6 +5237,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5009,6 +5258,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5029,6 +5279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5049,6 +5300,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5069,6 +5321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5089,6 +5342,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5109,6 +5363,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Antoñanzas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5129,6 +5384,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Monjía</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5149,6 +5405,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Monjía</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5169,6 +5426,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5189,6 +5447,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5209,6 +5468,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5229,6 +5489,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5249,6 +5510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5269,6 +5531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5289,6 +5552,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5309,6 +5573,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5329,6 +5594,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5349,6 +5615,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5369,6 +5636,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5389,6 +5657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5409,6 +5678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5429,6 +5699,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5449,6 +5720,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5469,6 +5741,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5489,6 +5762,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5509,6 +5783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5529,6 +5804,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5549,6 +5825,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5569,6 +5846,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5589,6 +5867,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5609,6 +5888,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5629,6 +5909,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5649,6 +5930,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5669,6 +5951,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5689,6 +5972,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5709,6 +5993,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5729,6 +6014,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5749,6 +6035,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5769,6 +6056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5789,6 +6077,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5809,6 +6098,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5829,6 +6119,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5849,6 +6140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5869,6 +6161,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5889,6 +6182,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5909,6 +6203,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5929,6 +6224,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5949,6 +6245,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5969,6 +6266,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5989,6 +6287,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6009,6 +6308,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6029,6 +6329,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6049,6 +6350,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6069,6 +6371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6089,6 +6392,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6109,6 +6413,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6129,6 +6434,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6149,6 +6455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6169,6 +6476,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6189,6 +6497,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6209,6 +6518,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6229,6 +6539,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6249,6 +6560,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6269,6 +6581,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6289,6 +6602,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6309,6 +6623,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6329,6 +6644,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6349,6 +6665,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6369,6 +6686,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6389,6 +6707,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6409,6 +6728,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6429,6 +6749,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6449,6 +6770,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6469,6 +6791,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6489,6 +6812,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6509,6 +6833,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6529,6 +6854,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6549,6 +6875,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6569,6 +6896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6589,6 +6917,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6609,6 +6938,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6629,6 +6959,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6649,6 +6980,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6669,6 +7001,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6689,6 +7022,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6709,6 +7043,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6729,6 +7064,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6749,6 +7085,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6769,6 +7106,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6789,6 +7127,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6809,6 +7148,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6829,6 +7169,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6849,6 +7190,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6869,6 +7211,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6889,6 +7232,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6909,6 +7253,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6929,6 +7274,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6949,6 +7295,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6969,6 +7316,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6989,6 +7337,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7009,6 +7358,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7029,6 +7379,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7049,6 +7400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7069,6 +7421,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7089,6 +7442,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7109,6 +7463,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7129,6 +7484,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7149,6 +7505,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7169,6 +7526,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7189,6 +7547,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7209,6 +7568,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7229,6 +7589,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7249,6 +7610,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7269,6 +7631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7289,6 +7652,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7309,6 +7673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7329,6 +7694,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7349,6 +7715,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7369,6 +7736,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7389,6 +7757,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7409,6 +7778,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7429,6 +7799,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7449,6 +7820,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7469,6 +7841,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7489,6 +7862,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7509,6 +7883,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7529,6 +7904,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7549,6 +7925,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7569,6 +7946,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7589,6 +7967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7609,6 +7988,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7629,6 +8009,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7649,6 +8030,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7669,6 +8051,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7689,6 +8072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7709,6 +8093,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7729,6 +8114,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7749,6 +8135,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7769,6 +8156,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7789,6 +8177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7809,6 +8198,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7829,6 +8219,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7849,6 +8240,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7869,6 +8261,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7889,6 +8282,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7909,6 +8303,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7929,6 +8324,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7949,6 +8345,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7969,6 +8366,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7989,6 +8387,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8009,6 +8408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8029,6 +8429,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8049,6 +8450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8069,6 +8471,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8089,6 +8492,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8109,6 +8513,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8129,6 +8534,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8149,6 +8555,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8169,6 +8576,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8189,6 +8597,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8209,6 +8618,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8229,6 +8639,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8249,6 +8660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8269,6 +8681,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8289,6 +8702,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8309,6 +8723,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8329,6 +8744,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8349,6 +8765,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8369,6 +8786,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8389,6 +8807,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8409,6 +8828,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8429,6 +8849,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8449,6 +8870,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8469,6 +8891,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8489,6 +8912,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8509,6 +8933,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8529,6 +8954,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8549,6 +8975,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8569,6 +8996,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8589,6 +9017,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8609,6 +9038,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8629,6 +9059,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8649,6 +9080,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8669,6 +9101,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8689,6 +9122,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8709,6 +9143,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8729,6 +9164,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8749,6 +9185,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8769,6 +9206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8789,6 +9227,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8809,6 +9248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8829,6 +9269,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8849,6 +9290,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8869,6 +9311,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8889,6 +9332,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8909,6 +9353,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8929,6 +9374,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8949,6 +9395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8969,6 +9416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8989,6 +9437,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9009,6 +9458,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9029,6 +9479,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9049,6 +9500,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9069,6 +9521,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9089,6 +9542,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9109,6 +9563,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9129,6 +9584,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9149,6 +9605,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9169,6 +9626,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9189,6 +9647,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9209,6 +9668,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9229,6 +9689,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9249,6 +9710,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9269,6 +9731,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9289,6 +9752,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9309,6 +9773,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9329,6 +9794,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9349,6 +9815,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9369,6 +9836,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9389,6 +9857,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9409,6 +9878,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9429,6 +9899,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9449,6 +9920,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9469,6 +9941,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9489,6 +9962,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9509,6 +9983,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9529,6 +10004,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9549,6 +10025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9569,6 +10046,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9589,6 +10067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9609,6 +10088,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9629,6 +10109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9649,6 +10130,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9669,6 +10151,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9689,6 +10172,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9709,6 +10193,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9729,6 +10214,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9749,6 +10235,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9769,6 +10256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9789,6 +10277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9809,6 +10298,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9829,6 +10319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9849,6 +10340,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9869,6 +10361,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9889,6 +10382,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9909,6 +10403,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9929,6 +10424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9949,6 +10445,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9969,6 +10466,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9989,6 +10487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10009,6 +10508,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10029,6 +10529,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10049,6 +10550,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10069,6 +10571,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10089,6 +10592,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10109,6 +10613,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10129,6 +10634,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10149,6 +10655,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10169,6 +10676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10189,6 +10697,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10209,6 +10718,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10229,6 +10739,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10249,6 +10760,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10269,6 +10781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10289,6 +10802,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10309,6 +10823,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10329,6 +10844,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10349,6 +10865,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribalmaguillo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10369,6 +10886,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10389,6 +10907,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10409,6 +10928,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10429,6 +10949,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10449,6 +10970,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10469,6 +10991,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10489,6 +11012,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10509,6 +11033,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>La Santa</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10529,6 +11054,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10549,6 +11075,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10569,6 +11096,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10589,6 +11117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10609,6 +11138,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10629,6 +11159,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10649,6 +11180,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10669,6 +11201,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10689,6 +11222,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10709,6 +11243,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10729,6 +11264,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10749,6 +11285,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10769,6 +11306,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10789,6 +11327,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10809,6 +11348,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10829,6 +11369,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10849,6 +11390,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10869,6 +11411,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10889,6 +11432,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10909,6 +11453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10929,6 +11474,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10949,6 +11495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10969,6 +11516,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10989,6 +11537,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11009,6 +11558,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11029,6 +11579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11049,6 +11600,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11069,6 +11621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11089,6 +11642,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11109,6 +11663,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11129,6 +11684,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11149,6 +11705,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11169,6 +11726,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11189,6 +11747,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11209,6 +11768,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Munilla</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11229,6 +11789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11249,6 +11810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11269,6 +11831,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11289,6 +11852,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11309,6 +11873,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11329,6 +11894,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11349,6 +11915,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11369,6 +11936,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11389,6 +11957,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11409,6 +11978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11429,6 +11999,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11449,6 +12020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11469,6 +12041,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11489,6 +12062,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11509,6 +12083,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11529,6 +12104,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11549,6 +12125,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11569,6 +12146,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11589,6 +12167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11609,6 +12188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11629,6 +12209,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11649,6 +12230,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11669,6 +12251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11689,6 +12272,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11709,6 +12293,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11729,6 +12314,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11749,6 +12335,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11769,6 +12356,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11789,6 +12377,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11809,6 +12398,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11829,6 +12419,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11849,6 +12440,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peroblasco</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Munilla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

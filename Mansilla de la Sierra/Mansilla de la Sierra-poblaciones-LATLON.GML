@@ -132,6 +132,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Mansilla de la Sierra</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -240,6 +241,7 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Tabladas</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Mansilla de la Sierra</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
     <gml:featureMember>
@@ -260,6 +262,7 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO></ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Mansilla de la Sierra</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
 </wfs:FeatureCollection>
