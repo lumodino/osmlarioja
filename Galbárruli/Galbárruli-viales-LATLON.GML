@@ -1388,8 +1388,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Galbárruli</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Galbárruli</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.065.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606500021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
