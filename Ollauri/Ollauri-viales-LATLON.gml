@@ -1428,7 +1428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Miralobueno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.111.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.111.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611100036</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1448,7 +1448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Miralobueno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.111.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.111.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611100036</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1468,7 +1468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Miralobueno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.111.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.111.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611100036</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
