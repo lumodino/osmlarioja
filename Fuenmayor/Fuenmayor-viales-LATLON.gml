@@ -2882,7 +2882,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.559975 42.467693  -2.559983 42.467580  -2.560008 42.467504  -2.560078 42.467337  -2.560166 42.467045  </gml:posList>
+            <gml:posList srsDimension="2">-2.559975 42.467693  -2.559983 42.467580  -2.560047 42.467470  -2.560100 42.467336  -2.560166 42.467045  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Entrecostanillas</ms:NOMBRE_COMPLETO_VIAL>
@@ -2942,7 +2942,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.560325 42.467730  -2.561013 42.467689  -2.561357 42.467631  </gml:posList>
+            <gml:posList srsDimension="2">-2.560325 42.467730  -2.560691 42.467728  -2.561013 42.467689  -2.561357 42.467631  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Petra Fernández de Bobadilla</ms:NOMBRE_COMPLETO_VIAL>
@@ -3022,7 +3022,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.560662 42.466984  -2.560563 42.467217  -2.560416 42.467460  -2.560357 42.467595  -2.560325 42.467730  </gml:posList>
+            <gml:posList srsDimension="2">-2.560662 42.466984  -2.560598 42.467203  -2.560502 42.467359  -2.560416 42.467460  -2.560357 42.467595  -2.560325 42.467730  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Herrerías</ms:NOMBRE_COMPLETO_VIAL>
