@@ -1756,13 +1756,13 @@
       <ms:viales gml:id="viales.1509398">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.898784 42.573868 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.898828 42.573878 </gml:lowerCorner>
         		<gml:upperCorner>-2.898645 42.574331 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.898645 42.574331  -2.898724 42.574116  -2.898736 42.574079  -2.898751 42.574017  -2.898777 42.573896  -2.898784 42.573868  </gml:posList>
+            <gml:posList srsDimension="2">-2.898645 42.574331  -2.898724 42.574116  -2.898782 42.573980  -2.898828 42.573878  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
@@ -1837,12 +1837,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.898788 42.573328 </gml:lowerCorner>
-        		<gml:upperCorner>-2.898729 42.573868 </gml:upperCorner>
+        		<gml:upperCorner>-2.898718 42.573854 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.898784 42.573868  -2.898729 42.573782  -2.898788 42.573328  </gml:posList>
+            <gml:posList srsDimension="2">-2.898718 42.573854  -2.898729 42.573782  -2.898788 42.573328  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Príncipe de Asturias</ms:NOMBRE_COMPLETO_VIAL>
@@ -1873,36 +1873,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1509405">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.898784 42.573721 </gml:lowerCorner>
-        		<gml:upperCorner>-2.898062 42.573868 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.898784 42.573868  -2.898679 42.573846  -2.898665 42.573843  -2.898651 42.573840  -2.898641 42.573838  -2.898571 42.573823  -2.898461 42.573801  -2.898297 42.573767  -2.898269 42.573762  -2.898239 42.573755  -2.898166 42.573741  -2.898152 42.573738  -2.898062 42.573721  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida Príncipe de Asturias</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Anguciana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Anguciana</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.013.33</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601300052</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1509437">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.900994 42.573868 </gml:lowerCorner>
-        		<gml:upperCorner>-2.898784 42.574343 </gml:upperCorner>
+        		<gml:lowerCorner>-2.900994 42.573878 </gml:lowerCorner>
+        		<gml:upperCorner>-2.898828 42.574343 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.900994 42.574343  -2.900940 42.574332  -2.900935 42.574331  -2.900918 42.574328  -2.900906 42.574325  -2.900859 42.574315  -2.900837 42.574311  -2.900816 42.574306  -2.900785 42.574300  -2.900723 42.574287  -2.900695 42.574281  -2.900637 42.574269  -2.900599 42.574261  -2.900478 42.574236  -2.900436 42.574228  -2.900430 42.574226  -2.900422 42.574225  -2.900382 42.574217  -2.900273 42.574194  -2.900232 42.574186  -2.900159 42.574171  -2.900093 42.574157  -2.900089 42.574156  -2.900076 42.574153  -2.899976 42.574131  -2.899862 42.574106  -2.899859 42.574106  -2.899853 42.574104  -2.899809 42.574094  -2.899738 42.574078  -2.899677 42.574064  -2.899543 42.574034  -2.899319 42.573983  -2.899314 42.573982  -2.899295 42.573978  -2.899233 42.573964  -2.899077 42.573931  -2.898949 42.573904  -2.898931 42.573900  -2.898851 42.573883  -2.898849 42.573882  -2.898784 42.573868  </gml:posList>
+            <gml:posList srsDimension="2">-2.900994 42.574343  -2.900940 42.574332  -2.900935 42.574331  -2.900918 42.574328  -2.900906 42.574325  -2.900859 42.574315  -2.900837 42.574311  -2.900816 42.574306  -2.900785 42.574300  -2.900723 42.574287  -2.900695 42.574281  -2.900637 42.574269  -2.900599 42.574261  -2.900478 42.574236  -2.900436 42.574228  -2.900430 42.574226  -2.900422 42.574225  -2.900382 42.574217  -2.900273 42.574194  -2.900232 42.574186  -2.900159 42.574171  -2.900093 42.574157  -2.900089 42.574156  -2.900076 42.574153  -2.899976 42.574131  -2.899862 42.574106  -2.899859 42.574106  -2.899853 42.574104  -2.899809 42.574094  -2.899738 42.574078  -2.899677 42.574064  -2.899543 42.574034  -2.899319 42.573983  -2.899314 42.573982  -2.899295 42.573978  -2.899233 42.573964  -2.899077 42.573931  -2.898949 42.573904  -2.898931 42.573900  -2.898851 42.573883  -2.898849 42.573882  -2.898828 42.573878  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Príncipe de Asturias</ms:NOMBRE_COMPLETO_VIAL>
@@ -1943,6 +1923,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.902228 42.574557  -2.902187 42.574557  -2.902164 42.574557  -2.902126 42.574556  -2.902108 42.574555  -2.902069 42.574554  -2.902062 42.574553  -2.902055 42.574553  -2.902033 42.574550  -2.902002 42.574547  -2.901981 42.574545  -2.901974 42.574544  -2.901967 42.574543  -2.901923 42.574535  -2.901888 42.574528  -2.901877 42.574526  -2.901866 42.574524  -2.901838 42.574518  -2.901825 42.574516  -2.901795 42.574510  -2.901775 42.574505  -2.901724 42.574495  -2.901668 42.574484  -2.901590 42.574468  -2.901483 42.574446  -2.901461 42.574442  -2.901450 42.574439  -2.901380 42.574425  -2.901332 42.574414  -2.901294 42.574406  -2.901251 42.574397  -2.901234 42.574394  -2.901206 42.574388  -2.901188 42.574384  -2.901178 42.574382  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Príncipe de Asturias</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguciana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguciana</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.013.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601300052</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4134250">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.898828 42.573854 </gml:lowerCorner>
+        		<gml:upperCorner>-2.898718 42.573878 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.898828 42.573878  -2.898718 42.573854  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Príncipe de Asturias</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguciana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguciana</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.013.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601300052</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4134251">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.898718 42.573721 </gml:lowerCorner>
+        		<gml:upperCorner>-2.898062 42.573854 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.898718 42.573854  -2.898679 42.573846  -2.898665 42.573843  -2.898651 42.573840  -2.898641 42.573838  -2.898571 42.573823  -2.898461 42.573801  -2.898297 42.573767  -2.898269 42.573762  -2.898239 42.573755  -2.898166 42.573741  -2.898152 42.573738  -2.898062 42.573721  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Príncipe de Asturias</ms:NOMBRE_COMPLETO_VIAL>
