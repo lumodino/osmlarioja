@@ -2968,7 +2968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras Altas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Torrecilla en Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Torrecilla en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.151.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.151.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615100076</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

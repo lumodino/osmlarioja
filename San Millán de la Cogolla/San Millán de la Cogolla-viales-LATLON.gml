@@ -908,7 +908,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Prestiño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.130.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613000037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -928,7 +928,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Prestiño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.130.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613000037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -948,7 +948,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Prestiño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.130.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613000037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -968,7 +968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Prestiño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.130.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613000037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -988,7 +988,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Prestiño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.130.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613000037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1602,7 +1602,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.858557 42.331086  -2.858805 42.330888  -2.859149 42.330712  </gml:posList>
+            <gml:posList srsDimension="2">-2.858557 42.331086  -2.858683 42.330972  -2.858824 42.330864  -2.859008 42.330765  -2.859149 42.330712  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino C</ms:NOMBRE_COMPLETO_VIAL>
