@@ -2885,7 +2885,7 @@
             <gml:posList srsDimension="2">-2.628799 42.254238  -2.629048 42.254199  -2.629187 42.254134  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Las Vegasl</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza las Vegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Torrecilla en Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Torrecilla en Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.151.34</ms:COD_CATASTRAL_VIAL>
@@ -2905,7 +2905,7 @@
             <gml:posList srsDimension="2">-2.629187 42.254134  -2.629250 42.254044  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Las Vegasl</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza las Vegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Torrecilla en Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Torrecilla en Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.151.34</ms:COD_CATASTRAL_VIAL>
@@ -2925,7 +2925,7 @@
             <gml:posList srsDimension="2">-2.629753 42.253997  -2.629674 42.254007  -2.629600 42.254013  -2.629565 42.254014  -2.629492 42.253971  -2.629431 42.254003  -2.629380 42.254015  -2.629314 42.254015  -2.629250 42.254044  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Las Vegasl</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza las Vegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Torrecilla en Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Torrecilla en Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.151.34</ms:COD_CATASTRAL_VIAL>
@@ -2945,7 +2945,7 @@
             <gml:posList srsDimension="2">-2.629250 42.254044  -2.629281 42.253903  -2.629340 42.253786  -2.629314 42.253768  -2.629247 42.253762  -2.629211 42.253762  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Las Vegasl</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza las Vegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Torrecilla en Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Torrecilla en Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.151.34</ms:COD_CATASTRAL_VIAL>

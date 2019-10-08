@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.722007 42.298938 </gml:lowerCorner>
-      		<gml:upperCorner>-2.715333 42.302723 </gml:upperCorner>
+      		<gml:upperCorner>-2.714616 42.302723 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -306,6 +306,26 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Pedroso a Torrecilla</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pedroso</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4134908">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.715139 42.299618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.714616 42.300699 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.715047 42.300699  -2.714979 42.300645  -2.714967 42.300570  -2.714993 42.300407  -2.715036 42.300263  -2.715087 42.300165  -2.715130 42.300097  -2.715139 42.299980  -2.715131 42.299893  -2.715097 42.299839  -2.714962 42.299754  -2.714709 42.299672  -2.714616 42.299618  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de Vadillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Pedroso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1637,12 +1657,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.716075 42.300120 </gml:lowerCorner>
-        		<gml:upperCorner>-2.715949 42.300127 </gml:upperCorner>
+        		<gml:upperCorner>-2.715047 42.300699 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.716075 42.300120  -2.715949 42.300127  </gml:posList>
+            <gml:posList srsDimension="2">-2.716075 42.300120  -2.715920 42.300142  -2.715772 42.300183  -2.715604 42.300303  -2.715344 42.300458  -2.715119 42.300686  -2.715047 42.300699  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
