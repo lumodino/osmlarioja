@@ -273,16 +273,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1539237">
+      <ms:viales gml:id="viales.4135269">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.720727 42.299191 </gml:lowerCorner>
-        		<gml:upperCorner>-2.718898 42.299310 </gml:upperCorner>
+        		<gml:upperCorner>-2.719137 42.299310 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.720727 42.299310  -2.720367 42.299279  -2.719915 42.299191  -2.719244 42.299195  -2.718898 42.299195  </gml:posList>
+            <gml:posList srsDimension="2">-2.720727 42.299310  -2.720367 42.299279  -2.719915 42.299191  -2.719244 42.299195  -2.719137 42.299195  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Santana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pedroso</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.114.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4135270">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.719137 42.299195 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718898 42.299195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.719137 42.299195  -2.718898 42.299195  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Santana</ms:NOMBRE_COMPLETO_VIAL>
