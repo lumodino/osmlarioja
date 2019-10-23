@@ -3604,27 +3604,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4112855">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.719728 42.300433 </gml:lowerCorner>
-        		<gml:upperCorner>-2.719612 42.300537 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.719612 42.300530  -2.719642 42.300537  -2.719672 42.300480  -2.719708 42.300492  -2.719714 42.300479  -2.719728 42.300451  -2.719727 42.300451  -2.719653 42.300433  -2.719612 42.300530  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Pedroso</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Pedroso</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4112856">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4612,27 +4591,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.720049 42.300250  -2.720059 42.300239  -2.719985 42.300222  -2.719969 42.300240  -2.720020 42.300273  -2.720049 42.300250  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Pedroso</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Pedroso</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4112903">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.719708 42.300480 </gml:lowerCorner>
-        		<gml:upperCorner>-2.719642 42.300547 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.719642 42.300537  -2.719679 42.300547  -2.719703 42.300501  -2.719707 42.300494  -2.719708 42.300492  -2.719672 42.300480  -2.719642 42.300537  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6229,6 +6187,48 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.719127 42.300546  -2.719123 42.300561  -2.719183 42.300578  -2.719205 42.300539  -2.719133 42.300515  -2.719127 42.300546  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Pedroso</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pedroso</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4136554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.719690 42.300433 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719612 42.300537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.719672 42.300480  -2.719682 42.300459  -2.719690 42.300442  -2.719653 42.300433  -2.719612 42.300530  -2.719642 42.300537  -2.719672 42.300480  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Pedroso</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pedroso</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4136555">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.719728 42.300442 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719642 42.300547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.719708 42.300492  -2.719714 42.300479  -2.719728 42.300451  -2.719727 42.300451  -2.719690 42.300442  -2.719682 42.300459  -2.719672 42.300480  -2.719642 42.300537  -2.719679 42.300547  -2.719703 42.300501  -2.719707 42.300494  -2.719708 42.300492  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
