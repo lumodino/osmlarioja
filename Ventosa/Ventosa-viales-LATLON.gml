@@ -153,56 +153,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1548987">
+      <ms:viales gml:id="viales.4136650">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.628277 42.402371 </gml:lowerCorner>
-        		<gml:upperCorner>-2.627215 42.402970 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.628277 42.402371  -2.627516 42.402618  -2.627414 42.402667  -2.627291 42.402747  -2.627215 42.402970  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Coloma</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ventosa</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ventosa</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.163.14</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616300023</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1548993">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.627215 42.402556 </gml:lowerCorner>
-        		<gml:upperCorner>-2.626920 42.402970 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.627215 42.402970  -2.626920 42.402556  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Coloma</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ventosa</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ventosa</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.163.14</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616300023</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815992">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.627215 42.402970 </gml:lowerCorner>
         		<gml:upperCorner>-2.626886 42.403566 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.627215 42.402970  -2.627197 42.403175  -2.627155 42.403242  -2.626886 42.403566  </gml:posList>
+            <gml:posList srsDimension="2">-2.628277 42.402371  -2.627516 42.402618  -2.627414 42.402667  -2.627291 42.402747  -2.627215 42.402970  -2.627197 42.403175  -2.627155 42.403242  -2.626886 42.403566  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Coloma</ms:NOMBRE_COMPLETO_VIAL>
