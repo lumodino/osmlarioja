@@ -1037,7 +1037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos o La Madrid</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1058,7 +1058,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos o La Madrid</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1079,7 +1079,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos o La Madrid</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1100,7 +1100,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos o La Madrid</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1121,7 +1121,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos o La Madrid</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Madrid de los Trillos</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
