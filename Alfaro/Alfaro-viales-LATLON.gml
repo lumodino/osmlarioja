@@ -8473,26 +8473,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1510915">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.744861 42.176956 </gml:lowerCorner>
-        		<gml:upperCorner>-1.744587 42.177136 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.744587 42.176956  -1.744628 42.177009  -1.744691 42.177035  -1.744803 42.177065  -1.744861 42.177136  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuevas del Castillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.39</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100043</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1510973">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13590,6 +13570,26 @@
         <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.011.185</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601100565</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1510915">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.744861 42.176956 </gml:lowerCorner>
+        		<gml:upperCorner>-1.744587 42.177136 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.744587 42.176956  -1.744628 42.177009  -1.744691 42.177035  -1.744803 42.177065  -1.744861 42.177136  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuevas del Jardín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.42</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100622</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
