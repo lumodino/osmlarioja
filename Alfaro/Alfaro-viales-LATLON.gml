@@ -1133,26 +1133,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511227">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749601 42.180041 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748958 42.181343 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.748958 42.180041  -1.749006 42.180410  -1.749098 42.180724  -1.749200 42.180950  -1.749333 42.181138  -1.749443 42.181238  -1.749601 42.181343  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuartel Viejo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.135</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100563</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1511231">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1163,6 +1143,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.748958 42.180041  -1.749012 42.180045  -1.749048 42.180055  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Sardina</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.79</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100576</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511227">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749601 42.180041 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748958 42.181343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748958 42.180041  -1.749006 42.180410  -1.749098 42.180724  -1.749200 42.180950  -1.749333 42.181138  -1.749443 42.181238  -1.749601 42.181343  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cuartel Viejo</ms:NOMBRE_COMPLETO_VIAL>
