@@ -1822,7 +1822,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.179860 42.188282  -2.179761 42.188237  -2.179243 42.187865  -2.179161 42.187841  -2.178727 42.187776  -2.178683 42.187761  </gml:posList>
+            <gml:posList srsDimension="2">-2.179860 42.188282  -2.179701 42.188201  -2.179198 42.187841  -2.178970 42.187802  -2.178727 42.187776  -2.178683 42.187761  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Frontón</ms:NOMBRE_COMPLETO_VIAL>
@@ -2448,7 +2448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Arnedillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Préjano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Préjano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.119.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611900023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2468,7 +2468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Arnedillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Préjano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Préjano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.119.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611900023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2488,7 +2488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Arnedillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Préjano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Préjano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.119.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611900023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
