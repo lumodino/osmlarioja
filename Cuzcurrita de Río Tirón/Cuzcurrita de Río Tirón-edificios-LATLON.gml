@@ -1399,27 +1399,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4014919">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.963950 42.542992 </gml:lowerCorner>
-        		<gml:upperCorner>-2.963605 42.543278 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.963874 42.543278  -2.963950 42.543233  -2.963917 42.543203  -2.963936 42.543192  -2.963901 42.543160  -2.963891 42.543166  -2.963865 42.543142  -2.963875 42.543136  -2.963840 42.543104  -2.963830 42.543111  -2.963803 42.543086  -2.963814 42.543079  -2.963779 42.543048  -2.963769 42.543054  -2.963743 42.543030  -2.963753 42.543023  -2.963719 42.542992  -2.963709 42.542998  -2.963624 42.543047  -2.963605 42.543058  -2.963628 42.543080  -2.963647 42.543069  -2.963685 42.543103  -2.963665 42.543114  -2.963689 42.543137  -2.963709 42.543126  -2.963745 42.543160  -2.963726 42.543171  -2.963749 42.543193  -2.963769 42.543181  -2.963806 42.543216  -2.963786 42.543227  -2.963810 42.543249  -2.963830 42.543238  -2.963874 42.543278  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4014920">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2083,27 +2062,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.962295 42.543058  -2.962239 42.542960  -2.962139 42.542991  -2.962179 42.543061  -2.962134 42.543075  -2.962150 42.543102  -2.962295 42.543058  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4014952">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.963709 42.542825 </gml:lowerCorner>
-        		<gml:upperCorner>-2.963424 42.543047 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.963624 42.543047  -2.963709 42.542998  -2.963682 42.542973  -2.963692 42.542967  -2.963659 42.542936  -2.963649 42.542942  -2.963622 42.542918  -2.963633 42.542911  -2.963600 42.542881  -2.963590 42.542887  -2.963562 42.542861  -2.963572 42.542855  -2.963539 42.542825  -2.963502 42.542847  -2.963499 42.542844  -2.963443 42.542879  -2.963424 42.542891  -2.963447 42.542912  -2.963465 42.542901  -2.963502 42.542934  -2.963483 42.542945  -2.963507 42.542968  -2.963526 42.542957  -2.963563 42.542991  -2.963544 42.543002  -2.963568 42.543024  -2.963587 42.543013  -2.963624 42.543047  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10146,7 +10104,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.963071 42.543254  -2.963097 42.543278  -2.963182 42.543228  -2.963182 42.543227  -2.963156 42.543205  -2.963105 42.543158  -2.962981 42.543230  -2.963005 42.543252  -2.963044 42.543229  -2.963071 42.543254  </gml:posList>
+                <gml:posList srsDimension="2">-2.963097 42.543278  -2.963182 42.543228  -2.963182 42.543227  -2.963156 42.543205  -2.963105 42.543158  -2.962981 42.543230  -2.963005 42.543252  -2.963044 42.543229  -2.963097 42.543278  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11574,7 +11532,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.963435 42.542628  -2.963396 42.542626  -2.963396 42.542618  -2.963353 42.542616  -2.963352 42.542625  -2.963307 42.542622  -2.963305 42.542661  -2.963333 42.542662  -2.963331 42.542681  -2.963360 42.542682  -2.963359 42.542691  -2.963392 42.542693  -2.963393 42.542674  -2.963430 42.542676  -2.963435 42.542628  </gml:posList>
+                <gml:posList srsDimension="2">-2.963435 42.542628  -2.963396 42.542626  -2.963396 42.542618  -2.963375 42.542617  -2.963353 42.542616  -2.963352 42.542625  -2.963307 42.542622  -2.963305 42.542661  -2.963333 42.542662  -2.963331 42.542681  -2.963360 42.542682  -2.963359 42.542691  -2.963392 42.542693  -2.963393 42.542674  -2.963430 42.542676  -2.963435 42.542628  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30292,6 +30250,153 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.973186 42.546803  -2.972688 42.547062  -2.972864 42.547246  -2.973361 42.546987  -2.973186 42.546803  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144747">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963950 42.543160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963786 42.543278 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963874 42.543278  -2.963950 42.543233  -2.963917 42.543203  -2.963936 42.543192  -2.963901 42.543160  -2.963891 42.543166  -2.963855 42.543188  -2.963806 42.543216  -2.963786 42.543227  -2.963810 42.543249  -2.963830 42.543238  -2.963874 42.543278  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144749">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963891 42.543104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963726 42.543216 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963806 42.543216  -2.963855 42.543188  -2.963891 42.543166  -2.963865 42.543142  -2.963875 42.543136  -2.963840 42.543104  -2.963830 42.543111  -2.963805 42.543123  -2.963745 42.543160  -2.963726 42.543171  -2.963749 42.543193  -2.963769 42.543181  -2.963806 42.543216  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144751">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963830 42.543048 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963665 42.543160 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963745 42.543160  -2.963805 42.543123  -2.963830 42.543111  -2.963803 42.543086  -2.963814 42.543079  -2.963779 42.543048  -2.963769 42.543054  -2.963747 42.543065  -2.963685 42.543103  -2.963665 42.543114  -2.963689 42.543137  -2.963709 42.543126  -2.963745 42.543160  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144752">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963769 42.542992 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963605 42.543103 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963685 42.543103  -2.963747 42.543065  -2.963769 42.543054  -2.963743 42.543030  -2.963753 42.543023  -2.963719 42.542992  -2.963709 42.542998  -2.963624 42.543047  -2.963605 42.543058  -2.963628 42.543080  -2.963647 42.543069  -2.963685 42.543103  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144753">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963709 42.542936 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963544 42.543047 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963624 42.543047  -2.963709 42.542998  -2.963682 42.542973  -2.963692 42.542967  -2.963659 42.542936  -2.963649 42.542942  -2.963625 42.542954  -2.963563 42.542991  -2.963544 42.543002  -2.963568 42.543024  -2.963587 42.543013  -2.963624 42.543047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144755">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963649 42.542881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963483 42.542991 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963563 42.542991  -2.963625 42.542954  -2.963649 42.542942  -2.963622 42.542918  -2.963633 42.542911  -2.963600 42.542881  -2.963590 42.542887  -2.963569 42.542897  -2.963502 42.542934  -2.963483 42.542945  -2.963507 42.542968  -2.963526 42.542957  -2.963563 42.542991  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cuzcurrita de Río Tirón</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cuzcurrita de Río Tirón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4144756">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963590 42.542825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963424 42.542934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963502 42.542934  -2.963569 42.542897  -2.963590 42.542887  -2.963562 42.542861  -2.963572 42.542855  -2.963539 42.542825  -2.963502 42.542847  -2.963499 42.542844  -2.963443 42.542879  -2.963424 42.542891  -2.963447 42.542912  -2.963465 42.542901  -2.963502 42.542934  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
