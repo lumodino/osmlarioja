@@ -965,7 +965,7 @@
             <gml:posList srsDimension="2">-2.887430 42.483517  -2.887743 42.483216  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino La Calzada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Torcuato</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.139.7</ms:COD_CATASTRAL_VIAL>
@@ -985,7 +985,7 @@
             <gml:posList srsDimension="2">-2.887743 42.483216  -2.887929 42.483047  -2.888573 42.482338  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino La Calzada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Torcuato</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.139.7</ms:COD_CATASTRAL_VIAL>
@@ -1005,7 +1005,7 @@
             <gml:posList srsDimension="2">-2.888573 42.482338  -2.888662 42.481916  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino La Calzada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Torcuato</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.139.7</ms:COD_CATASTRAL_VIAL>
@@ -1025,7 +1025,7 @@
             <gml:posList srsDimension="2">-2.892013 42.482409  -2.891661 42.482083  -2.891446 42.481775  -2.891269 42.481500  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Las Fuentes</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino las Fuentes</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Torcuato</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.139.9</ms:COD_CATASTRAL_VIAL>

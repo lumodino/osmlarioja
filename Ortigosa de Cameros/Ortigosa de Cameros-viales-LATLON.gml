@@ -776,13 +776,13 @@
       <ms:viales gml:id="viales.1539088">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.705052 42.175249 </gml:lowerCorner>
-        		<gml:upperCorner>-2.704973 42.175657 </gml:upperCorner>
+        		<gml:lowerCorner>-2.705033 42.175249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.704960 42.175637 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.705033 42.175249  -2.704973 42.175529  -2.705052 42.175657  </gml:posList>
+            <gml:posList srsDimension="2">-2.705033 42.175249  -2.704973 42.175529  -2.704960 42.175637  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Navarra</ms:NOMBRE_COMPLETO_VIAL>
@@ -1633,26 +1633,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1539070">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.705052 42.175657 </gml:lowerCorner>
-        		<gml:upperCorner>-2.704842 42.175888 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.704842 42.175888  -2.704890 42.175679  -2.705052 42.175657  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Alberta Martínez</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ortigosa de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ortigosa de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.112.3</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611200045</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1539071">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1663,6 +1643,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.705052 42.175657  -2.705075 42.175856  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Alberta Martínez</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ortigosa de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ortigosa de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.112.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611200045</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145174">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.704960 42.175637 </gml:lowerCorner>
+        		<gml:upperCorner>-2.704842 42.175888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.704842 42.175888  -2.704904 42.175639  -2.704960 42.175637  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Alberta Martínez</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ortigosa de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ortigosa de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.112.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611200045</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145175">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705052 42.175637 </gml:lowerCorner>
+        		<gml:upperCorner>-2.704960 42.175657 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.704960 42.175637  -2.705051 42.175639  -2.705052 42.175657  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Alberta Martínez</ms:NOMBRE_COMPLETO_VIAL>
@@ -2517,12 +2537,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.705327 42.175479 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705052 42.175671 </gml:upperCorner>
+        		<gml:upperCorner>-2.705052 42.175660 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.705052 42.175657  -2.705240 42.175671  -2.705327 42.175660  -2.705308 42.175479  </gml:posList>
+            <gml:posList srsDimension="2">-2.705052 42.175657  -2.705183 42.175657  -2.705327 42.175660  -2.705308 42.175479  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Arco</ms:NOMBRE_COMPLETO_VIAL>
