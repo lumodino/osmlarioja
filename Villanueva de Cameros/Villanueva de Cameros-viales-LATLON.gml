@@ -1336,13 +1336,13 @@
       <ms:viales gml:id="viales.1549984">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.618710 42.145273 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.618708 42.145273 </gml:lowerCorner>
         		<gml:upperCorner>-2.618381 42.145559 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.618381 42.145273  -2.618480 42.145338  -2.618647 42.145466  -2.618710 42.145516  -2.618706 42.145544  -2.618705 42.145549  -2.618705 42.145550  -2.618708 42.145559  </gml:posList>
+            <gml:posList srsDimension="2">-2.618381 42.145273  -2.618480 42.145338  -2.618647 42.145466  -2.618673 42.145498  -2.618706 42.145544  -2.618705 42.145549  -2.618705 42.145550  -2.618708 42.145559  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesias</ms:NOMBRE_COMPLETO_VIAL>
