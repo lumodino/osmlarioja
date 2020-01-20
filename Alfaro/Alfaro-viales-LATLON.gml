@@ -293,6 +293,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4145322">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.747963 42.177529 </gml:lowerCorner>
+        		<gml:upperCorner>-1.747699 42.177754 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.747963 42.177754  -1.747699 42.177529  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cervantes</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100028</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.3642389">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -303,6 +323,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.749648 42.178116  -1.749316 42.177971  -1.749088 42.177852  -1.749021 42.177803  -1.748894 42.177748  -1.748769 42.177706  -1.748704 42.177719  -1.748588 42.177798  -1.748483 42.177900  -1.748339 42.178032  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Pasaje del Toril</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145257">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749209 42.177628 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748932 42.177704 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.749209 42.177704  -1.748932 42.177628  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Pasaje del Toril</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145258">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748932 42.177462 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748325 42.177628 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748932 42.177628  -1.748713 42.177568  -1.748325 42.177462  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Pasaje del Toril</ms:NOMBRE_COMPLETO_VIAL>
@@ -616,13 +676,13 @@
       <ms:viales gml:id="viales.1511185">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.762584 42.179513 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.762596 42.179423 </gml:lowerCorner>
         		<gml:upperCorner>-1.762119 42.182016 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.762584 42.179513  -1.762278 42.181267  -1.762119 42.182016  </gml:posList>
+            <gml:posList srsDimension="2">-1.762596 42.179423  -1.762278 42.181267  -1.762119 42.182016  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Cascajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -650,6 +710,66 @@
         <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.011.243</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601100637</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511076">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749520 42.183578 </gml:lowerCorner>
+        		<gml:upperCorner>-1.749473 42.183712 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.749520 42.183712  -1.749473 42.183578  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ribafrecha</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.268</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100684</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511077">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749473 42.183338 </gml:lowerCorner>
+        		<gml:upperCorner>-1.749379 42.183578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.749473 42.183578  -1.749379 42.183338  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ribafrecha</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.268</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100684</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145314">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.751829 42.178928 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750962 42.179789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.751829 42.178928  -1.751718 42.179045  -1.751557 42.179205  -1.751411 42.179359  -1.751244 42.179525  -1.751088 42.179679  -1.750962 42.179789  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Paletón de la Florida</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.288</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100092</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2933,6 +3053,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1510885">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748809 42.182261 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748726 42.182331 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748726 42.182261  -1.748727 42.182268  -1.748729 42.182275  -1.748732 42.182282  -1.748736 42.182288  -1.748741 42.182294  -1.748746 42.182300  -1.748752 42.182306  -1.748758 42.182311  -1.748766 42.182316  -1.748774 42.182320  -1.748782 42.182324  -1.748790 42.182327  -1.748799 42.182329  -1.748809 42.182331  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1511152">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2963,6 +3103,86 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.760336 42.180582  -1.760336 42.180581  -1.760317 42.180555  -1.760297 42.180537  -1.760296 42.180537  -1.760285 42.180529  -1.760285 42.180529  -1.760281 42.180527  -1.760267 42.180520  -1.760251 42.180513  -1.760246 42.180510  -1.760236 42.180508  -1.760220 42.180504  -1.760216 42.180503  -1.760202 42.180499  -1.760162 42.180496  -1.760159 42.180497  -1.760156 42.180497  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749096 42.181914 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748928 42.182291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748928 42.182291  -1.749089 42.182032  -1.749093 42.182021  -1.749095 42.182011  -1.749096 42.182000  -1.749096 42.181990  -1.749094 42.181979  -1.749092 42.181969  -1.749088 42.181959  -1.749082 42.181949  -1.749076 42.181939  -1.749069 42.181930  -1.749060 42.181921  -1.749051 42.181914  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511197">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748928 42.182291 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748809 42.182333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748809 42.182331  -1.748818 42.182332  -1.748827 42.182333  -1.748836 42.182333  -1.748846 42.182333  -1.748855 42.182331  -1.748864 42.182330  -1.748873 42.182327  -1.748881 42.182325  -1.748890 42.182321  -1.748897 42.182317  -1.748905 42.182313  -1.748911 42.182308  -1.748917 42.182303  -1.748923 42.182297  -1.748928 42.182291  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511198">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748783 42.181963 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748726 42.182261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748783 42.181963  -1.748726 42.182261  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749051 42.181878 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748783 42.181963 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.749051 42.181914  -1.749050 42.181913  -1.749040 42.181906  -1.749029 42.181900  -1.749018 42.181894  -1.749006 42.181890  -1.748993 42.181886  -1.748980 42.181882  -1.748966 42.181880  -1.748952 42.181878  -1.748939 42.181878  -1.748925 42.181878  -1.748911 42.181879  -1.748898 42.181881  -1.748884 42.181884  -1.748871 42.181888  -1.748859 42.181893  -1.748847 42.181898  -1.748836 42.181904  -1.748826 42.181911  -1.748816 42.181919  -1.748808 42.181927  -1.748800 42.181935  -1.748793 42.181944  -1.748788 42.181954  -1.748783 42.181963  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
@@ -3103,6 +3323,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.749413 42.171632  -1.749418 42.171621  -1.749421 42.171609  -1.749424 42.171598  -1.749425 42.171586  -1.749425 42.171574  -1.749423 42.171563  -1.749420 42.171551  -1.749416 42.171540  -1.749410 42.171529  -1.749403 42.171518  -1.749395 42.171508  -1.749386 42.171499  -1.749376 42.171490  -1.749365 42.171481  -1.749353 42.171474  -1.749340 42.171467  -1.749326 42.171461  -1.749312 42.171456  -1.749297 42.171452  -1.749282 42.171449  -1.749266 42.171447  -1.749250 42.171446  -1.749234 42.171446  -1.749219 42.171447  -1.749203 42.171449  -1.749188 42.171452  -1.749173 42.171456  -1.749159 42.171461  -1.749145 42.171467  -1.749136 42.171472  -1.749128 42.171478  -1.749121 42.171485  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511308">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.750491 42.172049 </gml:lowerCorner>
+        		<gml:upperCorner>-1.749949 42.172723 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.749949 42.172723  -1.750491 42.172049  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511309">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.750538 42.171465 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750491 42.172049 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.750491 42.172049  -1.750538 42.171465  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
@@ -3933,6 +4193,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4137000">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.746034 42.177598 </gml:lowerCorner>
+        		<gml:upperCorner>-1.745866 42.177756 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.746034 42.177756  -1.745866 42.177598  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretil del Piteo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100024</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1510651">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4253,16 +4533,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511249">
+      <ms:viales gml:id="viales.4145312">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.752087 42.178878 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.751829 42.178928 </gml:lowerCorner>
         		<gml:upperCorner>-1.751569 42.178969 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.751569 42.178969  -1.751775 42.178938  -1.752017 42.178890  -1.752087 42.178878  </gml:posList>
+            <gml:posList srsDimension="2">-1.751569 42.178969  -1.751775 42.178938  -1.751829 42.178928  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Pozas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100577</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145313">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.752087 42.178878 </gml:lowerCorner>
+        		<gml:upperCorner>-1.751829 42.178928 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.751829 42.178928  -1.752017 42.178890  -1.752087 42.178878  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Pozas</ms:NOMBRE_COMPLETO_VIAL>
@@ -4316,13 +4616,13 @@
       <ms:viales gml:id="viales.1510661">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.751389 42.177735 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750870 42.177976 </gml:upperCorner>
+        		<gml:lowerCorner>-1.751389 42.177744 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750891 42.177976 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.751389 42.177976  -1.750870 42.177735  </gml:posList>
+            <gml:posList srsDimension="2">-1.751389 42.177976  -1.750891 42.177744  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -4356,13 +4656,13 @@
       <ms:viales gml:id="viales.1510958">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.750870 42.177501 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750364 42.177735 </gml:upperCorner>
+        		<gml:lowerCorner>-1.750891 42.177501 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750364 42.177744 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.750870 42.177735  -1.750536 42.177579  -1.750364 42.177501  </gml:posList>
+            <gml:posList srsDimension="2">-1.750891 42.177744  -1.750536 42.177579  -1.750364 42.177501  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -4423,26 +4723,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.752470 42.178497  -1.752206 42.178701  -1.751964 42.178815  -1.751769 42.178741  -1.751556 42.178590  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Paletón Santa Lucía</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.103</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100093</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511247">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.752506 42.178667 </gml:lowerCorner>
-        		<gml:upperCorner>-1.752087 42.178878 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.752506 42.178667  -1.752503 42.178667  -1.752475 42.178673  -1.752453 42.178677  -1.752445 42.178680  -1.752418 42.178688  -1.752401 42.178693  -1.752390 42.178698  -1.752377 42.178703  -1.752354 42.178713  -1.752352 42.178714  -1.752321 42.178731  -1.752297 42.178744  -1.752280 42.178753  -1.752266 42.178762  -1.752225 42.178787  -1.752220 42.178790  -1.752216 42.178792  -1.752157 42.178831  -1.752157 42.178831  -1.752103 42.178867  -1.752099 42.178870  -1.752087 42.178878  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Paletón Santa Lucía</ms:NOMBRE_COMPLETO_VIAL>
@@ -5133,26 +5413,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1510928">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.746116 42.180219 </gml:lowerCorner>
-        		<gml:upperCorner>-1.745666 42.180692 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746116 42.180692  -1.745666 42.180219  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Castejón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.22</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100025</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1511208">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5283,26 +5543,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.744935 42.179302  -1.744577 42.179316  -1.744404 42.179341  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ronda</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.127</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100113</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1510673">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.745163 42.178507 </gml:lowerCorner>
-        		<gml:upperCorner>-1.744935 42.179302 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.744935 42.179302  -1.744966 42.178852  -1.745047 42.178573  -1.745163 42.178507  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ronda</ms:NOMBRE_COMPLETO_VIAL>
@@ -5683,6 +5923,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.750721 42.176847  -1.750555 42.177165  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Alonso</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100004</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511071">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.750555 42.177165 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750364 42.177501 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.750364 42.177501  -1.750417 42.177434  -1.750555 42.177165  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alonso</ms:NOMBRE_COMPLETO_VIAL>
@@ -6516,13 +6776,13 @@
       <ms:viales gml:id="viales.1510697">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.763390 42.179101 </gml:lowerCorner>
-        		<gml:upperCorner>-1.762584 42.179513 </gml:upperCorner>
+        		<gml:lowerCorner>-1.763302 42.179028 </gml:lowerCorner>
+        		<gml:upperCorner>-1.762596 42.179423 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.762584 42.179513  -1.763390 42.179101  </gml:posList>
+            <gml:posList srsDimension="2">-1.762596 42.179423  -1.763302 42.179028  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Grávalos</ms:NOMBRE_COMPLETO_VIAL>
@@ -6536,13 +6796,13 @@
       <ms:viales gml:id="viales.1511184">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.761792 42.179919 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.761765 42.179856 </gml:lowerCorner>
         		<gml:upperCorner>-1.760351 42.180631 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.760351 42.180631  -1.760501 42.180603  -1.760595 42.180553  -1.761792 42.179919  </gml:posList>
+            <gml:posList srsDimension="2">-1.760351 42.180631  -1.760501 42.180603  -1.760595 42.180553  -1.761765 42.179856  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Grávalos</ms:NOMBRE_COMPLETO_VIAL>
@@ -6556,13 +6816,13 @@
       <ms:viales gml:id="viales.1511380">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.761792 42.179755 </gml:lowerCorner>
-        		<gml:upperCorner>-1.760553 42.179939 </gml:upperCorner>
+        		<gml:lowerCorner>-1.761765 42.179755 </gml:lowerCorner>
+        		<gml:upperCorner>-1.760553 42.179919 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.760553 42.179755  -1.760905 42.179862  -1.761430 42.179938  -1.761583 42.179939  -1.761792 42.179919  </gml:posList>
+            <gml:posList srsDimension="2">-1.760553 42.179755  -1.760905 42.179862  -1.761414 42.179919  -1.761545 42.179913  -1.761765 42.179856  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Grávalos</ms:NOMBRE_COMPLETO_VIAL>
@@ -6576,13 +6836,13 @@
       <ms:viales gml:id="viales.1511381">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.762584 42.179513 </gml:lowerCorner>
-        		<gml:upperCorner>-1.761792 42.179919 </gml:upperCorner>
+        		<gml:lowerCorner>-1.762596 42.179423 </gml:lowerCorner>
+        		<gml:upperCorner>-1.761765 42.179856 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.761792 42.179919  -1.762584 42.179513  </gml:posList>
+            <gml:posList srsDimension="2">-1.761765 42.179856  -1.761995 42.179753  -1.762596 42.179423  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Grávalos</ms:NOMBRE_COMPLETO_VIAL>
@@ -8033,26 +8293,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4137000">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.746034 42.177598 </gml:lowerCorner>
-        		<gml:upperCorner>-1.745866 42.177756 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746034 42.177756  -1.745866 42.177598  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.74</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100067</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1510725">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9453,46 +9693,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511308">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.750491 42.172049 </gml:lowerCorner>
-        		<gml:upperCorner>-1.749949 42.172723 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.749949 42.172723  -1.750491 42.172049  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida Molineta</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.222</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100581</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511309">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.750538 42.171465 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750491 42.172049 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.750491 42.172049  -1.750538 42.171465  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida Molineta</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.222</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100581</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1511324">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9843,6 +10043,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.755109 42.176197  -1.753939 42.175505  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Nájera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100087</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145319">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.753939 42.174841 </gml:lowerCorner>
+        		<gml:upperCorner>-1.752899 42.175505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.753939 42.175505  -1.753856 42.175431  -1.753548 42.175239  -1.753190 42.175019  -1.752937 42.174863  -1.752899 42.174841  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nájera</ms:NOMBRE_COMPLETO_VIAL>
@@ -10453,6 +10673,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.3642355">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.746090 42.169695 </gml:lowerCorner>
+        		<gml:upperCorner>-1.744951 42.170514 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.746090 42.170514  -1.746086 42.170514  -1.746084 42.170513  -1.745954 42.170490  -1.745930 42.170485  -1.745929 42.170485  -1.745845 42.170472  -1.745768 42.170461  -1.745755 42.170459  -1.745734 42.170454  -1.745684 42.170442  -1.745608 42.170425  -1.745585 42.170414  -1.745552 42.170400  -1.745527 42.170389  -1.745506 42.170380  -1.745504 42.170379  -1.745488 42.170368  -1.745468 42.170355  -1.745445 42.170339  -1.745429 42.170328  -1.745425 42.170325  -1.745405 42.170308  -1.745378 42.170286  -1.745365 42.170275  -1.745358 42.170266  -1.745344 42.170250  -1.745322 42.170225  -1.745300 42.170200  -1.745278 42.170175  -1.745275 42.170172  -1.745263 42.170158  -1.745262 42.170157  -1.745259 42.170153  -1.745240 42.170126  -1.745228 42.170109  -1.745208 42.170081  -1.745120 42.169961  -1.745104 42.169935  -1.745069 42.169879  -1.745051 42.169849  -1.745046 42.169842  -1.745009 42.169784  -1.744989 42.169752  -1.744977 42.169734  -1.744965 42.169715  -1.744951 42.169695  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.292</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100691</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1510805">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10613,16 +10853,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1510807">
+      <ms:viales gml:id="viales.4145326">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.746630 42.179166 </gml:lowerCorner>
-        		<gml:upperCorner>-1.746278 42.179202 </gml:upperCorner>
+        		<gml:lowerCorner>-1.746625 42.179138 </gml:lowerCorner>
+        		<gml:upperCorner>-1.746350 42.179230 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746278 42.179202  -1.746630 42.179166  </gml:posList>
+            <gml:posList srsDimension="2">-1.746350 42.179230  -1.746590 42.179147  -1.746625 42.179138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Concepción</ms:NOMBRE_COMPLETO_VIAL>
@@ -10633,36 +10873,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1510812">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.747185 42.178672 </gml:lowerCorner>
-        		<gml:upperCorner>-1.747089 42.178831 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.747185 42.178831  -1.747089 42.178672  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Concepción</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.33</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100316</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511038">
+      <ms:viales gml:id="viales.4145327">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.747185 42.178831 </gml:lowerCorner>
-        		<gml:upperCorner>-1.746630 42.179166 </gml:upperCorner>
+        		<gml:upperCorner>-1.746625 42.179138 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746630 42.179166  -1.746633 42.179165  -1.747185 42.178831  </gml:posList>
+            <gml:posList srsDimension="2">-1.746625 42.179138  -1.746720 42.179112  -1.747185 42.178831  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Concepción</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100316</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.746633 42.179138 </gml:lowerCorner>
+        		<gml:upperCorner>-1.746618 42.179341 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.746625 42.179138  -1.746633 42.179229  -1.746618 42.179341  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Concepción</ms:NOMBRE_COMPLETO_VIAL>
@@ -11003,6 +11243,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.746865 42.181709  -1.746709 42.181491  -1.746497 42.181174  -1.746150 42.180724  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cierzo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100031</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1510928">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.746116 42.180219 </gml:lowerCorner>
+        		<gml:upperCorner>-1.745666 42.180692 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.746116 42.180692  -1.745666 42.180219  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cierzo</ms:NOMBRE_COMPLETO_VIAL>
@@ -11390,6 +11650,26 @@
         <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.011.27</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601100027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1510673">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.745163 42.178507 </gml:lowerCorner>
+        		<gml:upperCorner>-1.744935 42.179302 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.744935 42.179302  -1.744966 42.178852  -1.745047 42.178573  -1.745163 42.178507  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cantón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100021</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -12073,46 +12353,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3642355">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.746090 42.169695 </gml:lowerCorner>
-        		<gml:upperCorner>-1.744951 42.170514 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746090 42.170514  -1.746086 42.170514  -1.746084 42.170513  -1.745954 42.170490  -1.745930 42.170485  -1.745929 42.170485  -1.745845 42.170472  -1.745768 42.170461  -1.745755 42.170459  -1.745734 42.170454  -1.745684 42.170442  -1.745608 42.170425  -1.745585 42.170414  -1.745552 42.170400  -1.745527 42.170389  -1.745506 42.170380  -1.745504 42.170379  -1.745488 42.170368  -1.745468 42.170355  -1.745445 42.170339  -1.745429 42.170328  -1.745425 42.170325  -1.745405 42.170308  -1.745378 42.170286  -1.745365 42.170275  -1.745358 42.170266  -1.745344 42.170250  -1.745322 42.170225  -1.745300 42.170200  -1.745278 42.170175  -1.745275 42.170172  -1.745263 42.170158  -1.745262 42.170157  -1.745259 42.170153  -1.745240 42.170126  -1.745228 42.170109  -1.745208 42.170081  -1.745120 42.169961  -1.745104 42.169935  -1.745069 42.169879  -1.745051 42.169849  -1.745046 42.169842  -1.745009 42.169784  -1.744989 42.169752  -1.744977 42.169734  -1.744965 42.169715  -1.744951 42.169695  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle los Pantanos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.205</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100095</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3642361">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.746134 42.165957 </gml:lowerCorner>
-        		<gml:upperCorner>-1.744926 42.168244 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746134 42.166008  -1.745941 42.166023  -1.745742 42.165985  -1.745598 42.165957  -1.745546 42.166131  -1.745450 42.166431  -1.745254 42.166855  -1.744979 42.167377  -1.744926 42.167588  -1.744968 42.168244  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle los Pantanos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.205</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100095</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1510856">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12573,26 +12813,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1510885">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.748809 42.182261 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748726 42.182331 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.748726 42.182261  -1.748727 42.182268  -1.748729 42.182275  -1.748732 42.182282  -1.748736 42.182288  -1.748741 42.182294  -1.748746 42.182300  -1.748752 42.182306  -1.748758 42.182311  -1.748766 42.182316  -1.748774 42.182320  -1.748782 42.182324  -1.748790 42.182327  -1.748799 42.182329  -1.748809 42.182331  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Puerta de Milagro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.226</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100546</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1510935">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12633,26 +12853,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511193">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749096 42.181914 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748928 42.182291 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.748928 42.182291  -1.749089 42.182032  -1.749093 42.182021  -1.749095 42.182011  -1.749096 42.182000  -1.749096 42.181990  -1.749094 42.181979  -1.749092 42.181969  -1.749088 42.181959  -1.749082 42.181949  -1.749076 42.181939  -1.749069 42.181930  -1.749060 42.181921  -1.749051 42.181914  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Puerta de Milagro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.226</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100546</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1511195">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12683,66 +12883,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.748570 42.181898  -1.748737 42.181850  -1.748891 42.181852  -1.749009 42.181844  -1.749133 42.181812  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Puerta de Milagro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.226</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100546</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511197">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.748928 42.182291 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748809 42.182333 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.748809 42.182331  -1.748818 42.182332  -1.748827 42.182333  -1.748836 42.182333  -1.748846 42.182333  -1.748855 42.182331  -1.748864 42.182330  -1.748873 42.182327  -1.748881 42.182325  -1.748890 42.182321  -1.748897 42.182317  -1.748905 42.182313  -1.748911 42.182308  -1.748917 42.182303  -1.748923 42.182297  -1.748928 42.182291  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Puerta de Milagro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.226</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100546</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511198">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.748783 42.181963 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748726 42.182261 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.748783 42.181963  -1.748726 42.182261  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Puerta de Milagro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.226</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100546</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511199">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749051 42.181878 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748783 42.181963 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.749051 42.181914  -1.749050 42.181913  -1.749040 42.181906  -1.749029 42.181900  -1.749018 42.181894  -1.749006 42.181890  -1.748993 42.181886  -1.748980 42.181882  -1.748966 42.181880  -1.748952 42.181878  -1.748939 42.181878  -1.748925 42.181878  -1.748911 42.181879  -1.748898 42.181881  -1.748884 42.181884  -1.748871 42.181888  -1.748859 42.181893  -1.748847 42.181898  -1.748836 42.181904  -1.748826 42.181911  -1.748816 42.181919  -1.748808 42.181927  -1.748800 42.181935  -1.748793 42.181944  -1.748788 42.181954  -1.748783 42.181963  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Puerta de Milagro</ms:NOMBRE_COMPLETO_VIAL>
@@ -13013,26 +13153,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511189">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.752087 42.178878 </gml:lowerCorner>
-        		<gml:upperCorner>-1.751090 42.179796 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.752087 42.178878  -1.752081 42.178883  -1.752019 42.178926  -1.752001 42.178939  -1.751974 42.178959  -1.751952 42.178976  -1.751921 42.178999  -1.751905 42.179011  -1.751893 42.179021  -1.751863 42.179045  -1.751830 42.179073  -1.751795 42.179101  -1.751789 42.179107  -1.751782 42.179113  -1.751760 42.179133  -1.751704 42.179185  -1.751696 42.179192  -1.751668 42.179217  -1.751650 42.179235  -1.751629 42.179256  -1.751606 42.179278  -1.751509 42.179372  -1.751472 42.179408  -1.751449 42.179430  -1.751447 42.179433  -1.751427 42.179453  -1.751361 42.179519  -1.751304 42.179575  -1.751262 42.179617  -1.751244 42.179635  -1.751231 42.179649  -1.751186 42.179696  -1.751153 42.179730  -1.751133 42.179751  -1.751131 42.179754  -1.751118 42.179767  -1.751104 42.179782  -1.751090 42.179796  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Paseo Florida</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.60</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100053</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1511190">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13043,26 +13163,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.753039 42.179028  -1.752729 42.178829  -1.752660 42.178836  -1.752164 42.179229  -1.751965 42.179290  -1.751707 42.179567  -1.751120 42.180326  -1.750694 42.180868  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Paseo Florida</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.60</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100053</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511243">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.751090 42.179796 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750353 42.180595 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.751090 42.179796  -1.751088 42.179799  -1.751074 42.179814  -1.751045 42.179843  -1.751045 42.179844  -1.751003 42.179889  -1.750946 42.179950  -1.750867 42.180035  -1.750846 42.180058  -1.750824 42.180083  -1.750793 42.180116  -1.750777 42.180134  -1.750776 42.180135  -1.750726 42.180190  -1.750647 42.180278  -1.750600 42.180331  -1.750599 42.180332  -1.750584 42.180349  -1.750556 42.180379  -1.750542 42.180394  -1.750534 42.180403  -1.750525 42.180413  -1.750513 42.180426  -1.750464 42.180478  -1.750370 42.180578  -1.750353 42.180595  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo Florida</ms:NOMBRE_COMPLETO_VIAL>
@@ -13216,13 +13316,13 @@
       <ms:viales gml:id="viales.1511326">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.752394 42.174267 </gml:lowerCorner>
-        		<gml:upperCorner>-1.751975 42.174524 </gml:upperCorner>
+        		<gml:lowerCorner>-1.752899 42.174267 </gml:lowerCorner>
+        		<gml:upperCorner>-1.751975 42.174841 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.751975 42.174267  -1.752394 42.174524  </gml:posList>
+            <gml:posList srsDimension="2">-1.751975 42.174267  -1.752276 42.174452  -1.752662 42.174694  -1.752899 42.174841  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alfonso VII</ms:NOMBRE_COMPLETO_VIAL>
@@ -13537,12 +13637,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.746749 42.178606 </gml:lowerCorner>
-        		<gml:upperCorner>-1.746574 42.179166 </gml:upperCorner>
+        		<gml:upperCorner>-1.746574 42.179138 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746749 42.178606  -1.746689 42.178724  -1.746574 42.178999  -1.746630 42.179166  </gml:posList>
+            <gml:posList srsDimension="2">-1.746749 42.178606  -1.746689 42.178724  -1.746574 42.178999  -1.746625 42.179138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Álamo</ms:NOMBRE_COMPLETO_VIAL>
@@ -13713,46 +13813,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511076">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749520 42.183578 </gml:lowerCorner>
-        		<gml:upperCorner>-1.749473 42.183712 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.749520 42.183712  -1.749473 42.183578  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo del Pilar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.107</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100560</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1511077">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749473 42.183338 </gml:lowerCorner>
-        		<gml:upperCorner>-1.749379 42.183578 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.749473 42.183578  -1.749379 42.183338  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo del Pilar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.107</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100560</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1511138">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13836,13 +13896,13 @@
       <ms:viales gml:id="viales.1510957">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.750404 42.177798 </gml:lowerCorner>
-        		<gml:upperCorner>-1.749800 42.177978 </gml:upperCorner>
+        		<gml:lowerCorner>-1.750431 42.177798 </gml:lowerCorner>
+        		<gml:upperCorner>-1.749800 42.177985 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.750404 42.177978  -1.750068 42.177881  -1.749800 42.177798  </gml:posList>
+            <gml:posList srsDimension="2">-1.750431 42.177985  -1.750068 42.177881  -1.749800 42.177798  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan de Aragón</ms:NOMBRE_COMPLETO_VIAL>
@@ -13856,13 +13916,13 @@
       <ms:viales gml:id="viales.1510977">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.751414 42.177978 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750404 42.178715 </gml:upperCorner>
+        		<gml:lowerCorner>-1.751414 42.177985 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750431 42.178715 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.751414 42.178715  -1.751196 42.178631  -1.751052 42.178531  -1.750895 42.178358  -1.750744 42.178163  -1.750640 42.178085  -1.750457 42.177993  -1.750404 42.177978  </gml:posList>
+            <gml:posList srsDimension="2">-1.751414 42.178715  -1.751196 42.178631  -1.751052 42.178531  -1.750895 42.178358  -1.750744 42.178163  -1.750640 42.178085  -1.750457 42.177993  -1.750431 42.177985  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan de Aragón</ms:NOMBRE_COMPLETO_VIAL>
@@ -13876,13 +13936,13 @@
       <ms:viales gml:id="viales.1510959">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.750870 42.177735 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750404 42.177978 </gml:upperCorner>
+        		<gml:lowerCorner>-1.750891 42.177744 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750431 42.177985 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.750404 42.177978  -1.750542 42.177903  -1.750759 42.177782  -1.750870 42.177735  </gml:posList>
+            <gml:posList srsDimension="2">-1.750431 42.177985  -1.750547 42.177915  -1.750756 42.177809  -1.750891 42.177744  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pasaje del Horno</ms:NOMBRE_COMPLETO_VIAL>
@@ -13973,26 +14033,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3642387">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749800 42.177798 </gml:lowerCorner>
-        		<gml:upperCorner>-1.749648 42.178116 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.749800 42.177798  -1.749768 42.177963  -1.749700 42.178048  -1.749648 42.178116  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.011.53</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601100049</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.3642388">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14003,6 +14043,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.749648 42.178116  -1.749610 42.178164  -1.749390 42.178423  -1.749370 42.178447  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.53</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100049</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145321">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749719 42.178025 </gml:lowerCorner>
+        		<gml:upperCorner>-1.749648 42.178116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.749719 42.178025  -1.749700 42.178048  -1.749648 42.178116  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
@@ -14173,16 +14233,56 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511110">
+      <ms:viales gml:id="viales.4145325">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.746822 42.179166 </gml:lowerCorner>
-        		<gml:upperCorner>-1.746630 42.179529 </gml:upperCorner>
+        		<gml:lowerCorner>-1.746350 42.179202 </gml:lowerCorner>
+        		<gml:upperCorner>-1.746278 42.179230 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.746822 42.179529  -1.746746 42.179398  -1.746630 42.179166  </gml:posList>
+            <gml:posList srsDimension="2">-1.746350 42.179230  -1.746278 42.179202  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.134</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100594</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145329">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.746822 42.179341 </gml:lowerCorner>
+        		<gml:upperCorner>-1.746618 42.179529 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.746822 42.179529  -1.746746 42.179398  -1.746618 42.179341  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.134</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100594</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145330">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.746618 42.179230 </gml:lowerCorner>
+        		<gml:upperCorner>-1.746350 42.179341 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.746618 42.179341  -1.746570 42.179319  -1.746350 42.179230  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
@@ -14593,16 +14693,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511071">
+      <ms:viales gml:id="viales.4145320">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.750555 42.177165 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750364 42.177501 </gml:upperCorner>
+        		<gml:lowerCorner>-1.749800 42.177798 </gml:lowerCorner>
+        		<gml:upperCorner>-1.749719 42.178025 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.750364 42.177501  -1.750417 42.177434  -1.750555 42.177165  </gml:posList>
+            <gml:posList srsDimension="2">-1.749800 42.177798  -1.749768 42.177963  -1.749719 42.178025  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Losada</ms:NOMBRE_COMPLETO_VIAL>
@@ -15093,6 +15193,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1510812">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.747185 42.178672 </gml:lowerCorner>
+        		<gml:upperCorner>-1.747089 42.178831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.747185 42.178831  -1.747089 42.178672  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Alcázar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100002</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1511045">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15253,16 +15373,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4145257">
+      <ms:viales gml:id="viales.4145255">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.749209 42.177628 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748932 42.177704 </gml:upperCorner>
+        		<gml:lowerCorner>-1.749164 42.177044 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748852 42.177491 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.749209 42.177704  -1.748932 42.177628  </gml:posList>
+            <gml:posList srsDimension="2">-1.749000 42.177482  -1.749031 42.177491  -1.749164 42.177163  -1.748852 42.177044  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Esperanza</ms:NOMBRE_COMPLETO_VIAL>
@@ -15273,16 +15393,96 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4145258">
+      <ms:viales gml:id="viales.4145256">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.748932 42.177462 </gml:lowerCorner>
-        		<gml:upperCorner>-1.748325 42.177628 </gml:upperCorner>
+        		<gml:lowerCorner>-1.749000 42.177482 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748932 42.177628 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.748932 42.177628  -1.748713 42.177568  -1.748325 42.177462  </gml:posList>
+            <gml:posList srsDimension="2">-1.749000 42.177482  -1.748964 42.177560  -1.748932 42.177628  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Esperanza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.166</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100633</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145259">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748852 42.176967 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748631 42.177044 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748631 42.176967  -1.748852 42.177044  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Esperanza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.166</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100633</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145263">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748670 42.177304 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748435 42.177369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748435 42.177304  -1.748548 42.177338  -1.748670 42.177369  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Esperanza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.166</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100633</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145264">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.748852 42.177044 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748670 42.177369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748852 42.177044  -1.748670 42.177369  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Esperanza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.166</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100633</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4145265">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.749000 42.177369 </gml:lowerCorner>
+        		<gml:upperCorner>-1.748664 42.177482 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.748670 42.177369  -1.748664 42.177381  -1.749000 42.177482  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Esperanza</ms:NOMBRE_COMPLETO_VIAL>
@@ -15553,6 +15753,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4145318">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.752899 42.174841 </gml:lowerCorner>
+        		<gml:upperCorner>-1.752580 42.175130 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.752899 42.174841  -1.752654 42.175068  -1.752580 42.175130  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Antonio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.204</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100639</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1511128">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15753,6 +15973,46 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1511189">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.752087 42.178878 </gml:lowerCorner>
+        		<gml:upperCorner>-1.751090 42.179796 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.752087 42.178878  -1.752081 42.178883  -1.752019 42.178926  -1.752001 42.178939  -1.751974 42.178959  -1.751952 42.178976  -1.751921 42.178999  -1.751905 42.179011  -1.751893 42.179021  -1.751863 42.179045  -1.751830 42.179073  -1.751795 42.179101  -1.751789 42.179107  -1.751782 42.179113  -1.751760 42.179133  -1.751704 42.179185  -1.751696 42.179192  -1.751668 42.179217  -1.751650 42.179235  -1.751629 42.179256  -1.751606 42.179278  -1.751509 42.179372  -1.751472 42.179408  -1.751449 42.179430  -1.751447 42.179433  -1.751427 42.179453  -1.751361 42.179519  -1.751304 42.179575  -1.751262 42.179617  -1.751244 42.179635  -1.751231 42.179649  -1.751186 42.179696  -1.751153 42.179730  -1.751133 42.179751  -1.751131 42.179754  -1.751118 42.179767  -1.751104 42.179782  -1.751090 42.179796  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Burgo Viejo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100548</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511243">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.751090 42.179796 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750353 42.180595 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.751090 42.179796  -1.751088 42.179799  -1.751074 42.179814  -1.751045 42.179843  -1.751045 42.179844  -1.751003 42.179889  -1.750946 42.179950  -1.750867 42.180035  -1.750846 42.180058  -1.750824 42.180083  -1.750793 42.180116  -1.750777 42.180134  -1.750776 42.180135  -1.750726 42.180190  -1.750647 42.180278  -1.750600 42.180331  -1.750599 42.180332  -1.750584 42.180349  -1.750556 42.180379  -1.750542 42.180394  -1.750534 42.180403  -1.750525 42.180413  -1.750513 42.180426  -1.750464 42.180478  -1.750370 42.180578  -1.750353 42.180595  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Burgo Viejo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100548</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1511246">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15763,6 +16023,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.753232 42.178898  -1.753187 42.178876  -1.753167 42.178867  -1.753147 42.178857  -1.753131 42.178849  -1.753066 42.178819  -1.752998 42.178787  -1.752961 42.178770  -1.752956 42.178768  -1.752918 42.178749  -1.752904 42.178743  -1.752866 42.178725  -1.752839 42.178714  -1.752814 42.178704  -1.752812 42.178703  -1.752776 42.178690  -1.752751 42.178681  -1.752740 42.178678  -1.752726 42.178675  -1.752710 42.178672  -1.752682 42.178667  -1.752673 42.178665  -1.752652 42.178663  -1.752623 42.178661  -1.752593 42.178661  -1.752562 42.178661  -1.752558 42.178661  -1.752534 42.178664  -1.752506 42.178667  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Burgo Viejo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100548</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1511247">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.752506 42.178667 </gml:lowerCorner>
+        		<gml:upperCorner>-1.752087 42.178878 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.752506 42.178667  -1.752503 42.178667  -1.752475 42.178673  -1.752453 42.178677  -1.752445 42.178680  -1.752418 42.178688  -1.752401 42.178693  -1.752390 42.178698  -1.752377 42.178703  -1.752354 42.178713  -1.752352 42.178714  -1.752321 42.178731  -1.752297 42.178744  -1.752280 42.178753  -1.752266 42.178762  -1.752225 42.178787  -1.752220 42.178790  -1.752216 42.178792  -1.752157 42.178831  -1.752157 42.178831  -1.752103 42.178867  -1.752099 42.178870  -1.752087 42.178878  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Burgo Viejo</ms:NOMBRE_COMPLETO_VIAL>
