@@ -733,16 +733,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1517179">
+      <ms:viales gml:id="viales.4151327">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.766940 42.374419 </gml:lowerCorner>
-        		<gml:upperCorner>-2.766470 42.374910 </gml:upperCorner>
+        		<gml:lowerCorner>-2.766632 42.374419 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766470 42.374800 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.766470 42.374419  -2.766569 42.374612  -2.766585 42.374769  -2.766712 42.374853  -2.766940 42.374910  </gml:posList>
+            <gml:posList srsDimension="2">-2.766470 42.374419  -2.766569 42.374612  -2.766585 42.374769  -2.766632 42.374800  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ollerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -753,16 +753,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1517180">
+      <ms:viales gml:id="viales.4151325">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.767982 42.374881 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.767358 42.374910 </gml:lowerCorner>
         		<gml:upperCorner>-2.766940 42.375021 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.766940 42.374910  -2.767256 42.375021  -2.767398 42.375011  -2.767982 42.374881  </gml:posList>
+            <gml:posList srsDimension="2">-2.766940 42.374910  -2.767256 42.375021  -2.767358 42.375014  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Ollerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cárdenas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cárdenas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.041.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604100018</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4151328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766940 42.374800 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766632 42.374910 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.766632 42.374800  -2.766712 42.374853  -2.766940 42.374910  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ollerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -1043,6 +1063,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.767982 42.374881  -2.768438 42.374780  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Molino</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cárdenas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cárdenas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.041.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604100041</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4151324">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.767982 42.374881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.767358 42.375014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.767358 42.375014  -2.767398 42.375011  -2.767982 42.374881  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Molino</ms:NOMBRE_COMPLETO_VIAL>
