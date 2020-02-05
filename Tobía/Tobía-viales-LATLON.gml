@@ -533,6 +533,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1547698">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.814934 42.298525 </gml:lowerCorner>
+        		<gml:upperCorner>-2.814670 42.298664 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.814670 42.298664  -2.814934 42.298525  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.149.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614900016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1547699">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -890,26 +910,6 @@
         <ms:NOMBRE_MUNICIPIO>Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.149.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614900022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1547698">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.814934 42.298525 </gml:lowerCorner>
-        		<gml:upperCorner>-2.814670 42.298664 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.814670 42.298664  -2.814934 42.298525  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calleja de Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Tobía</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Tobía</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.149.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614900023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

@@ -88,7 +88,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -108,7 +108,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -128,7 +128,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -148,7 +148,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -168,7 +168,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -188,7 +188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -208,7 +208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -228,7 +228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -248,7 +248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1936,13 +1936,13 @@
       <ms:viales gml:id="viales.1534402">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.795298 42.297158 </gml:lowerCorner>
-        		<gml:upperCorner>-2.795246 42.297269 </gml:upperCorner>
+        		<gml:lowerCorner>-2.795276 42.297158 </gml:lowerCorner>
+        		<gml:upperCorner>-2.795246 42.297224 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.795246 42.297158  -2.795298 42.297269  </gml:posList>
+            <gml:posList srsDimension="2">-2.795246 42.297158  -2.795265 42.297198  -2.795276 42.297224  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
@@ -2508,7 +2508,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trasera de Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.32</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2528,7 +2528,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trasera de Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.095.32</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609500049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
