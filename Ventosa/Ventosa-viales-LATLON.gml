@@ -188,7 +188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventosa</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ventosa</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.163.30</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616300030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

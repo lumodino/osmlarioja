@@ -448,7 +448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Aldealobos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.131</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -468,7 +468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Aldealobos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.131</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -488,7 +488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Ermita</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Aldealobos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.131</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -968,7 +968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Callejuela</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Las Ruedas de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.134</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800099</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1148,7 +1148,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Las Ruedas de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.130</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800128</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1168,7 +1168,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Las Ruedas de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.133</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1228,7 +1228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Los Molinos de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.097.132</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610800101</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

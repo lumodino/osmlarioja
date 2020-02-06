@@ -5188,7 +5188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.142.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200126</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5208,7 +5208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.142.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200126</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

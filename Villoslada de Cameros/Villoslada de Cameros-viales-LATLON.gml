@@ -68,7 +68,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700415</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -88,7 +88,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700415</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -108,7 +108,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700415</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -128,7 +128,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700415</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -148,7 +148,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700415</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -168,7 +168,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700317</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -188,7 +188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700317</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -208,7 +208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700317</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -228,7 +228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700317</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -248,7 +248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Corral</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.30</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700126</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -268,7 +268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700104</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -288,7 +288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Fuentes</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700230</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -308,7 +308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huerto Rey</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700258</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -328,7 +328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Canal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.24</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -408,7 +408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Tubo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.19</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700436</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -428,7 +428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.1</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -448,7 +448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.1</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -468,7 +468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.1</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -488,7 +488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.1</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -508,7 +508,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ranal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700043</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -648,7 +648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Depósitos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700163</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -668,7 +668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Depósitos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700163</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -688,7 +688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Depósitos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700163</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -708,7 +708,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Depósitos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700163</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2108,7 +2108,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.17</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700261</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2128,7 +2128,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.17</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700261</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2248,7 +2248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700338</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2268,7 +2268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700338</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2288,7 +2288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700338</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2308,7 +2308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700338</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2328,7 +2328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700338</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2348,7 +2348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700338</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2368,7 +2368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Martín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.10</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700369</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2388,7 +2388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escalinata</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700198</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2408,7 +2408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escalinata</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700198</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2428,7 +2428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escalinata</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700198</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2448,7 +2448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escalinata</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.26</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700198</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2588,7 +2588,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2608,7 +2608,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2628,7 +2628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2648,7 +2648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2668,7 +2668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2688,7 +2688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2708,7 +2708,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2728,7 +2728,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2748,7 +2748,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700381</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2768,7 +2768,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Chopera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700150</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2788,7 +2788,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Chopera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700150</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2808,7 +2808,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jacinto Alonso Laspeñas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.39</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2828,7 +2828,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jacinto Alonso Laspeñas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.39</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3068,7 +3068,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Miguel</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.46</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3088,7 +3088,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza San Miguel</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.46</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3108,7 +3108,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cuesta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700132</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3208,7 +3208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700219</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3228,7 +3228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700219</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3248,7 +3248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700219</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3268,7 +3268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700219</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3408,7 +3408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Faroles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.11</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700202</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3428,7 +3428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Faroles</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.11</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700202</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3448,7 +3448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700296</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3468,7 +3468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700296</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3488,7 +3488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700296</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3508,7 +3508,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700296</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3668,7 +3668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.178.2</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617700394</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
