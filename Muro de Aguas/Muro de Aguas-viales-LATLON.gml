@@ -136,13 +136,13 @@
       <ms:viales gml:id="viales.4133106">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.110338 42.133423 </gml:lowerCorner>
-        		<gml:upperCorner>-2.109789 42.133497 </gml:upperCorner>
+        		<gml:lowerCorner>-2.110338 42.133418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109804 42.133497 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.110338 42.133497  -2.110300 42.133496  -2.110125 42.133479  -2.109789 42.133423  </gml:posList>
+            <gml:posList srsDimension="2">-2.110338 42.133497  -2.110300 42.133496  -2.110125 42.133479  -2.109961 42.133444  -2.109804 42.133418  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Calleja Solana</ms:NOMBRE_COMPLETO_VIAL>

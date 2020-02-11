@@ -28,7 +28,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.22</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612300028</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -48,7 +48,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.22</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612300028</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -313,66 +313,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1540239">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.201014 42.336029 </gml:lowerCorner>
-        		<gml:upperCorner>-2.200985 42.336336 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.201014 42.336029  -2.200985 42.336335  -2.200985 42.336336  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.123.5</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1540253">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.200985 42.336174 </gml:lowerCorner>
-        		<gml:upperCorner>-2.200599 42.336336 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.200985 42.336336  -2.200807 42.336288  -2.200599 42.336174  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.123.5</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1540268">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.200985 42.336336 </gml:lowerCorner>
-        		<gml:upperCorner>-2.200961 42.336598 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.200985 42.336336  -2.200961 42.336598  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.123.5</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1540283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -383,6 +323,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.200735 42.337087  -2.200690 42.336829  -2.200741 42.336798  -2.200880 42.336769  -2.200956 42.336653  -2.200961 42.336598  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.123.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4157913">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.201014 42.336029 </gml:lowerCorner>
+        		<gml:upperCorner>-2.200961 42.336598 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.201014 42.336029  -2.200985 42.336335  -2.200985 42.336336  -2.200961 42.336598  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
@@ -988,7 +948,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Escuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1008,7 +968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1028,7 +988,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1048,7 +1008,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1068,7 +1028,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1088,7 +1048,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1108,7 +1068,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1128,7 +1088,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1148,7 +1108,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1168,7 +1128,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Redal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Redal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.123.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
