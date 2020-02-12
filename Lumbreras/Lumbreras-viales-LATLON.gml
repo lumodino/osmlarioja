@@ -149,7 +149,7 @@
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2609100055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -169,7 +169,7 @@
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2609100055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -189,7 +189,7 @@
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2609100055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -288,7 +288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.24</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -308,7 +308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.24</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -448,7 +448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -468,7 +468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -488,7 +488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -508,8 +508,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Isabel</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609100038</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -608,7 +608,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerca</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -628,7 +628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerca</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -748,7 +748,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -768,7 +768,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -788,7 +788,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -808,7 +808,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -828,7 +828,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -848,7 +848,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -868,7 +868,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -888,7 +888,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -908,7 +908,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -928,7 +928,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -948,7 +948,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -968,7 +968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2548,7 +2548,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.19</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2568,7 +2568,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.19</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100039</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2588,7 +2588,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2608,7 +2608,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2628,7 +2628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.091.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100060</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
