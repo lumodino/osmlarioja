@@ -513,26 +513,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550356">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.067894 42.131572 </gml:lowerCorner>
-        		<gml:upperCorner>-2.067770 42.131749 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.067770 42.131572  -2.067894 42.131747  -2.067894 42.131749  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Capellanía</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villarroya</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villarroya</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.174.3</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617300005</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1550357">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -683,6 +663,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.067891 42.132034  -2.067902 42.131842  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Capellanía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarroya</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarroya</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.174.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617300005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4158087">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067814 42.131572 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067770 42.131634 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.067770 42.131572  -2.067814 42.131634  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Capellanía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarroya</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarroya</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.174.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617300005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4158088">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067894 42.131634 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067814 42.131749 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.067814 42.131634  -2.067894 42.131747  -2.067894 42.131749  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Capellanía</ms:NOMBRE_COMPLETO_VIAL>
@@ -873,36 +893,56 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4136590">
+      <ms:viales gml:id="viales.4158084">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.067641 42.132005 </gml:lowerCorner>
-        		<gml:upperCorner>-2.067500 42.132035 </gml:upperCorner>
+        		<gml:lowerCorner>-2.067894 42.131701 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067591 42.131753 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.067641 42.132035  -2.067637 42.132033  -2.067578 42.132008  -2.067500 42.132005  </gml:posList>
+            <gml:posList srsDimension="2">-2.067894 42.131749  -2.067763 42.131748  -2.067637 42.131753  -2.067609 42.131727  -2.067591 42.131701  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Escuela</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villarroya</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villarroya</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.174.8</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617300007</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.174.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617300006</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550370">
+      <ms:viales gml:id="viales.4158085">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.067894 42.131709 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.067591 42.131701 </gml:lowerCorner>
         		<gml:upperCorner>-2.067438 42.131764 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.067894 42.131749  -2.067762 42.131743  -2.067690 42.131735  -2.067620 42.131711  -2.067552 42.131709  -2.067438 42.131764  </gml:posList>
+            <gml:posList srsDimension="2">-2.067591 42.131701  -2.067438 42.131764  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Escuela</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarroya</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarroya</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.174.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617300006</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4158086">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067814 42.131634 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067591 42.131701 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.067591 42.131701  -2.067594 42.131663  -2.067814 42.131634  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Escuela</ms:NOMBRE_COMPLETO_VIAL>
