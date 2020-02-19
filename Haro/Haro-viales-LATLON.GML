@@ -9773,16 +9773,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1530471">
+      <ms:viales gml:id="viales.1530480">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.844654 42.577245 </gml:lowerCorner>
-        		<gml:upperCorner>-2.844323 42.577357 </gml:upperCorner>
+        		<gml:lowerCorner>-2.844345 42.577357 </gml:lowerCorner>
+        		<gml:upperCorner>-2.844323 42.577488 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.844654 42.577245  -2.844323 42.577357  </gml:posList>
+            <gml:posList srsDimension="2">-2.844345 42.577488  -2.844323 42.577357  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Dos de Mayo</ms:NOMBRE_COMPLETO_VIAL>
@@ -10033,16 +10033,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1530480">
+      <ms:viales gml:id="viales.1530471">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.844345 42.577357 </gml:lowerCorner>
-        		<gml:upperCorner>-2.844323 42.577488 </gml:upperCorner>
+        		<gml:lowerCorner>-2.844654 42.577245 </gml:lowerCorner>
+        		<gml:upperCorner>-2.844323 42.577357 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.844345 42.577488  -2.844323 42.577357  </gml:posList>
+            <gml:posList srsDimension="2">-2.844654 42.577245  -2.844323 42.577357  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diego de Leiva</ms:NOMBRE_COMPLETO_VIAL>

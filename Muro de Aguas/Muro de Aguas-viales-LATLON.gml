@@ -296,13 +296,13 @@
       <ms:viales gml:id="viales.1535083">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.112753 42.133949 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112653 42.134100 </gml:upperCorner>
+        		<gml:lowerCorner>-2.112776 42.133949 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112653 42.134135 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112653 42.133949  -2.112654 42.133949  -2.112753 42.134100  </gml:posList>
+            <gml:posList srsDimension="2">-2.112653 42.133949  -2.112654 42.133949  -2.112776 42.134135  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
@@ -337,12 +337,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.112962 42.134024 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112753 42.134100 </gml:upperCorner>
+        		<gml:upperCorner>-2.112776 42.134135 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112962 42.134024  -2.112826 42.134086  -2.112753 42.134100  </gml:posList>
+            <gml:posList srsDimension="2">-2.112962 42.134024  -2.112844 42.134100  -2.112776 42.134135  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
@@ -382,7 +382,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112753 42.134100  -2.112753 42.134100  -2.112792 42.134159  </gml:posList>
+            <gml:posList srsDimension="2">-2.112776 42.134135  -2.112753 42.134100  -2.112792 42.134159  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
@@ -733,16 +733,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535043">
+      <ms:viales gml:id="viales.1535110">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111287 42.134286 </gml:lowerCorner>
-        		<gml:upperCorner>-2.111143 42.134529 </gml:upperCorner>
+        		<gml:lowerCorner>-2.111007 42.134351 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110778 42.134484 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111287 42.134529  -2.111237 42.134423  -2.111143 42.134286  </gml:posList>
+            <gml:posList srsDimension="2">-2.111007 42.134484  -2.110778 42.134351  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuatro Esquinas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.101.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610000025</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535043">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.111287 42.134275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.111138 42.134529 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.111287 42.134529  -2.111237 42.134423  -2.111138 42.134275  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Solana</ms:NOMBRE_COMPLETO_VIAL>
@@ -813,56 +833,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535110">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111007 42.134351 </gml:lowerCorner>
-        		<gml:upperCorner>-2.110778 42.134484 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111007 42.134484  -2.110778 42.134351  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610000017</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535113">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111014 42.134277 </gml:lowerCorner>
-        		<gml:upperCorner>-2.110883 42.134340 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111014 42.134340  -2.110986 42.134335  -2.110883 42.134277  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610000017</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535133">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111143 42.134104 </gml:lowerCorner>
-        		<gml:upperCorner>-2.111059 42.134286 </gml:upperCorner>
+        		<gml:lowerCorner>-2.111138 42.134104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.111059 42.134275 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111059 42.134104  -2.111143 42.134286  </gml:posList>
+            <gml:posList srsDimension="2">-2.111059 42.134104  -2.111138 42.134275  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Solana</ms:NOMBRE_COMPLETO_VIAL>
@@ -1353,6 +1333,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1535079">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.111480 42.132470 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110998 42.132792 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.111480 42.132792  -2.111275 42.132791  -2.111129 42.132751  -2.111034 42.132702  -2.110998 42.132641  -2.111014 42.132470  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cerrillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.101.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1535086">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1697,32 +1697,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.111453 42.134217 </gml:lowerCorner>
-        		<gml:upperCorner>-2.111143 42.134286 </gml:upperCorner>
+        		<gml:upperCorner>-2.111138 42.134275 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111453 42.134217  -2.111143 42.134286  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535079">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111480 42.132470 </gml:lowerCorner>
-        		<gml:upperCorner>-2.110998 42.132792 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111480 42.132792  -2.111275 42.132791  -2.111129 42.132751  -2.111034 42.132702  -2.110998 42.132641  -2.111014 42.132470  </gml:posList>
+            <gml:posList srsDimension="2">-2.111453 42.134217  -2.111138 42.134275  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -1736,13 +1716,13 @@
       <ms:viales gml:id="viales.1535111">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111027 42.134340 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.111027 42.134339 </gml:lowerCorner>
         		<gml:upperCorner>-2.110980 42.134484 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111007 42.134484  -2.111027 42.134459  -2.111021 42.134435  -2.110980 42.134402  -2.110987 42.134381  -2.111014 42.134340  </gml:posList>
+            <gml:posList srsDimension="2">-2.111007 42.134484  -2.111027 42.134459  -2.111021 42.134435  -2.110980 42.134402  -2.110987 42.134381  -2.111010 42.134339  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -1756,13 +1736,33 @@
       <ms:viales gml:id="viales.1535112">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.111143 42.134286 </gml:lowerCorner>
-        		<gml:upperCorner>-2.111014 42.134340 </gml:upperCorner>
+        		<gml:lowerCorner>-2.111138 42.134275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.111010 42.134339 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111143 42.134286  -2.111014 42.134340  </gml:posList>
+            <gml:posList srsDimension="2">-2.111138 42.134275  -2.111010 42.134339  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.101.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535113">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.111010 42.134277 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110883 42.134339 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.111010 42.134339  -2.110986 42.134335  -2.110883 42.134277  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2073,26 +2073,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535075">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166011 42.121586 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165530 42.121737 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165530 42.121586  -2.165620 42.121705  -2.165681 42.121737  -2.165851 42.121697  -2.166011 42.121721  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Somera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ambas Aguas o Entrambas Aguas</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.15</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535088">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2102,7 +2082,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165530 42.121586  -2.165638 42.121594  -2.165916 42.121552  -2.166068 42.121550  -2.166346 42.121559  -2.166642 42.121584  -2.167026 42.121665  -2.167338 42.121732  -2.167839 42.121864  -2.168247 42.122004  -2.168643 42.122184  </gml:posList>
+            <gml:posList srsDimension="2">-2.165530 42.121586  -2.165639 42.121580  -2.165916 42.121552  -2.166068 42.121550  -2.166346 42.121559  -2.166642 42.121584  -2.167026 42.121665  -2.167338 42.121732  -2.167839 42.121864  -2.168247 42.122004  -2.168643 42.122184  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somera</ms:NOMBRE_COMPLETO_VIAL>
@@ -2193,16 +2173,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535090">
+      <ms:viales gml:id="viales.4159102">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.166532 42.121721 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165948 42.122020 </gml:upperCorner>
+        		<gml:upperCorner>-2.165948 42.122039 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166011 42.121721  -2.166000 42.121821  -2.165969 42.121842  -2.165948 42.121875  -2.165999 42.122007  -2.166035 42.122020  -2.166135 42.121993  -2.166338 42.121953  -2.166532 42.121922  </gml:posList>
+            <gml:posList srsDimension="2">-2.166011 42.121721  -2.166000 42.121821  -2.165969 42.121842  -2.165948 42.121875  -2.165981 42.121986  -2.165999 42.122007  -2.166017 42.122039  -2.166135 42.121993  -2.166338 42.121953  -2.166532 42.121922  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio Viñas</ms:NOMBRE_COMPLETO_VIAL>
@@ -2210,26 +2190,6 @@
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.101.17</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610000024</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535091">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165138 42.121049 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164871 42.121254 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.164871 42.121049  -2.165135 42.121249  -2.165138 42.121254  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Verde</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ambas Aguas o Entrambas Aguas</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610000022</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2253,43 +2213,43 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535094">
+      <ms:viales gml:id="viales.1535075">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165337 42.121254 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165138 42.121553 </gml:upperCorner>
+        		<gml:lowerCorner>-2.166011 42.121586 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165530 42.121737 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165138 42.121254  -2.165209 42.121393  -2.165337 42.121553  </gml:posList>
+            <gml:posList srsDimension="2">-2.165530 42.121586  -2.165620 42.121705  -2.165681 42.121737  -2.165851 42.121697  -2.166011 42.121721  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Verde</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ambas Aguas o Entrambas Aguas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610000022</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.101.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610000011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535098">
+      <ms:viales gml:id="viales.1535091">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164871 42.120729 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164421 42.121049 </gml:upperCorner>
+        		<gml:lowerCorner>-2.165138 42.121049 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164871 42.121254 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.164871 42.121049  -2.164421 42.120729  </gml:posList>
+            <gml:posList srsDimension="2">-2.164871 42.121049  -2.165135 42.121249  -2.165138 42.121254  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Verde</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ambas Aguas o Entrambas Aguas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.101.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610000022</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.101.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610000011</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2313,6 +2273,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1535094">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165337 42.121254 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165138 42.121553 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.165138 42.121254  -2.165209 42.121393  -2.165337 42.121553  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ambas Aguas o Entrambas Aguas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.101.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610000011</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1535095">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2323,6 +2303,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.165138 42.121254  -2.165225 42.121079  -2.165326 42.120778  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ambas Aguas o Entrambas Aguas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.101.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610000011</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535098">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.164871 42.120729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164421 42.121049 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.164871 42.121049  -2.164421 42.120729  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
