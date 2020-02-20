@@ -48,7 +48,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.46</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800096</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -789,7 +789,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -809,7 +809,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -829,7 +829,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800088</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1228,7 +1228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1248,7 +1248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1268,7 +1268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1288,7 +1288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1308,7 +1308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1328,7 +1328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1348,7 +1348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800065</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1369,7 +1369,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1389,7 +1389,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1409,7 +1409,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1429,7 +1429,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1449,7 +1449,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2189,7 +2189,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2209,7 +2209,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2229,7 +2229,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2249,7 +2249,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2269,7 +2269,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800090</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2368,7 +2368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2388,7 +2388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2408,7 +2408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2428,7 +2428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2448,7 +2448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2468,7 +2468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2488,7 +2488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida la Paz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2509,7 +2509,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2529,7 +2529,7 @@
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2615800037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2548,7 +2548,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 4 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.34</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2568,7 +2568,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 4 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.34</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2588,7 +2588,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil 4 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.34</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615800068</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2608,8 +2608,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2615800074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2628,8 +2628,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2615800074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2648,7 +2648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Residencial La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.158.41</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
