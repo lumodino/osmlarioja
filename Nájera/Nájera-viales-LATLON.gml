@@ -2036,13 +2036,13 @@
       <ms:viales gml:id="viales.1535357">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731647 42.417851 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.731630 42.417851 </gml:lowerCorner>
         		<gml:upperCorner>-2.731068 42.417968 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.731647 42.417910  -2.731498 42.417878  -2.731264 42.417851  -2.731068 42.417968  </gml:posList>
+            <gml:posList srsDimension="2">-2.731630 42.417930  -2.731498 42.417878  -2.731264 42.417851  -2.731068 42.417968  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Grupo Rey Don García</ms:NOMBRE_COMPLETO_VIAL>
@@ -2056,13 +2056,13 @@
       <ms:viales gml:id="viales.1535361">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731647 42.417910 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.731630 42.417930 </gml:lowerCorner>
         		<gml:upperCorner>-2.731438 42.418154 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.731438 42.418154  -2.731557 42.418018  -2.731614 42.417951  -2.731647 42.417910  </gml:posList>
+            <gml:posList srsDimension="2">-2.731438 42.418154  -2.731557 42.418018  -2.731614 42.417951  -2.731630 42.417930  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Grupo Rey Don García</ms:NOMBRE_COMPLETO_VIAL>
@@ -2076,13 +2076,13 @@
       <ms:viales gml:id="viales.1535606">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731818 42.417910 </gml:lowerCorner>
-        		<gml:upperCorner>-2.731647 42.417947 </gml:upperCorner>
+        		<gml:lowerCorner>-2.731818 42.417930 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731630 42.417947 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.731818 42.417947  -2.731647 42.417910  </gml:posList>
+            <gml:posList srsDimension="2">-2.731818 42.417947  -2.731630 42.417930  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Grupo Rey Don García</ms:NOMBRE_COMPLETO_VIAL>
@@ -9008,7 +9008,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera N-120A</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nájera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nájera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.103.103</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -9028,7 +9028,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera N-120A</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nájera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nájera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.103.103</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

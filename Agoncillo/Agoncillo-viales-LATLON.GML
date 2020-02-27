@@ -68,7 +68,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Murillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.17</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200071</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1168,7 +1168,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1188,7 +1188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1208,7 +1208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1228,7 +1228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1248,7 +1248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1268,7 +1268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1288,7 +1288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1308,7 +1308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1328,7 +1328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1348,7 +1348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200005</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1729,7 +1729,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1749,7 +1749,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1769,7 +1769,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1789,7 +1789,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1809,7 +1809,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1829,7 +1829,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1849,7 +1849,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1869,7 +1869,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1889,7 +1889,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1909,7 +1909,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1929,7 +1929,7 @@
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4928,7 +4928,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Polvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4948,7 +4948,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Polvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4968,7 +4968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Polvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.33</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5348,8 +5348,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Río Iregua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.002.48</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600200122</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
