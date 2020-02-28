@@ -16,13 +16,13 @@
       <ms:portales gml:id="portales.311259">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673113 42.113755 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673113 42.113755 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673112 42.113756 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673112 42.113756 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673113 42.113755 </gml:pos>
+            <gml:pos>-2.673112 42.113756 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -37,13 +37,13 @@
       <ms:portales gml:id="portales.311258">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673219 42.113885 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673219 42.113885 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673218 42.113887 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673218 42.113887 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673219 42.113885 </gml:pos>
+            <gml:pos>-2.673218 42.113887 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -100,13 +100,13 @@
       <ms:portales gml:id="portales.311289">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672917 42.114393 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672917 42.114393 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672915 42.114394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672915 42.114394 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672917 42.114393 </gml:pos>
+            <gml:pos>-2.672915 42.114394 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Tejuelas</ms:NOMBRE_COMPLETO_VIAL>
@@ -184,13 +184,13 @@
       <ms:portales gml:id="portales.311285">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673189 42.114178 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673189 42.114178 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673189 42.114179 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673189 42.114179 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673189 42.114178 </gml:pos>
+            <gml:pos>-2.673189 42.114179 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
@@ -226,13 +226,13 @@
       <ms:portales gml:id="portales.311284">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673205 42.114269 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673205 42.114269 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673206 42.114269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673206 42.114269 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673205 42.114269 </gml:pos>
+            <gml:pos>-2.673206 42.114269 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
@@ -247,13 +247,13 @@
       <ms:portales gml:id="portales.311283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673118 42.114336 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673118 42.114336 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673118 42.114335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673118 42.114335 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673118 42.114336 </gml:pos>
+            <gml:pos>-2.673118 42.114335 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
@@ -499,13 +499,13 @@
       <ms:portales gml:id="portales.311260">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674675 42.114210 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674675 42.114210 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674676 42.114210 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674676 42.114210 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674675 42.114210 </gml:pos>
+            <gml:pos>-2.674676 42.114210 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Fuentes</ms:NOMBRE_COMPLETO_VIAL>
@@ -982,13 +982,13 @@
       <ms:portales gml:id="portales.4125596">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.669874 42.112050 </gml:lowerCorner>
-        		<gml:upperCorner>-2.669874 42.112050 </gml:upperCorner>
+        		<gml:lowerCorner>-2.669874 42.112049 </gml:lowerCorner>
+        		<gml:upperCorner>-2.669874 42.112049 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.669874 42.112050 </gml:pos>
+            <gml:pos>-2.669874 42.112049 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Parque</ms:NOMBRE_COMPLETO_VIAL>
@@ -1528,13 +1528,13 @@
       <ms:portales gml:id="portales.310932">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.671894 42.113735 </gml:lowerCorner>
-        		<gml:upperCorner>-2.671894 42.113735 </gml:upperCorner>
+        		<gml:lowerCorner>-2.671894 42.113751 </gml:lowerCorner>
+        		<gml:upperCorner>-2.671894 42.113751 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.671894 42.113735 </gml:pos>
+            <gml:pos>-2.671894 42.113751 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ranal</ms:NOMBRE_COMPLETO_VIAL>
@@ -3103,13 +3103,13 @@
       <ms:portales gml:id="portales.310891">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674913 42.112236 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674913 42.112236 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674906 42.112235 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674906 42.112235 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674913 42.112236 </gml:pos>
+            <gml:pos>-2.674906 42.112235 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3145,13 +3145,13 @@
       <ms:portales gml:id="portales.310863">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675258 42.111313 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675258 42.111313 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675257 42.111314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675257 42.111314 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675258 42.111313 </gml:pos>
+            <gml:pos>-2.675257 42.111314 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3187,13 +3187,13 @@
       <ms:portales gml:id="portales.310899">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675129 42.111563 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675129 42.111563 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675144 42.111564 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675144 42.111564 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675129 42.111563 </gml:pos>
+            <gml:pos>-2.675144 42.111564 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3712,13 +3712,13 @@
       <ms:portales gml:id="portales.310901">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675353 42.111604 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675353 42.111604 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675352 42.111603 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675352 42.111603 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675353 42.111604 </gml:pos>
+            <gml:pos>-2.675352 42.111603 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3733,13 +3733,13 @@
       <ms:portales gml:id="portales.310847">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675384 42.111135 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675384 42.111135 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675383 42.111135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675383 42.111135 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675384 42.111135 </gml:pos>
+            <gml:pos>-2.675383 42.111135 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3817,13 +3817,13 @@
       <ms:portales gml:id="portales.310850">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675413 42.110994 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675413 42.110994 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675412 42.110994 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675412 42.110994 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675413 42.110994 </gml:pos>
+            <gml:pos>-2.675412 42.110994 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3838,13 +3838,13 @@
       <ms:portales gml:id="portales.310884">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674992 42.113371 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674992 42.113371 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674994 42.113369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674994 42.113369 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674992 42.113371 </gml:pos>
+            <gml:pos>-2.674994 42.113369 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -3880,13 +3880,13 @@
       <ms:portales gml:id="portales.310852">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675599 42.110730 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675599 42.110730 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675596 42.110729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675596 42.110729 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675599 42.110730 </gml:pos>
+            <gml:pos>-2.675596 42.110729 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -4153,13 +4153,13 @@
       <ms:portales gml:id="portales.311243">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674666 42.112960 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674666 42.112960 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674678 42.112950 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674678 42.112950 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674666 42.112960 </gml:pos>
+            <gml:pos>-2.674678 42.112950 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -4174,13 +4174,13 @@
       <ms:portales gml:id="portales.4125097">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674834 42.113222 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674834 42.113222 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674836 42.113221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674836 42.113221 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674834 42.113222 </gml:pos>
+            <gml:pos>-2.674836 42.113221 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -4216,13 +4216,13 @@
       <ms:portales gml:id="portales.4125098">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674663 42.112870 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674663 42.112870 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674667 42.112873 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674667 42.112873 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674663 42.112870 </gml:pos>
+            <gml:pos>-2.674667 42.112873 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -4237,13 +4237,13 @@
       <ms:portales gml:id="portales.310890">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674835 42.112674 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674835 42.112674 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674833 42.112672 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674833 42.112672 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674835 42.112674 </gml:pos>
+            <gml:pos>-2.674833 42.112672 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Agustín Muro</ms:NOMBRE_COMPLETO_VIAL>
@@ -4384,13 +4384,13 @@
       <ms:portales gml:id="portales.310912">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674829 42.111428 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674829 42.111428 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674827 42.111428 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674827 42.111428 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674829 42.111428 </gml:pos>
+            <gml:pos>-2.674827 42.111428 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ángel Gil</ms:NOMBRE_COMPLETO_VIAL>
@@ -4447,13 +4447,13 @@
       <ms:portales gml:id="portales.310911">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674837 42.111324 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674837 42.111324 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674836 42.111324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674836 42.111324 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674837 42.111324 </gml:pos>
+            <gml:pos>-2.674836 42.111324 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ángel Gil</ms:NOMBRE_COMPLETO_VIAL>
@@ -4510,13 +4510,13 @@
       <ms:portales gml:id="portales.310906">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674024 42.113000 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674024 42.113000 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674025 42.113001 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674025 42.113001 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674024 42.113000 </gml:pos>
+            <gml:pos>-2.674025 42.113001 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ángel Gil</ms:NOMBRE_COMPLETO_VIAL>
@@ -4552,13 +4552,13 @@
       <ms:portales gml:id="portales.4131731">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674139 42.112959 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674139 42.112959 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674141 42.112960 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674141 42.112960 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674139 42.112959 </gml:pos>
+            <gml:pos>-2.674141 42.112960 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ángel Gil</ms:NOMBRE_COMPLETO_VIAL>
@@ -4762,13 +4762,13 @@
       <ms:portales gml:id="portales.311657">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674320 42.113725 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674320 42.113725 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674319 42.113724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674319 42.113724 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674320 42.113725 </gml:pos>
+            <gml:pos>-2.674319 42.113724 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -4930,13 +4930,13 @@
       <ms:portales gml:id="portales.311647">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674560 42.113634 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674560 42.113634 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674561 42.113634 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674561 42.113634 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674560 42.113634 </gml:pos>
+            <gml:pos>-2.674561 42.113634 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -4972,13 +4972,13 @@
       <ms:portales gml:id="portales.311645">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674363 42.113418 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674363 42.113418 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674361 42.113419 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674361 42.113419 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674363 42.113418 </gml:pos>
+            <gml:pos>-2.674361 42.113419 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5014,13 +5014,13 @@
       <ms:portales gml:id="portales.311654">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674484 42.112844 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674484 42.112844 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674483 42.112843 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674483 42.112843 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674484 42.112844 </gml:pos>
+            <gml:pos>-2.674483 42.112843 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5035,13 +5035,13 @@
       <ms:portales gml:id="portales.311250">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674353 42.113061 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674353 42.113061 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674352 42.113061 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674352 42.113061 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674353 42.113061 </gml:pos>
+            <gml:pos>-2.674352 42.113061 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5098,13 +5098,13 @@
       <ms:portales gml:id="portales.311650">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674687 42.112520 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674687 42.112520 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674683 42.112518 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674683 42.112518 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674687 42.112520 </gml:pos>
+            <gml:pos>-2.674683 42.112518 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5119,13 +5119,13 @@
       <ms:portales gml:id="portales.311649">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674755 42.112450 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674755 42.112450 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674747 42.112446 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674747 42.112446 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674755 42.112450 </gml:pos>
+            <gml:pos>-2.674747 42.112446 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5140,13 +5140,13 @@
       <ms:portales gml:id="portales.4125633">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674840 42.112169 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674840 42.112169 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674838 42.112169 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674838 42.112169 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674840 42.112169 </gml:pos>
+            <gml:pos>-2.674838 42.112169 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5161,13 +5161,13 @@
       <ms:portales gml:id="portales.311648">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674798 42.112344 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674798 42.112344 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674790 42.112343 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674790 42.112343 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674798 42.112344 </gml:pos>
+            <gml:pos>-2.674790 42.112343 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5182,13 +5182,13 @@
       <ms:portales gml:id="portales.311651">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674894 42.111970 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674894 42.111970 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674893 42.111969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674893 42.111969 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674894 42.111970 </gml:pos>
+            <gml:pos>-2.674893 42.111969 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5224,13 +5224,13 @@
       <ms:portales gml:id="portales.311665">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674028 42.113786 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674028 42.113786 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674028 42.113785 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674028 42.113785 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674028 42.113786 </gml:pos>
+            <gml:pos>-2.674028 42.113785 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5266,13 +5266,13 @@
       <ms:portales gml:id="portales.311666">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674136 42.113785 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674136 42.113785 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674135 42.113784 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674135 42.113784 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674136 42.113785 </gml:pos>
+            <gml:pos>-2.674135 42.113784 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5308,13 +5308,13 @@
       <ms:portales gml:id="portales.311656">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674121 42.113711 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674121 42.113711 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674120 42.113711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674120 42.113711 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674121 42.113711 </gml:pos>
+            <gml:pos>-2.674120 42.113711 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Trinidad</ms:NOMBRE_COMPLETO_VIAL>
@@ -5329,13 +5329,13 @@
       <ms:portales gml:id="portales.311564">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673754 42.114015 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673754 42.114015 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673755 42.114013 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673755 42.114013 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673754 42.114015 </gml:pos>
+            <gml:pos>-2.673755 42.114013 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -5392,13 +5392,13 @@
       <ms:portales gml:id="portales.311265">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674326 42.114248 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674326 42.114248 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674324 42.114250 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674324 42.114250 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674326 42.114248 </gml:pos>
+            <gml:pos>-2.674324 42.114250 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -5581,13 +5581,13 @@
       <ms:portales gml:id="portales.311315">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674897 42.113823 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674897 42.113823 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674896 42.113830 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674896 42.113830 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674897 42.113823 </gml:pos>
+            <gml:pos>-2.674896 42.113830 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Maguillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -5728,13 +5728,13 @@
       <ms:portales gml:id="portales.311308">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673499 42.113394 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673499 42.113394 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673498 42.113394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673498 42.113394 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673499 42.113394 </gml:pos>
+            <gml:pos>-2.673498 42.113394 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Maguillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -5896,13 +5896,13 @@
       <ms:portales gml:id="portales.311562">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674096 42.114363 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674096 42.114363 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674096 42.114375 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674096 42.114375 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674096 42.114363 </gml:pos>
+            <gml:pos>-2.674096 42.114375 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
@@ -6190,13 +6190,13 @@
       <ms:portales gml:id="portales.4125100">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675357 42.114451 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675357 42.114451 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675356 42.114442 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675356 42.114442 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675357 42.114451 </gml:pos>
+            <gml:pos>-2.675356 42.114442 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
@@ -6211,13 +6211,13 @@
       <ms:portales gml:id="portales.311571">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675149 42.114500 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675149 42.114500 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675147 42.114500 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675147 42.114500 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675149 42.114500 </gml:pos>
+            <gml:pos>-2.675147 42.114500 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
@@ -6253,13 +6253,13 @@
       <ms:portales gml:id="portales.4125623">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.676178 42.114223 </gml:lowerCorner>
-        		<gml:upperCorner>-2.676178 42.114223 </gml:upperCorner>
+        		<gml:lowerCorner>-2.676177 42.114223 </gml:lowerCorner>
+        		<gml:upperCorner>-2.676177 42.114223 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.676178 42.114223 </gml:pos>
+            <gml:pos>-2.676177 42.114223 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Plaza</ms:NOMBRE_COMPLETO_VIAL>
@@ -6463,13 +6463,13 @@
       <ms:portales gml:id="portales.4125625">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675828 42.111138 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675828 42.111138 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675831 42.111138 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675831 42.111138 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675828 42.111138 </gml:pos>
+            <gml:pos>-2.675831 42.111138 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Martín</ms:NOMBRE_COMPLETO_VIAL>
@@ -6484,13 +6484,13 @@
       <ms:portales gml:id="portales.4125626">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.675873 42.111024 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675873 42.111024 </gml:upperCorner>
+        		<gml:lowerCorner>-2.675874 42.111024 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675874 42.111024 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.675873 42.111024 </gml:pos>
+            <gml:pos>-2.675874 42.111024 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Martín</ms:NOMBRE_COMPLETO_VIAL>
@@ -6778,13 +6778,13 @@
       <ms:portales gml:id="portales.4125620">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672920 42.114067 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672920 42.114067 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672919 42.114068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672919 42.114068 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672920 42.114067 </gml:pos>
+            <gml:pos>-2.672919 42.114068 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escalinata</ms:NOMBRE_COMPLETO_VIAL>
@@ -6841,13 +6841,13 @@
       <ms:portales gml:id="portales.311557">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673635 42.114304 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673635 42.114304 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673635 42.114305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673635 42.114305 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673635 42.114304 </gml:pos>
+            <gml:pos>-2.673635 42.114305 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escalinata</ms:NOMBRE_COMPLETO_VIAL>
@@ -7072,13 +7072,13 @@
       <ms:portales gml:id="portales.311227">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673246 42.113094 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673246 42.113094 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673248 42.113092 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673248 42.113092 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673246 42.113094 </gml:pos>
+            <gml:pos>-2.673248 42.113092 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Francisco Zabala</ms:NOMBRE_COMPLETO_VIAL>
@@ -7450,13 +7450,13 @@
       <ms:portales gml:id="portales.311912">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673563 42.111354 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673563 42.111354 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673565 42.111354 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673565 42.111354 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673563 42.111354 </gml:pos>
+            <gml:pos>-2.673565 42.111354 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
@@ -7660,13 +7660,13 @@
       <ms:portales gml:id="portales.311926">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672582 42.115078 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672582 42.115078 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672620 42.115056 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672620 42.115056 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672582 42.115078 </gml:pos>
+            <gml:pos>-2.672620 42.115056 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jacinto Alonso Laspeñas</ms:NOMBRE_COMPLETO_VIAL>
@@ -7702,13 +7702,13 @@
       <ms:portales gml:id="portales.311925">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673298 42.115081 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673298 42.115081 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673281 42.115075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673281 42.115075 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673298 42.115081 </gml:pos>
+            <gml:pos>-2.673281 42.115075 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Jacinto Alonso Laspeñas</ms:NOMBRE_COMPLETO_VIAL>
@@ -7786,13 +7786,13 @@
       <ms:portales gml:id="portales.4131734">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.671692 42.115180 </gml:lowerCorner>
-        		<gml:upperCorner>-2.671692 42.115180 </gml:upperCorner>
+        		<gml:lowerCorner>-2.671693 42.115181 </gml:lowerCorner>
+        		<gml:upperCorner>-2.671693 42.115181 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.671692 42.115180 </gml:pos>
+            <gml:pos>-2.671693 42.115181 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Erraño</ms:NOMBRE_COMPLETO_VIAL>
@@ -7807,13 +7807,13 @@
       <ms:portales gml:id="portales.1289093">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672588 42.114758 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672588 42.114758 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672590 42.114762 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672590 42.114762 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672588 42.114758 </gml:pos>
+            <gml:pos>-2.672590 42.114762 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Erraño</ms:NOMBRE_COMPLETO_VIAL>
@@ -7996,13 +7996,13 @@
       <ms:portales gml:id="portales.310936">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672769 42.114468 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672769 42.114468 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672770 42.114468 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672770 42.114468 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672769 42.114468 </gml:pos>
+            <gml:pos>-2.672770 42.114468 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco la Canal</ms:NOMBRE_COMPLETO_VIAL>
@@ -8101,13 +8101,13 @@
       <ms:portales gml:id="portales.4131733">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672264 42.113812 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672264 42.113812 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672264 42.113811 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672264 42.113811 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672264 42.113812 </gml:pos>
+            <gml:pos>-2.672264 42.113811 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cuesta</ms:NOMBRE_COMPLETO_VIAL>
@@ -8185,13 +8185,13 @@
       <ms:portales gml:id="portales.311257">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673412 42.113509 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673412 42.113509 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673411 42.113508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673411 42.113508 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673412 42.113509 </gml:pos>
+            <gml:pos>-2.673411 42.113508 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Indiana</ms:NOMBRE_COMPLETO_VIAL>
@@ -8227,13 +8227,13 @@
       <ms:portales gml:id="portales.311254">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673281 42.113475 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673281 42.113475 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673278 42.113477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673278 42.113477 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673281 42.113475 </gml:pos>
+            <gml:pos>-2.673278 42.113477 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Indiana</ms:NOMBRE_COMPLETO_VIAL>
@@ -8269,13 +8269,13 @@
       <ms:portales gml:id="portales.311256">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673227 42.113334 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673227 42.113334 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673228 42.113334 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673228 42.113334 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673227 42.113334 </gml:pos>
+            <gml:pos>-2.673228 42.113334 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Indiana</ms:NOMBRE_COMPLETO_VIAL>
@@ -8290,13 +8290,13 @@
       <ms:portales gml:id="portales.311277">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673262 42.114379 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673262 42.114379 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673261 42.114379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673261 42.114379 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673262 42.114379 </gml:pos>
+            <gml:pos>-2.673261 42.114379 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
@@ -8374,13 +8374,13 @@
       <ms:portales gml:id="portales.311276">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673302 42.114426 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673302 42.114426 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673302 42.114425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673302 42.114425 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673302 42.114426 </gml:pos>
+            <gml:pos>-2.673302 42.114425 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
@@ -8395,13 +8395,13 @@
       <ms:portales gml:id="portales.311272">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673371 42.114632 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673371 42.114632 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673372 42.114632 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673372 42.114632 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673371 42.114632 </gml:pos>
+            <gml:pos>-2.673372 42.114632 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
@@ -8416,13 +8416,13 @@
       <ms:portales gml:id="portales.311268">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673363 42.114487 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673363 42.114487 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673360 42.114489 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673360 42.114489 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673363 42.114487 </gml:pos>
+            <gml:pos>-2.673360 42.114489 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fragua</ms:NOMBRE_COMPLETO_VIAL>
@@ -8542,13 +8542,13 @@
       <ms:portales gml:id="portales.4125621">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674555 42.113160 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674555 42.113160 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674553 42.113158 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674553 42.113158 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674555 42.113160 </gml:pos>
+            <gml:pos>-2.674553 42.113158 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Faroles</ms:NOMBRE_COMPLETO_VIAL>
@@ -8563,13 +8563,13 @@
       <ms:portales gml:id="portales.4125622">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674642 42.113104 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674642 42.113104 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674641 42.113104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674641 42.113104 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674642 42.113104 </gml:pos>
+            <gml:pos>-2.674641 42.113104 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Faroles</ms:NOMBRE_COMPLETO_VIAL>
@@ -8605,13 +8605,13 @@
       <ms:portales gml:id="portales.311248">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674680 42.113331 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674680 42.113331 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674680 42.113332 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674680 42.113332 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674680 42.113331 </gml:pos>
+            <gml:pos>-2.674680 42.113332 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
@@ -8647,13 +8647,13 @@
       <ms:portales gml:id="portales.311245">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674476 42.113114 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674476 42.113114 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674478 42.113112 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674478 42.113112 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674476 42.113114 </gml:pos>
+            <gml:pos>-2.674478 42.113112 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
@@ -8668,13 +8668,13 @@
       <ms:portales gml:id="portales.311244">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674526 42.113002 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674526 42.113002 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674515 42.112993 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674515 42.112993 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674526 42.113002 </gml:pos>
+            <gml:pos>-2.674515 42.112993 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Laredon</ms:NOMBRE_COMPLETO_VIAL>
@@ -8689,13 +8689,13 @@
       <ms:portales gml:id="portales.4125103">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673581 42.113255 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673581 42.113255 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673581 42.113256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673581 42.113256 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673581 42.113255 </gml:pos>
+            <gml:pos>-2.673581 42.113256 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de Chile</ms:NOMBRE_COMPLETO_VIAL>
@@ -9298,13 +9298,13 @@
       <ms:portales gml:id="portales.311923">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673976 42.109633 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673976 42.109633 </gml:upperCorner>
+        		<gml:lowerCorner>-2.673989 42.109630 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673989 42.109630 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.673976 42.109633 </gml:pos>
+            <gml:pos>-2.673989 42.109630 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Ermita Virgen de Lomos de Orios</ms:NOMBRE_COMPLETO_VIAL>
