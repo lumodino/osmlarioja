@@ -37,13 +37,13 @@
       <ms:portales gml:id="portales.274347">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.844313 42.485155 </gml:lowerCorner>
-        		<gml:upperCorner>-2.844313 42.485155 </gml:upperCorner>
+        		<gml:lowerCorner>-2.844313 42.485154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.844313 42.485154 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.844313 42.485155 </gml:pos>
+            <gml:pos>-2.844313 42.485154 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -142,13 +142,13 @@
       <ms:portales gml:id="portales.274343">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.879951 42.494901 </gml:lowerCorner>
-        		<gml:upperCorner>-2.879951 42.494901 </gml:upperCorner>
+        		<gml:lowerCorner>-2.879951 42.494900 </gml:lowerCorner>
+        		<gml:upperCorner>-2.879951 42.494900 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.879951 42.494901 </gml:pos>
+            <gml:pos>-2.879951 42.494900 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plazuela Palacio</ms:NOMBRE_COMPLETO_VIAL>
@@ -205,13 +205,13 @@
       <ms:portales gml:id="portales.4145266">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.892938 42.494102 </gml:lowerCorner>
-        		<gml:upperCorner>-2.892938 42.494102 </gml:upperCorner>
+        		<gml:lowerCorner>-2.892938 42.494101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.892938 42.494101 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.892938 42.494102 </gml:pos>
+            <gml:pos>-2.892938 42.494101 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Caserío</ms:NOMBRE_COMPLETO_VIAL>

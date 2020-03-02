@@ -8537,12 +8537,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.736323 42.415290 </gml:lowerCorner>
-        		<gml:upperCorner>-2.735908 42.415430 </gml:upperCorner>
+        		<gml:upperCorner>-2.735910 42.415430 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.736323 42.415290  -2.736252 42.415411  -2.736200 42.415430  -2.735908 42.415346  </gml:posList>
+            <gml:posList srsDimension="2">-2.736323 42.415290  -2.736252 42.415411  -2.736200 42.415430  -2.735910 42.415328  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Subida al Castillo</ms:NOMBRE_COMPLETO_VIAL>

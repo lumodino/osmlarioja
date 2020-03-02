@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.686915 42.500412 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.686980 42.500412 </gml:lowerCorner>
       		<gml:upperCorner>-2.684692 42.501667 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -268,13 +268,13 @@
       <ms:portales gml:id="portales.1387252">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.686915 42.501380 </gml:lowerCorner>
-        		<gml:upperCorner>-2.686915 42.501380 </gml:upperCorner>
+        		<gml:lowerCorner>-2.686980 42.501394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.686980 42.501394 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.686915 42.501380 </gml:pos>
+            <gml:pos>-2.686980 42.501394 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -478,13 +478,13 @@
       <ms:portales gml:id="portales.321904">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.685199 42.500664 </gml:lowerCorner>
-        		<gml:upperCorner>-2.685199 42.500664 </gml:upperCorner>
+        		<gml:lowerCorner>-2.685201 42.500666 </gml:lowerCorner>
+        		<gml:upperCorner>-2.685201 42.500666 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.685199 42.500664 </gml:pos>
+            <gml:pos>-2.685201 42.500666 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Condal</ms:NOMBRE_COMPLETO_VIAL>
