@@ -13,36 +13,16 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3667459">
+      <ms:viales gml:id="viales.4161449">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.421961 42.367715 </gml:lowerCorner>
-        		<gml:upperCorner>-2.421341 42.368107 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.421961 42.367715  -2.421646 42.367873  -2.421503 42.368013  -2.421345 42.368106  -2.421341 42.368107  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Unión de los Tres Ejércitos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Clavijo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2605100040</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3667460">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.421341 42.368107 </gml:lowerCorner>
         		<gml:upperCorner>-2.420453 42.368356 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.421341 42.368107  -2.421076 42.368208  -2.420741 42.368288  -2.420580 42.368350  -2.420453 42.368356  </gml:posList>
+            <gml:posList srsDimension="2">-2.421961 42.367715  -2.421646 42.367873  -2.421503 42.368013  -2.421345 42.368106  -2.421341 42.368107  -2.421076 42.368208  -2.420741 42.368288  -2.420580 42.368350  -2.420453 42.368356  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campo de la Huida</ms:NOMBRE_COMPLETO_VIAL>

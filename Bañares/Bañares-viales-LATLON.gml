@@ -428,7 +428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -448,7 +448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

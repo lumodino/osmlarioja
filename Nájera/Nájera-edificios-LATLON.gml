@@ -108,7 +108,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.727663 42.412429  -2.727639 42.412430  -2.727641 42.412508  -2.727665 42.412507  -2.727663 42.412429  </gml:posList>
+                <gml:posList srsDimension="2">-2.727663 42.412429  -2.727639 42.412430  -2.727640 42.412469  -2.727641 42.412508  -2.727665 42.412507  -2.727663 42.412429  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21711,27 +21711,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1748812">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728022 42.413576 </gml:lowerCorner>
-        		<gml:upperCorner>-2.727669 42.413679 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.727809 42.413576  -2.727809 42.413583  -2.727820 42.413583  -2.727819 42.413612  -2.727807 42.413612  -2.727805 42.413660  -2.727669 42.413657  -2.727670 42.413669  -2.727712 42.413670  -2.727888 42.413674  -2.727889 42.413674  -2.727929 42.413676  -2.727962 42.413677  -2.727969 42.413677  -2.728007 42.413679  -2.728022 42.413581  -2.728018 42.413581  -2.727930 42.413579  -2.727903 42.413578  -2.727864 42.413577  -2.727838 42.413577  -2.727810 42.413576  -2.727809 42.413576  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Nájera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.1748813">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -35603,7 +35582,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728914 42.418099  -2.728783 42.417875  -2.728771 42.417880  -2.728902 42.418104  -2.728914 42.418099  </gml:posList>
+                <gml:posList srsDimension="2">-2.728914 42.418099  -2.728783 42.417875  -2.728771 42.417880  -2.728804 42.417935  -2.728861 42.418033  -2.728902 42.418104  -2.728914 42.418099  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -73451,7 +73430,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728928 42.418207  -2.728971 42.418192  -2.728952 42.418161  -2.728923 42.418114  -2.728914 42.418099  -2.728902 42.418104  -2.728872 42.418114  -2.728786 42.418125  -2.728742 42.418131  -2.728714 42.418134  -2.728726 42.418182  -2.728775 42.418177  -2.728833 42.418171  -2.728900 42.418164  -2.728912 42.418208  -2.728928 42.418207  </gml:posList>
+                <gml:posList srsDimension="2">-2.728928 42.418207  -2.728971 42.418192  -2.728952 42.418161  -2.728923 42.418114  -2.728914 42.418099  -2.728902 42.418104  -2.728872 42.418114  -2.728805 42.418123  -2.728786 42.418125  -2.728742 42.418131  -2.728714 42.418134  -2.728726 42.418182  -2.728775 42.418177  -2.728833 42.418171  -2.728900 42.418164  -2.728912 42.418208  -2.728928 42.418207  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -74075,27 +74054,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.729282 42.418147  -2.729293 42.418143  -2.729275 42.418114  -2.729264 42.418118  -2.729282 42.418147  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Nájera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1751309">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728902 42.417868 </gml:lowerCorner>
-        		<gml:upperCorner>-2.728539 42.418143 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728666 42.418140  -2.728714 42.418134  -2.728742 42.418131  -2.728739 42.418116  -2.728782 42.418110  -2.728786 42.418125  -2.728872 42.418114  -2.728902 42.418104  -2.728771 42.417880  -2.728783 42.417875  -2.728779 42.417868  -2.728778 42.417868  -2.728740 42.417880  -2.728553 42.417943  -2.728551 42.417974  -2.728549 42.417993  -2.728539 42.418136  -2.728573 42.418132  -2.728601 42.418129  -2.728637 42.418125  -2.728641 42.418143  -2.728666 42.418140  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
