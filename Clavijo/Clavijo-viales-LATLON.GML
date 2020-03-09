@@ -437,12 +437,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.421082 42.367115 </gml:lowerCorner>
-        		<gml:upperCorner>-2.420643 42.367567 </gml:upperCorner>
+        		<gml:upperCorner>-2.420710 42.367566 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.420643 42.367567  -2.420756 42.367511  -2.420890 42.367402  -2.421082 42.367115  </gml:posList>
+            <gml:posList srsDimension="2">-2.420710 42.367566  -2.420756 42.367511  -2.420890 42.367402  -2.421082 42.367115  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campo de la Matanza</ms:NOMBRE_COMPLETO_VIAL>

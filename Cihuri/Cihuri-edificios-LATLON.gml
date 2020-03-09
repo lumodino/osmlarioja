@@ -2779,7 +2779,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.924297 42.564158  -2.924262 42.564178  -2.924259 42.564180  -2.924344 42.564258  -2.924383 42.564235  -2.924297 42.564158  </gml:posList>
+                <gml:posList srsDimension="2">-2.924297 42.564158  -2.924280 42.564168  -2.924262 42.564178  -2.924259 42.564180  -2.924344 42.564258  -2.924383 42.564235  -2.924297 42.564158  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4720,7 +4720,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923986 42.565114  -2.924034 42.565119  -2.924080 42.565123  -2.924110 42.565082  -2.924109 42.565082  -2.924027 42.565053  -2.924025 42.565052  -2.923986 42.565114  </gml:posList>
+                <gml:posList srsDimension="2">-2.923986 42.565114  -2.924034 42.565119  -2.924080 42.565123  -2.924110 42.565082  -2.924109 42.565082  -2.924068 42.565067  -2.924027 42.565053  -2.924025 42.565052  -2.923986 42.565114  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11803,27 +11803,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957915">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922708 42.567528 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922605 42.567669 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922668 42.567528  -2.922658 42.567530  -2.922674 42.567569  -2.922650 42.567574  -2.922672 42.567629  -2.922605 42.567643  -2.922615 42.567669  -2.922708 42.567649  -2.922684 42.567576  -2.922668 42.567528  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3957916">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12181,69 +12160,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957933">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922748 42.568224 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922708 42.568261 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922738 42.568224  -2.922708 42.568229  -2.922718 42.568261  -2.922748 42.568256  -2.922738 42.568224  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957934">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922738 42.568179 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922673 42.568229 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922728 42.568194  -2.922723 42.568179  -2.922673 42.568188  -2.922685 42.568226  -2.922706 42.568223  -2.922708 42.568229  -2.922738 42.568224  -2.922728 42.568194  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957935">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922723 42.568150 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922664 42.568188 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922714 42.568150  -2.922664 42.568158  -2.922673 42.568188  -2.922723 42.568179  -2.922714 42.568150  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3957936">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12256,48 +12172,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.922622 42.568332  -2.922584 42.568338  -2.922599 42.568383  -2.922611 42.568420  -2.922697 42.568405  -2.922673 42.568323  -2.922622 42.568332  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957937">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922718 42.568223 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922685 42.568265 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922708 42.568229  -2.922706 42.568223  -2.922685 42.568226  -2.922697 42.568265  -2.922718 42.568261  -2.922708 42.568229  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957938">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922714 42.568142 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922662 42.568158 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922711 42.568142  -2.922662 42.568150  -2.922664 42.568158  -2.922714 42.568150  -2.922711 42.568142  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14586,7 +14460,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923904 42.564766  -2.923902 42.564767  -2.923861 42.564789  -2.923857 42.564806  -2.923853 42.564828  -2.923847 42.564859  -2.923847 42.564861  -2.923846 42.564865  -2.923844 42.564876  -2.923844 42.564879  -2.923898 42.564900  -2.923900 42.564900  -2.923904 42.564892  -2.923910 42.564885  -2.923975 42.564793  -2.923989 42.564774  -2.923931 42.564752  -2.923904 42.564766  </gml:posList>
+                <gml:posList srsDimension="2">-2.923904 42.564766  -2.923902 42.564767  -2.923861 42.564789  -2.923857 42.564806  -2.923853 42.564828  -2.923847 42.564859  -2.923847 42.564861  -2.923846 42.564865  -2.923844 42.564876  -2.923844 42.564879  -2.923871 42.564889  -2.923898 42.564900  -2.923900 42.564900  -2.923904 42.564892  -2.923910 42.564885  -2.923975 42.564793  -2.923989 42.564774  -2.923931 42.564752  -2.923904 42.564766  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16582,6 +16456,111 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.922544 42.565216  -2.922433 42.565161  -2.922368 42.565231  -2.922475 42.565288  -2.922544 42.565216  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4161526">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922728 42.568128 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922626 42.568256 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922702 42.568128  -2.922626 42.568142  -2.922628 42.568150  -2.922637 42.568179  -2.922649 42.568218  -2.922660 42.568256  -2.922682 42.568253  -2.922712 42.568248  -2.922702 42.568216  -2.922728 42.568209  -2.922702 42.568128  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4161546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921159 42.569068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921097 42.569115 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921097 42.569105  -2.921100 42.569106  -2.921146 42.569115  -2.921159 42.569078  -2.921110 42.569068  -2.921097 42.569105  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4161547">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921229 42.569037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921168 42.569064 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921168 42.569054  -2.921223 42.569064  -2.921229 42.569047  -2.921174 42.569037  -2.921168 42.569054  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4161548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921275 42.569047 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921223 42.569073 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921229 42.569047  -2.921223 42.569064  -2.921269 42.569073  -2.921275 42.569056  -2.921229 42.569047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4161549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921269 42.569054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921146 42.569134 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921223 42.569064  -2.921168 42.569054  -2.921159 42.569078  -2.921146 42.569115  -2.921248 42.569134  -2.921269 42.569073  -2.921223 42.569064  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

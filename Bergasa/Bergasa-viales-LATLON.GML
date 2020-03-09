@@ -1737,12 +1737,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.179221 42.283090 </gml:lowerCorner>
-        		<gml:upperCorner>-2.178738 42.283222 </gml:upperCorner>
+        		<gml:upperCorner>-2.178735 42.283220 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.179221 42.283146  -2.179171 42.283090  -2.179089 42.283103  -2.178962 42.283128  -2.178853 42.283161  -2.178738 42.283222  </gml:posList>
+            <gml:posList srsDimension="2">-2.179221 42.283146  -2.179171 42.283090  -2.179051 42.283103  -2.178970 42.283103  -2.178823 42.283146  -2.178735 42.283220  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
