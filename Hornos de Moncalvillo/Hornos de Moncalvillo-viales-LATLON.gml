@@ -13,26 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4136732">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.586002 42.388676 </gml:lowerCorner>
-        		<gml:upperCorner>-2.584920 42.389114 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.584920 42.388967  -2.585044 42.389007  -2.585284 42.389082  -2.585377 42.389114  -2.585448 42.389103  -2.585623 42.388980  -2.586002 42.388676  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Peñuela</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Hornos de Moncalvillo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Hornos de Moncalvillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.078.15</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2607800023</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1531661">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -990,6 +970,26 @@
         <ms:NOMBRE_MUNICIPIO>Hornos de Moncalvillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.078.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607800019</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4136732">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.586002 42.388676 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584920 42.389114 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.584920 42.388967  -2.585044 42.389007  -2.585284 42.389082  -2.585377 42.389114  -2.585448 42.389103  -2.585623 42.388980  -2.586002 42.388676  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Peñuela</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Hornos de Moncalvillo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Hornos de Moncalvillo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.078.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2607800023</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

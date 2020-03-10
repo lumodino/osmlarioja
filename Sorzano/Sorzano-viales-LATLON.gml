@@ -13,86 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4023080">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.529466 42.344019 </gml:lowerCorner>
-        		<gml:upperCorner>-2.529338 42.344148 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.529466 42.344148  -2.529460 42.344140  -2.529459 42.344139  -2.529455 42.344134  -2.529449 42.344126  -2.529444 42.344119  -2.529433 42.344107  -2.529427 42.344101  -2.529423 42.344097  -2.529419 42.344092  -2.529415 42.344089  -2.529401 42.344074  -2.529399 42.344072  -2.529385 42.344060  -2.529360 42.344038  -2.529338 42.344019  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.144.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4159137">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.529143 42.343620 </gml:lowerCorner>
-        		<gml:upperCorner>-2.528154 42.343923 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.529143 42.343923  -2.529139 42.343922  -2.529101 42.343908  -2.529043 42.343891  -2.528970 42.343870  -2.528965 42.343868  -2.528940 42.343861  -2.528850 42.343835  -2.528689 42.343788  -2.528658 42.343779  -2.528647 42.343776  -2.528606 42.343765  -2.528566 42.343754  -2.528527 42.343743  -2.528523 42.343742  -2.528485 42.343730  -2.528477 42.343728  -2.528412 42.343709  -2.528391 42.343702  -2.528362 42.343693  -2.528268 42.343662  -2.528246 42.343655  -2.528229 42.343649  -2.528205 42.343640  -2.528164 42.343624  -2.528154 42.343620  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.144.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4159138">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.529338 42.343923 </gml:lowerCorner>
-        		<gml:upperCorner>-2.529143 42.344019 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.529338 42.344019  -2.529335 42.344017  -2.529324 42.344011  -2.529313 42.344004  -2.529310 42.344003  -2.529287 42.343990  -2.529247 42.343967  -2.529242 42.343964  -2.529221 42.343955  -2.529202 42.343946  -2.529197 42.343944  -2.529149 42.343925  -2.529143 42.343923  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.144.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4144822">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.528530 42.342005 </gml:lowerCorner>
-        		<gml:upperCorner>-2.528072 42.342258 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.528530 42.342258  -2.528431 42.342147  -2.528292 42.342005  -2.528072 42.342206  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Polideportivo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614400074</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1547184">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1910,6 +1830,86 @@
         <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.144.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614400006</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4023080">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.529466 42.344019 </gml:lowerCorner>
+        		<gml:upperCorner>-2.529338 42.344148 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.529466 42.344148  -2.529460 42.344140  -2.529459 42.344139  -2.529455 42.344134  -2.529449 42.344126  -2.529444 42.344119  -2.529433 42.344107  -2.529427 42.344101  -2.529423 42.344097  -2.529419 42.344092  -2.529415 42.344089  -2.529401 42.344074  -2.529399 42.344072  -2.529385 42.344060  -2.529360 42.344038  -2.529338 42.344019  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.144.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4159137">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.529143 42.343620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.528154 42.343923 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.529143 42.343923  -2.529139 42.343922  -2.529101 42.343908  -2.529043 42.343891  -2.528970 42.343870  -2.528965 42.343868  -2.528940 42.343861  -2.528850 42.343835  -2.528689 42.343788  -2.528658 42.343779  -2.528647 42.343776  -2.528606 42.343765  -2.528566 42.343754  -2.528527 42.343743  -2.528523 42.343742  -2.528485 42.343730  -2.528477 42.343728  -2.528412 42.343709  -2.528391 42.343702  -2.528362 42.343693  -2.528268 42.343662  -2.528246 42.343655  -2.528229 42.343649  -2.528205 42.343640  -2.528164 42.343624  -2.528154 42.343620  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.144.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4159138">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.529338 42.343923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.529143 42.344019 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.529338 42.344019  -2.529335 42.344017  -2.529324 42.344011  -2.529313 42.344004  -2.529310 42.344003  -2.529287 42.343990  -2.529247 42.343967  -2.529242 42.343964  -2.529221 42.343955  -2.529202 42.343946  -2.529197 42.343944  -2.529149 42.343925  -2.529143 42.343923  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.144.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4144822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.528530 42.342005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.528072 42.342258 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.528530 42.342258  -2.528431 42.342147  -2.528292 42.342005  -2.528072 42.342206  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Polideportivo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614400074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

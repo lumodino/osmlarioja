@@ -13,206 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3865861">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.090853 42.318212 </gml:lowerCorner>
-        		<gml:upperCorner>-2.088981 42.318470 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.088981 42.318212  -2.090682 42.318439  -2.090853 42.318470  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865981">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.093054 42.318066 </gml:lowerCorner>
-        		<gml:upperCorner>-2.088981 42.318212 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.088981 42.318212  -2.089044 42.318210  -2.089158 42.318207  -2.089258 42.318203  -2.089349 42.318200  -2.089400 42.318199  -2.089419 42.318198  -2.089421 42.318198  -2.089456 42.318197  -2.089497 42.318196  -2.089558 42.318194  -2.089638 42.318191  -2.089773 42.318187  -2.089844 42.318185  -2.089910 42.318183  -2.089941 42.318181  -2.090000 42.318180  -2.090088 42.318177  -2.090212 42.318173  -2.090272 42.318171  -2.090274 42.318171  -2.090323 42.318169  -2.090398 42.318167  -2.090442 42.318165  -2.090567 42.318161  -2.090574 42.318161  -2.090576 42.318161  -2.090610 42.318160  -2.090618 42.318160  -2.090652 42.318159  -2.090771 42.318155  -2.090858 42.318152  -2.090871 42.318152  -2.090875 42.318151  -2.090921 42.318150  -2.090945 42.318149  -2.091003 42.318147  -2.091024 42.318147  -2.091056 42.318146  -2.091256 42.318139  -2.091334 42.318137  -2.091422 42.318133  -2.091434 42.318133  -2.091576 42.318125  -2.091931 42.318107  -2.091935 42.318107  -2.092007 42.318104  -2.092100 42.318100  -2.092194 42.318096  -2.092290 42.318092  -2.092306 42.318091  -2.092310 42.318091  -2.092375 42.318088  -2.092584 42.318077  -2.092598 42.318076  -2.092724 42.318074  -2.092792 42.318072  -2.092848 42.318071  -2.092865 42.318070  -2.092909 42.318069  -2.092925 42.318069  -2.093023 42.318067  -2.093041 42.318066  -2.093054 42.318066  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865982">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.094310 42.318051 </gml:lowerCorner>
-        		<gml:upperCorner>-2.093054 42.318154 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.093054 42.318066  -2.093207 42.318058  -2.093223 42.318057  -2.093243 42.318056  -2.093291 42.318053  -2.093337 42.318051  -2.093370 42.318051  -2.093474 42.318051  -2.093544 42.318051  -2.093545 42.318051  -2.093578 42.318053  -2.093592 42.318054  -2.093624 42.318055  -2.093705 42.318060  -2.093745 42.318063  -2.093785 42.318066  -2.093861 42.318072  -2.093862 42.318072  -2.093958 42.318085  -2.094034 42.318095  -2.094044 42.318097  -2.094079 42.318103  -2.094114 42.318110  -2.094186 42.318123  -2.094205 42.318127  -2.094238 42.318136  -2.094310 42.318154  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865983">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.094529 42.318154 </gml:lowerCorner>
-        		<gml:upperCorner>-2.094310 42.318209 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.094310 42.318154  -2.094336 42.318161  -2.094396 42.318176  -2.094420 42.318182  -2.094435 42.318186  -2.094465 42.318193  -2.094516 42.318206  -2.094529 42.318209  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865984">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.095483 42.318209 </gml:lowerCorner>
-        		<gml:upperCorner>-2.094529 42.318698 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.094529 42.318209  -2.094600 42.318242  -2.094611 42.318247  -2.094669 42.318275  -2.094688 42.318285  -2.094690 42.318286  -2.094723 42.318301  -2.094726 42.318303  -2.094752 42.318315  -2.094765 42.318322  -2.094766 42.318322  -2.094766 42.318322  -2.094826 42.318351  -2.094832 42.318354  -2.094863 42.318369  -2.094865 42.318370  -2.094879 42.318377  -2.094922 42.318399  -2.095007 42.318443  -2.095113 42.318499  -2.095119 42.318502  -2.095138 42.318512  -2.095269 42.318581  -2.095391 42.318647  -2.095397 42.318650  -2.095416 42.318660  -2.095471 42.318691  -2.095483 42.318698  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865985">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.096006 42.318698 </gml:lowerCorner>
-        		<gml:upperCorner>-2.095483 42.318982 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.095483 42.318698  -2.095515 42.318715  -2.095560 42.318740  -2.095618 42.318772  -2.095778 42.318861  -2.095858 42.318905  -2.095875 42.318915  -2.095941 42.318949  -2.095992 42.318975  -2.096002 42.318980  -2.096006 42.318982  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865986">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097778 42.318982 </gml:lowerCorner>
-        		<gml:upperCorner>-2.096006 42.320140 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.096006 42.318982  -2.096074 42.319022  -2.096094 42.319033  -2.096131 42.319055  -2.096138 42.319059  -2.096198 42.319092  -2.096338 42.319170  -2.096352 42.319178  -2.096461 42.319238  -2.096580 42.319304  -2.096735 42.319390  -2.096750 42.319399  -2.096855 42.319464  -2.096889 42.319484  -2.096932 42.319512  -2.097024 42.319572  -2.097086 42.319613  -2.097096 42.319619  -2.097127 42.319639  -2.097144 42.319652  -2.097223 42.319709  -2.097318 42.319778  -2.097337 42.319792  -2.097400 42.319837  -2.097402 42.319839  -2.097468 42.319891  -2.097524 42.319935  -2.097530 42.319940  -2.097629 42.320018  -2.097691 42.320067  -2.097721 42.320093  -2.097736 42.320105  -2.097756 42.320122  -2.097778 42.320140  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865987">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.099051 42.320140 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097778 42.321189 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.097778 42.320140  -2.097781 42.320143  -2.097800 42.320158  -2.097820 42.320175  -2.097858 42.320206  -2.097869 42.320215  -2.097872 42.320218  -2.098028 42.320345  -2.098045 42.320360  -2.098084 42.320391  -2.098112 42.320414  -2.098249 42.320526  -2.098358 42.320615  -2.098476 42.320712  -2.098521 42.320749  -2.098617 42.320828  -2.098682 42.320881  -2.098750 42.320937  -2.098820 42.320994  -2.098926 42.321082  -2.098940 42.321093  -2.098959 42.321109  -2.098972 42.321121  -2.098984 42.321130  -2.099027 42.321168  -2.099040 42.321179  -2.099051 42.321189  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865988">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.099496 42.321189 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099051 42.321570 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.099051 42.321189  -2.099419 42.321504  -2.099496 42.321570  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865989">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.100269 42.321570 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099496 42.322124 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.099496 42.321570  -2.099548 42.321611  -2.099568 42.321628  -2.099603 42.321656  -2.099660 42.321702  -2.099689 42.321724  -2.099704 42.321737  -2.099724 42.321753  -2.099752 42.321776  -2.099813 42.321819  -2.099899 42.321881  -2.099930 42.321903  -2.099943 42.321913  -2.099964 42.321928  -2.100021 42.321968  -2.100062 42.321996  -2.100074 42.322003  -2.100102 42.322021  -2.100109 42.322025  -2.100206 42.322087  -2.100208 42.322087  -2.100213 42.322091  -2.100269 42.322124  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1550004">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3913,6 +3713,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1550087">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.094966 42.320179 </gml:lowerCorner>
+        		<gml:upperCorner>-2.094533 42.320617 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.094533 42.320179  -2.094782 42.320345  -2.094860 42.320440  -2.094935 42.320571  -2.094966 42.320617  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cubo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000051</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1550095">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4333,23 +4153,203 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550087">
+      <ms:viales gml:id="viales.3865861">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.094966 42.320179 </gml:lowerCorner>
-        		<gml:upperCorner>-2.094533 42.320617 </gml:upperCorner>
+        		<gml:lowerCorner>-2.090853 42.318212 </gml:lowerCorner>
+        		<gml:upperCorner>-2.088981 42.318470 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.094533 42.320179  -2.094782 42.320345  -2.094860 42.320440  -2.094935 42.320571  -2.094966 42.320617  </gml:posList>
+            <gml:posList srsDimension="2">-2.088981 42.318212  -2.090682 42.318439  -2.090853 42.318470  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cubo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.12</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000051</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865981">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.093054 42.318066 </gml:lowerCorner>
+        		<gml:upperCorner>-2.088981 42.318212 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.088981 42.318212  -2.089044 42.318210  -2.089158 42.318207  -2.089258 42.318203  -2.089349 42.318200  -2.089400 42.318199  -2.089419 42.318198  -2.089421 42.318198  -2.089456 42.318197  -2.089497 42.318196  -2.089558 42.318194  -2.089638 42.318191  -2.089773 42.318187  -2.089844 42.318185  -2.089910 42.318183  -2.089941 42.318181  -2.090000 42.318180  -2.090088 42.318177  -2.090212 42.318173  -2.090272 42.318171  -2.090274 42.318171  -2.090323 42.318169  -2.090398 42.318167  -2.090442 42.318165  -2.090567 42.318161  -2.090574 42.318161  -2.090576 42.318161  -2.090610 42.318160  -2.090618 42.318160  -2.090652 42.318159  -2.090771 42.318155  -2.090858 42.318152  -2.090871 42.318152  -2.090875 42.318151  -2.090921 42.318150  -2.090945 42.318149  -2.091003 42.318147  -2.091024 42.318147  -2.091056 42.318146  -2.091256 42.318139  -2.091334 42.318137  -2.091422 42.318133  -2.091434 42.318133  -2.091576 42.318125  -2.091931 42.318107  -2.091935 42.318107  -2.092007 42.318104  -2.092100 42.318100  -2.092194 42.318096  -2.092290 42.318092  -2.092306 42.318091  -2.092310 42.318091  -2.092375 42.318088  -2.092584 42.318077  -2.092598 42.318076  -2.092724 42.318074  -2.092792 42.318072  -2.092848 42.318071  -2.092865 42.318070  -2.092909 42.318069  -2.092925 42.318069  -2.093023 42.318067  -2.093041 42.318066  -2.093054 42.318066  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865982">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.094310 42.318051 </gml:lowerCorner>
+        		<gml:upperCorner>-2.093054 42.318154 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.093054 42.318066  -2.093207 42.318058  -2.093223 42.318057  -2.093243 42.318056  -2.093291 42.318053  -2.093337 42.318051  -2.093370 42.318051  -2.093474 42.318051  -2.093544 42.318051  -2.093545 42.318051  -2.093578 42.318053  -2.093592 42.318054  -2.093624 42.318055  -2.093705 42.318060  -2.093745 42.318063  -2.093785 42.318066  -2.093861 42.318072  -2.093862 42.318072  -2.093958 42.318085  -2.094034 42.318095  -2.094044 42.318097  -2.094079 42.318103  -2.094114 42.318110  -2.094186 42.318123  -2.094205 42.318127  -2.094238 42.318136  -2.094310 42.318154  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865983">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.094529 42.318154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.094310 42.318209 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.094310 42.318154  -2.094336 42.318161  -2.094396 42.318176  -2.094420 42.318182  -2.094435 42.318186  -2.094465 42.318193  -2.094516 42.318206  -2.094529 42.318209  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865984">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.095483 42.318209 </gml:lowerCorner>
+        		<gml:upperCorner>-2.094529 42.318698 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.094529 42.318209  -2.094600 42.318242  -2.094611 42.318247  -2.094669 42.318275  -2.094688 42.318285  -2.094690 42.318286  -2.094723 42.318301  -2.094726 42.318303  -2.094752 42.318315  -2.094765 42.318322  -2.094766 42.318322  -2.094766 42.318322  -2.094826 42.318351  -2.094832 42.318354  -2.094863 42.318369  -2.094865 42.318370  -2.094879 42.318377  -2.094922 42.318399  -2.095007 42.318443  -2.095113 42.318499  -2.095119 42.318502  -2.095138 42.318512  -2.095269 42.318581  -2.095391 42.318647  -2.095397 42.318650  -2.095416 42.318660  -2.095471 42.318691  -2.095483 42.318698  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865985">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.096006 42.318698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.095483 42.318982 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.095483 42.318698  -2.095515 42.318715  -2.095560 42.318740  -2.095618 42.318772  -2.095778 42.318861  -2.095858 42.318905  -2.095875 42.318915  -2.095941 42.318949  -2.095992 42.318975  -2.096002 42.318980  -2.096006 42.318982  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865986">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.097778 42.318982 </gml:lowerCorner>
+        		<gml:upperCorner>-2.096006 42.320140 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.096006 42.318982  -2.096074 42.319022  -2.096094 42.319033  -2.096131 42.319055  -2.096138 42.319059  -2.096198 42.319092  -2.096338 42.319170  -2.096352 42.319178  -2.096461 42.319238  -2.096580 42.319304  -2.096735 42.319390  -2.096750 42.319399  -2.096855 42.319464  -2.096889 42.319484  -2.096932 42.319512  -2.097024 42.319572  -2.097086 42.319613  -2.097096 42.319619  -2.097127 42.319639  -2.097144 42.319652  -2.097223 42.319709  -2.097318 42.319778  -2.097337 42.319792  -2.097400 42.319837  -2.097402 42.319839  -2.097468 42.319891  -2.097524 42.319935  -2.097530 42.319940  -2.097629 42.320018  -2.097691 42.320067  -2.097721 42.320093  -2.097736 42.320105  -2.097756 42.320122  -2.097778 42.320140  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865987">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.099051 42.320140 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097778 42.321189 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.097778 42.320140  -2.097781 42.320143  -2.097800 42.320158  -2.097820 42.320175  -2.097858 42.320206  -2.097869 42.320215  -2.097872 42.320218  -2.098028 42.320345  -2.098045 42.320360  -2.098084 42.320391  -2.098112 42.320414  -2.098249 42.320526  -2.098358 42.320615  -2.098476 42.320712  -2.098521 42.320749  -2.098617 42.320828  -2.098682 42.320881  -2.098750 42.320937  -2.098820 42.320994  -2.098926 42.321082  -2.098940 42.321093  -2.098959 42.321109  -2.098972 42.321121  -2.098984 42.321130  -2.099027 42.321168  -2.099040 42.321179  -2.099051 42.321189  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865988">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.099496 42.321189 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099051 42.321570 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.099051 42.321189  -2.099419 42.321504  -2.099496 42.321570  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865989">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.100269 42.321570 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099496 42.322124 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.099496 42.321570  -2.099548 42.321611  -2.099568 42.321628  -2.099603 42.321656  -2.099660 42.321702  -2.099689 42.321724  -2.099704 42.321737  -2.099724 42.321753  -2.099752 42.321776  -2.099813 42.321819  -2.099899 42.321881  -2.099930 42.321903  -2.099943 42.321913  -2.099964 42.321928  -2.100021 42.321968  -2.100062 42.321996  -2.100074 42.322003  -2.100102 42.322021  -2.100109 42.322025  -2.100206 42.322087  -2.100208 42.322087  -2.100213 42.322091  -2.100269 42.322124  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

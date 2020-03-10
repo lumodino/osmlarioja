@@ -13,86 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3613658">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.719927 42.386251 </gml:lowerCorner>
-        		<gml:upperCorner>-2.719051 42.386584 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.719051 42.386251  -2.719173 42.386284  -2.719284 42.386329  -2.719381 42.386376  -2.719481 42.386429  -2.719897 42.386577  -2.719927 42.386584  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.015.23</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601500041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3613659">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.721109 42.386584 </gml:lowerCorner>
-        		<gml:upperCorner>-2.719927 42.386761 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.719927 42.386584  -2.720563 42.386732  -2.720688 42.386754  -2.720786 42.386761  -2.720874 42.386761  -2.720958 42.386739  -2.721109 42.386714  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.015.23</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601500041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3613662">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725551 42.385115 </gml:lowerCorner>
-        		<gml:upperCorner>-2.723724 42.385240 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.723724 42.385115  -2.723772 42.385117  -2.723807 42.385118  -2.723819 42.385118  -2.723839 42.385119  -2.723856 42.385120  -2.723858 42.385120  -2.723877 42.385123  -2.723881 42.385123  -2.723911 42.385127  -2.723934 42.385129  -2.723966 42.385133  -2.723974 42.385135  -2.723987 42.385137  -2.723990 42.385137  -2.723991 42.385138  -2.724033 42.385143  -2.724089 42.385150  -2.724102 42.385151  -2.724141 42.385153  -2.724186 42.385156  -2.724189 42.385156  -2.724191 42.385156  -2.724320 42.385157  -2.724472 42.385158  -2.724489 42.385158  -2.724543 42.385160  -2.724629 42.385163  -2.724666 42.385164  -2.724675 42.385164  -2.724733 42.385166  -2.724743 42.385166  -2.724809 42.385169  -2.724902 42.385173  -2.724930 42.385175  -2.724952 42.385176  -2.725045 42.385182  -2.725094 42.385186  -2.725115 42.385187  -2.725184 42.385194  -2.725251 42.385200  -2.725275 42.385203  -2.725358 42.385214  -2.725447 42.385225  -2.725484 42.385230  -2.725551 42.385240  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Cristo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601500057</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3613666">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.715851 42.387310 </gml:lowerCorner>
-        		<gml:upperCorner>-2.713564 42.387739 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.713564 42.387739  -2.713588 42.387737  -2.713659 42.387730  -2.713821 42.387715  -2.713840 42.387712  -2.713862 42.387709  -2.713866 42.387709  -2.713872 42.387708  -2.713895 42.387706  -2.713912 42.387705  -2.713952 42.387702  -2.713982 42.387700  -2.714024 42.387695  -2.714069 42.387691  -2.714080 42.387688  -2.714100 42.387685  -2.714132 42.387679  -2.714173 42.387671  -2.714186 42.387668  -2.714196 42.387666  -2.714217 42.387661  -2.714223 42.387659  -2.714286 42.387641  -2.714288 42.387640  -2.714303 42.387633  -2.714308 42.387631  -2.714332 42.387619  -2.714365 42.387603  -2.714370 42.387601  -2.714382 42.387595  -2.714414 42.387580  -2.714800 42.387475  -2.715452 42.387389  -2.715851 42.387310  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.015.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601500053</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1512230">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2030,6 +1950,86 @@
         <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.015.32</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601500036</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3613658">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.719927 42.386251 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719051 42.386584 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.719051 42.386251  -2.719173 42.386284  -2.719284 42.386329  -2.719381 42.386376  -2.719481 42.386429  -2.719897 42.386577  -2.719927 42.386584  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.015.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601500041</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3613659">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.721109 42.386584 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719927 42.386761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.719927 42.386584  -2.720563 42.386732  -2.720688 42.386754  -2.720786 42.386761  -2.720874 42.386761  -2.720958 42.386739  -2.721109 42.386714  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.015.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601500041</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3613662">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725551 42.385115 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723724 42.385240 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.723724 42.385115  -2.723772 42.385117  -2.723807 42.385118  -2.723819 42.385118  -2.723839 42.385119  -2.723856 42.385120  -2.723858 42.385120  -2.723877 42.385123  -2.723881 42.385123  -2.723911 42.385127  -2.723934 42.385129  -2.723966 42.385133  -2.723974 42.385135  -2.723987 42.385137  -2.723990 42.385137  -2.723991 42.385138  -2.724033 42.385143  -2.724089 42.385150  -2.724102 42.385151  -2.724141 42.385153  -2.724186 42.385156  -2.724189 42.385156  -2.724191 42.385156  -2.724320 42.385157  -2.724472 42.385158  -2.724489 42.385158  -2.724543 42.385160  -2.724629 42.385163  -2.724666 42.385164  -2.724675 42.385164  -2.724733 42.385166  -2.724743 42.385166  -2.724809 42.385169  -2.724902 42.385173  -2.724930 42.385175  -2.724952 42.385176  -2.725045 42.385182  -2.725094 42.385186  -2.725115 42.385187  -2.725184 42.385194  -2.725251 42.385200  -2.725275 42.385203  -2.725358 42.385214  -2.725447 42.385225  -2.725484 42.385230  -2.725551 42.385240  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Cristo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601500057</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3613666">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.715851 42.387310 </gml:lowerCorner>
+        		<gml:upperCorner>-2.713564 42.387739 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.713564 42.387739  -2.713588 42.387737  -2.713659 42.387730  -2.713821 42.387715  -2.713840 42.387712  -2.713862 42.387709  -2.713866 42.387709  -2.713872 42.387708  -2.713895 42.387706  -2.713912 42.387705  -2.713952 42.387702  -2.713982 42.387700  -2.714024 42.387695  -2.714069 42.387691  -2.714080 42.387688  -2.714100 42.387685  -2.714132 42.387679  -2.714173 42.387671  -2.714186 42.387668  -2.714196 42.387666  -2.714217 42.387661  -2.714223 42.387659  -2.714286 42.387641  -2.714288 42.387640  -2.714303 42.387633  -2.714308 42.387631  -2.714332 42.387619  -2.714365 42.387603  -2.714370 42.387601  -2.714382 42.387595  -2.714414 42.387580  -2.714800 42.387475  -2.715452 42.387389  -2.715851 42.387310  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arenzana de Abajo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arenzana de Abajo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.015.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601500053</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

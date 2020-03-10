@@ -13,1106 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3865994">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.030654 42.284459 </gml:lowerCorner>
-        		<gml:upperCorner>-2.029337 42.285126 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.030654 42.284459  -2.030463 42.284559  -2.029963 42.284809  -2.029595 42.285001  -2.029337 42.285126  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Julio Rey Pastor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.262</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800752</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865995">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028860 42.285369 </gml:lowerCorner>
-        		<gml:upperCorner>-2.027553 42.286036 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028860 42.285369  -2.028634 42.285488  -2.027967 42.285834  -2.027553 42.286036  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Julio Rey Pastor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.262</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800752</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865996">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.026475 42.282415 </gml:lowerCorner>
-        		<gml:upperCorner>-2.024791 42.283386 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.026475 42.282415  -2.026248 42.282528  -2.025531 42.282893  -2.025060 42.283133  -2.024908 42.283213  -2.024840 42.283266  -2.024797 42.283336  -2.024791 42.283386  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Doctor Ildefonso Zubía</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800051</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866014">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028019 42.281634 </gml:lowerCorner>
-        		<gml:upperCorner>-2.026475 42.282415 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028019 42.281634  -2.027645 42.281820  -2.026974 42.282164  -2.026475 42.282415  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Doctor Ildefonso Zubía</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800051</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865997">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.027135 42.283386 </gml:lowerCorner>
-        		<gml:upperCorner>-2.024791 42.285992 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.024791 42.283386  -2.024847 42.283487  -2.024990 42.283654  -2.025240 42.283934  -2.025583 42.284303  -2.025966 42.284708  -2.026242 42.285023  -2.026558 42.285372  -2.026871 42.285704  -2.027135 42.285992  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ildefonso Sánchez del Río</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.261</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800666</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866001">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.029975 42.286342 </gml:lowerCorner>
-        		<gml:upperCorner>-2.027470 42.288921 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.029975 42.288921  -2.029892 42.288910  -2.029789 42.288858  -2.029510 42.288552  -2.029142 42.288152  -2.028739 42.287711  -2.028467 42.287426  -2.028105 42.287032  -2.027765 42.286658  -2.027470 42.286342  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ildefonso Sánchez del Río</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.261</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800666</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865998">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028939 42.282415 </gml:lowerCorner>
-        		<gml:upperCorner>-2.026475 42.285077 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028939 42.285077  -2.028885 42.285016  -2.028653 42.284767  -2.028428 42.284518  -2.028203 42.284274  -2.027781 42.283813  -2.027330 42.283346  -2.026942 42.282910  -2.026622 42.282568  -2.026475 42.282415  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Sixto Cámara Tecedor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.260</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801452</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865999">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.031721 42.285429 </gml:lowerCorner>
-        		<gml:upperCorner>-2.029270 42.288086 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.029270 42.285429  -2.029362 42.285529  -2.029601 42.285799  -2.029907 42.286131  -2.030214 42.286458  -2.030603 42.286883  -2.031039 42.287350  -2.031387 42.287734  -2.031721 42.288086  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Sixto Cámara Tecedor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.260</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801452</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866000">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.031721 42.288086 </gml:lowerCorner>
-        		<gml:upperCorner>-2.029975 42.288921 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.031721 42.288086  -2.031078 42.288410  -2.030457 42.288734  -2.030261 42.288836  -2.030163 42.288881  -2.030066 42.288911  -2.029975 42.288921  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel Jalón Corominas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.263</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800815</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866002">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.033405 42.287185 </gml:lowerCorner>
-        		<gml:upperCorner>-2.031721 42.288086 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.031721 42.288086  -2.032000 42.287945  -2.032468 42.287717  -2.032762 42.287565  -2.033181 42.287342  -2.033328 42.287261  -2.033377 42.287215  -2.033405 42.287185  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel Jalón Corominas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.263</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800815</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866003">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.033420 42.284511 </gml:lowerCorner>
-        		<gml:upperCorner>-2.031051 42.287185 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.033405 42.287185  -2.033420 42.287128  -2.033393 42.287051  -2.033168 42.286807  -2.032868 42.286480  -2.032500 42.286086  -2.032118 42.285671  -2.031757 42.285272  -2.031464 42.284960  -2.031137 42.284613  -2.031051 42.284511  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cosme García</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.268</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800357</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866004">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.030717 42.281695 </gml:lowerCorner>
-        		<gml:upperCorner>-2.028436 42.284160 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.030717 42.284160  -2.030564 42.283985  -2.030182 42.283576  -2.029767 42.283109  -2.029439 42.282746  -2.029160 42.282455  -2.028839 42.282103  -2.028580 42.281838  -2.028436 42.281695  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cosme García</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.268</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800357</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866005">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028909 42.279156 </gml:lowerCorner>
-        		<gml:upperCorner>-2.028362 42.281364 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028527 42.281364  -2.028630 42.281303  -2.028778 42.281160  -2.028856 42.281043  -2.028900 42.280894  -2.028909 42.280745  -2.028863 42.280590  -2.028775 42.280347  -2.028730 42.280192  -2.028693 42.279914  -2.028656 42.279641  -2.028609 42.279481  -2.028501 42.279321  -2.028362 42.279156  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866006">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028508 42.278399 </gml:lowerCorner>
-        		<gml:upperCorner>-2.028208 42.278967 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028252 42.278967  -2.028214 42.278874  -2.028208 42.278764  -2.028237 42.278678  -2.028308 42.278586  -2.028508 42.278399  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866007">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028252 42.278662 </gml:lowerCorner>
-        		<gml:upperCorner>-2.027977 42.278967 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028252 42.278967  -2.028179 42.278909  -2.028141 42.278839  -2.028076 42.278763  -2.027977 42.278662  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866008">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028289 42.278900 </gml:lowerCorner>
-        		<gml:upperCorner>-2.026863 42.279216 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028289 42.279107  -2.028204 42.279051  -2.028123 42.278978  -2.028053 42.278937  -2.027960 42.278907  -2.027851 42.278900  -2.027703 42.278919  -2.027483 42.279007  -2.027272 42.279081  -2.026863 42.279216  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866009">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028289 42.278662 </gml:lowerCorner>
-        		<gml:upperCorner>-2.027977 42.279107 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028289 42.279107  -2.028208 42.279016  -2.028147 42.278946  -2.028062 42.278879  -2.028016 42.278818  -2.027986 42.278768  -2.027977 42.278662  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866010">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028362 42.278967 </gml:lowerCorner>
-        		<gml:upperCorner>-2.028252 42.279156 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028362 42.279156  -2.028320 42.279066  -2.028252 42.278967  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866011">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.028362 42.279107 </gml:lowerCorner>
-        		<gml:upperCorner>-2.028289 42.279156 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.028362 42.279156  -2.028289 42.279107  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866027">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.090863 42.241001 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090700 42.241263 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090734 42.241263  -2.090702 42.241229  -2.090700 42.241195  -2.090724 42.241129  -2.090787 42.241049  -2.090863 42.241001  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866028">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.090908 42.241001 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090852 42.241207 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090908 42.241207  -2.090906 42.241199  -2.090871 42.241135  -2.090852 42.241089  -2.090863 42.241001  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866029">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091632 42.240136 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090863 42.241001 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090863 42.241001  -2.091089 42.240750  -2.091375 42.240436  -2.091549 42.240230  -2.091632 42.240136  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866039">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091363 42.241934 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090886 42.243063 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.091363 42.243063  -2.091320 42.243024  -2.091265 42.242907  -2.091176 42.242682  -2.091075 42.242419  -2.090966 42.242142  -2.090886 42.241934  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866040">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.090998 42.241652 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090886 42.241934 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090886 42.241934  -2.090891 42.241849  -2.090901 42.241768  -2.090972 42.241697  -2.090998 42.241652  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866042">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.090886 42.241541 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090741 42.241934 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090741 42.241541  -2.090750 42.241621  -2.090784 42.241735  -2.090886 42.241934  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866030">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091632 42.239874 </gml:lowerCorner>
-        		<gml:upperCorner>-2.091102 42.240136 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.091632 42.240136  -2.091411 42.240030  -2.091229 42.239941  -2.091102 42.239874  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866031">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091102 42.239574 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090649 42.239874 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.091102 42.239874  -2.091001 42.239798  -2.090924 42.239741  -2.090833 42.239679  -2.090738 42.239632  -2.090649 42.239574  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866032">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091102 42.239816 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090571 42.239874 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090571 42.239868  -2.090601 42.239858  -2.090677 42.239836  -2.090775 42.239818  -2.090857 42.239816  -2.090978 42.239839  -2.091102 42.239874  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866033">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.092987 42.240136 </gml:lowerCorner>
-        		<gml:upperCorner>-2.091632 42.240965 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.092987 42.240965  -2.092983 42.240938  -2.092953 42.240876  -2.092923 42.240830  -2.092872 42.240794  -2.092729 42.240718  -2.092516 42.240619  -2.092251 42.240484  -2.092082 42.240395  -2.091874 42.240293  -2.091736 42.240211  -2.091632 42.240136  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866034">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.093230 42.240123 </gml:lowerCorner>
-        		<gml:upperCorner>-2.091632 42.240933 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.091632 42.240136  -2.091715 42.240123  -2.091854 42.240156  -2.092089 42.240275  -2.092479 42.240473  -2.092886 42.240677  -2.093090 42.240779  -2.093164 42.240829  -2.093215 42.240888  -2.093230 42.240933  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866035">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.092426 42.241384 </gml:lowerCorner>
-        		<gml:upperCorner>-2.091463 42.241571 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.092426 42.241384  -2.092177 42.241431  -2.091848 42.241497  -2.091603 42.241547  -2.091463 42.241571  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866036">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.093162 42.241237 </gml:lowerCorner>
-        		<gml:upperCorner>-2.092426 42.241384 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.093162 42.241237  -2.093131 42.241257  -2.093052 42.241282  -2.092864 42.241316  -2.092676 42.241354  -2.092426 42.241384  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866041">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091463 42.241571 </gml:lowerCorner>
-        		<gml:upperCorner>-2.090998 42.241672 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.090998 42.241652  -2.091073 42.241672  -2.091235 42.241641  -2.091379 42.241610  -2.091463 42.241571  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866050">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.092926 42.241060 </gml:lowerCorner>
-        		<gml:upperCorner>-2.092426 42.241384 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.092926 42.241060  -2.092876 42.241070  -2.092686 42.241218  -2.092571 42.241324  -2.092426 42.241384  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866051">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.091463 42.241509 </gml:lowerCorner>
-        		<gml:upperCorner>-2.091177 42.241574 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.091463 42.241571  -2.091380 42.241574  -2.091280 42.241547  -2.091177 42.241509  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866037">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.092923 42.241384 </gml:lowerCorner>
-        		<gml:upperCorner>-2.092426 42.242741 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.092426 42.241384  -2.092490 42.241541  -2.092599 42.241814  -2.092679 42.242035  -2.092784 42.242312  -2.092860 42.242520  -2.092889 42.242595  -2.092923 42.242693  -2.092896 42.242741  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle los Piros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801075</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866038">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.092896 42.242741 </gml:lowerCorner>
-        		<gml:upperCorner>-2.091363 42.243071 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.092896 42.242741  -2.092825 42.242793  -2.092689 42.242827  -2.092199 42.242924  -2.091835 42.242996  -2.091634 42.243046  -2.091468 42.243071  -2.091363 42.243063  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle los Gaitas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800575</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866057">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.119544 42.221873 </gml:lowerCorner>
-        		<gml:upperCorner>-2.119162 42.222760 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.119544 42.222760  -2.119510 42.222523  -2.119494 42.222359  -2.119482 42.222266  -2.119446 42.222196  -2.119279 42.221999  -2.119162 42.221873  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino la Coscojosa</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800370</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866058">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.119162 42.220929 </gml:lowerCorner>
-        		<gml:upperCorner>-2.116157 42.221949 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.119162 42.221873  -2.119075 42.221844  -2.118991 42.221806  -2.118911 42.221761  -2.118857 42.221716  -2.118817 42.221675  -2.118771 42.221628  -2.118629 42.221436  -2.118463 42.221230  -2.118383 42.221136  -2.118285 42.220981  -2.118210 42.220934  -2.118117 42.220929  -2.117941 42.220955  -2.117846 42.221020  -2.117800 42.221168  -2.117804 42.221299  -2.117915 42.221477  -2.118062 42.221720  -2.118154 42.221856  -2.118134 42.221921  -2.117957 42.221949  -2.117836 42.221886  -2.117675 42.221824  -2.117470 42.221760  -2.117248 42.221703  -2.117039 42.221656  -2.116938 42.221653  -2.116847 42.221637  -2.116452 42.221443  -2.116157 42.221316  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino la Coscojosa</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800370</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866059">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.119780 42.220988 </gml:lowerCorner>
-        		<gml:upperCorner>-2.119162 42.221873 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.119162 42.221873  -2.119298 42.221821  -2.119486 42.221745  -2.119612 42.221698  -2.119732 42.221651  -2.119763 42.221633  -2.119779 42.221615  -2.119780 42.221598  -2.119736 42.221541  -2.119626 42.221413  -2.119526 42.221296  -2.119404 42.221163  -2.119257 42.220988  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Urbanización la Coscojosa</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.243</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800355</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866097">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.110802 42.224068 </gml:lowerCorner>
-        		<gml:upperCorner>-2.110571 42.224503 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.110571 42.224068  -2.110641 42.224206  -2.110717 42.224346  -2.110802 42.224503  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Herce</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.191</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800630</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866102">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.109738 42.224411 </gml:lowerCorner>
-        		<gml:upperCorner>-2.109492 42.224847 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.109492 42.224411  -2.109621 42.224644  -2.109738 42.224847  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Silo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.208</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801450</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866105">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.112046 42.218235 </gml:lowerCorner>
-        		<gml:upperCorner>-2.110348 42.220521 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112046 42.220521  -2.111966 42.220453  -2.111863 42.220357  -2.111766 42.220244  -2.111680 42.220152  -2.111582 42.220057  -2.111510 42.219993  -2.111444 42.219928  -2.111393 42.219861  -2.111342 42.219769  -2.111243 42.219578  -2.111143 42.219379  -2.111115 42.219357  -2.111080 42.219311  -2.111032 42.219237  -2.110972 42.219161  -2.110912 42.219087  -2.110843 42.219017  -2.110806 42.218956  -2.110727 42.218807  -2.110659 42.218683  -2.110602 42.218600  -2.110496 42.218452  -2.110348 42.218235  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino el Veto</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801730</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866106">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.114487 42.220106 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112046 42.220521 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112046 42.220521  -2.112130 42.220485  -2.112136 42.220483  -2.112173 42.220468  -2.112239 42.220442  -2.112266 42.220432  -2.112312 42.220416  -2.112380 42.220393  -2.112405 42.220384  -2.112454 42.220370  -2.112524 42.220349  -2.112548 42.220342  -2.112599 42.220329  -2.112670 42.220311  -2.112693 42.220306  -2.112747 42.220294  -2.112798 42.220283  -2.112803 42.220282  -2.112880 42.220268  -2.112951 42.220255  -2.112969 42.220252  -2.113021 42.220244  -2.113038 42.220241  -2.113086 42.220234  -2.113102 42.220232  -2.113127 42.220229  -2.113182 42.220223  -2.113193 42.220221  -2.113203 42.220220  -2.113230 42.220217  -2.113268 42.220212  -2.113299 42.220209  -2.113326 42.220206  -2.113327 42.220206  -2.113367 42.220202  -2.113374 42.220201  -2.113389 42.220199  -2.113417 42.220197  -2.113422 42.220196  -2.113429 42.220195  -2.113521 42.220187  -2.113590 42.220181  -2.113651 42.220176  -2.113741 42.220168  -2.113799 42.220163  -2.113863 42.220157  -2.113875 42.220156  -2.114001 42.220145  -2.114039 42.220142  -2.114055 42.220141  -2.114099 42.220137  -2.114174 42.220131  -2.114225 42.220127  -2.114277 42.220123  -2.114296 42.220122  -2.114365 42.220116  -2.114410 42.220113  -2.114451 42.220109  -2.114487 42.220106  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.186</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800320</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866107">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.117408 42.219870 </gml:lowerCorner>
-        		<gml:upperCorner>-2.114487 42.220106 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.114487 42.220106  -2.114524 42.220103  -2.114603 42.220096  -2.114704 42.220088  -2.114815 42.220078  -2.114834 42.220077  -2.114880 42.220073  -2.114917 42.220070  -2.115036 42.220060  -2.115099 42.220054  -2.115183 42.220047  -2.115218 42.220044  -2.115243 42.220042  -2.115273 42.220039  -2.115353 42.220032  -2.115506 42.220017  -2.115526 42.220016  -2.115536 42.220015  -2.115571 42.220011  -2.115585 42.220010  -2.115615 42.220007  -2.115630 42.220006  -2.115663 42.220003  -2.115680 42.220002  -2.115797 42.219993  -2.115834 42.219991  -2.116113 42.219970  -2.116187 42.219964  -2.116198 42.219963  -2.116214 42.219962  -2.116217 42.219962  -2.116276 42.219956  -2.116334 42.219951  -2.116337 42.219951  -2.116339 42.219950  -2.116435 42.219943  -2.116574 42.219932  -2.116805 42.219915  -2.116927 42.219905  -2.116990 42.219901  -2.117033 42.219897  -2.117044 42.219896  -2.117155 42.219886  -2.117295 42.219874  -2.117313 42.219872  -2.117339 42.219871  -2.117356 42.219871  -2.117361 42.219871  -2.117381 42.219872  -2.117397 42.219873  -2.117408 42.219870  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.186</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800320</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866108">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.118005 42.218817 </gml:lowerCorner>
-        		<gml:upperCorner>-2.114487 42.220106 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.114487 42.220106  -2.114576 42.220006  -2.114676 42.219923  -2.114767 42.219865  -2.114916 42.219799  -2.115074 42.219744  -2.115299 42.219674  -2.115515 42.219618  -2.115679 42.219578  -2.115848 42.219514  -2.116024 42.219440  -2.116194 42.219346  -2.116326 42.219278  -2.116408 42.219242  -2.116577 42.219191  -2.116907 42.219125  -2.117167 42.219057  -2.117508 42.218963  -2.117786 42.218889  -2.118005 42.218817  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de Cienta</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.185</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800300</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866138">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.100268 42.224440 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099750 42.224594 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.100268 42.224440  -2.100038 42.224508  -2.099750 42.224594  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ruiseñor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.92</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801220</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866141">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.099970 42.224594 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099750 42.224913 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.099970 42.224913  -2.099844 42.224759  -2.099795 42.224687  -2.099750 42.224594  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ruiseñor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.92</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801220</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866142">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.099750 42.224437 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099672 42.224594 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.099750 42.224594  -2.099672 42.224437  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ruiseñor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.92</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801220</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866145">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.081930 42.230526 </gml:lowerCorner>
-        		<gml:upperCorner>-2.081170 42.231055 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.081930 42.231055  -2.081827 42.230914  -2.081748 42.230845  -2.081594 42.230744  -2.081390 42.230609  -2.081262 42.230541  -2.081170 42.230526  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Talleres</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601801485</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3938548">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.101116 42.224464 </gml:lowerCorner>
-        		<gml:upperCorner>-2.100963 42.224782 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.101116 42.224782  -2.100963 42.224464  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque de la Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3938553">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.102043 42.224769 </gml:lowerCorner>
-        		<gml:upperCorner>-2.101479 42.225211 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.101562 42.225211  -2.101479 42.225038  -2.102043 42.224907  -2.101985 42.224769  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque de la Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3938554">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.101985 42.224694 </gml:lowerCorner>
-        		<gml:upperCorner>-2.101178 42.225026 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.101985 42.224769  -2.101950 42.224694  -2.101778 42.224734  -2.101618 42.224773  -2.101528 42.224818  -2.101446 42.224887  -2.101409 42.224963  -2.101178 42.225026  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque de la Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4009222">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.113694 42.221824 </gml:lowerCorner>
-        		<gml:upperCorner>-2.113087 42.221981 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.113087 42.221981  -2.113168 42.221976  -2.113272 42.221964  -2.113480 42.221910  -2.113694 42.221824  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Paco Portillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.269</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800976</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075786">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.103082 42.224999 </gml:lowerCorner>
-        		<gml:upperCorner>-2.101493 42.225376 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.103082 42.224999  -2.102430 42.225152  -2.101698 42.225328  -2.101493 42.225376  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.252</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1512396">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14653,6 +13553,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1512712">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.099667 42.228616 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099008 42.228682 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.099667 42.228629  -2.099449 42.228619  -2.099287 42.228616  -2.099130 42.228642  -2.099063 42.228663  -2.099008 42.228682  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mura</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800870</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1512717">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -17173,26 +16093,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1512712">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.099667 42.228616 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099008 42.228682 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.099667 42.228629  -2.099449 42.228619  -2.099287 42.228616  -2.099130 42.228642  -2.099063 42.228663  -2.099008 42.228682  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mura</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.65</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800870</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1519417">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -17850,6 +16750,1106 @@
         <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.018.212</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601801135</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865994">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.030654 42.284459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.029337 42.285126 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.030654 42.284459  -2.030463 42.284559  -2.029963 42.284809  -2.029595 42.285001  -2.029337 42.285126  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Julio Rey Pastor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.262</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800752</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865995">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028860 42.285369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.027553 42.286036 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028860 42.285369  -2.028634 42.285488  -2.027967 42.285834  -2.027553 42.286036  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Julio Rey Pastor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.262</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800752</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865996">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.026475 42.282415 </gml:lowerCorner>
+        		<gml:upperCorner>-2.024791 42.283386 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.026475 42.282415  -2.026248 42.282528  -2.025531 42.282893  -2.025060 42.283133  -2.024908 42.283213  -2.024840 42.283266  -2.024797 42.283336  -2.024791 42.283386  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Doctor Ildefonso Zubía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800051</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866014">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028019 42.281634 </gml:lowerCorner>
+        		<gml:upperCorner>-2.026475 42.282415 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028019 42.281634  -2.027645 42.281820  -2.026974 42.282164  -2.026475 42.282415  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Doctor Ildefonso Zubía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800051</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865997">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.027135 42.283386 </gml:lowerCorner>
+        		<gml:upperCorner>-2.024791 42.285992 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.024791 42.283386  -2.024847 42.283487  -2.024990 42.283654  -2.025240 42.283934  -2.025583 42.284303  -2.025966 42.284708  -2.026242 42.285023  -2.026558 42.285372  -2.026871 42.285704  -2.027135 42.285992  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ildefonso Sánchez del Río</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.261</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800666</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866001">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.029975 42.286342 </gml:lowerCorner>
+        		<gml:upperCorner>-2.027470 42.288921 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.029975 42.288921  -2.029892 42.288910  -2.029789 42.288858  -2.029510 42.288552  -2.029142 42.288152  -2.028739 42.287711  -2.028467 42.287426  -2.028105 42.287032  -2.027765 42.286658  -2.027470 42.286342  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ildefonso Sánchez del Río</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.261</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800666</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865998">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028939 42.282415 </gml:lowerCorner>
+        		<gml:upperCorner>-2.026475 42.285077 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028939 42.285077  -2.028885 42.285016  -2.028653 42.284767  -2.028428 42.284518  -2.028203 42.284274  -2.027781 42.283813  -2.027330 42.283346  -2.026942 42.282910  -2.026622 42.282568  -2.026475 42.282415  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Sixto Cámara Tecedor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.260</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801452</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865999">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.031721 42.285429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.029270 42.288086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.029270 42.285429  -2.029362 42.285529  -2.029601 42.285799  -2.029907 42.286131  -2.030214 42.286458  -2.030603 42.286883  -2.031039 42.287350  -2.031387 42.287734  -2.031721 42.288086  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Sixto Cámara Tecedor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.260</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801452</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866000">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.031721 42.288086 </gml:lowerCorner>
+        		<gml:upperCorner>-2.029975 42.288921 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.031721 42.288086  -2.031078 42.288410  -2.030457 42.288734  -2.030261 42.288836  -2.030163 42.288881  -2.030066 42.288911  -2.029975 42.288921  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel Jalón Corominas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.263</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800815</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866002">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.033405 42.287185 </gml:lowerCorner>
+        		<gml:upperCorner>-2.031721 42.288086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.031721 42.288086  -2.032000 42.287945  -2.032468 42.287717  -2.032762 42.287565  -2.033181 42.287342  -2.033328 42.287261  -2.033377 42.287215  -2.033405 42.287185  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel Jalón Corominas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.263</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800815</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866003">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.033420 42.284511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.031051 42.287185 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.033405 42.287185  -2.033420 42.287128  -2.033393 42.287051  -2.033168 42.286807  -2.032868 42.286480  -2.032500 42.286086  -2.032118 42.285671  -2.031757 42.285272  -2.031464 42.284960  -2.031137 42.284613  -2.031051 42.284511  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cosme García</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.268</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800357</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866004">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.030717 42.281695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.028436 42.284160 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.030717 42.284160  -2.030564 42.283985  -2.030182 42.283576  -2.029767 42.283109  -2.029439 42.282746  -2.029160 42.282455  -2.028839 42.282103  -2.028580 42.281838  -2.028436 42.281695  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cosme García</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.268</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800357</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866005">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028909 42.279156 </gml:lowerCorner>
+        		<gml:upperCorner>-2.028362 42.281364 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028527 42.281364  -2.028630 42.281303  -2.028778 42.281160  -2.028856 42.281043  -2.028900 42.280894  -2.028909 42.280745  -2.028863 42.280590  -2.028775 42.280347  -2.028730 42.280192  -2.028693 42.279914  -2.028656 42.279641  -2.028609 42.279481  -2.028501 42.279321  -2.028362 42.279156  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866006">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028508 42.278399 </gml:lowerCorner>
+        		<gml:upperCorner>-2.028208 42.278967 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028252 42.278967  -2.028214 42.278874  -2.028208 42.278764  -2.028237 42.278678  -2.028308 42.278586  -2.028508 42.278399  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866007">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028252 42.278662 </gml:lowerCorner>
+        		<gml:upperCorner>-2.027977 42.278967 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028252 42.278967  -2.028179 42.278909  -2.028141 42.278839  -2.028076 42.278763  -2.027977 42.278662  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866008">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028289 42.278900 </gml:lowerCorner>
+        		<gml:upperCorner>-2.026863 42.279216 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028289 42.279107  -2.028204 42.279051  -2.028123 42.278978  -2.028053 42.278937  -2.027960 42.278907  -2.027851 42.278900  -2.027703 42.278919  -2.027483 42.279007  -2.027272 42.279081  -2.026863 42.279216  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866009">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028289 42.278662 </gml:lowerCorner>
+        		<gml:upperCorner>-2.027977 42.279107 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028289 42.279107  -2.028208 42.279016  -2.028147 42.278946  -2.028062 42.278879  -2.028016 42.278818  -2.027986 42.278768  -2.027977 42.278662  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866010">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028362 42.278967 </gml:lowerCorner>
+        		<gml:upperCorner>-2.028252 42.279156 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028362 42.279156  -2.028320 42.279066  -2.028252 42.278967  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866011">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.028362 42.279107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.028289 42.279156 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.028362 42.279156  -2.028289 42.279107  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Delhuyar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.258</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800641</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866027">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.090863 42.241001 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090700 42.241263 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090734 42.241263  -2.090702 42.241229  -2.090700 42.241195  -2.090724 42.241129  -2.090787 42.241049  -2.090863 42.241001  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866028">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.090908 42.241001 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090852 42.241207 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090908 42.241207  -2.090906 42.241199  -2.090871 42.241135  -2.090852 42.241089  -2.090863 42.241001  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866029">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091632 42.240136 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090863 42.241001 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090863 42.241001  -2.091089 42.240750  -2.091375 42.240436  -2.091549 42.240230  -2.091632 42.240136  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866039">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091363 42.241934 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090886 42.243063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.091363 42.243063  -2.091320 42.243024  -2.091265 42.242907  -2.091176 42.242682  -2.091075 42.242419  -2.090966 42.242142  -2.090886 42.241934  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866040">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.090998 42.241652 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090886 42.241934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090886 42.241934  -2.090891 42.241849  -2.090901 42.241768  -2.090972 42.241697  -2.090998 42.241652  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866042">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.090886 42.241541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090741 42.241934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090741 42.241541  -2.090750 42.241621  -2.090784 42.241735  -2.090886 42.241934  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Albarderos (Polígono Industrial el Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.256</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866030">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091632 42.239874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.091102 42.240136 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.091632 42.240136  -2.091411 42.240030  -2.091229 42.239941  -2.091102 42.239874  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866031">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091102 42.239574 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090649 42.239874 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.091102 42.239874  -2.091001 42.239798  -2.090924 42.239741  -2.090833 42.239679  -2.090738 42.239632  -2.090649 42.239574  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866032">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091102 42.239816 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090571 42.239874 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090571 42.239868  -2.090601 42.239858  -2.090677 42.239836  -2.090775 42.239818  -2.090857 42.239816  -2.090978 42.239839  -2.091102 42.239874  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866033">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.092987 42.240136 </gml:lowerCorner>
+        		<gml:upperCorner>-2.091632 42.240965 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.092987 42.240965  -2.092983 42.240938  -2.092953 42.240876  -2.092923 42.240830  -2.092872 42.240794  -2.092729 42.240718  -2.092516 42.240619  -2.092251 42.240484  -2.092082 42.240395  -2.091874 42.240293  -2.091736 42.240211  -2.091632 42.240136  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866034">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.093230 42.240123 </gml:lowerCorner>
+        		<gml:upperCorner>-2.091632 42.240933 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.091632 42.240136  -2.091715 42.240123  -2.091854 42.240156  -2.092089 42.240275  -2.092479 42.240473  -2.092886 42.240677  -2.093090 42.240779  -2.093164 42.240829  -2.093215 42.240888  -2.093230 42.240933  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Esquiladores (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.254</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800489</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866035">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.092426 42.241384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.091463 42.241571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.092426 42.241384  -2.092177 42.241431  -2.091848 42.241497  -2.091603 42.241547  -2.091463 42.241571  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866036">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.093162 42.241237 </gml:lowerCorner>
+        		<gml:upperCorner>-2.092426 42.241384 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.093162 42.241237  -2.093131 42.241257  -2.093052 42.241282  -2.092864 42.241316  -2.092676 42.241354  -2.092426 42.241384  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866041">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091463 42.241571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.090998 42.241672 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.090998 42.241652  -2.091073 42.241672  -2.091235 42.241641  -2.091379 42.241610  -2.091463 42.241571  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.092926 42.241060 </gml:lowerCorner>
+        		<gml:upperCorner>-2.092426 42.241384 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.092926 42.241060  -2.092876 42.241070  -2.092686 42.241218  -2.092571 42.241324  -2.092426 42.241384  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866051">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.091463 42.241509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.091177 42.241574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.091463 42.241571  -2.091380 42.241574  -2.091280 42.241547  -2.091177 42.241509  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Seroneros (Polígono Industrial El Campillo)</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.255</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801444</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866037">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.092923 42.241384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.092426 42.242741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.092426 42.241384  -2.092490 42.241541  -2.092599 42.241814  -2.092679 42.242035  -2.092784 42.242312  -2.092860 42.242520  -2.092889 42.242595  -2.092923 42.242693  -2.092896 42.242741  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Piros</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801075</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866038">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.092896 42.242741 </gml:lowerCorner>
+        		<gml:upperCorner>-2.091363 42.243071 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.092896 42.242741  -2.092825 42.242793  -2.092689 42.242827  -2.092199 42.242924  -2.091835 42.242996  -2.091634 42.243046  -2.091468 42.243071  -2.091363 42.243063  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Gaitas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800575</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866057">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.119544 42.221873 </gml:lowerCorner>
+        		<gml:upperCorner>-2.119162 42.222760 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.119544 42.222760  -2.119510 42.222523  -2.119494 42.222359  -2.119482 42.222266  -2.119446 42.222196  -2.119279 42.221999  -2.119162 42.221873  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino la Coscojosa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800370</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866058">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.119162 42.220929 </gml:lowerCorner>
+        		<gml:upperCorner>-2.116157 42.221949 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.119162 42.221873  -2.119075 42.221844  -2.118991 42.221806  -2.118911 42.221761  -2.118857 42.221716  -2.118817 42.221675  -2.118771 42.221628  -2.118629 42.221436  -2.118463 42.221230  -2.118383 42.221136  -2.118285 42.220981  -2.118210 42.220934  -2.118117 42.220929  -2.117941 42.220955  -2.117846 42.221020  -2.117800 42.221168  -2.117804 42.221299  -2.117915 42.221477  -2.118062 42.221720  -2.118154 42.221856  -2.118134 42.221921  -2.117957 42.221949  -2.117836 42.221886  -2.117675 42.221824  -2.117470 42.221760  -2.117248 42.221703  -2.117039 42.221656  -2.116938 42.221653  -2.116847 42.221637  -2.116452 42.221443  -2.116157 42.221316  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino la Coscojosa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800370</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866059">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.119780 42.220988 </gml:lowerCorner>
+        		<gml:upperCorner>-2.119162 42.221873 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.119162 42.221873  -2.119298 42.221821  -2.119486 42.221745  -2.119612 42.221698  -2.119732 42.221651  -2.119763 42.221633  -2.119779 42.221615  -2.119780 42.221598  -2.119736 42.221541  -2.119626 42.221413  -2.119526 42.221296  -2.119404 42.221163  -2.119257 42.220988  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Urbanización la Coscojosa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.243</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800355</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866097">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110802 42.224068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110571 42.224503 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.110571 42.224068  -2.110641 42.224206  -2.110717 42.224346  -2.110802 42.224503  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Herce</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.191</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800630</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866102">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.109738 42.224411 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109492 42.224847 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.109492 42.224411  -2.109621 42.224644  -2.109738 42.224847  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Silo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.208</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801450</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866105">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112046 42.218235 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110348 42.220521 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.112046 42.220521  -2.111966 42.220453  -2.111863 42.220357  -2.111766 42.220244  -2.111680 42.220152  -2.111582 42.220057  -2.111510 42.219993  -2.111444 42.219928  -2.111393 42.219861  -2.111342 42.219769  -2.111243 42.219578  -2.111143 42.219379  -2.111115 42.219357  -2.111080 42.219311  -2.111032 42.219237  -2.110972 42.219161  -2.110912 42.219087  -2.110843 42.219017  -2.110806 42.218956  -2.110727 42.218807  -2.110659 42.218683  -2.110602 42.218600  -2.110496 42.218452  -2.110348 42.218235  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino el Veto</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801730</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866106">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114487 42.220106 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112046 42.220521 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.112046 42.220521  -2.112130 42.220485  -2.112136 42.220483  -2.112173 42.220468  -2.112239 42.220442  -2.112266 42.220432  -2.112312 42.220416  -2.112380 42.220393  -2.112405 42.220384  -2.112454 42.220370  -2.112524 42.220349  -2.112548 42.220342  -2.112599 42.220329  -2.112670 42.220311  -2.112693 42.220306  -2.112747 42.220294  -2.112798 42.220283  -2.112803 42.220282  -2.112880 42.220268  -2.112951 42.220255  -2.112969 42.220252  -2.113021 42.220244  -2.113038 42.220241  -2.113086 42.220234  -2.113102 42.220232  -2.113127 42.220229  -2.113182 42.220223  -2.113193 42.220221  -2.113203 42.220220  -2.113230 42.220217  -2.113268 42.220212  -2.113299 42.220209  -2.113326 42.220206  -2.113327 42.220206  -2.113367 42.220202  -2.113374 42.220201  -2.113389 42.220199  -2.113417 42.220197  -2.113422 42.220196  -2.113429 42.220195  -2.113521 42.220187  -2.113590 42.220181  -2.113651 42.220176  -2.113741 42.220168  -2.113799 42.220163  -2.113863 42.220157  -2.113875 42.220156  -2.114001 42.220145  -2.114039 42.220142  -2.114055 42.220141  -2.114099 42.220137  -2.114174 42.220131  -2.114225 42.220127  -2.114277 42.220123  -2.114296 42.220122  -2.114365 42.220116  -2.114410 42.220113  -2.114451 42.220109  -2.114487 42.220106  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.186</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800320</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866107">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.117408 42.219870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114487 42.220106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.114487 42.220106  -2.114524 42.220103  -2.114603 42.220096  -2.114704 42.220088  -2.114815 42.220078  -2.114834 42.220077  -2.114880 42.220073  -2.114917 42.220070  -2.115036 42.220060  -2.115099 42.220054  -2.115183 42.220047  -2.115218 42.220044  -2.115243 42.220042  -2.115273 42.220039  -2.115353 42.220032  -2.115506 42.220017  -2.115526 42.220016  -2.115536 42.220015  -2.115571 42.220011  -2.115585 42.220010  -2.115615 42.220007  -2.115630 42.220006  -2.115663 42.220003  -2.115680 42.220002  -2.115797 42.219993  -2.115834 42.219991  -2.116113 42.219970  -2.116187 42.219964  -2.116198 42.219963  -2.116214 42.219962  -2.116217 42.219962  -2.116276 42.219956  -2.116334 42.219951  -2.116337 42.219951  -2.116339 42.219950  -2.116435 42.219943  -2.116574 42.219932  -2.116805 42.219915  -2.116927 42.219905  -2.116990 42.219901  -2.117033 42.219897  -2.117044 42.219896  -2.117155 42.219886  -2.117295 42.219874  -2.117313 42.219872  -2.117339 42.219871  -2.117356 42.219871  -2.117361 42.219871  -2.117381 42.219872  -2.117397 42.219873  -2.117408 42.219870  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.186</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800320</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.118005 42.218817 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114487 42.220106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.114487 42.220106  -2.114576 42.220006  -2.114676 42.219923  -2.114767 42.219865  -2.114916 42.219799  -2.115074 42.219744  -2.115299 42.219674  -2.115515 42.219618  -2.115679 42.219578  -2.115848 42.219514  -2.116024 42.219440  -2.116194 42.219346  -2.116326 42.219278  -2.116408 42.219242  -2.116577 42.219191  -2.116907 42.219125  -2.117167 42.219057  -2.117508 42.218963  -2.117786 42.218889  -2.118005 42.218817  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de Cienta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.185</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800300</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866138">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.100268 42.224440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099750 42.224594 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.100268 42.224440  -2.100038 42.224508  -2.099750 42.224594  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ruiseñor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.92</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801220</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866141">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.099970 42.224594 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099750 42.224913 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.099970 42.224913  -2.099844 42.224759  -2.099795 42.224687  -2.099750 42.224594  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ruiseñor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.92</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801220</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866142">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.099750 42.224437 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099672 42.224594 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.099750 42.224594  -2.099672 42.224437  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ruiseñor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.92</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801220</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866145">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.081930 42.230526 </gml:lowerCorner>
+        		<gml:upperCorner>-2.081170 42.231055 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.081930 42.231055  -2.081827 42.230914  -2.081748 42.230845  -2.081594 42.230744  -2.081390 42.230609  -2.081262 42.230541  -2.081170 42.230526  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Talleres</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801485</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3938548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.101116 42.224464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.100963 42.224782 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.101116 42.224782  -2.100963 42.224464  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Parque de la Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3938553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.102043 42.224769 </gml:lowerCorner>
+        		<gml:upperCorner>-2.101479 42.225211 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.101562 42.225211  -2.101479 42.225038  -2.102043 42.224907  -2.101985 42.224769  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Parque de la Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3938554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.101985 42.224694 </gml:lowerCorner>
+        		<gml:upperCorner>-2.101178 42.225026 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.101985 42.224769  -2.101950 42.224694  -2.101778 42.224734  -2.101618 42.224773  -2.101528 42.224818  -2.101446 42.224887  -2.101409 42.224963  -2.101178 42.225026  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Parque de la Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4009222">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.113694 42.221824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.113087 42.221981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.113087 42.221981  -2.113168 42.221976  -2.113272 42.221964  -2.113480 42.221910  -2.113694 42.221824  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Paco Portillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.269</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800976</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075786">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.103082 42.224999 </gml:lowerCorner>
+        		<gml:upperCorner>-2.101493 42.225376 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.103082 42.224999  -2.102430 42.225152  -2.101698 42.225328  -2.101493 42.225376  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.252</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

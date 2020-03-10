@@ -13,286 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1820359">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.561596 42.429460 </gml:lowerCorner>
-        		<gml:upperCorner>-2.561524 42.429463 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.561524 42.429463  -2.561596 42.429460  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.18</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500132</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820360">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.561524 42.429463 </gml:lowerCorner>
-        		<gml:upperCorner>-2.560993 42.429497 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.560993 42.429497  -2.561247 42.429476  -2.561524 42.429463  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.18</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500132</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820363">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.561523 42.429245 </gml:lowerCorner>
-        		<gml:upperCorner>-2.561039 42.429264 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.561523 42.429245  -2.561346 42.429253  -2.561039 42.429264  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Pilas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500142</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820365">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.556869 42.429542 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554987 42.429743 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.556869 42.429546  -2.556713 42.429542  -2.556270 42.429572  -2.555698 42.429622  -2.555494 42.429655  -2.555214 42.429697  -2.554987 42.429743  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Valgaraoz</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.95</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500098</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820367">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.558636 42.431142 </gml:lowerCorner>
-        		<gml:upperCorner>-2.557673 42.431325 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.558636 42.431142  -2.558371 42.431207  -2.558055 42.431277  -2.557673 42.431325  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Cristo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.120</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500169</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820368">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.562892 42.422646 </gml:lowerCorner>
-        		<gml:upperCorner>-2.560775 42.425113 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.560775 42.425113  -2.560884 42.425048  -2.561030 42.424990  -2.561210 42.424936  -2.561330 42.424883  -2.561417 42.424794  -2.561484 42.424667  -2.561572 42.424387  -2.561667 42.424107  -2.561775 42.423886  -2.561943 42.423621  -2.562083 42.423430  -2.562351 42.423165  -2.562478 42.423023  -2.562739 42.422802  -2.562892 42.422646  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de Hornos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500170</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559422">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.577140 42.441556 </gml:lowerCorner>
-        		<gml:upperCorner>-2.576893 42.442918 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.576893 42.441556  -2.577140 42.442794  -2.577127 42.442849  -2.577073 42.442918  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle las Arenas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.94</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500145</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559426">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.576802 42.440335 </gml:lowerCorner>
-        		<gml:upperCorner>-2.576550 42.441188 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.576802 42.441188  -2.576646 42.440419  -2.576550 42.440335  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle las Arenas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.94</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500145</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559423">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.574289 42.439759 </gml:lowerCorner>
-        		<gml:upperCorner>-2.571942 42.440018 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.574289 42.439801  -2.574199 42.439767  -2.574095 42.439759  -2.571942 42.440018  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Losa</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.91</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500148</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559425">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.576550 42.440311 </gml:lowerCorner>
-        		<gml:upperCorner>-2.574493 42.440543 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.576550 42.440335  -2.576360 42.440311  -2.574493 42.440543  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Carralaverde</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.90</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500149</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559459">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.561153 42.428131 </gml:lowerCorner>
-        		<gml:upperCorner>-2.561150 42.428393 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.561153 42.428393  -2.561151 42.428252  -2.561150 42.428131  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza don Ramón Castroviejo Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.109</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500163</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559460">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.561596 42.428127 </gml:lowerCorner>
-        		<gml:upperCorner>-2.561150 42.428131 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.561596 42.428127  -2.561453 42.428129  -2.561288 42.428128  -2.561150 42.428131  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza don Ramón Castroviejo Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.109</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500163</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559461">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.561153 42.428131 </gml:lowerCorner>
-        		<gml:upperCorner>-2.560909 42.428527 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.561150 42.428131  -2.560996 42.428134  -2.560909 42.428138  -2.560920 42.428439  -2.560928 42.428526  -2.561152 42.428527  -2.561153 42.428393  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza don Ramón Castroviejo Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.109</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500163</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559466">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554654 42.424227 </gml:lowerCorner>
-        		<gml:upperCorner>-2.553908 42.425725 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.554654 42.425725  -2.553908 42.424291  -2.553910 42.424227  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Jubera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.111</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500156</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535918">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3070,6 +2790,66 @@
         <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.106.98</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610500139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535946">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.555587 42.427287 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555185 42.427302 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.555587 42.427287  -2.555580 42.427287  -2.555548 42.427288  -2.555533 42.427289  -2.555518 42.427289  -2.555339 42.427296  -2.555208 42.427301  -2.555185 42.427302  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Leza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1536050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.557419 42.427262 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555591 42.427344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.555591 42.427344  -2.557419 42.427262  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Leza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1536212">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.555180 42.427239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554757 42.427256 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.555180 42.427239  -2.554977 42.427246  -2.554757 42.427256  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Leza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -6533,63 +6313,283 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535946">
+      <ms:viales gml:id="viales.1559422">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555587 42.427287 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555185 42.427302 </gml:upperCorner>
+        		<gml:lowerCorner>-2.577140 42.441556 </gml:lowerCorner>
+        		<gml:upperCorner>-2.576893 42.442918 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.555587 42.427287  -2.555580 42.427287  -2.555548 42.427288  -2.555533 42.427289  -2.555518 42.427289  -2.555339 42.427296  -2.555208 42.427301  -2.555185 42.427302  </gml:posList>
+            <gml:posList srsDimension="2">-2.576893 42.441556  -2.577140 42.442794  -2.577127 42.442849  -2.577073 42.442918  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Leza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Arenas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.106.94</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1536050">
+      <ms:viales gml:id="viales.1559426">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.557419 42.427262 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555591 42.427344 </gml:upperCorner>
+        		<gml:lowerCorner>-2.576802 42.440335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.576550 42.441188 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.555591 42.427344  -2.557419 42.427262  </gml:posList>
+            <gml:posList srsDimension="2">-2.576802 42.441188  -2.576646 42.440419  -2.576550 42.440335  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Leza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Arenas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.106.94</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500145</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1536212">
+      <ms:viales gml:id="viales.1559423">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555180 42.427239 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554757 42.427256 </gml:upperCorner>
+        		<gml:lowerCorner>-2.574289 42.439759 </gml:lowerCorner>
+        		<gml:upperCorner>-2.571942 42.440018 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.555180 42.427239  -2.554977 42.427246  -2.554757 42.427256  </gml:posList>
+            <gml:posList srsDimension="2">-2.574289 42.439801  -2.574199 42.439767  -2.574095 42.439759  -2.571942 42.440018  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Leza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Losa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.106.91</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500148</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559425">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.576550 42.440311 </gml:lowerCorner>
+        		<gml:upperCorner>-2.574493 42.440543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.576550 42.440335  -2.576360 42.440311  -2.574493 42.440543  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carralaverde</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.90</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500149</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559459">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561153 42.428131 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561150 42.428393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.561153 42.428393  -2.561151 42.428252  -2.561150 42.428131  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza don Ramón Castroviejo Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500163</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559460">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561596 42.428127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561150 42.428131 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.561596 42.428127  -2.561453 42.428129  -2.561288 42.428128  -2.561150 42.428131  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza don Ramón Castroviejo Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500163</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561153 42.428131 </gml:lowerCorner>
+        		<gml:upperCorner>-2.560909 42.428527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.561150 42.428131  -2.560996 42.428134  -2.560909 42.428138  -2.560920 42.428439  -2.560928 42.428526  -2.561152 42.428527  -2.561153 42.428393  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza don Ramón Castroviejo Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500163</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559466">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554654 42.424227 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553908 42.425725 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.554654 42.425725  -2.553908 42.424291  -2.553910 42.424227  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Jubera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.111</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500156</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820359">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561596 42.429460 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561524 42.429463 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.561524 42.429463  -2.561596 42.429460  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500132</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820360">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561524 42.429463 </gml:lowerCorner>
+        		<gml:upperCorner>-2.560993 42.429497 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.560993 42.429497  -2.561247 42.429476  -2.561524 42.429463  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500132</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820363">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561523 42.429245 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561039 42.429264 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.561523 42.429245  -2.561346 42.429253  -2.561039 42.429264  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Pilas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500142</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820365">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.556869 42.429542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554987 42.429743 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.556869 42.429546  -2.556713 42.429542  -2.556270 42.429572  -2.555698 42.429622  -2.555494 42.429655  -2.555214 42.429697  -2.554987 42.429743  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Valgaraoz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.95</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500098</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.558636 42.431142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557673 42.431325 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.558636 42.431142  -2.558371 42.431207  -2.558055 42.431277  -2.557673 42.431325  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Cristo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.120</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500169</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820368">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.562892 42.422646 </gml:lowerCorner>
+        		<gml:upperCorner>-2.560775 42.425113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.560775 42.425113  -2.560884 42.425048  -2.561030 42.424990  -2.561210 42.424936  -2.561330 42.424883  -2.561417 42.424794  -2.561484 42.424667  -2.561572 42.424387  -2.561667 42.424107  -2.561775 42.423886  -2.561943 42.423621  -2.562083 42.423430  -2.562351 42.423165  -2.562478 42.423023  -2.562739 42.422802  -2.562892 42.422646  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de Hornos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500170</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

@@ -13,26 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1819934">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.037826 42.613793 </gml:lowerCorner>
-        		<gml:upperCorner>-3.037431 42.614255 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.037826 42.614255  -3.037753 42.614174  -3.037650 42.614071  -3.037583 42.614007  -3.037520 42.613926  -3.037431 42.613793  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Arce</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Foncea</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Foncea</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.062.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606200028</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1527974">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -970,6 +950,26 @@
         <ms:NOMBRE_MUNICIPIO>Foncea</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.062.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2606200022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1819934">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.037826 42.613793 </gml:lowerCorner>
+        		<gml:upperCorner>-3.037431 42.614255 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.037826 42.614255  -3.037753 42.614174  -3.037650 42.614071  -3.037583 42.614007  -3.037520 42.613926  -3.037431 42.613793  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arce</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Foncea</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Foncea</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.062.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606200028</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
