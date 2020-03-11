@@ -82,7 +82,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.832699 42.094531  -2.832333 42.094398  -2.832200 42.094329  </gml:posList>
+            <gml:posList srsDimension="2">-2.832699 42.094531  -2.832401 42.094395  -2.832367 42.094453  -2.832314 42.094389  -2.832200 42.094329  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
