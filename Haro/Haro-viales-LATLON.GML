@@ -5268,7 +5268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5288,7 +5288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5308,7 +5308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5328,7 +5328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5348,7 +5348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5368,7 +5368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5388,7 +5388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5408,7 +5408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5428,7 +5428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5448,7 +5448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5468,7 +5468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5488,7 +5488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5508,7 +5508,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5528,7 +5528,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5548,7 +5548,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5568,7 +5568,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5588,7 +5588,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5608,7 +5608,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5628,7 +5628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5648,7 +5648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5668,7 +5668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5688,7 +5688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5708,7 +5708,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5728,7 +5728,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Santo Domingo de la Calzada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100605</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7528,7 +7528,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Uruguay</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.230</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100664</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7548,7 +7548,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Uruguay</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.230</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100664</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7568,7 +7568,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Uruguay</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.230</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100664</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -15648,7 +15648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Subida Cuevas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.76</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100180</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -17128,7 +17128,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Monseñor Florentino Rodríguez</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.87</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100250</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -17148,7 +17148,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Monseñor Florentino Rodríguez</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.87</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100250</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -17168,7 +17168,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Monseñor Florentino Rodríguez</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.87</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100250</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -17448,7 +17448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Herrera Segunda</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.071.80</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607100270</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
