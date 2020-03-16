@@ -4705,7 +4705,7 @@
             <gml:posList srsDimension="2">-2.472506 42.357159  -2.472285 42.357487  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle MAYOR</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.005.12</ms:COD_CATASTRAL_VIAL>
@@ -4725,7 +4725,7 @@
             <gml:posList srsDimension="2">-2.472580 42.357011  -2.472522 42.357135  -2.472506 42.357159  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle MAYOR</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.005.12</ms:COD_CATASTRAL_VIAL>
@@ -7748,7 +7748,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.005.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500239</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7768,7 +7768,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.005.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500239</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7788,7 +7788,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.005.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500239</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
