@@ -1628,7 +1628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Moncalvillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.005.97</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500604</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
