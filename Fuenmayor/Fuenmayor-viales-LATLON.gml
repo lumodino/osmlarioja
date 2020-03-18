@@ -4042,7 +4042,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.559545 42.468393  -2.559556 42.468285  -2.559568 42.468173  -2.559587 42.468002  -2.559612 42.467831  -2.559630 42.467745  </gml:posList>
+            <gml:posList srsDimension="2">-2.559545 42.468393  -2.559571 42.468319  -2.559591 42.468181  -2.559604 42.468034  -2.559620 42.467867  -2.559630 42.467745  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Palacio</ms:NOMBRE_COMPLETO_VIAL>
