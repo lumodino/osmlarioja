@@ -9008,7 +9008,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Aragón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.084.82</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608400388</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -9028,7 +9028,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Aragón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.084.82</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608400388</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -9048,7 +9048,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Aragón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.084.82</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608400388</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -11048,7 +11048,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Cañalejos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.141</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.084.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608400365</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
