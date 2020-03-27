@@ -1105,7 +1105,7 @@
             <gml:posList srsDimension="2">-2.886561 42.609360  -2.886527 42.609330  -2.886332 42.609129  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1125,7 +1125,7 @@
             <gml:posList srsDimension="2">-2.888924 42.607236  -2.888832 42.607274  -2.888679 42.607352  -2.888572 42.607417  -2.888583 42.607463  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1145,7 +1145,7 @@
             <gml:posList srsDimension="2">-2.888583 42.607463  -2.888495 42.607512  -2.888333 42.607557  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1165,7 +1165,7 @@
             <gml:posList srsDimension="2">-2.886934 42.610719  -2.886819 42.610718  -2.886668 42.610689  -2.886517 42.610632  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1185,7 +1185,7 @@
             <gml:posList srsDimension="2">-2.886717 42.610354  -2.886713 42.610307  -2.886591 42.610253  -2.886590 42.610253  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1205,7 +1205,7 @@
             <gml:posList srsDimension="2">-2.886393 42.609877  -2.886475 42.609819  -2.886524 42.609735  -2.886553 42.609632  -2.886585 42.609539  -2.886584 42.609408  -2.886561 42.609360  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1225,7 +1225,7 @@
             <gml:posList srsDimension="2">-2.888583 42.607463  -2.888630 42.607499  -2.888696 42.607629  -2.888708 42.607656  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1245,7 +1245,7 @@
             <gml:posList srsDimension="2">-2.887075 42.610444  -2.887071 42.610593  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1265,7 +1265,7 @@
             <gml:posList srsDimension="2">-2.886717 42.610354  -2.887075 42.610444  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalba de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalba de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

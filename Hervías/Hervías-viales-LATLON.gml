@@ -245,7 +245,7 @@
             <gml:posList srsDimension="2">-2.885408 42.447989  -2.885149 42.448535  -2.885147 42.448633  -2.885199 42.448869  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Hervías</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Hervías</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -265,7 +265,7 @@
             <gml:posList srsDimension="2">-2.885199 42.448869  -2.885205 42.448897  -2.885149 42.449259  -2.885113 42.449370  -2.884966 42.449607  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Hervías</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Hervías</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -285,7 +285,7 @@
             <gml:posList srsDimension="2">-2.885199 42.448869  -2.885487 42.448922  -2.885595 42.448900  -2.885687 42.448822  -2.885783 42.448616  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Hervías</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Hervías</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

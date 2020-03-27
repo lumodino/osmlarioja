@@ -2445,7 +2445,7 @@
             <gml:posList srsDimension="2">-2.763998 42.263091  -2.763766 42.263045  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2465,7 +2465,7 @@
             <gml:posList srsDimension="2">-2.763796 42.262914  -2.763904 42.262932  -2.763929 42.262929  -2.764049 42.262968  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2485,7 +2485,7 @@
             <gml:posList srsDimension="2">-2.764874 42.261902  -2.764759 42.261841  -2.764640 42.261752  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2505,7 +2505,7 @@
             <gml:posList srsDimension="2">-2.764026 42.263023  -2.764189 42.263049  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

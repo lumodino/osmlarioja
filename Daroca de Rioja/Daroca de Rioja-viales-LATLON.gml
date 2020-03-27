@@ -25,7 +25,7 @@
             <gml:posList srsDimension="2">-2.582684 42.371395  -2.582772 42.371480  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Daroca de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Daroca de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -45,7 +45,7 @@
             <gml:posList srsDimension="2">-2.582610 42.371238  -2.582684 42.371395  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Daroca de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Daroca de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -65,7 +65,7 @@
             <gml:posList srsDimension="2">-2.582772 42.371480  -2.582591 42.371751  -2.582316 42.371983  -2.582092 42.372389  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Daroca de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Daroca de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -1665,7 +1665,7 @@
             <gml:posList srsDimension="2">-2.861011 42.369855  -2.861015 42.369819  -2.861042 42.369600  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- Sin Nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -3645,7 +3645,7 @@
             <gml:posList srsDimension="2">-2.761545 42.566364  -2.761088 42.566452  -2.760862 42.566434  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3665,7 +3665,7 @@
             <gml:posList srsDimension="2">-2.759338 42.564427  -2.759509 42.564594  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3685,7 +3685,7 @@
             <gml:posList srsDimension="2">-2.756768 42.559070  -2.756540 42.559327  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3705,7 +3705,7 @@
             <gml:posList srsDimension="2">-2.759890 42.565815  -2.760031 42.565903  -2.760185 42.565967  -2.760259 42.565982  -2.760329 42.565972  -2.760403 42.565938  -2.760490 42.565843  -2.760529 42.565695  -2.760525 42.565557  -2.760406 42.565249  -2.760337 42.565002  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3725,7 +3725,7 @@
             <gml:posList srsDimension="2">-2.758305 42.563377  -2.758255 42.563497  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3745,7 +3745,7 @@
             <gml:posList srsDimension="2">-2.761345 42.564618  -2.761211 42.564254  -2.761113 42.564133  -2.760970 42.564007  -2.760846 42.563821  -2.760865 42.563691  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3765,7 +3765,7 @@
             <gml:posList srsDimension="2">-2.758420 42.562935  -2.758436 42.562953  -2.758541 42.563143  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3785,7 +3785,7 @@
             <gml:posList srsDimension="2">-2.758696 42.563373  -2.758541 42.563143  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3805,7 +3805,7 @@
             <gml:posList srsDimension="2">-2.760628 42.563340  -2.761008 42.563164  -2.761039 42.563131  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3825,7 +3825,7 @@
             <gml:posList srsDimension="2">-2.760628 42.563340  -2.760584 42.563412  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3845,7 +3845,7 @@
             <gml:posList srsDimension="2">-2.756981 42.563988  -2.756719 42.563869  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3865,7 +3865,7 @@
             <gml:posList srsDimension="2">-2.756758 42.563655  -2.756663 42.563594  -2.756526 42.563533  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3885,7 +3885,7 @@
             <gml:posList srsDimension="2">-2.757630 42.560530  -2.757495 42.560658  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3905,7 +3905,7 @@
             <gml:posList srsDimension="2">-2.760628 42.563340  -2.760378 42.562927  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3925,7 +3925,7 @@
             <gml:posList srsDimension="2">-2.760378 42.562927  -2.760354 42.562888  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3945,7 +3945,7 @@
             <gml:posList srsDimension="2">-2.760378 42.562927  -2.760503 42.562861  -2.760585 42.562836  -2.760662 42.562914  -2.760758 42.563004  -2.760866 42.562953  -2.760904 42.562933  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3965,7 +3965,7 @@
             <gml:posList srsDimension="2">-2.760904 42.562933  -2.761015 42.563040  -2.761036 42.563096  -2.761039 42.563131  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3985,7 +3985,7 @@
             <gml:posList srsDimension="2">-2.760904 42.562933  -2.760886 42.562895  -2.760900 42.562860  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

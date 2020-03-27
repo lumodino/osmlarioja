@@ -1665,7 +1665,7 @@
             <gml:posList srsDimension="2">-2.096778 42.067109  -2.096784 42.067096  -2.096785 42.067096  -2.096800 42.067073  -2.096815 42.067051  -2.096821 42.067044  -2.096832 42.067029  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1685,7 +1685,7 @@
             <gml:posList srsDimension="2">-2.096837 42.066065  -2.096696 42.065979  -2.096577 42.065969  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1705,7 +1705,7 @@
             <gml:posList srsDimension="2">-2.095995 42.067193  -2.096014 42.067199  -2.096036 42.067206  -2.096048 42.067209  -2.096084 42.067217  -2.096091 42.067219  -2.096106 42.067222  -2.096113 42.067224  -2.096115 42.067224  -2.096120 42.067225  -2.096126 42.067226  -2.096166 42.067231  -2.096200 42.067236  -2.096205 42.067237  -2.096225 42.067238  -2.096262 42.067240  -2.096297 42.067242  -2.096348 42.067245  -2.096389 42.067248  -2.096465 42.067254  -2.096477 42.067255  -2.096520 42.067259  -2.096558 42.067260  -2.096561 42.067260  -2.096579 42.067260  -2.096601 42.067258  -2.096602 42.067258  -2.096619 42.067255  -2.096639 42.067251  -2.096640 42.067250  -2.096656 42.067244  -2.096673 42.067238  -2.096692 42.067231  -2.096692 42.067230  -2.096704 42.067219  -2.096717 42.067205  -2.096727 42.067195  -2.096736 42.067185  -2.096739 42.067182  -2.096747 42.067167  -2.096759 42.067144  -2.096772 42.067119  -2.096778 42.067109  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1725,7 +1725,7 @@
             <gml:posList srsDimension="2">-2.095106 42.065812  -2.095639 42.066218  -2.095821 42.066345  -2.096048 42.066451  -2.096479 42.066594  -2.096651 42.066624  -2.096777 42.066576  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1745,7 +1745,7 @@
             <gml:posList srsDimension="2">-2.096577 42.065969  -2.096577 42.066066  -2.096522 42.066180  -2.096407 42.066232  -2.096261 42.066228  -2.095802 42.066017  -2.095542 42.065871  -2.095358 42.065698  -2.095295 42.065613  -2.095262 42.065565  -2.095262 42.065531  -2.095279 42.065414  -2.095292 42.065389  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1765,7 +1765,7 @@
             <gml:posList srsDimension="2">-2.093163 42.065849  -2.093180 42.065829  -2.093304 42.065665  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1785,7 +1785,7 @@
             <gml:posList srsDimension="2">-2.094848 42.065715  -2.094672 42.065713  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1805,7 +1805,7 @@
             <gml:posList srsDimension="2">-2.099170 42.064960  -2.098897 42.065100  -2.098274 42.065570  -2.097936 42.065599  -2.097742 42.065536  -2.097602 42.065522  -2.097444 42.065423  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cornago</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cornago</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

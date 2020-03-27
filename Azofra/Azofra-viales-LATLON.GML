@@ -1745,7 +1745,7 @@
             <gml:posList srsDimension="2">-2.799724 42.421634  -2.799895 42.421675  -2.800269 42.421850  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

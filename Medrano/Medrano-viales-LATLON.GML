@@ -1305,7 +1305,7 @@
             <gml:posList srsDimension="2">-2.556337 42.386323  -2.555889 42.386442  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Medrano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Medrano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1325,7 +1325,7 @@
             <gml:posList srsDimension="2">-2.556229 42.380432  -2.556451 42.380411  -2.556674 42.380359  -2.557242 42.380104  -2.557572 42.380023  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Medrano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Medrano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

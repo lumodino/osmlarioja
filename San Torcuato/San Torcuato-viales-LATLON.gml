@@ -325,7 +325,7 @@
             <gml:posList srsDimension="2">-2.888662 42.481916  -2.888504 42.481833  -2.888167 42.481713  -2.888003 42.481654  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Torcuato</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.888370 42.483514  -2.888275 42.483452  -2.888021 42.483376  -2.887743 42.483216  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Torcuato</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -325,7 +325,7 @@
             <gml:posList srsDimension="2">-2.839305 42.399585  -2.839302 42.399585  -2.839235 42.399599  -2.839150 42.399625  -2.839082 42.399643  -2.839075 42.399646  -2.839017 42.399668  -2.838957 42.399699  -2.838903 42.399736  -2.838881 42.399754  -2.838768 42.399878  -2.838696 42.400013  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canillas de Río Tuerto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canillas de Río Tuerto</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.841418 42.399000  -2.841562 42.399067  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canillas de Río Tuerto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canillas de Río Tuerto</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-2.839361 42.399332  -2.839363 42.399337  -2.839366 42.399345  -2.839369 42.399353  -2.839371 42.399363  -2.839374 42.399390  -2.839374 42.399391  -2.839374 42.399393  -2.839373 42.399413  -2.839372 42.399433  -2.839372 42.399435  -2.839364 42.399477  -2.839363 42.399483  -2.839356 42.399507  -2.839349 42.399529  -2.839349 42.399529  -2.839336 42.399547  -2.839325 42.399563  -2.839323 42.399565  -2.839317 42.399574  -2.839305 42.399585  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canillas de Río Tuerto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canillas de Río Tuerto</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -385,7 +385,7 @@
             <gml:posList srsDimension="2">-2.838696 42.400013  -2.838586 42.400258  -2.838572 42.400287  -2.838528 42.400386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canillas de Río Tuerto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canillas de Río Tuerto</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -605,7 +605,7 @@
             <gml:posList srsDimension="2">-2.934999 42.502247  -2.935035 42.502263  -2.935430 42.502438  -2.935616 42.502519  -2.935699 42.502546  -2.935727 42.502555  -2.935752 42.502564  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

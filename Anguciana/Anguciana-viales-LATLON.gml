@@ -1025,7 +1025,7 @@
             <gml:posList srsDimension="2">-2.908492 42.575550  -2.908463 42.575520  -2.908067 42.575065  -2.908049 42.575044  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- Sin Nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguciana</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguciana</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1045,7 +1045,7 @@
             <gml:posList srsDimension="2">-2.907598 42.574785  -2.907597 42.574816  -2.907583 42.574905  -2.907583 42.574912  -2.907581 42.574960  -2.907587 42.575008  -2.907601 42.575052  -2.907627 42.575115  -2.907660 42.575177  -2.907666 42.575187  -2.907671 42.575196  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- Sin Nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguciana</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguciana</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

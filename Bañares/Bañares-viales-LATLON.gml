@@ -825,7 +825,7 @@
             <gml:posList srsDimension="2">-2.909492 42.465096  -2.909523 42.464740  -2.909585 42.464511  -2.909690 42.464350  -2.909935 42.464227  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -845,7 +845,7 @@
             <gml:posList srsDimension="2">-2.911625 42.469252  -2.911381 42.469226  -2.911240 42.469197  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -865,7 +865,7 @@
             <gml:posList srsDimension="2">-2.911240 42.469197  -2.911175 42.469194  -2.910957 42.469164  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -885,7 +885,7 @@
             <gml:posList srsDimension="2">-2.910751 42.467886  -2.910664 42.467897  -2.910436 42.467917  -2.910224 42.467918  -2.910027 42.467914  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -905,7 +905,7 @@
             <gml:posList srsDimension="2">-2.910815 42.464322  -2.910086 42.464257  -2.909935 42.464227  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -925,7 +925,7 @@
             <gml:posList srsDimension="2">-2.912674 42.466425  -2.912676 42.466445  -2.912693 42.466640  -2.912721 42.466802  -2.912743 42.466951  -2.912748 42.466979  -2.912760 42.467059  -2.912767 42.467105  -2.912791 42.467226  -2.912798 42.467259  -2.912798 42.467262  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -945,7 +945,7 @@
             <gml:posList srsDimension="2">-2.909935 42.464227  -2.909929 42.464226  -2.909866 42.464206  -2.909724 42.464145  -2.909579 42.464089  -2.909442 42.464042  -2.909430 42.464038  -2.909403 42.464030  -2.909314 42.463996  -2.909138 42.463917  -2.908970 42.463850  -2.908869 42.463807  -2.908805 42.463779  -2.908644 42.463702  -2.908596 42.463677  -2.908511 42.463640  -2.908488 42.463632  -2.908423 42.463608  -2.908389 42.463598  -2.908379 42.463595  -2.908177 42.463528  -2.908080 42.463502  -2.907980 42.463482  -2.907878 42.463468  -2.907775 42.463459  -2.907748 42.463458  -2.907595 42.463461  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -4725,7 +4725,7 @@
             <gml:posList srsDimension="2">-2.789149 42.543648  -2.789151 42.543595  -2.789182 42.543145  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4745,7 +4745,7 @@
             <gml:posList srsDimension="2">-2.786403 42.543513  -2.786396 42.543486  -2.786421 42.543460  -2.786664 42.543465  -2.786723 42.543484  -2.786817 42.543538  -2.786988 42.543706  -2.787024 42.543794  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4765,7 +4765,7 @@
             <gml:posList srsDimension="2">-2.788895 42.542734  -2.789087 42.542885  -2.789184 42.543099  -2.789182 42.543145  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

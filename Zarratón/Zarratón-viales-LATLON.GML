@@ -1545,7 +1545,7 @@
             <gml:posList srsDimension="2">-2.880315 42.513580  -2.880600 42.513773  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1565,7 +1565,7 @@
             <gml:posList srsDimension="2">-2.878673 42.516840  -2.878600 42.516773  -2.878386 42.516563  -2.878320 42.516485  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1585,7 +1585,7 @@
             <gml:posList srsDimension="2">-2.879498 42.516351  -2.879383 42.516270  -2.879052 42.516142  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1605,7 +1605,7 @@
             <gml:posList srsDimension="2">-2.879498 42.516351  -2.879719 42.516614  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1625,7 +1625,7 @@
             <gml:posList srsDimension="2">-2.881258 42.515058  -2.881341 42.515118  -2.881459 42.515211  -2.881526 42.515249  -2.881606 42.515332  -2.881646 42.515391  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1645,7 +1645,7 @@
             <gml:posList srsDimension="2">-2.879052 42.516142  -2.878778 42.516009  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1665,7 +1665,7 @@
             <gml:posList srsDimension="2">-2.878673 42.516840  -2.878796 42.517174  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1685,7 +1685,7 @@
             <gml:posList srsDimension="2">-2.880123 42.514158  -2.879833 42.513973  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zarratón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Zarratón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

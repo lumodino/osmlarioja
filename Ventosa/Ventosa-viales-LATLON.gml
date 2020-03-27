@@ -105,7 +105,7 @@
             <gml:posList srsDimension="2">-2.624824 42.405988  -2.624788 42.405957  -2.624710 42.405966  -2.624641 42.405996  -2.624591 42.405969  -2.624612 42.405929  -2.624816 42.405859  -2.624871 42.405812  -2.624873 42.405774  -2.624789 42.405613  -2.624773 42.405512  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventosa</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ventosa</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -125,7 +125,7 @@
             <gml:posList srsDimension="2">-2.627627 42.404238  -2.627832 42.404056  -2.627887 42.404040  -2.628088 42.404084  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventosa</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ventosa</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1605,7 +1605,7 @@
             <gml:posList srsDimension="2">-2.626255 42.404675  -2.626247 42.404816  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- Rincón de los Abuelos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Rincón de los Abuelos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventosa</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ventosa</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

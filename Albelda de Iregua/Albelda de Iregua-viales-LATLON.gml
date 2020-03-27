@@ -205,7 +205,7 @@
             <gml:posList srsDimension="2">-2.473776 42.356078  -2.473792 42.356064  -2.473804 42.356048  -2.473808 42.356042  -2.473811 42.356035  -2.473812 42.356029  -2.473812 42.356022  -2.473810 42.356015  -2.473807 42.356009  -2.473803 42.356003  -2.473797 42.355998  -2.473790 42.355994  -2.473779 42.355987  -2.473766 42.355982  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -225,7 +225,7 @@
             <gml:posList srsDimension="2">-2.473544 42.356041  -2.473548 42.356035  -2.473555 42.356025  -2.473565 42.356016  -2.473576 42.356009  -2.473608 42.355996  -2.473641 42.355984  -2.473660 42.355979  -2.473680 42.355976  -2.473701 42.355975  -2.473721 42.355976  -2.473736 42.355976  -2.473751 42.355978  -2.473763 42.355981  -2.473766 42.355982  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -245,7 +245,7 @@
             <gml:posList srsDimension="2">-2.493838 42.361099  -2.493607 42.361439  -2.493477 42.361668  -2.493276 42.362028  -2.493264 42.362041  -2.493246 42.362050  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -265,7 +265,7 @@
             <gml:posList srsDimension="2">-2.471096 42.357093  -2.471165 42.357098  -2.471246 42.357131  -2.471278 42.357188  -2.471272 42.357239  -2.471266 42.357322  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -285,7 +285,7 @@
             <gml:posList srsDimension="2">-2.494066 42.361775  -2.493610 42.361658  -2.493301 42.362175  -2.492762 42.363763  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -305,7 +305,7 @@
             <gml:posList srsDimension="2">-2.493247 42.363847  -2.493481 42.363922  -2.493782 42.364005  -2.493983 42.364063  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -325,7 +325,7 @@
             <gml:posList srsDimension="2">-2.492762 42.363763  -2.492855 42.363745  -2.493036 42.363792  -2.493247 42.363847  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.474988 42.392776  -2.476440 42.393463  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-2.477431 42.360774  -2.477442 42.360766  -2.477494 42.360724  -2.477551 42.360670  -2.477601 42.360613  -2.477644 42.360553  -2.477655 42.360536  -2.477747 42.360397  -2.477833 42.360255  -2.477911 42.360111  -2.477981 42.359965  -2.478027 42.359860  -2.478090 42.359698  -2.478129 42.359586  -2.478218 42.359312  -2.478235 42.358944  -2.478240 42.358475  -2.478259 42.358210  -2.478287 42.357972  -2.478281 42.357924  -2.478276 42.357909  -2.478265 42.357895  -2.478247 42.357886  -2.478244 42.357885  -2.478237 42.357883  -2.478214 42.357881  -2.478039 42.357878  -2.477828 42.357855  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -385,7 +385,7 @@
             <gml:posList srsDimension="2">-2.469480 42.357628  -2.469507 42.357622  -2.469538 42.357605  -2.469634 42.357553  -2.469838 42.357416  -2.469934 42.357384  -2.470078 42.357325  -2.470152 42.357320  -2.470318 42.357317  -2.470459 42.357295  -2.470641 42.357249  -2.470706 42.357214  -2.470744 42.357169  -2.470752 42.357150  -2.470767 42.357133  -2.470787 42.357120  -2.470812 42.357111  -2.470828 42.357109  -2.470928 42.357111  -2.471022 42.357112  -2.471096 42.357093  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -405,7 +405,7 @@
             <gml:posList srsDimension="2">-2.473686 42.356113  -2.473662 42.356117  -2.473637 42.356119  -2.473612 42.356117  -2.473588 42.356113  -2.473574 42.356109  -2.473562 42.356105  -2.473555 42.356098  -2.473552 42.356094  -2.473548 42.356089  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -425,7 +425,7 @@
             <gml:posList srsDimension="2">-2.473548 42.356089  -2.473542 42.356078  -2.473540 42.356067  -2.473540 42.356056  -2.473543 42.356045  -2.473544 42.356041  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -445,7 +445,7 @@
             <gml:posList srsDimension="2">-2.473686 42.356113  -2.473706 42.356110  -2.473724 42.356105  -2.473742 42.356099  -2.473758 42.356090  -2.473776 42.356078  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -465,7 +465,7 @@
             <gml:posList srsDimension="2">-2.477828 42.357855  -2.477808 42.358326  -2.477786 42.358602  -2.477763 42.358916  -2.477675 42.359500  -2.477658 42.359563  -2.477632 42.359625  -2.477600 42.359685  -2.477560 42.359742  -2.477527 42.359780  -2.477479 42.359866  -2.477424 42.359949  -2.477397 42.359982  -2.477361 42.360029  -2.477292 42.360105  -2.477216 42.360179  -2.477134 42.360248  -2.477119 42.360261  -2.476871 42.360473  -2.476809 42.360567  -2.476802 42.360577  -2.476794 42.360587  -2.476774 42.360612  -2.476690 42.360692  -2.476455 42.361084  -2.475850 42.362286  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

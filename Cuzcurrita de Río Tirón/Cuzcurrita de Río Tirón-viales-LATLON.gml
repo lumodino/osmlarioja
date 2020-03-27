@@ -1285,7 +1285,7 @@
             <gml:posList srsDimension="2">-2.964676 42.538830  -2.964507 42.538900  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1305,7 +1305,7 @@
             <gml:posList srsDimension="2">-2.966545 42.548211  -2.966608 42.548146  -2.967015 42.547818  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1325,7 +1325,7 @@
             <gml:posList srsDimension="2">-2.964183 42.538102  -2.964179 42.538118  -2.964176 42.538132  -2.964174 42.538137  -2.964171 42.538147  -2.964165 42.538163  -2.964162 42.538170  -2.964152 42.538195  -2.964138 42.538230  -2.964138 42.538231  -2.964123 42.538264  -2.964116 42.538279  -2.964113 42.538287  -2.964110 42.538294  -2.964089 42.538329  -2.964086 42.538341  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1345,7 +1345,7 @@
             <gml:posList srsDimension="2">-2.962357 42.541161  -2.962418 42.541265  -2.962463 42.541351  -2.962497 42.541413  -2.962528 42.541470  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1365,7 +1365,7 @@
             <gml:posList srsDimension="2">-2.963052 42.542627  -2.963052 42.542629  -2.963053 42.542631  -2.963053 42.542633  -2.963054 42.542634  -2.963055 42.542636  -2.963057 42.542638  -2.963058 42.542639  -2.963060 42.542641  -2.963062 42.542642  -2.963064 42.542643  -2.963066 42.542644  -2.963068 42.542645  -2.963071 42.542646  -2.963073 42.542647  -2.963075 42.542647  -2.963078 42.542647  -2.963081 42.542648  -2.963083 42.542648  -2.963085 42.542648  -2.963088 42.542647  -2.963090 42.542647  -2.963093 42.542646  -2.963095 42.542646  -2.963097 42.542645  -2.963100 42.542644  -2.963102 42.542643  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1385,7 +1385,7 @@
             <gml:posList srsDimension="2">-2.967015 42.547818  -2.967133 42.547723  -2.967230 42.547645  -2.967284 42.547614  -2.967348 42.547572  -2.967415 42.547536  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-2.963471 42.540321  -2.963373 42.540151  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-2.963102 42.542643  -2.963103 42.542642  -2.963105 42.542640  -2.963107 42.542639  -2.963108 42.542637  -2.963109 42.542635  -2.963111 42.542634  -2.963111 42.542632  -2.963112 42.542630  -2.963112 42.542628  -2.963113 42.542626  -2.963112 42.542624  -2.963112 42.542622  -2.963112 42.542620  -2.963111 42.542618  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1445,7 +1445,7 @@
             <gml:posList srsDimension="2">-2.963111 42.542618  -2.963110 42.542617  -2.963109 42.542615  -2.963108 42.542613  -2.963106 42.542612  -2.963104 42.542611  -2.963103 42.542609  -2.963101 42.542608  -2.963099 42.542607  -2.963096 42.542606  -2.963094 42.542605  -2.963092 42.542605  -2.963089 42.542604  -2.963087 42.542604  -2.963084 42.542604  -2.963082 42.542604  -2.963079 42.542604  -2.963077 42.542604  -2.963074 42.542604  -2.963072 42.542605  -2.963069 42.542606  -2.963067 42.542606  -2.963065 42.542607  -2.963063 42.542609  -2.963061 42.542610  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1465,7 +1465,7 @@
             <gml:posList srsDimension="2">-2.963061 42.542610  -2.963059 42.542611  -2.963058 42.542613  -2.963056 42.542614  -2.963055 42.542616  -2.963054 42.542618  -2.963053 42.542619  -2.963052 42.542621  -2.963052 42.542623  -2.963052 42.542625  -2.963052 42.542627  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1485,7 +1485,7 @@
             <gml:posList srsDimension="2">-2.963373 42.540151  -2.963261 42.540036  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

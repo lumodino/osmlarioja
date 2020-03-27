@@ -3405,7 +3405,7 @@
             <gml:posList srsDimension="2">-2.116886 42.405023  -2.116716 42.405251  -2.116659 42.405304  -2.116543 42.405376  -2.116375 42.405437  -2.116216 42.405496  -2.116004 42.405557  -2.115961 42.405568  -2.115915 42.405573  -2.115870 42.405572  -2.115825 42.405566  -2.115782 42.405553  -2.115486 42.405445  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3425,7 +3425,7 @@
             <gml:posList srsDimension="2">-2.118885 42.405297  -2.118855 42.405247  -2.118802 42.405135  -2.118668 42.405070  -2.118611 42.404899  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>- [sin nombre]</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
