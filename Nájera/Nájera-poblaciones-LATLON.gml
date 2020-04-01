@@ -1311,6 +1311,27 @@
         <ms:T108_000_MUNICIPIOS_DENO>Nájera</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4167540">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733561 42.421173 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732626 42.422246 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733561 42.422133  -2.733252 42.421173  -2.732626 42.421267  -2.732879 42.422246  -2.733192 42.422202  -2.733561 42.422133  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Nájera</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Nájera</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

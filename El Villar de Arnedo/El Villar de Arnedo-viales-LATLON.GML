@@ -505,7 +505,7 @@
             <gml:posList srsDimension="2">-2.093532 42.320883  -2.093660 42.321066  -2.093671 42.321093  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -525,7 +525,7 @@
             <gml:posList srsDimension="2">-2.094484 42.321894  -2.094552 42.321700  -2.094620 42.321574  -2.094620 42.321573  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -545,27 +545,7 @@
             <gml:posList srsDimension="2">-2.093776 42.321175  -2.093671 42.321093  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000067</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1550034">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.093783 42.320695 </gml:lowerCorner>
-        		<gml:upperCorner>-2.093532 42.320883 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.093783 42.320695  -2.093710 42.320775  -2.093532 42.320883  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -585,27 +565,7 @@
             <gml:posList srsDimension="2">-2.093532 42.320883  -2.093191 42.320557  -2.093398 42.320507  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617000067</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1550082">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.093743 42.321122 </gml:lowerCorner>
-        		<gml:upperCorner>-2.093263 42.321263 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.093743 42.321263  -2.093379 42.321122  -2.093263 42.321158  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -625,7 +585,7 @@
             <gml:posList srsDimension="2">-2.094484 42.321894  -2.094294 42.321709  -2.094078 42.321469  -2.093832 42.321229  -2.093776 42.321175  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -645,7 +605,7 @@
             <gml:posList srsDimension="2">-2.094484 42.321894  -2.094516 42.322262  -2.094485 42.322445  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -665,7 +625,7 @@
             <gml:posList srsDimension="2">-2.094595 42.322798  -2.094745 42.323110  -2.094916 42.323504  -2.095152 42.323818  -2.095509 42.324226  -2.095652 42.324339  -2.095712 42.324380  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -685,7 +645,7 @@
             <gml:posList srsDimension="2">-2.094485 42.322445  -2.094580 42.322767  -2.094595 42.322798  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.16</ms:COD_CATASTRAL_VIAL>
@@ -4350,6 +4310,46 @@
         <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.171.24</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1550034">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.093783 42.320695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.093532 42.320883 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.093783 42.320695  -2.093710 42.320775  -2.093532 42.320883  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 2</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1550082">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.093743 42.321122 </gml:lowerCorner>
+        		<gml:upperCorner>-2.093263 42.321263 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.093743 42.321263  -2.093379 42.321122  -2.093263 42.321158  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Hinojar 3</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar de Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Villar de Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.171.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
