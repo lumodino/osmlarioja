@@ -1332,6 +1332,48 @@
         <ms:T108_000_MUNICIPIOS_DENO>Nájera</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4167677">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729041 42.421286 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727482 42.422549 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729041 42.422172  -2.728388 42.421662  -2.727960 42.421286  -2.727866 42.421286  -2.727772 42.421353  -2.727668 42.421457  -2.727482 42.421781  -2.728311 42.422549  -2.729041 42.422172  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Nájera</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Nájera</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4167678">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729829 42.422139 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727748 42.422985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729829 42.422690  -2.729231 42.422139  -2.727748 42.422914  -2.729562 42.422985  -2.729644 42.422868  -2.729726 42.422814  -2.729829 42.422690  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Nájera</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Nájera</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 
