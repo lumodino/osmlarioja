@@ -1693,26 +1693,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1493367">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.992449 41.960871 </gml:lowerCorner>
-        		<gml:upperCorner>-1.992127 41.961367 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.992449 41.960885  -1.992358 41.960871  -1.992325 41.960877  -1.992300 41.960903  -1.992142 41.961128  -1.992127 41.961150  -1.992138 41.961178  -1.992213 41.961298  -1.992222 41.961332  -1.992209 41.961367  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Aguilar del Río Alhama</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.003.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600300060</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1493368">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2510,6 +2490,26 @@
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.003.32</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600300028</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.992449 41.960871 </gml:lowerCorner>
+        		<gml:upperCorner>-1.992127 41.961367 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.992449 41.960885  -1.992358 41.960871  -1.992325 41.960877  -1.992300 41.960903  -1.992142 41.961128  -1.992127 41.961150  -1.992138 41.961178  -1.992213 41.961298  -1.992222 41.961332  -1.992209 41.961367  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calleja Pajares</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Aguilar del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
