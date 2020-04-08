@@ -896,13 +896,13 @@
       <ms:viales gml:id="viales.1494530">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.122369 42.404876 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.122561 42.404876 </gml:lowerCorner>
         		<gml:upperCorner>-2.121850 42.405161 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.121850 42.404876  -2.121932 42.405106  -2.122022 42.405144  -2.122162 42.405161  -2.122295 42.405147  -2.122369 42.405092  -2.122355 42.405027  -2.122281 42.404916  </gml:posList>
+            <gml:posList srsDimension="2">-2.121850 42.404876  -2.121932 42.405106  -2.122022 42.405144  -2.122162 42.405161  -2.122295 42.405147  -2.122401 42.405092  -2.122498 42.405021  -2.122561 42.404942  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Barranco</ms:NOMBRE_COMPLETO_VIAL>
@@ -916,13 +916,13 @@
       <ms:viales gml:id="viales.1494533">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.122281 42.404876 </gml:lowerCorner>
-        		<gml:upperCorner>-2.121850 42.404916 </gml:upperCorner>
+        		<gml:lowerCorner>-2.122561 42.404876 </gml:lowerCorner>
+        		<gml:upperCorner>-2.121850 42.404942 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.121850 42.404876  -2.121943 42.404893  -2.122281 42.404916  </gml:posList>
+            <gml:posList srsDimension="2">-2.121850 42.404876  -2.121943 42.404893  -2.122561 42.404942  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Barranco</ms:NOMBRE_COMPLETO_VIAL>
@@ -956,13 +956,13 @@
       <ms:viales gml:id="viales.1494537">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.122821 42.404916 </gml:lowerCorner>
-        		<gml:upperCorner>-2.122281 42.404951 </gml:upperCorner>
+        		<gml:lowerCorner>-2.122821 42.404942 </gml:lowerCorner>
+        		<gml:upperCorner>-2.122561 42.404951 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.122281 42.404916  -2.122397 42.404924  -2.122746 42.404948  -2.122821 42.404951  </gml:posList>
+            <gml:posList srsDimension="2">-2.122561 42.404942  -2.122746 42.404948  -2.122821 42.404951  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Barranco</ms:NOMBRE_COMPLETO_VIAL>
