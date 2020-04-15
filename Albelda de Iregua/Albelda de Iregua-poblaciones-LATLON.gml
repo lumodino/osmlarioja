@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.494685 42.353238 </gml:lowerCorner>
-      		<gml:upperCorner>-2.469095 42.364044 </gml:upperCorner>
+      		<gml:upperCorner>-2.469095 42.381082 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -986,6 +986,27 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Albelda de Iregua</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Albelda de Iregua</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4173300">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.483547 42.379361 </gml:lowerCorner>
+        		<gml:upperCorner>-2.482426 42.381082 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.482477 42.379361  -2.482466 42.379679  -2.482474 42.380251  -2.482468 42.380508  -2.482426 42.380876  -2.483547 42.381082  -2.483363 42.380630  -2.483315 42.380201  -2.483185 42.379768  -2.483325 42.379463  -2.482477 42.379361  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Albelda de Iregua (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Albelda de Iregua</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

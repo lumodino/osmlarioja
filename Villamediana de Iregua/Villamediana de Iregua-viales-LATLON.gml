@@ -2528,7 +2528,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cameros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800251</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2548,7 +2548,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cameros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800251</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2568,7 +2568,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cameros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800251</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4768,7 +4768,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerro San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800140</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4788,7 +4788,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerro San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800140</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4808,7 +4808,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerro San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800140</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4828,7 +4828,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cerro San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.68</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800140</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
