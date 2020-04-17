@@ -1433,6 +1433,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1551606">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.418373 42.424993 </gml:lowerCorner>
+        		<gml:upperCorner>-2.418082 42.425332 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.418373 42.425332  -2.418340 42.425244  -2.418082 42.424993  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Portillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800457</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1551614">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2503,26 +2523,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.417684 42.424813  -2.417683 42.424813  -2.417384 42.424695  -2.417104 42.424783  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Cameros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800251</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551606">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.418373 42.424993 </gml:lowerCorner>
-        		<gml:upperCorner>-2.418082 42.425332 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.418373 42.425332  -2.418340 42.425244  -2.418082 42.424993  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cameros</ms:NOMBRE_COMPLETO_VIAL>
@@ -4368,7 +4368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Río Iregua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800008</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4388,7 +4388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Río Iregua</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.169.120</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800008</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5810,126 +5810,6 @@
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.169.62</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800717</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551293">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.417754 42.429252 </gml:lowerCorner>
-        		<gml:upperCorner>-2.417753 42.429343 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417753 42.429343  -2.417753 42.429334  -2.417753 42.429330  -2.417753 42.429328  -2.417753 42.429319  -2.417754 42.429272  -2.417754 42.429262  -2.417754 42.429252  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800359</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551353">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.417753 42.429343 </gml:lowerCorner>
-        		<gml:upperCorner>-2.417726 42.430092 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417726 42.430092  -2.417729 42.430028  -2.417729 42.430021  -2.417729 42.430015  -2.417729 42.430000  -2.417730 42.429994  -2.417730 42.429991  -2.417730 42.429984  -2.417731 42.429950  -2.417733 42.429910  -2.417734 42.429863  -2.417748 42.429488  -2.417751 42.429409  -2.417751 42.429395  -2.417751 42.429383  -2.417753 42.429343  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800359</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551354">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.417726 42.430092 </gml:lowerCorner>
-        		<gml:upperCorner>-2.417712 42.430481 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417712 42.430481  -2.417712 42.430481  -2.417714 42.430432  -2.417715 42.430413  -2.417716 42.430364  -2.417720 42.430269  -2.417723 42.430186  -2.417723 42.430179  -2.417723 42.430171  -2.417724 42.430162  -2.417724 42.430155  -2.417724 42.430148  -2.417726 42.430093  -2.417726 42.430092  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800359</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551444">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.417712 42.430481 </gml:lowerCorner>
-        		<gml:upperCorner>-2.417702 42.430746 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417702 42.430746  -2.417704 42.430697  -2.417705 42.430681  -2.417706 42.430644  -2.417707 42.430640  -2.417708 42.430597  -2.417710 42.430549  -2.417710 42.430532  -2.417712 42.430481  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800359</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551539">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.417755 42.430746 </gml:lowerCorner>
-        		<gml:upperCorner>-2.417700 42.431075 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417755 42.431075  -2.417736 42.431029  -2.417703 42.430842  -2.417700 42.430792  -2.417702 42.430746  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800359</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551548">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.417835 42.428644 </gml:lowerCorner>
-        		<gml:upperCorner>-2.417754 42.429252 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417754 42.429252  -2.417754 42.429219  -2.417754 42.429193  -2.417755 42.429191  -2.417756 42.429156  -2.417760 42.429054  -2.417760 42.429051  -2.417764 42.428991  -2.417767 42.428944  -2.417768 42.428926  -2.417769 42.428918  -2.417772 42.428888  -2.417774 42.428876  -2.417775 42.428866  -2.417781 42.428833  -2.417790 42.428790  -2.417792 42.428779  -2.417799 42.428755  -2.417809 42.428716  -2.417811 42.428711  -2.417813 42.428704  -2.417816 42.428695  -2.417817 42.428694  -2.417822 42.428678  -2.417823 42.428675  -2.417829 42.428660  -2.417835 42.428644  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800359</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -7442,7 +7322,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.419252 42.425526  -2.419005 42.425563  -2.418740 42.425612  -2.418552 42.425621  </gml:posList>
+            <gml:posList srsDimension="2">-2.419252 42.425526  -2.419128 42.425538  -2.419005 42.425563  -2.418870 42.425604  -2.418740 42.425612  -2.418552 42.425621  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Oriente</ms:NOMBRE_COMPLETO_VIAL>
@@ -7703,26 +7583,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.419315 42.427794  -2.418665 42.427421  -2.418524 42.427363  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Hontana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.169.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616800264</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1551486">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.419774 42.427632 </gml:lowerCorner>
-        		<gml:upperCorner>-2.419315 42.427794 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.419315 42.427794  -2.419538 42.427684  -2.419774 42.427632  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Hontana</ms:NOMBRE_COMPLETO_VIAL>
@@ -8313,6 +8173,106 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1551293">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.417754 42.429252 </gml:lowerCorner>
+        		<gml:upperCorner>-2.417753 42.429343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.417753 42.429343  -2.417753 42.429334  -2.417753 42.429330  -2.417753 42.429328  -2.417753 42.429319  -2.417754 42.429272  -2.417754 42.429262  -2.417754 42.429252  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1551353">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.417753 42.429343 </gml:lowerCorner>
+        		<gml:upperCorner>-2.417726 42.430092 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.417726 42.430092  -2.417729 42.430028  -2.417729 42.430021  -2.417729 42.430015  -2.417729 42.430000  -2.417730 42.429994  -2.417730 42.429991  -2.417730 42.429984  -2.417731 42.429950  -2.417733 42.429910  -2.417734 42.429863  -2.417748 42.429488  -2.417751 42.429409  -2.417751 42.429395  -2.417751 42.429383  -2.417753 42.429343  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1551354">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.417726 42.430092 </gml:lowerCorner>
+        		<gml:upperCorner>-2.417712 42.430481 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.417712 42.430481  -2.417712 42.430481  -2.417714 42.430432  -2.417715 42.430413  -2.417716 42.430364  -2.417720 42.430269  -2.417723 42.430186  -2.417723 42.430179  -2.417723 42.430171  -2.417724 42.430162  -2.417724 42.430155  -2.417724 42.430148  -2.417726 42.430093  -2.417726 42.430092  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1551444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.417712 42.430481 </gml:lowerCorner>
+        		<gml:upperCorner>-2.417702 42.430746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.417702 42.430746  -2.417704 42.430697  -2.417705 42.430681  -2.417706 42.430644  -2.417707 42.430640  -2.417708 42.430597  -2.417710 42.430549  -2.417710 42.430532  -2.417712 42.430481  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1551539">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.417755 42.430746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.417700 42.431075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.417755 42.431075  -2.417736 42.431029  -2.417703 42.430842  -2.417700 42.430792  -2.417702 42.430746  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1551543">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -8363,6 +8323,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.418524 42.427363  -2.418545 42.427336  -2.418560 42.427318  -2.418563 42.427314  -2.418591 42.427278  -2.418603 42.427264  -2.418607 42.427258  -2.418678 42.427169  -2.418681 42.427165  -2.418704 42.427136  -2.418719 42.427118  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1551548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.417835 42.428644 </gml:lowerCorner>
+        		<gml:upperCorner>-2.417754 42.429252 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.417754 42.429252  -2.417754 42.429219  -2.417754 42.429193  -2.417755 42.429191  -2.417756 42.429156  -2.417760 42.429054  -2.417760 42.429051  -2.417764 42.428991  -2.417767 42.428944  -2.417768 42.428926  -2.417769 42.428918  -2.417772 42.428888  -2.417774 42.428876  -2.417775 42.428866  -2.417781 42.428833  -2.417790 42.428790  -2.417792 42.428779  -2.417799 42.428755  -2.417809 42.428716  -2.417811 42.428711  -2.417813 42.428704  -2.417816 42.428695  -2.417817 42.428694  -2.417822 42.428678  -2.417823 42.428675  -2.417829 42.428660  -2.417835 42.428644  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Anastasio Mateo</ms:NOMBRE_COMPLETO_VIAL>
@@ -8770,6 +8750,26 @@
         <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.169.121</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616800010</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1551486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.419774 42.427632 </gml:lowerCorner>
+        		<gml:upperCorner>-2.419315 42.427794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.419315 42.427794  -2.419538 42.427684  -2.419774 42.427632  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Río Tirón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villamediana de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villamediana de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.169.82</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616800035</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
