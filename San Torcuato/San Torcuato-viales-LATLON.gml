@@ -13,146 +13,6 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1546301">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.842943 42.484643 </gml:lowerCorner>
-        		<gml:upperCorner>-2.840368 42.484903 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.842943 42.484903  -2.842881 42.484891  -2.842144 42.484823  -2.840848 42.484670  -2.840368 42.484643  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546302">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.840646 42.484643 </gml:lowerCorner>
-        		<gml:upperCorner>-2.840368 42.485785 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.840571 42.485785  -2.840646 42.485447  -2.840628 42.485341  -2.840548 42.485117  -2.840368 42.484643  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546307">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.843448 42.484784 </gml:lowerCorner>
-        		<gml:upperCorner>-2.842943 42.484903 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.842943 42.484903  -2.843047 42.484856  -2.843448 42.484784  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546319">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.843178 42.484903 </gml:lowerCorner>
-        		<gml:upperCorner>-2.842943 42.484950 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.843178 42.484950  -2.842943 42.484903  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546321">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.840368 42.484437 </gml:lowerCorner>
-        		<gml:upperCorner>-2.838799 42.484643 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.840368 42.484643  -2.838799 42.484437  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546349">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.842943 42.484903 </gml:lowerCorner>
-        		<gml:upperCorner>-2.842884 42.485182 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.842884 42.485182  -2.842943 42.484903  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546353">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.843448 42.484784 </gml:lowerCorner>
-        		<gml:upperCorner>-2.843227 42.484959 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.843448 42.484784  -2.843332 42.484867  -2.843227 42.484959  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1546300">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -310,6 +170,146 @@
         <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.139.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613900013</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546301">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842943 42.484643 </gml:lowerCorner>
+        		<gml:upperCorner>-2.840368 42.484903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.842943 42.484903  -2.842881 42.484891  -2.842144 42.484823  -2.840848 42.484670  -2.840368 42.484643  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546302">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.840646 42.484643 </gml:lowerCorner>
+        		<gml:upperCorner>-2.840368 42.485785 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.840571 42.485785  -2.840646 42.485447  -2.840628 42.485341  -2.840548 42.485117  -2.840368 42.484643  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546307">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843448 42.484784 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842943 42.484903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.842943 42.484903  -2.843047 42.484856  -2.843448 42.484784  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546319">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843178 42.484903 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842943 42.484950 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.843178 42.484950  -2.842943 42.484903  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546321">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.840368 42.484437 </gml:lowerCorner>
+        		<gml:upperCorner>-2.838799 42.484643 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.840368 42.484643  -2.838799 42.484437  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546349">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842943 42.484903 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842884 42.485182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.842884 42.485182  -2.842943 42.484903  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546353">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843448 42.484784 </gml:lowerCorner>
+        		<gml:upperCorner>-2.843227 42.484959 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.843448 42.484784  -2.843332 42.484867  -2.843227 42.484959  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casas Blancas (de San Torcuato)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Torcuato</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.139.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613900014</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

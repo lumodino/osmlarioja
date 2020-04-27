@@ -13,6 +13,26 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4009277">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.864638 42.371852 </gml:lowerCorner>
+        		<gml:upperCorner>-2.863076 42.372311 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.863076 42.372311  -2.863114 42.372292  -2.863195 42.372259  -2.863234 42.372246  -2.863456 42.372164  -2.863579 42.372111  -2.863845 42.372026  -2.864638 42.371852  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Vadillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.172.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617100033</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1550216">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2090,26 +2110,6 @@
         <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.172.16</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2617100032</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4009277">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.864638 42.371852 </gml:lowerCorner>
-        		<gml:upperCorner>-2.863076 42.372311 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.863076 42.372311  -2.863114 42.372292  -2.863195 42.372259  -2.863234 42.372246  -2.863456 42.372164  -2.863579 42.372111  -2.863845 42.372026  -2.864638 42.371852  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Vadillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.172.18</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617100033</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

@@ -13,6 +13,26 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4136464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.640258 42.177201 </gml:lowerCorner>
+        		<gml:upperCorner>-2.639504 42.178020 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.640258 42.178020  -2.640212 42.177993  -2.640192 42.177981  -2.640132 42.177933  -2.640122 42.177924  -2.640099 42.177904  -2.640089 42.177895  -2.640088 42.177895  -2.640086 42.177892  -2.640055 42.177865  -2.639988 42.177806  -2.639953 42.177775  -2.639948 42.177771  -2.639862 42.177695  -2.639820 42.177658  -2.639790 42.177629  -2.639766 42.177606  -2.639740 42.177576  -2.639695 42.177526  -2.639689 42.177517  -2.639682 42.177509  -2.639655 42.177463  -2.639640 42.177437  -2.639601 42.177370  -2.639595 42.177360  -2.639584 42.177341  -2.639564 42.177307  -2.639538 42.177263  -2.639511 42.177213  -2.639506 42.177203  -2.639504 42.177201  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Molino</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradillo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradillo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611800013</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1539701">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -950,26 +970,6 @@
         <ms:NOMBRE_MUNICIPIO>Pradillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.118.2</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611800014</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4136464">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.640258 42.177201 </gml:lowerCorner>
-        		<gml:upperCorner>-2.639504 42.178020 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.640258 42.178020  -2.640212 42.177993  -2.640192 42.177981  -2.640132 42.177933  -2.640122 42.177924  -2.640099 42.177904  -2.640089 42.177895  -2.640088 42.177895  -2.640086 42.177892  -2.640055 42.177865  -2.639988 42.177806  -2.639953 42.177775  -2.639948 42.177771  -2.639862 42.177695  -2.639820 42.177658  -2.639790 42.177629  -2.639766 42.177606  -2.639740 42.177576  -2.639695 42.177526  -2.639689 42.177517  -2.639682 42.177509  -2.639655 42.177463  -2.639640 42.177437  -2.639601 42.177370  -2.639595 42.177360  -2.639584 42.177341  -2.639564 42.177307  -2.639538 42.177263  -2.639511 42.177213  -2.639506 42.177203  -2.639504 42.177201  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Molino</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Pradillo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Pradillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611800013</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

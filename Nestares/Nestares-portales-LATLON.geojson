@@ -2,6 +2,9 @@
 "type": "FeatureCollection",
 "name": "portales",
 "features": [
+{ "type": "Feature", "properties": { "gml_id": "portales.294731", "NOMBRE_COMPLETO_VIAL": "Calle Huesera", "NUMERO_POLICIA": "1", "EXTENSION": "A", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.620138, 42.27022 ] } },
+{ "type": "Feature", "properties": { "gml_id": "portales.294730", "NOMBRE_COMPLETO_VIAL": "Calle Huesera", "NUMERO_POLICIA": "1", "EXTENSION": "B", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.620014, 42.270372 ] } },
+{ "type": "Feature", "properties": { "gml_id": "portales.294732", "NOMBRE_COMPLETO_VIAL": "Calle Huesera", "NUMERO_POLICIA": "1", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.620084, 42.270287 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.301265", "NOMBRE_COMPLETO_VIAL": "Calle Carretera", "NUMERO_POLICIA": "1", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619659, 42.269574 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.301266", "NOMBRE_COMPLETO_VIAL": "Calle Carretera", "NUMERO_POLICIA": "10", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619334, 42.269418 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.301273", "NOMBRE_COMPLETO_VIAL": "Calle Carretera", "NUMERO_POLICIA": "12", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619248, 42.2694 ] } },
@@ -128,10 +131,7 @@
 { "type": "Feature", "properties": { "gml_id": "portales.294737", "NOMBRE_COMPLETO_VIAL": "Calle Iglesia", "NUMERO_POLICIA": "1", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619665, 42.270161 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.294736", "NOMBRE_COMPLETO_VIAL": "Calle Iglesia", "NUMERO_POLICIA": "2", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619957, 42.27012 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.294735", "NOMBRE_COMPLETO_VIAL": "Calle Iglesia", "NUMERO_POLICIA": "3", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619737, 42.270101 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.294734", "NOMBRE_COMPLETO_VIAL": "Calle Iglesia", "NUMERO_POLICIA": "5", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619816, 42.270082 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.294731", "NOMBRE_COMPLETO_VIAL": "Calle Huesera", "NUMERO_POLICIA": "1", "EXTENSION": "A", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.620138, 42.27022 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.294730", "NOMBRE_COMPLETO_VIAL": "Calle Huesera", "NUMERO_POLICIA": "1", "EXTENSION": "B", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.620014, 42.270372 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.294732", "NOMBRE_COMPLETO_VIAL": "Calle Huesera", "NUMERO_POLICIA": "1", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.620084, 42.270287 ] } }
+{ "type": "Feature", "properties": { "gml_id": "portales.294734", "NOMBRE_COMPLETO_VIAL": "Calle Iglesia", "NUMERO_POLICIA": "5", "CODIGO_POSTAL": "26110", "NOMBRE_POBLAMIENTO": "Nestares", "NOMBRE_MUNICIPIO": "Nestares" }, "geometry": { "type": "Point", "coordinates": [ -2.619816, 42.270082 ] } }
 ]
 }
 

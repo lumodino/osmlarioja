@@ -13,6 +13,86 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1820122">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.803573 42.424761 </gml:lowerCorner>
+        		<gml:upperCorner>-2.802666 42.425739 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.803573 42.425739  -2.803560 42.425726  -2.803555 42.425720  -2.803552 42.425717  -2.803545 42.425709  -2.803488 42.425648  -2.803471 42.425630  -2.803459 42.425617  -2.803444 42.425601  -2.803433 42.425589  -2.803422 42.425577  -2.803408 42.425562  -2.803397 42.425551  -2.803349 42.425500  -2.803279 42.425426  -2.803242 42.425387  -2.803232 42.425377  -2.803198 42.425340  -2.803184 42.425326  -2.803172 42.425313  -2.803162 42.425302  -2.803149 42.425289  -2.803134 42.425273  -2.803114 42.425252  -2.803084 42.425220  -2.803036 42.425169  -2.803021 42.425153  -2.803001 42.425132  -2.802983 42.425113  -2.802965 42.425095  -2.802903 42.425029  -2.802893 42.425018  -2.802869 42.424993  -2.802846 42.424969  -2.802843 42.424966  -2.802842 42.424964  -2.802825 42.424946  -2.802800 42.424920  -2.802793 42.424912  -2.802789 42.424908  -2.802765 42.424883  -2.802762 42.424879  -2.802747 42.424864  -2.802740 42.424856  -2.802733 42.424849  -2.802730 42.424846  -2.802713 42.424827  -2.802702 42.424814  -2.802666 42.424761  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Virgen de Valvanera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.022.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602200042</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820123">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.802666 42.424604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.802556 42.424761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.802666 42.424761  -2.802640 42.424723  -2.802629 42.424707  -2.802595 42.424662  -2.802564 42.424616  -2.802556 42.424604  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Virgen de Valvanera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.022.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602200042</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1820124">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.803096 42.424195 </gml:lowerCorner>
+        		<gml:upperCorner>-2.802666 42.424761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.802666 42.424761  -2.802733 42.424710  -2.802781 42.424613  -2.802916 42.424376  -2.803008 42.424195  -2.803096 42.424216  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Río Tuerto</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.022.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602200065</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4018486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.807203 42.419279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.803363 42.423174 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.807203 42.419279  -2.807159 42.419320  -2.806380 42.420196  -2.805782 42.420803  -2.804955 42.421611  -2.804022 42.422532  -2.803511 42.423033  -2.803363 42.423174  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Alesanco</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602200058</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514533">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1750,86 +1830,6 @@
         <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820122">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.803573 42.424761 </gml:lowerCorner>
-        		<gml:upperCorner>-2.802666 42.425739 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.803573 42.425739  -2.803560 42.425726  -2.803555 42.425720  -2.803552 42.425717  -2.803545 42.425709  -2.803488 42.425648  -2.803471 42.425630  -2.803459 42.425617  -2.803444 42.425601  -2.803433 42.425589  -2.803422 42.425577  -2.803408 42.425562  -2.803397 42.425551  -2.803349 42.425500  -2.803279 42.425426  -2.803242 42.425387  -2.803232 42.425377  -2.803198 42.425340  -2.803184 42.425326  -2.803172 42.425313  -2.803162 42.425302  -2.803149 42.425289  -2.803134 42.425273  -2.803114 42.425252  -2.803084 42.425220  -2.803036 42.425169  -2.803021 42.425153  -2.803001 42.425132  -2.802983 42.425113  -2.802965 42.425095  -2.802903 42.425029  -2.802893 42.425018  -2.802869 42.424993  -2.802846 42.424969  -2.802843 42.424966  -2.802842 42.424964  -2.802825 42.424946  -2.802800 42.424920  -2.802793 42.424912  -2.802789 42.424908  -2.802765 42.424883  -2.802762 42.424879  -2.802747 42.424864  -2.802740 42.424856  -2.802733 42.424849  -2.802730 42.424846  -2.802713 42.424827  -2.802702 42.424814  -2.802666 42.424761  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida Virgen de Valvanera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.022.6</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602200042</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820123">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.802666 42.424604 </gml:lowerCorner>
-        		<gml:upperCorner>-2.802556 42.424761 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.802666 42.424761  -2.802640 42.424723  -2.802629 42.424707  -2.802595 42.424662  -2.802564 42.424616  -2.802556 42.424604  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida Virgen de Valvanera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.022.6</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602200042</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1820124">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.803096 42.424195 </gml:lowerCorner>
-        		<gml:upperCorner>-2.802666 42.424761 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.802666 42.424761  -2.802733 42.424710  -2.802781 42.424613  -2.802916 42.424376  -2.803008 42.424195  -2.803096 42.424216  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Río Tuerto</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.022.23</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602200065</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4018486">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.807203 42.419279 </gml:lowerCorner>
-        		<gml:upperCorner>-2.803363 42.423174 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.807203 42.419279  -2.807159 42.419320  -2.806380 42.420196  -2.805782 42.420803  -2.804955 42.421611  -2.804022 42.422532  -2.803511 42.423033  -2.803363 42.423174  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Alesanco</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Azofra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Azofra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602200058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

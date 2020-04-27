@@ -13,323 +13,523 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528494">
+      <ms:viales gml:id="viales.1528496">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569790 42.484650 </gml:lowerCorner>
-        		<gml:upperCorner>-2.568909 42.487425 </gml:upperCorner>
+        		<gml:lowerCorner>-2.584546 42.462343 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583190 42.462553 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.568909 42.484650  -2.569028 42.485637  -2.569107 42.485918  -2.569454 42.486739  -2.569790 42.487425  </gml:posList>
+            <gml:posList srsDimension="2">-2.583190 42.462343  -2.583450 42.462354  -2.584152 42.462463  -2.584546 42.462553  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528512">
+      <ms:viales gml:id="viales.1528497">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569554 42.487613 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569073 42.487750 </gml:upperCorner>
+        		<gml:lowerCorner>-2.585495 42.462343 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583173 42.463959 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569376 42.487663  -2.569073 42.487750  </gml:posList>
+            <gml:posList srsDimension="2">-2.583190 42.462343  -2.583173 42.462484  -2.583189 42.462542  -2.583743 42.463426  -2.583905 42.463628  -2.584106 42.463798  -2.584205 42.463859  -2.584324 42.463914  -2.584468 42.463952  -2.584611 42.463959  -2.584766 42.463933  -2.584853 42.463900  -2.585495 42.463535  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528513">
+      <ms:viales gml:id="viales.1528550">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570259 42.487678 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569900 42.487783 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583406 42.461491 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583190 42.462343 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569900 42.487678  -2.570259 42.487783  </gml:posList>
+            <gml:posList srsDimension="2">-2.583406 42.461491  -2.583333 42.461590  -2.583190 42.462343  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528514">
+      <ms:viales gml:id="viales.1528555">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570010 42.487613 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569554 42.487986 </gml:upperCorner>
+        		<gml:lowerCorner>-2.587179 42.462776 </gml:lowerCorner>
+        		<gml:upperCorner>-2.585495 42.463535 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569658 42.487634  -2.569750 42.487696  -2.569854 42.487790  -2.570010 42.487986  </gml:posList>
+            <gml:posList srsDimension="2">-2.585495 42.463535  -2.586332 42.463124  -2.587179 42.462776  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528515">
+      <ms:viales gml:id="viales.1528571">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570259 42.487425 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569790 42.487783 </gml:upperCorner>
+        		<gml:lowerCorner>-2.588008 42.461464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.585381 42.461600 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569790 42.487425  -2.569889 42.487541  -2.569978 42.487616  -2.570259 42.487783  </gml:posList>
+            <gml:posList srsDimension="2">-2.588008 42.461600  -2.587316 42.461582  -2.586342 42.461505  -2.585587 42.461464  -2.585381 42.461466  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528529">
+      <ms:viales gml:id="viales.1528572">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570010 42.487678 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569900 42.487986 </gml:upperCorner>
+        		<gml:lowerCorner>-2.588318 42.461600 </gml:lowerCorner>
+        		<gml:upperCorner>-2.588008 42.461626 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569900 42.487678  -2.570010 42.487986  </gml:posList>
+            <gml:posList srsDimension="2">-2.588008 42.461600  -2.588318 42.461626  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528530">
+      <ms:viales gml:id="viales.1528573">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569900 42.487613 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569554 42.487678 </gml:upperCorner>
+        		<gml:lowerCorner>-2.588244 42.461386 </gml:lowerCorner>
+        		<gml:upperCorner>-2.588008 42.461600 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569627 42.487617  -2.569900 42.487678  </gml:posList>
+            <gml:posList srsDimension="2">-2.588008 42.461600  -2.588056 42.461595  -2.588087 42.461573  -2.588155 42.461510  -2.588244 42.461386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528531">
+      <ms:viales gml:id="viales.1528598">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569900 42.487425 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569790 42.487678 </gml:upperCorner>
+        		<gml:lowerCorner>-2.585381 42.461466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.585055 42.462851 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569790 42.487425  -2.569896 42.487667  -2.569900 42.487678  </gml:posList>
+            <gml:posList srsDimension="2">-2.585055 42.462851  -2.585155 42.462637  -2.585381 42.461466  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528577">
+      <ms:viales gml:id="viales.1528599">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569073 42.487750 </gml:lowerCorner>
-        		<gml:upperCorner>-2.568316 42.487981 </gml:upperCorner>
+        		<gml:lowerCorner>-2.585495 42.462851 </gml:lowerCorner>
+        		<gml:upperCorner>-2.585055 42.463535 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569073 42.487750  -2.568988 42.487773  -2.568734 42.487853  -2.568480 42.487925  -2.568316 42.487981  </gml:posList>
+            <gml:posList srsDimension="2">-2.585055 42.462851  -2.585495 42.463535  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528612">
+      <ms:viales gml:id="viales.1528604">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569073 42.487750 </gml:lowerCorner>
-        		<gml:upperCorner>-2.568316 42.488112 </gml:upperCorner>
+        		<gml:lowerCorner>-2.584794 42.461429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584546 42.462553 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.568316 42.487981  -2.568328 42.488006  -2.568348 42.488029  -2.568373 42.488048  -2.568404 42.488062  -2.568438 42.488071  -2.568446 42.488072  -2.568540 42.488094  -2.568578 42.488101  -2.568585 42.488103  -2.568599 42.488106  -2.568660 42.488112  -2.568722 42.488112  -2.568744 42.488111  -2.568784 42.488107  -2.568816 42.488102  -2.568828 42.488083  -2.568832 42.488063  -2.568829 42.488042  -2.568826 42.488035  -2.568821 42.488007  -2.568824 42.487978  -2.568835 42.487951  -2.568853 42.487926  -2.568877 42.487905  -2.568886 42.487899  -2.568972 42.487834  -2.569073 42.487750  </gml:posList>
+            <gml:posList srsDimension="2">-2.584546 42.462553  -2.584602 42.462398  -2.584686 42.461992  -2.584788 42.461455  -2.584794 42.461429  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528617">
+      <ms:viales gml:id="viales.1528605">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.571780 42.487515 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570563 42.487794 </gml:upperCorner>
+        		<gml:lowerCorner>-2.585055 42.462553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584546 42.462851 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.571780 42.487515  -2.571180 42.487678  -2.570563 42.487794  </gml:posList>
+            <gml:posList srsDimension="2">-2.584546 42.462553  -2.585055 42.462851  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528643">
+      <ms:viales gml:id="viales.1528610">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570563 42.487783 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570259 42.487798 </gml:upperCorner>
+        		<gml:lowerCorner>-2.588450 42.461468 </gml:lowerCorner>
+        		<gml:upperCorner>-2.588318 42.461626 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570563 42.487794  -2.570561 42.487794  -2.570539 42.487796  -2.570523 42.487798  -2.570518 42.487797  -2.570510 42.487797  -2.570494 42.487797  -2.570490 42.487797  -2.570482 42.487797  -2.570467 42.487796  -2.570417 42.487793  -2.570335 42.487789  -2.570320 42.487788  -2.570317 42.487788  -2.570315 42.487788  -2.570296 42.487786  -2.570277 42.487785  -2.570264 42.487784  -2.570262 42.487783  -2.570259 42.487783  </gml:posList>
+            <gml:posList srsDimension="2">-2.588318 42.461626  -2.588407 42.461570  -2.588450 42.461468  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528644">
+      <ms:viales gml:id="viales.1528611">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570582 42.487794 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570563 42.487880 </gml:upperCorner>
+        		<gml:lowerCorner>-2.588817 42.461618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.588318 42.461628 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570563 42.487794  -2.570582 42.487880  </gml:posList>
+            <gml:posList srsDimension="2">-2.588318 42.461626  -2.588666 42.461618  -2.588813 42.461627  -2.588817 42.461628  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528754">
+      <ms:viales gml:id="viales.1528623">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570259 42.487783 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570010 42.487986 </gml:upperCorner>
+        		<gml:lowerCorner>-2.584794 42.461429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583406 42.461491 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570010 42.487986  -2.570048 42.487909  -2.570105 42.487859  -2.570259 42.487783  </gml:posList>
+            <gml:posList srsDimension="2">-2.584794 42.461429  -2.584277 42.461431  -2.583863 42.461465  -2.583520 42.461461  -2.583406 42.461491  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528755">
+      <ms:viales gml:id="viales.1528629">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.569790 42.487425 </gml:lowerCorner>
-        		<gml:upperCorner>-2.569554 42.487613 </gml:upperCorner>
+        		<gml:lowerCorner>-2.585381 42.461429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584794 42.461466 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569669 42.487585  -2.569748 42.487545  -2.569787 42.487480  -2.569789 42.487442  -2.569790 42.487425  </gml:posList>
+            <gml:posList srsDimension="2">-2.585381 42.461466  -2.584794 42.461429  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1528756">
+      <ms:viales gml:id="viales.1528532">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570021 42.487986 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570010 42.488090 </gml:upperCorner>
+        		<gml:lowerCorner>-2.562102 42.470851 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561415 42.471035 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570010 42.487986  -2.570021 42.488090  </gml:posList>
+            <gml:posList srsDimension="2">-2.562102 42.470851  -2.561684 42.470967  -2.561415 42.471035  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Cruces</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.064.100</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400150</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.559513 42.468478 </gml:lowerCorner>
+        		<gml:upperCorner>-2.559237 42.469172 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.559513 42.468478  -2.559453 42.468519  -2.559412 42.468582  -2.559371 42.468710  -2.559307 42.468948  -2.559237 42.469172  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Marqueses de Terán</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400152</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528697">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.562951 42.466555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.562817 42.467161 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.562951 42.467161  -2.562817 42.466555  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Trinquete</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400147</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075701">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.566809 42.465724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.566756 42.465957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.566809 42.465724  -2.566756 42.465957  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400149</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075705">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.566848 42.465558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.566809 42.465724 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.566848 42.465558  -2.566809 42.465724  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400149</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075706">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.559631 42.461201 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557547 42.465362 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.559631 42.465362  -2.559550 42.465296  -2.559434 42.465183  -2.559286 42.465054  -2.559098 42.464876  -2.558998 42.464773  -2.558894 42.464644  -2.558750 42.464463  -2.558685 42.464374  -2.558666 42.464266  -2.558626 42.464166  -2.558586 42.464079  -2.558489 42.463910  -2.558339 42.463708  -2.558251 42.463577  -2.558167 42.463453  -2.558104 42.463387  -2.558057 42.463303  -2.558027 42.463158  -2.558009 42.463039  -2.557975 42.462889  -2.557910 42.462676  -2.557845 42.462484  -2.557759 42.462161  -2.557698 42.461894  -2.557676 42.461784  -2.557621 42.461583  -2.557562 42.461402  -2.557547 42.461304  -2.557586 42.461225  -2.557640 42.461201  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Linares</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.86</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400119</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075689">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.557917 42.467823 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557868 42.468225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.557899 42.468225  -2.557881 42.468159  -2.557868 42.468054  -2.557901 42.467914  -2.557917 42.467823  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400090</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075690">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.557917 42.467711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557917 42.467823 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.557917 42.467823  -2.557917 42.467711  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400090</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075691">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.558405 42.467823 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557917 42.467907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.557917 42.467823  -2.558007 42.467833  -2.558108 42.467856  -2.558133 42.467862  -2.558234 42.467883  -2.558405 42.467907  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400090</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075692">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.558899 42.467216 </gml:lowerCorner>
+        		<gml:upperCorner>-2.558405 42.467907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.558887 42.467216  -2.558899 42.467405  -2.558743 42.467445  -2.558688 42.467485  -2.558507 42.467718  -2.558423 42.467873  -2.558405 42.467907  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400121</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4075693">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.558405 42.467907 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557899 42.468225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.558405 42.467907  -2.558344 42.468021  -2.558229 42.468147  -2.558048 42.468208  -2.557947 42.468223  -2.557899 42.468225  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400121</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -910,6 +1110,326 @@
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.064.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2606400074</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528494">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569790 42.484650 </gml:lowerCorner>
+        		<gml:upperCorner>-2.568909 42.487425 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.568909 42.484650  -2.569028 42.485637  -2.569107 42.485918  -2.569454 42.486739  -2.569790 42.487425  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569554 42.487613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569073 42.487750 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569376 42.487663  -2.569073 42.487750  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528513">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570259 42.487678 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569900 42.487783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569900 42.487678  -2.570259 42.487783  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528514">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570010 42.487613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569554 42.487986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569658 42.487634  -2.569750 42.487696  -2.569854 42.487790  -2.570010 42.487986  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528515">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570259 42.487425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569790 42.487783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569790 42.487425  -2.569889 42.487541  -2.569978 42.487616  -2.570259 42.487783  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528529">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570010 42.487678 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569900 42.487986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569900 42.487678  -2.570010 42.487986  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528530">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569900 42.487613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569554 42.487678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569627 42.487617  -2.569900 42.487678  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528531">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569900 42.487425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569790 42.487678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569790 42.487425  -2.569896 42.487667  -2.569900 42.487678  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569073 42.487750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.568316 42.487981 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569073 42.487750  -2.568988 42.487773  -2.568734 42.487853  -2.568480 42.487925  -2.568316 42.487981  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528612">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569073 42.487750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.568316 42.488112 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.568316 42.487981  -2.568328 42.488006  -2.568348 42.488029  -2.568373 42.488048  -2.568404 42.488062  -2.568438 42.488071  -2.568446 42.488072  -2.568540 42.488094  -2.568578 42.488101  -2.568585 42.488103  -2.568599 42.488106  -2.568660 42.488112  -2.568722 42.488112  -2.568744 42.488111  -2.568784 42.488107  -2.568816 42.488102  -2.568828 42.488083  -2.568832 42.488063  -2.568829 42.488042  -2.568826 42.488035  -2.568821 42.488007  -2.568824 42.487978  -2.568835 42.487951  -2.568853 42.487926  -2.568877 42.487905  -2.568886 42.487899  -2.568972 42.487834  -2.569073 42.487750  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528617">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.571780 42.487515 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570563 42.487794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.571780 42.487515  -2.571180 42.487678  -2.570563 42.487794  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528643">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570563 42.487783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570259 42.487798 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.570563 42.487794  -2.570561 42.487794  -2.570539 42.487796  -2.570523 42.487798  -2.570518 42.487797  -2.570510 42.487797  -2.570494 42.487797  -2.570490 42.487797  -2.570482 42.487797  -2.570467 42.487796  -2.570417 42.487793  -2.570335 42.487789  -2.570320 42.487788  -2.570317 42.487788  -2.570315 42.487788  -2.570296 42.487786  -2.570277 42.487785  -2.570264 42.487784  -2.570262 42.487783  -2.570259 42.487783  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528644">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570582 42.487794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570563 42.487880 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.570563 42.487794  -2.570582 42.487880  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528754">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570259 42.487783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570010 42.487986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.570010 42.487986  -2.570048 42.487909  -2.570105 42.487859  -2.570259 42.487783  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528755">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569790 42.487425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.569554 42.487613 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.569554 42.487613  -2.569669 42.487585  -2.569748 42.487545  -2.569787 42.487480  -2.569789 42.487442  -2.569790 42.487425  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1528756">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570021 42.487986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570010 42.488090 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.570010 42.487986  -2.570021 42.488090  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>La Estación</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.064.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606400139</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -5610,526 +6130,6 @@
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.064.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2606400070</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075689">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.557917 42.467823 </gml:lowerCorner>
-        		<gml:upperCorner>-2.557868 42.468225 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.557899 42.468225  -2.557881 42.468159  -2.557868 42.468054  -2.557901 42.467914  -2.557917 42.467823  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400090</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075690">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.557917 42.467711 </gml:lowerCorner>
-        		<gml:upperCorner>-2.557917 42.467823 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.557917 42.467823  -2.557917 42.467711  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400090</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075691">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.558405 42.467823 </gml:lowerCorner>
-        		<gml:upperCorner>-2.557917 42.467907 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.557917 42.467823  -2.558007 42.467833  -2.558108 42.467856  -2.558133 42.467862  -2.558234 42.467883  -2.558405 42.467907  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Laurel</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400090</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075692">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.558899 42.467216 </gml:lowerCorner>
-        		<gml:upperCorner>-2.558405 42.467907 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.558887 42.467216  -2.558899 42.467405  -2.558743 42.467445  -2.558688 42.467485  -2.558507 42.467718  -2.558423 42.467873  -2.558405 42.467907  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400121</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075693">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.558405 42.467907 </gml:lowerCorner>
-        		<gml:upperCorner>-2.557899 42.468225 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.558405 42.467907  -2.558344 42.468021  -2.558229 42.468147  -2.558048 42.468208  -2.557947 42.468223  -2.557899 42.468225  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Olmo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400121</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528532">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.562102 42.470851 </gml:lowerCorner>
-        		<gml:upperCorner>-2.561415 42.471035 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.562102 42.470851  -2.561684 42.470967  -2.561415 42.471035  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle las Cruces</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.100</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400150</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528546">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.559513 42.468478 </gml:lowerCorner>
-        		<gml:upperCorner>-2.559237 42.469172 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.559513 42.468478  -2.559453 42.468519  -2.559412 42.468582  -2.559371 42.468710  -2.559307 42.468948  -2.559237 42.469172  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Marqueses de Terán</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400152</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528697">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.562951 42.466555 </gml:lowerCorner>
-        		<gml:upperCorner>-2.562817 42.467161 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.562951 42.467161  -2.562817 42.466555  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Trinquete</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400147</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528496">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.584546 42.462343 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583190 42.462553 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.583190 42.462343  -2.583450 42.462354  -2.584152 42.462463  -2.584546 42.462553  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528497">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.585495 42.462343 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583173 42.463959 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.583190 42.462343  -2.583173 42.462484  -2.583189 42.462542  -2.583743 42.463426  -2.583905 42.463628  -2.584106 42.463798  -2.584205 42.463859  -2.584324 42.463914  -2.584468 42.463952  -2.584611 42.463959  -2.584766 42.463933  -2.584853 42.463900  -2.585495 42.463535  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528550">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583406 42.461491 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583190 42.462343 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.583406 42.461491  -2.583333 42.461590  -2.583190 42.462343  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528555">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.587179 42.462776 </gml:lowerCorner>
-        		<gml:upperCorner>-2.585495 42.463535 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.585495 42.463535  -2.586332 42.463124  -2.587179 42.462776  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528571">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588008 42.461464 </gml:lowerCorner>
-        		<gml:upperCorner>-2.585381 42.461600 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.588008 42.461600  -2.587316 42.461582  -2.586342 42.461505  -2.585587 42.461464  -2.585381 42.461466  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528572">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588318 42.461600 </gml:lowerCorner>
-        		<gml:upperCorner>-2.588008 42.461626 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.588008 42.461600  -2.588318 42.461626  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528573">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588244 42.461386 </gml:lowerCorner>
-        		<gml:upperCorner>-2.588008 42.461600 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.588008 42.461600  -2.588056 42.461595  -2.588087 42.461573  -2.588155 42.461510  -2.588244 42.461386  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528598">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.585381 42.461466 </gml:lowerCorner>
-        		<gml:upperCorner>-2.585055 42.462851 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.585055 42.462851  -2.585155 42.462637  -2.585381 42.461466  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528599">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.585495 42.462851 </gml:lowerCorner>
-        		<gml:upperCorner>-2.585055 42.463535 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.585055 42.462851  -2.585495 42.463535  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528604">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.584794 42.461429 </gml:lowerCorner>
-        		<gml:upperCorner>-2.584546 42.462553 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.584546 42.462553  -2.584602 42.462398  -2.584686 42.461992  -2.584788 42.461455  -2.584794 42.461429  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528605">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.585055 42.462553 </gml:lowerCorner>
-        		<gml:upperCorner>-2.584546 42.462851 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.584546 42.462553  -2.585055 42.462851  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528610">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588450 42.461468 </gml:lowerCorner>
-        		<gml:upperCorner>-2.588318 42.461626 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.588318 42.461626  -2.588407 42.461570  -2.588450 42.461468  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528611">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588817 42.461618 </gml:lowerCorner>
-        		<gml:upperCorner>-2.588318 42.461628 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.588318 42.461626  -2.588666 42.461618  -2.588813 42.461627  -2.588817 42.461628  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528623">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.584794 42.461429 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583406 42.461491 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.584794 42.461429  -2.584277 42.461431  -2.583863 42.461465  -2.583520 42.461461  -2.583406 42.461491  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1528629">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.585381 42.461429 </gml:lowerCorner>
-        		<gml:upperCorner>-2.584794 42.461466 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.585381 42.461466  -2.584794 42.461429  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Buicio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.87</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075701">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.566809 42.465724 </gml:lowerCorner>
-        		<gml:upperCorner>-2.566756 42.465957 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.566809 42.465724  -2.566756 42.465957  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400149</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075705">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.566848 42.465558 </gml:lowerCorner>
-        		<gml:upperCorner>-2.566809 42.465724 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.566848 42.465558  -2.566809 42.465724  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400149</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4075706">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.559631 42.461201 </gml:lowerCorner>
-        		<gml:upperCorner>-2.557547 42.465362 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.559631 42.465362  -2.559550 42.465296  -2.559434 42.465183  -2.559286 42.465054  -2.559098 42.464876  -2.558998 42.464773  -2.558894 42.464644  -2.558750 42.464463  -2.558685 42.464374  -2.558666 42.464266  -2.558626 42.464166  -2.558586 42.464079  -2.558489 42.463910  -2.558339 42.463708  -2.558251 42.463577  -2.558167 42.463453  -2.558104 42.463387  -2.558057 42.463303  -2.558027 42.463158  -2.558009 42.463039  -2.557975 42.462889  -2.557910 42.462676  -2.557845 42.462484  -2.557759 42.462161  -2.557698 42.461894  -2.557676 42.461784  -2.557621 42.461583  -2.557562 42.461402  -2.557547 42.461304  -2.557586 42.461225  -2.557640 42.461201  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Linares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.064.86</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606400119</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

@@ -13,6 +13,186 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1819636">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.726309 42.586287 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725639 42.587117 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.726309 42.587117  -2.726221 42.587018  -2.726127 42.586935  -2.726010 42.586851  -2.725875 42.586732  -2.725772 42.586631  -2.725728 42.586589  -2.725704 42.586549  -2.725664 42.586416  -2.725639 42.586287  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de San Vicente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peciña</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1819639">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751006 42.603036 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750746 42.603246 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.751006 42.603246  -2.750997 42.603239  -2.750972 42.603218  -2.750908 42.603167  -2.750873 42.603138  -2.750866 42.603133  -2.750849 42.603120  -2.750840 42.603112  -2.750833 42.603106  -2.750805 42.603084  -2.750746 42.603036  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1819640">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751901 42.604073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749993 42.605313 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750033 42.605313  -2.750033 42.605313  -2.750031 42.605310  -2.750025 42.605302  -2.750017 42.605289  -2.750016 42.605288  -2.750007 42.605274  -2.750006 42.605272  -2.750001 42.605261  -2.749997 42.605250  -2.749996 42.605244  -2.749994 42.605230  -2.749993 42.605223  -2.749994 42.605212  -2.749995 42.605199  -2.749995 42.605196  -2.749997 42.605189  -2.749999 42.605182  -2.750004 42.605168  -2.750004 42.605167  -2.750005 42.605166  -2.750007 42.605161  -2.750012 42.605150  -2.750021 42.605131  -2.750022 42.605130  -2.750029 42.605122  -2.750034 42.605116  -2.750047 42.605101  -2.750053 42.605094  -2.750069 42.605078  -2.750085 42.605061  -2.750086 42.605060  -2.750100 42.605047  -2.750290 42.604870  -2.750301 42.604859  -2.750303 42.604857  -2.750305 42.604855  -2.750312 42.604849  -2.750317 42.604844  -2.750361 42.604803  -2.750423 42.604744  -2.750482 42.604692  -2.750511 42.604667  -2.750539 42.604641  -2.750545 42.604636  -2.750579 42.604606  -2.750582 42.604604  -2.750619 42.604580  -2.750632 42.604571  -2.750641 42.604565  -2.750670 42.604548  -2.750700 42.604531  -2.750712 42.604524  -2.750734 42.604514  -2.750757 42.604505  -2.750788 42.604493  -2.750824 42.604479  -2.750830 42.604477  -2.750856 42.604469  -2.750888 42.604460  -2.750925 42.604450  -2.750942 42.604445  -2.751047 42.604421  -2.751157 42.604396  -2.751176 42.604392  -2.751268 42.604371  -2.751387 42.604344  -2.751403 42.604341  -2.751483 42.604322  -2.751493 42.604320  -2.751497 42.604319  -2.751497 42.604319  -2.751521 42.604313  -2.751543 42.604307  -2.751568 42.604300  -2.751575 42.604297  -2.751606 42.604288  -2.751617 42.604284  -2.751650 42.604271  -2.751662 42.604266  -2.751672 42.604262  -2.751679 42.604258  -2.751683 42.604256  -2.751700 42.604248  -2.751707 42.604244  -2.751735 42.604230  -2.751743 42.604226  -2.751751 42.604222  -2.751759 42.604215  -2.751781 42.604197  -2.751800 42.604180  -2.751804 42.604178  -2.751808 42.604173  -2.751813 42.604169  -2.751828 42.604154  -2.751852 42.604131  -2.751856 42.604126  -2.751869 42.604112  -2.751877 42.604103  -2.751879 42.604100  -2.751901 42.604073  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3938493">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751916 42.603246 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751006 42.604073 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.751901 42.604073  -2.751916 42.604022  -2.751916 42.604017  -2.751916 42.603977  -2.751895 42.603950  -2.751881 42.603939  -2.751872 42.603932  -2.751860 42.603923  -2.751835 42.603902  -2.751826 42.603896  -2.751663 42.603766  -2.751607 42.603722  -2.751580 42.603700  -2.751574 42.603695  -2.751540 42.603668  -2.751531 42.603661  -2.751499 42.603636  -2.751499 42.603636  -2.751495 42.603633  -2.751492 42.603631  -2.751466 42.603610  -2.751463 42.603608  -2.751455 42.603601  -2.751447 42.603595  -2.751422 42.603575  -2.751399 42.603557  -2.751372 42.603536  -2.751362 42.603529  -2.751342 42.603513  -2.751317 42.603493  -2.751300 42.603480  -2.751293 42.603474  -2.751271 42.603457  -2.751270 42.603456  -2.751196 42.603397  -2.751168 42.603375  -2.751104 42.603324  -2.751102 42.603323  -2.751090 42.603314  -2.751029 42.603264  -2.751019 42.603256  -2.751006 42.603246  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3865520">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757993 42.564426 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756295 42.571165 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.757993 42.571165  -2.757913 42.571078  -2.757725 42.570875  -2.757653 42.570765  -2.757590 42.570678  -2.757563 42.570589  -2.757556 42.570441  -2.757564 42.570198  -2.757564 42.569995  -2.757604 42.569807  -2.757615 42.569695  -2.757618 42.569362  -2.757604 42.569268  -2.757567 42.569165  -2.757496 42.569003  -2.757417 42.568864  -2.757335 42.568769  -2.757196 42.568658  -2.757076 42.568553  -2.756973 42.568482  -2.756824 42.568377  -2.756697 42.568289  -2.756542 42.568206  -2.756407 42.568141  -2.756331 42.568060  -2.756310 42.567970  -2.756295 42.567862  -2.756314 42.567724  -2.756352 42.567627  -2.756455 42.567522  -2.756574 42.567400  -2.756643 42.567301  -2.756684 42.567216  -2.756710 42.566921  -2.756795 42.566659  -2.756824 42.566486  -2.756903 42.566200  -2.756965 42.566093  -2.757112 42.565808  -2.757168 42.565681  -2.757198 42.565542  -2.757199 42.565424  -2.757118 42.565140  -2.756993 42.564795  -2.756888 42.564562  -2.756843 42.564426  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de la Plana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815495">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759050 42.565566 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758139 42.565704 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.759050 42.565704  -2.758381 42.565604  -2.758139 42.565566  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Calvario</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.64</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200544</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815540">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750506 42.603690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750469 42.603848 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750469 42.603848  -2.750506 42.603690  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200107</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815541">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750512 42.603501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750112 42.603690 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750506 42.603690  -2.750512 42.603666  -2.750476 42.603638  -2.750372 42.603606  -2.750186 42.603550  -2.750112 42.603501  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200107</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815542">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750665 42.603690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750506 42.603702 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750506 42.603690  -2.750532 42.603695  -2.750665 42.603702  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.101</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200107</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1546483">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -373,6 +553,166 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1546485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761804 42.563691 </gml:lowerCorner>
+        		<gml:upperCorner>-2.760865 42.564101 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.761804 42.563993  -2.761613 42.564072  -2.761488 42.564101  -2.761374 42.564093  -2.761219 42.564048  -2.761142 42.564010  -2.761083 42.563957  -2.760865 42.563691  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546691">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759735 42.563456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759061 42.563546 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.759735 42.563456  -2.759061 42.563546  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546735">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.760222 42.563382 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759735 42.563456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.760222 42.563382  -2.760184 42.563385  -2.759737 42.563456  -2.759735 42.563456  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546736">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.760865 42.563412 </gml:lowerCorner>
+        		<gml:upperCorner>-2.760584 42.563691 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.760865 42.563691  -2.760781 42.563590  -2.760635 42.563440  -2.760584 42.563412  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546747">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.760584 42.563368 </gml:lowerCorner>
+        		<gml:upperCorner>-2.760222 42.563412 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.760584 42.563412  -2.760482 42.563377  -2.760363 42.563368  -2.760222 42.563382  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758420 42.562935 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757630 42.563038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.757630 42.563038  -2.758420 42.562935  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200123</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757630 42.563038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757450 42.563061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.757450 42.563061  -2.757451 42.563061  -2.757594 42.563043  -2.757595 42.563043  -2.757630 42.563038  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200123</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546740">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758675 42.562861 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758420 42.562935 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.758420 42.562935  -2.758675 42.562861  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200123</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1546487">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -550,886 +890,6 @@
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.55</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200147</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1819636">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.726309 42.586287 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725639 42.587117 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.726309 42.587117  -2.726221 42.587018  -2.726127 42.586935  -2.726010 42.586851  -2.725875 42.586732  -2.725772 42.586631  -2.725728 42.586589  -2.725704 42.586549  -2.725664 42.586416  -2.725639 42.586287  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de San Vicente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Peciña</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.58</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546494">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749951 42.605276 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749715 42.605689 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.749715 42.605276  -2.749841 42.605302  -2.749871 42.605337  -2.749896 42.605535  -2.749951 42.605689  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Medio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.105</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200556</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546627">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749715 42.605276 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749632 42.605486 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.749715 42.605276  -2.749704 42.605337  -2.749632 42.605486  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Medio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.105</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200556</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546629">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749715 42.605249 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749446 42.605314 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.749715 42.605276  -2.749639 42.605249  -2.749513 42.605314  -2.749446 42.605304  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Medio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.105</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200556</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546495">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751247 42.603945 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750935 42.604075 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.751247 42.604075  -2.751188 42.604026  -2.751044 42.603962  -2.750935 42.603945  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Labastida</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.99</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546621">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751901 42.604073 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751247 42.604135 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.751901 42.604073  -2.751601 42.604135  -2.751388 42.604130  -2.751247 42.604075  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Labastida</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.99</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546651">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750935 42.603891 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750758 42.603945 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750935 42.603945  -2.750758 42.603891  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Labastida</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.99</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546507">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751006 42.603246 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750758 42.603891 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750758 42.603891  -2.750912 42.603740  -2.750978 42.603610  -2.751006 42.603246  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200552</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546521">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750308 42.603836 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750204 42.604051 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750308 42.603836  -2.750233 42.603925  -2.750204 42.604051  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546631">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750285 42.604236 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750177 42.604319 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750285 42.604319  -2.750177 42.604236  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546632">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750177 42.604040 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749782 42.604236 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750177 42.604236  -2.749995 42.604190  -2.749850 42.604120  -2.749782 42.604040  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546633">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750204 42.604051 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750177 42.604236 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750177 42.604236  -2.750204 42.604051  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546634">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750204 42.603960 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749872 42.604051 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750204 42.604051  -2.750049 42.604015  -2.749872 42.603960  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546635">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749872 42.603960 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749782 42.604040 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.749782 42.604040  -2.749872 42.603960  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546565">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750935 42.603945 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750853 42.604102 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750935 42.603945  -2.750853 42.604102  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calleja</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.103</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200554</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546649">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750853 42.604102 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750430 42.604213 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750853 42.604102  -2.750746 42.604124  -2.750539 42.604213  -2.750430 42.604169  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calleja</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.103</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200554</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546650">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751247 42.604075 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750853 42.604107 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.751247 42.604075  -2.751161 42.604107  -2.750853 42.604102  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calleja</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.103</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200554</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546575">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.747770 42.606221 </gml:lowerCorner>
-        		<gml:upperCorner>-2.747296 42.606524 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.747314 42.606221  -2.747296 42.606300  -2.747308 42.606352  -2.747370 42.606400  -2.747581 42.606503  -2.747770 42.606524  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546590">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.747176 42.606286 </gml:lowerCorner>
-        		<gml:upperCorner>-2.746982 42.606504 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.746982 42.606504  -2.747048 42.606443  -2.747176 42.606286  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546624">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.747176 42.605913 </gml:lowerCorner>
-        		<gml:upperCorner>-2.746498 42.606286 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.746498 42.605913  -2.746568 42.605968  -2.747176 42.606286  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546625">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.747314 42.606221 </gml:lowerCorner>
-        		<gml:upperCorner>-2.747176 42.606286 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.747314 42.606221  -2.747176 42.606286  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815534">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749164 42.605429 </gml:lowerCorner>
-        		<gml:upperCorner>-2.748133 42.605920 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.748133 42.605920  -2.749164 42.605429  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815535">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.748133 42.605920 </gml:lowerCorner>
-        		<gml:upperCorner>-2.747314 42.606221 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.747314 42.606221  -2.747431 42.606169  -2.747624 42.606108  -2.747818 42.606070  -2.748133 42.605920  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546628">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750285 42.604319 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749446 42.605304 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.749446 42.605304  -2.749562 42.605215  -2.749834 42.605007  -2.749980 42.604860  -2.750060 42.604745  -2.750284 42.604321  -2.750285 42.604319  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546630">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750430 42.604169 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750285 42.604319 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750285 42.604319  -2.750410 42.604192  -2.750430 42.604169  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815527">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750558 42.604040 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750430 42.604169 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750558 42.604040  -2.750483 42.604096  -2.750430 42.604169  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815532">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749446 42.605304 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749164 42.605429 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.749164 42.605429  -2.749313 42.605358  -2.749446 42.605304  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546638">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750758 42.603848 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750469 42.603891 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750758 42.603891  -2.750640 42.603861  -2.750469 42.603848  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.100</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200553</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546639">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750469 42.603836 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750308 42.603848 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750469 42.603848  -2.750308 42.603836  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.100</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200553</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815526">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750758 42.603891 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750558 42.604040 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750758 42.603891  -2.750558 42.604040  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.100</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200553</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815540">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750506 42.603690 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750469 42.603848 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750469 42.603848  -2.750506 42.603690  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.101</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200107</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815541">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750512 42.603501 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750112 42.603690 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750506 42.603690  -2.750512 42.603666  -2.750476 42.603638  -2.750372 42.603606  -2.750186 42.603550  -2.750112 42.603501  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.101</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200107</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815542">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750665 42.603690 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750506 42.603702 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750506 42.603690  -2.750532 42.603695  -2.750665 42.603702  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.101</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200107</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1819639">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751006 42.603036 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750746 42.603246 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.751006 42.603246  -2.750997 42.603239  -2.750972 42.603218  -2.750908 42.603167  -2.750873 42.603138  -2.750866 42.603133  -2.750849 42.603120  -2.750840 42.603112  -2.750833 42.603106  -2.750805 42.603084  -2.750746 42.603036  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.50</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1819640">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751901 42.604073 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749993 42.605313 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.750033 42.605313  -2.750033 42.605313  -2.750031 42.605310  -2.750025 42.605302  -2.750017 42.605289  -2.750016 42.605288  -2.750007 42.605274  -2.750006 42.605272  -2.750001 42.605261  -2.749997 42.605250  -2.749996 42.605244  -2.749994 42.605230  -2.749993 42.605223  -2.749994 42.605212  -2.749995 42.605199  -2.749995 42.605196  -2.749997 42.605189  -2.749999 42.605182  -2.750004 42.605168  -2.750004 42.605167  -2.750005 42.605166  -2.750007 42.605161  -2.750012 42.605150  -2.750021 42.605131  -2.750022 42.605130  -2.750029 42.605122  -2.750034 42.605116  -2.750047 42.605101  -2.750053 42.605094  -2.750069 42.605078  -2.750085 42.605061  -2.750086 42.605060  -2.750100 42.605047  -2.750290 42.604870  -2.750301 42.604859  -2.750303 42.604857  -2.750305 42.604855  -2.750312 42.604849  -2.750317 42.604844  -2.750361 42.604803  -2.750423 42.604744  -2.750482 42.604692  -2.750511 42.604667  -2.750539 42.604641  -2.750545 42.604636  -2.750579 42.604606  -2.750582 42.604604  -2.750619 42.604580  -2.750632 42.604571  -2.750641 42.604565  -2.750670 42.604548  -2.750700 42.604531  -2.750712 42.604524  -2.750734 42.604514  -2.750757 42.604505  -2.750788 42.604493  -2.750824 42.604479  -2.750830 42.604477  -2.750856 42.604469  -2.750888 42.604460  -2.750925 42.604450  -2.750942 42.604445  -2.751047 42.604421  -2.751157 42.604396  -2.751176 42.604392  -2.751268 42.604371  -2.751387 42.604344  -2.751403 42.604341  -2.751483 42.604322  -2.751493 42.604320  -2.751497 42.604319  -2.751497 42.604319  -2.751521 42.604313  -2.751543 42.604307  -2.751568 42.604300  -2.751575 42.604297  -2.751606 42.604288  -2.751617 42.604284  -2.751650 42.604271  -2.751662 42.604266  -2.751672 42.604262  -2.751679 42.604258  -2.751683 42.604256  -2.751700 42.604248  -2.751707 42.604244  -2.751735 42.604230  -2.751743 42.604226  -2.751751 42.604222  -2.751759 42.604215  -2.751781 42.604197  -2.751800 42.604180  -2.751804 42.604178  -2.751808 42.604173  -2.751813 42.604169  -2.751828 42.604154  -2.751852 42.604131  -2.751856 42.604126  -2.751869 42.604112  -2.751877 42.604103  -2.751879 42.604100  -2.751901 42.604073  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.50</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3938493">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751916 42.603246 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751006 42.604073 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.751901 42.604073  -2.751916 42.604022  -2.751916 42.604017  -2.751916 42.603977  -2.751895 42.603950  -2.751881 42.603939  -2.751872 42.603932  -2.751860 42.603923  -2.751835 42.603902  -2.751826 42.603896  -2.751663 42.603766  -2.751607 42.603722  -2.751580 42.603700  -2.751574 42.603695  -2.751540 42.603668  -2.751531 42.603661  -2.751499 42.603636  -2.751499 42.603636  -2.751495 42.603633  -2.751492 42.603631  -2.751466 42.603610  -2.751463 42.603608  -2.751455 42.603601  -2.751447 42.603595  -2.751422 42.603575  -2.751399 42.603557  -2.751372 42.603536  -2.751362 42.603529  -2.751342 42.603513  -2.751317 42.603493  -2.751300 42.603480  -2.751293 42.603474  -2.751271 42.603457  -2.751270 42.603456  -2.751196 42.603397  -2.751168 42.603375  -2.751104 42.603324  -2.751102 42.603323  -2.751090 42.603314  -2.751029 42.603264  -2.751019 42.603256  -2.751006 42.603246  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.50</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546485">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761804 42.563691 </gml:lowerCorner>
-        		<gml:upperCorner>-2.760865 42.564101 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.761804 42.563993  -2.761613 42.564072  -2.761488 42.564101  -2.761374 42.564093  -2.761219 42.564048  -2.761142 42.564010  -2.761083 42.563957  -2.760865 42.563691  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546691">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759735 42.563456 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759061 42.563546 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.759735 42.563456  -2.759061 42.563546  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546735">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.760222 42.563382 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759735 42.563456 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.760222 42.563382  -2.760184 42.563385  -2.759737 42.563456  -2.759735 42.563456  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546736">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.760865 42.563412 </gml:lowerCorner>
-        		<gml:upperCorner>-2.760584 42.563691 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.760865 42.563691  -2.760781 42.563590  -2.760635 42.563440  -2.760584 42.563412  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546747">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.760584 42.563368 </gml:lowerCorner>
-        		<gml:upperCorner>-2.760222 42.563412 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.760584 42.563412  -2.760482 42.563377  -2.760363 42.563368  -2.760222 42.563382  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Briones</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200101</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546486">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758420 42.562935 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757630 42.563038 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.757630 42.563038  -2.758420 42.562935  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.32</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200123</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546553">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757630 42.563038 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757450 42.563061 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.757450 42.563061  -2.757451 42.563061  -2.757594 42.563043  -2.757595 42.563043  -2.757630 42.563038  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.32</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200123</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546740">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758675 42.562861 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758420 42.562935 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.758420 42.562935  -2.758675 42.562861  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Roque</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.32</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200123</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1870,6 +1330,126 @@
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.47</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200139</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546494">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749951 42.605276 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749715 42.605689 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.749715 42.605276  -2.749841 42.605302  -2.749871 42.605337  -2.749896 42.605535  -2.749951 42.605689  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Medio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.105</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200556</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546627">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749715 42.605276 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749632 42.605486 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.749715 42.605276  -2.749704 42.605337  -2.749632 42.605486  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Medio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.105</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200556</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546629">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749715 42.605249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749446 42.605314 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.749715 42.605276  -2.749639 42.605249  -2.749513 42.605314  -2.749446 42.605304  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Medio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.105</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200556</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546495">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751247 42.603945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750935 42.604075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.751247 42.604075  -2.751188 42.604026  -2.751044 42.603962  -2.750935 42.603945  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Labastida</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.99</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546621">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751901 42.604073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751247 42.604135 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.751901 42.604073  -2.751601 42.604135  -2.751388 42.604130  -2.751247 42.604075  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Labastida</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.99</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546651">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750935 42.603891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750758 42.603945 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750935 42.603945  -2.750758 42.603891  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Labastida</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.99</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2610,6 +2190,26 @@
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.26</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546507">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751006 42.603246 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750758 42.603891 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750758 42.603891  -2.750912 42.603740  -2.750978 42.603610  -2.751006 42.603246  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200552</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3993,6 +3593,126 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1546521">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750308 42.603836 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750204 42.604051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750308 42.603836  -2.750233 42.603925  -2.750204 42.604051  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546631">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750285 42.604236 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750177 42.604319 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750285 42.604319  -2.750177 42.604236  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546632">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750177 42.604040 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749782 42.604236 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750177 42.604236  -2.749995 42.604190  -2.749850 42.604120  -2.749782 42.604040  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546633">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750204 42.604051 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750177 42.604236 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750177 42.604236  -2.750204 42.604051  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546634">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750204 42.603960 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749872 42.604051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750204 42.604051  -2.750049 42.604015  -2.749872 42.603960  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546635">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749872 42.603960 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749782 42.604040 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.749782 42.604040  -2.749872 42.603960  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200027</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1546523">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5033,6 +4753,66 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1546565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750935 42.603945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750853 42.604102 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750935 42.603945  -2.750853 42.604102  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calleja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.103</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200554</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546649">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750853 42.604102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750430 42.604213 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750853 42.604102  -2.750746 42.604124  -2.750539 42.604213  -2.750430 42.604169  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calleja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.103</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200554</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546650">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751247 42.604075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750853 42.604107 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.751247 42.604075  -2.751161 42.604107  -2.750853 42.604102  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calleja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.103</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200554</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1546566">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5230,6 +5010,126 @@
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.28</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200121</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546575">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.747770 42.606221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.747296 42.606524 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.747314 42.606221  -2.747296 42.606300  -2.747308 42.606352  -2.747370 42.606400  -2.747581 42.606503  -2.747770 42.606524  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546590">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.747176 42.606286 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746982 42.606504 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.746982 42.606504  -2.747048 42.606443  -2.747176 42.606286  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546624">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.747176 42.605913 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746498 42.606286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.746498 42.605913  -2.746568 42.605968  -2.747176 42.606286  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546625">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.747314 42.606221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.747176 42.606286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.747314 42.606221  -2.747176 42.606286  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815534">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749164 42.605429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.748133 42.605920 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.748133 42.605920  -2.749164 42.605429  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815535">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.748133 42.605920 </gml:lowerCorner>
+        		<gml:upperCorner>-2.747314 42.606221 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.747314 42.606221  -2.747431 42.606169  -2.747624 42.606108  -2.747818 42.606070  -2.748133 42.605920  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.106</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200557</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -5713,6 +5613,146 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1546628">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750285 42.604319 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749446 42.605304 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.749446 42.605304  -2.749562 42.605215  -2.749834 42.605007  -2.749980 42.604860  -2.750060 42.604745  -2.750284 42.604321  -2.750285 42.604319  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546630">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750430 42.604169 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750285 42.604319 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750285 42.604319  -2.750410 42.604192  -2.750430 42.604169  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815527">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750558 42.604040 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750430 42.604169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750558 42.604040  -2.750483 42.604096  -2.750430 42.604169  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815532">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749446 42.605304 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749164 42.605429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.749164 42.605429  -2.749313 42.605358  -2.749446 42.605304  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.104</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200555</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546638">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750758 42.603848 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750469 42.603891 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750758 42.603891  -2.750640 42.603861  -2.750469 42.603848  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.100</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200553</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546639">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750469 42.603836 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750308 42.603848 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750469 42.603848  -2.750308 42.603836  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.100</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200553</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815526">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750758 42.603891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750558 42.604040 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750758 42.603891  -2.750558 42.604040  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.100</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614200553</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1546648">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5950,46 +5990,6 @@
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.90</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200537</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1815495">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759050 42.565566 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758139 42.565704 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.759050 42.565704  -2.758381 42.565604  -2.758139 42.565566  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Calvario</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.64</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614200544</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3865520">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757993 42.564426 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756295 42.571165 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.757993 42.571165  -2.757913 42.571078  -2.757725 42.570875  -2.757653 42.570765  -2.757590 42.570678  -2.757563 42.570589  -2.757556 42.570441  -2.757564 42.570198  -2.757564 42.569995  -2.757604 42.569807  -2.757615 42.569695  -2.757618 42.569362  -2.757604 42.569268  -2.757567 42.569165  -2.757496 42.569003  -2.757417 42.568864  -2.757335 42.568769  -2.757196 42.568658  -2.757076 42.568553  -2.756973 42.568482  -2.756824 42.568377  -2.756697 42.568289  -2.756542 42.568206  -2.756407 42.568141  -2.756331 42.568060  -2.756310 42.567970  -2.756295 42.567862  -2.756314 42.567724  -2.756352 42.567627  -2.756455 42.567522  -2.756574 42.567400  -2.756643 42.567301  -2.756684 42.567216  -2.756710 42.566921  -2.756795 42.566659  -2.756824 42.566486  -2.756903 42.566200  -2.756965 42.566093  -2.757112 42.565808  -2.757168 42.565681  -2.757198 42.565542  -2.757199 42.565424  -2.757118 42.565140  -2.756993 42.564795  -2.756888 42.564562  -2.756843 42.564426  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de la Plana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.142.60</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

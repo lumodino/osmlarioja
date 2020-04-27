@@ -13,23 +13,23 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1538163">
+      <ms:viales gml:id="viales.1819970">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.003553 42.375267 </gml:lowerCorner>
-        		<gml:upperCorner>-3.002134 42.375524 </gml:upperCorner>
+        		<gml:lowerCorner>-2.967405 42.351569 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966978 42.352597 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.002134 42.375289  -3.002346 42.375267  -3.002425 42.375271  -3.002857 42.375417  -3.003106 42.375523  -3.003173 42.375524  -3.003416 42.375474  -3.003553 42.375477  </gml:posList>
+            <gml:posList srsDimension="2">-2.967387 42.352597  -2.967393 42.352582  -2.967398 42.352568  -2.967399 42.352563  -2.967403 42.352545  -2.967405 42.352535  -2.967405 42.352526  -2.967405 42.352508  -2.967405 42.352500  -2.967403 42.352489  -2.967399 42.352469  -2.967398 42.352462  -2.967394 42.352449  -2.967393 42.352446  -2.967389 42.352436  -2.967380 42.352410  -2.967362 42.352354  -2.967357 42.352339  -2.967354 42.352331  -2.967353 42.352324  -2.967350 42.352302  -2.967342 42.352248  -2.967342 42.352245  -2.967339 42.352234  -2.967337 42.352220  -2.967335 42.352212  -2.967334 42.352207  -2.967334 42.352205  -2.967313 42.352131  -2.967302 42.352093  -2.967300 42.352085  -2.967296 42.352073  -2.967289 42.352054  -2.967274 42.352009  -2.967268 42.351998  -2.967252 42.351962  -2.967243 42.351942  -2.967239 42.351934  -2.967223 42.351907  -2.967216 42.351894  -2.967208 42.351880  -2.967199 42.351865  -2.967182 42.351841  -2.967165 42.351817  -2.967157 42.351807  -2.967150 42.351797  -2.967128 42.351769  -2.967085 42.351713  -2.967074 42.351698  -2.967070 42.351694  -2.967058 42.351678  -2.966991 42.351587  -2.966990 42.351586  -2.966978 42.351569  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Arviza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arviza o Arviza Barrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Uyarra</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Uyarra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611000047</ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2611000049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -470,6 +470,46 @@
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.17</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611000058</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1538162">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.021449 42.381181 </gml:lowerCorner>
+        		<gml:upperCorner>-3.021387 42.381677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.021449 42.381677  -3.021405 42.381545  -3.021387 42.381181  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Tondeluna</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Tondeluna</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611000048</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1538163">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.003553 42.375267 </gml:lowerCorner>
+        		<gml:upperCorner>-3.002134 42.375524 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.002134 42.375289  -3.002346 42.375267  -3.002425 42.375271  -3.002857 42.375417  -3.003106 42.375523  -3.003173 42.375524  -3.003416 42.375474  -3.003553 42.375477  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Arviza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arviza o Arviza Barrena</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611000047</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2813,6 +2853,66 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1538240">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.978194 42.368241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977361 42.368433 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.978194 42.368241  -2.978097 42.368255  -2.977958 42.368354  -2.977720 42.368414  -2.977571 42.368433  -2.977370 42.368427  -2.977361 42.368429  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Asensio de los Cantos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1538251">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.977361 42.368429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977269 42.368451 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.977361 42.368429  -2.977269 42.368451  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Asensio de los Cantos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1538252">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.977583 42.368116 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977361 42.368429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.977361 42.368429  -2.977362 42.368373  -2.977495 42.368234  -2.977583 42.368116  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Asensio de los Cantos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611000050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1538253">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2950,106 +3050,6 @@
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.27</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611000070</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1538240">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.978194 42.368241 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977361 42.368433 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.978194 42.368241  -2.978097 42.368255  -2.977958 42.368354  -2.977720 42.368414  -2.977571 42.368433  -2.977370 42.368427  -2.977361 42.368429  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Asensio de los Cantos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1538251">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977361 42.368429 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977269 42.368451 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.977361 42.368429  -2.977269 42.368451  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Asensio de los Cantos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1538252">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977583 42.368116 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977361 42.368429 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.977361 42.368429  -2.977362 42.368373  -2.977495 42.368234  -2.977583 42.368116  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Asensio de los Cantos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611000050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1538162">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.021449 42.381181 </gml:lowerCorner>
-        		<gml:upperCorner>-3.021387 42.381677 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.021449 42.381677  -3.021405 42.381545  -3.021387 42.381181  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Tondeluna</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Tondeluna</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611000048</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1819970">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.967405 42.351569 </gml:lowerCorner>
-        		<gml:upperCorner>-2.966978 42.352597 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.967387 42.352597  -2.967393 42.352582  -2.967398 42.352568  -2.967399 42.352563  -2.967403 42.352545  -2.967405 42.352535  -2.967405 42.352526  -2.967405 42.352508  -2.967405 42.352500  -2.967403 42.352489  -2.967399 42.352469  -2.967398 42.352462  -2.967394 42.352449  -2.967393 42.352446  -2.967389 42.352436  -2.967380 42.352410  -2.967362 42.352354  -2.967357 42.352339  -2.967354 42.352331  -2.967353 42.352324  -2.967350 42.352302  -2.967342 42.352248  -2.967342 42.352245  -2.967339 42.352234  -2.967337 42.352220  -2.967335 42.352212  -2.967334 42.352207  -2.967334 42.352205  -2.967313 42.352131  -2.967302 42.352093  -2.967300 42.352085  -2.967296 42.352073  -2.967289 42.352054  -2.967274 42.352009  -2.967268 42.351998  -2.967252 42.351962  -2.967243 42.351942  -2.967239 42.351934  -2.967223 42.351907  -2.967216 42.351894  -2.967208 42.351880  -2.967199 42.351865  -2.967182 42.351841  -2.967165 42.351817  -2.967157 42.351807  -2.967150 42.351797  -2.967128 42.351769  -2.967085 42.351713  -2.967074 42.351698  -2.967070 42.351694  -2.967058 42.351678  -2.966991 42.351587  -2.966990 42.351586  -2.966978 42.351569  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Uyarra</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Uyarra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611000049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

@@ -13,6 +13,726 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.3681420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960356 42.417423 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954711 42.432060 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.960356 42.417423  -2.960324 42.417506  -2.960272 42.417641  -2.960233 42.417742  -2.960165 42.417919  -2.960124 42.418026  -2.960118 42.418042  -2.960090 42.418115  -2.959993 42.418368  -2.959971 42.418424  -2.959954 42.418469  -2.959937 42.418514  -2.959905 42.418597  -2.959897 42.418617  -2.959894 42.418624  -2.959892 42.418631  -2.959828 42.418795  -2.959818 42.418821  -2.959755 42.418984  -2.959751 42.418993  -2.959745 42.419009  -2.959730 42.419047  -2.959707 42.419107  -2.959697 42.419141  -2.959690 42.419162  -2.959655 42.419253  -2.959637 42.419299  -2.959612 42.419365  -2.959561 42.419496  -2.959487 42.419686  -2.959460 42.419758  -2.959398 42.419917  -2.959310 42.420144  -2.959285 42.420209  -2.959203 42.420420  -2.959111 42.420658  -2.959046 42.420824  -2.958987 42.420978  -2.958952 42.421067  -2.958867 42.421288  -2.958816 42.421418  -2.958794 42.421475  -2.958773 42.421530  -2.958739 42.421616  -2.958739 42.421617  -2.958676 42.421781  -2.958624 42.421916  -2.958602 42.421975  -2.958579 42.422035  -2.958547 42.422117  -2.958470 42.422318  -2.958396 42.422511  -2.958376 42.422561  -2.958271 42.422830  -2.958187 42.423046  -2.958186 42.423048  -2.958186 42.423048  -2.958085 42.423309  -2.958002 42.423524  -2.957964 42.423622  -2.957930 42.423711  -2.957862 42.423889  -2.957789 42.424076  -2.957748 42.424183  -2.957709 42.424284  -2.957646 42.424446  -2.957583 42.424612  -2.957569 42.424648  -2.957519 42.424775  -2.957468 42.424908  -2.957435 42.424995  -2.957408 42.425063  -2.957322 42.425287  -2.957275 42.425410  -2.957227 42.425534  -2.957210 42.425577  -2.957116 42.425823  -2.957010 42.426103  -2.957007 42.426111  -2.956998 42.426132  -2.956996 42.426139  -2.956977 42.426187  -2.956976 42.426190  -2.956943 42.426274  -2.956880 42.426436  -2.956814 42.426607  -2.956787 42.426676  -2.956772 42.426714  -2.956768 42.426724  -2.956758 42.426749  -2.956704 42.426891  -2.956614 42.427125  -2.956589 42.427191  -2.956580 42.427213  -2.956562 42.427261  -2.956541 42.427315  -2.956438 42.427582  -2.956387 42.427715  -2.956383 42.427726  -2.956365 42.427772  -2.956342 42.427832  -2.956323 42.427880  -2.956294 42.427956  -2.956254 42.428056  -2.956196 42.428205  -2.956151 42.428321  -2.956138 42.428355  -2.956127 42.428383  -2.956124 42.428391  -2.955969 42.428794  -2.955945 42.428857  -2.955926 42.428904  -2.955915 42.428935  -2.955862 42.429072  -2.955791 42.429257  -2.955766 42.429320  -2.955746 42.429374  -2.955681 42.429542  -2.955633 42.429666  -2.955574 42.429819  -2.955536 42.429918  -2.955527 42.429942  -2.955487 42.430045  -2.955443 42.430160  -2.955373 42.430341  -2.955303 42.430524  -2.955301 42.430529  -2.955225 42.430724  -2.955146 42.430927  -2.955146 42.430929  -2.955140 42.430944  -2.955106 42.431030  -2.955044 42.431191  -2.955015 42.431266  -2.955002 42.431300  -2.954965 42.431394  -2.954926 42.431495  -2.954915 42.431524  -2.954867 42.431647  -2.954840 42.431716  -2.954821 42.431768  -2.954794 42.431840  -2.954783 42.431868  -2.954728 42.432017  -2.954711 42.432060  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Ezcaray</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800024</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1545982">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.947038 42.434549 </gml:lowerCorner>
+        		<gml:upperCorner>-2.945110 42.435591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.945110 42.434549  -2.946111 42.435062  -2.947038 42.435591  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Senda de Aguilar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546148">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.945110 42.434009 </gml:lowerCorner>
+        		<gml:upperCorner>-2.944171 42.434549 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.944171 42.434009  -2.944541 42.434257  -2.945110 42.434549  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Senda de Aguilar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546149">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.947732 42.435591 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947038 42.436072 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.947038 42.435591  -2.947689 42.435945  -2.947732 42.436072  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Senda de Aguilar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546043">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.939048 42.436443 </gml:lowerCorner>
+        		<gml:upperCorner>-2.934524 42.438220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.939038 42.438220  -2.939048 42.438020  -2.939006 42.437856  -2.938923 42.437747  -2.938795 42.437661  -2.937756 42.437410  -2.936094 42.436964  -2.934956 42.436626  -2.934524 42.436443  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de los Palos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546065">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.940751 42.440256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.937404 42.440830 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.940751 42.440256  -2.939889 42.440473  -2.939553 42.440604  -2.939193 42.440794  -2.938990 42.440828  -2.938852 42.440830  -2.938371 42.440761  -2.937622 42.440631  -2.937509 42.440624  -2.937404 42.440580  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Número 11</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959807 42.440553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959001 42.440636 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.959001 42.440553  -2.959807 42.440636  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino San Francisco 6</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.113</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546186">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959934 42.439928 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959237 42.440174 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.959934 42.440174  -2.959671 42.440134  -2.959511 42.440019  -2.959237 42.439928  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino San Francisco 5</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.121</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546002">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.936550 42.437469 </gml:lowerCorner>
+        		<gml:upperCorner>-2.934951 42.439422 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.936550 42.439422  -2.935010 42.437612  -2.934951 42.437469  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Colada de la Mojonera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1546003">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.937404 42.439422 </gml:lowerCorner>
+        		<gml:upperCorner>-2.936550 42.440580 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.936550 42.439422  -2.937313 42.440477  -2.937404 42.440580  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Colada de la Mojonera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1595051">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950640 42.446508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.950171 42.446777 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.950171 42.446777  -2.950184 42.446766  -2.950640 42.446508  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1595053">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950260 42.446777 </gml:lowerCorner>
+        		<gml:upperCorner>-2.945639 42.450487 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.950171 42.446777  -2.950260 42.446837  -2.950102 42.446953  -2.949850 42.447148  -2.949580 42.447387  -2.949243 42.447655  -2.948932 42.447921  -2.948654 42.448139  -2.948452 42.448301  -2.948109 42.448579  -2.947817 42.448813  -2.947565 42.449015  -2.946829 42.449602  -2.946462 42.449891  -2.946234 42.450092  -2.945906 42.450356  -2.945749 42.450487  -2.945639 42.450420  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1595054">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950171 42.446777 </gml:lowerCorner>
+        		<gml:upperCorner>-2.945639 42.450420 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.945639 42.450420  -2.950171 42.446777  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1595055">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.945639 42.450420 </gml:lowerCorner>
+        		<gml:upperCorner>-2.944988 42.450943 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.944988 42.450943  -2.945639 42.450420  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812359">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953272 42.440940 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953121 42.441422 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.953272 42.440940  -2.953121 42.441422  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Santo Domingo de Silos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800058</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812360">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953121 42.441336 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952692 42.441516 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.953121 42.441422  -2.952808 42.441336  -2.952692 42.441516  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812366">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953205 42.441422 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953116 42.441859 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.953121 42.441422  -2.953205 42.441437  -2.953116 42.441859  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953427 42.441859 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953116 42.442093 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.953116 42.441859  -2.953250 42.441883  -2.953416 42.441909  -2.953427 42.441968  -2.953379 42.442093  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812379">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952726 42.441516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952583 42.441778 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.952692 42.441516  -2.952661 42.441576  -2.952583 42.441747  -2.952726 42.441778  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812380">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953116 42.441778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952726 42.441859 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.952726 42.441778  -2.952987 42.441835  -2.953116 42.441859  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812381">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952726 42.441778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952654 42.442007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.952654 42.442007  -2.952678 42.441938  -2.952726 42.441778  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812373">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.954855 42.442593 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954720 42.443177 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.954720 42.443177  -2.954774 42.442943  -2.954837 42.442687  -2.954855 42.442593  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Tenerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.166</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800243</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812375">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955398 42.442593 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954855 42.442655 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.954855 42.442593  -2.955398 42.442655  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Serrería</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.165</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800242</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812384">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950996 42.441689 </gml:lowerCorner>
+        		<gml:upperCorner>-2.950642 42.441768 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.950996 42.441768  -2.950642 42.441689  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812385">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950642 42.441563 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949395 42.441847 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.950642 42.441689  -2.950577 42.441847  -2.950251 42.441792  -2.949906 42.441697  -2.949558 42.441606  -2.949395 42.441563  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812387">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949395 42.441563 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949282 42.441802 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.949395 42.441563  -2.949282 42.441802  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812388">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950671 42.441288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949526 42.441689 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.950642 42.441689  -2.950671 42.441615  -2.949526 42.441288  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812389">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949719 42.440883 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949526 42.441288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.949719 42.440883  -2.949526 42.441288  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812390">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949526 42.441288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949395 42.441563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.949526 42.441288  -2.949395 42.441563  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812393">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.951596 42.440540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951449 42.440706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.951571 42.440706  -2.951596 42.440556  -2.951449 42.440540  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de los Administradores de Fincas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812396">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.951449 42.440525 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951300 42.440659 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.951449 42.440540  -2.951333 42.440525  -2.951300 42.440659  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de los Administradores de Fincas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812409">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956149 42.432060 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954711 42.433540 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.956149 42.433540  -2.956022 42.433355  -2.955739 42.433063  -2.955440 42.432778  -2.955106 42.432446  -2.954800 42.432144  -2.954711 42.432060  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ollerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800046</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812412">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.954926 42.432863 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954405 42.432934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.954405 42.432863  -2.954578 42.432886  -2.954764 42.432907  -2.954926 42.432934  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Ollerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.122</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800047</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812413">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953913 42.440655 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953807 42.440877 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.953828 42.440877  -2.953884 42.440753  -2.953913 42.440693  -2.953807 42.440655  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Santo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812414">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953807 42.440632 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953544 42.440837 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.953807 42.440655  -2.953719 42.440635  -2.953644 42.440632  -2.953642 42.440734  -2.953633 42.440781  -2.953568 42.440803  -2.953544 42.440837  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Santo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1812420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.954281 42.440965 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953899 42.442159 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.954281 42.440965  -2.954266 42.441101  -2.954260 42.441158  -2.954172 42.441179  -2.954124 42.441616  -2.953899 42.442159  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cristo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.138.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613800018</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1545941">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6850,726 +7570,6 @@
         <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.138.130</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613800206</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1595051">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.950640 42.446508 </gml:lowerCorner>
-        		<gml:upperCorner>-2.950171 42.446777 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.950171 42.446777  -2.950184 42.446766  -2.950640 42.446508  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1595053">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.950260 42.446777 </gml:lowerCorner>
-        		<gml:upperCorner>-2.945639 42.450487 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.950171 42.446777  -2.950260 42.446837  -2.950102 42.446953  -2.949850 42.447148  -2.949580 42.447387  -2.949243 42.447655  -2.948932 42.447921  -2.948654 42.448139  -2.948452 42.448301  -2.948109 42.448579  -2.947817 42.448813  -2.947565 42.449015  -2.946829 42.449602  -2.946462 42.449891  -2.946234 42.450092  -2.945906 42.450356  -2.945749 42.450487  -2.945639 42.450420  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1595054">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.950171 42.446777 </gml:lowerCorner>
-        		<gml:upperCorner>-2.945639 42.450420 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.945639 42.450420  -2.950171 42.446777  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1595055">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.945639 42.450420 </gml:lowerCorner>
-        		<gml:upperCorner>-2.944988 42.450943 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.944988 42.450943  -2.945639 42.450420  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Bañares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.70</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800007</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812359">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953272 42.440940 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953121 42.441422 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.953272 42.440940  -2.953121 42.441422  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santo Domingo de Silos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800058</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812360">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953121 42.441336 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952692 42.441516 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.953121 42.441422  -2.952808 42.441336  -2.952692 42.441516  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812366">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953205 42.441422 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953116 42.441859 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.953121 42.441422  -2.953205 42.441437  -2.953116 42.441859  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812367">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953427 42.441859 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953116 42.442093 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.953116 42.441859  -2.953250 42.441883  -2.953416 42.441909  -2.953427 42.441968  -2.953379 42.442093  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812379">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952726 42.441516 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952583 42.441778 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.952692 42.441516  -2.952661 42.441576  -2.952583 42.441747  -2.952726 42.441778  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812380">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953116 42.441778 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952726 42.441859 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.952726 42.441778  -2.952987 42.441835  -2.953116 42.441859  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812381">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952726 42.441778 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952654 42.442007 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.952654 42.442007  -2.952678 42.441938  -2.952726 42.441778  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.11</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812373">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954855 42.442593 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954720 42.443177 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.954720 42.443177  -2.954774 42.442943  -2.954837 42.442687  -2.954855 42.442593  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Tenerías</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.166</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800243</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812375">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.955398 42.442593 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954855 42.442655 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.954855 42.442593  -2.955398 42.442655  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Serrería</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.165</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800242</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812384">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.950996 42.441689 </gml:lowerCorner>
-        		<gml:upperCorner>-2.950642 42.441768 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.950996 42.441768  -2.950642 42.441689  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812385">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.950642 42.441563 </gml:lowerCorner>
-        		<gml:upperCorner>-2.949395 42.441847 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.950642 42.441689  -2.950577 42.441847  -2.950251 42.441792  -2.949906 42.441697  -2.949558 42.441606  -2.949395 42.441563  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812387">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.949395 42.441563 </gml:lowerCorner>
-        		<gml:upperCorner>-2.949282 42.441802 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.949395 42.441563  -2.949282 42.441802  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812388">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.950671 42.441288 </gml:lowerCorner>
-        		<gml:upperCorner>-2.949526 42.441689 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.950642 42.441689  -2.950671 42.441615  -2.949526 42.441288  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812389">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.949719 42.440883 </gml:lowerCorner>
-        		<gml:upperCorner>-2.949526 42.441288 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.949719 42.440883  -2.949526 42.441288  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812390">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.949526 42.441288 </gml:lowerCorner>
-        		<gml:upperCorner>-2.949395 42.441563 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.949526 42.441288  -2.949395 42.441563  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.98</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800198</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812393">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.951596 42.440540 </gml:lowerCorner>
-        		<gml:upperCorner>-2.951449 42.440706 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.951571 42.440706  -2.951596 42.440556  -2.951449 42.440540  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de los Administradores de Fincas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812396">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.951449 42.440525 </gml:lowerCorner>
-        		<gml:upperCorner>-2.951300 42.440659 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.951449 42.440540  -2.951333 42.440525  -2.951300 42.440659  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza de los Administradores de Fincas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812409">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.956149 42.432060 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954711 42.433540 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.956149 42.433540  -2.956022 42.433355  -2.955739 42.433063  -2.955440 42.432778  -2.955106 42.432446  -2.954800 42.432144  -2.954711 42.432060  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Ollerías</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.29</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800046</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812412">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954926 42.432863 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954405 42.432934 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.954405 42.432863  -2.954578 42.432886  -2.954764 42.432907  -2.954926 42.432934  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Ollerías</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.122</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800047</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812413">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953913 42.440655 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953807 42.440877 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.953828 42.440877  -2.953884 42.440753  -2.953913 42.440693  -2.953807 42.440655  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Santo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812414">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.953807 42.440632 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953544 42.440837 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.953807 42.440655  -2.953719 42.440635  -2.953644 42.440632  -2.953642 42.440734  -2.953633 42.440781  -2.953568 42.440803  -2.953544 42.440837  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Santo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1812420">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954281 42.440965 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953899 42.442159 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.954281 42.440965  -2.954266 42.441101  -2.954260 42.441158  -2.954172 42.441179  -2.954124 42.441616  -2.953899 42.442159  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cristo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.8</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800018</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3681420">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.960356 42.417423 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954711 42.432060 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.960356 42.417423  -2.960324 42.417506  -2.960272 42.417641  -2.960233 42.417742  -2.960165 42.417919  -2.960124 42.418026  -2.960118 42.418042  -2.960090 42.418115  -2.959993 42.418368  -2.959971 42.418424  -2.959954 42.418469  -2.959937 42.418514  -2.959905 42.418597  -2.959897 42.418617  -2.959894 42.418624  -2.959892 42.418631  -2.959828 42.418795  -2.959818 42.418821  -2.959755 42.418984  -2.959751 42.418993  -2.959745 42.419009  -2.959730 42.419047  -2.959707 42.419107  -2.959697 42.419141  -2.959690 42.419162  -2.959655 42.419253  -2.959637 42.419299  -2.959612 42.419365  -2.959561 42.419496  -2.959487 42.419686  -2.959460 42.419758  -2.959398 42.419917  -2.959310 42.420144  -2.959285 42.420209  -2.959203 42.420420  -2.959111 42.420658  -2.959046 42.420824  -2.958987 42.420978  -2.958952 42.421067  -2.958867 42.421288  -2.958816 42.421418  -2.958794 42.421475  -2.958773 42.421530  -2.958739 42.421616  -2.958739 42.421617  -2.958676 42.421781  -2.958624 42.421916  -2.958602 42.421975  -2.958579 42.422035  -2.958547 42.422117  -2.958470 42.422318  -2.958396 42.422511  -2.958376 42.422561  -2.958271 42.422830  -2.958187 42.423046  -2.958186 42.423048  -2.958186 42.423048  -2.958085 42.423309  -2.958002 42.423524  -2.957964 42.423622  -2.957930 42.423711  -2.957862 42.423889  -2.957789 42.424076  -2.957748 42.424183  -2.957709 42.424284  -2.957646 42.424446  -2.957583 42.424612  -2.957569 42.424648  -2.957519 42.424775  -2.957468 42.424908  -2.957435 42.424995  -2.957408 42.425063  -2.957322 42.425287  -2.957275 42.425410  -2.957227 42.425534  -2.957210 42.425577  -2.957116 42.425823  -2.957010 42.426103  -2.957007 42.426111  -2.956998 42.426132  -2.956996 42.426139  -2.956977 42.426187  -2.956976 42.426190  -2.956943 42.426274  -2.956880 42.426436  -2.956814 42.426607  -2.956787 42.426676  -2.956772 42.426714  -2.956768 42.426724  -2.956758 42.426749  -2.956704 42.426891  -2.956614 42.427125  -2.956589 42.427191  -2.956580 42.427213  -2.956562 42.427261  -2.956541 42.427315  -2.956438 42.427582  -2.956387 42.427715  -2.956383 42.427726  -2.956365 42.427772  -2.956342 42.427832  -2.956323 42.427880  -2.956294 42.427956  -2.956254 42.428056  -2.956196 42.428205  -2.956151 42.428321  -2.956138 42.428355  -2.956127 42.428383  -2.956124 42.428391  -2.955969 42.428794  -2.955945 42.428857  -2.955926 42.428904  -2.955915 42.428935  -2.955862 42.429072  -2.955791 42.429257  -2.955766 42.429320  -2.955746 42.429374  -2.955681 42.429542  -2.955633 42.429666  -2.955574 42.429819  -2.955536 42.429918  -2.955527 42.429942  -2.955487 42.430045  -2.955443 42.430160  -2.955373 42.430341  -2.955303 42.430524  -2.955301 42.430529  -2.955225 42.430724  -2.955146 42.430927  -2.955146 42.430929  -2.955140 42.430944  -2.955106 42.431030  -2.955044 42.431191  -2.955015 42.431266  -2.955002 42.431300  -2.954965 42.431394  -2.954926 42.431495  -2.954915 42.431524  -2.954867 42.431647  -2.954840 42.431716  -2.954821 42.431768  -2.954794 42.431840  -2.954783 42.431868  -2.954728 42.432017  -2.954711 42.432060  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Ezcaray</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.13</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613800024</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1545982">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.947038 42.434549 </gml:lowerCorner>
-        		<gml:upperCorner>-2.945110 42.435591 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.945110 42.434549  -2.946111 42.435062  -2.947038 42.435591  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Senda de Aguilar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546148">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.945110 42.434009 </gml:lowerCorner>
-        		<gml:upperCorner>-2.944171 42.434549 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.944171 42.434009  -2.944541 42.434257  -2.945110 42.434549  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Senda de Aguilar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546149">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.947732 42.435591 </gml:lowerCorner>
-        		<gml:upperCorner>-2.947038 42.436072 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.947038 42.435591  -2.947689 42.435945  -2.947732 42.436072  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Senda de Aguilar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546043">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.939048 42.436443 </gml:lowerCorner>
-        		<gml:upperCorner>-2.934524 42.438220 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.939038 42.438220  -2.939048 42.438020  -2.939006 42.437856  -2.938923 42.437747  -2.938795 42.437661  -2.937756 42.437410  -2.936094 42.436964  -2.934956 42.436626  -2.934524 42.436443  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de los Palos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546065">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.940751 42.440256 </gml:lowerCorner>
-        		<gml:upperCorner>-2.937404 42.440830 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.940751 42.440256  -2.939889 42.440473  -2.939553 42.440604  -2.939193 42.440794  -2.938990 42.440828  -2.938852 42.440830  -2.938371 42.440761  -2.937622 42.440631  -2.937509 42.440624  -2.937404 42.440580  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Número 11</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546199">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.959807 42.440553 </gml:lowerCorner>
-        		<gml:upperCorner>-2.959001 42.440636 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.959001 42.440553  -2.959807 42.440636  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino San Francisco 6</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.113</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546186">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.959934 42.439928 </gml:lowerCorner>
-        		<gml:upperCorner>-2.959237 42.440174 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.959934 42.440174  -2.959671 42.440134  -2.959511 42.440019  -2.959237 42.439928  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino San Francisco 5</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.138.121</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546002">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.936550 42.437469 </gml:lowerCorner>
-        		<gml:upperCorner>-2.934951 42.439422 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.936550 42.439422  -2.935010 42.437612  -2.934951 42.437469  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Colada de la Mojonera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1546003">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.937404 42.439422 </gml:lowerCorner>
-        		<gml:upperCorner>-2.936550 42.440580 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.936550 42.439422  -2.937313 42.440477  -2.937404 42.440580  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Colada de la Mojonera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Santo Domingo de la Calzada</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santo Domingo de la Calzada</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

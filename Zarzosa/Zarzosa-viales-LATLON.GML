@@ -13,6 +13,26 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.3655350">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.343073 42.181131 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342473 42.181310 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.343073 42.181131  -2.343065 42.181155  -2.343056 42.181158  -2.343010 42.181177  -2.343002 42.181177  -2.342950 42.181179  -2.342938 42.181180  -2.342914 42.181181  -2.342895 42.181182  -2.342871 42.181183  -2.342856 42.181185  -2.342827 42.181189  -2.342473 42.181310  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Jazmín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Zarzosa</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Zarzosa</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.182.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2618100014</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1551119">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -430,26 +450,6 @@
         <ms:NOMBRE_MUNICIPIO>Zarzosa</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3655350">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.343073 42.181131 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342473 42.181310 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.343073 42.181131  -2.343065 42.181155  -2.343056 42.181158  -2.343010 42.181177  -2.343002 42.181177  -2.342950 42.181179  -2.342938 42.181180  -2.342914 42.181181  -2.342895 42.181182  -2.342871 42.181183  -2.342856 42.181185  -2.342827 42.181189  -2.342473 42.181310  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Jazmín</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Zarzosa</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Zarzosa</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.182.3</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2618100014</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
