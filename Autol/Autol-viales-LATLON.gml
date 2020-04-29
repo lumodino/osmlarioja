@@ -1353,26 +1353,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514271">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.007327 42.219733 </gml:lowerCorner>
-        		<gml:upperCorner>-2.007127 42.219850 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.007127 42.219733  -2.007185 42.219792  -2.007243 42.219834  -2.007327 42.219850  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Tejera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.021.65</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514375">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1383,26 +1363,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.006180 42.220590  -2.006298 42.220565  -2.006611 42.220041  -2.006761 42.219857  -2.007089 42.219778  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Tejera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.021.65</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514385">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.007127 42.219733 </gml:lowerCorner>
-        		<gml:upperCorner>-2.007089 42.219778 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.007089 42.219778  -2.007127 42.219733  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Tejera</ms:NOMBRE_COMPLETO_VIAL>
@@ -1483,26 +1443,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.006374 42.220152  -2.006263 42.220235  -2.005956 42.220663  -2.005314 42.221396  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514336">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.001191 42.214360 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999417 42.215456 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.001191 42.214360  -2.001009 42.214400  -2.000667 42.214501  -2.000463 42.214597  -2.000203 42.214740  -1.999985 42.214888  -1.999780 42.215027  -1.999554 42.215237  -1.999417 42.215418  -1.999421 42.215456  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -2302,7 +2242,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.006716 42.215186  -2.006722 42.215238  -2.006971 42.215421  -2.007013 42.215450  </gml:posList>
+            <gml:posList srsDimension="2">-2.006716 42.215186  -2.006722 42.215238  -2.006842 42.215290  -2.006958 42.215399  -2.007013 42.215450  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Posada</ms:NOMBRE_COMPLETO_VIAL>
@@ -3753,16 +3693,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514328">
+      <ms:viales gml:id="viales.1514271">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.007116 42.219778 </gml:lowerCorner>
-        		<gml:upperCorner>-2.006298 42.220991 </gml:upperCorner>
+        		<gml:lowerCorner>-2.007327 42.219733 </gml:lowerCorner>
+        		<gml:upperCorner>-2.007127 42.219850 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.007089 42.219778  -2.007116 42.219801  -2.007107 42.219847  -2.007047 42.219882  -2.006878 42.220230  -2.006946 42.220404  -2.006781 42.220835  -2.006724 42.220948  -2.006661 42.220991  -2.006306 42.220898  -2.006298 42.220865  -2.006501 42.220690  </gml:posList>
+            <gml:posList srsDimension="2">-2.007127 42.219733  -2.007185 42.219792  -2.007243 42.219834  -2.007327 42.219850  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Tejera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.021.66</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.007116 42.219778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.007047 42.219882 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.007089 42.219778  -2.007116 42.219801  -2.007107 42.219847  -2.007047 42.219882  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Tejera</ms:NOMBRE_COMPLETO_VIAL>
@@ -3783,6 +3743,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.007127 42.219733  -2.006865 42.219541  -2.006801 42.219451  -2.006944 42.219247  -2.007107 42.219094  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Tejera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.021.66</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514385">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.007127 42.219733 </gml:lowerCorner>
+        		<gml:upperCorner>-2.007089 42.219778 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.007089 42.219778  -2.007127 42.219733  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Tejera</ms:NOMBRE_COMPLETO_VIAL>
@@ -3883,6 +3863,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.001191 42.214360  -2.001766 42.214143  -2.001935 42.214051  -2.002267 42.213738  -2.002450 42.213610  -2.002906 42.213999  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Paseo de los Olmos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.021.93</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602100178</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514336">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.001191 42.214360 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999417 42.215456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.001191 42.214360  -2.001009 42.214400  -2.000667 42.214501  -2.000463 42.214597  -2.000203 42.214740  -1.999985 42.214888  -1.999780 42.215027  -1.999554 42.215237  -1.999417 42.215418  -1.999421 42.215456  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo de los Olmos</ms:NOMBRE_COMPLETO_VIAL>
@@ -4368,7 +4368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Puente Romano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.021.53</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602100152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

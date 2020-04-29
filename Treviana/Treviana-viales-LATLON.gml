@@ -2093,6 +2093,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1548377">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.051933 42.556500 </gml:lowerCorner>
+        		<gml:upperCorner>-3.051907 42.556653 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.051923 42.556653  -3.051924 42.556652  -3.051928 42.556636  -3.051933 42.556619  -3.051920 42.556565  -3.051909 42.556509  -3.051907 42.556500  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Treviana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Treviana</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.155.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2615500046</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1548378">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2537,12 +2557,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.051061 42.559219 </gml:lowerCorner>
-        		<gml:upperCorner>-3.050743 42.559299 </gml:upperCorner>
+        		<gml:upperCorner>-3.050743 42.559298 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.051061 42.559219  -3.050873 42.559299  -3.050798 42.559298  -3.050743 42.559268  </gml:posList>
+            <gml:posList srsDimension="2">-3.051061 42.559219  -3.050880 42.559283  -3.050798 42.559298  -3.050743 42.559268  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Carlos I</ms:NOMBRE_COMPLETO_VIAL>
@@ -2582,7 +2602,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.051447 42.558525  -3.051446 42.558526  -3.051422 42.558590  -3.051372 42.558703  -3.051356 42.558735  -3.051301 42.558847  -3.051221 42.558960  -3.051170 42.559032  -3.051117 42.559117  -3.051061 42.559219  </gml:posList>
+            <gml:posList srsDimension="2">-3.051447 42.558525  -3.051446 42.558526  -3.051422 42.558590  -3.051366 42.558680  -3.051345 42.558733  -3.051281 42.558854  -3.051221 42.558960  -3.051170 42.559032  -3.051117 42.559117  -3.051061 42.559219  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Carlos I</ms:NOMBRE_COMPLETO_VIAL>
@@ -3483,26 +3503,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.047995 42.560243  -3.047994 42.560245  -3.047992 42.560246  -3.047930 42.560295  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Treviana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Treviana</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.155.13</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2615500034</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1548377">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.051933 42.556500 </gml:lowerCorner>
-        		<gml:upperCorner>-3.051907 42.556653 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.051923 42.556653  -3.051924 42.556652  -3.051928 42.556636  -3.051933 42.556619  -3.051920 42.556565  -3.051909 42.556509  -3.051907 42.556500  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
