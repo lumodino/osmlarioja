@@ -16,13 +16,13 @@
       <ms:viales gml:id="viales.1532003">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.490571 42.218130 </gml:lowerCorner>
-        		<gml:upperCorner>-2.490428 42.218369 </gml:upperCorner>
+        		<gml:lowerCorner>-2.490600 42.218130 </gml:lowerCorner>
+        		<gml:upperCorner>-2.490428 42.218377 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.490571 42.218369  -2.490428 42.218130  </gml:posList>
+            <gml:posList srsDimension="2">-2.490600 42.218377  -2.490497 42.218201  -2.490428 42.218130  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Juan</ms:NOMBRE_COMPLETO_VIAL>
@@ -182,7 +182,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.490159 42.218136  -2.489733 42.218146  -2.489627 42.218202  -2.489407 42.218174  -2.489314 42.218115  -2.489286 42.218030  </gml:posList>
+            <gml:posList srsDimension="2">-2.490159 42.218136  -2.489945 42.218151  -2.489733 42.218146  -2.489627 42.218202  -2.489382 42.218176  -2.489313 42.218125  -2.489286 42.218030  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -257,12 +257,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.490107 42.217917 </gml:lowerCorner>
-        		<gml:upperCorner>-2.489286 42.218032 </gml:upperCorner>
+        		<gml:upperCorner>-2.489286 42.218042 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.489286 42.218030  -2.489769 42.218032  -2.489993 42.217979  -2.490107 42.217917  </gml:posList>
+            <gml:posList srsDimension="2">-2.489286 42.218030  -2.489453 42.218030  -2.489638 42.218042  -2.489795 42.218037  -2.489992 42.217987  -2.490107 42.217917  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
