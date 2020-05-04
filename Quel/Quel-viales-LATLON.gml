@@ -1822,7 +1822,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.054822 42.231065  -2.053726 42.231191  </gml:posList>
+            <gml:posList srsDimension="2">-2.054822 42.231065  -2.054670 42.231097  -2.054296 42.231134  -2.053726 42.231191  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Grupo Bretón de los Herreros</ms:NOMBRE_COMPLETO_VIAL>
@@ -4797,12 +4797,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.052154 42.230165 </gml:lowerCorner>
-        		<gml:upperCorner>-2.051671 42.230563 </gml:upperCorner>
+        		<gml:upperCorner>-2.051668 42.230563 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.052154 42.230563  -2.051753 42.230293  -2.051671 42.230223  -2.051677 42.230165  </gml:posList>
+            <gml:posList srsDimension="2">-2.052154 42.230563  -2.052109 42.230522  -2.051964 42.230420  -2.051754 42.230277  -2.051668 42.230214  -2.051677 42.230165  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Canalizo</ms:NOMBRE_COMPLETO_VIAL>
@@ -4842,7 +4842,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.051677 42.230165  -2.051673 42.230165  -2.051371 42.230120  -2.051071 42.230110  </gml:posList>
+            <gml:posList srsDimension="2">-2.051677 42.230165  -2.051673 42.230165  -2.051525 42.230140  -2.051410 42.230118  -2.051371 42.230120  -2.051257 42.230123  -2.051071 42.230110  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Canalizo</ms:NOMBRE_COMPLETO_VIAL>
