@@ -36,13 +36,13 @@
       <ms:viales gml:id="viales.1814729">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.049388 42.429756 </gml:lowerCorner>
-        		<gml:upperCorner>-3.049365 42.430018 </gml:upperCorner>
+        		<gml:lowerCorner>-3.049466 42.429756 </gml:lowerCorner>
+        		<gml:upperCorner>-3.049371 42.430018 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.049371 42.429756  -3.049368 42.429839  -3.049365 42.429939  -3.049365 42.429988  -3.049388 42.430018  </gml:posList>
+            <gml:posList srsDimension="2">-3.049371 42.429756  -3.049466 42.429783  -3.049406 42.429904  -3.049380 42.429964  -3.049388 42.430018  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Constitución</ms:NOMBRE_COMPLETO_VIAL>
@@ -453,6 +453,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1550393">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.094318 42.407720 </gml:lowerCorner>
+        		<gml:upperCorner>-3.093893 42.408156 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.094308 42.408156  -3.094318 42.408033  -3.094298 42.407968  -3.094199 42.407881  -3.093893 42.407720  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Cerro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quintanar de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarta-Quintana</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.175.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617400050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1550414">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -583,6 +603,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.094747 42.408191  -3.094610 42.408309  -3.094495 42.408473  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Cerro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quintanar de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarta-Quintana</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.175.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617400050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1550435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.094308 42.408156 </gml:lowerCorner>
+        		<gml:upperCorner>-3.094246 42.408396 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.094246 42.408396  -3.094308 42.408156  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Cerro</ms:NOMBRE_COMPLETO_VIAL>
@@ -993,26 +1033,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550393">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.094318 42.407720 </gml:lowerCorner>
-        		<gml:upperCorner>-3.093893 42.408156 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.094308 42.408156  -3.094318 42.408033  -3.094298 42.407968  -3.094199 42.407881  -3.093893 42.407720  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Quintanar de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villarta-Quintana</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617400051</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1550412">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1023,26 +1043,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.094747 42.408191  -3.094611 42.408141  -3.094495 42.408132  -3.094308 42.408156  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Quintanar de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villarta-Quintana</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617400051</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1550435">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.094308 42.408156 </gml:lowerCorner>
-        		<gml:upperCorner>-3.094246 42.408396 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.094246 42.408396  -3.094308 42.408156  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -1642,7 +1642,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.092890 42.409317  -3.092689 42.409237  -3.092592 42.409161  -3.092548 42.409057  -3.092570 42.408982  </gml:posList>
+            <gml:posList srsDimension="2">-3.092890 42.409317  -3.092802 42.409270  -3.092689 42.409219  -3.092592 42.409161  -3.092548 42.409057  -3.092570 42.408982  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Molino</ms:NOMBRE_COMPLETO_VIAL>
