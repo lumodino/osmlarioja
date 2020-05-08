@@ -53,46 +53,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1547400">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428844 42.300855 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428553 42.301343 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428553 42.301343  -2.428583 42.301313  -2.428750 42.301085  -2.428777 42.301021  -2.428844 42.300855  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.146.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614600041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1547433">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428389 42.300628 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428229 42.300948 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428229 42.300628  -2.428302 42.300716  -2.428348 42.300790  -2.428370 42.300871  -2.428389 42.300948  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.146.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614600041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1547434">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -176,13 +136,13 @@
       <ms:viales gml:id="viales.1547477">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428164 42.301189 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428019 42.301613 </gml:upperCorner>
+        		<gml:lowerCorner>-2.428164 42.301190 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428016 42.301613 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428164 42.301613  -2.428057 42.301550  -2.428019 42.301442  -2.428026 42.301312  -2.428030 42.301189  </gml:posList>
+            <gml:posList srsDimension="2">-2.428164 42.301613  -2.428057 42.301550  -2.428046 42.301401  -2.428045 42.301346  -2.428026 42.301312  -2.428016 42.301190  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -303,86 +263,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.428018 42.300689  -2.427816 42.300416  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.146.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614600041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1547485">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428719 42.300683 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428523 42.301343 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428523 42.300683  -2.428680 42.300801  -2.428719 42.300943  -2.428719 42.301015  -2.428684 42.301103  -2.428619 42.301195  -2.428553 42.301343  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.146.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614600041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1547486">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428407 42.300948 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428365 42.301496 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428389 42.300948  -2.428407 42.301021  -2.428392 42.301198  -2.428365 42.301496  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.146.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614600041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1547487">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428365 42.301496 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428164 42.301613 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428164 42.301613  -2.428339 42.301514  -2.428365 42.301496  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.146.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614600041</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1547530">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428553 42.301343 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428365 42.301496 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428365 42.301496  -2.428475 42.301420  -2.428553 42.301343  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -536,13 +416,13 @@
       <ms:viales gml:id="viales.1547473">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428056 42.301646 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.428065 42.301646 </gml:lowerCorner>
         		<gml:upperCorner>-2.428042 42.301963 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428053 42.301646  -2.428056 42.301829  -2.428042 42.301963  </gml:posList>
+            <gml:posList srsDimension="2">-2.428053 42.301646  -2.428065 42.301806  -2.428052 42.301938  -2.428042 42.301963  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Collado</ms:NOMBRE_COMPLETO_VIAL>
@@ -562,7 +442,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.428042 42.301963  -2.428195 42.301941  -2.428429 42.301879  </gml:posList>
+            <gml:posList srsDimension="2">-2.428042 42.301963  -2.428088 42.301946  -2.428190 42.301932  -2.428429 42.301879  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Collado</ms:NOMBRE_COMPLETO_VIAL>
@@ -1028,7 +908,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Virgen del Monte</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.146.64</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614600043</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2362,7 +2242,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.424881 42.286529  -2.424832 42.286527  -2.424709 42.286503  -2.424642 42.286476  -2.424498 42.286332  -2.424378 42.286284  -2.424328 42.286226  -2.424272 42.286058  </gml:posList>
+            <gml:posList srsDimension="2">-2.424881 42.286529  -2.424832 42.286527  -2.424709 42.286503  -2.424642 42.286476  -2.424498 42.286332  -2.424378 42.286284  -2.424342 42.286268  -2.424303 42.286197  -2.424274 42.286118  -2.424272 42.286058  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pedro Mazo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2457,12 +2337,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.424272 42.285539 </gml:lowerCorner>
-        		<gml:upperCorner>-2.424193 42.286058 </gml:upperCorner>
+        		<gml:upperCorner>-2.424175 42.286058 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.424193 42.285539  -2.424231 42.285705  -2.424204 42.285868  -2.424219 42.285985  -2.424272 42.286058  </gml:posList>
+            <gml:posList srsDimension="2">-2.424193 42.285539  -2.424231 42.285705  -2.424179 42.285865  -2.424175 42.285927  -2.424211 42.286004  -2.424272 42.286058  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pedro Mazo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2897,12 +2777,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.425295 42.285994 </gml:lowerCorner>
-        		<gml:upperCorner>-2.424662 42.286083 </gml:upperCorner>
+        		<gml:upperCorner>-2.424671 42.286088 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.425295 42.285994  -2.424961 42.286033  -2.424662 42.286083  </gml:posList>
+            <gml:posList srsDimension="2">-2.425295 42.285994  -2.424958 42.286048  -2.424791 42.286073  -2.424671 42.286088  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Vallejo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3010,6 +2890,126 @@
         <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1547400">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.428844 42.300855 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428553 42.301343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.428553 42.301343  -2.428583 42.301313  -2.428750 42.301085  -2.428777 42.301021  -2.428844 42.300855  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.146.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614600055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1547433">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.428389 42.300628 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428229 42.300948 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.428229 42.300628  -2.428302 42.300716  -2.428348 42.300790  -2.428370 42.300871  -2.428389 42.300948  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.146.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614600055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1547485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.428719 42.300683 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428523 42.301343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.428523 42.300683  -2.428680 42.300801  -2.428719 42.300943  -2.428719 42.301015  -2.428684 42.301103  -2.428619 42.301195  -2.428553 42.301343  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.146.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614600055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1547486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.428407 42.300948 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428365 42.301496 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.428389 42.300948  -2.428407 42.301021  -2.428392 42.301198  -2.428365 42.301496  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.146.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614600055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1547487">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.428365 42.301496 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428164 42.301613 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.428164 42.301613  -2.428339 42.301514  -2.428365 42.301496  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.146.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614600055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1547530">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.428553 42.301343 </gml:lowerCorner>
+        		<gml:upperCorner>-2.428365 42.301496 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.428365 42.301496  -2.428475 42.301420  -2.428553 42.301343  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Trevijano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Soto en Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.146.67</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614600055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

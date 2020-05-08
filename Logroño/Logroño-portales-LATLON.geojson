@@ -1,0 +1,8 @@
+﻿{
+"type": "FeatureCollection",
+"name": "portales",
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "portales.327986", "NOMBRE_COMPLETO_VIAL": "Calle La Portalada", "NUMERO_POLICIA": "48", "CODIGO_POSTAL": "26006", "NOMBRE_POBLAMIENTO": "Varea", "NOMBRE_MUNICIPIO": "Logroño" }, "geometry": { "type": "Point", "coordinates": [ -2.403918, 42.459369 ] } }
+]
+}
+

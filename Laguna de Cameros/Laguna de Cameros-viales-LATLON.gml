@@ -2188,7 +2188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Laguna de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Laguna de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.082.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608200024</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
