@@ -16,13 +16,13 @@
       <ms:viales gml:id="viales.3613677">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.718822 42.400251 </gml:lowerCorner>
-        		<gml:upperCorner>-2.718619 42.400314 </gml:upperCorner>
+        		<gml:lowerCorner>-2.718898 42.400077 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718626 42.400215 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.718822 42.400314  -2.718619 42.400251  </gml:posList>
+            <gml:posList srsDimension="2">-2.718898 42.400215  -2.718626 42.400077  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino B</ms:NOMBRE_COMPLETO_VIAL>
@@ -48,41 +48,21 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Logroño</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.157.35</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615700069</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3642439">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.719077 42.402554 </gml:lowerCorner>
-        		<gml:upperCorner>-2.719049 42.402682 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.719077 42.402682  -2.719049 42.402554  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Bajada Horca</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.157.17</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
       <ms:viales gml:id="viales.3642440">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.719102 42.402682 </gml:lowerCorner>
-        		<gml:upperCorner>-2.719077 42.402872 </gml:upperCorner>
+        		<gml:lowerCorner>-2.719102 42.402554 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719049 42.402872 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.719102 42.402872  -2.719082 42.402706  -2.719077 42.402682  </gml:posList>
+            <gml:posList srsDimension="2">-2.719102 42.402872  -2.719082 42.402839  -2.719082 42.402706  -2.719054 42.402610  -2.719049 42.402554  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Bajada Horca</ms:NOMBRE_COMPLETO_VIAL>
@@ -396,33 +376,13 @@
       <ms:viales gml:id="viales.3613675">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.718822 42.400314 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.718884 42.400238 </gml:lowerCorner>
         		<gml:upperCorner>-2.718674 42.400532 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.718674 42.400532  -2.718675 42.400529  -2.718822 42.400314  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Óscar Sáenz de Santa María</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.157.23</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2615700059</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3613676">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.718884 42.400238 </gml:lowerCorner>
-        		<gml:upperCorner>-2.718822 42.400314 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.718822 42.400314  -2.718838 42.400291  -2.718884 42.400238  </gml:posList>
+            <gml:posList srsDimension="2">-2.718674 42.400532  -2.718675 42.400529  -2.718772 42.400383  -2.718825 42.400311  -2.718884 42.400238  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Óscar Sáenz de Santa María</ms:NOMBRE_COMPLETO_VIAL>
@@ -537,12 +497,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.720056 42.400128 </gml:lowerCorner>
-        		<gml:upperCorner>-2.718884 42.400238 </gml:upperCorner>
+        		<gml:upperCorner>-2.718898 42.400215 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.718884 42.400238  -2.718926 42.400191  -2.719085 42.400128  -2.720056 42.400155  </gml:posList>
+            <gml:posList srsDimension="2">-2.718898 42.400215  -2.718938 42.400185  -2.718999 42.400161  -2.719085 42.400128  -2.720056 42.400155  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
@@ -603,6 +563,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.720414 42.400579  -2.720665 42.400629  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.157.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2615700056</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3613676">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.718898 42.400215 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718884 42.400238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.718884 42.400238  -2.718898 42.400215  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
@@ -702,7 +682,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.709936 42.408252  -2.709464 42.408296  -2.708460 42.408360  -2.707600 42.408471  -2.706977 42.408461  -2.706666 42.408447  -2.706427 42.408415  -2.706121 42.408409  -2.705352 42.408443  </gml:posList>
+            <gml:posList srsDimension="2">-2.709936 42.408252  -2.709464 42.408296  -2.709009 42.408347  -2.708460 42.408360  -2.707600 42.408471  -2.706977 42.408461  -2.706666 42.408447  -2.706339 42.408431  -2.705973 42.408434  -2.705664 42.408453  -2.705352 42.408443  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Tejera</ms:NOMBRE_COMPLETO_VIAL>
@@ -1156,13 +1136,13 @@
       <ms:viales gml:id="viales.1548440">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.715033 42.403772 </gml:lowerCorner>
-        		<gml:upperCorner>-2.714602 42.404021 </gml:upperCorner>
+        		<gml:lowerCorner>-2.715033 42.403786 </gml:lowerCorner>
+        		<gml:upperCorner>-2.714629 42.404021 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.715033 42.404021  -2.715031 42.404020  -2.715004 42.404004  -2.714924 42.403958  -2.714704 42.403828  -2.714629 42.403786  -2.714602 42.403772  </gml:posList>
+            <gml:posList srsDimension="2">-2.715033 42.404021  -2.715031 42.404020  -2.715004 42.404004  -2.714924 42.403958  -2.714704 42.403828  -2.714629 42.403786  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Grupo Eugenio Fernández</ms:NOMBRE_COMPLETO_VIAL>
@@ -1176,13 +1156,13 @@
       <ms:viales gml:id="viales.1548463">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.714839 42.403989 </gml:lowerCorner>
-        		<gml:upperCorner>-2.714459 42.404209 </gml:upperCorner>
+        		<gml:lowerCorner>-2.714839 42.404001 </gml:lowerCorner>
+        		<gml:upperCorner>-2.714429 42.404209 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.714839 42.404209  -2.714590 42.404049  -2.714459 42.403989  </gml:posList>
+            <gml:posList srsDimension="2">-2.714839 42.404209  -2.714698 42.404143  -2.714554 42.404069  -2.714429 42.404001  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Grupo Eugenio Fernández</ms:NOMBRE_COMPLETO_VIAL>
@@ -1722,7 +1702,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.719451 42.402382  -2.718875 42.402205  -2.718404 42.402119  -2.718129 42.402055  </gml:posList>
+            <gml:posList srsDimension="2">-2.719451 42.402382  -2.719360 42.402334  -2.719191 42.402293  -2.718875 42.402205  -2.718614 42.402167  -2.718482 42.402147  -2.718389 42.402132  -2.718129 42.402055  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castellano</ms:NOMBRE_COMPLETO_VIAL>
@@ -1828,7 +1808,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Alesón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.157.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615700044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1848,7 +1828,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Alesón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.157.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615700044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1868,7 +1848,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Alesón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.157.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2615700044</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
