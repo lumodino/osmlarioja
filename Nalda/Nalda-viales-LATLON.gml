@@ -2262,7 +2262,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.515984 42.323896  -2.515676 42.324162  -2.515619 42.324192  -2.515564 42.324168  </gml:posList>
+            <gml:posList srsDimension="2">-2.515984 42.323896  -2.515927 42.323954  -2.515794 42.324047  -2.515675 42.324151  -2.515619 42.324192  -2.515564 42.324168  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -2356,13 +2356,13 @@
       <ms:viales gml:id="viales.1535739">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516307 42.323341 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.516307 42.323333 </gml:lowerCorner>
         		<gml:upperCorner>-2.516057 42.323345 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516057 42.323345  -2.516307 42.323341  </gml:posList>
+            <gml:posList srsDimension="2">-2.516057 42.323345  -2.516114 42.323333  -2.516307 42.323341  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -2376,13 +2376,13 @@
       <ms:viales gml:id="viales.1535740">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516269 42.323484 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.516269 42.323478 </gml:lowerCorner>
         		<gml:upperCorner>-2.516052 42.323485 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516052 42.323485  -2.516269 42.323484  </gml:posList>
+            <gml:posList srsDimension="2">-2.516052 42.323485  -2.516098 42.323478  -2.516269 42.323484  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -3037,12 +3037,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.487471 42.334755 </gml:lowerCorner>
-        		<gml:upperCorner>-2.487404 42.335124 </gml:upperCorner>
+        		<gml:upperCorner>-2.487403 42.335124 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487418 42.335124  -2.487404 42.335024  -2.487471 42.334755  </gml:posList>
+            <gml:posList srsDimension="2">-2.487418 42.335124  -2.487403 42.335105  -2.487404 42.335024  -2.487471 42.334755  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barrio Umbrío</ms:NOMBRE_COMPLETO_VIAL>
@@ -3713,86 +3713,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535716">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516873 42.324073 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516396 42.324237 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516873 42.324237  -2.516742 42.324181  -2.516396 42.324073  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.104.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610300072</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535769">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516396 42.324073 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516042 42.324353 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516396 42.324073  -2.516042 42.324353  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.104.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610300072</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535781">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516396 42.323956 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516246 42.324073 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516396 42.324073  -2.516347 42.324012  -2.516246 42.323956  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.104.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610300072</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535782">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516246 42.323956 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516046 42.323962 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516246 42.323956  -2.516046 42.323962  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.104.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610300072</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535784">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3843,26 +3763,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.516233 42.323889  -2.516143 42.323785  -2.516042 42.323567  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.104.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610300072</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1535820">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516042 42.324353 </gml:lowerCorner>
-        		<gml:upperCorner>-2.515644 42.324704 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.515644 42.324704  -2.515862 42.324540  -2.515905 42.324488  -2.515975 42.324462  -2.516038 42.324409  -2.516042 42.324353  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -4068,7 +3968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Escuelas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.104.46</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610300074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4802,7 +4702,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.515245 42.323534  -2.515157 42.323673  -2.515042 42.323846  -2.514808 42.324059  -2.514637 42.324202  -2.514484 42.324447  -2.514559 42.324496  -2.514508 42.324608  -2.514149 42.324842  -2.513903 42.324932  -2.513610 42.325066  -2.513371 42.325180  -2.513119 42.325237  -2.512843 42.325259  -2.512696 42.325243  </gml:posList>
+            <gml:posList srsDimension="2">-2.515245 42.323534  -2.515191 42.323596  -2.515110 42.323652  -2.515016 42.323722  -2.514971 42.323813  -2.514909 42.323904  -2.514845 42.324004  -2.514747 42.324079  -2.514673 42.324133  -2.514591 42.324221  -2.514484 42.324447  -2.514559 42.324496  -2.514508 42.324608  -2.514149 42.324842  -2.513903 42.324932  -2.513610 42.325066  -2.513371 42.325180  -2.513119 42.325237  -2.512843 42.325259  -2.512696 42.325243  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Presa</ms:NOMBRE_COMPLETO_VIAL>
@@ -4953,6 +4853,86 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1535716">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.516873 42.324073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516396 42.324237 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.516873 42.324237  -2.516742 42.324181  -2.516396 42.324073  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535769">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.516396 42.324073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516042 42.324353 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.516396 42.324073  -2.516042 42.324353  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535781">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.516396 42.323956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516246 42.324073 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.516396 42.324073  -2.516347 42.324012  -2.516246 42.323956  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535782">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.516246 42.323956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516046 42.323962 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.516246 42.323956  -2.516046 42.323962  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1535818">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4968,7 +4948,27 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.104.34</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535820">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.516042 42.324353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.515644 42.324704 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.515644 42.324704  -2.515862 42.324540  -2.515905 42.324488  -2.515975 42.324462  -2.516038 42.324409  -2.516042 42.324353  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.34</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5190,6 +5190,26 @@
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.104.98</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610300110</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4196176">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.488383 42.334514 </gml:lowerCorner>
+        		<gml:upperCorner>-2.488139 42.334580 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.488372 42.334580  -2.488383 42.334544  -2.488229 42.334517  -2.488139 42.334514  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plazuela Celemín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

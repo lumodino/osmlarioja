@@ -73,6 +73,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4196270">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.718229 42.401005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.717772 42.401017 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.718229 42.401012  -2.718168 42.401016  -2.718015 42.401017  -2.717772 42.401005  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Callejón C</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1548420">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -736,13 +756,13 @@
       <ms:viales gml:id="viales.1548427">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.718290 42.399932 </gml:lowerCorner>
-        		<gml:upperCorner>-2.718160 42.401117 </gml:upperCorner>
+        		<gml:lowerCorner>-2.718229 42.399932 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718160 42.401012 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.718213 42.399932  -2.718160 42.400741  -2.718203 42.400969  -2.718290 42.401117  </gml:posList>
+            <gml:posList srsDimension="2">-2.718213 42.399932  -2.718160 42.400741  -2.718203 42.400969  -2.718229 42.401012  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Salera</ms:NOMBRE_COMPLETO_VIAL>
@@ -763,6 +783,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.718290 42.401117  -2.718310 42.401168  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Salera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.157.27</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2615700055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4196269">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.718290 42.401012 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718229 42.401117 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.718290 42.401117  -2.718248 42.401033  -2.718229 42.401012  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Salera</ms:NOMBRE_COMPLETO_VIAL>
