@@ -3673,6 +3673,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1559874">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.069754 42.332627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069620 42.332750 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.069754 42.332627  -2.069620 42.332750  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.117.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611700018</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1559875">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6656,13 +6676,13 @@
       <ms:viales gml:id="viales.1539656">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.071343 42.332627 </gml:lowerCorner>
-        		<gml:upperCorner>-2.069754 42.333411 </gml:upperCorner>
+        		<gml:lowerCorner>-2.071343 42.332764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.070122 42.333411 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.069754 42.332627  -2.070096 42.332753  -2.070624 42.332942  -2.070970 42.333136  -2.071343 42.333411  </gml:posList>
+            <gml:posList srsDimension="2">-2.070122 42.332764  -2.070624 42.332942  -2.070970 42.333136  -2.071343 42.333411  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -6676,33 +6696,13 @@
       <ms:viales gml:id="viales.1559873">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.071343 42.332750 </gml:lowerCorner>
-        		<gml:upperCorner>-2.069620 42.333422 </gml:upperCorner>
+        		<gml:lowerCorner>-2.071343 42.332879 </gml:lowerCorner>
+        		<gml:upperCorner>-2.070054 42.333422 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.071343 42.333411  -2.071218 42.333422  -2.071109 42.333383  -2.070896 42.333252  -2.070674 42.333091  -2.070517 42.333040  -2.070133 42.332902  -2.069756 42.332782  -2.069620 42.332750  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.117.52</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611700123</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559874">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.069620 42.332650 </gml:lowerCorner>
-        		<gml:upperCorner>-2.069603 42.332750 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.069603 42.332650  -2.069620 42.332750  </gml:posList>
+            <gml:posList srsDimension="2">-2.071343 42.333411  -2.071218 42.333422  -2.071109 42.333383  -2.070896 42.333252  -2.070674 42.333091  -2.070517 42.333040  -2.070133 42.332902  -2.070054 42.332879  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -7830,6 +7830,66 @@
         <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611700143</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4198709">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.070054 42.332750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069620 42.332879 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.070054 42.332879  -2.069892 42.332830  -2.069713 42.332781  -2.069620 42.332750  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.117.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4198710">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.070122 42.332627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069754 42.332764 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.070122 42.332764  -2.069922 42.332698  -2.069754 42.332627  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.117.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4198711">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.070122 42.332764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.070054 42.332879 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.070054 42.332879  -2.070122 42.332764  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.117.78</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
