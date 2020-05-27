@@ -1285,7 +1285,7 @@
             <gml:posList srsDimension="2">-2.796722 42.299196  -2.796037 42.299546  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Callejón Huertas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Huertas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.31</ms:COD_CATASTRAL_VIAL>

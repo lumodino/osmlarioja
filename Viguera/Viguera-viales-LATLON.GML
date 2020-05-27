@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.567990 42.289646 </gml:lowerCorner>
-      		<gml:upperCorner>-2.530943 42.311470 </gml:upperCorner>
+      		<gml:upperCorner>-2.530145 42.311470 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1533,26 +1533,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1549186">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.531962 42.308048 </gml:lowerCorner>
-        		<gml:upperCorner>-2.530943 42.308067 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.531962 42.308049  -2.531955 42.308049  -2.531913 42.308049  -2.531885 42.308049  -2.531837 42.308049  -2.531774 42.308048  -2.531734 42.308048  -2.531703 42.308049  -2.531674 42.308049  -2.531672 42.308049  -2.531670 42.308049  -2.531564 42.308055  -2.531527 42.308057  -2.531363 42.308065  -2.531354 42.308066  -2.531271 42.308066  -2.531196 42.308067  -2.531165 42.308066  -2.531077 42.308065  -2.531074 42.308065  -2.531021 42.308064  -2.530960 42.308062  -2.530960 42.308062  -2.530943 42.308061  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Calzada</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Viguera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.165.4</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616500046</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1549187">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1776,53 +1756,13 @@
       <ms:viales gml:id="viales.1549195">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.533061 42.307898 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.533064 42.307808 </gml:lowerCorner>
         		<gml:upperCorner>-2.532781 42.308138 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.532781 42.308138  -2.532835 42.308088  -2.532883 42.308043  -2.532940 42.308005  -2.533061 42.307898  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Redajo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Viguera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.165.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616500057</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1549266">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.533061 42.307800 </gml:lowerCorner>
-        		<gml:upperCorner>-2.533052 42.307898 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.533061 42.307898  -2.533052 42.307800  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Redajo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Viguera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.165.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2616500057</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1549267">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.533476 42.306826 </gml:lowerCorner>
-        		<gml:upperCorner>-2.533011 42.307800 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.533052 42.307800  -2.533011 42.307702  -2.533052 42.307504  -2.533209 42.307062  -2.533308 42.306924  -2.533476 42.306826  </gml:posList>
+            <gml:posList srsDimension="2">-2.532781 42.308138  -2.532835 42.308088  -2.532883 42.308043  -2.532940 42.308005  -2.533001 42.307946  -2.533064 42.307893  -2.533043 42.307853  -2.533026 42.307808  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Redajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2770,6 +2710,46 @@
         <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.165.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2616500061</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1549186">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.531962 42.307926 </gml:lowerCorner>
+        		<gml:upperCorner>-2.530145 42.308067 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.531962 42.308049  -2.531955 42.308049  -2.531913 42.308049  -2.531885 42.308049  -2.531837 42.308049  -2.531774 42.308048  -2.531734 42.308048  -2.531703 42.308049  -2.531674 42.308049  -2.531672 42.308049  -2.531670 42.308049  -2.531564 42.308055  -2.531527 42.308057  -2.531451 42.308061  -2.531358 42.308064  -2.531271 42.308066  -2.531196 42.308067  -2.531165 42.308066  -2.531077 42.308065  -2.531074 42.308065  -2.531021 42.308064  -2.530960 42.308062  -2.530960 42.308062  -2.530856 42.308056  -2.530765 42.308050  -2.530681 42.308045  -2.530557 42.308022  -2.530475 42.308006  -2.530383 42.307987  -2.530217 42.307946  -2.530145 42.307926  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino la Calzada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Viguera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.165.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1549267">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533476 42.306826 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533018 42.307808 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.533026 42.307808  -2.533018 42.307737  -2.533021 42.307620  -2.533052 42.307504  -2.533209 42.307062  -2.533308 42.306924  -2.533476 42.306826  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Redajo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Viguera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.165.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
