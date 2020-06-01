@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.929303 42.539596 </gml:lowerCorner>
-      		<gml:upperCorner>-2.901682 42.553659 </gml:upperCorner>
+      		<gml:lowerCorner>-2.929303 42.536628 </gml:lowerCorner>
+      		<gml:upperCorner>-2.901411 42.553659 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -936,13 +936,13 @@
       <ms:viales gml:id="viales.1517289">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.913574 42.543285 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.917557 42.536628 </gml:lowerCorner>
         		<gml:upperCorner>-2.913100 42.544060 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.913574 42.543285  -2.913100 42.544060  </gml:posList>
+            <gml:posList srsDimension="2">-2.917557 42.536628  -2.917438 42.536930  -2.917301 42.537156  -2.917157 42.537392  -2.917023 42.537615  -2.916884 42.537852  -2.916736 42.538097  -2.916612 42.538320  -2.916467 42.538544  -2.916308 42.538802  -2.916216 42.538959  -2.916085 42.539178  -2.915942 42.539413  -2.915778 42.539680  -2.915649 42.539902  -2.915544 42.540079  -2.915413 42.540277  -2.915253 42.540546  -2.915079 42.540825  -2.914931 42.541058  -2.914827 42.541233  -2.914697 42.541448  -2.914524 42.541727  -2.914375 42.541973  -2.914189 42.542268  -2.914063 42.542483  -2.913897 42.542755  -2.913728 42.543032  -2.913567 42.543297  -2.913322 42.543699  -2.913100 42.544060  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -1236,13 +1236,13 @@
       <ms:viales gml:id="viales.1517482">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.911609 42.547280 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.911523 42.547380 </gml:lowerCorner>
         		<gml:upperCorner>-2.911073 42.547908 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.911073 42.547908  -2.911609 42.547280  </gml:posList>
+            <gml:posList srsDimension="2">-2.911073 42.547908  -2.911199 42.547763  -2.911346 42.547595  -2.911523 42.547380  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -1403,6 +1403,86 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.910772 42.548391  -2.910863 42.548235  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casalarreina</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Casalarreina</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.042.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604200097</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4201216">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.905481 42.549914 </gml:lowerCorner>
+        		<gml:upperCorner>-2.904282 42.549939 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.905481 42.549914  -2.905103 42.549923  -2.904652 42.549932  -2.904282 42.549939  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casalarreina</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Casalarreina</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.042.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604200097</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4201217">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.905481 42.549914 </gml:lowerCorner>
+        		<gml:upperCorner>-2.901682 42.552641 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.905481 42.549914  -2.905369 42.549968  -2.905129 42.550073  -2.904759 42.550238  -2.904535 42.550352  -2.904368 42.550453  -2.904071 42.550653  -2.903761 42.550875  -2.903507 42.551072  -2.903176 42.551307  -2.902858 42.551532  -2.902655 42.551694  -2.902438 42.551901  -2.902255 42.552090  -2.902043 42.552307  -2.901801 42.552527  -2.901682 42.552641  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casalarreina</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Casalarreina</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.042.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604200097</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4201218">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.901682 42.552641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.901411 42.552861 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.901682 42.552641  -2.901548 42.552750  -2.901411 42.552861  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Casalarreina</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Casalarreina</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.042.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604200097</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4201219">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911609 42.547280 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911523 42.547380 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.911609 42.547280  -2.911523 42.547380  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -3156,13 +3236,13 @@
       <ms:viales gml:id="viales.1517481">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.911609 42.547280 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.911523 42.547313 </gml:lowerCorner>
         		<gml:upperCorner>-2.910801 42.547394 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.910801 42.547313  -2.911079 42.547394  -2.911337 42.547385  -2.911609 42.547280  </gml:posList>
+            <gml:posList srsDimension="2">-2.910801 42.547313  -2.911079 42.547394  -2.911337 42.547385  -2.911523 42.547380  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Doctor Palacios</ms:NOMBRE_COMPLETO_VIAL>

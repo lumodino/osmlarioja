@@ -5616,13 +5616,13 @@
       <ms:viales gml:id="viales.1558365">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.326323 42.401524 </gml:lowerCorner>
-        		<gml:upperCorner>-2.325571 42.401971 </gml:upperCorner>
+        		<gml:lowerCorner>-2.326321 42.401524 </gml:lowerCorner>
+        		<gml:upperCorner>-2.325571 42.401946 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.325571 42.401524  -2.325645 42.401555  -2.325769 42.401633  -2.325978 42.401783  -2.326210 42.401909  -2.326323 42.401971  </gml:posList>
+            <gml:posList srsDimension="2">-2.325571 42.401524  -2.325645 42.401555  -2.325705 42.401571  -2.325799 42.401628  -2.325991 42.401755  -2.326144 42.401840  -2.326321 42.401946  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Salceda</ms:NOMBRE_COMPLETO_VIAL>

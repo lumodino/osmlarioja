@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.182641 42.184126 </gml:lowerCorner>
-      		<gml:upperCorner>-2.176487 42.191204 </gml:upperCorner>
+      		<gml:upperCorner>-2.176402 42.191204 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -2416,13 +2416,13 @@
       <ms:viales gml:id="viales.1539804">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.177731 42.188079 </gml:lowerCorner>
-        		<gml:upperCorner>-2.176487 42.188210 </gml:upperCorner>
+        		<gml:lowerCorner>-2.177731 42.188071 </gml:lowerCorner>
+        		<gml:upperCorner>-2.176402 42.188210 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.176487 42.188079  -2.177665 42.188180  -2.177731 42.188210  </gml:posList>
+            <gml:posList srsDimension="2">-2.176402 42.188071  -2.176586 42.188086  -2.176818 42.188110  -2.177144 42.188133  -2.177439 42.188162  -2.177665 42.188180  -2.177731 42.188210  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Arnedo</ms:NOMBRE_COMPLETO_VIAL>

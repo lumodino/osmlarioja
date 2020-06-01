@@ -505,10 +505,10 @@
             <gml:posList srsDimension="2">-2.676610 42.392313  -2.676444 42.392342  -2.676321 42.392338  -2.676141 42.392316  -2.675989 42.392297  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de Nájera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de Nájera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.092.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.092.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
