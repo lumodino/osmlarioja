@@ -1316,13 +1316,13 @@
       <ms:viales gml:id="viales.1539325">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.069590 42.334252 </gml:lowerCorner>
-        		<gml:upperCorner>-2.069151 42.334437 </gml:upperCorner>
+        		<gml:lowerCorner>-2.069559 42.334252 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069151 42.334423 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.069590 42.334437  -2.069151 42.334252  </gml:posList>
+            <gml:posList srsDimension="2">-2.069559 42.334423  -2.069151 42.334252  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -1523,6 +1523,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.068544 42.334025  -2.068778 42.334114  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.117.25</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611700024</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4203193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.069590 42.334423 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069559 42.334437 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.069559 42.334423  -2.069590 42.334437  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -7316,13 +7336,33 @@
       <ms:viales gml:id="viales.1539558">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.069785 42.333821 </gml:lowerCorner>
-        		<gml:upperCorner>-2.069665 42.334257 </gml:upperCorner>
+        		<gml:lowerCorner>-2.069817 42.333945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069648 42.334278 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.069665 42.334257  -2.069779 42.334022  -2.069785 42.333821  </gml:posList>
+            <gml:posList srsDimension="2">-2.069648 42.334278  -2.069717 42.334153  -2.069779 42.334022  -2.069817 42.333945  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.117.79</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611700141</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4203192">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.069648 42.334278 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069559 42.334423 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.069648 42.334278  -2.069608 42.334345  -2.069559 42.334423  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Mayor</ms:NOMBRE_COMPLETO_VIAL>

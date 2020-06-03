@@ -265,7 +265,7 @@
             <gml:posList srsDimension="2">-2.750961 42.501051  -2.750662 42.501011  -2.749675 42.500638  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Pecho Saturnito</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Pecho Saturnino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.129.29</ms:COD_CATASTRAL_VIAL>
@@ -3957,12 +3957,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.748498 42.498647 </gml:lowerCorner>
-        		<gml:upperCorner>-2.747766 42.498799 </gml:upperCorner>
+        		<gml:upperCorner>-2.747766 42.498803 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.748498 42.498647  -2.748318 42.498728  -2.748208 42.498763  -2.747922 42.498788  -2.747766 42.498799  </gml:posList>
+            <gml:posList srsDimension="2">-2.748498 42.498647  -2.748318 42.498728  -2.748208 42.498763  -2.747918 42.498803  -2.747766 42.498799  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Cruz</ms:NOMBRE_COMPLETO_VIAL>
@@ -4628,7 +4628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cofradía de la Santa Vera Cruz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4648,7 +4648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cofradía de la Santa Vera Cruz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4668,7 +4668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cofradía de la Santa Vera Cruz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4688,7 +4688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cofradía de la Santa Vera Cruz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5328,7 +5328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5348,7 +5348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5368,7 +5368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5388,7 +5388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5408,7 +5408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5428,7 +5428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5448,7 +5448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle de los Danzadores</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.129.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612900100</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5685,7 +5685,7 @@
             <gml:posList srsDimension="2">-2.751434 42.502239  -2.752537 42.501685  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Pecho de las Cuevas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuesta de las Cuevas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.129.51</ms:COD_CATASTRAL_VIAL>
