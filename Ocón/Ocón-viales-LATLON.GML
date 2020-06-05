@@ -336,13 +336,13 @@
       <ms:viales gml:id="viales.1537486">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.202143 42.310117 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.202143 42.310104 </gml:lowerCorner>
         		<gml:upperCorner>-2.201645 42.310138 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.202143 42.310135  -2.201798 42.310117  -2.201647 42.310137  -2.201645 42.310138  </gml:posList>
+            <gml:posList srsDimension="2">-2.202143 42.310135  -2.201771 42.310104  -2.201647 42.310137  -2.201645 42.310138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Costera Real</ms:NOMBRE_COMPLETO_VIAL>

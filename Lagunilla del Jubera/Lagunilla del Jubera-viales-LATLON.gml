@@ -13,16 +13,16 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1532198">
+      <ms:viales gml:id="viales.1532190">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.320140 42.334984 </gml:lowerCorner>
-        		<gml:upperCorner>-2.319264 42.335861 </gml:upperCorner>
+        		<gml:lowerCorner>-2.320140 42.334858 </gml:lowerCorner>
+        		<gml:upperCorner>-2.319349 42.335810 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.319264 42.334984  -2.319399 42.335039  -2.319505 42.335100  -2.319581 42.335196  -2.319623 42.335341  -2.319637 42.335469  -2.319668 42.335614  -2.319708 42.335690  -2.319828 42.335806  -2.319937 42.335861  -2.320033 42.335810  -2.320140 42.335810  </gml:posList>
+            <gml:posList srsDimension="2">-2.319349 42.334858  -2.319403 42.334963  -2.319621 42.335128  -2.319731 42.335224  -2.319740 42.335410  -2.319766 42.335633  -2.319941 42.335723  -2.320140 42.335810  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Diseminados Santiago</ms:NOMBRE_COMPLETO_VIAL>
@@ -113,46 +113,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1532189">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.319197 42.335083 </gml:lowerCorner>
-        		<gml:upperCorner>-2.319020 42.335520 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.319097 42.335520  -2.319111 42.335435  -2.319020 42.335274  -2.319162 42.335135  -2.319197 42.335083  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1532190">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.320140 42.334858 </gml:lowerCorner>
-        		<gml:upperCorner>-2.319349 42.335810 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.319349 42.334858  -2.319403 42.334963  -2.319621 42.335128  -2.319731 42.335224  -2.319740 42.335410  -2.319766 42.335633  -2.319941 42.335723  -2.320140 42.335810  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1532196">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -163,26 +123,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.319264 42.334984  -2.319349 42.334858  -2.319349 42.334858  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1532197">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.319264 42.334984 </gml:lowerCorner>
-        		<gml:upperCorner>-2.319197 42.335083 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.319197 42.335083  -2.319264 42.334984  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -856,13 +796,13 @@
       <ms:viales gml:id="viales.1532283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.302529 42.348290 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.303152 42.347112 </gml:lowerCorner>
         		<gml:upperCorner>-2.302477 42.348374 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.302477 42.348374  -2.302529 42.348290  </gml:posList>
+            <gml:posList srsDimension="2">-2.302477 42.348374  -2.302549 42.348250  -2.302584 42.348104  -2.302594 42.347877  -2.302655 42.347673  -2.302754 42.347531  -2.302911 42.347371  -2.303052 42.347225  -2.303152 42.347112  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Lagunilla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1157,12 +1097,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.321305 42.333656 </gml:lowerCorner>
-        		<gml:upperCorner>-2.321267 42.334098 </gml:upperCorner>
+        		<gml:upperCorner>-2.321275 42.334098 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.321294 42.334098  -2.321273 42.334051  -2.321267 42.333964  -2.321288 42.333863  -2.321305 42.333815  -2.321278 42.333740  -2.321275 42.333656  </gml:posList>
+            <gml:posList srsDimension="2">-2.321294 42.334098  -2.321281 42.334022  -2.321286 42.333948  -2.321288 42.333863  -2.321305 42.333815  -2.321278 42.333740  -2.321275 42.333656  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cárcel</ms:NOMBRE_COMPLETO_VIAL>
@@ -1202,7 +1142,27 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.321275 42.333656  -2.321319 42.333540  </gml:posList>
+            <gml:posList srsDimension="2">-2.321275 42.333656  -2.321277 42.333598  -2.321319 42.333540  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cárcel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.083.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608300064</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1532233">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.321362 42.333540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.321319 42.333545 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.321319 42.333540  -2.321362 42.333545  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cárcel</ms:NOMBRE_COMPLETO_VIAL>
@@ -1222,7 +1182,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.321294 42.334098  -2.321497 42.334313  </gml:posList>
+            <gml:posList srsDimension="2">-2.321294 42.334098  -2.321385 42.334218  -2.321497 42.334313  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cárcel</ms:NOMBRE_COMPLETO_VIAL>
@@ -1696,13 +1656,13 @@
       <ms:viales gml:id="viales.1532171">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.301937 42.349270 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.301937 42.349259 </gml:lowerCorner>
         		<gml:upperCorner>-2.301229 42.349593 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.301937 42.349270  -2.301229 42.349593  </gml:posList>
+            <gml:posList srsDimension="2">-2.301937 42.349270  -2.301806 42.349259  -2.301497 42.349415  -2.301229 42.349593  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -1933,6 +1893,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4203549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322039 42.333474 </gml:lowerCorner>
+        		<gml:upperCorner>-2.321669 42.333613 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.322039 42.333607  -2.321999 42.333584  -2.321946 42.333595  -2.321906 42.333613  -2.321866 42.333601  -2.321760 42.333531  -2.321678 42.333486  -2.321669 42.333474  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.083.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608300069</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1532177">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2003,6 +1983,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.322992 42.333625  -2.322811 42.333708  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bocín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.083.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608300054</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1532336">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322811 42.333352 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322228 42.333708 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.322811 42.333708  -2.322763 42.333629  -2.322731 42.333549  -2.322660 42.333473  -2.322590 42.333418  -2.322442 42.333363  -2.322349 42.333352  -2.322264 42.333387  -2.322228 42.333441  -2.322240 42.333519  -2.322270 42.333569  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bocín</ms:NOMBRE_COMPLETO_VIAL>
@@ -2142,7 +2142,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.322640 42.332941  -2.323094 42.332960  -2.323346 42.333066  </gml:posList>
+            <gml:posList srsDimension="2">-2.322640 42.332941  -2.322863 42.332957  -2.323068 42.332973  -2.323164 42.333004  -2.323247 42.333044  -2.323346 42.333066  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Virgen</ms:NOMBRE_COMPLETO_VIAL>
@@ -2533,16 +2533,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1532199">
+      <ms:viales gml:id="viales.1532189">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.319506 42.335083 </gml:lowerCorner>
-        		<gml:upperCorner>-2.319197 42.335348 </gml:upperCorner>
+        		<gml:lowerCorner>-2.319264 42.334984 </gml:lowerCorner>
+        		<gml:upperCorner>-2.319020 42.335520 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.319197 42.335083  -2.319299 42.335102  -2.319390 42.335132  -2.319467 42.335176  -2.319506 42.335261  -2.319495 42.335332  -2.319447 42.335348  -2.319392 42.335337  </gml:posList>
+            <gml:posList srsDimension="2">-2.319097 42.335520  -2.319111 42.335435  -2.319020 42.335274  -2.319166 42.335161  -2.319224 42.335069  -2.319264 42.334984  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.083.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1532198">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.320140 42.334984 </gml:lowerCorner>
+        		<gml:upperCorner>-2.319264 42.335861 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.319264 42.334984  -2.319399 42.335039  -2.319505 42.335100  -2.319581 42.335196  -2.319623 42.335341  -2.319637 42.335469  -2.319668 42.335614  -2.319708 42.335690  -2.319828 42.335806  -2.319937 42.335861  -2.320033 42.335810  -2.320140 42.335810  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio A</ms:NOMBRE_COMPLETO_VIAL>
@@ -2822,7 +2842,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.301310 42.351500  -2.301476 42.351736  -2.301606 42.351840  </gml:posList>
+            <gml:posList srsDimension="2">-2.301310 42.351500  -2.301367 42.351621  -2.301477 42.351760  -2.301606 42.351840  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Aulluelo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2842,7 +2862,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.301034 42.351673  -2.301091 42.351914  -2.301095 42.351989  -2.300987 42.352173  </gml:posList>
+            <gml:posList srsDimension="2">-2.301034 42.351673  -2.301031 42.351730  -2.301091 42.351914  -2.301095 42.351989  -2.300987 42.352173  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Aulluelo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2936,13 +2956,13 @@
       <ms:viales gml:id="viales.1532291">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.322180 42.334197 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.322222 42.334197 </gml:lowerCorner>
         		<gml:upperCorner>-2.321497 42.334376 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.321497 42.334313  -2.321640 42.334363  -2.321736 42.334353  -2.322071 42.334376  -2.322162 42.334342  -2.322180 42.334253  -2.322113 42.334197  </gml:posList>
+            <gml:posList srsDimension="2">-2.321497 42.334313  -2.321640 42.334363  -2.321752 42.334330  -2.322071 42.334376  -2.322157 42.334332  -2.322222 42.334279  -2.322180 42.334253  -2.322113 42.334197  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras de Arriba</ms:NOMBRE_COMPLETO_VIAL>
@@ -3043,26 +3063,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.321362 42.333545  -2.321591 42.333606  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Cárcel</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.083.10</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1532233">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.321362 42.333540 </gml:lowerCorner>
-        		<gml:upperCorner>-2.321319 42.333545 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.321319 42.333540  -2.321362 42.333545  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Cárcel</ms:NOMBRE_COMPLETO_VIAL>
@@ -3222,7 +3222,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.320722 42.334306  -2.320676 42.334467  -2.320699 42.334570  -2.320655 42.334660  -2.320495 42.334722  -2.320241 42.334736  </gml:posList>
+            <gml:posList srsDimension="2">-2.320722 42.334306  -2.320698 42.334460  -2.320699 42.334570  -2.320655 42.334660  -2.320495 42.334722  -2.320241 42.334736  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Ribafrecha</ms:NOMBRE_COMPLETO_VIAL>
@@ -3437,12 +3437,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.301148 42.349530 </gml:lowerCorner>
-        		<gml:upperCorner>-2.300703 42.350015 </gml:upperCorner>
+        		<gml:upperCorner>-2.301039 42.349702 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.301148 42.349530  -2.300966 42.349784  -2.300703 42.350015  </gml:posList>
+            <gml:posList srsDimension="2">-2.301148 42.349530  -2.301118 42.349597  -2.301039 42.349702  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía del Cementerio</ms:NOMBRE_COMPLETO_VIAL>
@@ -3728,7 +3728,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Puente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zenzano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.083.42</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608300084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3748,7 +3748,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Puente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zenzano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.083.42</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608300084</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -3768,28 +3768,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Puente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zenzano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.083.42</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608300084</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1532336">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.322811 42.333352 </gml:lowerCorner>
-        		<gml:upperCorner>-2.322117 42.333708 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.322811 42.333708  -2.322763 42.333629  -2.322731 42.333549  -2.322660 42.333473  -2.322590 42.333418  -2.322442 42.333363  -2.322349 42.333352  -2.322264 42.333387  -2.322228 42.333441  -2.322240 42.333519  -2.322270 42.333569  -2.322117 42.333638  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Iglesia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.083.12</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608300030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3803,6 +3783,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.322352 42.333918  -2.322117 42.333638  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Iglesia</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.083.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608300030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4203553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322270 42.333569 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322117 42.333638 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.322270 42.333569  -2.322117 42.333638  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Iglesia</ms:NOMBRE_COMPLETO_VIAL>

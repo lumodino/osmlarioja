@@ -1896,13 +1896,13 @@
       <ms:viales gml:id="viales.1538236">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.002014 42.346786 </gml:lowerCorner>
-        		<gml:upperCorner>-3.001676 42.346805 </gml:upperCorner>
+        		<gml:lowerCorner>-3.002014 42.346589 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999316 42.346805 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.001676 42.346786  -3.002014 42.346805  </gml:posList>
+            <gml:posList srsDimension="2">-2.999316 42.346589  -2.999553 42.346597  -2.999862 42.346605  -3.000180 42.346655  -3.000482 42.346718  -3.000649 42.346776  -3.001079 42.346780  -3.001622 42.346780  -3.002014 42.346805  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Corrabia</ms:NOMBRE_COMPLETO_VIAL>
@@ -3050,6 +3050,26 @@
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.27</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611000070</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4204199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.999599 42.345410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999307 42.346589 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.999316 42.346589  -2.999307 42.346335  -2.999372 42.346148  -2.999509 42.345785  -2.999582 42.345576  -2.999599 42.345410  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Río Oja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
