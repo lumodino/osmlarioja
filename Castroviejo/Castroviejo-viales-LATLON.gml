@@ -725,7 +725,7 @@
             <gml:posList srsDimension="2">-2.661200 42.329961  -2.661048 42.329958  -2.660881 42.329957  -2.660847 42.329958  -2.660832 42.330000  -2.660738 42.330024  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ricardo Herreros</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Castroviejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Castroviejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.044.14</ms:COD_CATASTRAL_VIAL>
