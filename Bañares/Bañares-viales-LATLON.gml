@@ -1868,7 +1868,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Herrería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1888,7 +1888,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Herrería</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.20</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1968,7 +1968,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Zumalacárregui</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1988,7 +1988,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Zumalacárregui</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2008,7 +2008,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Zumalacárregui</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602400031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2068,7 +2068,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía España</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bañares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bañares</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.024.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
