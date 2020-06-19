@@ -2388,7 +2388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2408,7 +2408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2428,7 +2428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2448,7 +2448,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2468,7 +2468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2488,7 +2488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2508,7 +2508,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortí Ortiz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.019.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601900049</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5045,7 +5045,7 @@
             <gml:posList srsDimension="2">-2.255519 42.418740  -2.256790 42.419073  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle País vasco</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle País Vasco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -5065,7 +5065,7 @@
             <gml:posList srsDimension="2">-2.256790 42.419073  -2.257956 42.419378  -2.258077 42.419437  -2.258104 42.419469  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle País vasco</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle País Vasco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

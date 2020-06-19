@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.677420 42.388070 </gml:lowerCorner>
-      		<gml:upperCorner>-2.672500 42.395640 </gml:upperCorner>
+      		<gml:upperCorner>-2.672500 42.394840 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -70,6 +70,26 @@
         <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.092.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609200013</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1533867">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.676419 42.394577 </gml:lowerCorner>
+        		<gml:upperCorner>-2.675340 42.394595 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.675340 42.394577  -2.676419 42.394595  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -136,13 +156,13 @@
       <ms:viales gml:id="viales.1533851">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674789 42.392312 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674353 42.392348 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674789 42.392236 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674051 42.392335 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.674789 42.392330  -2.674630 42.392348  -2.674353 42.392312  </gml:posList>
+            <gml:posList srsDimension="2">-2.674789 42.392330  -2.674631 42.392335  -2.674326 42.392310  -2.674051 42.392236  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle de la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -176,13 +196,13 @@
       <ms:viales gml:id="viales.4136718">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674353 42.389422 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672500 42.392312 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674051 42.389422 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672500 42.392236 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.674028 42.389422  -2.673989 42.389465  -2.673948 42.389514  -2.673879 42.389594  -2.673874 42.389600  -2.673828 42.389655  -2.673810 42.389676  -2.673735 42.389765  -2.673732 42.389768  -2.673713 42.389791  -2.673685 42.389826  -2.673678 42.389835  -2.673606 42.389937  -2.673471 42.390128  -2.673310 42.390448  -2.673167 42.390738  -2.673112 42.390822  -2.673003 42.390955  -2.672799 42.391144  -2.672558 42.391393  -2.672500 42.391473  -2.672500 42.391617  -2.672530 42.391789  -2.672640 42.391837  -2.673011 42.391947  -2.673317 42.392047  -2.673731 42.392174  -2.674076 42.392257  -2.674353 42.392312  </gml:posList>
+            <gml:posList srsDimension="2">-2.674028 42.389422  -2.673989 42.389465  -2.673948 42.389514  -2.673879 42.389594  -2.673874 42.389600  -2.673828 42.389655  -2.673810 42.389676  -2.673735 42.389765  -2.673732 42.389768  -2.673713 42.389791  -2.673685 42.389826  -2.673678 42.389835  -2.673606 42.389937  -2.673471 42.390128  -2.673310 42.390448  -2.673167 42.390738  -2.673112 42.390822  -2.673003 42.390955  -2.672799 42.391144  -2.672558 42.391393  -2.672500 42.391473  -2.672500 42.391617  -2.672530 42.391789  -2.672640 42.391837  -2.673011 42.391947  -2.673317 42.392047  -2.673731 42.392174  -2.674051 42.392236  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de los Cerrados</ms:NOMBRE_COMPLETO_VIAL>
@@ -250,46 +270,6 @@
         <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.092.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609200009</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1533870">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.676419 42.393792 </gml:lowerCorner>
-        		<gml:upperCorner>-2.676020 42.394595 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.676020 42.393792  -2.676419 42.394595  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Alesón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4136725">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.676997 42.394595 </gml:lowerCorner>
-        		<gml:upperCorner>-2.676419 42.395640 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.676419 42.394595  -2.676801 42.395364  -2.676889 42.395487  -2.676997 42.395640  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Alesón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -573,6 +553,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1533870">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.676419 42.393792 </gml:lowerCorner>
+        		<gml:upperCorner>-2.676020 42.394595 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.676020 42.393792  -2.676419 42.394595  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de Abajo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.092.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609200008</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1533871">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -733,6 +733,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4208607">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.676539 42.394595 </gml:lowerCorner>
+        		<gml:upperCorner>-2.676419 42.394840 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.676419 42.394595  -2.676539 42.394840  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de Abajo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.092.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609200008</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1533855">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -869,26 +889,6 @@
         <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.092.17</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1533867">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.676419 42.394577 </gml:lowerCorner>
-        		<gml:upperCorner>-2.675340 42.394595 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.675340 42.394577  -2.676419 42.394595  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Manjarrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Manjarrés</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
