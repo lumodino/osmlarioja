@@ -3037,6 +3037,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.226068">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.716429 42.300242 </gml:lowerCorner>
+        		<gml:upperCorner>-2.716429 42.300242 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.716429 42.300242 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle del Cerradillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>21</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pedroso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.225921">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3982,16 +4003,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.226068">
+      <ms:portales gml:id="portales.226067">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.716397 42.300191 </gml:lowerCorner>
-        		<gml:upperCorner>-2.716397 42.300191 </gml:upperCorner>
+        		<gml:lowerCorner>-2.716337 42.300184 </gml:lowerCorner>
+        		<gml:upperCorner>-2.716337 42.300184 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.716397 42.300191 </gml:pos>
+            <gml:pos>-2.716337 42.300184 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
@@ -4045,27 +4066,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.226067">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.716337 42.300184 </gml:lowerCorner>
-        		<gml:upperCorner>-2.716337 42.300184 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.716337 42.300184 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>21</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Pedroso</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.226066">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4079,7 +4079,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>21</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
@@ -4100,7 +4100,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>25</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
@@ -4121,7 +4121,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>27</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>25</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
@@ -4142,7 +4142,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somovilla</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>29</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>27</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>

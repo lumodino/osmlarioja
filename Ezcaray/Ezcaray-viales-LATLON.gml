@@ -3456,13 +3456,13 @@
       <ms:viales gml:id="viales.1525345">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014797 42.324304 </gml:lowerCorner>
+        		<gml:lowerCorner>-3.014783 42.324316 </gml:lowerCorner>
         		<gml:upperCorner>-3.014397 42.324404 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.014797 42.324304  -3.014397 42.324404  </gml:posList>
+            <gml:posList srsDimension="2">-3.014783 42.324316  -3.014397 42.324404  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -3543,26 +3543,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.011875 42.324593  -3.011629 42.324599  -3.011332 42.324550  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ezcaray</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ezcaray</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1525501">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014796 42.320076 </gml:lowerCorner>
-        		<gml:upperCorner>-3.013843 42.320650 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.013843 42.320650  -3.013876 42.320627  -3.013904 42.320609  -3.013945 42.320581  -3.013961 42.320570  -3.013965 42.320568  -3.013980 42.320558  -3.014075 42.320500  -3.014292 42.320367  -3.014313 42.320354  -3.014331 42.320344  -3.014356 42.320330  -3.014406 42.320300  -3.014486 42.320255  -3.014597 42.320191  -3.014602 42.320188  -3.014609 42.320183  -3.014796 42.320076  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -5397,12 +5377,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.015168 42.324228 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014797 42.324304 </gml:upperCorner>
+        		<gml:upperCorner>-3.014783 42.324316 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.014797 42.324304  -3.015168 42.324228  </gml:posList>
+            <gml:posList srsDimension="2">-3.014783 42.324316  -3.015168 42.324228  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -5616,13 +5596,13 @@
       <ms:viales gml:id="viales.1525317">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014797 42.324052 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014615 42.324304 </gml:upperCorner>
+        		<gml:lowerCorner>-3.014783 42.324052 </gml:lowerCorner>
+        		<gml:upperCorner>-3.014615 42.324316 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.014615 42.324052  -3.014708 42.324160  -3.014797 42.324304  </gml:posList>
+            <gml:posList srsDimension="2">-3.014615 42.324052  -3.014694 42.324160  -3.014738 42.324238  -3.014783 42.324316  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sagastia</ms:NOMBRE_COMPLETO_VIAL>
@@ -5656,33 +5636,13 @@
       <ms:viales gml:id="viales.3961624">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015092 42.324439 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014909 42.324764 </gml:upperCorner>
+        		<gml:lowerCorner>-3.015092 42.324316 </gml:lowerCorner>
+        		<gml:upperCorner>-3.014783 42.324764 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.015092 42.324764  -3.015057 42.324656  -3.014950 42.324489  -3.014909 42.324439  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Sagastia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ezcaray</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ezcaray</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.061.48</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606100042</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3961625">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014909 42.324304 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014797 42.324439 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.014909 42.324439  -3.014797 42.324304  </gml:posList>
+            <gml:posList srsDimension="2">-3.015092 42.324764  -3.015076 42.324753  -3.015014 42.324604  -3.014973 42.324542  -3.014903 42.324474  -3.014852 42.324415  -3.014783 42.324316  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Sagastia</ms:NOMBRE_COMPLETO_VIAL>
@@ -6093,6 +6053,46 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1525296">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.014930 42.319998 </gml:lowerCorner>
+        		<gml:upperCorner>-3.014796 42.320076 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.014796 42.320076  -3.014871 42.320032  -3.014875 42.320030  -3.014883 42.320025  -3.014895 42.320019  -3.014930 42.319998  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Paseo del Molino</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ezcaray</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ezcaray</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.061.114</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606100209</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1525501">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.014796 42.320076 </gml:lowerCorner>
+        		<gml:upperCorner>-3.013843 42.320650 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.013843 42.320650  -3.013876 42.320627  -3.013904 42.320609  -3.013945 42.320581  -3.013961 42.320570  -3.013965 42.320568  -3.013980 42.320558  -3.014075 42.320500  -3.014292 42.320367  -3.014313 42.320354  -3.014331 42.320344  -3.014356 42.320330  -3.014406 42.320300  -3.014486 42.320255  -3.014597 42.320191  -3.014602 42.320188  -3.014609 42.320183  -3.014796 42.320076  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Paseo del Molino</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ezcaray</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ezcaray</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.061.114</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606100209</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1525278">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6310,26 +6310,6 @@
         <ms:NOMBRE_MUNICIPIO>Ezcaray</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.061.29</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2606100025</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1525296">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014930 42.319998 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014796 42.320076 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.014796 42.320076  -3.014871 42.320032  -3.014875 42.320030  -3.014883 42.320025  -3.014895 42.320019  -3.014930 42.319998  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Molinos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ezcaray</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ezcaray</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.061.34</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2606100031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
