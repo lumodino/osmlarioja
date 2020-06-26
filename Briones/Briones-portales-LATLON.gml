@@ -139,6 +139,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.263987">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.784491 42.542369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.784491 42.542369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.784491 42.542369 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Jardín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.263988">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3121,6 +3142,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.262612">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.786761 42.544561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.786761 42.544561 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.786761 42.544561 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.262596">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3163,6 +3205,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.262586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.786715 42.544623 </gml:lowerCorner>
+        		<gml:upperCorner>-2.786715 42.544623 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.786715 42.544623 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.263943">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3178,6 +3241,48 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.262585">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.786682 42.544814 </gml:lowerCorner>
+        		<gml:upperCorner>-2.786682 42.544814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.786682 42.544814 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.262602">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.787038 42.546282 </gml:lowerCorner>
+        		<gml:upperCorner>-2.787038 42.546282 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.787038 42.546282 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>18</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
@@ -3240,6 +3345,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.266165">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.787313 42.546530 </gml:lowerCorner>
+        		<gml:upperCorner>-2.787313 42.546530 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.787313 42.546530 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
@@ -3331,6 +3457,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.262599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.787082 42.546180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.787082 42.546180 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.787082 42.546180 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>25</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.262603">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3345,6 +3492,48 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>26</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4208661">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.787094 42.546228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.787094 42.546228 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.787094 42.546228 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>27</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.262606">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.787287 42.546465 </gml:lowerCorner>
+        		<gml:upperCorner>-2.787287 42.546465 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.787287 42.546465 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada del Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>29</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
@@ -8728,6 +8917,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4051378">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.781815 42.543311 </gml:lowerCorner>
+        		<gml:upperCorner>-2.781815 42.543311 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.781815 42.543311 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.263516">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -8812,6 +9022,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.263476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.781681 42.544837 </gml:lowerCorner>
+        		<gml:upperCorner>-2.781681 42.544837 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.781681 42.544837 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.263503">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -8848,6 +9079,27 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
         <ms:EXTENSION>B</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.263474">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.781656 42.545060 </gml:lowerCorner>
+        		<gml:upperCorner>-2.781656 42.545060 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.781656 42.545060 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Estación</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
@@ -11620,6 +11872,27 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.263976">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.783303 42.544943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.783303 42.544943 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.783303 42.544943 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Jardín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>A</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
@@ -16470,6 +16743,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Estrella</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Briones</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4051377">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.781878 42.543606 </gml:lowerCorner>
+        		<gml:upperCorner>-2.781878 42.543606 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.781878 42.543606 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Estrella</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26330</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Briones</ms:NOMBRE_POBLAMIENTO>
