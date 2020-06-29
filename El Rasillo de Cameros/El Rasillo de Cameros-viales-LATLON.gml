@@ -2077,12 +2077,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.697725 42.194240 </gml:lowerCorner>
-        		<gml:upperCorner>-2.697529 42.194424 </gml:upperCorner>
+        		<gml:upperCorner>-2.697481 42.194407 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.697529 42.194424  -2.697725 42.194240  </gml:posList>
+            <gml:posList srsDimension="2">-2.697481 42.194407  -2.697725 42.194240  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Alejandro Navarrete</ms:NOMBRE_COMPLETO_VIAL>
@@ -2096,13 +2096,13 @@
       <ms:viales gml:id="viales.1540808">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.697529 42.194344 </gml:lowerCorner>
-        		<gml:upperCorner>-2.697304 42.194424 </gml:upperCorner>
+        		<gml:lowerCorner>-2.697481 42.194344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697304 42.194407 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.697529 42.194424  -2.697304 42.194344  </gml:posList>
+            <gml:posList srsDimension="2">-2.697481 42.194407  -2.697304 42.194344  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Alejandro Navarrete</ms:NOMBRE_COMPLETO_VIAL>
@@ -2123,6 +2123,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.697529 42.194424  -2.697535 42.194481  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Alejandro Navarrete</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4208877">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.697795 42.194292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697529 42.194440 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.697529 42.194424  -2.697554 42.194440  -2.697723 42.194329  -2.697795 42.194292  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Alejandro Navarrete</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4208878">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.697529 42.194407 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697481 42.194424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.697529 42.194424  -2.697481 42.194407  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Alejandro Navarrete</ms:NOMBRE_COMPLETO_VIAL>
@@ -2796,13 +2836,13 @@
       <ms:viales gml:id="viales.1540802">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.697923 42.194240 </gml:lowerCorner>
-        		<gml:upperCorner>-2.697725 42.194376 </gml:upperCorner>
+        		<gml:lowerCorner>-2.697923 42.194292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697795 42.194376 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.697725 42.194240  -2.697923 42.194376  </gml:posList>
+            <gml:posList srsDimension="2">-2.697795 42.194292  -2.697923 42.194376  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Cameros</ms:NOMBRE_COMPLETO_VIAL>
@@ -2903,6 +2943,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.697725 42.194240  -2.697642 42.194191  -2.697539 42.194147  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Cameros</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200032</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4208875">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.697795 42.194240 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697725 42.194292 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.697795 42.194292  -2.697725 42.194240  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Cameros</ms:NOMBRE_COMPLETO_VIAL>
