@@ -76,13 +76,13 @@
       <ms:viales gml:id="viales.1517564">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.926628 42.508923 </gml:lowerCorner>
-        		<gml:upperCorner>-2.924382 42.510304 </gml:upperCorner>
+        		<gml:lowerCorner>-2.926628 42.509489 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925305 42.510304 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.926628 42.510304  -2.925519 42.509636  -2.925056 42.509298  -2.924756 42.509133  -2.924512 42.508989  -2.924382 42.508923  </gml:posList>
+            <gml:posList srsDimension="2">-2.926628 42.510304  -2.925519 42.509636  -2.925305 42.509489  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
@@ -323,6 +323,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.927740 42.510969  -2.927357 42.510801  -2.927216 42.510704  -2.926666 42.510327  -2.926628 42.510304  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.043.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604300017</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4208925">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.925305 42.508923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.924382 42.509489 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.925305 42.509489  -2.925123 42.509360  -2.924889 42.509215  -2.924685 42.509099  -2.924507 42.509000  -2.924382 42.508923  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
@@ -2210,6 +2230,26 @@
         <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.043.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604300054</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4209000">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.925305 42.509489 </gml:lowerCorner>
+        		<gml:upperCorner>-2.924988 42.509915 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.925305 42.509489  -2.925216 42.509580  -2.925091 42.509739  -2.924988 42.509915  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.043.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

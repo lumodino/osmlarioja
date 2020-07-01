@@ -29,7 +29,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -49,7 +49,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -69,7 +69,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -89,7 +89,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -109,7 +109,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -129,7 +129,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -149,7 +149,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -169,7 +169,7 @@
         <ms:NOMBRE_POBLAMIENTO>El Lugar del Río o Río</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.130.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

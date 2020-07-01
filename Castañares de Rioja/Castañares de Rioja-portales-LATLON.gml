@@ -688,13 +688,13 @@
       <ms:portales gml:id="portales.4051308">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931629 42.511798 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931629 42.511798 </gml:upperCorner>
+        		<gml:lowerCorner>-2.931604 42.511747 </gml:lowerCorner>
+        		<gml:upperCorner>-2.931604 42.511747 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.931629 42.511798 </gml:pos>
+            <gml:pos>-2.931604 42.511747 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
@@ -1840,27 +1840,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.277917">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.928182 42.511404 </gml:lowerCorner>
-        		<gml:upperCorner>-2.928182 42.511404 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.928182 42.511404 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>59</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.277555">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2296,27 +2275,6 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>79</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.277553">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.930719 42.511447 </gml:lowerCorner>
-        		<gml:upperCorner>-2.930719 42.511447 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.930719 42.511447 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
@@ -2925,7 +2883,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Villanueva</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>98</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>D</ms:EXTENSION>
+        <ms:EXTENSION>E</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
@@ -3457,16 +3415,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.278800">
+      <ms:portales gml:id="portales.4051492">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.934147 42.508535 </gml:lowerCorner>
-        		<gml:upperCorner>-2.934147 42.508535 </gml:upperCorner>
+        		<gml:lowerCorner>-2.933513 42.507497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.933513 42.507497 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.934147 42.508535 </gml:pos>
+            <gml:pos>-2.933513 42.507497 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Sixto Cámara</ms:NOMBRE_COMPLETO_VIAL>
@@ -13918,13 +13876,13 @@
       <ms:portales gml:id="portales.277105">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.932277 42.509354 </gml:lowerCorner>
-        		<gml:upperCorner>-2.932277 42.509354 </gml:upperCorner>
+        		<gml:lowerCorner>-2.932303 42.509374 </gml:lowerCorner>
+        		<gml:upperCorner>-2.932303 42.509374 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.932277 42.509354 </gml:pos>
+            <gml:pos>-2.932303 42.509374 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Lucea</ms:NOMBRE_COMPLETO_VIAL>
@@ -15364,27 +15322,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4120317">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.933117 42.507190 </gml:lowerCorner>
-        		<gml:upperCorner>-2.933117 42.507190 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.933117 42.507190 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4120318">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15399,27 +15336,6 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4120319">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.933257 42.507240 </gml:lowerCorner>
-        		<gml:upperCorner>-2.933257 42.507240 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.933257 42.507240 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
@@ -15469,27 +15385,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4120309">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.932570 42.506996 </gml:lowerCorner>
-        		<gml:upperCorner>-2.932570 42.506996 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.932570 42.506996 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4120310">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15511,27 +15406,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4051492">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.933513 42.507497 </gml:lowerCorner>
-        		<gml:upperCorner>-2.933513 42.507497 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.933513 42.507497 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>31</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4051491">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15542,27 +15416,6 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-2.932608 42.507174 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4120311">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.932701 42.507043 </gml:lowerCorner>
-        		<gml:upperCorner>-2.932701 42.507043 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.932701 42.507043 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
@@ -15595,27 +15448,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4120313">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.932841 42.507092 </gml:lowerCorner>
-        		<gml:upperCorner>-2.932841 42.507092 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.932841 42.507092 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4120314">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15630,27 +15462,6 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4120315">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.932982 42.507142 </gml:lowerCorner>
-        		<gml:upperCorner>-2.932982 42.507142 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.932982 42.507142 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Domingo de Mayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>

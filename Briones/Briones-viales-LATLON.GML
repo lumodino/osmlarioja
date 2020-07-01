@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.799875 42.539087 </gml:lowerCorner>
-      		<gml:upperCorner>-2.778665 42.548702 </gml:upperCorner>
+      		<gml:upperCorner>-2.778665 42.548716 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1897,12 +1897,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.799875 42.545922 </gml:lowerCorner>
-        		<gml:upperCorner>-2.790461 42.548702 </gml:upperCorner>
+        		<gml:upperCorner>-2.790461 42.548716 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.790461 42.545922  -2.790801 42.546048  -2.795756 42.546921  -2.795920 42.547527  -2.795401 42.548380  -2.795653 42.548702  -2.798743 42.547344  -2.799875 42.547459  </gml:posList>
+            <gml:posList srsDimension="2">-2.790461 42.545922  -2.790801 42.546048  -2.791444 42.546197  -2.792088 42.546321  -2.792808 42.546465  -2.793536 42.546600  -2.794313 42.546730  -2.794949 42.546809  -2.795550 42.546864  -2.795756 42.546921  -2.795917 42.547083  -2.795974 42.547252  -2.795962 42.547399  -2.795920 42.547527  -2.795825 42.547725  -2.795609 42.547981  -2.795462 42.548188  -2.795401 42.548380  -2.795404 42.548510  -2.795501 42.548633  -2.795653 42.548702  -2.795856 42.548716  -2.796103 42.548629  -2.796389 42.548487  -2.796653 42.548355  -2.797145 42.548109  -2.797665 42.547858  -2.798368 42.547520  -2.798743 42.547344  -2.798992 42.547303  -2.799301 42.547363  -2.799875 42.547459  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mesones</ms:NOMBRE_COMPLETO_VIAL>

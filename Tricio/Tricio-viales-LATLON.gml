@@ -1845,7 +1845,7 @@
             <gml:posList srsDimension="2">-2.705352 42.408443  -2.705870 42.408639  -2.706469 42.408912  -2.706895 42.409075  -2.707240 42.409171  -2.708400 42.409420  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Alesón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Polígono Marín Calvo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.157.37</ms:COD_CATASTRAL_VIAL>
@@ -1865,7 +1865,7 @@
             <gml:posList srsDimension="2">-2.712157 42.410752  -2.711910 42.410677  -2.711486 42.410624  -2.711223 42.410570  -2.710564 42.410353  -2.709272 42.409853  -2.709152 42.409792  -2.709009 42.409680  -2.708889 42.409612  -2.708400 42.409420  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Alesón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Polígono Marín Calvo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.157.37</ms:COD_CATASTRAL_VIAL>
@@ -1885,7 +1885,7 @@
             <gml:posList srsDimension="2">-2.702982 42.407393  -2.704833 42.408197  -2.705352 42.408443  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Alesón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Polígono Marín Calvo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.157.37</ms:COD_CATASTRAL_VIAL>
