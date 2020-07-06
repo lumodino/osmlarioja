@@ -613,6 +613,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1536428">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.665958 42.218198 </gml:lowerCorner>
+        		<gml:upperCorner>-2.665760 42.218355 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.665958 42.218355  -2.665803 42.218275  -2.665760 42.218198  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1559511">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -782,7 +802,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.666632 42.218216  -2.666488 42.218223  -2.666092 42.218330  -2.665958 42.218355  </gml:posList>
+            <gml:posList srsDimension="2">-2.666632 42.218216  -2.666534 42.218220  -2.666449 42.218231  -2.666401 42.218259  -2.666305 42.218282  -2.666245 42.218305  -2.666092 42.218330  -2.665958 42.218355  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Antón</ms:NOMBRE_COMPLETO_VIAL>
@@ -996,13 +1016,13 @@
       <ms:viales gml:id="viales.1536369">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.666620 42.218734 </gml:lowerCorner>
-        		<gml:upperCorner>-2.665439 42.219191 </gml:upperCorner>
+        		<gml:lowerCorner>-2.665803 42.218850 </gml:lowerCorner>
+        		<gml:upperCorner>-2.665451 42.218925 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.665803 42.218850  -2.665507 42.218892  -2.665451 42.218925  -2.665439 42.218954  -2.665634 42.219059  -2.665772 42.219170  -2.665928 42.219191  -2.666008 42.219180  -2.666146 42.219108  -2.666427 42.219069  -2.666537 42.219018  -2.666593 42.218959  -2.666620 42.218884  -2.666610 42.218734  </gml:posList>
+            <gml:posList srsDimension="2">-2.665803 42.218850  -2.665507 42.218892  -2.665451 42.218925  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Martín</ms:NOMBRE_COMPLETO_VIAL>
@@ -1577,12 +1597,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.667444 42.219054 </gml:lowerCorner>
-        		<gml:upperCorner>-2.667291 42.219344 </gml:upperCorner>
+        		<gml:upperCorner>-2.667309 42.219329 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.667444 42.219054  -2.667340 42.219140  -2.667299 42.219192  -2.667291 42.219264  -2.667304 42.219344  </gml:posList>
+            <gml:posList srsDimension="2">-2.667444 42.219054  -2.667340 42.219140  -2.667310 42.219181  -2.667309 42.219265  -2.667333 42.219329  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Lucas Abad y Garoña</ms:NOMBRE_COMPLETO_VIAL>
@@ -1625,10 +1645,10 @@
             <gml:posList srsDimension="2">-2.667062 42.218897  -2.667132 42.218696  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Serafín Santamaría Bueno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Lucas Abad y Garoña</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.108.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1722,7 +1742,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.666954 42.218647  -2.666887 42.218589  -2.666671 42.218515  -2.666539 42.218472  </gml:posList>
+            <gml:posList srsDimension="2">-2.666954 42.218647  -2.666900 42.218591  -2.666781 42.218544  -2.666671 42.218515  -2.666539 42.218472  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Danzadores</ms:NOMBRE_COMPLETO_VIAL>
@@ -1776,13 +1796,33 @@
       <ms:viales gml:id="viales.1536415">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.665274 42.218572 </gml:lowerCorner>
-        		<gml:upperCorner>-2.664812 42.218685 </gml:upperCorner>
+        		<gml:lowerCorner>-2.665072 42.218664 </gml:lowerCorner>
+        		<gml:upperCorner>-2.664963 42.218666 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.665274 42.218572  -2.665274 42.218572  -2.664993 42.218654  -2.664812 42.218685  -2.665072 42.218664  </gml:posList>
+            <gml:posList srsDimension="2">-2.664963 42.218666  -2.665072 42.218664  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.108.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610700036</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4209769">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.664963 42.218666 </gml:lowerCorner>
+        		<gml:upperCorner>-2.664660 42.218685 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.664963 42.218666  -2.664841 42.218670  -2.664660 42.218685  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle de la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
@@ -1802,7 +1842,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.665274 42.218572  -2.665454 42.218558  -2.665614 42.218561  -2.665708 42.218568  -2.665752 42.218541  -2.665779 42.218500  </gml:posList>
+            <gml:posList srsDimension="2">-2.665274 42.218572  -2.665364 42.218560  -2.665453 42.218553  -2.665556 42.218554  -2.665638 42.218555  -2.665725 42.218562  -2.665752 42.218541  -2.665779 42.218500  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle María Martínez de Pinillos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1922,7 +1962,27 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.665797 42.218504  -2.666092 42.218566  -2.666346 42.218581  </gml:posList>
+            <gml:posList srsDimension="2">-2.665797 42.218504  -2.666092 42.218566  -2.666229 42.218569  -2.666346 42.218581  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle María Martínez de Pinillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.108.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610700025</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4209768">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.665274 42.218572 </gml:lowerCorner>
+        		<gml:upperCorner>-2.664963 42.218666 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.665274 42.218572  -2.665103 42.218617  -2.664963 42.218666  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle María Martínez de Pinillos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1956,13 +2016,13 @@
       <ms:viales gml:id="viales.1536426">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.667055 42.218457 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.667055 42.218451 </gml:lowerCorner>
         		<gml:upperCorner>-2.666539 42.218472 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.667055 42.218472  -2.666770 42.218457  -2.666539 42.218472  </gml:posList>
+            <gml:posList srsDimension="2">-2.667055 42.218472  -2.666908 42.218457  -2.666814 42.218454  -2.666646 42.218451  -2.666539 42.218472  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Merino</ms:NOMBRE_COMPLETO_VIAL>
@@ -2170,26 +2230,6 @@
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1536428">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.665958 42.218198 </gml:lowerCorner>
-        		<gml:upperCorner>-2.665760 42.218355 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.665958 42.218355  -2.665803 42.218275  -2.665760 42.218198  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Benito Sáenz Bueno</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.108.3</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610700041</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
