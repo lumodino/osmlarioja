@@ -13,6 +13,26 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4209822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.073514 41.983438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.073108 41.983554 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.073514 41.983438  -2.073381 41.983503  -2.073281 41.983542  -2.073108 41.983554  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cochera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Valdemadera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Valdemadera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1548848">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

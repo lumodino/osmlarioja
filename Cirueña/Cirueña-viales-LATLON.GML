@@ -433,26 +433,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1519705">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.892864 42.421339 </gml:lowerCorner>
-        		<gml:upperCorner>-2.892625 42.421706 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.892625 42.421706  -2.892864 42.421339  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ciriñuela</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.050.18</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2605000024</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1519706">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -470,6 +450,26 @@
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.050.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2605000024</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1519705">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.892839 42.421340 </gml:lowerCorner>
+        		<gml:upperCorner>-2.892625 42.421706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.892625 42.421706  -2.892676 42.421653  -2.892732 42.421568  -2.892839 42.421340  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ciriñuela</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.050.19</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2605000035</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
