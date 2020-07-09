@@ -1365,11 +1365,11 @@
             <gml:posList srsDimension="2">-2.006180 42.220590  -2.006298 42.220565  -2.006611 42.220041  -2.006761 42.219857  -2.007089 42.219778  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Tejera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de la Tejera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.021.65</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.021.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602100155</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2425,11 +2425,11 @@
             <gml:posList srsDimension="2">-2.007107 42.219094  -2.006575 42.218808  -2.006446 42.218757  -2.006300 42.218754  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de la Tejera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Tejera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.021.6</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602100155</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.021.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2445,11 +2445,11 @@
             <gml:posList srsDimension="2">-2.007500 42.219678  -2.007475 42.219666  -2.007417 42.219655  -2.007361 42.219639  -2.007309 42.219617  -2.007277 42.219601  -2.007245 42.219577  -2.007219 42.219550  -2.007217 42.219547  -2.007194 42.219511  -2.007181 42.219481  -2.007171 42.219439  -2.007169 42.219409  -2.007183 42.219342  -2.007211 42.219269  -2.007226 42.219190  -2.007140 42.219114  -2.007107 42.219094  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Camino de la Tejera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Tejera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.021.6</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602100155</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.021.65</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

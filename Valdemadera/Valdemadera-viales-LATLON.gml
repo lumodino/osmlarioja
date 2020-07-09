@@ -28,8 +28,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cochera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Valdemadera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Valdemadera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.161.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616100009</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

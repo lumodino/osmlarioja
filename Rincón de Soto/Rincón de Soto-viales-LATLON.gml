@@ -56,13 +56,13 @@
       <ms:viales gml:id="viales.1540945">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.850621 42.234360 </gml:lowerCorner>
-        		<gml:upperCorner>-1.850225 42.234478 </gml:upperCorner>
+        		<gml:lowerCorner>-1.850621 42.234349 </gml:lowerCorner>
+        		<gml:upperCorner>-1.850170 42.234478 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.850225 42.234360  -1.850230 42.234361  -1.850619 42.234476  -1.850621 42.234478  </gml:posList>
+            <gml:posList srsDimension="2">-1.850170 42.234349  -1.850275 42.234381  -1.850619 42.234476  -1.850621 42.234478  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cascajuelo</ms:NOMBRE_COMPLETO_VIAL>
@@ -136,13 +136,13 @@
       <ms:viales gml:id="viales.1541171">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.850225 42.234198 </gml:lowerCorner>
-        		<gml:upperCorner>-1.849702 42.234360 </gml:upperCorner>
+        		<gml:lowerCorner>-1.850170 42.234198 </gml:lowerCorner>
+        		<gml:upperCorner>-1.849702 42.234349 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.849702 42.234198  -1.849791 42.234213  -1.850225 42.234360  </gml:posList>
+            <gml:posList srsDimension="2">-1.849702 42.234198  -1.849776 42.234217  -1.849982 42.234285  -1.850170 42.234349  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cascajuelo</ms:NOMBRE_COMPLETO_VIAL>
@@ -596,33 +596,13 @@
       <ms:viales gml:id="viales.1540914">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.847802 42.233956 </gml:lowerCorner>
-        		<gml:upperCorner>-1.847724 42.234076 </gml:upperCorner>
+        		<gml:lowerCorner>-1.847967 42.233956 </gml:lowerCorner>
+        		<gml:upperCorner>-1.847724 42.234301 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.847802 42.234076  -1.847770 42.234028  -1.847724 42.233956  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Celedonio Escalada</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.125.76</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612500286</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1581082">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.848122 42.234605 </gml:lowerCorner>
-        		<gml:upperCorner>-1.847759 42.234745 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.848122 42.234605  -1.847759 42.234745  </gml:posList>
+            <gml:posList srsDimension="2">-1.847967 42.234301  -1.847896 42.234154  -1.847838 42.234065  -1.847795 42.234046  -1.847724 42.233956  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Celedonio Escalada</ms:NOMBRE_COMPLETO_VIAL>
@@ -636,53 +616,13 @@
       <ms:viales gml:id="viales.1581083">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.848186 42.234605 </gml:lowerCorner>
-        		<gml:upperCorner>-1.848122 42.234746 </gml:upperCorner>
+        		<gml:lowerCorner>-1.848186 42.234301 </gml:lowerCorner>
+        		<gml:upperCorner>-1.847967 42.234746 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.848186 42.234746  -1.848122 42.234605  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Celedonio Escalada</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.125.76</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612500286</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1581084">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.848122 42.234514 </gml:lowerCorner>
-        		<gml:upperCorner>-1.848067 42.234605 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.848122 42.234605  -1.848067 42.234514  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Celedonio Escalada</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.125.76</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612500286</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1581085">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.848070 42.234116 </gml:lowerCorner>
-        		<gml:upperCorner>-1.847980 42.234253 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.848070 42.234253  -1.847980 42.234116  </gml:posList>
+            <gml:posList srsDimension="2">-1.848186 42.234746  -1.848113 42.234614  -1.848131 42.234588  -1.848049 42.234452  -1.847967 42.234301  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Celedonio Escalada</ms:NOMBRE_COMPLETO_VIAL>
@@ -4637,12 +4577,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.848664 42.234035 </gml:lowerCorner>
-        		<gml:upperCorner>-1.848070 42.234253 </gml:upperCorner>
+        		<gml:upperCorner>-1.847967 42.234301 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.848070 42.234253  -1.848664 42.234035  </gml:posList>
+            <gml:posList srsDimension="2">-1.847967 42.234301  -1.848664 42.234035  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Nuevo Rincón</ms:NOMBRE_COMPLETO_VIAL>
@@ -4802,7 +4742,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.850134 42.233982  -1.849702 42.234198  </gml:posList>
+            <gml:posList srsDimension="2">-1.850134 42.233982  -1.849916 42.234111  -1.849777 42.234190  -1.849702 42.234198  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San José</ms:NOMBRE_COMPLETO_VIAL>
@@ -6836,13 +6776,13 @@
       <ms:viales gml:id="viales.1541175">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.850225 42.234360 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.850170 42.234349 </gml:lowerCorner>
         		<gml:upperCorner>-1.849739 42.234624 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.849739 42.234624  -1.849924 42.234534  -1.850225 42.234360  </gml:posList>
+            <gml:posList srsDimension="2">-1.849739 42.234624  -1.849864 42.234551  -1.849935 42.234508  -1.850017 42.234453  -1.850122 42.234386  -1.850170 42.234349  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía del Hospital</ms:NOMBRE_COMPLETO_VIAL>
@@ -6888,7 +6828,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.125.62</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612500231</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

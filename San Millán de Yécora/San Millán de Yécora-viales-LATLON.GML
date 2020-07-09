@@ -857,12 +857,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.096151 42.546685 </gml:lowerCorner>
-        		<gml:upperCorner>-3.095433 42.546727 </gml:upperCorner>
+        		<gml:upperCorner>-3.095437 42.546741 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.096151 42.546685  -3.096043 42.546688  -3.095921 42.546696  -3.095807 42.546700  -3.095674 42.546692  -3.095582 42.546700  -3.095479 42.546718  -3.095433 42.546727  </gml:posList>
+            <gml:posList srsDimension="2">-3.096151 42.546685  -3.096043 42.546688  -3.095921 42.546696  -3.095807 42.546700  -3.095668 42.546710  -3.095554 42.546725  -3.095437 42.546741  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Molino</ms:NOMBRE_COMPLETO_VIAL>

@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.099424 41.963357 </gml:lowerCorner>
-      		<gml:upperCorner>-2.097966 41.965643 </gml:upperCorner>
+      		<gml:lowerCorner>-2.099423 41.963357 </gml:lowerCorner>
+      		<gml:upperCorner>-2.097966 41.965646 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -96,13 +96,13 @@
       <ms:viales gml:id="viales.1535907">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.099424 41.965282 </gml:lowerCorner>
-        		<gml:upperCorner>-2.099070 41.965643 </gml:upperCorner>
+        		<gml:lowerCorner>-2.099423 41.965282 </gml:lowerCorner>
+        		<gml:upperCorner>-2.099070 41.965646 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.099424 41.965643  -2.099246 41.965410  -2.099070 41.965282  </gml:posList>
+            <gml:posList srsDimension="2">-2.099423 41.965646  -2.099246 41.965410  -2.099070 41.965282  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Sarnago</ms:NOMBRE_COMPLETO_VIAL>
@@ -196,13 +196,13 @@
       <ms:viales gml:id="viales.1535913">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098980 41.964415 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.098980 41.964409 </gml:lowerCorner>
         		<gml:upperCorner>-2.098791 41.964415 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.098791 41.964415  -2.098980 41.964415  </gml:posList>
+            <gml:posList srsDimension="2">-2.098791 41.964415  -2.098881 41.964412  -2.098980 41.964409  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Callejilla</ms:NOMBRE_COMPLETO_VIAL>
