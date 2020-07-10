@@ -1648,7 +1648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bastroncelos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.35</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2605000048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1668,7 +1668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bastroncelos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.35</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2605000048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1688,7 +1688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bastroncelos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.35</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2605000048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1708,7 +1708,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bastroncelos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.35</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2605000048</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2548,7 +2548,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel (Urbanización)</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.29</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2568,7 +2568,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel (Urbanización)</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.29</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2588,7 +2588,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel (Urbanización)</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.29</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2608,7 +2608,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel (Urbanización)</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.29</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2628,7 +2628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel (Urbanización)</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.050.29</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

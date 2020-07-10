@@ -1428,7 +1428,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Deportiva</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.125.79</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612500241</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4653,6 +4653,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1541104">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.852396 42.236213 </gml:lowerCorner>
+        		<gml:upperCorner>-1.852119 42.236401 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.852119 42.236213  -1.852146 42.236220  -1.852206 42.236258  -1.852317 42.236340  -1.852396 42.236401  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuatro Cantones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.125.15</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612500018</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1541019">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4756,13 +4776,13 @@
       <ms:viales gml:id="viales.1541023">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.851584 42.234192 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.851612 42.234174 </gml:lowerCorner>
         		<gml:upperCorner>-1.851062 42.234449 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.851584 42.234192  -1.851062 42.234449  </gml:posList>
+            <gml:posList srsDimension="2">-1.851612 42.234174  -1.851333 42.234313  -1.851062 42.234449  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Francisco Llorente</ms:NOMBRE_COMPLETO_VIAL>
@@ -4776,13 +4796,13 @@
       <ms:viales gml:id="viales.1541079">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.851584 42.234051 </gml:lowerCorner>
-        		<gml:upperCorner>-1.851484 42.234192 </gml:upperCorner>
+        		<gml:lowerCorner>-1.851612 42.234038 </gml:lowerCorner>
+        		<gml:upperCorner>-1.851499 42.234174 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.851584 42.234192  -1.851484 42.234051  </gml:posList>
+            <gml:posList srsDimension="2">-1.851612 42.234174  -1.851499 42.234038  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Francisco Llorente</ms:NOMBRE_COMPLETO_VIAL>
@@ -4796,13 +4816,13 @@
       <ms:viales gml:id="viales.1541166">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.852035 42.234192 </gml:lowerCorner>
-        		<gml:upperCorner>-1.851584 42.234788 </gml:upperCorner>
+        		<gml:lowerCorner>-1.852035 42.234174 </gml:lowerCorner>
+        		<gml:upperCorner>-1.851612 42.234788 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.852035 42.234788  -1.851584 42.234192  </gml:posList>
+            <gml:posList srsDimension="2">-1.852035 42.234788  -1.851832 42.234492  -1.851612 42.234174  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Francisco Llorente</ms:NOMBRE_COMPLETO_VIAL>
@@ -4897,12 +4917,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.851458 42.233284 </gml:lowerCorner>
-        		<gml:upperCorner>-1.850868 42.233657 </gml:upperCorner>
+        		<gml:upperCorner>-1.850936 42.233586 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.851458 42.233284  -1.850868 42.233657  </gml:posList>
+            <gml:posList srsDimension="2">-1.851458 42.233284  -1.851186 42.233441  -1.850936 42.233586  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Félix López de Oñate</ms:NOMBRE_COMPLETO_VIAL>
@@ -4922,7 +4942,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.850352 42.230122  -1.851097 42.229216  </gml:posList>
+            <gml:posList srsDimension="2">-1.850352 42.230122  -1.850472 42.229937  -1.851097 42.229216  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Doctores Castroviejo</ms:NOMBRE_COMPLETO_VIAL>
@@ -5903,26 +5923,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.852119 42.236213  -1.851434 42.235801  -1.851309 42.235705  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Charquillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.125.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612500013</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1541104">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.852396 42.236213 </gml:lowerCorner>
-        		<gml:upperCorner>-1.852119 42.236411 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.852119 42.236213  -1.852396 42.236411  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Charquillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -6948,7 +6948,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel Hernández</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.125.78</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612500255</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
