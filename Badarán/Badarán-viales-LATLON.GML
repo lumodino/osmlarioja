@@ -776,33 +776,13 @@
       <ms:viales gml:id="viales.1514632">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.810534 42.368160 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.809959 42.368409 </gml:lowerCorner>
         		<gml:upperCorner>-2.809379 42.368666 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.810534 42.368160  -2.809379 42.368666  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Doña Esther Larrea Larrea</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Badarán</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Badarán</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.023.37</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602300397</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514676">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.811775 42.367679 </gml:lowerCorner>
-        		<gml:upperCorner>-2.810534 42.368160 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.811775 42.367679  -2.810534 42.368160  </gml:posList>
+            <gml:posList srsDimension="2">-2.809959 42.368409  -2.809379 42.368666  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Doña Esther Larrea Larrea</ms:NOMBRE_COMPLETO_VIAL>
@@ -3016,20 +2996,20 @@
       <ms:viales gml:id="viales.1514753">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812107 42.365636 </gml:lowerCorner>
-        		<gml:upperCorner>-2.811686 42.366496 </gml:upperCorner>
+        		<gml:lowerCorner>-2.811985 42.365636 </gml:lowerCorner>
+        		<gml:upperCorner>-2.811686 42.366302 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.812107 42.366496  -2.811971 42.366227  -2.811776 42.365891  -2.811686 42.365636  </gml:posList>
+            <gml:posList srsDimension="2">-2.811985 42.366302  -2.811937 42.366207  -2.811776 42.365891  -2.811686 42.365636  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Camino Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Badarán</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Badarán</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2602300074</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3149,6 +3129,46 @@
         <ms:NOMBRE_POBLAMIENTO>Badarán</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Badarán</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.023.45</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514676">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.811775 42.367679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.810534 42.368160 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.811775 42.367679  -2.810534 42.368160  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Badarán</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Badarán</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.023.43</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4209972">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.810534 42.368160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.809959 42.368409 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.810534 42.368160  -2.810223 42.368289  -2.809959 42.368409  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Badarán</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Badarán</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.023.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
