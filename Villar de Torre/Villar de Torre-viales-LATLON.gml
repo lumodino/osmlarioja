@@ -957,12 +957,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.868550 42.370631 </gml:lowerCorner>
-        		<gml:upperCorner>-2.866746 42.370842 </gml:upperCorner>
+        		<gml:upperCorner>-2.866715 42.370842 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.868550 42.370822  -2.868481 42.370773  -2.868416 42.370764  -2.868272 42.370770  -2.868087 42.370836  -2.868003 42.370842  -2.867871 42.370808  -2.867712 42.370705  -2.867580 42.370667  -2.867152 42.370631  -2.866746 42.370657  </gml:posList>
+            <gml:posList srsDimension="2">-2.868550 42.370822  -2.868481 42.370773  -2.868416 42.370764  -2.868272 42.370770  -2.868087 42.370836  -2.868003 42.370842  -2.867871 42.370808  -2.867712 42.370705  -2.867580 42.370667  -2.867152 42.370631  -2.866882 42.370653  -2.866715 42.370735  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Tuerto</ms:NOMBRE_COMPLETO_VIAL>
@@ -976,13 +976,13 @@
       <ms:viales gml:id="viales.1550292">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.866746 42.370657 </gml:lowerCorner>
-        		<gml:upperCorner>-2.866659 42.371023 </gml:upperCorner>
+        		<gml:lowerCorner>-2.866715 42.370735 </gml:lowerCorner>
+        		<gml:upperCorner>-2.866297 42.370763 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.866746 42.370657  -2.866712 42.370932  -2.866659 42.371023  </gml:posList>
+            <gml:posList srsDimension="2">-2.866715 42.370735  -2.866581 42.370753  -2.866516 42.370757  -2.866430 42.370741  -2.866297 42.370763  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Tuerto</ms:NOMBRE_COMPLETO_VIAL>
@@ -1773,6 +1773,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4209976">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.866744 42.370735 </gml:lowerCorner>
+        		<gml:upperCorner>-2.866659 42.371023 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.866659 42.371023  -2.866705 42.370950  -2.866742 42.370901  -2.866744 42.370839  -2.866715 42.370735  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617100022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1550250">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1896,13 +1916,13 @@
       <ms:viales gml:id="viales.1550293">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.866746 42.370421 </gml:lowerCorner>
-        		<gml:upperCorner>-2.866689 42.370657 </gml:upperCorner>
+        		<gml:lowerCorner>-2.866750 42.370421 </gml:lowerCorner>
+        		<gml:upperCorner>-2.866689 42.370735 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.866689 42.370421  -2.866746 42.370657  </gml:posList>
+            <gml:posList srsDimension="2">-2.866689 42.370421  -2.866750 42.370583  -2.866715 42.370735  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>

@@ -648,7 +648,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -668,7 +668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -688,7 +688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -708,7 +708,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -728,7 +728,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -748,7 +748,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -768,7 +768,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -788,7 +788,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza la Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Manzanares de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Manzanares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.094.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609400034</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

@@ -3637,12 +3637,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.049328 42.559401 </gml:lowerCorner>
-        		<gml:upperCorner>-3.049020 42.559513 </gml:upperCorner>
+        		<gml:upperCorner>-3.048946 42.559539 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.049020 42.559513  -3.049328 42.559401  </gml:posList>
+            <gml:posList srsDimension="2">-3.048946 42.559539  -3.049132 42.559486  -3.049328 42.559401  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Crucifijo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3697,52 +3697,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.048946 42.559539 </gml:lowerCorner>
-        		<gml:upperCorner>-3.048605 42.559950 </gml:upperCorner>
+        		<gml:upperCorner>-3.048786 42.559782 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.048946 42.559539  -3.048837 42.559704  -3.048782 42.559809  -3.048605 42.559950  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Crucifijo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Treviana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Treviana</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.155.5</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2615500033</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1548360">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.049164 42.559513 </gml:lowerCorner>
-        		<gml:upperCorner>-3.049020 42.559838 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.049020 42.559513  -3.049047 42.559573  -3.049110 42.559709  -3.049164 42.559838  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Crucifijo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Treviana</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Treviana</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.155.5</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2615500033</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1548382">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.049020 42.559513 </gml:lowerCorner>
-        		<gml:upperCorner>-3.048946 42.559539 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.048946 42.559539  -3.049020 42.559513  </gml:posList>
+            <gml:posList srsDimension="2">-3.048946 42.559539  -3.048833 42.559683  -3.048786 42.559782  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Crucifijo</ms:NOMBRE_COMPLETO_VIAL>

@@ -593,26 +593,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1538860">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833715 42.541021 </gml:lowerCorner>
-        		<gml:upperCorner>-2.833332 42.541121 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.833715 42.541121  -2.833651 42.541075  -2.833631 42.541064  -2.833607 42.541061  -2.833585 42.541069  -2.833560 42.541087  -2.833532 42.541107  -2.833507 42.541114  -2.833476 42.541112  -2.833451 42.541098  -2.833332 42.541021  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1538863">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -683,26 +663,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.832890 42.540585  -2.832923 42.540932  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.111.26</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611100040</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866081">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833087 42.540909 </gml:lowerCorner>
-        		<gml:upperCorner>-2.832923 42.540932 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.832923 42.540932  -2.833052 42.540914  -2.833087 42.540909  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Valle</ms:NOMBRE_COMPLETO_VIAL>
@@ -1083,26 +1043,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.833083 42.541260  -2.833284 42.541215  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Gayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.111.57</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611100080</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3866080">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833332 42.540909 </gml:lowerCorner>
-        		<gml:upperCorner>-2.833087 42.541046 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.833087 42.540909  -2.833131 42.540994  -2.833191 42.541046  -2.833332 42.541021  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan Gayo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2790,6 +2730,46 @@
         <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.111.69</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2611100072</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1538860">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.833715 42.541021 </gml:lowerCorner>
+        		<gml:upperCorner>-2.833332 42.541121 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.833715 42.541121  -2.833651 42.541075  -2.833631 42.541064  -2.833607 42.541061  -2.833585 42.541069  -2.833560 42.541087  -2.833532 42.541107  -2.833507 42.541114  -2.833476 42.541112  -2.833451 42.541098  -2.833332 42.541021  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Callejón Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3866081">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.833332 42.540908 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832923 42.541021 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.832923 42.540932  -2.833072 42.540908  -2.833097 42.540919  -2.833126 42.540991  -2.833253 42.540966  -2.833332 42.541021  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Callejón Valle</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.111.28</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
