@@ -1956,13 +1956,13 @@
       <ms:viales gml:id="viales.1541114">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.855591 42.237740 </gml:lowerCorner>
-        		<gml:upperCorner>-1.855197 42.238029 </gml:upperCorner>
+        		<gml:lowerCorner>-1.855563 42.237740 </gml:lowerCorner>
+        		<gml:upperCorner>-1.855197 42.238063 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.855197 42.237740  -1.855591 42.238029  </gml:posList>
+            <gml:posList srsDimension="2">-1.855197 42.237740  -1.855563 42.238063  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -1976,13 +1976,13 @@
       <ms:viales gml:id="viales.1541120">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.856000 42.238029 </gml:lowerCorner>
-        		<gml:upperCorner>-1.855591 42.238351 </gml:upperCorner>
+        		<gml:lowerCorner>-1.855957 42.238063 </gml:lowerCorner>
+        		<gml:upperCorner>-1.855563 42.238392 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.855591 42.238029  -1.856000 42.238351  </gml:posList>
+            <gml:posList srsDimension="2">-1.855563 42.238063  -1.855957 42.238392  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -2036,13 +2036,13 @@
       <ms:viales gml:id="viales.1541135">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.856538 42.238351 </gml:lowerCorner>
-        		<gml:upperCorner>-1.856000 42.238872 </gml:upperCorner>
+        		<gml:lowerCorner>-1.856538 42.238392 </gml:lowerCorner>
+        		<gml:upperCorner>-1.855957 42.238872 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.856538 42.238872  -1.856000 42.238351  </gml:posList>
+            <gml:posList srsDimension="2">-1.856538 42.238872  -1.855957 42.238392  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -2056,13 +2056,13 @@
       <ms:viales gml:id="viales.1541136">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.855591 42.238029 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.855563 42.238063 </gml:lowerCorner>
         		<gml:upperCorner>-1.855390 42.238131 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.855591 42.238029  -1.855390 42.238131  </gml:posList>
+            <gml:posList srsDimension="2">-1.855563 42.238063  -1.855390 42.238131  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -3997,12 +3997,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.850999 42.235345 </gml:lowerCorner>
-        		<gml:upperCorner>-1.850805 42.235498 </gml:upperCorner>
+        		<gml:upperCorner>-1.850797 42.235468 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.850999 42.235345  -1.850860 42.235406  -1.850805 42.235444  -1.850814 42.235498  </gml:posList>
+            <gml:posList srsDimension="2">-1.850999 42.235345  -1.850958 42.235354  -1.850856 42.235400  -1.850797 42.235429  -1.850824 42.235468  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trinitarios</ms:NOMBRE_COMPLETO_VIAL>
@@ -6237,12 +6237,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.856407 42.237441 </gml:lowerCorner>
-        		<gml:upperCorner>-1.855591 42.238029 </gml:upperCorner>
+        		<gml:upperCorner>-1.855563 42.238063 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.856407 42.237441  -1.855591 42.238029  </gml:posList>
+            <gml:posList srsDimension="2">-1.856407 42.237441  -1.856165 42.237621  -1.855923 42.237795  -1.855563 42.238063  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Oeste</ms:NOMBRE_COMPLETO_VIAL>
@@ -6277,12 +6277,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.856529 42.237989 </gml:lowerCorner>
-        		<gml:upperCorner>-1.856000 42.238352 </gml:upperCorner>
+        		<gml:upperCorner>-1.855957 42.238392 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.856000 42.238351  -1.856002 42.238352  -1.856529 42.237989  </gml:posList>
+            <gml:posList srsDimension="2">-1.855957 42.238392  -1.856529 42.237989  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río Iregua</ms:NOMBRE_COMPLETO_VIAL>
@@ -6802,7 +6802,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.850907 42.234234  -1.850739 42.234363  -1.850621 42.234478  </gml:posList>
+            <gml:posList srsDimension="2">-1.850907 42.234234  -1.850822 42.234276  -1.850693 42.234388  -1.850621 42.234478  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Isabel</ms:NOMBRE_COMPLETO_VIAL>

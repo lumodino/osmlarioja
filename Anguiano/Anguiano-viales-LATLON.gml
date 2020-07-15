@@ -328,7 +328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle J</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.014.78</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -530,26 +530,6 @@
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.014.61</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601400116</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1512211">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.772757 42.258139 </gml:lowerCorner>
-        		<gml:upperCorner>-2.771883 42.258218 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.771883 42.258218  -2.772270 42.258184  -2.772574 42.258158  -2.772757 42.258139  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Paseo del Capitán Blas García</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.014.83</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1673,6 +1653,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1512211">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.772757 42.258139 </gml:lowerCorner>
+        		<gml:upperCorner>-2.771883 42.258218 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.771883 42.258218  -2.772270 42.258184  -2.772574 42.258158  -2.772757 42.258139  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calleja Rodeón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.014.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.4054219">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1836,13 +1836,33 @@
       <ms:viales gml:id="viales.1512123">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.763618 42.263521 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.763553 42.263681 </gml:lowerCorner>
         		<gml:upperCorner>-2.763458 42.263919 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.763618 42.263521  -2.763458 42.263919  </gml:posList>
+            <gml:posList srsDimension="2">-2.763553 42.263681  -2.763500 42.263810  -2.763458 42.263919  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.014.11</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601400097</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4209983">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763618 42.263521 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763553 42.263681 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.763553 42.263681  -2.763580 42.263609  -2.763618 42.263521  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
@@ -1965,11 +1985,11 @@
             <gml:posList srsDimension="2">-2.765207 42.263769  -2.765101 42.263831  -2.764892 42.264048  -2.764802 42.264092  -2.764484 42.264134  -2.764036 42.264105  -2.764036 42.264105  -2.763945 42.264102  -2.763740 42.264046  -2.763643 42.263996  -2.763458 42.263919  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Carrera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Trasera Carrera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.014.14</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601400148</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.014.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4050,6 +4070,26 @@
         <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.014.16</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2601400118</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4209984">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763713 42.263613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763553 42.263699 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.763553 42.263681  -2.763606 42.263687  -2.763688 42.263699  -2.763698 42.263647  -2.763713 42.263613  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Carrera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.014.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601400148</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
