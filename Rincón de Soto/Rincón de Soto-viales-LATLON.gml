@@ -6905,7 +6905,7 @@
             <gml:posList srsDimension="2">-1.855874 42.233037  -1.856023 42.232894  -1.856187 42.232838  -1.856466 42.232835  -1.857055 42.232968  -1.857318 42.233034  -1.857774 42.233137  -1.858271 42.233188  -1.858651 42.233226  -1.858833 42.233266  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Antonio LLorente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Antonio Llorente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -6925,7 +6925,7 @@
             <gml:posList srsDimension="2">-1.858833 42.233266  -1.859014 42.233305  -1.859649 42.233462  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Antonio LLorente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Antonio Llorente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rincón de Soto</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rincón de Soto</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
