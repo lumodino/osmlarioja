@@ -913,6 +913,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1550226">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.868550 42.369922 </gml:lowerCorner>
+        		<gml:upperCorner>-2.868308 42.370822 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.868550 42.370822  -2.868467 42.370443  -2.868412 42.370217  -2.868308 42.369922  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Doctor Diego de Villar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617100036</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1550223">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -993,23 +1013,23 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550226">
+      <ms:viales gml:id="viales.4210411">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.868550 42.369922 </gml:lowerCorner>
-        		<gml:upperCorner>-2.868308 42.370822 </gml:upperCorner>
+        		<gml:lowerCorner>-2.864367 42.371447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.863938 42.371476 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.868550 42.370822  -2.868467 42.370443  -2.868412 42.370217  -2.868308 42.369922  </gml:posList>
+            <gml:posList srsDimension="2">-2.864367 42.371476  -2.864324 42.371459  -2.864249 42.371452  -2.864168 42.371447  -2.864024 42.371447  -2.863938 42.371447  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Yuso</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Río Tuerto</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.172.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617100021</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.172.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617100031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1436,13 +1456,13 @@
       <ms:viales gml:id="viales.1550269">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.864638 42.370982 </gml:lowerCorner>
-        		<gml:upperCorner>-2.864153 42.371852 </gml:upperCorner>
+        		<gml:lowerCorner>-2.864584 42.370982 </gml:lowerCorner>
+        		<gml:upperCorner>-2.864153 42.371730 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.864638 42.371852  -2.864635 42.371843  -2.864631 42.371828  -2.864629 42.371821  -2.864629 42.371820  -2.864622 42.371807  -2.864605 42.371773  -2.864584 42.371730  -2.864539 42.371639  -2.864531 42.371625  -2.864515 42.371594  -2.864496 42.371560  -2.864493 42.371555  -2.864477 42.371524  -2.864465 42.371501  -2.864458 42.371490  -2.864456 42.371486  -2.864447 42.371470  -2.864442 42.371461  -2.864441 42.371461  -2.864440 42.371459  -2.864432 42.371447  -2.864421 42.371429  -2.864412 42.371416  -2.864409 42.371412  -2.864406 42.371408  -2.864400 42.371397  -2.864397 42.371394  -2.864392 42.371385  -2.864390 42.371382  -2.864384 42.371371  -2.864382 42.371369  -2.864356 42.371324  -2.864344 42.371305  -2.864343 42.371303  -2.864308 42.371244  -2.864274 42.371185  -2.864265 42.371171  -2.864253 42.371150  -2.864241 42.371130  -2.864210 42.371074  -2.864191 42.371039  -2.864175 42.371016  -2.864159 42.370991  -2.864153 42.370982  </gml:posList>
+            <gml:posList srsDimension="2">-2.864584 42.371730  -2.864539 42.371639  -2.864531 42.371625  -2.864515 42.371594  -2.864496 42.371560  -2.864493 42.371555  -2.864477 42.371524  -2.864465 42.371501  -2.864458 42.371490  -2.864456 42.371486  -2.864447 42.371470  -2.864442 42.371461  -2.864441 42.371461  -2.864440 42.371459  -2.864432 42.371447  -2.864421 42.371429  -2.864412 42.371416  -2.864409 42.371412  -2.864406 42.371408  -2.864400 42.371397  -2.864397 42.371394  -2.864392 42.371385  -2.864390 42.371382  -2.864384 42.371371  -2.864382 42.371369  -2.864356 42.371324  -2.864344 42.371305  -2.864343 42.371303  -2.864308 42.371244  -2.864274 42.371185  -2.864265 42.371171  -2.864253 42.371150  -2.864241 42.371130  -2.864210 42.371074  -2.864191 42.371039  -2.864175 42.371016  -2.864159 42.370991  -2.864153 42.370982  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Mamés</ms:NOMBRE_COMPLETO_VIAL>
@@ -1663,6 +1683,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.864524 42.372853  -2.864524 42.372851  -2.864539 42.372760  -2.864541 42.372746  -2.864543 42.372738  -2.864545 42.372726  -2.864556 42.372656  -2.864575 42.372542  -2.864579 42.372518  -2.864579 42.372513  -2.864595 42.372417  -2.864610 42.372325  -2.864614 42.372299  -2.864616 42.372290  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Mamés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.172.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617100013</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4210410">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.864584 42.371476 </gml:lowerCorner>
+        		<gml:upperCorner>-2.864367 42.371730 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.864584 42.371730  -2.864535 42.371726  -2.864491 42.371704  -2.864450 42.371626  -2.864401 42.371538  -2.864367 42.371476  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Mamés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villar de Torre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villar de Torre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.172.17</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617100013</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4210412">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.864638 42.371730 </gml:lowerCorner>
+        		<gml:upperCorner>-2.864584 42.371852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.864638 42.371852  -2.864612 42.371791  -2.864584 42.371730  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Mamés</ms:NOMBRE_COMPLETO_VIAL>
