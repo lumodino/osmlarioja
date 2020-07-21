@@ -7953,16 +7953,76 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1518654">
+      <ms:viales gml:id="viales.4210440">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.955323 42.005114 </gml:lowerCorner>
-        		<gml:upperCorner>-1.954978 42.005527 </gml:upperCorner>
+        		<gml:lowerCorner>-1.955572 42.005251 </gml:lowerCorner>
+        		<gml:upperCorner>-1.955463 42.005526 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.954978 42.005114  -1.955239 42.005270  -1.955323 42.005343  -1.955266 42.005527  </gml:posList>
+            <gml:posList srsDimension="2">-1.955463 42.005526  -1.955492 42.005462  -1.955572 42.005297  -1.955551 42.005251  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de Soledad</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700397</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4210441">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.955324 42.005329 </gml:lowerCorner>
+        		<gml:upperCorner>-1.955266 42.005527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.955324 42.005329  -1.955293 42.005431  -1.955266 42.005527  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de Soledad</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700397</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4210442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.955551 42.005251 </gml:lowerCorner>
+        		<gml:upperCorner>-1.955324 42.005382 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.955551 42.005251  -1.955506 42.005322  -1.955471 42.005382  -1.955393 42.005357  -1.955324 42.005329  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza de Soledad</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.57</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700397</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1518654">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.955324 42.005114 </gml:lowerCorner>
+        		<gml:upperCorner>-1.954978 42.005329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.954978 42.005114  -1.955078 42.005154  -1.955254 42.005259  -1.955324 42.005329  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Candelén</ms:NOMBRE_COMPLETO_VIAL>
@@ -8097,12 +8157,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.956545 42.003959 </gml:lowerCorner>
-        		<gml:upperCorner>-1.955463 42.005526 </gml:upperCorner>
+        		<gml:upperCorner>-1.955551 42.005251 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.955463 42.005526  -1.955493 42.005375  -1.955551 42.005251  -1.955940 42.004720  -1.956119 42.004514  -1.956363 42.004238  -1.956545 42.003959  </gml:posList>
+            <gml:posList srsDimension="2">-1.955551 42.005251  -1.955940 42.004720  -1.956119 42.004514  -1.956363 42.004238  -1.956545 42.003959  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Andrés Martínez</ms:NOMBRE_COMPLETO_VIAL>
@@ -8376,13 +8436,13 @@
       <ms:viales gml:id="viales.1518823">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.950142 42.008753 </gml:lowerCorner>
-        		<gml:upperCorner>-1.949569 42.008785 </gml:upperCorner>
+        		<gml:lowerCorner>-1.950093 42.008753 </gml:lowerCorner>
+        		<gml:upperCorner>-1.949569 42.008795 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.949569 42.008753  -1.949922 42.008773  -1.950142 42.008785  </gml:posList>
+            <gml:posList srsDimension="2">-1.949569 42.008753  -1.949732 42.008770  -1.949917 42.008782  -1.950093 42.008795  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Baltasar Álvarez</ms:NOMBRE_COMPLETO_VIAL>
@@ -9496,13 +9556,13 @@
       <ms:viales gml:id="viales.1518827">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.947785 42.008112 </gml:lowerCorner>
-        		<gml:upperCorner>-1.947571 42.008264 </gml:upperCorner>
+        		<gml:lowerCorner>-1.947785 42.008172 </gml:lowerCorner>
+        		<gml:upperCorner>-1.947536 42.008264 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.947785 42.008264  -1.947571 42.008112  </gml:posList>
+            <gml:posList srsDimension="2">-1.947785 42.008264  -1.947536 42.008172  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajada al Parque</ms:NOMBRE_COMPLETO_VIAL>
