@@ -5742,7 +5742,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.947630 42.010131  -1.947662 42.009928  -1.947828 42.009663  -1.947941 42.009500  -1.948015 42.009421  </gml:posList>
+            <gml:posList srsDimension="2">-1.947630 42.010131  -1.947665 42.009986  -1.947687 42.009907  -1.947758 42.009795  -1.947833 42.009686  -1.947887 42.009597  -1.947950 42.009507  -1.948015 42.009421  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mártires de la Patria</ms:NOMBRE_COMPLETO_VIAL>
@@ -5842,7 +5842,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.948503 42.009054  -1.948506 42.009052  -1.948704 42.008995  </gml:posList>
+            <gml:posList srsDimension="2">-1.948503 42.009054  -1.948506 42.009052  -1.948605 42.009032  -1.948704 42.008995  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mártires de la Patria</ms:NOMBRE_COMPLETO_VIAL>
@@ -7188,7 +7188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno Nuevo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700020</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7208,7 +7208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno Nuevo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700020</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7228,7 +7228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno Nuevo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700020</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7248,7 +7248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno Nuevo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700020</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -7268,28 +7268,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno Nuevo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700020</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1518584">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.921035 42.050100 </gml:lowerCorner>
-        		<gml:upperCorner>-1.919898 42.050138 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.921035 42.050129  -1.920835 42.050100  -1.920354 42.050102  -1.919898 42.050138  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Polígono Larrate</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2604700592</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -9863,6 +9843,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.921035 42.050129  -1.921189 42.050105  -1.922742 42.050082  -1.922921 42.050103  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Mediano </ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.181</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1518584">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.921035 42.050100 </gml:lowerCorner>
+        		<gml:upperCorner>-1.919898 42.050138 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.921035 42.050129  -1.920835 42.050100  -1.920354 42.050102  -1.919898 42.050138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Mediano </ms:NOMBRE_COMPLETO_VIAL>
