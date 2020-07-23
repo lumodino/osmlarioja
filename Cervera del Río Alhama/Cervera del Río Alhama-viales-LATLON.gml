@@ -4753,16 +4753,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1518767">
+      <ms:viales gml:id="viales.1518766">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.955243 42.006952 </gml:lowerCorner>
-        		<gml:upperCorner>-1.955162 42.007065 </gml:upperCorner>
+        		<gml:lowerCorner>-1.955472 42.007003 </gml:lowerCorner>
+        		<gml:upperCorner>-1.955248 42.007078 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.955243 42.007065  -1.955223 42.007055  -1.955192 42.007043  -1.955162 42.007025  -1.955187 42.006988  -1.955214 42.006952  </gml:posList>
+            <gml:posList srsDimension="2">-1.955472 42.007003  -1.955385 42.007042  -1.955248 42.007078  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Callejón Remigia</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.44</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700370</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1518767">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.955248 42.006952 </gml:lowerCorner>
+        		<gml:upperCorner>-1.955162 42.007078 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.955248 42.007078  -1.955223 42.007055  -1.955192 42.007043  -1.955162 42.007025  -1.955187 42.006988  -1.955214 42.006952  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Remigia</ms:NOMBRE_COMPLETO_VIAL>
@@ -6693,36 +6713,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1518766">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.955472 42.007003 </gml:lowerCorner>
-        		<gml:upperCorner>-1.955243 42.007065 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.955472 42.007003  -1.955385 42.007042  -1.955243 42.007065  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Remigia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.047.43</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2604700036</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1518835">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.955308 42.007065 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.955308 42.007078 </gml:lowerCorner>
         		<gml:upperCorner>-1.955129 42.007212 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.955243 42.007065  -1.955308 42.007162  -1.955129 42.007212  </gml:posList>
+            <gml:posList srsDimension="2">-1.955248 42.007078  -1.955308 42.007162  -1.955129 42.007212  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Remigia</ms:NOMBRE_COMPLETO_VIAL>
@@ -6736,13 +6736,13 @@
       <ms:viales gml:id="viales.1518563">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.953044 42.007562 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.953095 42.007560 </gml:lowerCorner>
         		<gml:upperCorner>-1.952506 42.007603 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.953044 42.007567  -1.953007 42.007562  -1.952835 42.007570  -1.952750 42.007578  -1.952657 42.007586  -1.952575 42.007594  -1.952506 42.007603  </gml:posList>
+            <gml:posList srsDimension="2">-1.953095 42.007560  -1.953007 42.007562  -1.952835 42.007570  -1.952750 42.007578  -1.952657 42.007586  -1.952575 42.007594  -1.952506 42.007603  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor de Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
@@ -6757,12 +6757,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.953469 42.007466 </gml:lowerCorner>
-        		<gml:upperCorner>-1.953044 42.007567 </gml:upperCorner>
+        		<gml:upperCorner>-1.953095 42.007560 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.953469 42.007466  -1.953044 42.007567  </gml:posList>
+            <gml:posList srsDimension="2">-1.953469 42.007466  -1.953293 42.007511  -1.953095 42.007560  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor de Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
@@ -8668,7 +8668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Peñas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.40</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -8688,7 +8688,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Peñas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.40</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700031</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -9508,8 +9508,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Subida a San Gil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.50</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700417</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -9716,19 +9716,19 @@
       <ms:viales gml:id="viales.1518741">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.953049 42.007567 </gml:lowerCorner>
-        		<gml:upperCorner>-1.952998 42.007873 </gml:upperCorner>
+        		<gml:lowerCorner>-1.953095 42.007560 </gml:lowerCorner>
+        		<gml:upperCorner>-1.953019 42.007873 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.953049 42.007873  -1.952998 42.007746  -1.953040 42.007689  -1.953044 42.007567  </gml:posList>
+            <gml:posList srsDimension="2">-1.953049 42.007873  -1.953032 42.007806  -1.953019 42.007754  -1.953022 42.007681  -1.953026 42.007650  -1.953046 42.007624  -1.953053 42.007598  -1.953063 42.007578  -1.953095 42.007560  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Subida al Patio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.047.35</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604700046</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
