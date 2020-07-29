@@ -493,6 +493,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4210700">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.440640 42.405120 </gml:lowerCorner>
+        		<gml:upperCorner>-2.440293 42.405255 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.440640 42.405249  -2.440600 42.405255  -2.440474 42.405203  -2.440346 42.405144  -2.440293 42.405120  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza la Plazuela</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alberite</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alberite</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.006.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600600490</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1494056">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3716,13 +3736,13 @@
       <ms:viales gml:id="viales.1494095">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.440911 42.405120 </gml:lowerCorner>
-        		<gml:upperCorner>-2.440293 42.405470 </gml:upperCorner>
+        		<gml:lowerCorner>-2.440911 42.405249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.440640 42.405470 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.440293 42.405120  -2.440487 42.405240  -2.440579 42.405264  -2.440640 42.405249  -2.440911 42.405470  </gml:posList>
+            <gml:posList srsDimension="2">-2.440640 42.405249  -2.440743 42.405328  -2.440842 42.405413  -2.440911 42.405470  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marino Sáenz Andollo</ms:NOMBRE_COMPLETO_VIAL>
