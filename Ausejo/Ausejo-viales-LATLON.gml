@@ -28,7 +28,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -48,7 +48,47 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514096">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166171 42.342424 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166058 42.342803 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.166058 42.342424  -2.166070 42.342518  -2.166098 42.342640  -2.166171 42.342803  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514130">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166058 42.342363 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165829 42.342424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.166058 42.342424  -2.165957 42.342409  -2.165829 42.342363  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -68,7 +108,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -88,7 +128,87 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514204">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.167149 42.342693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166984 42.343165 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.167093 42.342693  -2.166998 42.342806  -2.166984 42.342856  -2.167022 42.342897  -2.167149 42.343054  -2.167023 42.343165  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514205">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.168279 42.342708 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167530 42.342746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.167530 42.342715  -2.167760 42.342712  -2.167993 42.342708  -2.168279 42.342746  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514209">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.168368 42.342865 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167568 42.343243 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.167618 42.343243  -2.167568 42.343134  -2.167591 42.343085  -2.167741 42.343024  -2.168167 42.342897  -2.168368 42.342865  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514211">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.167076 42.342496 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166304 42.343054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.166679 42.343054  -2.166520 42.342891  -2.166515 42.342841  -2.166317 42.342682  -2.166304 42.342585  -2.166409 42.342516  -2.166671 42.342496  -2.166840 42.342521  -2.167076 42.342593  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -108,7 +228,67 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514214">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.168279 42.342693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167093 42.342956 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.168279 42.342746  -2.168073 42.342769  -2.167929 42.342808  -2.167638 42.342944  -2.167571 42.342956  -2.167396 42.342948  -2.167287 42.342906  -2.167093 42.342693  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514215">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.167093 42.342593 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167076 42.342693 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.167076 42.342593  -2.167093 42.342693  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514216">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.167155 42.342552 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167076 42.342593 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.167155 42.342552  -2.167076 42.342593  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -128,7 +308,27 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514219">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166958 42.342272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166044 42.342424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.166058 42.342424  -2.166044 42.342369  -2.166100 42.342306  -2.166345 42.342272  -2.166600 42.342283  -2.166958 42.342359  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -148,7 +348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -168,7 +368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -188,7 +388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Parramera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -253,6 +453,46 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1514073">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.170392 42.343819 </gml:lowerCorner>
+        		<gml:upperCorner>-2.170196 42.343845 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.170392 42.343819  -2.170196 42.343845  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514094">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.170210 42.343455 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169780 42.343845 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.170196 42.343845  -2.170210 42.343817  -2.170202 42.343788  -2.170138 42.343701  -2.170037 42.343616  -2.169937 42.343555  -2.169780 42.343455  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514134">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -283,6 +523,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.170690 42.344065  -2.170969 42.344094  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.10</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1514236">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.169780 42.343455 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169572 42.343572 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.169780 42.343455  -2.169677 42.343494  -2.169572 42.343572  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -453,26 +713,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514073">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170392 42.343819 </gml:lowerCorner>
-        		<gml:upperCorner>-2.170196 42.343845 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170392 42.343819  -2.170196 42.343845  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514074">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -553,6 +793,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1514108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171583 42.343763 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171062 42.344258 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.171062 42.343763  -2.171108 42.343788  -2.171337 42.343863  -2.171564 42.344018  -2.171583 42.344105  -2.171438 42.344258  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514121">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -613,6 +873,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1514176">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171062 42.343763 </gml:lowerCorner>
+        		<gml:upperCorner>-2.170966 42.343923 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.170966 42.343923  -2.170985 42.343837  -2.171030 42.343786  -2.171062 42.343763  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514183">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -643,6 +923,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.171969 42.342783  -2.171811 42.342810  -2.171663 42.342893  -2.171578 42.342989  -2.171580 42.343075  -2.171621 42.343138  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171769 42.344258 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171438 42.345202 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.171606 42.345202  -2.171618 42.345171  -2.171621 42.345096  -2.171631 42.345048  -2.171649 42.344944  -2.171665 42.344887  -2.171685 42.344825  -2.171731 42.344757  -2.171762 42.344689  -2.171769 42.344628  -2.171759 42.344565  -2.171717 42.344498  -2.171673 42.344444  -2.171613 42.344405  -2.171531 42.344354  -2.171473 42.344309  -2.171438 42.344258  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -1042,7 +1342,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166756 42.342252  -2.167238 42.342407  -2.167322 42.342437  -2.167445 42.342483  -2.167513 42.342501  -2.167583 42.342495  </gml:posList>
+            <gml:posList srsDimension="2">-2.166756 42.342252  -2.166895 42.342273  -2.167062 42.342334  -2.167214 42.342393  -2.167322 42.342437  -2.167445 42.342483  -2.167513 42.342501  -2.167583 42.342495  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
@@ -1062,7 +1362,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167583 42.342495  -2.167814 42.342468  -2.168063 42.342436  -2.168335 42.342425  </gml:posList>
+            <gml:posList srsDimension="2">-2.167583 42.342495  -2.167808 42.342463  -2.168063 42.342436  -2.168335 42.342425  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
@@ -1122,7 +1422,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169234 42.345903  -2.169225 42.345852  -2.169255 42.345821  -2.169535 42.345776  </gml:posList>
+            <gml:posList srsDimension="2">-2.169234 42.345903  -2.169225 42.345852  -2.169255 42.345821  -2.169280 42.345805  -2.169406 42.345797  -2.169535 42.345776  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Posadas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1256,13 +1556,13 @@
       <ms:viales gml:id="viales.1514050">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170532 42.345776 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.170558 42.345776 </gml:lowerCorner>
         		<gml:upperCorner>-2.170214 42.346750 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170489 42.345776  -2.170532 42.346158  -2.170507 42.346274  -2.170214 42.346750  </gml:posList>
+            <gml:posList srsDimension="2">-2.170489 42.345776  -2.170536 42.345994  -2.170558 42.346110  -2.170557 42.346187  -2.170517 42.346314  -2.170414 42.346465  -2.170310 42.346610  -2.170214 42.346750  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -1322,7 +1622,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170409 42.345407  -2.170354 42.345466  -2.170285 42.345501  -2.170204 42.345510  -2.170133 42.345495  </gml:posList>
+            <gml:posList srsDimension="2">-2.170409 42.345407  -2.170375 42.345438  -2.170312 42.345495  -2.170204 42.345510  -2.170133 42.345495  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -1553,6 +1853,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1514139">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.167176 42.343643 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166680 42.344113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.167176 42.344113  -2.166986 42.343910  -2.166680 42.343643  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Turriente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.39</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000009</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514174">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1693,56 +2013,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514060">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168964 42.345247 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168354 42.345278 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168354 42.345247  -2.168466 42.345268  -2.168635 42.345271  -2.168791 42.345278  -2.168933 42.345276  -2.168964 42.345267  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Senda Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.80</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514083">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168425 42.345289 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168037 42.345448 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168425 42.345448  -2.168396 42.345409  -2.168283 42.345372  -2.168148 42.345333  -2.168037 42.345289  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Senda Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.80</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514120">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168221 42.343929 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167592 42.345438 </gml:upperCorner>
+        		<gml:lowerCorner>-2.168203 42.344805 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167829 42.345438 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167592 42.343929  -2.167659 42.344028  -2.167757 42.344129  -2.167877 42.344304  -2.167980 42.344468  -2.168058 42.344544  -2.168138 42.344619  -2.168209 42.344694  -2.168219 42.344721  -2.168221 42.344749  -2.168216 42.344777  -2.168203 42.344803  -2.168183 42.344826  -2.168162 42.344849  -2.168141 42.344871  -2.168043 42.344916  -2.167941 42.344976  -2.167905 42.345006  -2.167875 42.345039  -2.167852 42.345074  -2.167837 42.345112  -2.167829 42.345152  -2.167830 42.345191  -2.167838 42.345230  -2.167842 42.345241  -2.167891 42.345296  -2.168029 42.345394  -2.168154 42.345438  </gml:posList>
+            <gml:posList srsDimension="2">-2.168203 42.344805  -2.168162 42.344849  -2.168103 42.344885  -2.168034 42.344909  -2.167986 42.344936  -2.167941 42.344976  -2.167905 42.345006  -2.167875 42.345039  -2.167852 42.345074  -2.167837 42.345112  -2.167829 42.345152  -2.167830 42.345191  -2.167838 42.345230  -2.167842 42.345241  -2.167891 42.345296  -2.168029 42.345394  -2.168154 42.345438  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Senda Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1757,12 +2037,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.169181 42.345483 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168194 42.345656 </gml:upperCorner>
+        		<gml:upperCorner>-2.168194 42.345641 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169181 42.345621  -2.168939 42.345631  -2.168741 42.345656  -2.168700 42.345620  -2.168372 42.345524  -2.168194 42.345483  </gml:posList>
+            <gml:posList srsDimension="2">-2.169181 42.345621  -2.169048 42.345623  -2.168942 42.345625  -2.168875 42.345624  -2.168793 42.345637  -2.168726 42.345641  -2.168690 42.345625  -2.168631 42.345584  -2.168502 42.345551  -2.168403 42.345534  -2.168310 42.345516  -2.168194 42.345483  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Senda Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1793,6 +2073,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4211199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.168231 42.343929 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167592 42.344805 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.168203 42.344805  -2.168224 42.344760  -2.168231 42.344728  -2.168227 42.344703  -2.168181 42.344651  -2.168126 42.344608  -2.168071 42.344550  -2.168016 42.344491  -2.167978 42.344455  -2.167952 42.344415  -2.167892 42.344317  -2.167852 42.344261  -2.167812 42.344201  -2.167780 42.344150  -2.167753 42.344118  -2.167702 42.344070  -2.167656 42.344023  -2.167603 42.343958  -2.167592 42.343929  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Senda Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514056">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1813,16 +2113,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514094">
+      <ms:viales gml:id="viales.1514066">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170198 42.343457 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169740 42.343845 </gml:upperCorner>
+        		<gml:lowerCorner>-2.169821 42.343679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169378 42.343896 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170196 42.343845  -2.170198 42.343798  -2.170138 42.343701  -2.169940 42.343558  -2.169740 42.343457  </gml:posList>
+            <gml:posList srsDimension="2">-2.169378 42.343896  -2.169411 42.343840  -2.169486 42.343732  -2.169519 42.343692  -2.169550 42.343679  -2.169651 42.343698  -2.169729 42.343704  -2.169821 42.343681  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -1913,26 +2213,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514236">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.169740 42.343457 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169572 42.343572 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169740 42.343457  -2.169664 42.343481  -2.169572 42.343572  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000005</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514244">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1942,7 +2222,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170475 42.344207  -2.170540 42.344395  </gml:posList>
+            <gml:posList srsDimension="2">-2.170475 42.344207  -2.170524 42.344314  -2.170540 42.344395  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -1957,12 +2237,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.169572 42.342997 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168382 42.343937 </gml:upperCorner>
+        		<gml:upperCorner>-2.168382 42.343948 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168382 42.342997  -2.168489 42.343413  -2.168424 42.343663  -2.168516 42.343847  -2.168688 42.343932  -2.168907 42.343937  -2.169191 42.343834  -2.169508 42.343582  -2.169572 42.343572  </gml:posList>
+            <gml:posList srsDimension="2">-2.168382 42.342997  -2.168410 42.343137  -2.168475 42.343309  -2.168489 42.343413  -2.168482 42.343517  -2.168436 42.343592  -2.168402 42.343668  -2.168408 42.343732  -2.168455 42.343794  -2.168505 42.343856  -2.168574 42.343906  -2.168658 42.343940  -2.168789 42.343948  -2.168907 42.343937  -2.169041 42.343889  -2.169180 42.343821  -2.169282 42.343742  -2.169369 42.343673  -2.169512 42.343595  -2.169572 42.343572  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Hoz</ms:NOMBRE_COMPLETO_VIAL>
@@ -2013,6 +2293,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1514060">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.168964 42.345247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.168354 42.345277 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.168354 42.345247  -2.168466 42.345268  -2.168607 42.345277  -2.168757 42.345273  -2.168867 42.345273  -2.168964 42.345267  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Garitas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.14</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000058</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514061">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2042,7 +2342,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168964 42.345267  -2.169102 42.345292  -2.169425 42.345226  -2.169825 42.345123  </gml:posList>
+            <gml:posList srsDimension="2">-2.168964 42.345267  -2.169011 42.345289  -2.169102 42.345292  -2.169425 42.345226  -2.169825 42.345123  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Garitas</ms:NOMBRE_COMPLETO_VIAL>
@@ -2050,206 +2350,6 @@
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.020.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000058</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514096">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166171 42.342424 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166058 42.342803 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166058 42.342424  -2.166070 42.342518  -2.166098 42.342640  -2.166171 42.342803  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514130">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166058 42.342363 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165829 42.342424 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166058 42.342424  -2.165957 42.342409  -2.165829 42.342363  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514204">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167149 42.342693 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166984 42.343165 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167093 42.342693  -2.166998 42.342806  -2.166984 42.342856  -2.167022 42.342897  -2.167149 42.343054  -2.167023 42.343165  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514205">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168279 42.342708 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167530 42.342746 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167530 42.342715  -2.167760 42.342712  -2.167993 42.342708  -2.168279 42.342746  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514209">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168368 42.342865 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167568 42.343243 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167618 42.343243  -2.167568 42.343134  -2.167591 42.343085  -2.167741 42.343024  -2.168167 42.342897  -2.168368 42.342865  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514211">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167076 42.342496 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166304 42.343054 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166679 42.343054  -2.166520 42.342891  -2.166515 42.342841  -2.166317 42.342682  -2.166304 42.342585  -2.166409 42.342516  -2.166671 42.342496  -2.166840 42.342521  -2.167076 42.342593  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514214">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168279 42.342693 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167093 42.342956 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168279 42.342746  -2.168073 42.342769  -2.167929 42.342808  -2.167638 42.342944  -2.167571 42.342956  -2.167396 42.342948  -2.167287 42.342906  -2.167093 42.342693  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514215">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167093 42.342593 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167076 42.342693 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167076 42.342593  -2.167093 42.342693  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514216">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167155 42.342552 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167076 42.342593 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167155 42.342552  -2.167076 42.342593  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514219">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166958 42.342272 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166044 42.342424 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166058 42.342424  -2.166044 42.342369  -2.166100 42.342306  -2.166345 42.342272  -2.166600 42.342283  -2.166958 42.342359  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Barrio Parramera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.25</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2263,26 +2363,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.169378 42.343896  -2.169306 42.343912  -2.169173 42.343973  -2.169104 42.344035  -2.169068 42.344059  -2.169004 42.344099  -2.168931 42.344125  -2.168826 42.344136  -2.168732 42.344140  -2.168620 42.344136  -2.168529 42.344122  -2.168426 42.344081  -2.168329 42.344038  -2.168240 42.343955  -2.168165 42.343865  -2.168165 42.343863  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000001</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514066">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.169821 42.343681 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169378 42.343896 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169378 42.343896  -2.169511 42.343701  -2.169729 42.343704  -2.169821 42.343681  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
@@ -2353,26 +2433,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514103">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168341 42.343657 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168122 42.343919 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168122 42.343657  -2.168147 42.343740  -2.168221 42.343796  -2.168341 42.343919  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000001</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514119">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2396,13 +2456,13 @@
       <ms:viales gml:id="viales.1514126">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170272 42.343854 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169378 42.344786 </gml:upperCorner>
+        		<gml:lowerCorner>-2.170272 42.343898 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169664 42.344786 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170220 42.344786  -2.170271 42.344611  -2.170272 42.344535  -2.170250 42.344444  -2.170187 42.344309  -2.170103 42.344182  -2.170042 42.344132  -2.169876 42.343991  -2.169735 42.343918  -2.169622 42.343872  -2.169537 42.343854  -2.169462 42.343867  -2.169378 42.343896  </gml:posList>
+            <gml:posList srsDimension="2">-2.170220 42.344786  -2.170271 42.344611  -2.170272 42.344535  -2.170250 42.344444  -2.170187 42.344309  -2.170067 42.344171  -2.169968 42.344087  -2.169853 42.344002  -2.169759 42.343943  -2.169664 42.343898  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
@@ -2433,36 +2493,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514156">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171534 42.345475 </gml:lowerCorner>
-        		<gml:upperCorner>-2.170880 42.346077 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171453 42.346077  -2.171534 42.345871  -2.171508 42.345784  -2.171360 42.345680  -2.170880 42.345475  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.35</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000001</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514189">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168059 42.343522 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167933 42.343701 </gml:upperCorner>
+        		<gml:lowerCorner>-2.168110 42.343522 </gml:lowerCorner>
+        		<gml:upperCorner>-2.167933 42.343717 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168059 42.343701  -2.168011 42.343552  -2.167933 42.343522  </gml:posList>
+            <gml:posList srsDimension="2">-2.168110 42.343717  -2.168076 42.343632  -2.168011 42.343552  -2.167933 42.343522  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
@@ -2496,13 +2536,13 @@
       <ms:viales gml:id="viales.1514200">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168165 42.343701 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168059 42.343863 </gml:upperCorner>
+        		<gml:lowerCorner>-2.168165 42.343717 </gml:lowerCorner>
+        		<gml:upperCorner>-2.168110 42.343863 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168165 42.343863  -2.168116 42.343753  -2.168059 42.343701  </gml:posList>
+            <gml:posList srsDimension="2">-2.168165 42.343863  -2.168116 42.343753  -2.168110 42.343717  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
@@ -2533,16 +2573,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4211172">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.169664 42.343862 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169378 42.343898 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.169664 42.343898  -2.169605 42.343879  -2.169519 42.343862  -2.169450 42.343872  -2.169378 42.343896  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Solano</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.35</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000001</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514067">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168354 42.344966 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.168354 42.344765 </gml:lowerCorner>
         		<gml:upperCorner>-2.168063 42.345247 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168274 42.344966  -2.168225 42.344989  -2.168175 42.344985  -2.168090 42.345002  -2.168074 42.345014  -2.168065 42.345033  -2.168063 42.345065  -2.168069 42.345097  -2.168083 42.345127  -2.168104 42.345156  -2.168128 42.345178  -2.168275 42.345232  -2.168354 42.345247  </gml:posList>
+            <gml:posList srsDimension="2">-2.168203 42.344805  -2.168237 42.344795  -2.168299 42.344765  -2.168313 42.344771  -2.168323 42.344811  -2.168335 42.344853  -2.168336 42.344894  -2.168308 42.344933  -2.168283 42.344963  -2.168222 42.344982  -2.168175 42.344985  -2.168130 42.344988  -2.168090 42.345002  -2.168074 42.345014  -2.168065 42.345033  -2.168063 42.345065  -2.168069 42.345097  -2.168083 42.345127  -2.168104 42.345156  -2.168128 42.345178  -2.168275 42.345232  -2.168354 42.345247  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda C</ms:NOMBRE_COMPLETO_VIAL>
@@ -2656,13 +2716,13 @@
       <ms:viales gml:id="viales.1514167">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171231 42.344724 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.171162 42.344929 </gml:lowerCorner>
         		<gml:upperCorner>-2.171011 42.345202 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171231 42.344724  -2.171231 42.344745  -2.171179 42.344897  -2.171011 42.345202  </gml:posList>
+            <gml:posList srsDimension="2">-2.171162 42.344929  -2.171086 42.345081  -2.171011 42.345202  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -2716,13 +2776,13 @@
       <ms:viales gml:id="viales.1514193">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171231 42.344388 </gml:lowerCorner>
-        		<gml:upperCorner>-2.171091 42.344724 </gml:upperCorner>
+        		<gml:lowerCorner>-2.171252 42.344388 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171091 42.344718 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171091 42.344388  -2.171137 42.344420  -2.171186 42.344503  -2.171231 42.344637  -2.171231 42.344724  </gml:posList>
+            <gml:posList srsDimension="2">-2.171091 42.344388  -2.171137 42.344420  -2.171186 42.344503  -2.171236 42.344623  -2.171252 42.344718  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -2737,12 +2797,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.171364 42.344703 </gml:lowerCorner>
-        		<gml:upperCorner>-2.171231 42.344724 </gml:upperCorner>
+        		<gml:upperCorner>-2.171252 42.344718 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171231 42.344724  -2.171364 42.344703  </gml:posList>
+            <gml:posList srsDimension="2">-2.171252 42.344718  -2.171364 42.344703  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -2756,13 +2816,13 @@
       <ms:viales gml:id="viales.1514235">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170174 42.343313 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169710 42.343570 </gml:upperCorner>
+        		<gml:lowerCorner>-2.170174 42.343337 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169807 42.343570 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170174 42.343570  -2.170100 42.343490  -2.169952 42.343384  -2.169799 42.343313  -2.169763 42.343322  -2.169710 42.343394  -2.169740 42.343457  </gml:posList>
+            <gml:posList srsDimension="2">-2.170174 42.343570  -2.170100 42.343490  -2.170028 42.343428  -2.169948 42.343389  -2.169807 42.343337  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -2782,7 +2842,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170174 42.343570  -2.170508 42.343722  -2.170822 42.343851  -2.170856 42.343888  </gml:posList>
+            <gml:posList srsDimension="2">-2.170174 42.343570  -2.170508 42.343722  -2.170593 42.343745  -2.170699 42.343777  -2.170822 42.343851  -2.170856 42.343888  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -2843,6 +2903,66 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.170670 42.344049  -2.170513 42.343928  -2.170392 42.343819  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000053</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211190">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171162 42.344653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171027 42.344929 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.171162 42.344929  -2.171144 42.344867  -2.171081 42.344744  -2.171027 42.344653  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000053</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211191">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171252 42.344718 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171162 42.344929 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.171162 42.344929  -2.171191 42.344869  -2.171211 42.344820  -2.171240 42.344753  -2.171252 42.344718  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000053</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211192">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.169807 42.343337 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169729 42.343455 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.169807 42.343337  -2.169760 42.343389  -2.169729 42.343426  -2.169780 42.343442  -2.169780 42.343455  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -3057,12 +3177,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.169387 42.345997 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168282 42.346165 </gml:upperCorner>
+        		<gml:upperCorner>-2.168282 42.346164 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168282 42.345997  -2.168493 42.346129  -2.168637 42.346165  -2.168741 42.346157  -2.169387 42.346035  </gml:posList>
+            <gml:posList srsDimension="2">-2.168282 42.345997  -2.168338 42.346044  -2.168450 42.346117  -2.168627 42.346164  -2.168742 42.346163  -2.168880 42.346137  -2.169028 42.346113  -2.169105 42.346081  -2.169196 42.346064  -2.169288 42.346058  -2.169387 42.346035  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Intestino</ms:NOMBRE_COMPLETO_VIAL>
@@ -3096,13 +3216,13 @@
       <ms:viales gml:id="viales.1514122">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170246 42.343749 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.170246 42.343744 </gml:lowerCorner>
         		<gml:upperCorner>-2.169378 42.344138 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170246 42.344138  -2.170066 42.343975  -2.169684 42.343774  -2.169542 42.343749  -2.169505 42.343780  -2.169453 42.343849  -2.169378 42.343896  </gml:posList>
+            <gml:posList srsDimension="2">-2.170246 42.344138  -2.170194 42.344077  -2.170133 42.344026  -2.170061 42.343977  -2.169979 42.343928  -2.169889 42.343875  -2.169776 42.343825  -2.169665 42.343781  -2.169565 42.343744  -2.169525 42.343756  -2.169487 42.343807  -2.169453 42.343849  -2.169378 42.343896  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nueva</ms:NOMBRE_COMPLETO_VIAL>
@@ -3116,13 +3236,13 @@
       <ms:viales gml:id="viales.1514123">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170426 42.344138 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.170438 42.344138 </gml:lowerCorner>
         		<gml:upperCorner>-2.170246 42.344743 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170246 42.344138  -2.170285 42.344215  -2.170363 42.344355  -2.170401 42.344450  -2.170426 42.344513  -2.170425 42.344599  -2.170386 42.344743  </gml:posList>
+            <gml:posList srsDimension="2">-2.170246 42.344138  -2.170285 42.344215  -2.170363 42.344355  -2.170401 42.344450  -2.170426 42.344513  -2.170438 42.344586  -2.170419 42.344659  -2.170386 42.344743  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nueva</ms:NOMBRE_COMPLETO_VIAL>
@@ -3316,13 +3436,13 @@
       <ms:viales gml:id="viales.1514092">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167017 42.341501 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.167234 42.341062 </gml:lowerCorner>
         		<gml:upperCorner>-2.166380 42.342105 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167017 42.341501  -2.166829 42.341658  -2.166380 42.342105  </gml:posList>
+            <gml:posList srsDimension="2">-2.167234 42.341062  -2.167232 42.341172  -2.167156 42.341345  -2.167027 42.341474  -2.166922 42.341571  -2.166786 42.341691  -2.166688 42.341813  -2.166609 42.341899  -2.166511 42.341989  -2.166380 42.342105  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Pablo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3333,56 +3453,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514186">
+      <ms:viales gml:id="viales.1514137">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167234 42.341062 </gml:lowerCorner>
-        		<gml:upperCorner>-2.167017 42.341501 </gml:upperCorner>
+        		<gml:lowerCorner>-2.170220 42.344033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169822 42.344786 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167234 42.341062  -2.167178 42.341367  -2.167017 42.341501  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Pablo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514188">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167017 42.341354 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165339 42.341501 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167017 42.341501  -2.166942 42.341436  -2.166832 42.341393  -2.166613 42.341362  -2.166321 42.341354  -2.166091 42.341403  -2.165936 42.341410  -2.165339 42.341386  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Pablo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.24</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514093">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.169712 42.344128 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169329 42.344346 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169712 42.344346  -2.169590 42.344182  -2.169542 42.344152  -2.169329 42.344128  </gml:posList>
+            <gml:posList srsDimension="2">-2.170220 42.344786  -2.170199 42.344642  -2.170149 42.344524  -2.170087 42.344413  -2.169962 42.344204  -2.170013 42.344194  -2.169895 42.344080  -2.169822 42.344033  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
@@ -3393,16 +3473,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514137">
+      <ms:viales gml:id="viales.4211169">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170220 42.343937 </gml:lowerCorner>
-        		<gml:upperCorner>-2.169329 42.344786 </gml:upperCorner>
+        		<gml:lowerCorner>-2.169822 42.343940 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169334 42.344130 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170220 42.344786  -2.170199 42.344642  -2.169970 42.344226  -2.169984 42.344169  -2.169748 42.343977  -2.169599 42.343939  -2.169518 42.343937  -2.169494 42.343976  -2.169541 42.344055  -2.169509 42.344085  -2.169329 42.344128  </gml:posList>
+            <gml:posList srsDimension="2">-2.169822 42.344033  -2.169788 42.344022  -2.169736 42.343997  -2.169663 42.343956  -2.169589 42.343943  -2.169537 42.343940  -2.169521 42.343955  -2.169512 42.344017  -2.169545 42.344038  -2.169595 42.344060  -2.169585 42.344076  -2.169482 42.344083  -2.169369 42.344104  -2.169334 42.344130  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.33</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000035</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211170">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.169822 42.343898 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169664 42.344033 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.169822 42.344033  -2.169800 42.344009  -2.169761 42.343988  -2.169705 42.343949  -2.169664 42.343898  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
@@ -3473,23 +3573,23 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514102">
+      <ms:viales gml:id="viales.4211156">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168122 42.343657 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168059 42.343701 </gml:upperCorner>
+        		<gml:lowerCorner>-2.167366 42.344193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166706 42.344903 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168059 42.343701  -2.168122 42.343657  </gml:posList>
+            <gml:posList srsDimension="2">-2.166706 42.344890  -2.166717 42.344859  -2.166760 42.344843  -2.166888 42.344881  -2.166982 42.344897  -2.167051 42.344903  -2.167175 42.344884  -2.167244 42.344861  -2.167305 42.344807  -2.167331 42.344754  -2.167356 42.344681  -2.167363 42.344619  -2.167366 42.344549  -2.167356 42.344511  -2.167335 42.344465  -2.167291 42.344429  -2.167244 42.344402  -2.167205 42.344381  -2.167129 42.344323  -2.167066 42.344274  -2.166978 42.344193  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Solano</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuevas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.38</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000078</ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.95</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000080</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3497,12 +3597,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.168350 42.343367 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168122 42.343657 </gml:upperCorner>
+        		<gml:upperCorner>-2.168110 42.343717 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168122 42.343657  -2.168192 42.343607  -2.168350 42.343367  </gml:posList>
+            <gml:posList srsDimension="2">-2.168110 42.343717  -2.168125 42.343679  -2.168168 42.343646  -2.168192 42.343607  -2.168299 42.343470  -2.168350 42.343367  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Solano</ms:NOMBRE_COMPLETO_VIAL>
@@ -3556,13 +3656,13 @@
       <ms:viales gml:id="viales.1514109">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170767 42.346614 </gml:lowerCorner>
-        		<gml:upperCorner>-2.170740 42.346738 </gml:upperCorner>
+        		<gml:lowerCorner>-2.171013 42.346614 </gml:lowerCorner>
+        		<gml:upperCorner>-2.170747 42.346886 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170758 42.346614  -2.170761 42.346629  -2.170766 42.346654  -2.170767 42.346654  -2.170764 42.346662  -2.170763 42.346667  -2.170760 42.346677  -2.170759 42.346682  -2.170756 42.346691  -2.170753 42.346702  -2.170750 42.346715  -2.170748 42.346722  -2.170746 42.346726  -2.170741 42.346737  -2.170740 42.346738  </gml:posList>
+            <gml:posList srsDimension="2">-2.170758 42.346614  -2.170766 42.346654  -2.170767 42.346654  -2.170753 42.346702  -2.170747 42.346765  -2.170792 42.346803  -2.170910 42.346855  -2.171013 42.346886  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Cerrillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3582,7 +3682,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170758 42.346614  -2.170429 42.346780  </gml:posList>
+            <gml:posList srsDimension="2">-2.170758 42.346614  -2.170643 42.346660  -2.170523 42.346716  -2.170429 42.346780  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Cerrillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3603,26 +3703,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.170966 42.343923  -2.170894 42.343929  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía la Balsa</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000069</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514108">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171583 42.343763 </gml:lowerCorner>
-        		<gml:upperCorner>-2.171062 42.344258 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171062 42.343763  -2.171108 42.343788  -2.171337 42.343863  -2.171564 42.344018  -2.171583 42.344105  -2.171438 42.344258  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -3693,26 +3773,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514176">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171062 42.343763 </gml:lowerCorner>
-        		<gml:upperCorner>-2.170966 42.343923 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170966 42.343923  -2.170985 42.343837  -2.171030 42.343786  -2.171062 42.343763  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía la Balsa</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2602000069</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1514194">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3736,13 +3796,13 @@
       <ms:viales gml:id="viales.1514197">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171562 42.344703 </gml:lowerCorner>
-        		<gml:upperCorner>-2.171364 42.345100 </gml:upperCorner>
+        		<gml:lowerCorner>-2.171606 42.344703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171364 42.345202 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171562 42.345100  -2.171484 42.345049  -2.171375 42.344826  -2.171364 42.344703  </gml:posList>
+            <gml:posList srsDimension="2">-2.171606 42.345202  -2.171578 42.345134  -2.171522 42.345087  -2.171484 42.345049  -2.171416 42.344956  -2.171375 42.344826  -2.171364 42.344703  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -3756,13 +3816,13 @@
       <ms:viales gml:id="viales.1514239">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.171654 42.345901 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.171675 42.345202 </gml:lowerCorner>
         		<gml:upperCorner>-2.171453 42.346077 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.171453 42.346077  -2.171654 42.345901  </gml:posList>
+            <gml:posList srsDimension="2">-2.171453 42.346077  -2.171555 42.345996  -2.171654 42.345901  -2.171675 42.345785  -2.171625 42.345671  -2.171583 42.345571  -2.171574 42.345477  -2.171608 42.345391  -2.171639 42.345285  -2.171606 42.345202  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía la Balsa</ms:NOMBRE_COMPLETO_VIAL>
@@ -3770,26 +3830,6 @@
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.020.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000069</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1514118">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167353 42.343189 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166195 42.344894 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166195 42.343189  -2.166224 42.343242  -2.166263 42.343321  -2.166340 42.343456  -2.166371 42.343536  -2.166522 42.343726  -2.166604 42.343819  -2.166720 42.343892  -2.166778 42.343992  -2.166949 42.344164  -2.167023 42.344234  -2.167085 42.344297  -2.167162 42.344341  -2.167278 42.344423  -2.167337 42.344466  -2.167353 42.344567  -2.167341 42.344707  -2.167267 42.344830  -2.167222 42.344891  -2.166982 42.344894  -2.166771 42.344852  -2.166706 42.344890  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Hondón Dos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.020.93</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -3802,7 +3842,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165530 42.342898  -2.165651 42.343025  -2.165935 42.343248  -2.166023 42.343342  -2.166099 42.343495  -2.166186 42.343637  -2.166278 42.343691  -2.166379 42.343765  -2.166632 42.343990  -2.166717 42.344079  -2.166949 42.344312  -2.167060 42.344419  -2.167090 42.344505  </gml:posList>
+            <gml:posList srsDimension="2">-2.165530 42.342898  -2.165651 42.343025  -2.165935 42.343248  -2.166023 42.343342  -2.166070 42.343461  -2.166123 42.343556  -2.166176 42.343621  -2.166278 42.343691  -2.166379 42.343765  -2.166632 42.343990  -2.166717 42.344079  -2.166949 42.344312  -2.167060 42.344419  -2.167090 42.344505  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Hondón Dos</ms:NOMBRE_COMPLETO_VIAL>
@@ -3916,13 +3956,13 @@
       <ms:viales gml:id="viales.1514132">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167494 42.345157 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166997 42.346041 </gml:upperCorner>
+        		<gml:lowerCorner>-2.170182 42.345157 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166997 42.346951 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167494 42.346041  -2.167423 42.345979  -2.167256 42.345859  -2.167100 42.345746  -2.167068 42.345716  -2.167043 42.345683  -2.167024 42.345647  -2.167014 42.345610  -2.167011 42.345576  -2.166997 42.345444  -2.166999 42.345385  -2.167000 42.345361  -2.167011 42.345279  -2.167030 42.345197  -2.167035 42.345180  -2.167048 42.345157  </gml:posList>
+            <gml:posList srsDimension="2">-2.170182 42.346879  -2.170118 42.346916  -2.169974 42.346944  -2.169847 42.346951  -2.169746 42.346942  -2.169669 42.346919  -2.169577 42.346870  -2.169478 42.346822  -2.169379 42.346793  -2.169274 42.346758  -2.169188 42.346703  -2.169130 42.346628  -2.169061 42.346535  -2.168975 42.346459  -2.168890 42.346412  -2.168802 42.346399  -2.168694 42.346390  -2.168563 42.346360  -2.168386 42.346281  -2.168280 42.346248  -2.168111 42.346194  -2.167906 42.346168  -2.167771 42.346143  -2.167599 42.346102  -2.167498 42.346047  -2.167423 42.345979  -2.167256 42.345859  -2.167100 42.345746  -2.167068 42.345716  -2.167043 42.345683  -2.167024 42.345647  -2.167014 42.345610  -2.167011 42.345576  -2.166997 42.345444  -2.166999 42.345385  -2.167000 42.345361  -2.167011 42.345279  -2.167030 42.345197  -2.167035 42.345180  -2.167048 42.345157  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Senda de Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3933,16 +3973,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1514139">
+      <ms:viales gml:id="viales.1514118">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167176 42.343643 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166680 42.344113 </gml:upperCorner>
+        		<gml:lowerCorner>-2.166978 42.343189 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166195 42.344193 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.167176 42.344113  -2.166986 42.343910  -2.166680 42.343643  </gml:posList>
+            <gml:posList srsDimension="2">-2.166195 42.343189  -2.166224 42.343242  -2.166263 42.343321  -2.166340 42.343456  -2.166371 42.343536  -2.166522 42.343726  -2.166604 42.343819  -2.166703 42.343922  -2.166778 42.343992  -2.166978 42.344193  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Hondón Uno</ms:NOMBRE_COMPLETO_VIAL>
@@ -3973,16 +4013,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1514156">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171534 42.345475 </gml:lowerCorner>
+        		<gml:upperCorner>-2.170880 42.346077 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.171453 42.346077  -2.171534 42.345871  -2.171508 42.345784  -2.171360 42.345680  -2.170880 42.345475  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Salada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.32</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000038</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1514147">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170366 42.345915 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.170373 42.345915 </gml:lowerCorner>
         		<gml:upperCorner>-2.169960 42.346734 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170366 42.345915  -2.170362 42.345977  -2.170286 42.346210  -2.170210 42.346409  -2.170098 42.346587  -2.169960 42.346734  </gml:posList>
+            <gml:posList srsDimension="2">-2.170366 42.345915  -2.170373 42.345938  -2.170362 42.345977  -2.170330 42.346087  -2.170286 42.346210  -2.170251 42.346330  -2.170217 42.346426  -2.170180 42.346498  -2.170097 42.346606  -2.170040 42.346682  -2.169960 42.346734  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -4096,13 +4156,13 @@
       <ms:viales gml:id="viales.1514155">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.169796 42.345619 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.169796 42.345593 </gml:lowerCorner>
         		<gml:upperCorner>-2.169181 42.345742 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169796 42.345742  -2.169610 42.345619  -2.169181 42.345621  </gml:posList>
+            <gml:posList srsDimension="2">-2.169796 42.345742  -2.169708 42.345655  -2.169608 42.345593  -2.169392 42.345594  -2.169181 42.345621  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cava</ms:NOMBRE_COMPLETO_VIAL>
@@ -4162,7 +4222,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.170688 42.344636  -2.170773 42.344546  -2.170827 42.344463  -2.170885 42.344440  </gml:posList>
+            <gml:posList srsDimension="2">-2.170688 42.344636  -2.170766 42.344584  -2.170775 42.344483  -2.170827 42.344463  -2.170885 42.344440  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Peligros</ms:NOMBRE_COMPLETO_VIAL>
@@ -4282,13 +4342,13 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168711 42.345791  -2.168804 42.345844  -2.168878 42.345880  -2.169065 42.345886  -2.169234 42.345903  </gml:posList>
+            <gml:posList srsDimension="2">-2.168711 42.345791  -2.168804 42.345844  -2.168875 42.345858  -2.168979 42.345868  -2.169065 42.345886  -2.169234 42.345903  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Posadas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.020.87</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2602000083</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4296,13 +4356,13 @@
       <ms:viales gml:id="viales.1514181">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166920 42.343447 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166781 42.343495 </gml:upperCorner>
+        		<gml:lowerCorner>-2.166881 42.343447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166781 42.343488 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166920 42.343495  -2.166781 42.343447  </gml:posList>
+            <gml:posList srsDimension="2">-2.166881 42.343488  -2.166834 42.343458  -2.166781 42.343447  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Turriente</ms:NOMBRE_COMPLETO_VIAL>
@@ -4316,13 +4376,13 @@
       <ms:viales gml:id="viales.1514222">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.167191 42.343495 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166867 42.344113 </gml:upperCorner>
+        		<gml:lowerCorner>-2.167191 42.343488 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166881 42.344113 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166920 42.343495  -2.166867 42.343562  -2.166921 42.343645  -2.167181 42.343995  -2.167191 42.344062  -2.167176 42.344113  </gml:posList>
+            <gml:posList srsDimension="2">-2.166881 42.343488  -2.166897 42.343558  -2.166992 42.343732  -2.167181 42.343995  -2.167191 42.344062  -2.167176 42.344113  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Turriente</ms:NOMBRE_COMPLETO_VIAL>
@@ -4456,13 +4516,13 @@
       <ms:viales gml:id="viales.1514198">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168059 42.343632 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.168110 42.343631 </gml:lowerCorner>
         		<gml:upperCorner>-2.167662 42.343750 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.168059 42.343701  -2.167971 42.343632  -2.167806 42.343664  -2.167662 42.343750  </gml:posList>
+            <gml:posList srsDimension="2">-2.168110 42.343717  -2.168043 42.343691  -2.167984 42.343631  -2.167806 42.343664  -2.167662 42.343750  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Artesanos</ms:NOMBRE_COMPLETO_VIAL>
@@ -4576,13 +4636,33 @@
       <ms:viales gml:id="viales.1525607">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.170021 42.344346 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.170046 42.344346 </gml:lowerCorner>
         		<gml:upperCorner>-2.169712 42.345123 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.169825 42.345123  -2.169985 42.344942  -2.170021 42.344826  -2.170019 42.344672  -2.169968 42.344531  -2.169712 42.344346  </gml:posList>
+            <gml:posList srsDimension="2">-2.169825 42.345123  -2.169898 42.345095  -2.169951 42.345029  -2.169982 42.344969  -2.170021 42.344906  -2.170042 42.344847  -2.170046 42.344749  -2.170019 42.344672  -2.170004 42.344602  -2.169968 42.344531  -2.169919 42.344459  -2.169849 42.344412  -2.169712 42.344346  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía San Miguel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.020.88</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2602000077</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211173">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.169712 42.344130 </gml:lowerCorner>
+        		<gml:upperCorner>-2.169334 42.344346 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.169712 42.344346  -2.169672 42.344304  -2.169639 42.344243  -2.169613 42.344205  -2.169580 42.344168  -2.169509 42.344142  -2.169421 42.344131  -2.169334 42.344130  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía San Miguel</ms:NOMBRE_COMPLETO_VIAL>
