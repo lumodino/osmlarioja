@@ -14811,91 +14811,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>41</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>A</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4115824">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.890040 42.224272 </gml:lowerCorner>
-        		<gml:upperCorner>-1.890040 42.224272 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.890040 42.224272 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>41</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>B</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4115825">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.889996 42.224216 </gml:lowerCorner>
-        		<gml:upperCorner>-1.889996 42.224216 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.889996 42.224216 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>41</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>C</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4115826">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.889958 42.224168 </gml:lowerCorner>
-        		<gml:upperCorner>-1.889958 42.224168 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.889958 42.224168 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>41</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>D</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4115827">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.889915 42.224114 </gml:lowerCorner>
-        		<gml:upperCorner>-1.889915 42.224114 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.889915 42.224114 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>41</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>E</ms:EXTENSION>
+        <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
@@ -14923,16 +14839,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4115828">
+      <ms:portales gml:id="portales.4115824">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.889826 42.223990 </gml:lowerCorner>
-        		<gml:upperCorner>-1.889826 42.223990 </gml:upperCorner>
+        		<gml:lowerCorner>-1.890040 42.224272 </gml:lowerCorner>
+        		<gml:upperCorner>-1.890040 42.224272 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.889826 42.223990 </gml:pos>
+            <gml:pos>-1.890040 42.224272 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
@@ -14965,6 +14881,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4115825">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.889996 42.224216 </gml:lowerCorner>
+        		<gml:upperCorner>-1.889996 42.224216 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.889996 42.224216 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>45</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.243978">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14986,6 +14923,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4115826">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.889958 42.224168 </gml:lowerCorner>
+        		<gml:upperCorner>-1.889958 42.224168 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.889958 42.224168 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>47</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.243979">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15000,6 +14958,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>48</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4115827">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.889915 42.224114 </gml:lowerCorner>
+        		<gml:upperCorner>-1.889915 42.224114 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.889915 42.224114 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>49</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
@@ -15042,6 +15021,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>50</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4115828">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.889826 42.223990 </gml:lowerCorner>
+        		<gml:upperCorner>-1.889826 42.223990 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.889826 42.223990 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Machado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>51</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26559</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>

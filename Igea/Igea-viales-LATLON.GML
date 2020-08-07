@@ -1996,13 +1996,13 @@
       <ms:viales gml:id="viales.1531937">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.010033 42.069202 </gml:lowerCorner>
-        		<gml:upperCorner>-2.009431 42.069439 </gml:upperCorner>
+        		<gml:lowerCorner>-2.010033 42.069191 </gml:lowerCorner>
+        		<gml:upperCorner>-2.009431 42.069441 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.010033 42.069433  -2.009872 42.069439  -2.009810 42.069421  -2.009774 42.069264  -2.009703 42.069202  -2.009431 42.069230  </gml:posList>
+            <gml:posList srsDimension="2">-2.010033 42.069433  -2.009872 42.069439  -2.009829 42.069441  -2.009818 42.069429  -2.009799 42.069333  -2.009787 42.069279  -2.009699 42.069191  -2.009431 42.069230  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Deán Bea</ms:NOMBRE_COMPLETO_VIAL>
