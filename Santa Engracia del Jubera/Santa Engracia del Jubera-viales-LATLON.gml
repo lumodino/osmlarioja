@@ -2036,13 +2036,13 @@
       <ms:viales gml:id="viales.1542263">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.294204 42.300426 </gml:lowerCorner>
-        		<gml:upperCorner>-2.292893 42.300609 </gml:upperCorner>
+        		<gml:lowerCorner>-2.294204 42.300414 </gml:lowerCorner>
+        		<gml:upperCorner>-2.292919 42.300609 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.294204 42.300609  -2.293711 42.300458  -2.293456 42.300440  -2.293180 42.300447  -2.292893 42.300426  </gml:posList>
+            <gml:posList srsDimension="2">-2.294204 42.300609  -2.293711 42.300458  -2.293456 42.300440  -2.293180 42.300447  -2.292919 42.300414  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa María</ms:NOMBRE_COMPLETO_VIAL>
@@ -2076,13 +2076,13 @@
       <ms:viales gml:id="viales.1542289">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.292893 42.300426 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.292919 42.300414 </gml:lowerCorner>
         		<gml:upperCorner>-2.292615 42.300443 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.292893 42.300426  -2.292713 42.300443  -2.292615 42.300443  </gml:posList>
+            <gml:posList srsDimension="2">-2.292919 42.300414  -2.292804 42.300428  -2.292694 42.300438  -2.292615 42.300443  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa María</ms:NOMBRE_COMPLETO_VIAL>
@@ -2097,12 +2097,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.293245 42.300265 </gml:lowerCorner>
-        		<gml:upperCorner>-2.292893 42.300426 </gml:upperCorner>
+        		<gml:upperCorner>-2.292919 42.300414 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.292893 42.300426  -2.292993 42.300351  -2.293245 42.300265  </gml:posList>
+            <gml:posList srsDimension="2">-2.292919 42.300414  -2.292993 42.300351  -2.293245 42.300265  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa María</ms:NOMBRE_COMPLETO_VIAL>
@@ -2177,12 +2177,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.292615 42.300443 </gml:lowerCorner>
-        		<gml:upperCorner>-2.292123 42.300763 </gml:upperCorner>
+        		<gml:upperCorner>-2.292100 42.300747 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.292615 42.300443  -2.292454 42.300491  -2.292199 42.300603  -2.292123 42.300763  </gml:posList>
+            <gml:posList srsDimension="2">-2.292615 42.300443  -2.292551 42.300444  -2.292460 42.300470  -2.292330 42.300529  -2.292250 42.300584  -2.292199 42.300603  -2.292100 42.300747  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa María</ms:NOMBRE_COMPLETO_VIAL>
@@ -2413,6 +2413,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1595022">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.293002 42.300726 </gml:lowerCorner>
+        		<gml:upperCorner>-2.292156 42.300942 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.293002 42.300726  -2.292786 42.300775  -2.292589 42.300821  -2.292156 42.300942  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Jubera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1542295">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2456,33 +2476,13 @@
       <ms:viales gml:id="viales.1595020">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.292123 42.300763 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.292100 42.300747 </gml:lowerCorner>
         		<gml:upperCorner>-2.291836 42.301016 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.292123 42.300763  -2.291836 42.301016  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613500050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1595022">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.293002 42.300726 </gml:lowerCorner>
-        		<gml:upperCorner>-2.292195 42.300927 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.293002 42.300726  -2.292195 42.300927  </gml:posList>
+            <gml:posList srsDimension="2">-2.292100 42.300747  -2.291997 42.300819  -2.291921 42.300913  -2.291836 42.301016  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
@@ -2496,13 +2496,33 @@
       <ms:viales gml:id="viales.1595023">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.292195 42.300927 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291836 42.301016 </gml:upperCorner>
+        		<gml:lowerCorner>-2.292156 42.300747 </gml:lowerCorner>
+        		<gml:upperCorner>-2.292100 42.300942 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.292195 42.300927  -2.291836 42.301016  </gml:posList>
+            <gml:posList srsDimension="2">-2.292156 42.300942  -2.292113 42.300839  -2.292100 42.300747  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613500050</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211335">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.292156 42.300942 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291899 42.301269 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.292156 42.300942  -2.292071 42.300966  -2.292084 42.301002  -2.292030 42.301024  -2.292047 42.301066  -2.291952 42.301091  -2.291930 42.301119  -2.291928 42.301167  -2.291955 42.301234  -2.291899 42.301269  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
