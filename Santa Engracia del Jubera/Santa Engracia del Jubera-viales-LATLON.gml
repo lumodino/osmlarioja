@@ -29,7 +29,7 @@
         <ms:NOMBRE_POBLAMIENTO>Santa Engracia del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.8</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500035</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1829,7 +1829,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1849,7 +1849,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1869,7 +1869,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1889,7 +1889,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1909,7 +1909,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1929,7 +1929,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1949,7 +1949,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -1969,7 +1969,7 @@
         <ms:NOMBRE_POBLAMIENTO>San Bartolomé</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.135.19</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2613500055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2388,8 +2388,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Jubera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613500037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2408,8 +2408,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Jubera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613500037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2428,8 +2428,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera Jubera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613500037</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2468,7 +2468,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613500050</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2488,7 +2488,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613500050</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2508,7 +2508,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613500050</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2528,7 +2528,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Andrés Medrano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613500050</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2868,7 +2868,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Callejón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Santa Engracia del Jubera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.135.11</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2613500030</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

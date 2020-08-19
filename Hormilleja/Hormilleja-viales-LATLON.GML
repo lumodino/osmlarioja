@@ -1102,7 +1102,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.731562 42.456471  -2.731007 42.456425  -2.730623 42.456299  -2.730119 42.456159  -2.729941 42.456119  </gml:posList>
+            <gml:posList srsDimension="2">-2.731562 42.456471  -2.731349 42.456434  -2.731176 42.456423  -2.731003 42.456406  -2.730660 42.456318  -2.730396 42.456246  -2.730119 42.456159  -2.729941 42.456119  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Pedro de Ruego</ms:NOMBRE_COMPLETO_VIAL>
@@ -1542,7 +1542,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.729629 42.456120  -2.729458 42.456664  -2.729359 42.456903  </gml:posList>
+            <gml:posList srsDimension="2">-2.729629 42.456120  -2.729537 42.456403  -2.729458 42.456664  -2.729404 42.456844  -2.729359 42.456903  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Atiliana</ms:NOMBRE_COMPLETO_VIAL>
