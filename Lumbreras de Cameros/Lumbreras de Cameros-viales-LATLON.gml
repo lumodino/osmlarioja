@@ -26,8 +26,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Depuradora</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -46,8 +46,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Salón Juvenil</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -66,8 +66,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Salón Juvenil</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -86,8 +86,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle de la Fragua</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -106,8 +106,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de San Martín al Cementerio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -126,8 +126,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de San Martín al Cementerio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -146,8 +146,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Regadera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100055</ms:COD_INE_VIAL>
       </ms:viales>
@@ -166,8 +166,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Regadera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100055</ms:COD_INE_VIAL>
       </ms:viales>
@@ -186,8 +186,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Regadera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100055</ms:COD_INE_VIAL>
       </ms:viales>
@@ -206,8 +206,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Laguna</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -226,8 +226,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Laguna</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -247,7 +247,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Museo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -267,7 +267,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nogal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -287,7 +287,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.24</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -307,7 +307,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.24</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -327,7 +327,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -347,7 +347,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -367,7 +367,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -387,7 +387,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -407,7 +407,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -427,7 +427,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -447,7 +447,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -467,7 +467,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -487,7 +487,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.21</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -507,7 +507,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Isabel</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.22</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100038</ms:COD_INE_VIAL>
       </ms:viales>
@@ -527,7 +527,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Llano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -547,7 +547,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -567,7 +567,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -587,7 +587,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -607,7 +607,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerca</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -627,7 +627,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerca</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.23</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -646,8 +646,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Frontón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -666,8 +666,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.10</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100028</ms:COD_INE_VIAL>
       </ms:viales>
@@ -686,8 +686,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.10</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100028</ms:COD_INE_VIAL>
       </ms:viales>
@@ -706,8 +706,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.10</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100028</ms:COD_INE_VIAL>
       </ms:viales>
@@ -726,8 +726,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.10</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100028</ms:COD_INE_VIAL>
       </ms:viales>
@@ -747,7 +747,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -767,7 +767,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -787,7 +787,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -807,7 +807,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -827,7 +827,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -847,7 +847,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -867,7 +867,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -887,7 +887,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -907,7 +907,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -927,7 +927,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -947,7 +947,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -967,7 +967,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio el Horcajo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Horcajo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.7</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100044</ms:COD_INE_VIAL>
       </ms:viales>
@@ -986,8 +986,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1006,8 +1006,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1026,8 +1026,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1046,8 +1046,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1066,8 +1066,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1086,8 +1086,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1106,8 +1106,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1126,8 +1126,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1146,8 +1146,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.6</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100029</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1166,8 +1166,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1186,8 +1186,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1206,8 +1206,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1226,8 +1226,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1246,8 +1246,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1266,8 +1266,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1286,8 +1286,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1306,8 +1306,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1326,8 +1326,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1346,8 +1346,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1366,8 +1366,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vallejuelo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.13</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1386,8 +1386,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Peso</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1406,8 +1406,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Peso</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1426,8 +1426,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Peso</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1446,8 +1446,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1466,8 +1466,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1486,8 +1486,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1506,8 +1506,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1526,8 +1526,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1546,8 +1546,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1566,8 +1566,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1586,8 +1586,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1606,8 +1606,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1626,8 +1626,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1646,8 +1646,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1666,8 +1666,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1686,8 +1686,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1706,8 +1706,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Melitón Herreros</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.9</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100034</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1726,8 +1726,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino X</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1746,8 +1746,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino X</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1766,8 +1766,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino X</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1786,8 +1786,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino X</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1806,8 +1806,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino X</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.15</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1826,8 +1826,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ermita</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100030</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1846,8 +1846,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ermita</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100030</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1866,8 +1866,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ermita</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100030</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1886,8 +1886,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ermita</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100030</ms:COD_INE_VIAL>
       </ms:viales>
@@ -1906,8 +1906,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1926,8 +1926,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1946,8 +1946,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1966,8 +1966,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -1986,8 +1986,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2006,8 +2006,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2026,8 +2026,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2046,8 +2046,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2066,8 +2066,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2086,8 +2086,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2106,8 +2106,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2126,8 +2126,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2146,8 +2146,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2166,8 +2166,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2186,8 +2186,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2206,8 +2206,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2226,8 +2226,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2246,8 +2246,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2266,8 +2266,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2286,8 +2286,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2306,8 +2306,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2326,8 +2326,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Solana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.12</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100031</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2346,8 +2346,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Paseo don Pedro de Francia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2366,8 +2366,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100051</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2386,8 +2386,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100051</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2406,8 +2406,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100051</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2426,8 +2426,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100051</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2446,8 +2446,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Fuente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.4</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100051</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2466,8 +2466,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Feliciano Martínez Rojo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100057</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2486,8 +2486,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Feliciano Martínez Rojo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100057</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2506,8 +2506,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Feliciano Martínez Rojo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100057</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2526,8 +2526,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Feliciano Martínez Rojo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.25</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100057</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2546,8 +2546,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.19</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100039</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2566,8 +2566,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pajares</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.19</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100039</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2586,8 +2586,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100060</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2606,8 +2606,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100060</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2626,8 +2626,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.18</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100060</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2646,8 +2646,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Andrés</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100036</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2666,8 +2666,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Andrés</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100036</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2686,8 +2686,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Iregua</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.14</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100059</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2706,8 +2706,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.1</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2726,8 +2726,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Y</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.16</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2746,8 +2746,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Plazuela</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.11</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100035</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2766,8 +2766,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Plazuela</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.11</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100035</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2786,8 +2786,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Plazuela</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.11</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100035</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2806,8 +2806,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Z</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.17</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
@@ -2826,8 +2826,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel Casal</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.8</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100033</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2846,8 +2846,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Isidoro Martínez</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100053</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2866,8 +2866,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Isidoro Martínez</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100053</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2886,8 +2886,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Isidoro Martínez</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100053</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2906,8 +2906,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Isidoro Martínez</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100053</ms:COD_INE_VIAL>
       </ms:viales>
@@ -2926,8 +2926,8 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Isidoro Martínez</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lumbreras</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lumbreras</ms:NOMBRE_MUNICIPIO>
+        <ms:NOMBRE_POBLAMIENTO>Lumbreras de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lumbreras de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.091.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2609100053</ms:COD_INE_VIAL>
       </ms:viales>
