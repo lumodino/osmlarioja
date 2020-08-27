@@ -2713,6 +2713,66 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4211575">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.471611 42.357421 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471418 42.357532 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.471427 42.357421  -2.471418 42.357474  -2.471424 42.357513  -2.471470 42.357532  -2.471578 42.357529  -2.471611 42.357527  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211576">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.471874 42.357505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471611 42.357527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.471611 42.357527  -2.471704 42.357513  -2.471774 42.357505  -2.471874 42.357511  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.472083 42.357475 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471874 42.357511 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.471874 42.357511  -2.471923 42.357502  -2.471986 42.357496  -2.472050 42.357497  -2.472083 42.357475  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1493637">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2783,26 +2843,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.473163 42.358785  -2.473162 42.358799  -2.473160 42.358827  -2.473147 42.358848  -2.473131 42.358873  -2.473128 42.358878  -2.473127 42.358879  -2.473119 42.358889  -2.473110 42.358901  -2.473110 42.358901  -2.473091 42.358920  -2.473049 42.358962  -2.472980 42.359032  -2.472957 42.359055  -2.472939 42.359073  -2.472925 42.359087  -2.472877 42.359135  -2.472867 42.359145  -2.472838 42.359175  -2.472821 42.359191  -2.472758 42.359255  -2.472697 42.359317  -2.472678 42.359335  -2.472659 42.359354  -2.472611 42.359403  -2.472585 42.359429  -2.472458 42.359557  -2.472449 42.359566  -2.472439 42.359576  -2.472422 42.359593  -2.472382 42.359633  -2.472355 42.359661  -2.472287 42.359729  -2.472279 42.359737  -2.472258 42.359758  -2.472246 42.359771  -2.472199 42.359821  -2.472193 42.359828  -2.472191 42.359829  -2.472184 42.359838  -2.472131 42.359897  -2.472101 42.359932  -2.472089 42.359946  -2.471980 42.360069  -2.471936 42.360120  -2.471918 42.360140  -2.471912 42.360146  -2.471875 42.360190  -2.471843 42.360229  -2.471837 42.360236  -2.471820 42.360257  -2.471782 42.360305  -2.471674 42.360440  -2.471668 42.360448  -2.471648 42.360472  -2.471627 42.360499  -2.471596 42.360538  -2.471557 42.360587  -2.471546 42.360600  -2.471541 42.360607  -2.471535 42.360614  -2.471509 42.360646  -2.471506 42.360649  -2.471472 42.360690  -2.471452 42.360715  -2.471336 42.360854  -2.471323 42.360869  -2.471276 42.360926  -2.471247 42.360960  -2.471236 42.360974  -2.471208 42.361006  -2.471178 42.361042  -2.471171 42.361051  -2.471162 42.361060  -2.471108 42.361121  -2.471098 42.361133  -2.471087 42.361145  -2.471081 42.361152  -2.471022 42.361215  -2.470995 42.361243  -2.470994 42.361245  -2.470991 42.361248  -2.470972 42.361265  -2.470969 42.361268  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Alberite</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.2</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600500222</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1493720">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.471379 42.361268 </gml:lowerCorner>
-        		<gml:upperCorner>-2.470969 42.362983 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.470969 42.361268  -2.471336 42.361418  -2.471357 42.361433  -2.471372 42.361452  -2.471379 42.361473  -2.471379 42.361495  -2.471370 42.361516  -2.471361 42.361528  -2.471203 42.361744  -2.471194 42.361760  -2.471181 42.361783  -2.471167 42.361824  -2.471160 42.361867  -2.471161 42.361905  -2.471155 42.361957  -2.471145 42.361999  -2.471111 42.362109  -2.471104 42.362752  -2.471077 42.362964  -2.471071 42.362983  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Alberite</ms:NOMBRE_COMPLETO_VIAL>
@@ -3476,13 +3516,13 @@
       <ms:viales gml:id="viales.1493654">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.472193 42.357493 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471886 42.358124 </gml:upperCorner>
+        		<gml:lowerCorner>-2.472193 42.357511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471874 42.358124 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471886 42.357493  -2.471894 42.357556  -2.471994 42.357720  -2.472080 42.357879  -2.472168 42.358034  -2.472185 42.358090  -2.472193 42.358124  </gml:posList>
+            <gml:posList srsDimension="2">-2.471874 42.357511  -2.471889 42.357563  -2.471994 42.357720  -2.472080 42.357879  -2.472168 42.358034  -2.472185 42.358090  -2.472193 42.358124  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pósito</ms:NOMBRE_COMPLETO_VIAL>
@@ -3497,12 +3537,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.471949 42.357142 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471882 42.357493 </gml:upperCorner>
+        		<gml:upperCorner>-2.471874 42.357511 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471949 42.357142  -2.471943 42.357270  -2.471882 42.357452  -2.471886 42.357493  </gml:posList>
+            <gml:posList srsDimension="2">-2.471949 42.357142  -2.471943 42.357270  -2.471909 42.357348  -2.471888 42.357451  -2.471874 42.357511  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pósito</ms:NOMBRE_COMPLETO_VIAL>
@@ -4513,26 +4553,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1493679">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.476068 42.353821 </gml:lowerCorner>
-        		<gml:upperCorner>-2.475687 42.354447 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.475687 42.354447  -2.475834 42.354197  -2.475851 42.354167  -2.475946 42.354012  -2.476068 42.353821  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida las Huertas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.115</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600500612</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1493868">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4543,46 +4563,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.475312 42.355050  -2.474866 42.355817  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida las Huertas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.115</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600500612</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1493936">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.475687 42.354447 </gml:lowerCorner>
-        		<gml:upperCorner>-2.475312 42.355050 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.475312 42.355050  -2.475687 42.354447  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida las Huertas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.115</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600500612</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1493937">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.476479 42.353165 </gml:lowerCorner>
-        		<gml:upperCorner>-2.476068 42.353821 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.476068 42.353821  -2.476205 42.353604  -2.476479 42.353165  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida las Huertas</ms:NOMBRE_COMPLETO_VIAL>
@@ -6296,13 +6276,13 @@
       <ms:viales gml:id="viales.1493775">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.471737 42.357518 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471615 42.357812 </gml:upperCorner>
+        		<gml:lowerCorner>-2.471737 42.357527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471611 42.357812 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471615 42.357518  -2.471650 42.357636  -2.471726 42.357789  -2.471737 42.357812  </gml:posList>
+            <gml:posList srsDimension="2">-2.471611 42.357527  -2.471650 42.357636  -2.471726 42.357789  -2.471737 42.357812  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
@@ -6337,12 +6317,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.471735 42.356932 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471615 42.357518 </gml:upperCorner>
+        		<gml:upperCorner>-2.471611 42.357527 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471735 42.356932  -2.471678 42.357244  -2.471615 42.357518  </gml:posList>
+            <gml:posList srsDimension="2">-2.471735 42.356932  -2.471678 42.357244  -2.471658 42.357410  -2.471611 42.357527  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
@@ -6517,32 +6497,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.471514 42.357103 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471370 42.357543 </gml:upperCorner>
+        		<gml:upperCorner>-2.471427 42.357421 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471497 42.357103  -2.471514 42.357227  -2.471370 42.357543  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Pelayo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.49</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600500089</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1493774">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.471374 42.357543 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471370 42.357724 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471370 42.357543  -2.471372 42.357660  -2.471374 42.357724  </gml:posList>
+            <gml:posList srsDimension="2">-2.471497 42.357103  -2.471514 42.357227  -2.471427 42.357421  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Pelayo</ms:NOMBRE_COMPLETO_VIAL>
@@ -6683,6 +6643,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.470854 42.356858  -2.470869 42.356829  -2.470907 42.356795  -2.470994 42.356769  -2.471109 42.356777  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Pelayo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.49</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600500089</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211574">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.471427 42.357421 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471355 42.357559 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.471427 42.357421  -2.471394 42.357440  -2.471366 42.357494  -2.471355 42.357559  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Pelayo</ms:NOMBRE_COMPLETO_VIAL>
@@ -7853,26 +7833,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1493922">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.477747 42.355731 </gml:lowerCorner>
-        		<gml:upperCorner>-2.477019 42.356017 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.477019 42.355731  -2.477747 42.356017  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Río Turban</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.116</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600500607</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1493924">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -8417,12 +8377,52 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.472090 42.357133 </gml:lowerCorner>
-        		<gml:upperCorner>-2.472070 42.357545 </gml:upperCorner>
+        		<gml:upperCorner>-2.472070 42.357475 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.472086 42.357133  -2.472090 42.357201  -2.472070 42.357372  -2.472088 42.357453  -2.472073 42.357491  -2.472076 42.357545  </gml:posList>
+            <gml:posList srsDimension="2">-2.472086 42.357133  -2.472090 42.357201  -2.472070 42.357372  -2.472088 42.357453  -2.472083 42.357475  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hospital</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600500033</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.472083 42.357475 </gml:lowerCorner>
+        		<gml:upperCorner>-2.472070 42.357547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.472083 42.357475  -2.472070 42.357526  -2.472081 42.357547  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hospital</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600500033</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211579">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.472285 42.357467 </gml:lowerCorner>
+        		<gml:upperCorner>-2.472083 42.357487 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.472083 42.357475  -2.472110 42.357467  -2.472222 42.357477  -2.472285 42.357487  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Hospital</ms:NOMBRE_COMPLETO_VIAL>
@@ -8470,6 +8470,126 @@
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.005.16</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500015</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493922">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.477747 42.355731 </gml:lowerCorner>
+        		<gml:upperCorner>-2.477019 42.356017 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.477019 42.355731  -2.477747 42.356017  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle F</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493679">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.476068 42.353821 </gml:lowerCorner>
+        		<gml:upperCorner>-2.475687 42.354447 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.475687 42.354447  -2.475834 42.354197  -2.475851 42.354167  -2.475946 42.354012  -2.476068 42.353821  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.103</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493936">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.475687 42.354447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.475312 42.355050 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.475312 42.355050  -2.475687 42.354447  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.103</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493937">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.476479 42.353165 </gml:lowerCorner>
+        		<gml:upperCorner>-2.476068 42.353821 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.476068 42.353821  -2.476205 42.353604  -2.476479 42.353165  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle A</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.103</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493720">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.471379 42.361268 </gml:lowerCorner>
+        		<gml:upperCorner>-2.470969 42.362983 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.470969 42.361268  -2.471336 42.361418  -2.471357 42.361433  -2.471372 42.361452  -2.471379 42.361473  -2.471379 42.361495  -2.471370 42.361516  -2.471361 42.361528  -2.471203 42.361744  -2.471194 42.361760  -2.471181 42.361783  -2.471167 42.361824  -2.471160 42.361867  -2.471161 42.361905  -2.471155 42.361957  -2.471145 42.361999  -2.471111 42.362109  -2.471104 42.362752  -2.471077 42.362964  -2.471071 42.362983  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Senda de los Rincones</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493774">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.471363 42.357559 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471350 42.357714 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.471355 42.357559  -2.471350 42.357631  -2.471363 42.357714  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calleja San Pelayo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.51</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
