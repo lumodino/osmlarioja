@@ -813,6 +813,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1531139">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165357 42.215540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165327 42.215633 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.165327 42.215633  -2.165357 42.215540  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.072.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2607200044</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1531141">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1496,13 +1516,33 @@
       <ms:viales gml:id="viales.4133121">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165481 42.215633 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165320 42.215796 </gml:upperCorner>
+        		<gml:lowerCorner>-2.165481 42.215591 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165151 42.215796 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165481 42.215705  -2.165454 42.215725  -2.165442 42.215741  -2.165440 42.215796  -2.165369 42.215786  -2.165380 42.215708  -2.165377 42.215684  -2.165320 42.215657  -2.165327 42.215633  </gml:posList>
+            <gml:posList srsDimension="2">-2.165481 42.215705  -2.165454 42.215725  -2.165442 42.215741  -2.165440 42.215796  -2.165369 42.215786  -2.165302 42.215778  -2.165237 42.215767  -2.165169 42.215738  -2.165193 42.215678  -2.165159 42.215647  -2.165151 42.215591  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.072.12</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2607200043</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211658">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165327 42.215591 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165151 42.215633 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.165327 42.215633  -2.165239 42.215620  -2.165151 42.215591  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
@@ -1516,33 +1556,13 @@
       <ms:viales gml:id="viales.1531138">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165327 42.215439 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164788 42.215633 </gml:upperCorner>
+        		<gml:lowerCorner>-2.165151 42.215439 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164788 42.215591 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165327 42.215633  -2.165151 42.215591  -2.165038 42.215544  -2.164788 42.215439  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Moro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2607200045</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1531139">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165357 42.215540 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165327 42.215633 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165327 42.215633  -2.165357 42.215540  </gml:posList>
+            <gml:posList srsDimension="2">-2.165151 42.215591  -2.165038 42.215544  -2.164788 42.215439  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Moro</ms:NOMBRE_COMPLETO_VIAL>

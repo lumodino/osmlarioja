@@ -36,13 +36,13 @@
       <ms:viales gml:id="viales.1819639">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751006 42.603036 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750746 42.603246 </gml:upperCorner>
+        		<gml:lowerCorner>-2.751006 42.603106 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750833 42.603246 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.751006 42.603246  -2.750997 42.603239  -2.750972 42.603218  -2.750908 42.603167  -2.750873 42.603138  -2.750866 42.603133  -2.750849 42.603120  -2.750840 42.603112  -2.750833 42.603106  -2.750805 42.603084  -2.750746 42.603036  </gml:posList>
+            <gml:posList srsDimension="2">-2.751006 42.603246  -2.750997 42.603239  -2.750972 42.603218  -2.750908 42.603167  -2.750873 42.603138  -2.750849 42.603120  -2.750833 42.603106  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
@@ -73,6 +73,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4211626">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750833 42.603020 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750714 42.603106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750833 42.603106  -2.750770 42.603063  -2.750714 42.603020  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Rivas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.54</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.3865520">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -89,6 +109,26 @@
         <ms:NOMBRE_POBLAMIENTO>San Vicente de la Sonsierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.60</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211627">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750891 42.602743 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750833 42.603106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.750833 42.603106  -2.750858 42.603074  -2.750856 42.603016  -2.750856 42.602950  -2.750873 42.602899  -2.750882 42.602865  -2.750889 42.602816  -2.750891 42.602743  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino C Rivas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Rivas de Tereso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.53</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -6030,6 +6070,26 @@
         <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.142.90</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614200537</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4211625">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728420 42.583537 </gml:lowerCorner>
+        		<gml:upperCorner>-2.726309 42.587117 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.726309 42.587117  -2.726404 42.587081  -2.726464 42.587054  -2.726516 42.587015  -2.726552 42.586980  -2.726587 42.586905  -2.726603 42.586835  -2.726620 42.586769  -2.726685 42.586651  -2.726746 42.586566  -2.726800 42.586517  -2.726875 42.586483  -2.727017 42.586431  -2.727172 42.586362  -2.727241 42.586322  -2.727301 42.586276  -2.727332 42.586241  -2.727369 42.586164  -2.727427 42.586002  -2.727475 42.585867  -2.727493 42.585816  -2.727540 42.585751  -2.727616 42.585675  -2.727698 42.585618  -2.727825 42.585563  -2.727928 42.585515  -2.727993 42.585466  -2.728092 42.585371  -2.728187 42.585263  -2.728287 42.585144  -2.728328 42.585055  -2.728371 42.584935  -2.728385 42.584835  -2.728364 42.584716  -2.728268 42.584483  -2.728208 42.584340  -2.728207 42.584220  -2.728225 42.584089  -2.728255 42.583964  -2.728320 42.583807  -2.728364 42.583608  -2.728420 42.583537  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Peciña</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peciña</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Vicente de la Sonsierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.142.59</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>

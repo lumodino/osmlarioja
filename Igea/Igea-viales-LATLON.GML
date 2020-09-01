@@ -1382,7 +1382,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.008491 42.067633  -2.008559 42.067877  -2.008623 42.068066  -2.008974 42.068447  </gml:posList>
+            <gml:posList srsDimension="2">-2.008491 42.067633  -2.008542 42.067867  -2.008598 42.068051  -2.008777 42.068267  -2.008898 42.068415  -2.008974 42.068447  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
