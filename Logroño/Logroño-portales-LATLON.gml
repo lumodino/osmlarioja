@@ -29,7 +29,7 @@
         <ms:NUMERO_POLICIA>48</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26006</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Varea</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>Logroño</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Logroño</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
     </gml:featureMember>
