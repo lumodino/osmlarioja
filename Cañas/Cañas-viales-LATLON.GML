@@ -268,7 +268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera San Millán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cañas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cañas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.040.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604000017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -288,7 +288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera San Millán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cañas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cañas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.040.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604000017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -308,7 +308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera San Millán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cañas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cañas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.040.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604000017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -328,7 +328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera San Millán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cañas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cañas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.040.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604000017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -348,7 +348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera San Millán</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cañas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cañas</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.040.3</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604000017</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

@@ -133,6 +133,46 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1493041">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.295569 42.440789 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295266 42.440972 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.295266 42.440972  -2.295323 42.440895  -2.295366 42.440850  -2.295387 42.440829  -2.295414 42.440812  -2.295446 42.440800  -2.295479 42.440794  -2.295569 42.440789  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Atalayuela</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.002.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600200105</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493164">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.296234 42.440750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295738 42.440979 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.296234 42.440979  -2.296003 42.440873  -2.295824 42.440804  -2.295738 42.440750  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Atalayuela</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.002.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600200105</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1493010">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -303,26 +343,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.275142 42.432283  -2.276944 42.430680  -2.276975 42.430653  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1493087">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.279608 42.435191 </gml:lowerCorner>
-        		<gml:upperCorner>-2.278216 42.436590 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.279608 42.435191  -2.278251 42.436358  -2.278216 42.436460  -2.278283 42.436590  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -2093,26 +2113,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1493041">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.295569 42.440789 </gml:lowerCorner>
-        		<gml:upperCorner>-2.295266 42.440972 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.295266 42.440972  -2.295323 42.440895  -2.295366 42.440850  -2.295387 42.440829  -2.295414 42.440812  -2.295446 42.440800  -2.295479 42.440794  -2.295569 42.440789  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino la Atalayuela</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.002.38</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600200126</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1493063">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2223,26 +2223,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.295451 42.440048  -2.295483 42.440077  -2.295492 42.440085  -2.295523 42.440112  -2.295541 42.440128  -2.295553 42.440138  -2.295559 42.440144  -2.295577 42.440165  -2.295597 42.440189  -2.295601 42.440194  -2.295639 42.440239  -2.295670 42.440276  -2.295678 42.440285  -2.295682 42.440290  -2.295704 42.440319  -2.295717 42.440336  -2.295735 42.440359  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino la Atalayuela</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.002.38</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600200126</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1493164">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.296234 42.440750 </gml:lowerCorner>
-        		<gml:upperCorner>-2.295738 42.440979 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.296234 42.440979  -2.296003 42.440873  -2.295824 42.440804  -2.295738 42.440750  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino la Atalayuela</ms:NOMBRE_COMPLETO_VIAL>
@@ -5310,6 +5290,26 @@
         <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.002.51</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600200134</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1493087">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.279608 42.435191 </gml:lowerCorner>
+        		<gml:upperCorner>-2.278216 42.436590 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.279608 42.435191  -2.278251 42.436358  -2.278216 42.436460  -2.278283 42.436590  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Río Najerilla</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Agoncillo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Agoncillo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.002.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600200121</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
