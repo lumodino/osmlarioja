@@ -5288,7 +5288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calleja el Juncal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500628</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5308,7 +5308,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calleja el Juncal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500628</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5328,7 +5328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calleja el Juncal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500628</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5348,7 +5348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calleja el Juncal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500628</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5368,7 +5368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calleja el Juncal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500628</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -5388,7 +5388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calleja el Juncal</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.005.102</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2600500628</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

@@ -873,26 +873,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3866106">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.114487 42.220106 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112046 42.220521 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112046 42.220521  -2.112130 42.220485  -2.112136 42.220483  -2.112173 42.220468  -2.112239 42.220442  -2.112266 42.220432  -2.112312 42.220416  -2.112380 42.220393  -2.112405 42.220384  -2.112454 42.220370  -2.112524 42.220349  -2.112548 42.220342  -2.112599 42.220329  -2.112670 42.220311  -2.112693 42.220306  -2.112747 42.220294  -2.112798 42.220283  -2.112803 42.220282  -2.112880 42.220268  -2.112951 42.220255  -2.112969 42.220252  -2.113021 42.220244  -2.113038 42.220241  -2.113086 42.220234  -2.113102 42.220232  -2.113127 42.220229  -2.113182 42.220223  -2.113193 42.220221  -2.113203 42.220220  -2.113230 42.220217  -2.113268 42.220212  -2.113299 42.220209  -2.113326 42.220206  -2.113327 42.220206  -2.113367 42.220202  -2.113374 42.220201  -2.113389 42.220199  -2.113417 42.220197  -2.113422 42.220196  -2.113429 42.220195  -2.113521 42.220187  -2.113590 42.220181  -2.113651 42.220176  -2.113741 42.220168  -2.113799 42.220163  -2.113863 42.220157  -2.113875 42.220156  -2.114001 42.220145  -2.114039 42.220142  -2.114055 42.220141  -2.114099 42.220137  -2.114174 42.220131  -2.114225 42.220127  -2.114277 42.220123  -2.114296 42.220122  -2.114365 42.220116  -2.114410 42.220113  -2.114451 42.220109  -2.114487 42.220106  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Circunvalación</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.186</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800320</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.3866107">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3733,6 +3713,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.3866106">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114487 42.220106 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112046 42.220521 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.112046 42.220521  -2.112130 42.220485  -2.112136 42.220483  -2.112173 42.220468  -2.112239 42.220442  -2.112266 42.220432  -2.112312 42.220416  -2.112380 42.220393  -2.112405 42.220384  -2.112454 42.220370  -2.112524 42.220349  -2.112548 42.220342  -2.112599 42.220329  -2.112670 42.220311  -2.112693 42.220306  -2.112747 42.220294  -2.112798 42.220283  -2.112803 42.220282  -2.112880 42.220268  -2.112951 42.220255  -2.112969 42.220252  -2.113021 42.220244  -2.113038 42.220241  -2.113086 42.220234  -2.113102 42.220232  -2.113127 42.220229  -2.113182 42.220223  -2.113193 42.220221  -2.113203 42.220220  -2.113230 42.220217  -2.113268 42.220212  -2.113299 42.220209  -2.113326 42.220206  -2.113327 42.220206  -2.113367 42.220202  -2.113374 42.220201  -2.113389 42.220199  -2.113417 42.220197  -2.113422 42.220196  -2.113429 42.220195  -2.113521 42.220187  -2.113590 42.220181  -2.113651 42.220176  -2.113741 42.220168  -2.113799 42.220163  -2.113863 42.220157  -2.113875 42.220156  -2.114001 42.220145  -2.114039 42.220142  -2.114055 42.220141  -2.114099 42.220137  -2.114174 42.220131  -2.114225 42.220127  -2.114277 42.220123  -2.114296 42.220122  -2.114365 42.220116  -2.114410 42.220113  -2.114451 42.220109  -2.114487 42.220106  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Reyes Católicos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.88</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801160</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.3866128">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3803,6 +3803,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.100963 42.224464  -2.100953 42.224468  -2.100941 42.224474  -2.100889 42.224497  -2.100881 42.224501  -2.100866 42.224508  -2.100808 42.224534  -2.100747 42.224562  -2.100648 42.224607  -2.100624 42.224617  -2.100590 42.224633  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Reyes Católicos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.88</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801160</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3938557">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.101116 42.224782 </gml:lowerCorner>
+        		<gml:upperCorner>-2.101071 42.224793 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.101116 42.224782  -2.101071 42.224793  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Reyes Católicos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.88</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601801160</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3938559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.101071 42.224793 </gml:lowerCorner>
+        		<gml:upperCorner>-2.100551 42.224953 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.101071 42.224793  -2.101044 42.224800  -2.100551 42.224953  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Reyes Católicos</ms:NOMBRE_COMPLETO_VIAL>
@@ -14543,46 +14583,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.101178 42.225026  -2.101081 42.224811  -2.101071 42.224793  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle León Gentico</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.56</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800770</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3938557">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.101116 42.224782 </gml:lowerCorner>
-        		<gml:upperCorner>-2.101071 42.224793 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.101116 42.224782  -2.101071 42.224793  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle León Gentico</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.018.56</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601800770</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3938559">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.101071 42.224793 </gml:lowerCorner>
-        		<gml:upperCorner>-2.100551 42.224953 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.101071 42.224793  -2.101044 42.224800  -2.100551 42.224953  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle León Gentico</ms:NOMBRE_COMPLETO_VIAL>

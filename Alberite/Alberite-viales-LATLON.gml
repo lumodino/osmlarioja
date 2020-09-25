@@ -173,6 +173,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4217751">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.437320 42.403907 </gml:lowerCorner>
+        		<gml:upperCorner>-2.437161 42.403937 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.437320 42.403907  -2.437161 42.403937  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Huerta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alberite</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alberite</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1505575">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1143,26 +1163,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.440775 42.406621  -2.441003 42.406791  -2.441299 42.407151  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mosca</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alberite</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alberite</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.006.41</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600600380</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1494315">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.440775 42.406470 </gml:lowerCorner>
-        		<gml:upperCorner>-2.440667 42.406621 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.440667 42.406470  -2.440775 42.406621  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mosca</ms:NOMBRE_COMPLETO_VIAL>
@@ -2256,13 +2256,13 @@
       <ms:viales gml:id="viales.1494313">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.441093 42.406470 </gml:lowerCorner>
-        		<gml:upperCorner>-2.440667 42.406531 </gml:upperCorner>
+        		<gml:lowerCorner>-2.441093 42.406502 </gml:lowerCorner>
+        		<gml:upperCorner>-2.440813 42.406531 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.441093 42.406531  -2.440667 42.406470  </gml:posList>
+            <gml:posList srsDimension="2">-2.441093 42.406531  -2.440813 42.406502  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortega y Gasset</ms:NOMBRE_COMPLETO_VIAL>
@@ -2276,13 +2276,13 @@
       <ms:viales gml:id="viales.1494316">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.440667 42.406418 </gml:lowerCorner>
-        		<gml:upperCorner>-2.440506 42.406470 </gml:upperCorner>
+        		<gml:lowerCorner>-2.440813 42.406418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.440506 42.406502 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.440506 42.406418  -2.440659 42.406467  -2.440667 42.406470  </gml:posList>
+            <gml:posList srsDimension="2">-2.440506 42.406418  -2.440659 42.406467  -2.440813 42.406502  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ortega y Gasset</ms:NOMBRE_COMPLETO_VIAL>
@@ -3496,13 +3496,13 @@
       <ms:viales gml:id="viales.1494084">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.437452 42.403916 </gml:lowerCorner>
-        		<gml:upperCorner>-2.437393 42.404614 </gml:upperCorner>
+        		<gml:lowerCorner>-2.437452 42.403907 </gml:lowerCorner>
+        		<gml:upperCorner>-2.437320 42.404614 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.437393 42.403916  -2.437449 42.404458  -2.437452 42.404562  -2.437451 42.404614  </gml:posList>
+            <gml:posList srsDimension="2">-2.437320 42.403907  -2.437345 42.403939  -2.437358 42.403998  -2.437396 42.404026  -2.437416 42.404190  -2.437449 42.404458  -2.437452 42.404562  -2.437451 42.404614  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Olmos</ms:NOMBRE_COMPLETO_VIAL>
@@ -4443,6 +4443,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.440023 42.407248  -2.440343 42.406962  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Covarrubias</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alberite</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alberite</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.006.36</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600600330</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1494315">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.440813 42.406502 </gml:lowerCorner>
+        		<gml:upperCorner>-2.440775 42.406621 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.440813 42.406502  -2.440775 42.406621  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Covarrubias</ms:NOMBRE_COMPLETO_VIAL>
