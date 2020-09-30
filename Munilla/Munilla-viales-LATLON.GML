@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.300362 42.187163 </gml:lowerCorner>
-      		<gml:upperCorner>-2.257145 42.199432 </gml:upperCorner>
+      		<gml:upperCorner>-2.257145 42.199422 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -17,52 +17,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.258026 42.198968 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257901 42.199432 </gml:upperCorner>
+        		<gml:upperCorner>-2.257402 42.199422 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257901 42.199432  -2.257958 42.199367  -2.257969 42.199319  -2.257984 42.199172  -2.257993 42.199110  -2.258000 42.199057  -2.258026 42.198968  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle del Colladillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2609800050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3598686">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.258238 42.198535 </gml:lowerCorner>
-        		<gml:upperCorner>-2.258048 42.198906 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.258238 42.198535  -2.258184 42.198622  -2.258132 42.198710  -2.258093 42.198795  -2.258073 42.198839  -2.258048 42.198906  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle del Colladillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2609800050</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3598687">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.258048 42.198906 </gml:lowerCorner>
-        		<gml:upperCorner>-2.258026 42.198968 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.258048 42.198906  -2.258026 42.198968  </gml:posList>
+            <gml:posList srsDimension="2">-2.257402 42.199184  -2.257456 42.199224  -2.257503 42.199270  -2.257547 42.199309  -2.257622 42.199348  -2.257658 42.199362  -2.257687 42.199394  -2.257733 42.199413  -2.257784 42.199417  -2.257865 42.199422  -2.257914 42.199410  -2.257958 42.199367  -2.257969 42.199319  -2.257984 42.199172  -2.257993 42.199110  -2.258000 42.199057  -2.258026 42.198968  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Colladillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -76,13 +36,13 @@
       <ms:viales gml:id="viales.3598688">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257716 42.199027 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257585 42.199112 </gml:upperCorner>
+        		<gml:lowerCorner>-2.257816 42.199027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257585 42.199092 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257716 42.199112  -2.257585 42.199027  </gml:posList>
+            <gml:posList srsDimension="2">-2.257816 42.199090  -2.257741 42.199092  -2.257663 42.199067  -2.257585 42.199027  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza don Pedro Mazo Lázaro</ms:NOMBRE_COMPLETO_VIAL>
@@ -96,39 +56,19 @@
       <ms:viales gml:id="viales.3598701">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257716 42.199067 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257544 42.199147 </gml:upperCorner>
+        		<gml:lowerCorner>-2.257816 42.199067 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257544 42.199207 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257716 42.199112  -2.257679 42.199147  -2.257544 42.199067  </gml:posList>
+            <gml:posList srsDimension="2">-2.257816 42.199090  -2.257784 42.199132  -2.257738 42.199207  -2.257662 42.199147  -2.257597 42.199107  -2.257544 42.199067  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza don Pedro Mazo Lázaro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3598689">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.258026 42.198968 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257716 42.199112 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.258026 42.198968  -2.257946 42.199024  -2.257879 42.199059  -2.257807 42.199082  -2.257716 42.199112  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.099.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -186,46 +126,6 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Era Escaleritas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3598702">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257585 42.199027 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257544 42.199067 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257585 42.199027  -2.257544 42.199067  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle de la Cuesta</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.3598703">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257544 42.199066 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257402 42.199184 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257544 42.199067  -2.257507 42.199066  -2.257406 42.199143  -2.257402 42.199184  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle de la Cuesta</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1777,12 +1677,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.257748 42.198738 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257623 42.198991 </gml:upperCorner>
+        		<gml:upperCorner>-2.257730 42.198909 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257748 42.198738  -2.257725 42.198913  -2.257623 42.198991  </gml:posList>
+            <gml:posList srsDimension="2">-2.257748 42.198738  -2.257731 42.198827  -2.257730 42.198909  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle de las Eras</ms:NOMBRE_COMPLETO_VIAL>
@@ -1873,36 +1773,76 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1534567">
+      <ms:viales gml:id="viales.3598702">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257402 42.198834 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257168 42.199184 </gml:upperCorner>
+        		<gml:lowerCorner>-2.257585 42.199027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257544 42.199067 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257402 42.199184  -2.257319 42.199118  -2.257192 42.198968  -2.257174 42.198947  -2.257168 42.198920  -2.257173 42.198894  -2.257279 42.198834  </gml:posList>
+            <gml:posList srsDimension="2">-2.257585 42.199027  -2.257544 42.199067  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de las Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.099.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609800055</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3598685">
+      <ms:viales gml:id="viales.3598703">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257901 42.199184 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257402 42.199432 </gml:upperCorner>
+        		<gml:lowerCorner>-2.257544 42.199066 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257402 42.199184 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.257402 42.199184  -2.257548 42.199298  -2.257657 42.199365  -2.257684 42.199386  -2.257734 42.199407  -2.257801 42.199416  -2.257901 42.199432  </gml:posList>
+            <gml:posList srsDimension="2">-2.257544 42.199067  -2.257507 42.199066  -2.257406 42.199143  -2.257402 42.199184  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de las Eras</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.099.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609800055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4217914">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.257730 42.198909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257623 42.198991 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.257730 42.198909  -2.257658 42.198964  -2.257623 42.198991  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de las Eras</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.099.41</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609800055</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1534567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.257402 42.198918 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257149 42.199184 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.257402 42.199184  -2.257310 42.199111  -2.257192 42.198968  -2.257174 42.198947  -2.257149 42.198918  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bajera</ms:NOMBRE_COMPLETO_VIAL>
@@ -2947,6 +2887,86 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Vicente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Munilla</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3598686">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.258238 42.198535 </gml:lowerCorner>
+        		<gml:upperCorner>-2.258026 42.198968 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.258238 42.198535  -2.258184 42.198622  -2.258132 42.198697  -2.258091 42.198763  -2.258061 42.198825  -2.258045 42.198885  -2.258026 42.198968  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.3598689">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.257946 42.199024 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257816 42.199090 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.257946 42.199024  -2.257879 42.199059  -2.257816 42.199090  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4217913">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.258026 42.198968 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257946 42.199024 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.258026 42.198968  -2.257982 42.199003  -2.257946 42.199024  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4217917">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.258044 42.198783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.258001 42.198968 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.258026 42.198968  -2.258005 42.198954  -2.258001 42.198931  -2.258015 42.198872  -2.258035 42.198820  -2.258044 42.198783  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>

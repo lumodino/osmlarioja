@@ -1393,26 +1393,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535922">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.563516 42.431420 </gml:lowerCorner>
-        		<gml:upperCorner>-2.563444 42.431442 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.563516 42.431442  -2.563444 42.431420  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía San Antonio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500121</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535974">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1443,26 +1423,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.563272 42.431447  -2.563336 42.431504  -2.563358 42.431578  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía San Antonio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.62</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500121</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1536215">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.563444 42.431411 </gml:lowerCorner>
-        		<gml:upperCorner>-2.563272 42.431447 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.563444 42.431420  -2.563414 42.431411  -2.563272 42.431447  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía San Antonio</ms:NOMBRE_COMPLETO_VIAL>
@@ -4793,26 +4753,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1536106">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.563821 42.431442 </gml:lowerCorner>
-        		<gml:upperCorner>-2.563516 42.431524 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.563821 42.431494  -2.563641 42.431524  -2.563553 42.431497  -2.563516 42.431442  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Paralela San Antonio</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.106.61</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610500118</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1536007">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6590,6 +6530,26 @@
         <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.106.101</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2610500136</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1536106">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.563821 42.431387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.563272 42.431524 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.563821 42.431494  -2.563641 42.431524  -2.563553 42.431497  -2.563483 42.431435  -2.563439 42.431387  -2.563272 42.431447  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Trasera San Antonio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.106.80</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

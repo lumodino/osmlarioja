@@ -2013,26 +2013,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1519521">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.924509 42.565182 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923956 42.566582 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.923956 42.566582  -2.924113 42.566443  -2.924405 42.566276  -2.924467 42.566197  -2.924449 42.565988  -2.924362 42.565700  -2.924370 42.565549  -2.924508 42.565184  -2.924509 42.565182  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cuatro Caminos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Cihuri</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cihuri</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.049.21</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2604900048</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1519568">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2330,6 +2310,26 @@
         <ms:NOMBRE_MUNICIPIO>Cihuri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.049.10</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2604900026</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1519521">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.924509 42.565182 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923956 42.566582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.923956 42.566582  -2.924113 42.566443  -2.924405 42.566276  -2.924467 42.566197  -2.924449 42.565988  -2.924362 42.565700  -2.924370 42.565549  -2.924508 42.565184  -2.924509 42.565182  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Virgen de la Esclavitud</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cihuri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cihuri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.049.30</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604900058</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
