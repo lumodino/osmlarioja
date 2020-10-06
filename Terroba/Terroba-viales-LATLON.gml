@@ -456,13 +456,13 @@
       <ms:viales gml:id="viales.1547534">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.445366 42.256992 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.445309 42.257053 </gml:lowerCorner>
         		<gml:upperCorner>-2.444831 42.257257 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.445366 42.256992  -2.445345 42.257028  -2.445265 42.257100  -2.445160 42.257159  -2.444831 42.257257  </gml:posList>
+            <gml:posList srsDimension="2">-2.445309 42.257053  -2.445265 42.257100  -2.445160 42.257159  -2.444831 42.257257  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -750,6 +750,46 @@
         <ms:NOMBRE_MUNICIPIO>Terroba</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.147.5</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2614700007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4250134">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.445366 42.256992 </gml:lowerCorner>
+        		<gml:upperCorner>-2.445309 42.257053 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.445309 42.257053  -2.445366 42.256992  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Terroba</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Terroba</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.147.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614700007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4250135">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.445309 42.256946 </gml:lowerCorner>
+        		<gml:upperCorner>-2.444340 42.257053 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.445309 42.257053  -2.445190 42.257047  -2.444938 42.257030  -2.444681 42.256993  -2.444459 42.256963  -2.444340 42.256946  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Nueva</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Terroba</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Terroba</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
