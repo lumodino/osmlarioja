@@ -2637,12 +2637,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.112706 42.132649 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112421 42.133426 </gml:upperCorner>
+        		<gml:upperCorner>-2.112409 42.133426 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112530 42.133426  -2.112475 42.133342  -2.112427 42.133195  -2.112421 42.132995  -2.112527 42.132813  -2.112577 42.132701  -2.112706 42.132649  </gml:posList>
+            <gml:posList srsDimension="2">-2.112530 42.133426  -2.112475 42.133342  -2.112427 42.133195  -2.112409 42.133079  -2.112421 42.132995  -2.112457 42.132937  -2.112527 42.132813  -2.112577 42.132701  -2.112620 42.132667  -2.112706 42.132649  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón Viejo</ms:NOMBRE_COMPLETO_VIAL>

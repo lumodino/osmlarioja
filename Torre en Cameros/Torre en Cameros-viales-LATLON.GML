@@ -662,7 +662,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.518219 42.241760  -2.518395 42.242128  </gml:posList>
+            <gml:posList srsDimension="2">-2.518219 42.241760  -2.518305 42.241915  -2.518369 42.242014  -2.518395 42.242081  -2.518395 42.242128  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle don Ángel Martínez</ms:NOMBRE_COMPLETO_VIAL>
