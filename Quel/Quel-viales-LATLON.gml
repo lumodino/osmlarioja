@@ -28,7 +28,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Bodega Cooperativa</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.58</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -288,8 +288,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alcalde don Víctor de Blas Martínez</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612000152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -308,8 +308,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alcalde don Víctor de Blas Martínez</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612000152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -328,8 +328,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alcalde don Víctor de Blas Martínez</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.109</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612000152</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -5370,6 +5370,66 @@
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.120.49</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612000016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4217782">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.063624 42.233878 </gml:lowerCorner>
+        		<gml:upperCorner>-2.063482 42.234139 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.063624 42.233878  -2.063482 42.234139  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Moreta Norte</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4217783">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.063482 42.234015 </gml:lowerCorner>
+        		<gml:upperCorner>-2.063013 42.234139 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.063482 42.234139  -2.063316 42.234090  -2.063141 42.234041  -2.063013 42.234015  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Moreta Norte</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4217784">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.064363 42.234075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.063482 42.234195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.063482 42.234139  -2.063627 42.234188  -2.063716 42.234195  -2.063866 42.234158  -2.064124 42.234087  -2.064218 42.234075  -2.064363 42.234121  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Moreta Norte</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
