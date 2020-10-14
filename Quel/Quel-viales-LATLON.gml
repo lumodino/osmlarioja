@@ -668,8 +668,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ontanilla</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.110</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612000153</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4248,7 +4248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.108</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612000006</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -4268,7 +4268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.120.108</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2612000006</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
