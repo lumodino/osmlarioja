@@ -4509,7 +4509,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4529,7 +4529,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4549,7 +4549,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4569,7 +4569,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4589,7 +4589,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4609,7 +4609,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4629,7 +4629,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4649,7 +4649,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -4669,7 +4669,7 @@
         <ms:NOMBRE_POBLAMIENTO>Ribafrecha</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ribafrecha</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.124.27</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2612400019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
