@@ -25,7 +25,7 @@
             <gml:posList srsDimension="2">-2.472171 42.356676  -2.472174 42.356661  -2.472228 42.356567  -2.472319 42.356429  -2.472355 42.356369  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle José Antonio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Libertad</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.005.33</ms:COD_CATASTRAL_VIAL>
@@ -45,7 +45,7 @@
             <gml:posList srsDimension="2">-2.472355 42.356369  -2.472401 42.356293  -2.472441 42.356228  -2.472489 42.356126  -2.472528 42.356042  -2.472520 42.355989  -2.472518 42.355972  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle José Antonio</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Libertad</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.005.33</ms:COD_CATASTRAL_VIAL>
