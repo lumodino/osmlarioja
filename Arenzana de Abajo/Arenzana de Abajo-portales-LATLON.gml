@@ -487,7 +487,7 @@
             <gml:pos>-2.715998 42.387303 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -508,7 +508,7 @@
             <gml:pos>-2.715286 42.387398 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -529,7 +529,7 @@
             <gml:pos>-2.715213 42.387461 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -550,7 +550,7 @@
             <gml:pos>-2.715147 42.387408 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -571,7 +571,7 @@
             <gml:pos>-2.714935 42.387481 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -592,7 +592,7 @@
             <gml:pos>-2.715011 42.387428 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -613,7 +613,7 @@
             <gml:pos>-2.714852 42.387449 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -634,7 +634,7 @@
             <gml:pos>-2.714561 42.387589 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -655,7 +655,7 @@
             <gml:pos>-2.715969 42.387248 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -676,7 +676,7 @@
             <gml:pos>-2.715913 42.387323 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -697,7 +697,7 @@
             <gml:pos>-2.715874 42.387272 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -718,7 +718,7 @@
             <gml:pos>-2.715765 42.387356 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -739,7 +739,7 @@
             <gml:pos>-2.715683 42.387317 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -760,7 +760,7 @@
             <gml:pos>-2.715612 42.387438 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION>A</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -781,7 +781,7 @@
             <gml:pos>-2.715684 42.387448 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -802,7 +802,7 @@
             <gml:pos>-2.715796 42.387448 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION>C</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -823,7 +823,7 @@
             <gml:pos>-2.715545 42.387434 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -844,7 +844,7 @@
             <gml:pos>-2.715460 42.387365 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>
@@ -865,7 +865,7 @@
             <gml:pos>-2.715377 42.387456 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Arenzana de Arriba</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26311</ms:CODIGO_POSTAL>

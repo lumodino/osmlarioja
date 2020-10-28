@@ -49,7 +49,7 @@
         <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.009.44</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600900069</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2129,7 +2129,7 @@
         <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.009.46</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2149,7 +2149,7 @@
         <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.009.46</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2169,7 +2169,7 @@
         <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.009.46</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2177,19 +2177,39 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.818968 42.416079 </gml:lowerCorner>
-        		<gml:upperCorner>-2.817005 42.416222 </gml:upperCorner>
+        		<gml:upperCorner>-2.817418 42.416170 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.817005 42.416222  -2.817418 42.416170  -2.817660 42.416163  -2.818166 42.416137  -2.818618 42.416107  -2.818968 42.416079  </gml:posList>
+            <gml:posList srsDimension="2">-2.817418 42.416170  -2.817660 42.416163  -2.818166 42.416137  -2.818618 42.416107  -2.818968 42.416079  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle don Francisco Mateo Agiriano</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.009.46</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_INE_VIAL>2600900073</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4282449">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.817418 42.416170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.817005 42.416222 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.817418 42.416170  -2.817220 42.416178  -2.817005 42.416222  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle don Francisco Mateo Agiriano</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.009.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600900073</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -2823,6 +2843,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.822819 42.415525  -2.822917 42.415548  -2.822939 42.415566  -2.822951 42.415595  -2.823132 42.415634  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Trasera de la Magdalena</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.009.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4282450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.817418 42.415636 </gml:lowerCorner>
+        		<gml:upperCorner>-2.817192 42.416170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.817418 42.416170  -2.817365 42.416009  -2.817357 42.415928  -2.817320 42.415833  -2.817192 42.415636  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Trasera de la Magdalena</ms:NOMBRE_COMPLETO_VIAL>
