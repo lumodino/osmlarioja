@@ -13,16 +13,36 @@
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4135271">
+      <ms:viales gml:id="viales.4286441">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.720114 42.298978 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.719294 42.299134 </gml:lowerCorner>
         		<gml:upperCorner>-2.719137 42.299195 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.719137 42.299195  -2.719152 42.299172  -2.719350 42.299118  -2.719707 42.299053  -2.719793 42.299037  -2.720114 42.298978  </gml:posList>
+            <gml:posList srsDimension="2">-2.719137 42.299195  -2.719152 42.299172  -2.719294 42.299134  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de Valdeperro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pedroso</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pedroso</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4286442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.720114 42.298978 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719294 42.299134 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.719294 42.299134  -2.719350 42.299118  -2.719707 42.299053  -2.719793 42.299037  -2.720114 42.298978  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Valdeperro</ms:NOMBRE_COMPLETO_VIAL>
