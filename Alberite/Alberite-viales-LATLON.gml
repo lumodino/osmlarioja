@@ -457,12 +457,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.424111 42.404394 </gml:lowerCorner>
-        		<gml:upperCorner>-2.420598 42.404651 </gml:upperCorner>
+        		<gml:upperCorner>-2.420538 42.404666 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.424111 42.404406  -2.423941 42.404394  -2.423495 42.404436  -2.422981 42.404476  -2.422401 42.404530  -2.421881 42.404558  -2.421525 42.404580  -2.421463 42.404583  -2.421096 42.404607  -2.420902 42.404620  -2.420598 42.404651  </gml:posList>
+            <gml:posList srsDimension="2">-2.424111 42.404406  -2.423941 42.404394  -2.423495 42.404436  -2.422981 42.404476  -2.422401 42.404530  -2.421881 42.404558  -2.421525 42.404580  -2.421463 42.404583  -2.421096 42.404607  -2.420903 42.404628  -2.420538 42.404666  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Murillo</ms:NOMBRE_COMPLETO_VIAL>

@@ -1,0 +1,22 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>municipios</Name>
+    <ElementPath>municipios</ElementPath>
+    <!--POLYGON-->
+    <GeometryType>3</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>1</FeatureCount>
+      <ExtentXMin>-2.40193</ExtentXMin>
+      <ExtentXMax>-2.32262</ExtentXMax>
+      <ExtentYMin>42.14577</ExtentYMin>
+      <ExtentYMax>42.20651</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>NOMBRE</Name>
+      <ElementPath>NOMBRE</ElementPath>
+      <Type>String</Type>
+      <Width>7</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
