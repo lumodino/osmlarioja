@@ -53,26 +53,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1518337">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.764418 42.262244 </gml:lowerCorner>
-        		<gml:upperCorner>-2.764309 42.262498 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.764313 42.262498  -2.764309 42.262468  -2.764418 42.262244  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Puentecilla</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.014.45</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2601400065</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1518338">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -93,16 +73,56 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4286664">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764323 42.262438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764309 42.262498 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.764313 42.262498  -2.764309 42.262468  -2.764323 42.262438  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Puentecilla</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.014.45</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601400065</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4286665">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764418 42.262244 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764323 42.262438 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.764323 42.262438  -2.764418 42.262244  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Puentecilla</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.014.45</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601400065</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.4101815">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.764325 42.262392 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.764323 42.262392 </gml:lowerCorner>
         		<gml:upperCorner>-2.764067 42.262604 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.764067 42.262604  -2.764105 42.262528  -2.764151 42.262439  -2.764182 42.262392  -2.764325 42.262434  </gml:posList>
+            <gml:posList srsDimension="2">-2.764067 42.262604  -2.764105 42.262528  -2.764151 42.262439  -2.764182 42.262392  -2.764323 42.262438  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Puentecilla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1437,12 +1457,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.769572 42.258295 </gml:lowerCorner>
-        		<gml:upperCorner>-2.769200 42.258318 </gml:upperCorner>
+        		<gml:upperCorner>-2.769200 42.258307 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.769572 42.258295  -2.769200 42.258318  </gml:posList>
+            <gml:posList srsDimension="2">-2.769572 42.258295  -2.769200 42.258307  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Valvanera</ms:NOMBRE_COMPLETO_VIAL>

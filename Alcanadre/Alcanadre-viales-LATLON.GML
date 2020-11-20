@@ -1313,26 +1313,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1494465">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.117126 42.405154 </gml:lowerCorner>
-        		<gml:upperCorner>-2.116462 42.405824 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.117126 42.405154  -2.117084 42.405179  -2.117014 42.405264  -2.116895 42.405415  -2.116836 42.405487  -2.116780 42.405557  -2.116675 42.405653  -2.116625 42.405699  -2.116487 42.405804  -2.116462 42.405824  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Santa Ana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.007.69</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600700067</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1494495">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4076,13 +4056,13 @@
       <ms:viales gml:id="viales.1494443">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.118606 42.405230 </gml:lowerCorner>
-        		<gml:upperCorner>-2.118289 42.405363 </gml:upperCorner>
+        		<gml:lowerCorner>-2.118606 42.405262 </gml:lowerCorner>
+        		<gml:upperCorner>-2.118340 42.405363 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.118606 42.405363  -2.118289 42.405230  </gml:posList>
+            <gml:posList srsDimension="2">-2.118606 42.405363  -2.118340 42.405262  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Cruces</ms:NOMBRE_COMPLETO_VIAL>
@@ -4143,6 +4123,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.118754 42.405476  -2.118683 42.405413  -2.118606 42.405363  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Cruces</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.007.62</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600700061</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4286656">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.118340 42.405230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.118289 42.405262 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.118340 42.405262  -2.118289 42.405230  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Cruces</ms:NOMBRE_COMPLETO_VIAL>
@@ -4553,6 +4553,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1494465">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.117126 42.405154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.116462 42.405824 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.117126 42.405154  -2.117084 42.405179  -2.117014 42.405264  -2.116895 42.405415  -2.116836 42.405487  -2.116780 42.405557  -2.116675 42.405653  -2.116625 42.405699  -2.116487 42.405804  -2.116462 42.405824  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arenales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1494381">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4709,6 +4729,26 @@
         <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.007.3</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4286657">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.118340 42.405262 </gml:lowerCorner>
+        		<gml:upperCorner>-2.118237 42.405368 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.118340 42.405262  -2.118298 42.405307  -2.118237 42.405368  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Parque Virgen de Aradón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

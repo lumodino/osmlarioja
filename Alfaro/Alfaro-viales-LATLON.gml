@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-1.766334 42.161256 </gml:lowerCorner>
-      		<gml:upperCorner>-1.732453 42.189780 </gml:upperCorner>
+      		<gml:upperCorner>-1.732453 42.189817 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -797,12 +797,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.751829 42.178928 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750962 42.179789 </gml:upperCorner>
+        		<gml:upperCorner>-1.750978 42.179790 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.751829 42.178928  -1.751718 42.179045  -1.751557 42.179205  -1.751411 42.179359  -1.751244 42.179525  -1.751088 42.179679  -1.750962 42.179789  </gml:posList>
+            <gml:posList srsDimension="2">-1.751829 42.178928  -1.751718 42.179045  -1.751557 42.179205  -1.751411 42.179359  -1.751244 42.179525  -1.751088 42.179679  -1.750978 42.179790  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Paletón de la Florida</ms:NOMBRE_COMPLETO_VIAL>
@@ -3996,13 +3996,13 @@
       <ms:viales gml:id="viales.1510689">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.765909 42.187420 </gml:lowerCorner>
-        		<gml:upperCorner>-1.764454 42.189780 </gml:upperCorner>
+        		<gml:lowerCorner>-1.765931 42.187420 </gml:lowerCorner>
+        		<gml:upperCorner>-1.764454 42.189817 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.765909 42.189780  -1.765878 42.189728  -1.765873 42.189720  -1.765858 42.189694  -1.765783 42.189573  -1.765722 42.189475  -1.765716 42.189465  -1.765710 42.189456  -1.765705 42.189448  -1.765637 42.189340  -1.765574 42.189240  -1.765411 42.188981  -1.765353 42.188888  -1.765352 42.188887  -1.765342 42.188872  -1.765254 42.188732  -1.765234 42.188700  -1.765195 42.188638  -1.765174 42.188604  -1.765107 42.188494  -1.765025 42.188356  -1.764979 42.188280  -1.764946 42.188225  -1.764934 42.188204  -1.764914 42.188171  -1.764910 42.188165  -1.764887 42.188127  -1.764880 42.188114  -1.764861 42.188083  -1.764784 42.187954  -1.764775 42.187941  -1.764744 42.187889  -1.764729 42.187864  -1.764688 42.187798  -1.764673 42.187774  -1.764614 42.187679  -1.764607 42.187668  -1.764584 42.187631  -1.764566 42.187601  -1.764551 42.187576  -1.764538 42.187556  -1.764536 42.187553  -1.764532 42.187547  -1.764521 42.187528  -1.764514 42.187517  -1.764509 42.187510  -1.764504 42.187501  -1.764499 42.187494  -1.764496 42.187488  -1.764454 42.187420  </gml:posList>
+            <gml:posList srsDimension="2">-1.765931 42.189817  -1.765878 42.189728  -1.765873 42.189720  -1.765858 42.189694  -1.765783 42.189573  -1.765722 42.189475  -1.765716 42.189465  -1.765710 42.189456  -1.765705 42.189448  -1.765637 42.189340  -1.765574 42.189240  -1.765411 42.188981  -1.765353 42.188888  -1.765352 42.188887  -1.765342 42.188872  -1.765254 42.188732  -1.765234 42.188700  -1.765195 42.188638  -1.765174 42.188604  -1.765107 42.188494  -1.765025 42.188356  -1.764979 42.188280  -1.764946 42.188225  -1.764934 42.188204  -1.764914 42.188171  -1.764910 42.188165  -1.764887 42.188127  -1.764880 42.188114  -1.764861 42.188083  -1.764784 42.187954  -1.764775 42.187941  -1.764744 42.187889  -1.764729 42.187864  -1.764688 42.187798  -1.764673 42.187774  -1.764614 42.187679  -1.764607 42.187668  -1.764584 42.187631  -1.764566 42.187601  -1.764551 42.187576  -1.764538 42.187556  -1.764536 42.187553  -1.764532 42.187547  -1.764521 42.187528  -1.764514 42.187517  -1.764509 42.187510  -1.764504 42.187501  -1.764499 42.187494  -1.764496 42.187488  -1.764454 42.187420  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de la Ermita del Pilar</ms:NOMBRE_COMPLETO_VIAL>
@@ -10973,16 +10973,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1511245">
+      <ms:viales gml:id="viales.4286658">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.751090 42.179770 </gml:lowerCorner>
-        		<gml:upperCorner>-1.750763 42.179796 </gml:upperCorner>
+        		<gml:lowerCorner>-1.750978 42.179770 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750763 42.179790 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.750763 42.179770  -1.750833 42.179782  -1.751090 42.179796  </gml:posList>
+            <gml:posList srsDimension="2">-1.750763 42.179770  -1.750833 42.179782  -1.750978 42.179790  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Pasaje San Francisco</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alfaro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alfaro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.011.133</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601100589</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4286659">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.751090 42.179790 </gml:lowerCorner>
+        		<gml:upperCorner>-1.750978 42.179796 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.750978 42.179790  -1.751090 42.179796  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Pasaje San Francisco</ms:NOMBRE_COMPLETO_VIAL>

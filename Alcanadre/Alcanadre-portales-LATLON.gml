@@ -21768,6 +21768,27 @@
         <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4286655">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.118265 42.405374 </gml:lowerCorner>
+        		<gml:upperCorner>-2.118265 42.405374 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.118265 42.405374 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Parque Virgen de Aradón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26509</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Alcanadre</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alcanadre</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

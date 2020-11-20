@@ -1037,7 +1037,8 @@
 { "type": "Feature", "properties": { "gml_id": "portales.242583", "NOMBRE_COMPLETO_VIAL": "Travesía San Isidro", "NUMERO_POLICIA": "6", "CODIGO_POSTAL": "26509", "NOMBRE_POBLAMIENTO": "Alcanadre", "NOMBRE_MUNICIPIO": "Alcanadre" }, "geometry": { "type": "Point", "coordinates": [ -2.122088, 42.404515 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.242597", "NOMBRE_COMPLETO_VIAL": "Travesía San Isidro", "NUMERO_POLICIA": "8", "CODIGO_POSTAL": "26509", "NOMBRE_POBLAMIENTO": "Alcanadre", "NOMBRE_MUNICIPIO": "Alcanadre" }, "geometry": { "type": "Point", "coordinates": [ -2.12203, 42.404458 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.237541", "NOMBRE_COMPLETO_VIAL": "Senda Acequia", "NUMERO_POLICIA": "1", "CODIGO_POSTAL": "26509", "NOMBRE_POBLAMIENTO": "Alcanadre", "NOMBRE_MUNICIPIO": "Alcanadre" }, "geometry": { "type": "Point", "coordinates": [ -2.121819, 42.406877 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.237542", "NOMBRE_COMPLETO_VIAL": "Senda Acequia", "NUMERO_POLICIA": "2", "CODIGO_POSTAL": "26509", "NOMBRE_POBLAMIENTO": "Alcanadre", "NOMBRE_MUNICIPIO": "Alcanadre" }, "geometry": { "type": "Point", "coordinates": [ -2.122526, 42.406724 ] } }
+{ "type": "Feature", "properties": { "gml_id": "portales.237542", "NOMBRE_COMPLETO_VIAL": "Senda Acequia", "NUMERO_POLICIA": "2", "CODIGO_POSTAL": "26509", "NOMBRE_POBLAMIENTO": "Alcanadre", "NOMBRE_MUNICIPIO": "Alcanadre" }, "geometry": { "type": "Point", "coordinates": [ -2.122526, 42.406724 ] } },
+{ "type": "Feature", "properties": { "gml_id": "portales.4286655", "NOMBRE_COMPLETO_VIAL": "Parque Virgen de Aradón", "NUMERO_POLICIA": "1", "CODIGO_POSTAL": "26509", "NOMBRE_POBLAMIENTO": "Alcanadre", "NOMBRE_MUNICIPIO": "Alcanadre" }, "geometry": { "type": "Point", "coordinates": [ -2.118265, 42.405374 ] } }
 ]
 }
 
