@@ -2736,13 +2736,13 @@
       <ms:viales gml:id="viales.1513720">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.235730 42.212052 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.235731 42.212059 </gml:lowerCorner>
         		<gml:upperCorner>-2.235567 42.212222 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.235567 42.212222  -2.235646 42.212124  -2.235730 42.212052  </gml:posList>
+            <gml:posList srsDimension="2">-2.235567 42.212222  -2.235646 42.212124  -2.235731 42.212059  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Medio</ms:NOMBRE_COMPLETO_VIAL>
