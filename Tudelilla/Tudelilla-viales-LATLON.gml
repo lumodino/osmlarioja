@@ -1285,7 +1285,7 @@
             <gml:posList srsDimension="2">-2.119005 42.299396  -2.119173 42.299343  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -1305,7 +1305,7 @@
             <gml:posList srsDimension="2">-2.119173 42.299343  -2.119453 42.299172  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -1325,7 +1325,7 @@
             <gml:posList srsDimension="2">-2.119929 42.298801  -2.120181 42.298694  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -1345,7 +1345,7 @@
             <gml:posList srsDimension="2">-2.119693 42.299025  -2.119900 42.298936  -2.119932 42.298870  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -1365,7 +1365,7 @@
             <gml:posList srsDimension="2">-2.119932 42.298870  -2.119929 42.298801  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -1385,7 +1385,7 @@
             <gml:posList srsDimension="2">-2.119601 42.298938  -2.119382 42.298961  -2.119349 42.298978  -2.119344 42.299047  -2.119453 42.299172  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-2.119453 42.299172  -2.119693 42.299025  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 1 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 1</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.33</ms:COD_CATASTRAL_VIAL>
@@ -2565,7 +2565,7 @@
             <gml:posList srsDimension="2">-2.120413 42.298212  -2.120377 42.298195  -2.120371 42.298193  -2.120365 42.298186  -2.120351 42.298170  -2.120342 42.298159  -2.120331 42.298147  -2.120305 42.298116  -2.120291 42.298097  -2.120275 42.298075  -2.120273 42.298073  -2.120237 42.298022  -2.120230 42.298009  -2.120201 42.297957  -2.120182 42.297923  -2.120172 42.297906  -2.120135 42.297843  -2.120128 42.297830  -2.120110 42.297786  -2.120101 42.297764  -2.120093 42.297743  -2.120089 42.297733  -2.120087 42.297728  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 4 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 4</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.34</ms:COD_CATASTRAL_VIAL>
@@ -2585,7 +2585,7 @@
             <gml:posList srsDimension="2">-2.120181 42.298694  -2.120213 42.298636  -2.120324 42.298533  -2.120546 42.298432  -2.120625 42.298356  -2.120612 42.298307  -2.120413 42.298212  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 4 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 4</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.34</ms:COD_CATASTRAL_VIAL>
@@ -2605,7 +2605,7 @@
             <gml:posList srsDimension="2">-2.120413 42.298212  -2.120326 42.298244  -2.120293 42.298300  -2.120262 42.298351  -2.120284 42.298417  -2.120139 42.298433  -2.119981 42.298458  -2.119899 42.298473  -2.119781 42.298531  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretil 4 Santa Bárbara</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretil Santa Bárbara 4</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tudelilla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tudelilla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.158.34</ms:COD_CATASTRAL_VIAL>

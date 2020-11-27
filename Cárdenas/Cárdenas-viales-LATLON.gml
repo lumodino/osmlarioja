@@ -37,12 +37,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.767649 42.374666 </gml:lowerCorner>
-        		<gml:upperCorner>-2.766940 42.374911 </gml:upperCorner>
+        		<gml:upperCorner>-2.766940 42.374910 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.766940 42.374910  -2.766942 42.374911  -2.767072 42.374859  -2.767185 42.374782  -2.767364 42.374718  -2.767540 42.374696  -2.767649 42.374666  </gml:posList>
+            <gml:posList srsDimension="2">-2.766940 42.374910  -2.767072 42.374859  -2.767185 42.374782  -2.767364 42.374718  -2.767540 42.374696  -2.767649 42.374666  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>

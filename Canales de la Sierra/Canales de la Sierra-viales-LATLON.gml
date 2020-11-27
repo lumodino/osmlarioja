@@ -642,7 +642,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.024887 42.144392  -3.024964 42.144418  -3.024966 42.144424  </gml:posList>
+            <gml:posList srsDimension="2">-3.024887 42.144392  -3.024966 42.144424  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Sierra</ms:NOMBRE_COMPLETO_VIAL>

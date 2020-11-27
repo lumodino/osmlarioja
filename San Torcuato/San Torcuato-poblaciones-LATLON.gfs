@@ -1,0 +1,28 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>poblaciones</Name>
+    <ElementPath>poblaciones</ElementPath>
+    <!--MULTIPOLYGON-->
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>2</FeatureCount>
+      <ExtentXMin>-2.89221</ExtentXMin>
+      <ExtentXMax>-2.83886</ExtentXMax>
+      <ExtentYMin>42.48028</ExtentYMin>
+      <ExtentYMax>42.48531</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>T108_000_NUCL_URB_DENO</Name>
+      <ElementPath>T108_000_NUCL_URB_DENO</ElementPath>
+      <Type>String</Type>
+      <Width>31</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>T108_000_MUNICIPIOS_DENO</Name>
+      <ElementPath>T108_000_MUNICIPIOS_DENO</ElementPath>
+      <Type>String</Type>
+      <Width>12</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

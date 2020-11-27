@@ -973,26 +973,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1517631">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.930618 42.512876 </gml:lowerCorner>
-        		<gml:upperCorner>-2.930565 42.513211 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.930618 42.512876  -2.930608 42.512911  -2.930600 42.512943  -2.930586 42.513003  -2.930565 42.513211  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.043.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2604300010</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1517632">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1063,6 +1043,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.931322 42.512001  -2.931297 42.512009  -2.931215 42.512037  -2.930992 42.512104  -2.930918 42.512144  -2.930857 42.512236  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.043.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604300010</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4302690">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930618 42.512876 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930599 42.512949 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.930618 42.512876  -2.930608 42.512911  -2.930600 42.512943  -2.930599 42.512949  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.043.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604300010</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4302691">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930599 42.512949 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930565 42.513211 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.930599 42.512949  -2.930586 42.513003  -2.930565 42.513211  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -2093,16 +2113,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1820156">
+      <ms:viales gml:id="viales.4302688">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.930602 42.512930 </gml:lowerCorner>
-        		<gml:upperCorner>-2.930417 42.513211 </gml:upperCorner>
+        		<gml:lowerCorner>-2.930565 42.513211 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930381 42.513234 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.930602 42.512930  -2.930544 42.512945  -2.930471 42.513011  -2.930417 42.513200  -2.930565 42.513211  </gml:posList>
+            <gml:posList srsDimension="2">-2.930381 42.513234  -2.930565 42.513211  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza del Músico Domingo Pérez</ms:NOMBRE_COMPLETO_VIAL>
@@ -2113,16 +2133,56 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1820159">
+      <ms:viales gml:id="viales.4302689">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.930374 42.512846 </gml:lowerCorner>
-        		<gml:upperCorner>-2.930090 42.513413 </gml:upperCorner>
+        		<gml:lowerCorner>-2.930599 42.512945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930381 42.513234 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.930132 42.512846  -2.930123 42.512939  -2.930090 42.513208  -2.930361 42.513240  -2.930374 42.513413  </gml:posList>
+            <gml:posList srsDimension="2">-2.930599 42.512949  -2.930544 42.512945  -2.930471 42.513011  -2.930408 42.513099  -2.930381 42.513234  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Músico Domingo Pérez</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4302686">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930381 42.513234 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930374 42.513413 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.930381 42.513234  -2.930374 42.513413  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Callejón Prado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.043.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604300060</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4302687">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930381 42.512846 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930090 42.513234 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.930132 42.512846  -2.930123 42.512939  -2.930090 42.513208  -2.930381 42.513234  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Callejón Prado</ms:NOMBRE_COMPLETO_VIAL>
