@@ -3196,13 +3196,13 @@
       <ms:viales gml:id="viales.1517949">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.647247 42.480820 </gml:lowerCorner>
-        		<gml:upperCorner>-2.646762 42.480877 </gml:upperCorner>
+        		<gml:lowerCorner>-2.647251 42.480820 </gml:lowerCorner>
+        		<gml:upperCorner>-2.646762 42.480873 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.647247 42.480877  -2.646810 42.480823  -2.646762 42.480820  </gml:posList>
+            <gml:posList srsDimension="2">-2.647251 42.480873  -2.646810 42.480823  -2.646762 42.480820  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Arrañales</ms:NOMBRE_COMPLETO_VIAL>
@@ -3216,13 +3216,13 @@
       <ms:viales gml:id="viales.1517953">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.647569 42.480877 </gml:lowerCorner>
-        		<gml:upperCorner>-2.647247 42.480902 </gml:upperCorner>
+        		<gml:lowerCorner>-2.647569 42.480873 </gml:lowerCorner>
+        		<gml:upperCorner>-2.647251 42.480902 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.647247 42.480877  -2.647569 42.480902  </gml:posList>
+            <gml:posList srsDimension="2">-2.647251 42.480873  -2.647569 42.480902  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Arrañales</ms:NOMBRE_COMPLETO_VIAL>
@@ -4556,13 +4556,13 @@
       <ms:viales gml:id="viales.1517750">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.647250 42.480877 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.647251 42.480873 </gml:lowerCorner>
         		<gml:upperCorner>-2.647079 42.481613 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.647079 42.481613  -2.647250 42.480877  -2.647247 42.480877  </gml:posList>
+            <gml:posList srsDimension="2">-2.647079 42.481613  -2.647250 42.480877  -2.647251 42.480873  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Benemérito Cuerpo de la Guardia Civil</ms:NOMBRE_COMPLETO_VIAL>

@@ -2116,13 +2116,13 @@
       <ms:viales gml:id="viales.1518577">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.911137 42.056144 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.911293 42.056101 </gml:lowerCorner>
         		<gml:upperCorner>-1.909891 42.056666 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.909891 42.056666  -1.910170 42.056590  -1.910461 42.056460  -1.910726 42.056317  -1.910953 42.056207  -1.911137 42.056144  </gml:posList>
+            <gml:posList srsDimension="2">-1.909891 42.056666  -1.910170 42.056590  -1.910461 42.056460  -1.910726 42.056317  -1.910953 42.056207  -1.911293 42.056101  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pedro Sáez de Guinoa</ms:NOMBRE_COMPLETO_VIAL>
@@ -4222,7 +4222,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.904407 41.996540  -1.904413 41.996327  -1.904418 41.996327  </gml:posList>
+            <gml:posList srsDimension="2">-1.904407 41.996540  -1.904409 41.996465  -1.904418 41.996327  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
