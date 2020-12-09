@@ -373,16 +373,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4208787">
+      <ms:viales gml:id="viales.4302935">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166854 42.212891 </gml:lowerCorner>
-        		<gml:upperCorner>-2.163913 42.213193 </gml:upperCorner>
+        		<gml:lowerCorner>-2.163928 42.212891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.163913 42.212949 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.166854 42.213193  -2.166357 42.213153  -2.165839 42.213113  -2.165230 42.213062  -2.164601 42.213010  -2.163928 42.212949  -2.163913 42.212891  </gml:posList>
+            <gml:posList srsDimension="2">-2.163928 42.212949  -2.163913 42.212891  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2607200057</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4302936">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166854 42.212949 </gml:lowerCorner>
+        		<gml:upperCorner>-2.163928 42.213193 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.166854 42.213193  -2.166357 42.213153  -2.165839 42.213113  -2.165230 42.213062  -2.164601 42.213010  -2.163928 42.212949  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>

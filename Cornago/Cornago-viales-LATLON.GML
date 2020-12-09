@@ -1962,7 +1962,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.094563 42.064872  -2.094628 42.064868  -2.094818 42.064784  -2.094988 42.064820  -2.094989 42.064820  </gml:posList>
+            <gml:posList srsDimension="2">-2.094563 42.064872  -2.094628 42.064868  -2.094818 42.064784  -2.094967 42.064815  -2.094989 42.064820  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carnicerías</ms:NOMBRE_COMPLETO_VIAL>
@@ -2602,7 +2602,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.095089 42.065161  -2.095014 42.065128  -2.094974 42.065096  </gml:posList>
+            <gml:posList srsDimension="2">-2.095089 42.065161  -2.095056 42.065146  -2.095014 42.065128  -2.094974 42.065096  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Baroja</ms:NOMBRE_COMPLETO_VIAL>
@@ -2637,12 +2637,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.095475 42.065134 </gml:lowerCorner>
-        		<gml:upperCorner>-2.095087 42.065190 </gml:upperCorner>
+        		<gml:upperCorner>-2.095089 42.065190 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.095475 42.065190  -2.095413 42.065160  -2.095278 42.065134  -2.095087 42.065147  </gml:posList>
+            <gml:posList srsDimension="2">-2.095475 42.065190  -2.095413 42.065160  -2.095278 42.065134  -2.095135 42.065137  -2.095089 42.065161  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Baroja</ms:NOMBRE_COMPLETO_VIAL>
