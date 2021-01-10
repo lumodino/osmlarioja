@@ -1,0 +1,438 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>-2.889999 42.371558 </gml:lowerCorner>
+      		<gml:upperCorner>-2.886169 42.374926 </gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889999 42.372157 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889179 42.373126 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.889999 42.373126  -2.889924 42.373092  -2.889842 42.373016  -2.889674 42.372762  -2.889507 42.372541  -2.889305 42.372297  -2.889179 42.372157  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Monte</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.4</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200010</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815052">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889297 42.371645 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889179 42.372157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.889179 42.372157  -2.889255 42.372022  -2.889288 42.371876  -2.889297 42.371645  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Amparo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200006</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815053">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889331 42.371565 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889297 42.371645 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.889297 42.371645  -2.889298 42.371635  -2.889331 42.371565  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Amparo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200006</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815054">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889699 42.371558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889297 42.371671 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.889297 42.371645  -2.889474 42.371671  -2.889635 42.371584  -2.889699 42.371558  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Amparo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200006</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815058">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.886715 42.373916 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886209 42.374391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.886715 42.373916  -2.886575 42.374109  -2.886438 42.374206  -2.886209 42.374391  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815059">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.886715 42.373680 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886169 42.373916 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.886715 42.373916  -2.886501 42.373819  -2.886288 42.373706  -2.886169 42.373680  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815070">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887398 42.373157 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886715 42.373916 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887398 42.373157  -2.887253 42.373294  -2.887116 42.373392  -2.886953 42.373546  -2.886845 42.373740  -2.886715 42.373916  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815072">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887831 42.372886 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887398 42.373157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887831 42.372886  -2.887460 42.373116  -2.887398 42.373157  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815073">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.886710 42.374391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886209 42.374560 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.886209 42.374391  -2.886710 42.374560  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815074">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.886859 42.374309 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886710 42.374560 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.886710 42.374560  -2.886768 42.374480  -2.886776 42.374402  -2.886859 42.374309  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815075">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.886710 42.374560 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886512 42.374926 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.886710 42.374560  -2.886693 42.374661  -2.886512 42.374926  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4042040">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889179 42.372145 </gml:lowerCorner>
+        		<gml:upperCorner>-2.888791 42.372295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.889179 42.372157  -2.889126 42.372145  -2.888859 42.372272  -2.888791 42.372295  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4042041">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.888791 42.372295 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887831 42.372886 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.888791 42.372295  -2.888660 42.372338  -2.888521 42.372384  -2.888396 42.372472  -2.888209 42.372661  -2.888102 42.372751  -2.888048 42.372782  -2.887841 42.372881  -2.887831 42.372886  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4042042">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889032 42.372295 </gml:lowerCorner>
+        		<gml:upperCorner>-2.888791 42.372453 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.888791 42.372295  -2.888948 42.372400  -2.889032 42.372453  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.2</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815061">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887831 42.372808 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887719 42.372886 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887831 42.372886  -2.887719 42.372808  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200011</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815062">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887719 42.372709 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887571 42.372808 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887719 42.372808  -2.887571 42.372709  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200011</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815063">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887921 42.372681 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887719 42.372808 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887719 42.372808  -2.887921 42.372681  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Ayuntamiento</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.6</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200011</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815064">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887883 42.372441 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887571 42.372709 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887571 42.372709  -2.887690 42.372639  -2.887785 42.372564  -2.887883 42.372441  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815066">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887571 42.372709 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887393 42.372816 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887571 42.372709  -2.887393 42.372816  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815067">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887393 42.372764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887019 42.372858 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887393 42.372816  -2.887319 42.372764  -2.887230 42.372783  -2.887158 42.372856  -2.887126 42.372858  -2.887019 42.372814  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1815068">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887398 42.372816 </gml:lowerCorner>
+        		<gml:upperCorner>-2.887349 42.373157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.887393 42.372816  -2.887363 42.372863  -2.887349 42.372969  -2.887349 42.373045  -2.887398 42.373157  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villarejo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villarejo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.173.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617200007</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
+

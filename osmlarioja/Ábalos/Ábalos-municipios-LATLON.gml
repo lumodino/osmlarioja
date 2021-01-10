@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding="ISO-8859-1" ?>
+<wfs:FeatureCollection
+   xmlns:ms="http://mapserver.gis.umn.edu/mapserver"
+   xmlns:gml="http://www.opengis.net/gml"
+   xmlns:wfs="http://www.opengis.net/wfs"
+   xmlns:ogc="http://www.opengis.net/ogc"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=municipios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
+      <gml:boundedBy>
+      	<gml:Envelope srsName="EPSG:4326">
+      		<gml:lowerCorner>-2.727901 42.527492 </gml:lowerCorner>
+      		<gml:upperCorner>-2.680542 42.599828 </gml:upperCorner>
+      	</gml:Envelope>
+      </gml:boundedBy>
+    <gml:featureMember>
+      <ms:municipios gml:id="municipios.26001">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.727901 42.527492 </gml:lowerCorner>
+        		<gml:upperCorner>-2.680542 42.599828 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.699112 42.527492  -2.697960 42.529164  -2.695898 42.532536  -2.695058 42.534866  -2.694739 42.535451  -2.694151 42.536053  -2.693910 42.538142  -2.691505 42.541800  -2.691427 42.542764  -2.691371 42.544178  -2.690746 42.547472  -2.687538 42.558198  -2.687079 42.559710  -2.687188 42.562313  -2.687169 42.566186  -2.687531 42.569032  -2.687544 42.569132  -2.687585 42.570645  -2.687532 42.571023  -2.686422 42.578972  -2.686361 42.581547  -2.686060 42.583105  -2.685973 42.583402  -2.685093 42.586398  -2.684979 42.587298  -2.684165 42.589097  -2.680542 42.594518  -2.681769 42.595395  -2.685074 42.594963  -2.686158 42.595092  -2.687533 42.595555  -2.688677 42.595954  -2.699954 42.598137  -2.706321 42.599828  -2.707762 42.596563  -2.708441 42.594772  -2.708542 42.594016  -2.709097 42.592604  -2.709466 42.591830  -2.710042 42.591210  -2.713930 42.588599  -2.716624 42.585850  -2.717115 42.585014  -2.717817 42.583421  -2.718396 42.582072  -2.719146 42.580525  -2.722066 42.576056  -2.723891 42.574034  -2.724686 42.573324  -2.725370 42.572858  -2.725738 42.572489  -2.726143 42.571779  -2.726526 42.570501  -2.726642 42.568997  -2.726522 42.568592  -2.726090 42.567258  -2.725705 42.566095  -2.727159 42.562217  -2.727901 42.559868  -2.724057 42.555816  -2.719618 42.554238  -2.718879 42.550526  -2.717889 42.546047  -2.714697 42.543536  -2.713629 42.540147  -2.711674 42.538836  -2.708299 42.536603  -2.707111 42.535429  -2.706252 42.534292  -2.705925 42.533868  -2.704390 42.531478  -2.703192 42.529872  -2.702610 42.529366  -2.701918 42.528950  -2.699112 42.527492  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:NOMBRE>Ábalos</ms:NOMBRE>
+      </ms:municipios>
+    </gml:featureMember>
+</wfs:FeatureCollection>
+
+
+
