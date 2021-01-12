@@ -1777,27 +1777,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4159054">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.112310 42.133301 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112310 42.133301 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.112310 42.133301 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Camino Peñarrubia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.1260503">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10885,6 +10864,27 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón Viejo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4159054">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112310 42.133301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112310 42.133301 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.112310 42.133301 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón Viejo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
