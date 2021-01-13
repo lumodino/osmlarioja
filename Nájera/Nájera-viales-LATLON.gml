@@ -3133,26 +3133,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535635">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.723279 42.419943 </gml:lowerCorner>
-        		<gml:upperCorner>-2.723276 42.420185 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.723276 42.419943  -2.723276 42.419946  -2.723279 42.420185  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Matute</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Nájera</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nájera</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.103.90</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2610200217</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535636">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3323,6 +3303,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.723309 42.419607  -2.723321 42.419715  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Matute</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nájera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nájera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.103.90</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610200217</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377864">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723278 42.419943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723276 42.420090 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.723276 42.419943  -2.723276 42.419946  -2.723278 42.420090  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Matute</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nájera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nájera</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.103.90</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610200217</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377865">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723279 42.420090 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723278 42.420185 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.723278 42.420090  -2.723279 42.420185  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Matute</ms:NOMBRE_COMPLETO_VIAL>
@@ -8162,7 +8182,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.735527 42.417855  -2.735465 42.418063  -2.735464 42.418063  </gml:posList>
+            <gml:posList srsDimension="2">-2.735527 42.417855  -2.735464 42.418063  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mina</ms:NOMBRE_COMPLETO_VIAL>
@@ -9197,12 +9217,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.723309 42.419607 </gml:lowerCorner>
-        		<gml:upperCorner>-2.722569 42.420105 </gml:upperCorner>
+        		<gml:upperCorner>-2.722569 42.420090 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.723309 42.419607  -2.723165 42.419636  -2.722870 42.419691  -2.722620 42.419740  -2.722569 42.419750  -2.722698 42.419866  -2.722727 42.419889  -2.722957 42.419981  -2.723278 42.420105  </gml:posList>
+            <gml:posList srsDimension="2">-2.723309 42.419607  -2.723165 42.419636  -2.722870 42.419691  -2.722620 42.419740  -2.722569 42.419750  -2.722698 42.419866  -2.722727 42.419889  -2.722957 42.419981  -2.723278 42.420090  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Doña Estefanía</ms:NOMBRE_COMPLETO_VIAL>

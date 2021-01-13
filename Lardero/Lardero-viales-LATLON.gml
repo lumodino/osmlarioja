@@ -8676,13 +8676,13 @@
       <ms:viales gml:id="viales.4001737">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.464885 42.411420 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.464851 42.411420 </gml:lowerCorner>
         		<gml:upperCorner>-2.458000 42.422147 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.464885 42.411420  -2.464710 42.411505  -2.464510 42.411728  -2.464040 42.412397  -2.463569 42.413135  -2.463098 42.413891  -2.462651 42.414586  -2.461956 42.415676  -2.461391 42.416612  -2.459507 42.419601  -2.458673 42.420931  -2.458158 42.421810  -2.458000 42.422147  </gml:posList>
+            <gml:posList srsDimension="2">-2.464851 42.411420  -2.464710 42.411505  -2.464510 42.411728  -2.464040 42.412397  -2.463569 42.413135  -2.463098 42.413891  -2.462651 42.414586  -2.461956 42.415676  -2.461391 42.416612  -2.459507 42.419601  -2.458673 42.420931  -2.458158 42.421810  -2.458000 42.422147  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Madrid</ms:NOMBRE_COMPLETO_VIAL>

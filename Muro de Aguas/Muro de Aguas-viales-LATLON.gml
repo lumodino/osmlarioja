@@ -396,13 +396,13 @@
       <ms:viales gml:id="viales.1535147">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.112792 42.134100 </gml:lowerCorner>
-        		<gml:upperCorner>-2.112753 42.134159 </gml:upperCorner>
+        		<gml:lowerCorner>-2.112792 42.134135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112776 42.134159 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.112776 42.134135  -2.112753 42.134100  -2.112792 42.134159  </gml:posList>
+            <gml:posList srsDimension="2">-2.112776 42.134135  -2.112792 42.134159  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Cerrada</ms:NOMBRE_COMPLETO_VIAL>

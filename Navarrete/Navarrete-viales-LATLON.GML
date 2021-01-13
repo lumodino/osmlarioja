@@ -6577,12 +6577,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.568269 42.431554 </gml:lowerCorner>
-        		<gml:upperCorner>-2.566660 42.431969 </gml:upperCorner>
+        		<gml:upperCorner>-2.566622 42.431969 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.566660 42.431575  -2.566728 42.431563  -2.566831 42.431554  -2.567052 42.431562  -2.567232 42.431565  -2.567371 42.431595  -2.567538 42.431669  -2.567703 42.431740  -2.567891 42.431799  -2.568084 42.431887  -2.568269 42.431969  </gml:posList>
+            <gml:posList srsDimension="2">-2.566622 42.431581  -2.566728 42.431563  -2.566831 42.431554  -2.567052 42.431562  -2.567232 42.431565  -2.567371 42.431595  -2.567538 42.431669  -2.567703 42.431740  -2.567891 42.431799  -2.568084 42.431887  -2.568269 42.431969  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino las Balsas</ms:NOMBRE_COMPLETO_VIAL>
