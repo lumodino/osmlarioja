@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.599022 42.198547 </gml:lowerCorner>
-      		<gml:upperCorner>-2.596111 42.200199 </gml:upperCorner>
+      		<gml:upperCorner>-2.596111 42.200212 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -536,13 +536,13 @@
       <ms:viales gml:id="viales.1539297">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.597029 42.199165 </gml:lowerCorner>
-        		<gml:upperCorner>-2.596586 42.199236 </gml:upperCorner>
+        		<gml:lowerCorner>-2.597029 42.199159 </gml:lowerCorner>
+        		<gml:upperCorner>-2.596574 42.199236 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.597029 42.199236  -2.596586 42.199165  </gml:posList>
+            <gml:posList srsDimension="2">-2.597029 42.199236  -2.596574 42.199159  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -1056,13 +1056,13 @@
       <ms:viales gml:id="viales.1539295">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.597631 42.200071 </gml:lowerCorner>
-        		<gml:upperCorner>-2.597456 42.200199 </gml:upperCorner>
+        		<gml:lowerCorner>-2.597616 42.200071 </gml:lowerCorner>
+        		<gml:upperCorner>-2.597456 42.200212 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.597456 42.200071  -2.597512 42.200135  -2.597631 42.200199  </gml:posList>
+            <gml:posList srsDimension="2">-2.597456 42.200071  -2.597512 42.200135  -2.597600 42.200183  -2.597616 42.200212  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>

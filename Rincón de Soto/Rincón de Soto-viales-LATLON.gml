@@ -1602,7 +1602,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.849748 42.235015  -1.849751 42.235045  -1.849731 42.234934  -1.849746 42.234816  </gml:posList>
+            <gml:posList srsDimension="2">-1.849751 42.235045  -1.849731 42.234934  -1.849746 42.234816  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pozo</ms:NOMBRE_COMPLETO_VIAL>

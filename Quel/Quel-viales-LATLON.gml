@@ -813,26 +813,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1539894">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.063896 42.233674 </gml:lowerCorner>
-        		<gml:upperCorner>-2.063480 42.233888 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.063492 42.233674  -2.063484 42.233696  -2.063480 42.233724  -2.063481 42.233730  -2.063483 42.233752  -2.063493 42.233780  -2.063508 42.233806  -2.063530 42.233829  -2.063557 42.233849  -2.063588 42.233866  -2.063622 42.233878  -2.063659 42.233886  -2.063697 42.233888  -2.063735 42.233886  -2.063752 42.233884  -2.063804 42.233871  -2.063826 42.233861  -2.063854 42.233848  -2.063854 42.233847  -2.063880 42.233818  -2.063886 42.233811  -2.063896 42.233797  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1539927">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1003,6 +983,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.050137 42.225932  -2.050195 42.225816  -2.050264 42.225749  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377877">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.063624 42.233674 </gml:lowerCorner>
+        		<gml:upperCorner>-2.063480 42.233878 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.063492 42.233674  -2.063484 42.233696  -2.063480 42.233724  -2.063481 42.233730  -2.063483 42.233752  -2.063493 42.233780  -2.063508 42.233806  -2.063530 42.233829  -2.063557 42.233849  -2.063588 42.233866  -2.063622 42.233878  -2.063624 42.233878  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377878">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.063896 42.233797 </gml:lowerCorner>
+        		<gml:upperCorner>-2.063624 42.233888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.063624 42.233878  -2.063659 42.233886  -2.063697 42.233888  -2.063735 42.233886  -2.063752 42.233884  -2.063804 42.233871  -2.063826 42.233861  -2.063854 42.233848  -2.063854 42.233847  -2.063880 42.233818  -2.063886 42.233811  -2.063896 42.233797  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -3836,13 +3856,13 @@
       <ms:viales gml:id="viales.1539955">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.045885 42.227736 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.045880 42.227738 </gml:lowerCorner>
         		<gml:upperCorner>-2.045656 42.227930 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.045885 42.227736  -2.045846 42.227784  -2.045787 42.227843  -2.045656 42.227930  </gml:posList>
+            <gml:posList srsDimension="2">-2.045880 42.227738  -2.045846 42.227784  -2.045787 42.227843  -2.045656 42.227930  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cobertizo Bajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -3996,13 +4016,13 @@
       <ms:viales gml:id="viales.1539940">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.043513 42.226189 </gml:lowerCorner>
-        		<gml:upperCorner>-2.042558 42.226562 </gml:upperCorner>
+        		<gml:lowerCorner>-2.043513 42.226143 </gml:lowerCorner>
+        		<gml:upperCorner>-2.042523 42.226562 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.043513 42.226562  -2.042926 42.226321  -2.042671 42.226262  -2.042558 42.226189  </gml:posList>
+            <gml:posList srsDimension="2">-2.043513 42.226562  -2.042926 42.226321  -2.042671 42.226262  -2.042523 42.226143  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Salida Baja de Autol</ms:NOMBRE_COMPLETO_VIAL>

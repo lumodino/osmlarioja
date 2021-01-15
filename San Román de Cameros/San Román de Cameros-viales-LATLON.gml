@@ -556,13 +556,13 @@
       <ms:viales gml:id="viales.1542045">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.450214 42.195478 </gml:lowerCorner>
-        		<gml:upperCorner>-2.449465 42.196333 </gml:upperCorner>
+        		<gml:lowerCorner>-2.450211 42.195478 </gml:lowerCorner>
+        		<gml:upperCorner>-2.449465 42.196348 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.450214 42.196333  -2.450159 42.196256  -2.450091 42.196188  -2.450004 42.196115  -2.449842 42.195969  -2.449693 42.195815  -2.449490 42.195519  -2.449465 42.195478  </gml:posList>
+            <gml:posList srsDimension="2">-2.450164 42.196348  -2.450194 42.196343  -2.450211 42.196325  -2.450159 42.196256  -2.450091 42.196188  -2.450004 42.196115  -2.449842 42.195969  -2.449693 42.195815  -2.449490 42.195519  -2.449465 42.195478  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>

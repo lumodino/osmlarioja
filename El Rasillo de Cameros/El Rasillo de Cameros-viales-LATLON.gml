@@ -2193,26 +2193,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1540752">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.696418 42.194055 </gml:lowerCorner>
-        		<gml:upperCorner>-2.695623 42.194234 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.695623 42.194211  -2.695800 42.194234  -2.696418 42.194055  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1540755">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2276,13 +2256,13 @@
       <ms:viales gml:id="viales.1540772">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.695597 42.195369 </gml:lowerCorner>
-        		<gml:upperCorner>-2.695588 42.195481 </gml:upperCorner>
+        		<gml:lowerCorner>-2.695597 42.195370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.695583 42.195481 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.695588 42.195369  -2.695597 42.195481  </gml:posList>
+            <gml:posList srsDimension="2">-2.695583 42.195370  -2.695597 42.195481  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
@@ -2316,13 +2296,13 @@
       <ms:viales gml:id="viales.1540829">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.696314 42.194321 </gml:lowerCorner>
-        		<gml:upperCorner>-2.695633 42.194640 </gml:upperCorner>
+        		<gml:lowerCorner>-2.696314 42.194222 </gml:lowerCorner>
+        		<gml:upperCorner>-2.695684 42.194640 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.696314 42.194640  -2.696233 42.194582  -2.695633 42.194321  </gml:posList>
+            <gml:posList srsDimension="2">-2.696314 42.194640  -2.696233 42.194582  -2.695684 42.194343  -2.695711 42.194222  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
@@ -2443,6 +2423,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.697539 42.194147  -2.697554 42.194072  -2.697586 42.193932  -2.697596 42.193855  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377879">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.695711 42.194211 </gml:lowerCorner>
+        		<gml:upperCorner>-2.695623 42.194222 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.695623 42.194211  -2.695711 42.194222  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377880">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.696418 42.194055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.695711 42.194234 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.695711 42.194222  -2.695800 42.194234  -2.696418 42.194055  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>

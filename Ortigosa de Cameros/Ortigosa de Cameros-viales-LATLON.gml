@@ -1622,7 +1622,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.704842 42.175888  -2.704843 42.175887  -2.705075 42.175856  </gml:posList>
+            <gml:posList srsDimension="2">-2.704842 42.175888  -2.705075 42.175856  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Alberta Martínez</ms:NOMBRE_COMPLETO_VIAL>
@@ -2373,26 +2373,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4136850">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.705973 42.176493 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705841 42.176764 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.705841 42.176764  -2.705882 42.176701  -2.705896 42.176683  -2.705928 42.176694  -2.705942 42.176673  -2.705971 42.176627  -2.705973 42.176533  -2.705923 42.176507  -2.705915 42.176493  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Portales</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ortigosa de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ortigosa de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.112.23</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611200065</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.4136919">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2443,6 +2423,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.705915 42.176493  -2.705956 42.176407  -2.706036 42.176404  -2.706068 42.176333  -2.706084 42.176332  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Portales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ortigosa de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ortigosa de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.112.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611200065</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377869">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705971 42.176627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.705841 42.176764 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.705841 42.176764  -2.705882 42.176701  -2.705896 42.176683  -2.705928 42.176694  -2.705942 42.176673  -2.705971 42.176627  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Portales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ortigosa de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ortigosa de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.112.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611200065</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4377870">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705973 42.176493 </gml:lowerCorner>
+        		<gml:upperCorner>-2.705915 42.176627 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.705971 42.176627  -2.705973 42.176533  -2.705923 42.176507  -2.705915 42.176493  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Portales</ms:NOMBRE_COMPLETO_VIAL>

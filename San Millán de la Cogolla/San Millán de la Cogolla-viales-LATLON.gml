@@ -1076,13 +1076,13 @@
       <ms:viales gml:id="viales.1541862">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.866943 42.327905 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.866968 42.327905 </gml:lowerCorner>
         		<gml:upperCorner>-2.866341 42.328030 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.866341 42.327905  -2.866547 42.327962  -2.866795 42.328030  -2.866889 42.328029  -2.866943 42.327997  </gml:posList>
+            <gml:posList srsDimension="2">-2.866341 42.327905  -2.866547 42.327962  -2.866795 42.328030  -2.866889 42.328029  -2.866968 42.327974  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
