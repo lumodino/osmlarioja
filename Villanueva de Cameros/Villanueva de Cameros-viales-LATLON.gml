@@ -1093,16 +1093,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1549992">
+      <ms:viales gml:id="viales.4378867">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.649970 42.167615 </gml:lowerCorner>
-        		<gml:upperCorner>-2.649629 42.167696 </gml:upperCorner>
+        		<gml:lowerCorner>-2.649951 42.167615 </gml:lowerCorner>
+        		<gml:upperCorner>-2.649629 42.167668 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.649629 42.167615  -2.649775 42.167633  -2.649951 42.167668  -2.649970 42.167696  </gml:posList>
+            <gml:posList srsDimension="2">-2.649629 42.167615  -2.649775 42.167633  -2.649951 42.167668  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villanueva de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villanueva de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.170.5</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2616900022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4378868">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.649970 42.167668 </gml:lowerCorner>
+        		<gml:upperCorner>-2.649951 42.167696 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.649951 42.167668  -2.649970 42.167696  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla</ms:NOMBRE_COMPLETO_VIAL>

@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.426629 42.421218 </gml:lowerCorner>
-      		<gml:upperCorner>-2.410387 42.452331 </gml:upperCorner>
+      		<gml:upperCorner>-2.410387 42.452333 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -2856,13 +2856,13 @@
       <ms:viales gml:id="viales.1551237">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.422558 42.452257 </gml:lowerCorner>
-        		<gml:upperCorner>-2.422284 42.452331 </gml:upperCorner>
+        		<gml:lowerCorner>-2.422564 42.452257 </gml:lowerCorner>
+        		<gml:upperCorner>-2.422284 42.452333 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.422558 42.452331  -2.422510 42.452317  -2.422509 42.452316  -2.422504 42.452315  -2.422489 42.452311  -2.422475 42.452307  -2.422442 42.452299  -2.422415 42.452291  -2.422395 42.452286  -2.422349 42.452274  -2.422330 42.452269  -2.422318 42.452266  -2.422291 42.452259  -2.422284 42.452257  </gml:posList>
+            <gml:posList srsDimension="2">-2.422564 42.452333  -2.422510 42.452317  -2.422509 42.452316  -2.422504 42.452315  -2.422489 42.452311  -2.422475 42.452307  -2.422442 42.452299  -2.422415 42.452291  -2.422395 42.452286  -2.422349 42.452274  -2.422330 42.452269  -2.422318 42.452266  -2.422291 42.452259  -2.422284 42.452257  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño Puente Madre</ms:NOMBRE_COMPLETO_VIAL>
