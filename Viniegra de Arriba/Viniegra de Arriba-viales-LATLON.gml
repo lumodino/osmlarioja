@@ -676,13 +676,13 @@
       <ms:viales gml:id="viales.4089936">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.835251 42.095601 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.835251 42.095602 </gml:lowerCorner>
         		<gml:upperCorner>-2.835048 42.095837 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.835200 42.095601  -2.835198 42.095667  -2.835251 42.095742  -2.835191 42.095774  -2.835048 42.095837  </gml:posList>
+            <gml:posList srsDimension="2">-2.835201 42.095602  -2.835198 42.095667  -2.835251 42.095742  -2.835191 42.095774  -2.835048 42.095837  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
@@ -1653,26 +1653,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550888">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.835272 42.095526 </gml:lowerCorner>
-        		<gml:upperCorner>-2.835052 42.095640 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.835272 42.095640  -2.835264 42.095635  -2.835230 42.095618  -2.835219 42.095611  -2.835200 42.095601  -2.835191 42.095597  -2.835175 42.095589  -2.835081 42.095541  -2.835057 42.095529  -2.835052 42.095526  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Don Julián Hernández</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Viniegra de Arriba</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Viniegra de Arriba</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.180.8</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2617900022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1558356">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1743,6 +1723,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.833894 42.094918  -2.833888 42.094912  -2.833887 42.094912  -2.833878 42.094902  -2.833867 42.094891  -2.833851 42.094877  -2.833847 42.094873  -2.833825 42.094853  -2.833789 42.094821  -2.833786 42.094819  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Don Julián Hernández</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Viniegra de Arriba</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Viniegra de Arriba</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.180.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617900022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4378878">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.835272 42.095602 </gml:lowerCorner>
+        		<gml:upperCorner>-2.835201 42.095640 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.835272 42.095640  -2.835264 42.095635  -2.835230 42.095618  -2.835219 42.095611  -2.835201 42.095602  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Don Julián Hernández</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Viniegra de Arriba</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Viniegra de Arriba</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.180.8</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617900022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4378879">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.835201 42.095526 </gml:lowerCorner>
+        		<gml:upperCorner>-2.835052 42.095602 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.835201 42.095602  -2.835200 42.095601  -2.835191 42.095597  -2.835175 42.095589  -2.835081 42.095541  -2.835057 42.095529  -2.835052 42.095526  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Don Julián Hernández</ms:NOMBRE_COMPLETO_VIAL>
