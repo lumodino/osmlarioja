@@ -177,12 +177,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.889460 42.151299 </gml:lowerCorner>
-        		<gml:upperCorner>-2.888932 42.151502 </gml:upperCorner>
+        		<gml:upperCorner>-2.888932 42.151501 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.889460 42.151501  -2.889459 42.151502  -2.889133 42.151381  -2.888932 42.151299  </gml:posList>
+            <gml:posList srsDimension="2">-2.889460 42.151501  -2.889428 42.151491  -2.889133 42.151381  -2.888932 42.151299  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Josefa Martínez</ms:NOMBRE_COMPLETO_VIAL>

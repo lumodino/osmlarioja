@@ -2342,7 +2342,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.667264 42.218213  -2.667438 42.218046  -2.667435 42.218048  -2.667628 42.217896  </gml:posList>
+            <gml:posList srsDimension="2">-2.667264 42.218213  -2.667351 42.218130  -2.667497 42.218000  -2.667628 42.217896  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Lavadero</ms:NOMBRE_COMPLETO_VIAL>

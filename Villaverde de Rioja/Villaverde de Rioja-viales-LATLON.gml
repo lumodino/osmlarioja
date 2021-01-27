@@ -42,7 +42,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.814019 42.320030  -2.813749 42.320058  -2.813583 42.320079  -2.813582 42.320080  </gml:posList>
+            <gml:posList srsDimension="2">-2.814019 42.320030  -2.813749 42.320058  -2.813582 42.320080  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pascual Minguillón</ms:NOMBRE_COMPLETO_VIAL>

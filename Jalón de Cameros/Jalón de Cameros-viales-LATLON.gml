@@ -282,7 +282,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.488992 42.218038  -2.488994 42.218038  -2.489571 42.218370  -2.489736 42.218602  </gml:posList>
+            <gml:posList srsDimension="2">-2.488992 42.218038  -2.489070 42.218068  -2.489551 42.218376  -2.489736 42.218602  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Peñueco</ms:NOMBRE_COMPLETO_VIAL>

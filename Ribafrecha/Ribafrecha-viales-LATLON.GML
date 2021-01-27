@@ -3882,7 +3882,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.388752 42.353619  -2.388547 42.353539  -2.388547 42.353539  </gml:posList>
+            <gml:posList srsDimension="2">-2.388752 42.353619  -2.388576 42.353550  -2.388547 42.353539  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Virgen Cuesta</ms:NOMBRE_COMPLETO_VIAL>
@@ -5017,12 +5017,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.391511 42.355166 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390956 42.355192 </gml:upperCorner>
+        		<gml:upperCorner>-2.390956 42.355190 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.391511 42.355168  -2.391303 42.355166  -2.390960 42.355192  -2.390956 42.355190  </gml:posList>
+            <gml:posList srsDimension="2">-2.391511 42.355168  -2.391303 42.355166  -2.390971 42.355188  -2.390956 42.355190  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alameda</ms:NOMBRE_COMPLETO_VIAL>

@@ -7202,7 +7202,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.417115 42.425435  -2.417404 42.425565  -2.417404 42.425566  </gml:posList>
+            <gml:posList srsDimension="2">-2.417115 42.425435  -2.417404 42.425566  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Hotel</ms:NOMBRE_COMPLETO_VIAL>

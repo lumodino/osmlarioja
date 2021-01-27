@@ -2702,7 +2702,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.486422 42.333571  -2.486510 42.333749  -2.486510 42.333750  </gml:posList>
+            <gml:posList srsDimension="2">-2.486422 42.333571  -2.486484 42.333697  -2.486496 42.333720  -2.486510 42.333750  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Arrabal</ms:NOMBRE_COMPLETO_VIAL>

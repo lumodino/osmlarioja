@@ -297,12 +297,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.618908 42.270371 </gml:lowerCorner>
-        		<gml:upperCorner>-2.618706 42.270420 </gml:upperCorner>
+        		<gml:upperCorner>-2.618706 42.270419 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.618908 42.270371  -2.618707 42.270420  -2.618706 42.270419  </gml:posList>
+            <gml:posList srsDimension="2">-2.618908 42.270371  -2.618784 42.270401  -2.618706 42.270419  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>

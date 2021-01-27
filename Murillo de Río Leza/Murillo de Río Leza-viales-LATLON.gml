@@ -1616,13 +1616,13 @@
       <ms:viales gml:id="viales.1534819">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.330961 42.402038 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.330961 42.402039 </gml:lowerCorner>
         		<gml:upperCorner>-2.330732 42.402112 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.330732 42.402039  -2.330733 42.402038  -2.330961 42.402112  </gml:posList>
+            <gml:posList srsDimension="2">-2.330732 42.402039  -2.330758 42.402046  -2.330961 42.402112  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Tomares</ms:NOMBRE_COMPLETO_VIAL>
