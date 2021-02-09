@@ -4969,6 +4969,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.267865">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.979415 42.389927 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979415 42.389927 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.979415 42.389927 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida de Santo Domingo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26260</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Santurde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Santurde de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.267898">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5536,16 +5557,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.267865">
+      <ms:portales gml:id="portales.267895">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.979415 42.389927 </gml:lowerCorner>
-        		<gml:upperCorner>-2.979415 42.389927 </gml:upperCorner>
+        		<gml:lowerCorner>-2.979398 42.389962 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979398 42.389962 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.979415 42.389927 </gml:pos>
+            <gml:pos>-2.979398 42.389962 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de Santo Domingo</ms:NOMBRE_COMPLETO_VIAL>
@@ -5998,16 +6019,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.267895">
+      <ms:portales gml:id="portales.267894">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.979398 42.389962 </gml:lowerCorner>
-        		<gml:upperCorner>-2.979398 42.389962 </gml:upperCorner>
+        		<gml:lowerCorner>-2.979378 42.390003 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979378 42.390003 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.979398 42.389962 </gml:pos>
+            <gml:pos>-2.979378 42.390003 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de Santo Domingo</ms:NOMBRE_COMPLETO_VIAL>
@@ -6439,16 +6460,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.267894">
+      <ms:portales gml:id="portales.4444788">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.979376 42.390017 </gml:lowerCorner>
-        		<gml:upperCorner>-2.979376 42.390017 </gml:upperCorner>
+        		<gml:lowerCorner>-2.979361 42.390045 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979361 42.390045 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.979376 42.390017 </gml:pos>
+            <gml:pos>-2.979361 42.390045 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de Santo Domingo</ms:NOMBRE_COMPLETO_VIAL>
