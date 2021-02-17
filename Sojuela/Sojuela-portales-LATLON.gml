@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.555500 42.350396 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.555432 42.350501 </gml:lowerCorner>
       		<gml:upperCorner>-2.543391 42.373517 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -181,48 +181,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.229776">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.544963 42.370479 </gml:lowerCorner>
-        		<gml:upperCorner>-2.544963 42.370479 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.544963 42.370479 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de las Eras</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.229775">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.544996 42.370520 </gml:lowerCorner>
-        		<gml:upperCorner>-2.544996 42.370520 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.544996 42.370520 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de las Eras</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.229739">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -244,27 +202,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.229740">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.546993 42.373427 </gml:lowerCorner>
-        		<gml:upperCorner>-2.546993 42.373427 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.546993 42.373427 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4137303">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -275,6 +212,27 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-2.546997 42.373507 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>C</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.229740">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.546993 42.373427 </gml:lowerCorner>
+        		<gml:upperCorner>-2.546993 42.373427 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.546993 42.373427 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1612,13 +1570,13 @@
       <ms:portales gml:id="portales.229845">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.546000 42.369709 </gml:lowerCorner>
-        		<gml:upperCorner>-2.546000 42.369709 </gml:upperCorner>
+        		<gml:lowerCorner>-2.546001 42.369729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.546001 42.369729 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.546000 42.369709 </gml:pos>
+            <gml:pos>-2.546001 42.369729 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1654,13 +1612,13 @@
       <ms:portales gml:id="portales.229846">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.545977 42.369678 </gml:lowerCorner>
-        		<gml:upperCorner>-2.545977 42.369678 </gml:upperCorner>
+        		<gml:lowerCorner>-2.545970 42.369687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.545970 42.369687 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.545977 42.369678 </gml:pos>
+            <gml:pos>-2.545970 42.369687 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediavilla</ms:NOMBRE_COMPLETO_VIAL>
@@ -9319,13 +9277,13 @@
       <ms:portales gml:id="portales.3681647">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555500 42.350743 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555500 42.350743 </gml:upperCorner>
+        		<gml:lowerCorner>-2.555432 42.350836 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555432 42.350836 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.555500 42.350743 </gml:pos>
+            <gml:pos>-2.555432 42.350836 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9340,13 +9298,13 @@
       <ms:portales gml:id="portales.3681648">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555425 42.350716 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555425 42.350716 </gml:upperCorner>
+        		<gml:lowerCorner>-2.555347 42.350807 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555347 42.350807 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.555425 42.350716 </gml:pos>
+            <gml:pos>-2.555347 42.350807 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9361,13 +9319,13 @@
       <ms:portales gml:id="portales.3681649">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555342 42.350685 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555342 42.350685 </gml:upperCorner>
+        		<gml:lowerCorner>-2.555276 42.350779 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555276 42.350779 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.555342 42.350685 </gml:pos>
+            <gml:pos>-2.555276 42.350779 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9382,13 +9340,13 @@
       <ms:portales gml:id="portales.3681650">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555273 42.350660 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555273 42.350660 </gml:upperCorner>
+        		<gml:lowerCorner>-2.555200 42.350752 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555200 42.350752 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.555273 42.350660 </gml:pos>
+            <gml:pos>-2.555200 42.350752 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9403,13 +9361,13 @@
       <ms:portales gml:id="portales.3681651">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555197 42.350632 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555197 42.350632 </gml:upperCorner>
+        		<gml:lowerCorner>-2.555124 42.350724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555124 42.350724 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.555197 42.350632 </gml:pos>
+            <gml:pos>-2.555124 42.350724 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9424,13 +9382,13 @@
       <ms:portales gml:id="portales.3681652">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.555120 42.350604 </gml:lowerCorner>
-        		<gml:upperCorner>-2.555120 42.350604 </gml:upperCorner>
+        		<gml:lowerCorner>-2.555052 42.350699 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555052 42.350699 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.555120 42.350604 </gml:pos>
+            <gml:pos>-2.555052 42.350699 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9445,13 +9403,13 @@
       <ms:portales gml:id="portales.3681653">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554943 42.350533 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554943 42.350533 </gml:upperCorner>
+        		<gml:lowerCorner>-2.554880 42.350637 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554880 42.350637 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.554943 42.350533 </gml:pos>
+            <gml:pos>-2.554880 42.350637 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9466,13 +9424,13 @@
       <ms:portales gml:id="portales.3681654">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554867 42.350505 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554867 42.350505 </gml:upperCorner>
+        		<gml:lowerCorner>-2.554801 42.350609 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554801 42.350609 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.554867 42.350505 </gml:pos>
+            <gml:pos>-2.554801 42.350609 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9487,13 +9445,13 @@
       <ms:portales gml:id="portales.3681655">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554790 42.350477 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554790 42.350477 </gml:upperCorner>
+        		<gml:lowerCorner>-2.554727 42.350580 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554727 42.350580 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.554790 42.350477 </gml:pos>
+            <gml:pos>-2.554727 42.350580 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9508,13 +9466,13 @@
       <ms:portales gml:id="portales.3681656">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554718 42.350451 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554718 42.350451 </gml:upperCorner>
+        		<gml:lowerCorner>-2.554651 42.350555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554651 42.350555 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.554718 42.350451 </gml:pos>
+            <gml:pos>-2.554651 42.350555 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9529,13 +9487,13 @@
       <ms:portales gml:id="portales.3681657">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554644 42.350424 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554644 42.350424 </gml:upperCorner>
+        		<gml:lowerCorner>-2.554576 42.350527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554576 42.350527 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.554644 42.350424 </gml:pos>
+            <gml:pos>-2.554576 42.350527 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9550,13 +9508,13 @@
       <ms:portales gml:id="portales.3681658">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554569 42.350396 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554569 42.350396 </gml:upperCorner>
+        		<gml:lowerCorner>-2.554498 42.350501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554498 42.350501 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.554569 42.350396 </gml:pos>
+            <gml:pos>-2.554498 42.350501 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Robledillo</ms:NOMBRE_COMPLETO_VIAL>
@@ -9589,6 +9547,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.229674">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.545699 42.370500 </gml:lowerCorner>
+        		<gml:upperCorner>-2.545699 42.370500 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.545699 42.370500 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Ensanche</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4137310">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9602,28 +9581,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ensanche</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>21</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.229674">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.545519 42.370544 </gml:lowerCorner>
-        		<gml:upperCorner>-2.545519 42.370544 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.545519 42.370544 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Ensanche</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
@@ -10303,6 +10261,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.229775">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.544976 42.370578 </gml:lowerCorner>
+        		<gml:upperCorner>-2.544976 42.370578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.544976 42.370578 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.229677">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10324,6 +10303,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.229777">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.544847 42.370693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.544847 42.370693 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.544847 42.370693 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.229683">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10338,27 +10338,6 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sojuela</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.229777">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.544847 42.370693 </gml:lowerCorner>
-        		<gml:upperCorner>-2.544847 42.370693 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.544847 42.370693 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Horno</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26376</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Sojuela</ms:NOMBRE_POBLAMIENTO>
