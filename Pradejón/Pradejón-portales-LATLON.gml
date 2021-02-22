@@ -9760,13 +9760,13 @@
       <ms:portales gml:id="portales.285757">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068891 42.331291 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068891 42.331291 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068829 42.331291 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068829 42.331291 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068891 42.331291 </gml:pos>
+            <gml:pos>-2.068829 42.331291 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
@@ -9802,17 +9802,38 @@
       <ms:portales gml:id="portales.285756">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068767 42.331206 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068767 42.331206 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068703 42.331216 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068703 42.331216 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068767 42.331206 </gml:pos>
+            <gml:pos>-2.068703 42.331216 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>27</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445083">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068550 42.331069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068550 42.331069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.068550 42.331069 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>28</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
@@ -9834,6 +9855,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445084">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068225 42.330888 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068225 42.330888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.068225 42.330888 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
@@ -10534,20 +10576,20 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.285303">
+      <ms:portales gml:id="portales.4198714">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.067751 42.332018 </gml:lowerCorner>
-        		<gml:upperCorner>-2.067751 42.332018 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068560 42.332038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068560 42.332038 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.067751 42.332018 </gml:pos>
+            <gml:pos>-2.068560 42.332038 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>1-3-5</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
@@ -11143,6 +11185,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4445044">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068760 42.332119 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068760 42.332119 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.068760 42.332119 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.285341">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11584,6 +11647,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4445043">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068928 42.332185 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068928 42.332185 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.068928 42.332185 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4120985">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11647,16 +11731,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4198714">
+      <ms:portales gml:id="portales.4445045">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068560 42.332038 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068560 42.332038 </gml:upperCorner>
+        		<gml:lowerCorner>-2.069098 42.332253 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069098 42.332253 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068560 42.332038 </gml:pos>
+            <gml:pos>-2.069098 42.332253 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
@@ -11724,6 +11808,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445042">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.069298 42.332333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069298 42.332333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.069298 42.332333 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
@@ -20278,20 +20383,62 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.286728">
+      <ms:portales gml:id="portales.4445040">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068744 42.331617 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068744 42.331617 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068388 42.331769 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068388 42.331769 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068744 42.331617 </gml:pos>
+            <gml:pos>-2.068388 42.331769 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.286728">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068833 42.331574 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068833 42.331574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.068833 42.331574 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445041">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068699 42.331494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068699 42.331494 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.068699 42.331494 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
@@ -28240,13 +28387,13 @@
       <ms:portales gml:id="portales.285761">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068037 42.330783 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068037 42.330783 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068231 42.330352 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068231 42.330352 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068037 42.330783 </gml:pos>
+            <gml:pos>-2.068231 42.330352 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda Champiñoneras</ms:NOMBRE_COMPLETO_VIAL>
@@ -28282,13 +28429,13 @@
       <ms:portales gml:id="portales.285764">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068883 42.330873 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068883 42.330873 </gml:upperCorner>
+        		<gml:lowerCorner>-2.069006 42.330645 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069006 42.330645 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068883 42.330873 </gml:pos>
+            <gml:pos>-2.069006 42.330645 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda Champiñoneras</ms:NOMBRE_COMPLETO_VIAL>
@@ -28366,13 +28513,13 @@
       <ms:portales gml:id="portales.285759">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068318 42.330890 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068318 42.330890 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068441 42.330700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068441 42.330700 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068318 42.330890 </gml:pos>
+            <gml:pos>-2.068441 42.330700 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda Champiñoneras</ms:NOMBRE_COMPLETO_VIAL>
@@ -28387,13 +28534,13 @@
       <ms:portales gml:id="portales.285760">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068167 42.330823 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068167 42.330823 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068382 42.330459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068382 42.330459 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.068167 42.330823 </gml:pos>
+            <gml:pos>-2.068382 42.330459 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Senda Champiñoneras</ms:NOMBRE_COMPLETO_VIAL>
@@ -36777,6 +36924,699 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Calle Piscinas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445077">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067917 42.331803 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067917 42.331803 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067917 42.331803 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Viter</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1-3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445078">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067741 42.331616 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067741 42.331616 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067741 42.331616 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Viter</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445076">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067642 42.331703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067642 42.331703 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067642 42.331703 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Viter</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445075">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067469 42.331626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067469 42.331626 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067469 42.331626 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Viter</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445074">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067254 42.331533 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067254 42.331533 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067254 42.331533 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Viter</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445073">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067544 42.331119 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067544 42.331119 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067544 42.331119 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Gil Merino</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445054">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067384 42.332262 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067384 42.332262 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067384 42.332262 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445049">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066757 42.331913 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066757 42.331913 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066757 42.331913 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445051">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066619 42.332035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066619 42.332035 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066619 42.332035 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>11-13</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445048">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066406 42.331818 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066406 42.331818 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066406 42.331818 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445072">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066135 42.331703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066135 42.331703 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066135 42.331703 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445057">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066355 42.331938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066355 42.331938 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066355 42.331938 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445071">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065712 42.331568 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065712 42.331568 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065712 42.331568 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445058">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066184 42.331871 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066184 42.331871 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066184 42.331871 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445070">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065288 42.331425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065288 42.331425 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065288 42.331425 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>18</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445059">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065897 42.331757 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065897 42.331757 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065897 42.331757 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>19-21</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445046">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067763 42.332018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067763 42.332018 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067763 42.332018 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2-4</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445069">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065081 42.331369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065081 42.331369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065081 42.331369 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445060">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065538 42.331654 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065538 42.331654 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065538 42.331654 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445061">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065340 42.331588 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065340 42.331588 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065340 42.331588 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>25</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445062">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065219 42.331553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065219 42.331553 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065219 42.331553 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>27</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445063">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.065028 42.331506 </gml:lowerCorner>
+        		<gml:upperCorner>-2.065028 42.331506 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.065028 42.331506 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>29</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445055">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067271 42.332238 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067271 42.332238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067271 42.332238 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445064">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.064835 42.331513 </gml:lowerCorner>
+        		<gml:upperCorner>-2.064835 42.331513 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.064835 42.331513 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>31</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445065">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.064721 42.331480 </gml:lowerCorner>
+        		<gml:upperCorner>-2.064721 42.331480 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.064721 42.331480 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>33</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445066">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.064616 42.331438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.064616 42.331438 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.064616 42.331438 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>35</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445067">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.064448 42.331391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.064448 42.331391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.064448 42.331391 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>37</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445068">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.064198 42.331336 </gml:lowerCorner>
+        		<gml:upperCorner>-2.064198 42.331336 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.064198 42.331336 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>39</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445056">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067145 42.332221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067145 42.332221 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067145 42.332221 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445047">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067343 42.331999 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067343 42.331999 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067343 42.331999 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445053">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067016 42.332192 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067016 42.332192 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067016 42.332192 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067046 42.331977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067046 42.331977 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.067046 42.331977 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445052">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.066912 42.332151 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066912 42.332151 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.066912 42.332151 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26510</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>

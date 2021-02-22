@@ -1716,13 +1716,13 @@
       <ms:viales gml:id="viales.1539553">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068997 42.331155 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068676 42.331338 </gml:upperCorner>
+        		<gml:lowerCorner>-2.068997 42.330570 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067481 42.331338 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.068676 42.331155  -2.068997 42.331338  </gml:posList>
+            <gml:posList srsDimension="2">-2.067481 42.330570  -2.067876 42.330741  -2.068227 42.330919  -2.068625 42.331138  -2.068997 42.331338  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Frontón</ms:NOMBRE_COMPLETO_VIAL>
@@ -2116,13 +2116,13 @@
       <ms:viales gml:id="viales.1539317">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.069603 42.332164 </gml:lowerCorner>
-        		<gml:upperCorner>-2.068064 42.332650 </gml:upperCorner>
+        		<gml:lowerCorner>-2.069562 42.332164 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068064 42.332595 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.068064 42.332164  -2.068878 42.332325  -2.069150 42.332420  -2.069603 42.332650  </gml:posList>
+            <gml:posList srsDimension="2">-2.068064 42.332164  -2.068878 42.332325  -2.069150 42.332420  -2.069562 42.332595  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
@@ -2193,26 +2193,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1539555">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.068064 42.332151 </gml:lowerCorner>
-        		<gml:upperCorner>-2.067635 42.332164 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.067635 42.332151  -2.068064 42.332164  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.117.47</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611700046</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1539645">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2253,46 +2233,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1559824">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.062807 42.330712 </gml:lowerCorner>
-        		<gml:upperCorner>-2.062213 42.330879 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.062213 42.330712  -2.062319 42.330715  -2.062447 42.330713  -2.062576 42.330746  -2.062705 42.330820  -2.062807 42.330879  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.117.47</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611700046</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1559825">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.067635 42.330879 </gml:lowerCorner>
-        		<gml:upperCorner>-2.062807 42.332151 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.062807 42.330879  -2.062942 42.330931  -2.063163 42.330998  -2.063744 42.331146  -2.064457 42.331302  -2.065180 42.331465  -2.066113 42.331762  -2.066845 42.332010  -2.067298 42.332123  -2.067635 42.332151  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.117.47</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2611700046</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1559871">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2316,13 +2256,13 @@
       <ms:viales gml:id="viales.1559872">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.069754 42.332627 </gml:lowerCorner>
-        		<gml:upperCorner>-2.069603 42.332650 </gml:upperCorner>
+        		<gml:lowerCorner>-2.069754 42.332595 </gml:lowerCorner>
+        		<gml:upperCorner>-2.069562 42.332627 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.069603 42.332650  -2.069754 42.332627  </gml:posList>
+            <gml:posList srsDimension="2">-2.069562 42.332595  -2.069754 42.332627  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
@@ -4313,16 +4253,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1539340">
+      <ms:viales gml:id="viales.4445036">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.068997 42.331338 </gml:lowerCorner>
+        		<gml:upperCorner>-2.068351 42.331903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.068997 42.331338  -2.068768 42.331551  -2.068528 42.331749  -2.068351 42.331903  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4445037">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068351 42.331903 </gml:lowerCorner>
         		<gml:upperCorner>-2.068064 42.332164 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.068997 42.331338  -2.068586 42.331661  -2.068564 42.331796  -2.068395 42.331880  -2.068217 42.331998  -2.068064 42.332164  </gml:posList>
+            <gml:posList srsDimension="2">-2.068351 42.331903  -2.068217 42.331998  -2.068064 42.332164  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Donantes de Sangre</ms:NOMBRE_COMPLETO_VIAL>
@@ -8066,6 +8026,106 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Calle Piscinas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4445038">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068351 42.331351 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066988 42.331903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.068351 42.331903  -2.068198 42.331843  -2.067766 42.331655  -2.067363 42.331502  -2.066988 42.331351  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Viter</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4445039">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067481 42.330570 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066988 42.331351 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.066988 42.331351  -2.067013 42.331309  -2.067201 42.330995  -2.067481 42.330570  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Hermanos Gil Merino</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1539555">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.068064 42.332151 </gml:lowerCorner>
+        		<gml:upperCorner>-2.067635 42.332164 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.067635 42.332151  -2.068064 42.332164  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559824">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.062807 42.330712 </gml:lowerCorner>
+        		<gml:upperCorner>-2.062213 42.330879 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.062213 42.330712  -2.062319 42.330715  -2.062447 42.330713  -2.062576 42.330746  -2.062705 42.330820  -2.062807 42.330879  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1559825">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.067635 42.330879 </gml:lowerCorner>
+        		<gml:upperCorner>-2.062807 42.332151 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.062807 42.330879  -2.062942 42.330931  -2.063163 42.330998  -2.063744 42.331146  -2.064457 42.331302  -2.065180 42.331465  -2.066113 42.331762  -2.066845 42.332010  -2.067298 42.332123  -2.067635 42.332151  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Prolongación Vadillos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Pradejón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Pradejón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
