@@ -836,13 +836,13 @@
       <ms:viales gml:id="viales.3866102">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.109738 42.224411 </gml:lowerCorner>
-        		<gml:upperCorner>-2.109492 42.224847 </gml:upperCorner>
+        		<gml:lowerCorner>-2.109776 42.224411 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109492 42.224924 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.109492 42.224411  -2.109621 42.224644  -2.109738 42.224847  </gml:posList>
+            <gml:posList srsDimension="2">-2.109492 42.224411  -2.109776 42.224924  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Silo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2983,6 +2983,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.106213 42.225100  -2.106171 42.224888  -2.106141 42.224672  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4445928">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110802 42.224503 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109866 42.224894 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.110802 42.224503  -2.110759 42.224586  -2.110749 42.224601  -2.109866 42.224894  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4445929">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.109866 42.224894 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109776 42.224924 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.109866 42.224894  -2.109776 42.224924  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -17793,16 +17833,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1519865">
+      <ms:viales gml:id="viales.4445925">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.111026 42.224733 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110289 42.224948 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.111026 42.224784  -2.110989 42.224759  -2.110908 42.224742  -2.110802 42.224733  -2.110613 42.224778  -2.110461 42.224829  -2.110289 42.224948  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Orenzana</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Arnedo</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Arnedo</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.018.75</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601800970</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4445926">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110289 42.224948 </gml:lowerCorner>
         		<gml:upperCorner>-2.109945 42.225028 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.111026 42.224784  -2.110989 42.224759  -2.110908 42.224742  -2.110802 42.224733  -2.110613 42.224778  -2.110461 42.224829  -2.110289 42.224948  -2.110189 42.224977  -2.109945 42.225028  </gml:posList>
+            <gml:posList srsDimension="2">-2.110289 42.224948  -2.110189 42.224977  -2.109945 42.225028  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Orenzana</ms:NOMBRE_COMPLETO_VIAL>
