@@ -19903,13 +19903,13 @@
       <ms:portales gml:id="portales.299931">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.565154 42.429457 </gml:lowerCorner>
-        		<gml:upperCorner>-2.565154 42.429457 </gml:upperCorner>
+        		<gml:lowerCorner>-2.565178 42.429456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565178 42.429456 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.565154 42.429457 </gml:pos>
+            <gml:pos>-2.565178 42.429456 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Pedro</ms:NOMBRE_COMPLETO_VIAL>
@@ -20187,6 +20187,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>39</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26370</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445941">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.565295 42.429456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565295 42.429456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.565295 42.429456 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26370</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
@@ -24100,6 +24121,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4445943">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.565028 42.429711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565028 42.429711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.565028 42.429711 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Antolín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26370</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4208803">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -24177,6 +24219,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Antolín</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26370</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4445942">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.565064 42.429798 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565064 42.429798 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.565064 42.429798 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Antolín</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26370</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>

@@ -3762,7 +3762,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.248975 42.434749  -2.248958 42.434799  -2.248829 42.434915  </gml:posList>
+            <gml:posList srsDimension="2">-2.248975 42.434749  -2.248904 42.434848  -2.248829 42.434915  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía San Isidro</ms:NOMBRE_COMPLETO_VIAL>
