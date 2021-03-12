@@ -1865,7 +1865,7 @@
             <gml:posList srsDimension="2">-2.795163 42.297010  -2.795303 42.296965  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
@@ -1885,7 +1885,7 @@
             <gml:posList srsDimension="2">-2.795163 42.297010  -2.795215 42.297098  -2.795246 42.297158  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
@@ -1905,7 +1905,7 @@
             <gml:posList srsDimension="2">-2.795026 42.297045  -2.795163 42.297010  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
@@ -1925,7 +1925,7 @@
             <gml:posList srsDimension="2">-2.795246 42.297158  -2.795065 42.297203  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
@@ -1945,7 +1945,7 @@
             <gml:posList srsDimension="2">-2.795246 42.297158  -2.795265 42.297198  -2.795276 42.297224  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
@@ -1965,7 +1965,7 @@
             <gml:posList srsDimension="2">-2.795709 42.296809  -2.795607 42.296848  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
@@ -1985,7 +1985,7 @@
             <gml:posList srsDimension="2">-2.795607 42.296848  -2.795303 42.296965  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Orive</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Orive</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Matute</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Matute</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.095.28</ms:COD_CATASTRAL_VIAL>
