@@ -2353,6 +2353,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4199536">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.901683 42.574044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.901535 42.574125 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.901683 42.574125  -2.901610 42.574079  -2.901535 42.574044  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguciana</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguciana</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.013.21</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601300038</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1509450">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

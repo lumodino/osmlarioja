@@ -333,6 +333,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4099970">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761143 42.333620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761052 42.334022 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.761143 42.334022  -2.761088 42.333863  -2.761052 42.333770  -2.761057 42.333620  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.1515072">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3649,6 +3669,26 @@
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.026.24</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4100568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764456 42.330124 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762771 42.331154 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.764456 42.330124  -2.764244 42.330216  -2.764113 42.330312  -2.763931 42.330448  -2.763825 42.330522  -2.763696 42.330612  -2.763491 42.330726  -2.763405 42.330776  -2.763211 42.330912  -2.763006 42.331056  -2.762902 42.331119  -2.762771 42.331154  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Transformador</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

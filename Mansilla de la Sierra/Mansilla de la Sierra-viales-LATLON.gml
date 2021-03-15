@@ -613,6 +613,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.1533995">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.945016 42.153067 </gml:lowerCorner>
+        		<gml:upperCorner>-2.944946 42.153162 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.945016 42.153162  -2.944946 42.153067  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Inmaculada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Mansilla de la Sierra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Mansilla de la Sierra</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.093.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609300016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.4077217">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

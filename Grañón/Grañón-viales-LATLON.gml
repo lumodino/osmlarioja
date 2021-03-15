@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.030417 42.447067 </gml:lowerCorner>
+      		<gml:lowerCorner>-3.030417 42.446562 </gml:lowerCorner>
       		<gml:upperCorner>-3.024072 42.452254 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -23,6 +23,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.026974 42.447739  -3.027267 42.447514  -3.027423 42.447357  -3.027601 42.447125  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Villarta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.069.29</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2606900025</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4054453">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.027973 42.446562 </gml:lowerCorner>
+        		<gml:upperCorner>-3.027601 42.447125 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.027601 42.447125  -3.027606 42.447117  -3.027636 42.447072  -3.027673 42.447017  -3.027692 42.446990  -3.027710 42.446963  -3.027732 42.446932  -3.027757 42.446896  -3.027765 42.446885  -3.027778 42.446865  -3.027814 42.446809  -3.027850 42.446752  -3.027873 42.446716  -3.027890 42.446690  -3.027962 42.446578  -3.027973 42.446562  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Villarta</ms:NOMBRE_COMPLETO_VIAL>
@@ -1753,6 +1773,46 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4054447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.028633 42.451547 </gml:lowerCorner>
+        		<gml:upperCorner>-3.026794 42.452254 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.028633 42.451547  -3.028521 42.451606  -3.028346 42.451697  -3.028216 42.451770  -3.028119 42.451822  -3.028020 42.451869  -3.027907 42.451909  -3.027777 42.451942  -3.027577 42.451988  -3.027418 42.452015  -3.027245 42.452036  -3.027188 42.452046  -3.027100 42.452078  -3.026995 42.452129  -3.026870 42.452203  -3.026794 42.452254  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de la Palomera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4054463">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.026250 42.448905 </gml:lowerCorner>
+        		<gml:upperCorner>-3.025842 42.448949 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.026250 42.448949  -3.025960 42.448916  -3.025873 42.448905  -3.025842 42.448916  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle de Herrán</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.3684216">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1813,6 +1873,46 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4054466">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.029357 42.447774 </gml:lowerCorner>
+        		<gml:upperCorner>-3.029185 42.447943 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.029357 42.447943  -3.029345 42.447907  -3.029281 42.447848  -3.029185 42.447774  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Arroyo del Caño</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4054469">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.027729 42.448597 </gml:lowerCorner>
+        		<gml:upperCorner>-3.026845 42.448883 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.026845 42.448860  -3.026970 42.448711  -3.027053 42.448644  -3.027127 42.448603  -3.027196 42.448597  -3.027304 42.448597  -3.027422 42.448625  -3.027508 42.448666  -3.027729 42.448883  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía de Ávila</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.4054451">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1829,6 +1929,26 @@
         <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4054450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.024843 42.451784 </gml:lowerCorner>
+        		<gml:upperCorner>-3.024256 42.452115 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.024843 42.451784  -3.024719 42.451845  -3.024593 42.451924  -3.024453 42.452006  -3.024286 42.452097  -3.024256 42.452115  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Barraspasa</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Grañón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grañón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.069.28</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

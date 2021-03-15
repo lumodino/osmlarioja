@@ -73,6 +73,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4217915">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.257946 42.198909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257730 42.199024 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.257946 42.199024  -2.257920 42.199001  -2.257892 42.198970  -2.257865 42.198953  -2.257851 42.198946  -2.257810 42.198938  -2.257785 42.198937  -2.257730 42.198909  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Pasaje</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Peroblasco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.3598694">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

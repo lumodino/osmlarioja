@@ -1294,48 +1294,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4103077">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.999340 42.107527 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999340 42.107527 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.999340 42.107527 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Estanislao Fraile</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>D</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.303740">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.999279 42.107327 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999279 42.107327 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.999279 42.107327 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Estanislao Fraile</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>I</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.304611">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1372,27 +1330,6 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Estanislao Fraile</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.303741">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.999203 42.107312 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999203 42.107312 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.999203 42.107312 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Estanislao Fraile</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>I</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
@@ -4024,6 +3961,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4103131">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.003562 42.108956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.003562 42.108956 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.003562 42.108956 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Barrio Bodegas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>59</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.305490">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6250,16 +6208,37 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.303744">
+      <ms:portales gml:id="portales.4479466">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.998899 42.107075 </gml:lowerCorner>
-        		<gml:upperCorner>-1.998899 42.107075 </gml:upperCorner>
+        		<gml:lowerCorner>-1.999847 42.107171 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999847 42.107171 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.998899 42.107075 </gml:pos>
+            <gml:pos>-1.999847 42.107171 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.303743">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.999528 42.107132 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999528 42.107132 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.999528 42.107132 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
@@ -6292,6 +6271,48 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4479461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.999245 42.107119 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999245 42.107119 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.999245 42.107119 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.303744">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.998899 42.107075 </gml:lowerCorner>
+        		<gml:upperCorner>-1.998899 42.107075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.998899 42.107075 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.303745">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6305,7 +6326,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
@@ -6323,27 +6344,6 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-1.998345 42.106945 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.303746">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.997926 42.106870 </gml:lowerCorner>
-        		<gml:upperCorner>-1.997926 42.106870 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.997926 42.106870 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
@@ -6376,6 +6376,132 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.303746">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.998088 42.106894 </gml:lowerCorner>
+        		<gml:upperCorner>-1.998088 42.106894 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.998088 42.106894 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479462">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.997740 42.106815 </gml:lowerCorner>
+        		<gml:upperCorner>-1.997740 42.106815 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.997740 42.106815 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479463">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.997432 42.106836 </gml:lowerCorner>
+        		<gml:upperCorner>-1.997432 42.106836 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.997432 42.106836 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.997297 42.106794 </gml:lowerCorner>
+        		<gml:upperCorner>-1.997297 42.106794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.997297 42.106794 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>26</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479465">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.997222 42.106747 </gml:lowerCorner>
+        		<gml:upperCorner>-1.997222 42.106747 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.997222 42.106747 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>28</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479467">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.999687 42.107170 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999687 42.107170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.999687 42.107170 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.303736">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6397,21 +6523,21 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.303738">
+      <ms:portales gml:id="portales.4479468">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.999775 42.107118 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999775 42.107118 </gml:upperCorner>
+        		<gml:lowerCorner>-1.999621 42.107169 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999621 42.107169 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.999775 42.107118 </gml:pos>
+            <gml:pos>-1.999621 42.107169 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>B</ms:EXTENSION>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
@@ -6439,20 +6565,62 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.303743">
+      <ms:portales gml:id="portales.4479469">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.999528 42.107132 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999528 42.107132 </gml:upperCorner>
+        		<gml:lowerCorner>-1.999442 42.107171 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999442 42.107171 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.999528 42.107132 </gml:pos>
+            <gml:pos>-1.999442 42.107171 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.303738">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.999775 42.107118 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999775 42.107118 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.999775 42.107118 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479470">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.999107 42.107160 </gml:lowerCorner>
+        		<gml:upperCorner>-1.999107 42.107160 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.999107 42.107160 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Arsenio Jiménez Moreno</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
@@ -9190,27 +9358,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4103131">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.003562 42.108956 </gml:lowerCorner>
-        		<gml:upperCorner>-2.003562 42.108956 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.003562 42.108956 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Argelillo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>59</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.303750">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9316,27 +9463,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.303742">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.997493 42.106837 </gml:lowerCorner>
-        		<gml:upperCorner>-1.997493 42.106837 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.997493 42.106837 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.305496">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9379,27 +9505,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.304556">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.997324 42.106806 </gml:lowerCorner>
-        		<gml:upperCorner>-1.997324 42.106806 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.997324 42.106806 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4103068">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9421,27 +9526,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.304554">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.997242 42.106769 </gml:lowerCorner>
-        		<gml:upperCorner>-1.997242 42.106769 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.997242 42.106769 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.4103069">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9452,27 +9536,6 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-1.997872 42.107231 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.304559">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.997199 42.106684 </gml:lowerCorner>
-        		<gml:upperCorner>-1.997199 42.106684 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.997199 42.106684 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
@@ -9547,6 +9610,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.304559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.997199 42.106684 </gml:lowerCorner>
+        		<gml:upperCorner>-1.997199 42.106684 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.997199 42.106684 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.304558">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9560,7 +9644,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>32</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
@@ -9581,7 +9665,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Cervera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>34</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
@@ -10996,6 +11080,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4286649">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.003554 42.107590 </gml:lowerCorner>
+        		<gml:upperCorner>-2.003554 42.107590 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.003554 42.107590 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>35</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.303709">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11521,27 +11626,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4286649">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.003554 42.107590 </gml:lowerCorner>
-        		<gml:upperCorner>-2.003554 42.107590 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.003554 42.107590 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.305039">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11767,27 +11851,6 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Martínez Bretón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.303739">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.999806 42.107168 </gml:lowerCorner>
-        		<gml:upperCorner>-1.999806 42.107168 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.999806 42.107168 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Martínez Bretón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>I</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>

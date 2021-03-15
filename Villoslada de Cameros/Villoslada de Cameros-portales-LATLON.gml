@@ -1735,27 +1735,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.311603">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672017 42.114699 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672017 42.114699 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672017 42.114699 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26125</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.311610">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

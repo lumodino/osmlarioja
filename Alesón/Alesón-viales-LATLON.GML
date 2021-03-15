@@ -1652,6 +1652,46 @@
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4116057">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.690098 42.408305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.685939 42.409371 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.690098 42.408305  -2.689903 42.408360  -2.689662 42.408419  -2.689486 42.408460  -2.689321 42.408530  -2.689195 42.408574  -2.688839 42.408654  -2.688388 42.408765  -2.687902 42.408908  -2.687495 42.409015  -2.687225 42.409081  -2.686954 42.409124  -2.686778 42.409176  -2.686658 42.409213  -2.686222 42.409316  -2.686066 42.409360  -2.686005 42.409367  -2.685939 42.409371  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino el Caminillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alesón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alesón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4116060">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.691977 42.406285 </gml:lowerCorner>
+        		<gml:upperCorner>-2.690094 42.408188 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.691968 42.406285  -2.691977 42.406338  -2.691960 42.406396  -2.691925 42.406454  -2.691860 42.406503  -2.691676 42.406542  -2.691468 42.406607  -2.691215 42.406719  -2.691030 42.406837  -2.690944 42.406934  -2.690817 42.407144  -2.690669 42.407404  -2.690492 42.407715  -2.690351 42.407918  -2.690209 42.408091  -2.690094 42.408188  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino el Caminillo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Alesón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alesón</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

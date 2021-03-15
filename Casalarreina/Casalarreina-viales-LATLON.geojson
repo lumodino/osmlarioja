@@ -280,7 +280,8 @@
 { "type": "Feature", "properties": { "gml_id": "viales.1517358", "NOMBRE_COMPLETO_VIAL": "Calle Alcer", "NOMBRE_POBLAMIENTO": "Casalarreina", "NOMBRE_MUNICIPIO": "Casalarreina" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.901861, 42.552707 ], [ -2.901682, 42.552641 ] ] } },
 { "type": "Feature", "properties": { "gml_id": "viales.1517416", "NOMBRE_COMPLETO_VIAL": "Calle Alcer", "NOMBRE_POBLAMIENTO": "Casalarreina", "NOMBRE_MUNICIPIO": "Casalarreina" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.902858, 42.553149 ], [ -2.901861, 42.552707 ] ] } },
 { "type": "Feature", "properties": { "gml_id": "viales.1528812", "NOMBRE_COMPLETO_VIAL": "Calle Alcer", "NOMBRE_POBLAMIENTO": "Casalarreina", "NOMBRE_MUNICIPIO": "Casalarreina" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.904043, 42.553656 ], [ -2.903983, 42.553646 ], [ -2.902858, 42.553149 ] ] } },
-{ "type": "Feature", "properties": { "gml_id": "viales.1517371", "NOMBRE_COMPLETO_VIAL": "Travesía Alcer", "NOMBRE_POBLAMIENTO": "Casalarreina", "NOMBRE_MUNICIPIO": "Casalarreina" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.903515, 42.552659 ], [ -2.902858, 42.553149 ] ] } }
+{ "type": "Feature", "properties": { "gml_id": "viales.1517371", "NOMBRE_COMPLETO_VIAL": "Travesía Alcer", "NOMBRE_POBLAMIENTO": "Casalarreina", "NOMBRE_MUNICIPIO": "Casalarreina" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.903515, 42.552659 ], [ -2.902858, 42.553149 ] ] } },
+{ "type": "Feature", "properties": { "gml_id": "viales.4161864", "NOMBRE_COMPLETO_VIAL": "Calle Antonio Machado", "NOMBRE_POBLAMIENTO": "Casalarreina", "NOMBRE_MUNICIPIO": "Casalarreina" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.915543, 42.549135 ], [ -2.915795, 42.549152 ], [ -2.916191, 42.54918 ], [ -2.916664, 42.549215 ] ] } }
 ]
 }
 

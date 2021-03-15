@@ -233,6 +233,26 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:viales gml:id="viales.4022666">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.673245 42.114185 </gml:lowerCorner>
+        		<gml:upperCorner>-2.673208 42.114329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.673208 42.114329  -2.673209 42.114303  -2.673245 42.114185  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mona</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.178.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617700317</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:viales gml:id="viales.4022659">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -603,6 +623,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.671891 42.114743  -2.672124 42.114620  -2.672148 42.114588  -2.672216 42.114533  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.178.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617700375</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1550655">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.671627 42.114800 </gml:lowerCorner>
+        		<gml:upperCorner>-2.671156 42.114952 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.671627 42.114930  -2.671590 42.114879  -2.671517 42.114800  -2.671432 42.114832  -2.671156 42.114952  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
@@ -1493,26 +1533,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550655">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.671627 42.114800 </gml:lowerCorner>
-        		<gml:upperCorner>-2.671156 42.114952 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.671627 42.114930  -2.671590 42.114879  -2.671517 42.114800  -2.671432 42.114832  -2.671156 42.114952  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1550674">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1743,26 +1763,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.672912 42.114192  -2.672820 42.114178  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villoslada de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villoslada de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.4022666">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.673245 42.114185 </gml:lowerCorner>
-        		<gml:upperCorner>-2.673208 42.114329 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.673208 42.114329  -2.673209 42.114303  -2.673245 42.114185  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>

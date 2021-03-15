@@ -1561,7 +1561,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cihuri</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26125</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26230</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Casalarreina</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Casalarreina</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
