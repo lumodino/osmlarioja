@@ -16207,13 +16207,13 @@
       <ms:portales gml:id="portales.299729">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.735164 42.416066 </gml:lowerCorner>
-        		<gml:upperCorner>-2.735164 42.416066 </gml:upperCorner>
+        		<gml:lowerCorner>-2.735080 42.416052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735080 42.416052 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.735164 42.416066 </gml:pos>
+            <gml:pos>-2.735080 42.416052 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Navarra</ms:NOMBRE_COMPLETO_VIAL>
