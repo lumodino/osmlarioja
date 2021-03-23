@@ -1516,33 +1516,13 @@
       <ms:viales gml:id="viales.1516026">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.940938 42.283358 </gml:lowerCorner>
-        		<gml:upperCorner>-1.939438 42.285026 </gml:upperCorner>
+        		<gml:lowerCorner>-1.940938 42.283465 </gml:lowerCorner>
+        		<gml:upperCorner>-1.939157 42.285026 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.939438 42.283358  -1.939480 42.283484  -1.940765 42.284590  -1.940865 42.284741  -1.940938 42.285026  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Calahorra</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Calahorra</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.036.192</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2603600029</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1516027">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.939438 42.282219 </gml:lowerCorner>
-        		<gml:upperCorner>-1.938113 42.283358 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.938113 42.282219  -1.938119 42.282225  -1.938144 42.282247  -1.938162 42.282262  -1.938222 42.282314  -1.938309 42.282390  -1.938342 42.282418  -1.938349 42.282424  -1.938355 42.282429  -1.938361 42.282434  -1.938586 42.282626  -1.938641 42.282673  -1.938755 42.282770  -1.938799 42.282808  -1.938810 42.282817  -1.938820 42.282825  -1.938860 42.282859  -1.938863 42.282862  -1.938938 42.282927  -1.939030 42.283006  -1.939056 42.283028  -1.939108 42.283073  -1.939185 42.283140  -1.939338 42.283272  -1.939383 42.283311  -1.939426 42.283348  -1.939438 42.283358  </gml:posList>
+            <gml:posList srsDimension="2">-1.939157 42.283465  -1.939306 42.283597  -1.939564 42.283821  -1.939830 42.284049  -1.940193 42.284365  -1.940491 42.284614  -1.940938 42.285026  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>
@@ -6762,7 +6742,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.973748 42.305000  -1.973864 42.305015  -1.973959 42.305005  -1.974150 42.304687  -1.974242 42.304641  -1.974321 42.304658  -1.974550 42.304705  -1.974874 42.304774  -1.975392 42.304884  -1.975876 42.304989  -1.976289 42.305073  -1.976829 42.305191  -1.977339 42.305298  </gml:posList>
+            <gml:posList srsDimension="2">-1.973748 42.305000  -1.973864 42.305015  -1.973959 42.305005  -1.974150 42.304687  -1.974242 42.304641  -1.974321 42.304658  -1.974550 42.304705  -1.974874 42.304774  -1.975392 42.304884  -1.975876 42.304989  -1.976289 42.305073  -1.976609 42.305143  -1.976829 42.305191  -1.977339 42.305298  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de los Ángeles</ms:NOMBRE_COMPLETO_VIAL>
