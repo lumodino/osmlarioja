@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.003822 42.106335 </gml:lowerCorner>
-      		<gml:upperCorner>-1.995544 42.110331 </gml:upperCorner>
+      		<gml:upperCorner>-1.994789 42.110331 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1035,6 +1035,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Elorza Aristorena</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>34</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Grávalos</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4479850">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.994789 42.108483 </gml:lowerCorner>
+        		<gml:upperCorner>-1.994789 42.108483 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.994789 42.108483 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Elorza Aristorena</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>35</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26587</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Grávalos</ms:NOMBRE_POBLAMIENTO>
