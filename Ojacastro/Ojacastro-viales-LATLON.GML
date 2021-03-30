@@ -2125,7 +2125,7 @@
             <gml:posList srsDimension="2">-3.004265 42.345537  -3.004608 42.345540  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Presidente Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.2</ms:COD_CATASTRAL_VIAL>
@@ -2145,7 +2145,7 @@
             <gml:posList srsDimension="2">-3.004246 42.345941  -3.004253 42.345784  -3.004265 42.345537  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Presidente Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.2</ms:COD_CATASTRAL_VIAL>
@@ -2165,7 +2165,7 @@
             <gml:posList srsDimension="2">-3.004563 42.346024  -3.004246 42.345941  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Presidente Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.2</ms:COD_CATASTRAL_VIAL>
@@ -2185,7 +2185,7 @@
             <gml:posList srsDimension="2">-3.004608 42.345540  -3.004563 42.346024  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Presidente Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.2</ms:COD_CATASTRAL_VIAL>
@@ -2205,7 +2205,7 @@
             <gml:posList srsDimension="2">-3.004323 42.345254  -3.004323 42.345254  -3.004339 42.345135  -3.004344 42.344919  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Presidente Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.3</ms:COD_CATASTRAL_VIAL>
@@ -2225,7 +2225,7 @@
             <gml:posList srsDimension="2">-3.004265 42.345537  -3.004323 42.345254  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Presidente Leopoldo Calvo Sotelo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ojacastro</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ojacastro</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.110.3</ms:COD_CATASTRAL_VIAL>
