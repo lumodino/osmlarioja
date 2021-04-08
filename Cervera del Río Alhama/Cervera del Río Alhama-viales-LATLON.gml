@@ -8642,7 +8642,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.949890 42.009545  -1.949695 42.009515  -1.949517 42.009540  -1.949345 42.009537  -1.949151 42.009495  -1.949147 42.009494  -1.949041 42.009476  -1.948895 42.009489  </gml:posList>
+            <gml:posList srsDimension="2">-1.949890 42.009545  -1.949695 42.009515  -1.949517 42.009540  -1.949345 42.009537  -1.949305 42.009529  -1.949151 42.009495  -1.949147 42.009494  -1.949041 42.009476  -1.948895 42.009489  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de las Peñas</ms:NOMBRE_COMPLETO_VIAL>
