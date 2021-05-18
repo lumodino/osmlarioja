@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.815068 42.319397 </gml:lowerCorner>
-      		<gml:upperCorner>-2.809181 42.322258 </gml:upperCorner>
+      		<gml:upperCorner>-2.809181 42.322296 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -76,16 +76,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.310136">
+      <ms:portales gml:id="portales.4483167">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.813182 42.320128 </gml:lowerCorner>
-        		<gml:upperCorner>-2.813182 42.320128 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812248 42.320283 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812248 42.320283 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.813182 42.320128 </gml:pos>
+            <gml:pos>-2.812248 42.320283 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pascual Minguillón</ms:NOMBRE_COMPLETO_VIAL>
@@ -121,13 +121,13 @@
       <ms:portales gml:id="portales.4302881">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.811841 42.320346 </gml:lowerCorner>
-        		<gml:upperCorner>-2.811841 42.320346 </gml:upperCorner>
+        		<gml:lowerCorner>-2.811858 42.320339 </gml:lowerCorner>
+        		<gml:upperCorner>-2.811858 42.320339 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.811841 42.320346 </gml:pos>
+            <gml:pos>-2.811858 42.320339 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pascual Minguillón</ms:NOMBRE_COMPLETO_VIAL>
@@ -1087,13 +1087,13 @@
       <ms:portales gml:id="portales.310492">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.809879 42.322069 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809879 42.322069 </gml:upperCorner>
+        		<gml:lowerCorner>-2.809869 42.322071 </gml:lowerCorner>
+        		<gml:upperCorner>-2.809869 42.322071 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.809879 42.322069 </gml:pos>
+            <gml:pos>-2.809869 42.322071 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pedro Pablo Matute</ms:NOMBRE_COMPLETO_VIAL>
@@ -1129,13 +1129,13 @@
       <ms:portales gml:id="portales.310489">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.809904 42.322180 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809904 42.322180 </gml:upperCorner>
+        		<gml:lowerCorner>-2.810048 42.322175 </gml:lowerCorner>
+        		<gml:upperCorner>-2.810048 42.322175 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.809904 42.322180 </gml:pos>
+            <gml:pos>-2.810048 42.322175 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pedro Pablo Matute</ms:NOMBRE_COMPLETO_VIAL>
@@ -2641,13 +2641,13 @@
       <ms:portales gml:id="portales.310089">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.809467 42.322184 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809467 42.322184 </gml:upperCorner>
+        		<gml:lowerCorner>-2.809471 42.322180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.809471 42.322180 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.809467 42.322184 </gml:pos>
+            <gml:pos>-2.809471 42.322180 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -2683,13 +2683,13 @@
       <ms:portales gml:id="portales.310090">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.809361 42.322200 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809361 42.322200 </gml:upperCorner>
+        		<gml:lowerCorner>-2.809405 42.322198 </gml:lowerCorner>
+        		<gml:upperCorner>-2.809405 42.322198 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.809361 42.322200 </gml:pos>
+            <gml:pos>-2.809405 42.322198 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -2953,27 +2953,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.310086">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.809356 42.322258 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809356 42.322258 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.809356 42.322258 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>63</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.310101">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3194,27 +3173,6 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-2.814591 42.320512 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Comandante Azofra</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>BIS</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4302904">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.814474 42.320615 </gml:lowerCorner>
-        		<gml:upperCorner>-2.814474 42.320615 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.814474 42.320615 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Comandante Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -3919,6 +3877,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4483168">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.813956 42.321013 </gml:lowerCorner>
+        		<gml:upperCorner>-2.813956 42.321013 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.813956 42.321013 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Antón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>19</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.310512">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4507,6 +4486,48 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.310558">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.812447 42.319985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812447 42.319985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.812447 42.319985 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4483169">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.813058 42.319897 </gml:lowerCorner>
+        		<gml:upperCorner>-2.813058 42.319897 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.813058 42.319897 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.310559">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4520,7 +4541,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
@@ -4541,7 +4562,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
@@ -4562,7 +4583,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
@@ -4583,7 +4604,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
@@ -4654,16 +4675,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.310561">
+      <ms:portales gml:id="portales.4483170">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812540 42.319971 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812540 42.319971 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812633 42.320037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812633 42.320037 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812540 42.319971 </gml:pos>
+            <gml:pos>-2.812633 42.320037 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
@@ -4696,16 +4717,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.310140">
+      <ms:portales gml:id="portales.310561">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812494 42.319979 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812494 42.319979 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812540 42.319971 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812540 42.319971 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812494 42.319979 </gml:pos>
+            <gml:pos>-2.812540 42.319971 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
@@ -4822,16 +4843,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.310558">
+      <ms:portales gml:id="portales.310140">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812447 42.319985 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812447 42.319985 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812494 42.319979 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812494 42.319979 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812447 42.319985 </gml:pos>
+            <gml:pos>-2.812494 42.319979 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Empedrado</ms:NOMBRE_COMPLETO_VIAL>
@@ -4983,6 +5004,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía San Antón</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.310086">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.809187 42.322296 </gml:lowerCorner>
+        		<gml:upperCorner>-2.809187 42.322296 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.809187 42.322296 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Llanas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>

@@ -397,12 +397,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.809625 42.322179 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809196 42.322229 </gml:upperCorner>
+        		<gml:upperCorner>-2.809249 42.322262 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.809196 42.322221  -2.809329 42.322229  -2.809424 42.322217  -2.809625 42.322179  </gml:posList>
+            <gml:posList srsDimension="2">-2.809249 42.322262  -2.809342 42.322249  -2.809485 42.322242  -2.809625 42.322179  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -557,12 +557,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.809277 42.321965 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809097 42.322221 </gml:upperCorner>
+        		<gml:upperCorner>-2.809097 42.322262 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.809196 42.322221  -2.809111 42.322141  -2.809097 42.322102  -2.809277 42.321965  </gml:posList>
+            <gml:posList srsDimension="2">-2.809249 42.322262  -2.809155 42.322203  -2.809111 42.322141  -2.809097 42.322102  -2.809277 42.321965  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -893,26 +893,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1550551">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.809196 42.322221 </gml:lowerCorner>
-        		<gml:upperCorner>-2.809081 42.322314 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.809196 42.322221  -2.809081 42.322314  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1550552">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1110,6 +1090,26 @@
         <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1550551">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.809249 42.322262 </gml:lowerCorner>
+        		<gml:upperCorner>-2.809081 42.322314 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.809249 42.322262  -2.809081 42.322314  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle las Llanas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2617600019</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
