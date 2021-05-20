@@ -2011,13 +2011,13 @@
       <ms:portales gml:id="portales.4302868">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812996 42.320752 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812996 42.320752 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812839 42.320779 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812839 42.320779 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812996 42.320752 </gml:pos>
+            <gml:pos>-2.812839 42.320779 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -2074,13 +2074,13 @@
       <ms:portales gml:id="portales.310118">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812868 42.320773 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812868 42.320773 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812645 42.320855 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812645 42.320855 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812868 42.320773 </gml:pos>
+            <gml:pos>-2.812645 42.320855 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>

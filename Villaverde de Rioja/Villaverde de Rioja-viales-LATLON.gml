@@ -1076,13 +1076,13 @@
       <ms:viales gml:id="viales.1550544">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812215 42.321107 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812097 42.321223 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812336 42.321107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812097 42.321279 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.812215 42.321223  -2.812201 42.321218  -2.812097 42.321107  </gml:posList>
+            <gml:posList srsDimension="2">-2.812336 42.321279  -2.812201 42.321218  -2.812097 42.321107  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía San Antón</ms:NOMBRE_COMPLETO_VIAL>
