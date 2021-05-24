@@ -4255,48 +4255,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.310521">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.810551 42.321622 </gml:lowerCorner>
-        		<gml:upperCorner>-2.810551 42.321622 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.810551 42.321622 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Somera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4302898">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.810631 42.321571 </gml:lowerCorner>
-        		<gml:upperCorner>-2.810631 42.321571 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.810631 42.321571 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Somera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.310520">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
