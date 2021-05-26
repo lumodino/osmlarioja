@@ -2074,13 +2074,13 @@
       <ms:portales gml:id="portales.310118">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812645 42.320855 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812645 42.320855 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812699 42.320825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812699 42.320825 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812645 42.320855 </gml:pos>
+            <gml:pos>-2.812699 42.320825 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
@@ -2116,18 +2116,39 @@
       <ms:portales gml:id="portales.310117">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.812528 42.320919 </gml:lowerCorner>
-        		<gml:upperCorner>-2.812528 42.320919 </gml:upperCorner>
+        		<gml:lowerCorner>-2.812588 42.320892 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812588 42.320892 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.812528 42.320919 </gml:pos>
+            <gml:pos>-2.812588 42.320892 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
+        <ms:EXTENSION>A</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4483251">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.812492 42.320959 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812492 42.320959 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.812492 42.320959 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle General Azofra</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26321</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Villaverde de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villaverde de Rioja</ms:NOMBRE_MUNICIPIO>
