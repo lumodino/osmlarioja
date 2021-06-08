@@ -5577,12 +5577,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.960733 42.435780 </gml:lowerCorner>
-        		<gml:upperCorner>-2.960464 42.437561 </gml:upperCorner>
+        		<gml:upperCorner>-2.960464 42.437578 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.960536 42.437561  -2.960602 42.437218  -2.960651 42.436353  -2.960733 42.435962  -2.960683 42.435881  -2.960464 42.435780  </gml:posList>
+            <gml:posList srsDimension="2">-2.960523 42.437578  -2.960602 42.437218  -2.960651 42.436353  -2.960733 42.435962  -2.960683 42.435881  -2.960464 42.435780  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Traseras San Francisco</ms:NOMBRE_COMPLETO_VIAL>
@@ -5596,13 +5596,13 @@
       <ms:viales gml:id="viales.1546125">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.960536 42.437561 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.960523 42.437566 </gml:lowerCorner>
         		<gml:upperCorner>-2.959299 42.439479 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.959299 42.439479  -2.959304 42.439290  -2.959370 42.439068  -2.959466 42.438852  -2.959821 42.438390  -2.959910 42.438337  -2.960383 42.437597  -2.960451 42.437566  -2.960536 42.437561  </gml:posList>
+            <gml:posList srsDimension="2">-2.959299 42.439479  -2.959304 42.439290  -2.959370 42.439068  -2.959466 42.438852  -2.959821 42.438390  -2.959910 42.438337  -2.960383 42.437597  -2.960451 42.437566  -2.960523 42.437578  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Traseras San Francisco</ms:NOMBRE_COMPLETO_VIAL>
