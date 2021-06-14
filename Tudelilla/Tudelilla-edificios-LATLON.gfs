@@ -1,0 +1,26 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>edificios</Name>
+    <ElementPath>edificios</ElementPath>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>1232</FeatureCount>
+      <ExtentXMin>-2.13402</ExtentXMin>
+      <ExtentXMax>-2.09476</ExtentXMax>
+      <ExtentYMin>42.27755</ExtentYMin>
+      <ExtentYMax>42.31417</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>T223_000_NUCL_URB_DENO</Name>
+      <ElementPath>T223_000_NUCL_URB_DENO</ElementPath>
+      <Type>String</Type>
+      <Width>9</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>T223_000_INEMUNICIPIO_DENO</Name>
+      <ElementPath>T223_000_INEMUNICIPIO_DENO</ElementPath>
+      <Type>String</Type>
+      <Width>9</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

@@ -3,7 +3,8 @@
 "name": "portales",
 "features": [
 { "type": "Feature", "properties": { "gml_id": "portales.4483146", "NOMBRE_COMPLETO_VIAL": "Calle Cabo Noval", "NUMERO_POLICIA": "2", "EXTENSION": "A", "CODIGO_POSTAL": "26009", "NOMBRE_POBLAMIENTO": "Logroño", "NOMBRE_MUNICIPIO": "Logroño" }, "geometry": { "type": "Point", "coordinates": [ -2.447959, 42.472677 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.4483147", "NOMBRE_COMPLETO_VIAL": "Calle Cabo Noval", "NUMERO_POLICIA": "2", "EXTENSION": "B", "CODIGO_POSTAL": "26009", "NOMBRE_POBLAMIENTO": "Logroño", "NOMBRE_MUNICIPIO": "Logroño" }, "geometry": { "type": "Point", "coordinates": [ -2.447848, 42.472757 ] } }
+{ "type": "Feature", "properties": { "gml_id": "portales.4483147", "NOMBRE_COMPLETO_VIAL": "Calle Cabo Noval", "NUMERO_POLICIA": "2", "EXTENSION": "B", "CODIGO_POSTAL": "26009", "NOMBRE_POBLAMIENTO": "Logroño", "NOMBRE_MUNICIPIO": "Logroño" }, "geometry": { "type": "Point", "coordinates": [ -2.447848, 42.472757 ] } },
+{ "type": "Feature", "properties": { "gml_id": "portales.4489595", "NOMBRE_COMPLETO_VIAL": "Calle Canalejas", "NUMERO_POLICIA": "1", "EXTENSION": "B", "CODIGO_POSTAL": "26005", "NOMBRE_POBLAMIENTO": "Logroño", "NOMBRE_MUNICIPIO": "Logroño" }, "geometry": { "type": "Point", "coordinates": [ -2.454, 42.465848 ] } }
 ]
 }
 
