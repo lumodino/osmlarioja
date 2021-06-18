@@ -22,7 +22,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.684641 42.503304  -2.685022 42.502926  -2.686121 42.501865  </gml:posList>
+            <gml:posList srsDimension="2">-2.684641 42.503304  -2.685068 42.502895  -2.686121 42.501865  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle María Teresa Manso de Zúñiga</ms:NOMBRE_COMPLETO_VIAL>
