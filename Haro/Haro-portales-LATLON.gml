@@ -7975,13 +7975,13 @@
       <ms:portales gml:id="portales.4066567">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.847662 42.577149 </gml:lowerCorner>
-        		<gml:upperCorner>-2.847662 42.577149 </gml:upperCorner>
+        		<gml:lowerCorner>-2.847833 42.577182 </gml:lowerCorner>
+        		<gml:upperCorner>-2.847833 42.577182 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.847662 42.577149 </gml:pos>
+            <gml:pos>-2.847833 42.577182 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Juan García Gato</ms:NOMBRE_COMPLETO_VIAL>
@@ -32419,13 +32419,13 @@
       <ms:portales gml:id="portales.301999">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.854566 42.573468 </gml:lowerCorner>
-        		<gml:upperCorner>-2.854566 42.573468 </gml:upperCorner>
+        		<gml:lowerCorner>-2.854610 42.573570 </gml:lowerCorner>
+        		<gml:upperCorner>-2.854610 42.573570 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.854566 42.573468 </gml:pos>
+            <gml:pos>-2.854610 42.573570 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Ingenieros del MOPU</ms:NOMBRE_COMPLETO_VIAL>
@@ -32451,6 +32451,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Ingenieros del MOPU</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.302004">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.854352 42.572977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.854352 42.572977 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.854352 42.572977 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Ingenieros del MOPU</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
@@ -32493,27 +32514,6 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Ingenieros del MOPU</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.302004">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.854365 42.573001 </gml:lowerCorner>
-        		<gml:upperCorner>-2.854365 42.573001 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.854365 42.573001 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Avenida Ingenieros del MOPU</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>40</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>

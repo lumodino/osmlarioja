@@ -96,13 +96,13 @@
       <ms:viales gml:id="viales.1551129">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342089 42.180976 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342024 42.181004 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342089 42.180986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.341759 42.181092 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.342024 42.180976  -2.342089 42.181004  </gml:posList>
+            <gml:posList srsDimension="2">-2.342089 42.181004  -2.342042 42.180988  -2.341938 42.180986  -2.341842 42.181027  -2.341787 42.181065  -2.341759 42.181092  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera</ms:NOMBRE_COMPLETO_VIAL>
