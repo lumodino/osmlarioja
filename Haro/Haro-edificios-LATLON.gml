@@ -52880,15 +52880,15 @@
       <ms:edificios gml:id="edificios.3978396">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.856495 42.569308 </gml:lowerCorner>
-        		<gml:upperCorner>-2.856175 42.569575 </gml:upperCorner>
+        		<gml:lowerCorner>-2.856485 42.569329 </gml:lowerCorner>
+        		<gml:upperCorner>-2.856165 42.569596 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.856495 42.569522  -2.856268 42.569308  -2.856175 42.569361  -2.856194 42.569379  -2.856200 42.569376  -2.856275 42.569446  -2.856270 42.569450  -2.856309 42.569485  -2.856314 42.569483  -2.856391 42.569554  -2.856385 42.569558  -2.856402 42.569575  -2.856495 42.569522  </gml:posList>
+                <gml:posList srsDimension="2">-2.856485 42.569543  -2.856423 42.569484  -2.856306 42.569374  -2.856259 42.569329  -2.856165 42.569383  -2.856184 42.569400  -2.856191 42.569398  -2.856265 42.569468  -2.856260 42.569471  -2.856299 42.569506  -2.856304 42.569504  -2.856381 42.569575  -2.856376 42.569579  -2.856393 42.569596  -2.856485 42.569543  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -52901,15 +52901,15 @@
       <ms:edificios gml:id="edificios.3978397">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.856265 42.569452 </gml:lowerCorner>
-        		<gml:upperCorner>-2.855947 42.569718 </gml:upperCorner>
+        		<gml:lowerCorner>-2.856245 42.569466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.855927 42.569733 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.856265 42.569665  -2.856039 42.569452  -2.855947 42.569505  -2.855965 42.569523  -2.855971 42.569520  -2.856045 42.569590  -2.856040 42.569594  -2.856079 42.569630  -2.856085 42.569628  -2.856160 42.569698  -2.856155 42.569702  -2.856174 42.569718  -2.856265 42.569665  </gml:posList>
+                <gml:posList srsDimension="2">-2.856245 42.569679  -2.856183 42.569621  -2.856070 42.569515  -2.856020 42.569466  -2.855927 42.569520  -2.855945 42.569537  -2.855951 42.569534  -2.856025 42.569605  -2.856020 42.569608  -2.856059 42.569645  -2.856065 42.569642  -2.856140 42.569712  -2.856135 42.569716  -2.856154 42.569733  -2.856245 42.569679  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
