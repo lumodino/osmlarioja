@@ -11121,7 +11121,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704891 42.582153  -2.704939 42.582127  -2.704901 42.582088  -2.704856 42.582116  -2.704891 42.582153  </gml:posList>
+                <gml:posList srsDimension="2">-2.704891 42.582153  -2.704939 42.582127  -2.704901 42.582088  -2.704878 42.582102  -2.704856 42.582116  -2.704891 42.582153  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11142,7 +11142,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704691 42.582249  -2.704698 42.582191  -2.704598 42.582188  -2.704586 42.582242  -2.704691 42.582249  </gml:posList>
+                <gml:posList srsDimension="2">-2.704691 42.582249  -2.704698 42.582191  -2.704655 42.582190  -2.704598 42.582188  -2.704586 42.582242  -2.704691 42.582249  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
