@@ -1222,7 +1222,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.296035 42.441341  -2.295518 42.441100  </gml:posList>
+            <gml:posList srsDimension="2">-2.296035 42.441341  -2.295695 42.441187  -2.295518 42.441100  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Zaragoza</ms:NOMBRE_COMPLETO_VIAL>

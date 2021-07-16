@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.715043 42.544829 </gml:lowerCorner>
-      		<gml:upperCorner>-2.688333 42.582249 </gml:upperCorner>
+      		<gml:lowerCorner>-2.715043 42.536930 </gml:lowerCorner>
+      		<gml:upperCorner>-2.688333 42.588082 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -213,7 +213,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706262 42.574801  -2.706081 42.574753  -2.705985 42.574951  -2.706166 42.574999  -2.706262 42.574801  </gml:posList>
+                <gml:posList srsDimension="2">-2.706262 42.574801  -2.706081 42.574753  -2.706027 42.574864  -2.705985 42.574951  -2.706166 42.574999  -2.706262 42.574801  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -349,27 +349,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3951859">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.711612 42.575022 </gml:lowerCorner>
-        		<gml:upperCorner>-2.711319 42.575224 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711443 42.575046  -2.711319 42.575103  -2.711436 42.575224  -2.711612 42.575150  -2.711494 42.575022  -2.711443 42.575046  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3951860">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -445,27 +424,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.711837 42.570895  -2.711714 42.570728  -2.711582 42.570781  -2.711705 42.570948  -2.711837 42.570895  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3951864">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.712855 42.572025 </gml:lowerCorner>
-        		<gml:upperCorner>-2.712607 42.572253 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.712620 42.572083  -2.712630 42.572087  -2.712607 42.572122  -2.712715 42.572161  -2.712673 42.572225  -2.712750 42.572253  -2.712855 42.572096  -2.712658 42.572025  -2.712620 42.572083  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -948,7 +906,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.714831 42.571726  -2.715029 42.571755  -2.715043 42.571703  -2.715020 42.571699  -2.715037 42.571633  -2.714896 42.571614  -2.714878 42.571679  -2.714845 42.571674  -2.714831 42.571726  </gml:posList>
+                <gml:posList srsDimension="2">-2.714831 42.571726  -2.714965 42.571746  -2.714976 42.571748  -2.715029 42.571755  -2.715043 42.571703  -2.715020 42.571699  -2.715037 42.571633  -2.714896 42.571614  -2.714878 42.571679  -2.714845 42.571674  -2.714831 42.571726  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1116,7 +1074,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706091 42.577830  -2.706211 42.577841  -2.706236 42.577688  -2.706116 42.577677  -2.706091 42.577830  </gml:posList>
+                <gml:posList srsDimension="2">-2.706091 42.577830  -2.706211 42.577841  -2.706217 42.577803  -2.706236 42.577688  -2.706116 42.577677  -2.706091 42.577830  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1285,69 +1243,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.711183 42.571459  -2.711317 42.571554  -2.711325 42.571548  -2.711403 42.571487  -2.711270 42.571393  -2.711183 42.571459  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3951904">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.711955 42.569487 </gml:lowerCorner>
-        		<gml:upperCorner>-2.711728 42.569618 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711905 42.569528  -2.711842 42.569509  -2.711767 42.569487  -2.711728 42.569563  -2.711834 42.569594  -2.711914 42.569618  -2.711955 42.569543  -2.711929 42.569535  -2.711909 42.569529  -2.711905 42.569528  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3951905">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.711997 42.569488 </gml:lowerCorner>
-        		<gml:upperCorner>-2.711905 42.569624 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711926 42.569488  -2.711916 42.569507  -2.711914 42.569511  -2.711905 42.569528  -2.711909 42.569529  -2.711929 42.569535  -2.711955 42.569543  -2.711914 42.569618  -2.711935 42.569624  -2.711965 42.569569  -2.711997 42.569510  -2.711926 42.569488  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3951906">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.711916 42.569488 </gml:lowerCorner>
-        		<gml:upperCorner>-2.711842 42.569528 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711851 42.569492  -2.711842 42.569509  -2.711905 42.569528  -2.711914 42.569511  -2.711916 42.569507  -2.711853 42.569488  -2.711851 42.569492  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1935,7 +1830,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706721 42.577534  -2.706599 42.577544  -2.706585 42.577640  -2.706759 42.577624  -2.706721 42.577534  </gml:posList>
+                <gml:posList srsDimension="2">-2.706721 42.577534  -2.706627 42.577541  -2.706599 42.577544  -2.706585 42.577640  -2.706759 42.577624  -2.706721 42.577534  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3687,7 +3582,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704691 42.576846  -2.704660 42.576903  -2.704747 42.576929  -2.704764 42.576899  -2.704779 42.576871  -2.704798 42.576838  -2.704710 42.576811  -2.704691 42.576846  </gml:posList>
+                <gml:posList srsDimension="2">-2.704691 42.576846  -2.704660 42.576903  -2.704747 42.576929  -2.704764 42.576899  -2.704767 42.576892  -2.704771 42.576885  -2.704779 42.576871  -2.704798 42.576838  -2.704710 42.576811  -2.704691 42.576846  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3981,7 +3876,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.692753 42.577746  -2.692742 42.577380  -2.692559 42.577380  -2.692566 42.577745  -2.692753 42.577746  </gml:posList>
+                <gml:posList srsDimension="2">-2.692753 42.577746  -2.692742 42.577380  -2.692650 42.577380  -2.692559 42.577380  -2.692566 42.577745  -2.692753 42.577746  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3994,15 +3889,15 @@
       <ms:edificios gml:id="edificios.3952033">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.693261 42.577372 </gml:lowerCorner>
-        		<gml:upperCorner>-2.693124 42.577468 </gml:upperCorner>
+        		<gml:lowerCorner>-2.693269 42.577377 </gml:lowerCorner>
+        		<gml:upperCorner>-2.693124 42.577478 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.693231 42.577468  -2.693261 42.577437  -2.693164 42.577372  -2.693124 42.577408  -2.693231 42.577468  </gml:posList>
+                <gml:posList srsDimension="2">-2.693228 42.577478  -2.693269 42.577448  -2.693160 42.577377  -2.693144 42.577390  -2.693124 42.577408  -2.693228 42.577478  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5409,7 +5304,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706885 42.577502  -2.706895 42.577472  -2.706911 42.577424  -2.706830 42.577407  -2.706801 42.577486  -2.706885 42.577502  </gml:posList>
+                <gml:posList srsDimension="2">-2.706885 42.577502  -2.706895 42.577472  -2.706911 42.577424  -2.706830 42.577407  -2.706816 42.577447  -2.706801 42.577486  -2.706885 42.577502  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6637,27 +6532,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3952159">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.711997 42.569480 </gml:lowerCorner>
-        		<gml:upperCorner>-2.711926 42.569510 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711926 42.569488  -2.711997 42.569510  -2.711997 42.569508  -2.711996 42.569505  -2.711995 42.569501  -2.711992 42.569497  -2.711990 42.569494  -2.711987 42.569491  -2.711984 42.569489  -2.711979 42.569486  -2.711975 42.569484  -2.711970 42.569482  -2.711966 42.569481  -2.711960 42.569481  -2.711955 42.569480  -2.711950 42.569481  -2.711946 42.569481  -2.711940 42.569482  -2.711936 42.569484  -2.711931 42.569486  -2.711926 42.569488  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3952160">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -7719,7 +7593,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711528 42.569266  -2.711469 42.569232  -2.711430 42.569272  -2.711490 42.569304  -2.711528 42.569266  </gml:posList>
+                <gml:posList srsDimension="2">-2.711528 42.569266  -2.711469 42.569232  -2.711430 42.569272  -2.711490 42.569304  -2.711509 42.569285  -2.711528 42.569266  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8244,7 +8118,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.707097 42.572646  -2.707111 42.572698  -2.707162 42.572691  -2.707149 42.572638  -2.707097 42.572646  </gml:posList>
+                <gml:posList srsDimension="2">-2.707097 42.572646  -2.707111 42.572698  -2.707162 42.572691  -2.707149 42.572638  -2.707135 42.572641  -2.707097 42.572646  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9882,7 +9756,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.707686 42.570216  -2.707668 42.570241  -2.707706 42.570256  -2.707724 42.570230  -2.707686 42.570216  </gml:posList>
+                <gml:posList srsDimension="2">-2.707686 42.570216  -2.707668 42.570241  -2.707706 42.570256  -2.707724 42.570230  -2.707705 42.570223  -2.707686 42.570216  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9904,27 +9778,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.709340 42.573648  -2.709303 42.573637  -2.709285 42.573668  -2.709306 42.573670  -2.709323 42.573676  -2.709340 42.573648  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3952316">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.708427 42.570400 </gml:lowerCorner>
-        		<gml:upperCorner>-2.708377 42.570447 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.708427 42.570422  -2.708395 42.570400  -2.708377 42.570415  -2.708391 42.570424  -2.708378 42.570435  -2.708396 42.570447  -2.708427 42.570422  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10711,27 +10564,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3952354">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.712630 42.572083 </gml:lowerCorner>
-        		<gml:upperCorner>-2.712596 42.572122 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.712620 42.572083  -2.712596 42.572118  -2.712607 42.572122  -2.712630 42.572087  -2.712620 42.572083  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3952355">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11016,7 +10848,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704163 42.580885  -2.704092 42.580789  -2.703682 42.581002  -2.703763 42.581098  -2.704163 42.580885  </gml:posList>
+                <gml:posList srsDimension="2">-2.704163 42.580885  -2.704128 42.580837  -2.704092 42.580789  -2.703682 42.581002  -2.703763 42.581098  -2.703975 42.580985  -2.703982 42.580981  -2.704163 42.580885  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11058,7 +10890,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705392 42.581131  -2.705311 42.581068  -2.705148 42.581200  -2.705234 42.581261  -2.705392 42.581131  </gml:posList>
+                <gml:posList srsDimension="2">-2.705392 42.581131  -2.705311 42.581068  -2.705148 42.581200  -2.705191 42.581230  -2.705234 42.581261  -2.705392 42.581131  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11079,7 +10911,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704883 42.581765  -2.704925 42.581696  -2.704818 42.581655  -2.704776 42.581726  -2.704883 42.581765  </gml:posList>
+                <gml:posList srsDimension="2">-2.704883 42.581765  -2.704925 42.581696  -2.704818 42.581655  -2.704807 42.581674  -2.704776 42.581726  -2.704883 42.581765  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11100,7 +10932,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704928 42.580331  -2.705007 42.580312  -2.704974 42.580264  -2.704912 42.580278  -2.704928 42.580331  </gml:posList>
+                <gml:posList srsDimension="2">-2.704928 42.580331  -2.705007 42.580312  -2.704974 42.580264  -2.704943 42.580271  -2.704912 42.580278  -2.704928 42.580331  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11121,7 +10953,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704891 42.582153  -2.704939 42.582127  -2.704901 42.582088  -2.704878 42.582102  -2.704856 42.582116  -2.704891 42.582153  </gml:posList>
+                <gml:posList srsDimension="2">-2.704891 42.582153  -2.704939 42.582127  -2.704901 42.582088  -2.704878 42.582102  -2.704856 42.582116  -2.704873 42.582135  -2.704891 42.582153  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11142,7 +10974,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704691 42.582249  -2.704698 42.582191  -2.704655 42.582190  -2.704598 42.582188  -2.704586 42.582242  -2.704691 42.582249  </gml:posList>
+                <gml:posList srsDimension="2">-2.704691 42.582249  -2.704698 42.582191  -2.704655 42.582190  -2.704640 42.582189  -2.704598 42.582188  -2.704586 42.582242  -2.704691 42.582249  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11163,7 +10995,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705482 42.581680  -2.705534 42.581615  -2.705441 42.581581  -2.705390 42.581642  -2.705482 42.581680  </gml:posList>
+                <gml:posList srsDimension="2">-2.705482 42.581680  -2.705534 42.581615  -2.705441 42.581581  -2.705390 42.581642  -2.705436 42.581661  -2.705450 42.581667  -2.705482 42.581680  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11205,7 +11037,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705577 42.580030  -2.705536 42.580002  -2.705494 42.580039  -2.705535 42.580065  -2.705577 42.580030  </gml:posList>
+                <gml:posList srsDimension="2">-2.705577 42.580030  -2.705536 42.580002  -2.705494 42.580039  -2.705535 42.580065  -2.705556 42.580048  -2.705577 42.580030  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11226,7 +11058,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705722 42.579870  -2.705794 42.579730  -2.705699 42.579702  -2.705624 42.579824  -2.705722 42.579870  </gml:posList>
+                <gml:posList srsDimension="2">-2.705722 42.579870  -2.705743 42.579829  -2.705750 42.579814  -2.705794 42.579730  -2.705699 42.579702  -2.705624 42.579824  -2.705722 42.579870  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11247,7 +11079,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705524 42.579728  -2.705478 42.579705  -2.705451 42.579734  -2.705500 42.579758  -2.705524 42.579728  </gml:posList>
+                <gml:posList srsDimension="2">-2.705524 42.579728  -2.705478 42.579705  -2.705451 42.579734  -2.705500 42.579758  -2.705512 42.579743  -2.705524 42.579728  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11269,27 +11101,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.706257 42.580143  -2.706155 42.580126  -2.706159 42.580108  -2.706059 42.580094  -2.706046 42.580164  -2.706069 42.580167  -2.706054 42.580233  -2.706137 42.580248  -2.706147 42.580212  -2.706230 42.580228  -2.706257 42.580143  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3952381">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.706786 42.579620 </gml:lowerCorner>
-        		<gml:upperCorner>-2.706249 42.580140 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706397 42.580140  -2.706440 42.579997  -2.706601 42.580025  -2.706636 42.579889  -2.706709 42.579899  -2.706786 42.579669  -2.706556 42.579620  -2.706485 42.579859  -2.706517 42.579865  -2.706508 42.579890  -2.706463 42.579883  -2.706453 42.579912  -2.706327 42.579888  -2.706249 42.580115  -2.706397 42.580140  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11366,14 +11177,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.704395 42.577660 </gml:lowerCorner>
-        		<gml:upperCorner>-2.704292 42.577737 </gml:upperCorner>
+        		<gml:upperCorner>-2.704262 42.577755 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.704395 42.577703  -2.704342 42.577660  -2.704292 42.577690  -2.704345 42.577737  -2.704395 42.577703  </gml:posList>
+                <gml:posList srsDimension="2">-2.704395 42.577703  -2.704342 42.577660  -2.704317 42.577675  -2.704297 42.577689  -2.704262 42.577713  -2.704316 42.577755  -2.704395 42.577703  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11584,6 +11395,384 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.709502 42.573631  -2.709547 42.573548  -2.709484 42.573531  -2.709427 42.573614  -2.709502 42.573631  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705093 42.580182 </gml:lowerCorner>
+        		<gml:upperCorner>-2.705026 42.580231 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.705036 42.580231  -2.705085 42.580225  -2.705093 42.580224  -2.705083 42.580182  -2.705026 42.580190  -2.705036 42.580231  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507194">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.706786 42.579620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.706440 42.580025 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.706453 42.579912  -2.706451 42.579945  -2.706440 42.579997  -2.706601 42.580025  -2.706636 42.579889  -2.706709 42.579899  -2.706786 42.579669  -2.706660 42.579642  -2.706556 42.579620  -2.706538 42.579678  -2.706485 42.579859  -2.706517 42.579865  -2.706508 42.579890  -2.706463 42.579883  -2.706453 42.579912  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507195">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.706453 42.579888 </gml:lowerCorner>
+        		<gml:upperCorner>-2.706249 42.580140 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.706397 42.580140  -2.706440 42.579997  -2.706451 42.579945  -2.706453 42.579912  -2.706327 42.579888  -2.706249 42.580115  -2.706397 42.580140  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507197">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.700242 42.536930 </gml:lowerCorner>
+        		<gml:upperCorner>-2.700171 42.536980 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.700242 42.536979  -2.700242 42.536930  -2.700171 42.536930  -2.700172 42.536955  -2.700172 42.536980  -2.700242 42.536979  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507257">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.713410 42.578989 </gml:lowerCorner>
+        		<gml:upperCorner>-2.713360 42.579014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.713407 42.579014  -2.713410 42.578993  -2.713362 42.578989  -2.713360 42.579011  -2.713407 42.579014  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507258">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.697426 42.554640 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697380 42.554680 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.697415 42.554680  -2.697426 42.554645  -2.697389 42.554640  -2.697380 42.554675  -2.697415 42.554680  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507259">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.702621 42.587916 </gml:lowerCorner>
+        		<gml:upperCorner>-2.702446 42.588082 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.702621 42.588075  -2.702607 42.587952  -2.702568 42.587955  -2.702565 42.587916  -2.702522 42.587918  -2.702480 42.587921  -2.702480 42.587924  -2.702483 42.587957  -2.702446 42.587959  -2.702461 42.588082  -2.702621 42.588075  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507260">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705432 42.574195 </gml:lowerCorner>
+        		<gml:upperCorner>-2.705277 42.574282 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.705432 42.574252  -2.705423 42.574223  -2.705414 42.574195  -2.705277 42.574217  -2.705304 42.574282  -2.705384 42.574268  -2.705383 42.574260  -2.705432 42.574252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507261">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.711997 42.569480 </gml:lowerCorner>
+        		<gml:upperCorner>-2.711728 42.569624 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.711997 42.569510  -2.711997 42.569508  -2.711996 42.569505  -2.711995 42.569501  -2.711992 42.569497  -2.711990 42.569494  -2.711987 42.569491  -2.711984 42.569489  -2.711979 42.569486  -2.711975 42.569484  -2.711970 42.569482  -2.711966 42.569481  -2.711960 42.569481  -2.711955 42.569480  -2.711950 42.569481  -2.711946 42.569481  -2.711940 42.569482  -2.711936 42.569484  -2.711931 42.569486  -2.711926 42.569488  -2.711916 42.569507  -2.711853 42.569488  -2.711851 42.569492  -2.711842 42.569509  -2.711767 42.569487  -2.711728 42.569563  -2.711834 42.569594  -2.711914 42.569618  -2.711935 42.569624  -2.711965 42.569569  -2.711997 42.569510  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507262">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.711833 42.569344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.711557 42.569488 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.711603 42.569488  -2.711786 42.569443  -2.711764 42.569394  -2.711833 42.569374  -2.711818 42.569362  -2.711794 42.569352  -2.711765 42.569344  -2.711736 42.569348  -2.711557 42.569393  -2.711603 42.569488  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507263">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.701607 42.578899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.701535 42.578939 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.701607 42.578936  -2.701605 42.578920  -2.701603 42.578899  -2.701535 42.578903  -2.701539 42.578939  -2.701607 42.578936  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507264">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.700948 42.578657 </gml:lowerCorner>
+        		<gml:upperCorner>-2.700876 42.578714 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.700944 42.578714  -2.700948 42.578660  -2.700879 42.578657  -2.700877 42.578684  -2.700876 42.578712  -2.700944 42.578714  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507265">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.706820 42.575224 </gml:lowerCorner>
+        		<gml:upperCorner>-2.706451 42.575543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.706708 42.575543  -2.706820 42.575301  -2.706518 42.575224  -2.706451 42.575370  -2.706708 42.575543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507266">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.708513 42.574710 </gml:lowerCorner>
+        		<gml:upperCorner>-2.708323 42.574886 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.708385 42.574886  -2.708513 42.574743  -2.708451 42.574710  -2.708323 42.574852  -2.708385 42.574886  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507267">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.708931 42.574089 </gml:lowerCorner>
+        		<gml:upperCorner>-2.708706 42.574260 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.708813 42.574260  -2.708931 42.574197  -2.708828 42.574089  -2.708825 42.574091  -2.708706 42.574151  -2.708813 42.574260  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507268">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.712855 42.572025 </gml:lowerCorner>
+        		<gml:upperCorner>-2.712596 42.572253 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.712658 42.572025  -2.712620 42.572083  -2.712596 42.572118  -2.712607 42.572122  -2.712715 42.572161  -2.712673 42.572225  -2.712750 42.572253  -2.712855 42.572096  -2.712658 42.572025  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507269">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.713066 42.569265 </gml:lowerCorner>
+        		<gml:upperCorner>-2.712868 42.569424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.712981 42.569424  -2.713066 42.569364  -2.712939 42.569265  -2.712868 42.569314  -2.712880 42.569324  -2.712869 42.569336  -2.712981 42.569424  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ábalos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ábalos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507270">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.713831 42.568300 </gml:lowerCorner>
+        		<gml:upperCorner>-2.713404 42.568655 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.713645 42.568655  -2.713831 42.568398  -2.713587 42.568300  -2.713404 42.568553  -2.713645 42.568655  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
