@@ -14728,7 +14728,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Cervera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -14770,7 +14770,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Cervera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -15106,7 +15106,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Cervera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -15925,7 +15925,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>46</ms:NUMERO_POLICIA>
         <ms:EXTENSION>B</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -16261,7 +16261,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>68</ms:NUMERO_POLICIA>
         <ms:EXTENSION>A</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -16303,7 +16303,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Molino</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>68</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -16849,7 +16849,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle don Felipe Abad</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
         <ms:EXTENSION>A</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -17668,7 +17668,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Medio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -17878,7 +17878,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION>A</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -17941,7 +17941,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Camino Eras</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -19432,7 +19432,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Callejón del Medio</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26530</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26531</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Inestrillas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
