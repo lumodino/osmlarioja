@@ -856,15 +856,15 @@
       <ms:edificios gml:id="edificios.3979837">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290489 42.437403 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290362 42.437494 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290486 42.437372 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290359 42.437464 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290489 42.437456  -2.290408 42.437403  -2.290362 42.437441  -2.290443 42.437494  -2.290489 42.437456  </gml:posList>
+                <gml:posList srsDimension="2">-2.290486 42.437425  -2.290405 42.437372  -2.290359 42.437411  -2.290440 42.437464  -2.290486 42.437425  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -33889,15 +33889,15 @@
       <ms:edificios gml:id="edificios.3981412">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.306548 42.444418 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306496 42.444452 </gml:upperCorner>
+        		<gml:lowerCorner>-2.305954 42.444440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.305866 42.444508 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306548 42.444432  -2.306510 42.444418  -2.306496 42.444438  -2.306534 42.444452  -2.306548 42.444432  </gml:posList>
+                <gml:posList srsDimension="2">-2.305948 42.444440  -2.305866 42.444443  -2.305873 42.444508  -2.305954 42.444504  -2.305948 42.444440  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35461,27 +35461,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3981487">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.294807 42.442320 </gml:lowerCorner>
-        		<gml:upperCorner>-2.294754 42.442354 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.294794 42.442354  -2.294807 42.442337  -2.294767 42.442320  -2.294754 42.442338  -2.294794 42.442354  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3981488">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -36927,27 +36906,6 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3981557">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.344332 42.447038 </gml:lowerCorner>
-        		<gml:upperCorner>-2.344293 42.447067 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.344323 42.447067  -2.344332 42.447046  -2.344302 42.447038  -2.344293 42.447060  -2.344323 42.447067  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Recajo</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -47901,15 +47859,15 @@
       <ms:edificios gml:id="edificios.3982086">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290894 42.462727 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290771 42.462822 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290895 42.462749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290773 42.462844 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290847 42.462727  -2.290771 42.462754  -2.290824 42.462822  -2.290894 42.462797  -2.290847 42.462727  </gml:posList>
+                <gml:posList srsDimension="2">-2.290848 42.462749  -2.290773 42.462776  -2.290826 42.462844  -2.290895 42.462818  -2.290848 42.462749  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -50863,14 +50821,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.304646 42.431385 </gml:lowerCorner>
-        		<gml:upperCorner>-2.304383 42.431746 </gml:upperCorner>
+        		<gml:upperCorner>-2.304383 42.431735 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.304634 42.431705  -2.304646 42.431391  -2.304399 42.431385  -2.304383 42.431729  -2.304529 42.431746  -2.304530 42.431698  -2.304634 42.431705  </gml:posList>
+                <gml:posList srsDimension="2">-2.304634 42.431705  -2.304646 42.431391  -2.304399 42.431385  -2.304383 42.431729  -2.304633 42.431735  -2.304634 42.431705  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -52850,6 +52808,48 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Agoncillo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507944">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290706 42.462817 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290602 42.462896 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290667 42.462817  -2.290602 42.462842  -2.290644 42.462896  -2.290706 42.462874  -2.290667 42.462817  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4507951">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.306505 42.444420 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306454 42.444454 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.306505 42.444434  -2.306467 42.444420  -2.306454 42.444440  -2.306492 42.444454  -2.306505 42.444434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

@@ -33500,14 +33500,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.021835 41.968297 </gml:lowerCorner>
-        		<gml:upperCorner>-2.021441 41.968487 </gml:upperCorner>
+        		<gml:upperCorner>-2.021431 41.968487 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.021835 41.968409  -2.021778 41.968297  -2.021530 41.968352  -2.021545 41.968382  -2.021452 41.968399  -2.021457 41.968423  -2.021441 41.968425  -2.021448 41.968473  -2.021477 41.968467  -2.021490 41.968487  -2.021835 41.968409  </gml:posList>
+                <gml:posList srsDimension="2">-2.021835 41.968409  -2.021778 41.968297  -2.021530 41.968352  -2.021545 41.968382  -2.021452 41.968399  -2.021457 41.968423  -2.021431 41.968430  -2.021448 41.968473  -2.021477 41.968467  -2.021490 41.968487  -2.021835 41.968409  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -44097,6 +44097,69 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4508212">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.008464 41.968083 </gml:lowerCorner>
+        		<gml:upperCorner>-2.008363 41.968132 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.008454 41.968132  -2.008464 41.968092  -2.008373 41.968083  -2.008363 41.968124  -2.008454 41.968132  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4508213">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.021053 41.967925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.020679 41.968069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.020706 41.968069  -2.021053 41.967991  -2.021027 41.967925  -2.020679 41.968006  -2.020706 41.968069  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4508214">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.987988 41.973935 </gml:lowerCorner>
+        		<gml:upperCorner>-1.987645 41.974294 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-1.987819 41.973935  -1.987645 41.974139  -1.987695 41.974232  -1.987849 41.974294  -1.987937 41.974174  -1.987988 41.974069  -1.987988 41.974013  -1.987819 41.973935  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Inestrillas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
