@@ -157,12 +157,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.487733 42.167386 </gml:lowerCorner>
-        		<gml:upperCorner>-2.487568 42.167736 </gml:upperCorner>
+        		<gml:upperCorner>-2.487567 42.167736 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487582 42.167736  -2.487568 42.167591  -2.487586 42.167552  -2.487690 42.167537  -2.487729 42.167511  -2.487733 42.167421  -2.487694 42.167386  </gml:posList>
+            <gml:posList srsDimension="2">-2.487582 42.167736  -2.487568 42.167591  -2.487567 42.167498  -2.487681 42.167462  -2.487713 42.167454  -2.487733 42.167421  -2.487694 42.167386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Eusebio Pablo Muela</ms:NOMBRE_COMPLETO_VIAL>
@@ -313,26 +313,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1493585">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.487926 42.167284 </gml:lowerCorner>
-        		<gml:upperCorner>-2.487891 42.167507 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487891 42.167507  -2.487891 42.167506  -2.487899 42.167465  -2.487926 42.167284  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Parra</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ajamil de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ajamil de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.004.7</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600400049</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1493603">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -363,6 +343,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.487847 42.167842  -2.487718 42.167834  -2.487622 42.167774  -2.487582 42.167736  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Parra</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ajamil de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ajamil de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.004.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600400049</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4508586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.487912 42.167374 </gml:lowerCorner>
+        		<gml:upperCorner>-2.487891 42.167507 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.487891 42.167507  -2.487891 42.167506  -2.487899 42.167465  -2.487912 42.167374  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Parra</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ajamil de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ajamil de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.004.7</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600400049</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4508587">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.487926 42.167284 </gml:lowerCorner>
+        		<gml:upperCorner>-2.487912 42.167374 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.487912 42.167374  -2.487926 42.167284  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Parra</ms:NOMBRE_COMPLETO_VIAL>
@@ -576,13 +596,13 @@
       <ms:viales gml:id="viales.1493584">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.487926 42.167284 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.487912 42.167370 </gml:lowerCorner>
         		<gml:upperCorner>-2.487694 42.167386 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487926 42.167284  -2.487874 42.167324  -2.487694 42.167386  </gml:posList>
+            <gml:posList srsDimension="2">-2.487912 42.167374  -2.487837 42.167370  -2.487694 42.167386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -617,12 +637,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.489320 42.166947 </gml:lowerCorner>
-        		<gml:upperCorner>-2.487911 42.167284 </gml:upperCorner>
+        		<gml:upperCorner>-2.487925 42.167284 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487926 42.167284  -2.487926 42.167282  -2.487926 42.167281  -2.487928 42.167271  -2.487930 42.167258  -2.487929 42.167239  -2.487911 42.167217  -2.487925 42.167147  -2.487984 42.167113  -2.488119 42.167071  -2.488201 42.167066  -2.488347 42.167083  -2.488562 42.167126  -2.488614 42.167143  -2.488666 42.167119  -2.488783 42.167089  -2.488890 42.167052  -2.489054 42.167020  -2.489238 42.166978  -2.489320 42.166947  </gml:posList>
+            <gml:posList srsDimension="2">-2.487926 42.167284  -2.487926 42.167282  -2.487926 42.167281  -2.487928 42.167271  -2.487930 42.167258  -2.487929 42.167239  -2.487930 42.167204  -2.487925 42.167147  -2.487984 42.167113  -2.488119 42.167071  -2.488201 42.167066  -2.488347 42.167083  -2.488562 42.167126  -2.488614 42.167143  -2.488666 42.167119  -2.488783 42.167089  -2.488890 42.167052  -2.489054 42.167020  -2.489238 42.166978  -2.489320 42.166947  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
