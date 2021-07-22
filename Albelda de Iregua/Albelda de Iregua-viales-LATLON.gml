@@ -596,13 +596,13 @@
       <ms:viales gml:id="viales.1493689">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.479454 42.391076 </gml:lowerCorner>
-        		<gml:upperCorner>-2.479074 42.391785 </gml:upperCorner>
+        		<gml:lowerCorner>-2.479385 42.391096 </gml:lowerCorner>
+        		<gml:upperCorner>-2.477907 42.391785 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.479385 42.391785  -2.479359 42.391774  -2.479339 42.391766  -2.479189 42.391705  -2.479167 42.391696  -2.479074 42.391659  -2.479075 42.391658  -2.479095 42.391625  -2.479167 42.391506  -2.479189 42.391469  -2.479222 42.391415  -2.479424 42.391121  -2.479454 42.391076  </gml:posList>
+            <gml:posList srsDimension="2">-2.479385 42.391785  -2.479359 42.391774  -2.479339 42.391766  -2.479189 42.391705  -2.479167 42.391696  -2.479074 42.391659  -2.479075 42.391658  -2.478942 42.391621  -2.478836 42.391581  -2.478677 42.391530  -2.478607 42.391507  -2.477950 42.391192  -2.477907 42.391147  -2.477931 42.391096  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar el Juncal</ms:NOMBRE_COMPLETO_VIAL>

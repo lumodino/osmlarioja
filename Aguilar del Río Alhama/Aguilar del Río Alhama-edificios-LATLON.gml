@@ -27007,27 +27007,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4017579">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.986449 41.971746 </gml:lowerCorner>
-        		<gml:upperCorner>-1.986375 41.971789 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-1.986375 41.971781  -1.986441 41.971789  -1.986449 41.971759  -1.986386 41.971746  -1.986375 41.971781  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Inestrillas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4017580">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -41277,7 +41256,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-1.979498 41.966425  -1.979418 41.966311  -1.978723 41.966588  -1.978809 41.966701  -1.978982 41.966632  -1.979176 41.966554  -1.979498 41.966425  </gml:posList>
+                <gml:posList srsDimension="2">-1.979498 41.966425  -1.979418 41.966311  -1.978723 41.966588  -1.978809 41.966701  -1.978996 41.966619  -1.979176 41.966554  -1.979498 41.966425  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -41299,48 +41278,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-1.979418 41.966311  -1.979498 41.966425  -1.979539 41.966411  -1.979502 41.966353  -1.979466 41.966296  -1.979418 41.966311  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4018260">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.979594 41.966554 </gml:lowerCorner>
-        		<gml:upperCorner>-1.978982 41.967196 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-1.979176 41.966554  -1.978982 41.966632  -1.979258 41.967005  -1.979396 41.967196  -1.979594 41.967123  -1.979176 41.966554  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4018261">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.979396 41.967005 </gml:lowerCorner>
-        		<gml:upperCorner>-1.979172 41.967232 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-1.979258 41.967005  -1.979172 41.967040  -1.979310 41.967232  -1.979396 41.967196  -1.979258 41.967005  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -44491,6 +44428,48 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-1.998885 41.963315  -1.998876 41.963289  -1.998816 41.963301  -1.998825 41.963327  -1.998855 41.963321  -1.998885 41.963315  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4508521">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.979594 41.966554 </gml:lowerCorner>
+        		<gml:upperCorner>-1.978809 41.967232 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-1.979176 41.966554  -1.978996 41.966619  -1.978809 41.966701  -1.979172 41.967040  -1.979310 41.967232  -1.979396 41.967196  -1.979594 41.967123  -1.979176 41.966554  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Aguilar del Río Alhama (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Aguilar del Río Alhama</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4508524">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.981036 41.968411 </gml:lowerCorner>
+        		<gml:upperCorner>-1.980849 41.968535 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-1.980988 41.968411  -1.980849 41.968470  -1.980899 41.968535  -1.981036 41.968472  -1.980988 41.968411  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

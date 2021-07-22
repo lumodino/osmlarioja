@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.489601 42.165544 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.490602 42.156150 </gml:lowerCorner>
       		<gml:upperCorner>-2.369751 42.201339 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -990,7 +990,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.486878 42.168134  -2.486882 42.168164  -2.486891 42.168216  -2.487010 42.168202  -2.486999 42.168157  -2.486999 42.168132  -2.486878 42.168134  </gml:posList>
+                <gml:posList srsDimension="2">-2.486878 42.168134  -2.486882 42.168164  -2.486891 42.168216  -2.486951 42.168209  -2.487010 42.168202  -2.486999 42.168157  -2.486999 42.168132  -2.486878 42.168134  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1095,7 +1095,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.486705 42.168723  -2.486643 42.168832  -2.486700 42.168848  -2.486758 42.168739  -2.486705 42.168723  </gml:posList>
+                <gml:posList srsDimension="2">-2.486705 42.168723  -2.486643 42.168832  -2.486700 42.168848  -2.486715 42.168820  -2.486758 42.168739  -2.486705 42.168723  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2103,7 +2103,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.485135 42.168537  -2.485017 42.168559  -2.485060 42.168652  -2.485178 42.168620  -2.485135 42.168537  </gml:posList>
+                <gml:posList srsDimension="2">-2.485135 42.168537  -2.485017 42.168559  -2.485060 42.168652  -2.485119 42.168636  -2.485178 42.168620  -2.485135 42.168537  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2754,7 +2754,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.485134 42.168844  -2.485241 42.168785  -2.485168 42.168686  -2.485054 42.168722  -2.485134 42.168844  </gml:posList>
+                <gml:posList srsDimension="2">-2.485134 42.168844  -2.485241 42.168785  -2.485205 42.168736  -2.485168 42.168686  -2.485054 42.168722  -2.485134 42.168844  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3327,6 +3327,27 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Larriba</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ajamil de Cameros</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4508588">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.490602 42.156150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.490438 42.156291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.490478 42.156291  -2.490602 42.156175  -2.490564 42.156150  -2.490438 42.156268  -2.490478 42.156291  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ajamil de Cameros</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Ajamil de Cameros</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
