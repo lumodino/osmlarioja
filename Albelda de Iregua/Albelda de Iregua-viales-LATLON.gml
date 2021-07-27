@@ -2502,7 +2502,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471096 42.357093  -2.471165 42.357098  -2.471246 42.357131  -2.471278 42.357188  -2.471272 42.357239  -2.471266 42.357322  </gml:posList>
+            <gml:posList srsDimension="2">-2.471096 42.357093  -2.471165 42.357098  -2.471246 42.357131  -2.471269 42.357145  -2.471278 42.357188  -2.471272 42.357239  -2.471266 42.357322  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
@@ -6342,7 +6342,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471735 42.356932  -2.471678 42.357244  -2.471658 42.357410  -2.471611 42.357527  </gml:posList>
+            <gml:posList srsDimension="2">-2.471735 42.356932  -2.471719 42.356981  -2.471709 42.357086  -2.471685 42.357186  -2.471671 42.357255  -2.471658 42.357410  -2.471611 42.357527  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
@@ -8182,7 +8182,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.471303 42.358554  -2.471375 42.358508  -2.471474 42.358437  -2.471546 42.358422  -2.471676 42.358435  -2.471740 42.358408  -2.471776 42.358361  -2.471781 42.358274  -2.471756 42.358044  -2.471737 42.357812  </gml:posList>
+            <gml:posList srsDimension="2">-2.471303 42.358554  -2.471375 42.358508  -2.471474 42.358437  -2.471546 42.358422  -2.471676 42.358435  -2.471740 42.358408  -2.471776 42.358361  -2.471781 42.358274  -2.471756 42.358044  -2.471759 42.357962  -2.471737 42.357812  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Alta</ms:NOMBRE_COMPLETO_VIAL>
