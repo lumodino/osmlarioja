@@ -3162,7 +3162,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.468533 42.394255  -2.467810 42.393999  -2.466845 42.393563  </gml:posList>
+            <gml:posList srsDimension="2">-2.468533 42.394255  -2.467810 42.393999  -2.467206 42.393763  -2.466845 42.393563  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Santimia</ms:NOMBRE_COMPLETO_VIAL>
