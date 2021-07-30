@@ -5933,16 +5933,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.4151015">
+      <ms:viales gml:id="viales.4511584">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.469747 42.355524 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.469052 42.355656 </gml:lowerCorner>
         		<gml:upperCorner>-2.468458 42.355712 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.468458 42.355712  -2.468471 42.355710  -2.468473 42.355709  -2.468530 42.355705  -2.468611 42.355698  -2.468650 42.355694  -2.468762 42.355684  -2.468825 42.355679  -2.468959 42.355668  -2.468979 42.355666  -2.468999 42.355663  -2.469021 42.355661  -2.469052 42.355656  -2.469102 42.355647  -2.469115 42.355645  -2.469132 42.355642  -2.469747 42.355524  </gml:posList>
+            <gml:posList srsDimension="2">-2.468458 42.355712  -2.468471 42.355710  -2.468473 42.355709  -2.468530 42.355705  -2.468611 42.355698  -2.468650 42.355694  -2.468762 42.355684  -2.468825 42.355679  -2.468959 42.355668  -2.468979 42.355666  -2.468999 42.355663  -2.469021 42.355661  -2.469052 42.355656  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San José</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Albelda de Iregua</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Albelda de Iregua</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.005.46</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2600500049</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4511585">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.469747 42.355524 </gml:lowerCorner>
+        		<gml:upperCorner>-2.469052 42.355656 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.469052 42.355656  -2.469102 42.355647  -2.469115 42.355645  -2.469132 42.355642  -2.469747 42.355524  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San José</ms:NOMBRE_COMPLETO_VIAL>
