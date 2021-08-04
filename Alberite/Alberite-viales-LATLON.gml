@@ -2753,26 +2753,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1494072">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.437280 42.406984 </gml:lowerCorner>
-        		<gml:upperCorner>-2.436548 42.407290 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.436548 42.406984  -2.436611 42.407004  -2.436733 42.407050  -2.436767 42.407123  -2.437009 42.407220  -2.437222 42.407277  -2.437280 42.407290  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de Villamediana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alberite</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alberite</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.006.54</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600600630</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1494081">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2813,36 +2793,16 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1494217">
+      <ms:viales gml:id="viales.4512688">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.438165 42.406388 </gml:lowerCorner>
-        		<gml:upperCorner>-2.437280 42.407290 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.437280 42.407290  -2.437363 42.407217  -2.437487 42.407119  -2.437500 42.407107  -2.437521 42.407089  -2.437620 42.407002  -2.437686 42.406932  -2.437747 42.406845  -2.437798 42.406765  -2.437854 42.406702  -2.437936 42.406625  -2.438165 42.406388  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino de Villamediana</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Alberite</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alberite</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.006.54</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600600630</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1505581">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.437280 42.407290 </gml:lowerCorner>
         		<gml:upperCorner>-2.436558 42.408045 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.437280 42.407290  -2.437147 42.407408  -2.436940 42.407637  -2.436789 42.407810  -2.436664 42.407932  -2.436564 42.408038  -2.436558 42.408045  </gml:posList>
+            <gml:posList srsDimension="2">-2.436558 42.408045  -2.436564 42.408038  -2.436664 42.407932  -2.436789 42.407810  -2.436940 42.407637  -2.437147 42.407408  -2.437280 42.407290  -2.437363 42.407217  -2.437487 42.407119  -2.437500 42.407107  -2.437521 42.407089  -2.437620 42.407002  -2.437686 42.406932  -2.437747 42.406845  -2.437798 42.406765  -2.437854 42.406702  -2.437936 42.406625  -2.438165 42.406388  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Villamediana</ms:NOMBRE_COMPLETO_VIAL>
