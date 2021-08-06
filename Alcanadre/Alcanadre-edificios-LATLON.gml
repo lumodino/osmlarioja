@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.201079 42.391171 </gml:lowerCorner>
-      		<gml:upperCorner>-2.113697 42.415300 </gml:upperCorner>
+      		<gml:lowerCorner>-2.208026 42.388363 </gml:lowerCorner>
+      		<gml:upperCorner>-2.107161 42.418664 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1283,15 +1283,15 @@
       <ms:edificios gml:id="edificios.3856448">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.122223 42.415089 </gml:lowerCorner>
-        		<gml:upperCorner>-2.122017 42.415300 </gml:upperCorner>
+        		<gml:lowerCorner>-2.122219 42.415116 </gml:lowerCorner>
+        		<gml:upperCorner>-2.122028 42.415328 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.122153 42.415089  -2.122017 42.415108  -2.122076 42.415300  -2.122223 42.415297  -2.122153 42.415089  </gml:posList>
+                <gml:posList srsDimension="2">-2.122163 42.415116  -2.122028 42.415136  -2.122087 42.415328  -2.122219 42.415311  -2.122163 42.415116  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1304,15 +1304,15 @@
       <ms:edificios gml:id="edificios.3856449">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.122437 42.415008 </gml:lowerCorner>
-        		<gml:upperCorner>-2.122223 42.415132 </gml:upperCorner>
+        		<gml:lowerCorner>-2.122443 42.415029 </gml:lowerCorner>
+        		<gml:upperCorner>-2.122228 42.415153 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.122387 42.415132  -2.122437 42.415069  -2.122259 42.415008  -2.122223 42.415067  -2.122387 42.415132  </gml:posList>
+                <gml:posList srsDimension="2">-2.122403 42.415153  -2.122443 42.415089  -2.122265 42.415029  -2.122228 42.415088  -2.122403 42.415153  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2527,7 +2527,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117399 42.405696  -2.117345 42.405759  -2.117341 42.405764  -2.117310 42.405800  -2.117378 42.405833  -2.117444 42.405808  -2.117474 42.405795  -2.117507 42.405777  -2.117531 42.405762  -2.117577 42.405711  -2.117472 42.405661  -2.117448 42.405687  -2.117419 42.405674  -2.117399 42.405696  </gml:posList>
+                <gml:posList srsDimension="2">-2.117399 42.405696  -2.117345 42.405759  -2.117341 42.405764  -2.117310 42.405800  -2.117378 42.405833  -2.117444 42.405808  -2.117474 42.405795  -2.117507 42.405777  -2.117531 42.405762  -2.117577 42.405711  -2.117525 42.405686  -2.117472 42.405661  -2.117448 42.405687  -2.117419 42.405674  -2.117399 42.405696  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4144,7 +4144,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.122644 42.415076  -2.122603 42.415007  -2.122531 42.415034  -2.122584 42.415096  -2.122644 42.415076  </gml:posList>
+                <gml:posList srsDimension="2">-2.122644 42.415076  -2.122624 42.415041  -2.122603 42.415007  -2.122531 42.415034  -2.122584 42.415096  -2.122644 42.415076  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4220,7 +4220,7 @@
       <ms:edificios gml:id="edificios.3856587">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.114968 42.403958 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.114983 42.403949 </gml:lowerCorner>
         		<gml:upperCorner>-2.114774 42.404078 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -4228,7 +4228,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.114968 42.404016  -2.114863 42.403958  -2.114774 42.404031  -2.114860 42.404078  -2.114968 42.404016  </gml:posList>
+                <gml:posList srsDimension="2">-2.114983 42.404007  -2.114880 42.403949  -2.114774 42.404031  -2.114860 42.404078  -2.114891 42.404060  -2.114951 42.404026  -2.114983 42.404007  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6740,7 +6740,7 @@
       <ms:edificios gml:id="edificios.3856707">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.131002 42.402038 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.131002 42.402042 </gml:lowerCorner>
         		<gml:upperCorner>-2.130479 42.402287 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -6748,7 +6748,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.131002 42.402209  -2.130973 42.402038  -2.130479 42.402127  -2.130531 42.402287  -2.131002 42.402209  </gml:posList>
+                <gml:posList srsDimension="2">-2.131002 42.402209  -2.130952 42.402042  -2.130479 42.402127  -2.130531 42.402287  -2.131002 42.402209  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6853,7 +6853,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.201079 42.396073  -2.201077 42.395882  -2.200780 42.395867  -2.200786 42.396033  -2.200844 42.396032  -2.200842 42.396054  -2.201079 42.396073  </gml:posList>
+                <gml:posList srsDimension="2">-2.201079 42.396073  -2.201077 42.395882  -2.200780 42.395867  -2.200785 42.395986  -2.200786 42.396033  -2.200844 42.396032  -2.200842 42.396054  -2.201079 42.396073  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8386,7 +8386,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117204 42.405592  -2.117285 42.405634  -2.117344 42.405569  -2.117346 42.405567  -2.117263 42.405522  -2.117204 42.405592  </gml:posList>
+                <gml:posList srsDimension="2">-2.117204 42.405592  -2.117285 42.405634  -2.117344 42.405569  -2.117346 42.405567  -2.117304 42.405544  -2.117263 42.405522  -2.117204 42.405592  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9100,7 +9100,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.113756 42.405138  -2.113697 42.405205  -2.113782 42.405246  -2.113834 42.405179  -2.113756 42.405138  </gml:posList>
+                <gml:posList srsDimension="2">-2.113756 42.405138  -2.113697 42.405205  -2.113782 42.405246  -2.113808 42.405213  -2.113834 42.405179  -2.113756 42.405138  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9247,7 +9247,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.115574 42.405010  -2.115578 42.405068  -2.115710 42.405069  -2.115711 42.405013  -2.115574 42.405010  </gml:posList>
+                <gml:posList srsDimension="2">-2.115574 42.405010  -2.115578 42.405068  -2.115710 42.405069  -2.115711 42.405013  -2.115643 42.405012  -2.115574 42.405010  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10402,7 +10402,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.119481 42.400249  -2.119430 42.400201  -2.119335 42.400251  -2.119385 42.400297  -2.119481 42.400249  </gml:posList>
+                <gml:posList srsDimension="2">-2.119481 42.400249  -2.119430 42.400201  -2.119335 42.400251  -2.119360 42.400274  -2.119385 42.400297  -2.119481 42.400249  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14035,7 +14035,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.120023 42.398829  -2.119933 42.398794  -2.119899 42.398844  -2.119987 42.398878  -2.120023 42.398829  </gml:posList>
+                <gml:posList srsDimension="2">-2.120023 42.398829  -2.119933 42.398794  -2.119916 42.398819  -2.119899 42.398844  -2.119987 42.398878  -2.120023 42.398829  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15589,7 +15589,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117074 42.406175  -2.117114 42.406228  -2.117124 42.406221  -2.117164 42.406195  -2.117182 42.406184  -2.117185 42.406182  -2.117126 42.406136  -2.117074 42.406175  </gml:posList>
+                <gml:posList srsDimension="2">-2.117074 42.406175  -2.117114 42.406228  -2.117124 42.406221  -2.117164 42.406195  -2.117182 42.406184  -2.117185 42.406182  -2.117126 42.406136  -2.117100 42.406156  -2.117074 42.406175  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15925,7 +15925,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.113756 42.405138  -2.113834 42.405179  -2.113872 42.405130  -2.113795 42.405096  -2.113756 42.405138  </gml:posList>
+                <gml:posList srsDimension="2">-2.113756 42.405138  -2.113834 42.405179  -2.113853 42.405155  -2.113872 42.405130  -2.113795 42.405096  -2.113756 42.405138  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19212,7 +19212,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117441 42.406011  -2.117514 42.406004  -2.117503 42.405946  -2.117432 42.405953  -2.117441 42.406011  </gml:posList>
+                <gml:posList srsDimension="2">-2.117441 42.406011  -2.117478 42.406007  -2.117514 42.406004  -2.117503 42.405946  -2.117432 42.405953  -2.117441 42.406011  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19758,28 +19758,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.115976 42.405233  -2.116006 42.405187  -2.115932 42.405162  -2.115904 42.405208  -2.115976 42.405233  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3857327">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.120897 42.400070 </gml:lowerCorner>
-        		<gml:upperCorner>-2.120795 42.400139 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.120897 42.400093  -2.120820 42.400070  -2.120795 42.400116  -2.120873 42.400139  -2.120897 42.400093  </gml:posList>
+                <gml:posList srsDimension="2">-2.115976 42.405233  -2.116006 42.405187  -2.115982 42.405179  -2.115932 42.405162  -2.115904 42.405208  -2.115976 42.405233  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20178,7 +20157,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117201 42.406038  -2.117161 42.406009  -2.117091 42.406054  -2.117131 42.406084  -2.117160 42.406068  -2.117201 42.406038  </gml:posList>
+                <gml:posList srsDimension="2">-2.117201 42.406038  -2.117161 42.406009  -2.117091 42.406054  -2.117131 42.406084  -2.117160 42.406068  -2.117164 42.406065  -2.117201 42.406038  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21186,7 +21165,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.116879 42.406156  -2.116879 42.406198  -2.116947 42.406202  -2.116947 42.406194  -2.116978 42.406195  -2.116978 42.406165  -2.116924 42.406162  -2.116923 42.406158  -2.116879 42.406156  </gml:posList>
+                <gml:posList srsDimension="2">-2.116879 42.406156  -2.116879 42.406198  -2.116947 42.406202  -2.116947 42.406194  -2.116978 42.406195  -2.116978 42.406180  -2.116978 42.406165  -2.116924 42.406162  -2.116923 42.406158  -2.116879 42.406156  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -22278,7 +22257,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117126 42.406136  -2.117185 42.406182  -2.117227 42.406154  -2.117170 42.406108  -2.117126 42.406136  </gml:posList>
+                <gml:posList srsDimension="2">-2.117126 42.406136  -2.117185 42.406182  -2.117227 42.406154  -2.117170 42.406108  -2.117148 42.406122  -2.117126 42.406136  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23118,7 +23097,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117368 42.405960  -2.117315 42.405986  -2.117291 42.406027  -2.117381 42.406017  -2.117368 42.405960  </gml:posList>
+                <gml:posList srsDimension="2">-2.117368 42.405960  -2.117315 42.405986  -2.117291 42.406027  -2.117351 42.406020  -2.117381 42.406017  -2.117368 42.405960  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23622,7 +23601,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.116070 42.405256  -2.116095 42.405218  -2.116024 42.405195  -2.115999 42.405234  -2.116037 42.405246  -2.116070 42.405256  </gml:posList>
+                <gml:posList srsDimension="2">-2.116070 42.405256  -2.116082 42.405237  -2.116095 42.405218  -2.116024 42.405195  -2.115999 42.405234  -2.116037 42.405246  -2.116070 42.405256  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23685,7 +23664,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117589 42.405883  -2.117556 42.405915  -2.117615 42.405953  -2.117649 42.405918  -2.117589 42.405883  </gml:posList>
+                <gml:posList srsDimension="2">-2.117589 42.405883  -2.117556 42.405915  -2.117573 42.405926  -2.117615 42.405953  -2.117649 42.405918  -2.117589 42.405883  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23874,7 +23853,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117286 42.406134  -2.117248 42.406176  -2.117252 42.406184  -2.117283 42.406206  -2.117336 42.406162  -2.117286 42.406134  </gml:posList>
+                <gml:posList srsDimension="2">-2.117286 42.406134  -2.117248 42.406176  -2.117252 42.406184  -2.117283 42.406206  -2.117309 42.406184  -2.117336 42.406162  -2.117286 42.406134  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25344,7 +25323,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117201 42.406038  -2.117250 42.406001  -2.117210 42.405972  -2.117161 42.406009  -2.117201 42.406038  </gml:posList>
+                <gml:posList srsDimension="2">-2.117201 42.406038  -2.117223 42.406021  -2.117250 42.406001  -2.117210 42.405972  -2.117161 42.406009  -2.117201 42.406038  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25449,7 +25428,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117164 42.406195  -2.117124 42.406221  -2.117174 42.406260  -2.117214 42.406233  -2.117164 42.406195  </gml:posList>
+                <gml:posList srsDimension="2">-2.117164 42.406195  -2.117124 42.406221  -2.117174 42.406260  -2.117194 42.406246  -2.117214 42.406233  -2.117164 42.406195  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25848,7 +25827,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117074 42.406175  -2.117037 42.406209  -2.117071 42.406246  -2.117114 42.406228  -2.117074 42.406175  </gml:posList>
+                <gml:posList srsDimension="2">-2.117074 42.406175  -2.117055 42.406192  -2.117037 42.406209  -2.117071 42.406246  -2.117114 42.406228  -2.117074 42.406175  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26289,7 +26268,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.117052 42.406075  -2.117006 42.406107  -2.117044 42.406138  -2.117091 42.406106  -2.117052 42.406075  </gml:posList>
+                <gml:posList srsDimension="2">-2.117052 42.406075  -2.117006 42.406107  -2.117044 42.406138  -2.117070 42.406121  -2.117091 42.406106  -2.117052 42.406075  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26625,7 +26604,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.113912 42.404936  -2.113878 42.404977  -2.113927 42.404998  -2.113958 42.404955  -2.113912 42.404936  </gml:posList>
+                <gml:posList srsDimension="2">-2.113912 42.404936  -2.113878 42.404977  -2.113927 42.404998  -2.113942 42.404977  -2.113958 42.404955  -2.113912 42.404936  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28959,15 +28938,15 @@
       <ms:edificios gml:id="edificios.3857764">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.127988 42.410291 </gml:lowerCorner>
-        		<gml:upperCorner>-2.127886 42.410382 </gml:upperCorner>
+        		<gml:lowerCorner>-2.127995 42.410284 </gml:lowerCorner>
+        		<gml:upperCorner>-2.127889 42.410377 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.127988 42.410311  -2.127909 42.410291  -2.127886 42.410368  -2.127953 42.410382  -2.127988 42.410311  </gml:posList>
+                <gml:posList srsDimension="2">-2.127995 42.410302  -2.127919 42.410284  -2.127889 42.410359  -2.127963 42.410377  -2.127995 42.410302  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -29366,7 +29345,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.118367 42.406363  -2.118391 42.406322  -2.118350 42.406309  -2.118325 42.406351  -2.118367 42.406363  </gml:posList>
+                <gml:posList srsDimension="2">-2.118367 42.406363  -2.118391 42.406322  -2.118350 42.406309  -2.118325 42.406351  -2.118346 42.406357  -2.118367 42.406363  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -31529,7 +31508,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.114207 42.404529  -2.114177 42.404552  -2.114211 42.404580  -2.114244 42.404556  -2.114207 42.404529  </gml:posList>
+                <gml:posList srsDimension="2">-2.114207 42.404529  -2.114177 42.404552  -2.114201 42.404572  -2.114211 42.404580  -2.114244 42.404556  -2.114207 42.404529  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34196,7 +34175,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.118836 42.400687  -2.118858 42.400713  -2.118893 42.400698  -2.118872 42.400672  -2.118836 42.400687  </gml:posList>
+                <gml:posList srsDimension="2">-2.118836 42.400687  -2.118847 42.400700  -2.118858 42.400713  -2.118893 42.400698  -2.118872 42.400672  -2.118836 42.400687  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35183,7 +35162,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.118158 42.406328  -2.118152 42.406349  -2.118199 42.406355  -2.118204 42.406333  -2.118158 42.406328  </gml:posList>
+                <gml:posList srsDimension="2">-2.118158 42.406328  -2.118152 42.406349  -2.118175 42.406352  -2.118199 42.406355  -2.118204 42.406333  -2.118158 42.406328  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35835,27 +35814,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.121012 42.405210  -2.121025 42.405219  -2.121065 42.405189  -2.121049 42.405175  -2.121012 42.405210  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3858092">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.114093 42.405018 </gml:lowerCorner>
-        		<gml:upperCorner>-2.114047 42.405058 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.114093 42.405032  -2.114067 42.405018  -2.114047 42.405048  -2.114067 42.405058  -2.114093 42.405032  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -39120,6 +39078,1602 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.116956 42.405408  -2.117041 42.405459  -2.117073 42.405423  -2.117059 42.405417  -2.116977 42.405381  -2.116956 42.405408  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512814">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.130487 42.403418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.130447 42.403449 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.130487 42.403434  -2.130471 42.403418  -2.130459 42.403425  -2.130447 42.403433  -2.130462 42.403449  -2.130487 42.403434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512815">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.130868 42.402276 </gml:lowerCorner>
+        		<gml:upperCorner>-2.130602 42.402440 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.130868 42.402351  -2.130826 42.402276  -2.130602 42.402362  -2.130642 42.402440  -2.130868 42.402351  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512817">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.131157 42.402194 </gml:lowerCorner>
+        		<gml:upperCorner>-2.131106 42.402230 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.131157 42.402214  -2.131140 42.402194  -2.131106 42.402210  -2.131115 42.402220  -2.131124 42.402230  -2.131157 42.402214  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512818">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.116707 42.399565 </gml:lowerCorner>
+        		<gml:upperCorner>-2.116541 42.399676 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.116681 42.399641  -2.116707 42.399641  -2.116707 42.399621  -2.116707 42.399600  -2.116683 42.399600  -2.116676 42.399588  -2.116662 42.399577  -2.116644 42.399570  -2.116625 42.399565  -2.116586 42.399568  -2.116558 42.399582  -2.116546 42.399601  -2.116541 42.399619  -2.116542 42.399635  -2.116549 42.399651  -2.116561 42.399662  -2.116582 42.399671  -2.116604 42.399676  -2.116619 42.399676  -2.116636 42.399674  -2.116657 42.399667  -2.116670 42.399658  -2.116681 42.399641  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512819">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.161473 42.401878 </gml:lowerCorner>
+        		<gml:upperCorner>-2.161293 42.401969 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.161473 42.401963  -2.161469 42.401878  -2.161293 42.401885  -2.161303 42.401969  -2.161473 42.401963  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512821">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.161438 42.401688 </gml:lowerCorner>
+        		<gml:upperCorner>-2.161137 42.401806 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.161374 42.401803  -2.161405 42.401800  -2.161437 42.401802  -2.161438 42.401688  -2.161409 42.401688  -2.161137 42.401689  -2.161139 42.401806  -2.161374 42.401803  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.161459 42.401800 </gml:lowerCorner>
+        		<gml:upperCorner>-2.161374 42.401855 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.161437 42.401802  -2.161405 42.401800  -2.161374 42.401803  -2.161375 42.401855  -2.161458 42.401850  -2.161459 42.401802  -2.161437 42.401802  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512823">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.160785 42.401695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.160586 42.401812 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.160785 42.401768  -2.160756 42.401695  -2.160586 42.401742  -2.160613 42.401812  -2.160699 42.401790  -2.160785 42.401768  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512824">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.160794 42.401792 </gml:lowerCorner>
+        		<gml:upperCorner>-2.160611 42.401926 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.160794 42.401896  -2.160756 42.401792  -2.160611 42.401825  -2.160651 42.401926  -2.160731 42.401909  -2.160794 42.401896  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512825">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.186288 42.411812 </gml:lowerCorner>
+        		<gml:upperCorner>-2.186166 42.411906 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.186239 42.411906  -2.186264 42.411891  -2.186288 42.411876  -2.186215 42.411812  -2.186166 42.411841  -2.186239 42.411906  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512826">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.126684 42.416698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.126398 42.416873 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.126460 42.416698  -2.126398 42.416804  -2.126630 42.416873  -2.126684 42.416766  -2.126460 42.416698  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512827">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.127116 42.416748 </gml:lowerCorner>
+        		<gml:upperCorner>-2.127010 42.416837 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.127048 42.416748  -2.127010 42.416816  -2.127081 42.416837  -2.127098 42.416802  -2.127116 42.416768  -2.127048 42.416748  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512828">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.129759 42.416249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.129635 42.416334 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.129635 42.416271  -2.129663 42.416334  -2.129759 42.416316  -2.129735 42.416249  -2.129635 42.416271  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512829">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.130660 42.417830 </gml:lowerCorner>
+        		<gml:upperCorner>-2.130445 42.417952 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.130484 42.417830  -2.130445 42.417896  -2.130626 42.417952  -2.130660 42.417886  -2.130484 42.417830  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512830">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.130029 42.417804 </gml:lowerCorner>
+        		<gml:upperCorner>-2.129946 42.417865 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.129967 42.417804  -2.129946 42.417846  -2.130007 42.417865  -2.130029 42.417823  -2.129967 42.417804  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512831">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.129728 42.417549 </gml:lowerCorner>
+        		<gml:upperCorner>-2.129614 42.417621 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.129622 42.417549  -2.129614 42.417612  -2.129718 42.417621  -2.129728 42.417559  -2.129622 42.417549  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512832">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.129401 42.417448 </gml:lowerCorner>
+        		<gml:upperCorner>-2.128974 42.417632 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.129341 42.417484  -2.129244 42.417483  -2.129241 42.417449  -2.129045 42.417448  -2.129045 42.417560  -2.128974 42.417564  -2.128975 42.417631  -2.129073 42.417626  -2.129073 42.417632  -2.129184 42.417621  -2.129386 42.417622  -2.129396 42.417559  -2.129401 42.417529  -2.129390 42.417499  -2.129339 42.417495  -2.129341 42.417484  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512833">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.182741 42.393706 </gml:lowerCorner>
+        		<gml:upperCorner>-2.182433 42.393984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.182642 42.393984  -2.182741 42.393761  -2.182527 42.393706  -2.182433 42.393934  -2.182538 42.393959  -2.182642 42.393984  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512834">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110955 42.418618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110867 42.418664 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.110879 42.418664  -2.110917 42.418652  -2.110955 42.418640  -2.110943 42.418618  -2.110867 42.418641  -2.110879 42.418664  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512835">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.107885 42.417528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.107779 42.417608 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.107779 42.417577  -2.107823 42.417608  -2.107885 42.417556  -2.107862 42.417542  -2.107839 42.417528  -2.107779 42.417577  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512836">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.108705 42.417288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.108557 42.417394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.108557 42.417348  -2.108648 42.417394  -2.108705 42.417333  -2.108611 42.417288  -2.108557 42.417348  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512837">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.108283 42.417272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.108240 42.417299 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.108240 42.417286  -2.108261 42.417299  -2.108283 42.417284  -2.108264 42.417272  -2.108240 42.417286  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512838">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.108939 42.417187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.108820 42.417279 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.108820 42.417246  -2.108870 42.417279  -2.108909 42.417248  -2.108901 42.417244  -2.108939 42.417216  -2.108889 42.417187  -2.108820 42.417246  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512839">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.108212 42.417030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.108063 42.417133 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.108072 42.417100  -2.108122 42.417133  -2.108161 42.417102  -2.108191 42.417082  -2.108183 42.417079  -2.108212 42.417059  -2.108161 42.417030  -2.108129 42.417056  -2.108105 42.417044  -2.108063 42.417076  -2.108072 42.417100  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512840">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.109001 42.416931 </gml:lowerCorner>
+        		<gml:upperCorner>-2.108958 42.416958 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.108958 42.416946  -2.108979 42.416958  -2.108990 42.416951  -2.109001 42.416944  -2.108981 42.416931  -2.108958 42.416946  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512841">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.109792 42.416800 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109714 42.416855 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.109714 42.416818  -2.109738 42.416855  -2.109792 42.416837  -2.109766 42.416800  -2.109714 42.416818  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512842">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110014 42.416883 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109832 42.417002 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.109832 42.416927  -2.109880 42.417002  -2.110014 42.416958  -2.109964 42.416883  -2.109832 42.416927  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512843">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110473 42.416821 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110347 42.416913 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.110347 42.416849  -2.110388 42.416913  -2.110473 42.416884  -2.110433 42.416821  -2.110347 42.416849  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512844">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.109783 42.417042 </gml:lowerCorner>
+        		<gml:upperCorner>-2.109647 42.417158 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.109652 42.417085  -2.109671 42.417114  -2.109647 42.417122  -2.109673 42.417158  -2.109722 42.417141  -2.109734 42.417158  -2.109766 42.417146  -2.109750 42.417126  -2.109783 42.417114  -2.109734 42.417042  -2.109686 42.417061  -2.109692 42.417071  -2.109652 42.417085  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512845">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.111935 42.416658 </gml:lowerCorner>
+        		<gml:upperCorner>-2.111805 42.416762 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.111805 42.416691  -2.111852 42.416762  -2.111935 42.416731  -2.111886 42.416658  -2.111845 42.416675  -2.111805 42.416691  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512846">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.139424 42.413341 </gml:lowerCorner>
+        		<gml:upperCorner>-2.139240 42.413426 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.139424 42.413412  -2.139420 42.413376  -2.139417 42.413341  -2.139240 42.413355  -2.139250 42.413426  -2.139424 42.413412  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512847">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.142542 42.413446 </gml:lowerCorner>
+        		<gml:upperCorner>-2.142439 42.413495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.142533 42.413495  -2.142542 42.413455  -2.142447 42.413446  -2.142439 42.413486  -2.142533 42.413495  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512848">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.142604 42.413714 </gml:lowerCorner>
+        		<gml:upperCorner>-2.142502 42.413772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.142604 42.413772  -2.142603 42.413714  -2.142502 42.413716  -2.142506 42.413771  -2.142604 42.413772  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512850">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.137802 42.415122 </gml:lowerCorner>
+        		<gml:upperCorner>-2.137705 42.415169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.137802 42.415158  -2.137794 42.415122  -2.137705 42.415133  -2.137713 42.415169  -2.137757 42.415163  -2.137802 42.415158  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512851">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.136145 42.414633 </gml:lowerCorner>
+        		<gml:upperCorner>-2.136024 42.414744 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.136145 42.414651  -2.136110 42.414642  -2.136074 42.414633  -2.136024 42.414724  -2.136086 42.414744  -2.136145 42.414651  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512852">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.137752 42.413749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.137609 42.413820 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.137752 42.413796  -2.137736 42.413749  -2.137609 42.413773  -2.137622 42.413820  -2.137752 42.413796  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512853">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.133637 42.414026 </gml:lowerCorner>
+        		<gml:upperCorner>-2.133605 42.414053 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.133637 42.414026  -2.133608 42.414026  -2.133605 42.414051  -2.133635 42.414053  -2.133636 42.414040  -2.133637 42.414026  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512854">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.133032 42.414046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.132892 42.414087 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.133032 42.414050  -2.132964 42.414047  -2.132963 42.414050  -2.132895 42.414046  -2.132892 42.414085  -2.132960 42.414087  -2.132962 42.414074  -2.133031 42.414076  -2.133032 42.414063  -2.133032 42.414050  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512855">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.138190 42.413395 </gml:lowerCorner>
+        		<gml:upperCorner>-2.138072 42.413482 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.138182 42.413482  -2.138190 42.413400  -2.138077 42.413395  -2.138072 42.413478  -2.138182 42.413482  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512856">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.138317 42.412654 </gml:lowerCorner>
+        		<gml:upperCorner>-2.138283 42.412675 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.138315 42.412675  -2.138317 42.412654  -2.138283 42.412654  -2.138283 42.412674  -2.138299 42.412674  -2.138315 42.412675  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512857">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.119482 42.413674 </gml:lowerCorner>
+        		<gml:upperCorner>-2.119434 42.413706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.119480 42.413706  -2.119482 42.413677  -2.119437 42.413674  -2.119434 42.413701  -2.119480 42.413706  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512858">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.119462 42.412743 </gml:lowerCorner>
+        		<gml:upperCorner>-2.119368 42.412794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.119451 42.412794  -2.119462 42.412764  -2.119378 42.412743  -2.119368 42.412776  -2.119451 42.412794  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512859">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.120176 42.412411 </gml:lowerCorner>
+        		<gml:upperCorner>-2.120092 42.412459 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.120164 42.412459  -2.120176 42.412427  -2.120101 42.412411  -2.120092 42.412444  -2.120164 42.412459  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512860">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.121157 42.411921 </gml:lowerCorner>
+        		<gml:upperCorner>-2.120954 42.412034 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.121128 42.412034  -2.121157 42.412000  -2.120981 42.411921  -2.120954 42.411957  -2.121128 42.412034  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512861">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.121478 42.411687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.121406 42.411740 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.121454 42.411740  -2.121478 42.411721  -2.121431 42.411687  -2.121406 42.411708  -2.121454 42.411740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512862">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.127794 42.388363 </gml:lowerCorner>
+        		<gml:upperCorner>-2.127637 42.388553 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.127794 42.388537  -2.127689 42.388363  -2.127637 42.388379  -2.127742 42.388553  -2.127794 42.388537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512863">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.119371 42.406660 </gml:lowerCorner>
+        		<gml:upperCorner>-2.119258 42.406746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.119258 42.406713  -2.119320 42.406746  -2.119371 42.406694  -2.119313 42.406660  -2.119258 42.406713  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512864">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.155082 42.410190 </gml:lowerCorner>
+        		<gml:upperCorner>-2.154992 42.410263 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.155065 42.410263  -2.155082 42.410205  -2.155007 42.410190  -2.154992 42.410251  -2.155065 42.410263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512865">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.149427 42.407484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.149281 42.407571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.149397 42.407571  -2.149427 42.407531  -2.149309 42.407484  -2.149281 42.407522  -2.149397 42.407571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512866">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.126849 42.405495 </gml:lowerCorner>
+        		<gml:upperCorner>-2.126822 42.405525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.126822 42.405525  -2.126848 42.405525  -2.126849 42.405496  -2.126823 42.405495  -2.126823 42.405510  -2.126822 42.405525  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512867">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.207637 42.404977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.207437 42.405096 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.207637 42.405062  -2.207474 42.404977  -2.207437 42.405014  -2.207600 42.405096  -2.207637 42.405062  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512868">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208026 42.404986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.207840 42.405149 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.208026 42.405023  -2.207903 42.404986  -2.207840 42.405115  -2.207960 42.405149  -2.208026 42.405023  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512869">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.171426 42.397618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.171310 42.397728 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.171361 42.397728  -2.171426 42.397642  -2.171372 42.397618  -2.171310 42.397709  -2.171361 42.397728  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alcanadre</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512870">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.107310 42.416620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.107161 42.416726 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.107161 42.416680  -2.107252 42.416726  -2.107310 42.416665  -2.107216 42.416620  -2.107161 42.416680  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512871">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112865 42.416203 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112702 42.416338 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.112722 42.416272  -2.112764 42.416338  -2.112865 42.416307  -2.112832 42.416255  -2.112798 42.416203  -2.112702 42.416229  -2.112722 42.416272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512872">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114018 42.415698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.113915 42.415789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.113929 42.415739  -2.113921 42.415741  -2.113934 42.415789  -2.114018 42.415767  -2.113979 42.415698  -2.113915 42.415714  -2.113929 42.415739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512873">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114550 42.415693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114455 42.415771 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.114455 42.415704  -2.114455 42.415724  -2.114456 42.415769  -2.114549 42.415771  -2.114550 42.415727  -2.114538 42.415726  -2.114538 42.415693  -2.114473 42.415693  -2.114472 42.415704  -2.114455 42.415704  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512874">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114567 42.415950 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114509 42.415994 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.114509 42.415950  -2.114511 42.415994  -2.114567 42.415993  -2.114566 42.415950  -2.114509 42.415950  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512875">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114687 42.416552 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114585 42.416616 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.114585 42.416574  -2.114605 42.416616  -2.114687 42.416594  -2.114666 42.416552  -2.114585 42.416574  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512876">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114751 42.416725 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114658 42.416771 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.114658 42.416726  -2.114659 42.416771  -2.114751 42.416771  -2.114750 42.416725  -2.114658 42.416726  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512877">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.111071 42.416065 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110940 42.416168 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.110940 42.416098  -2.110988 42.416168  -2.111071 42.416137  -2.111022 42.416065  -2.110981 42.416081  -2.110940 42.416098  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512878">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110857 42.416241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110685 42.416345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.110685 42.416274  -2.110733 42.416345  -2.110816 42.416313  -2.110857 42.416297  -2.110831 42.416261  -2.110791 42.416277  -2.110767 42.416241  -2.110726 42.416258  -2.110685 42.416274  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512879">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110601 42.416377 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110409 42.416477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.110409 42.416420  -2.110448 42.416477  -2.110531 42.416446  -2.110601 42.416419  -2.110576 42.416383  -2.110541 42.416396  -2.110525 42.416377  -2.110448 42.416408  -2.110409 42.416420  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512880">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.110540 42.415785 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110456 42.415853 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.110488 42.415853  -2.110540 42.415828  -2.110512 42.415785  -2.110456 42.415811  -2.110488 42.415853  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512881">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112872 42.415155 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112759 42.415209 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.112759 42.415156  -2.112760 42.415209  -2.112870 42.415206  -2.112872 42.415155  -2.112759 42.415156  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512882">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112248 42.410729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112183 42.410760 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.112185 42.410729  -2.112183 42.410756  -2.112246 42.410760  -2.112248 42.410734  -2.112185 42.410729  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512883">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112598 42.408867 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112454 42.408973 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.112472 42.408867  -2.112454 42.408959  -2.112582 42.408973  -2.112598 42.408882  -2.112472 42.408867  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512884">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.112401 42.409033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.112320 42.409131 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.112337 42.409033  -2.112320 42.409124  -2.112384 42.409131  -2.112401 42.409040  -2.112337 42.409033  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512885">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.120897 42.400070 </gml:lowerCorner>
+        		<gml:upperCorner>-2.120795 42.400137 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.120866 42.400137  -2.120880 42.400117  -2.120897 42.400093  -2.120820 42.400070  -2.120795 42.400116  -2.120866 42.400137  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512886">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.121093 42.400093 </gml:lowerCorner>
+        		<gml:upperCorner>-2.120866 42.400231 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.120897 42.400093  -2.120880 42.400117  -2.120866 42.400137  -2.120873 42.400139  -2.120910 42.400161  -2.120919 42.400152  -2.120975 42.400184  -2.121059 42.400231  -2.121093 42.400196  -2.121012 42.400153  -2.120954 42.400120  -2.120897 42.400093  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512887">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.121649 42.411510 </gml:lowerCorner>
+        		<gml:upperCorner>-2.121614 42.411536 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.121648 42.411536  -2.121649 42.411512  -2.121616 42.411510  -2.121614 42.411534  -2.121648 42.411536  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512888">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.114972 42.412394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.114916 42.412432 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.114967 42.412432  -2.114972 42.412400  -2.114918 42.412394  -2.114916 42.412428  -2.114967 42.412432  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512889">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.122547 42.409010 </gml:lowerCorner>
+        		<gml:upperCorner>-2.122490 42.409058 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.122547 42.409041  -2.122539 42.409010  -2.122490 42.409024  -2.122497 42.409058  -2.122547 42.409041  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512890">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.128525 42.411471 </gml:lowerCorner>
+        		<gml:upperCorner>-2.128453 42.411523 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.128453 42.411495  -2.128493 42.411523  -2.128525 42.411498  -2.128484 42.411471  -2.128453 42.411495  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512891">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.128428 42.411261 </gml:lowerCorner>
+        		<gml:upperCorner>-2.128281 42.411384 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.128350 42.411261  -2.128281 42.411315  -2.128328 42.411340  -2.128301 42.411364  -2.128335 42.411384  -2.128400 42.411333  -2.128409 42.411337  -2.128428 42.411318  -2.128411 42.411309  -2.128421 42.411299  -2.128350 42.411261  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alcanadre</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512892">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.122491 42.405615 </gml:lowerCorner>
+        		<gml:upperCorner>-2.122401 42.405680 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.122439 42.405615  -2.122401 42.405645  -2.122416 42.405655  -2.122454 42.405680  -2.122491 42.405649  -2.122439 42.405615  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

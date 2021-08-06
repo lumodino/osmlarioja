@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.457280 42.385207 </gml:lowerCorner>
-      		<gml:upperCorner>-2.378483 42.426921 </gml:upperCorner>
+      		<gml:upperCorner>-2.378483 42.424199 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1987,27 +1987,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4146313">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.444118 42.400268 </gml:lowerCorner>
-        		<gml:upperCorner>-2.443765 42.400596 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.443948 42.400596  -2.444118 42.400541  -2.443973 42.400293  -2.443844 42.400334  -2.443806 42.400268  -2.443765 42.400281  -2.443948 42.400596  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4146314">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2314,27 +2293,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.441576 42.404969  -2.441692 42.405000  -2.441713 42.404964  -2.441727 42.404940  -2.441707 42.404927  -2.441674 42.404903  -2.441669 42.404912  -2.441633 42.404897  -2.441576 42.404969  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4146329">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.445680 42.409911 </gml:lowerCorner>
-        		<gml:upperCorner>-2.445230 42.410256 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.445358 42.410256  -2.445405 42.410220  -2.445388 42.410209  -2.445397 42.410188  -2.445407 42.410191  -2.445680 42.409964  -2.445646 42.409942  -2.445596 42.409911  -2.445315 42.410149  -2.445276 42.410126  -2.445230 42.410171  -2.445358 42.410256  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4612,27 +4570,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4146438">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.444118 42.400655 </gml:lowerCorner>
-        		<gml:upperCorner>-2.443815 42.400853 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.443836 42.400780  -2.443844 42.400788  -2.443891 42.400827  -2.443921 42.400853  -2.444017 42.400766  -2.444020 42.400764  -2.444036 42.400774  -2.444118 42.400702  -2.444042 42.400655  -2.443960 42.400728  -2.443921 42.400697  -2.443846 42.400743  -2.443815 42.400762  -2.443836 42.400780  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4146439">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6400,15 +6337,15 @@
       <ms:edificios gml:id="edificios.4146523">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.450523 42.404542 </gml:lowerCorner>
-        		<gml:upperCorner>-2.450442 42.404599 </gml:upperCorner>
+        		<gml:lowerCorner>-2.450557 42.404551 </gml:lowerCorner>
+        		<gml:upperCorner>-2.450480 42.404606 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.450523 42.404561  -2.450469 42.404542  -2.450442 42.404579  -2.450489 42.404599  -2.450523 42.404561  </gml:posList>
+                <gml:posList srsDimension="2">-2.450557 42.404573  -2.450523 42.404551  -2.450480 42.404582  -2.450514 42.404606  -2.450557 42.404573  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9277,15 +9214,15 @@
       <ms:edificios gml:id="edificios.4146660">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.449915 42.404669 </gml:lowerCorner>
-        		<gml:upperCorner>-2.449829 42.404731 </gml:upperCorner>
+        		<gml:lowerCorner>-2.449886 42.404683 </gml:lowerCorner>
+        		<gml:upperCorner>-2.449817 42.404735 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.449829 42.404697  -2.449867 42.404731  -2.449915 42.404703  -2.449876 42.404669  -2.449829 42.404697  </gml:posList>
+                <gml:posList srsDimension="2">-2.449877 42.404735  -2.449886 42.404692  -2.449827 42.404683  -2.449817 42.404727  -2.449877 42.404735  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9298,15 +9235,15 @@
       <ms:edificios gml:id="edificios.4146661">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.450181 42.404671 </gml:lowerCorner>
-        		<gml:upperCorner>-2.450094 42.404731 </gml:upperCorner>
+        		<gml:lowerCorner>-2.450191 42.404686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.450104 42.404746 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.450094 42.404701  -2.450154 42.404731  -2.450181 42.404701  -2.450121 42.404671  -2.450094 42.404701  </gml:posList>
+                <gml:posList srsDimension="2">-2.450104 42.404716  -2.450164 42.404746  -2.450191 42.404716  -2.450131 42.404686  -2.450104 42.404716  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10096,7 +10033,7 @@
       <ms:edificios gml:id="edificios.4146699">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.454692 42.388171 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.454672 42.388171 </gml:lowerCorner>
         		<gml:upperCorner>-2.454510 42.388284 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -10104,7 +10041,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.454510 42.388246  -2.454635 42.388284  -2.454640 42.388269  -2.454674 42.388280  -2.454692 42.388247  -2.454658 42.388236  -2.454672 42.388212  -2.454553 42.388171  -2.454510 42.388246  </gml:posList>
+                <gml:posList srsDimension="2">-2.454510 42.388246  -2.454635 42.388284  -2.454640 42.388269  -2.454658 42.388236  -2.454672 42.388212  -2.454553 42.388171  -2.454510 42.388246  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12025,27 +11962,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4146792">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.449904 42.403723 </gml:lowerCorner>
-        		<gml:upperCorner>-2.449856 42.403814 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.449904 42.403813  -2.449901 42.403723  -2.449856 42.403724  -2.449859 42.403814  -2.449904 42.403813  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4146793">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13831,27 +13747,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4146878">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.445805 42.409844 </gml:lowerCorner>
-        		<gml:upperCorner>-2.445652 42.409960 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.445678 42.409949  -2.445697 42.409960  -2.445719 42.409941  -2.445725 42.409946  -2.445763 42.409910  -2.445805 42.409871  -2.445763 42.409844  -2.445720 42.409881  -2.445694 42.409864  -2.445652 42.409901  -2.445674 42.409915  -2.445678 42.409911  -2.445702 42.409928  -2.445678 42.409949  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4146879">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14947,7 +14842,7 @@
       <ms:edificios gml:id="edificios.4146931">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.451674 42.394470 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.451670 42.394470 </gml:lowerCorner>
         		<gml:upperCorner>-2.451551 42.394568 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -14955,7 +14850,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.451674 42.394498  -2.451598 42.394470  -2.451551 42.394540  -2.451628 42.394568  -2.451674 42.394498  </gml:posList>
+                <gml:posList srsDimension="2">-2.451670 42.394504  -2.451598 42.394470  -2.451551 42.394540  -2.451628 42.394568  -2.451670 42.394504  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15955,7 +15850,7 @@
       <ms:edificios gml:id="edificios.4146979">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.448063 42.408695 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.448077 42.408695 </gml:lowerCorner>
         		<gml:upperCorner>-2.447947 42.408799 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -15963,7 +15858,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.448063 42.408740  -2.448029 42.408728  -2.448040 42.408707  -2.447997 42.408695  -2.447947 42.408773  -2.448029 42.408799  -2.448063 42.408740  </gml:posList>
+                <gml:posList srsDimension="2">-2.448063 42.408740  -2.448077 42.408716  -2.448040 42.408707  -2.447997 42.408695  -2.447947 42.408773  -2.448029 42.408799  -2.448063 42.408740  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17191,27 +17086,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147038">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.433365 42.407024 </gml:lowerCorner>
-        		<gml:upperCorner>-2.433283 42.407136 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.433365 42.407034  -2.433323 42.407024  -2.433283 42.407127  -2.433327 42.407136  -2.433339 42.407103  -2.433363 42.407050  -2.433358 42.407048  -2.433365 42.407034  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4147039">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -17329,27 +17203,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.419209 42.405458  -2.418949 42.405481  -2.418735 42.405532  -2.418785 42.405612  -2.419230 42.405518  -2.419220 42.405488  -2.419209 42.405458  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147045">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.418167 42.404703 </gml:lowerCorner>
-        		<gml:upperCorner>-2.418095 42.404828 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.418167 42.404824  -2.418155 42.404703  -2.418095 42.404707  -2.418097 42.404828  -2.418167 42.404824  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -18052,27 +17905,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147079">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.425388 42.401679 </gml:lowerCorner>
-        		<gml:upperCorner>-2.425273 42.401746 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.425367 42.401746  -2.425388 42.401705  -2.425294 42.401679  -2.425273 42.401721  -2.425367 42.401746  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4147080">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -18535,27 +18367,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147103">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.433453 42.407063 </gml:lowerCorner>
-        		<gml:upperCorner>-2.433349 42.407130 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.433349 42.407110  -2.433369 42.407116  -2.433371 42.407122  -2.433405 42.407130  -2.433410 42.407120  -2.433448 42.407116  -2.433453 42.407100  -2.433453 42.407088  -2.433424 42.407089  -2.433417 42.407087  -2.433425 42.407067  -2.433398 42.407063  -2.433393 42.407077  -2.433369 42.407074  -2.433367 42.407083  -2.433349 42.407110  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4147104">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -18988,27 +18799,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.439821 42.406627  -2.439875 42.406644  -2.439900 42.406597  -2.439823 42.406576  -2.439801 42.406621  -2.439821 42.406627  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147125">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.455226 42.387425 </gml:lowerCorner>
-        		<gml:upperCorner>-2.455127 42.387497 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.455167 42.387497  -2.455226 42.387474  -2.455194 42.387430  -2.455177 42.387435  -2.455172 42.387425  -2.455127 42.387443  -2.455167 42.387497  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21961,15 +21751,15 @@
       <ms:edificios gml:id="edificios.4147266">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.444605 42.405058 </gml:lowerCorner>
-        		<gml:upperCorner>-2.444483 42.405159 </gml:upperCorner>
+        		<gml:lowerCorner>-2.444605 42.405049 </gml:lowerCorner>
+        		<gml:upperCorner>-2.444473 42.405159 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.444605 42.405086  -2.444572 42.405058  -2.444504 42.405107  -2.444496 42.405099  -2.444484 42.405110  -2.444483 42.405142  -2.444508 42.405159  -2.444537 42.405137  -2.444605 42.405086  </gml:posList>
+                <gml:posList srsDimension="2">-2.444605 42.405086  -2.444572 42.405058  -2.444555 42.405070  -2.444527 42.405049  -2.444485 42.405080  -2.444504 42.405094  -2.444515 42.405102  -2.444473 42.405134  -2.444508 42.405159  -2.444537 42.405137  -2.444605 42.405086  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25498,27 +25288,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.441437 42.406251  -2.441388 42.406247  -2.441383 42.406278  -2.441434 42.406281  -2.441437 42.406251  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147435">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.436442 42.403353 </gml:lowerCorner>
-        		<gml:upperCorner>-2.436381 42.403400 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.436406 42.403400  -2.436442 42.403385  -2.436417 42.403353  -2.436381 42.403368  -2.436406 42.403400  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -31996,27 +31765,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4147751">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.437636 42.426864 </gml:lowerCorner>
-        		<gml:upperCorner>-2.437498 42.426921 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.437636 42.426874  -2.437500 42.426864  -2.437498 42.426915  -2.437633 42.426921  -2.437636 42.426874  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4147752">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -32461,15 +32209,15 @@
       <ms:edificios gml:id="edificios.4147773">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.450645 42.398064 </gml:lowerCorner>
-        		<gml:upperCorner>-2.450514 42.398162 </gml:upperCorner>
+        		<gml:lowerCorner>-2.450640 42.398078 </gml:lowerCorner>
+        		<gml:upperCorner>-2.450509 42.398176 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.450585 42.398064  -2.450514 42.398116  -2.450574 42.398162  -2.450645 42.398109  -2.450585 42.398064  </gml:posList>
+                <gml:posList srsDimension="2">-2.450580 42.398078  -2.450509 42.398130  -2.450569 42.398176  -2.450640 42.398124  -2.450580 42.398078  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -41304,48 +41052,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4511897">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428965 42.412062 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428787 42.412183 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.428915 42.412183  -2.428965 42.412103  -2.428837 42.412062  -2.428787 42.412143  -2.428915 42.412183  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4511898">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.429144 42.411949 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428987 42.412037 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.429115 42.412037  -2.429144 42.411990  -2.429016 42.411949  -2.428987 42.411996  -2.429115 42.412037  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4511899">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -42681,6 +42387,363 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.423006 42.407824  -2.422980 42.407959  -2.423348 42.408004  -2.423379 42.407872  -2.423006 42.407824  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512670">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.400484 42.399046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.400387 42.399108 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.400484 42.399049  -2.400390 42.399046  -2.400387 42.399105  -2.400480 42.399108  -2.400484 42.399049  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512672">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395974 42.398055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395872 42.398159 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395940 42.398159  -2.395974 42.398073  -2.395906 42.398055  -2.395872 42.398144  -2.395940 42.398159  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512673">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.396127 42.398067 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395996 42.398196 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.396084 42.398196  -2.396127 42.398089  -2.396037 42.398067  -2.395996 42.398176  -2.396084 42.398196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512676">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.430712 42.410320 </gml:lowerCorner>
+        		<gml:upperCorner>-2.430572 42.410398 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.430691 42.410398  -2.430712 42.410353  -2.430592 42.410320  -2.430572 42.410365  -2.430691 42.410398  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512678">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.444020 42.400697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.443815 42.400853 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.444020 42.400764  -2.443988 42.400743  -2.443960 42.400728  -2.443921 42.400697  -2.443846 42.400743  -2.443815 42.400762  -2.443836 42.400780  -2.443844 42.400788  -2.443891 42.400827  -2.443921 42.400853  -2.444017 42.400766  -2.444020 42.400764  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512679">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.444118 42.400655 </gml:lowerCorner>
+        		<gml:upperCorner>-2.443960 42.400774 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.443960 42.400728  -2.443988 42.400743  -2.444020 42.400764  -2.444036 42.400774  -2.444118 42.400702  -2.444042 42.400655  -2.443960 42.400728  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512680">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.444118 42.400293 </gml:lowerCorner>
+        		<gml:upperCorner>-2.443804 42.400596 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.443948 42.400596  -2.444118 42.400541  -2.443973 42.400293  -2.443844 42.400334  -2.443816 42.400344  -2.443804 42.400347  -2.443948 42.400596  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512681">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.443844 42.400268 </gml:lowerCorner>
+        		<gml:upperCorner>-2.443765 42.400347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.443804 42.400347  -2.443816 42.400344  -2.443844 42.400334  -2.443806 42.400268  -2.443765 42.400281  -2.443804 42.400347  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512682">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.446405 42.399188 </gml:lowerCorner>
+        		<gml:upperCorner>-2.446323 42.399252 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.446328 42.399188  -2.446323 42.399247  -2.446401 42.399252  -2.446405 42.399194  -2.446328 42.399188  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512690">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.433784 42.412843 </gml:lowerCorner>
+        		<gml:upperCorner>-2.433605 42.412934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.433784 42.412871  -2.433618 42.412843  -2.433605 42.412904  -2.433782 42.412934  -2.433784 42.412871  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512691">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.433732 42.412620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.433527 42.412730 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.433732 42.412690  -2.433565 42.412620  -2.433527 42.412680  -2.433661 42.412730  -2.433670 42.412713  -2.433701 42.412727  -2.433732 42.412690  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512692">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.434444 42.411829 </gml:lowerCorner>
+        		<gml:upperCorner>-2.434206 42.412016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.434444 42.411873  -2.434350 42.411829  -2.434291 42.411904  -2.434250 42.411886  -2.434206 42.411937  -2.434283 42.411978  -2.434268 42.411995  -2.434321 42.412016  -2.434444 42.411873  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512697">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.438124 42.422127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.437949 42.422184 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.438124 42.422128  -2.438010 42.422127  -2.438009 42.422140  -2.437949 42.422139  -2.437950 42.422180  -2.438121 42.422184  -2.438124 42.422128  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512699">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.447321 42.400175 </gml:lowerCorner>
+        		<gml:upperCorner>-2.447257 42.400255 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.447321 42.400179  -2.447266 42.400175  -2.447257 42.400248  -2.447308 42.400255  -2.447321 42.400179  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512709">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.442993 42.404002 </gml:lowerCorner>
+        		<gml:upperCorner>-2.442877 42.404091 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.442948 42.404091  -2.442993 42.404049  -2.442921 42.404002  -2.442877 42.404045  -2.442948 42.404091  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512714">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.447325 42.406089 </gml:lowerCorner>
+        		<gml:upperCorner>-2.447250 42.406143 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.447272 42.406143  -2.447325 42.406117  -2.447304 42.406089  -2.447250 42.406113  -2.447272 42.406143  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Alberite</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Alberite</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512716">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.449618 42.407541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.449428 42.407648 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.449618 42.407618  -2.449455 42.407541  -2.449428 42.407571  -2.449587 42.407648  -2.449618 42.407618  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
