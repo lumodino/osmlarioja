@@ -77,12 +77,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.890328 42.233555 </gml:lowerCorner>
-        		<gml:upperCorner>-1.889856 42.233737 </gml:upperCorner>
+        		<gml:upperCorner>-1.889895 42.233722 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.889856 42.233737  -1.890328 42.233555  </gml:posList>
+            <gml:posList srsDimension="2">-1.889895 42.233722  -1.890328 42.233555  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Miguel de Unamuno</ms:NOMBRE_COMPLETO_VIAL>
@@ -4853,26 +4853,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1508055">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.894430 42.227566 </gml:lowerCorner>
-        		<gml:upperCorner>-1.893536 42.229541 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.894430 42.229541  -1.894417 42.229504  -1.894411 42.229483  -1.894406 42.229469  -1.894397 42.229442  -1.894375 42.229381  -1.894360 42.229330  -1.894339 42.229263  -1.894332 42.229240  -1.894327 42.229224  -1.894322 42.229209  -1.894313 42.229186  -1.894306 42.229167  -1.894304 42.229162  -1.894260 42.229064  -1.894218 42.228974  -1.894206 42.228948  -1.894153 42.228835  -1.894072 42.228661  -1.894025 42.228560  -1.893993 42.228491  -1.893991 42.228488  -1.893986 42.228482  -1.893965 42.228453  -1.893938 42.228418  -1.893936 42.228416  -1.893928 42.228400  -1.893895 42.228335  -1.893873 42.228292  -1.893865 42.228275  -1.893854 42.228254  -1.893850 42.228245  -1.893844 42.228233  -1.893797 42.228134  -1.893771 42.228079  -1.893749 42.228031  -1.893746 42.228024  -1.893743 42.228019  -1.893737 42.228004  -1.893711 42.227947  -1.893678 42.227876  -1.893648 42.227810  -1.893632 42.227776  -1.893620 42.227749  -1.893580 42.227662  -1.893537 42.227568  -1.893536 42.227566  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Circunvalación de San Roque</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.008.90</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1508067">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4903,6 +4883,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.893090 42.226461  -1.893148 42.226679  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Circunvalación de San Roque</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.008.90</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4513326">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.894430 42.228418 </gml:lowerCorner>
+        		<gml:upperCorner>-1.893938 42.229541 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.894430 42.229541  -1.894417 42.229504  -1.894411 42.229483  -1.894406 42.229469  -1.894397 42.229442  -1.894375 42.229381  -1.894360 42.229330  -1.894339 42.229263  -1.894332 42.229240  -1.894327 42.229224  -1.894322 42.229209  -1.894313 42.229186  -1.894306 42.229167  -1.894304 42.229162  -1.894260 42.229064  -1.894218 42.228974  -1.894206 42.228948  -1.894153 42.228835  -1.894072 42.228661  -1.894025 42.228560  -1.893993 42.228491  -1.893991 42.228488  -1.893986 42.228482  -1.893965 42.228453  -1.893938 42.228418  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Circunvalación de San Roque</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Aldeanueva de Ebro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Aldeanueva de Ebro</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.008.90</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4513327">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.893938 42.227566 </gml:lowerCorner>
+        		<gml:upperCorner>-1.893536 42.228418 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.893938 42.228418  -1.893936 42.228416  -1.893928 42.228400  -1.893895 42.228335  -1.893873 42.228292  -1.893865 42.228275  -1.893854 42.228254  -1.893850 42.228245  -1.893844 42.228233  -1.893797 42.228134  -1.893771 42.228079  -1.893749 42.228031  -1.893746 42.228024  -1.893743 42.228019  -1.893737 42.228004  -1.893711 42.227947  -1.893678 42.227876  -1.893648 42.227810  -1.893632 42.227776  -1.893620 42.227749  -1.893580 42.227662  -1.893537 42.227568  -1.893536 42.227566  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Circunvalación de San Roque</ms:NOMBRE_COMPLETO_VIAL>

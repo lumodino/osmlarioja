@@ -50912,7 +50912,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303143 42.430917  -2.303140 42.430871  -2.302973 42.430877  -2.302972 42.430922  -2.303143 42.430917  </gml:posList>
+                <gml:posList srsDimension="2">-2.303143 42.430917  -2.303142 42.430894  -2.303140 42.430871  -2.302973 42.430877  -2.302972 42.430922  -2.303143 42.430917  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -52845,6 +52845,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.306505 42.444434  -2.306467 42.444420  -2.306454 42.444440  -2.306492 42.444454  -2.306505 42.444434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Agoncillo (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Agoncillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4513072">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290137 42.453475 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290000 42.453580 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290066 42.453475  -2.290000 42.453515  -2.290073 42.453580  -2.290137 42.453542  -2.290066 42.453475  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
