@@ -71476,6 +71476,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4277315">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.968829 42.310691 </gml:lowerCorner>
+        		<gml:upperCorner>-1.968829 42.310691 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-1.968829 42.310691 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Primero de Mayo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26500</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Calahorra</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Calahorra</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.266047">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

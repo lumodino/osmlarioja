@@ -793,13 +793,13 @@
       <ms:portales gml:id="portales.315944">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.320172 42.334272 </gml:lowerCorner>
-        		<gml:upperCorner>-2.320172 42.334272 </gml:upperCorner>
+        		<gml:lowerCorner>-2.320082 42.334186 </gml:lowerCorner>
+        		<gml:upperCorner>-2.320082 42.334186 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.320172 42.334272 </gml:pos>
+            <gml:pos>-2.320082 42.334186 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Ventas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1297,13 +1297,13 @@
       <ms:portales gml:id="portales.315943">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.320152 42.334368 </gml:lowerCorner>
-        		<gml:upperCorner>-2.320152 42.334368 </gml:upperCorner>
+        		<gml:lowerCorner>-2.320164 42.334276 </gml:lowerCorner>
+        		<gml:upperCorner>-2.320164 42.334276 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.320152 42.334368 </gml:pos>
+            <gml:pos>-2.320164 42.334276 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Ventas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -2211,6 +2211,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Ventas Blancas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>99</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26131</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4513379">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.320146 42.334366 </gml:lowerCorner>
+        		<gml:upperCorner>-2.320146 42.334366 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.320146 42.334366 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Ventas Blancas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26131</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>

@@ -454,6 +454,48 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4252337">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.644066 42.475823 </gml:lowerCorner>
+        		<gml:upperCorner>-2.644066 42.475823 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.644066 42.475823 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4252338">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.644128 42.475664 </gml:lowerCorner>
+        		<gml:upperCorner>-2.644128 42.475664 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.644128 42.475664 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4252339">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -496,6 +538,69 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4252331">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.644129 42.478357 </gml:lowerCorner>
+        		<gml:upperCorner>-2.644129 42.478357 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.644129 42.478357 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4252333">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.645102 42.477507 </gml:lowerCorner>
+        		<gml:upperCorner>-2.645102 42.477507 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.645102 42.477507 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>I</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4252328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.643693 42.476507 </gml:lowerCorner>
+        		<gml:upperCorner>-2.643693 42.476507 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.643693 42.476507 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4252334">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -517,6 +622,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4252329">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.643745 42.476325 </gml:lowerCorner>
+        		<gml:upperCorner>-2.643745 42.476325 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.643745 42.476325 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4252335">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -531,6 +657,48 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4252330">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.643827 42.476037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.643827 42.476037 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.643827 42.476037 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4252336">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.644005 42.476033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.644005 42.476033 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.644005 42.476033 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Húercanos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26350</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>

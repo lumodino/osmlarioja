@@ -38128,27 +38128,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.302940">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.852675 42.573651 </gml:lowerCorner>
-        		<gml:upperCorner>-2.852675 42.573651 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.852675 42.573651 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Castañares de Rioja</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.302938">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -48138,6 +48117,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Castañares de Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Haro</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.302940">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.853045 42.573261 </gml:lowerCorner>
+        		<gml:upperCorner>-2.853045 42.573261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.853045 42.573261 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza Castañares de Rioja</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Haro</ms:NOMBRE_POBLAMIENTO>

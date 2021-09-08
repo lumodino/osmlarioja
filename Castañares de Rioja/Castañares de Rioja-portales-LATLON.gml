@@ -7258,6 +7258,258 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.277959">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.928727 42.510422 </gml:lowerCorner>
+        		<gml:upperCorner>-2.928727 42.510422 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.928727 42.510422 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.278802">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.929752 42.507486 </gml:lowerCorner>
+        		<gml:upperCorner>-2.929752 42.507486 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.929752 42.507486 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.278807">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.929921 42.507095 </gml:lowerCorner>
+        		<gml:upperCorner>-2.929921 42.507095 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.929921 42.507095 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.278840">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930097 42.506681 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930097 42.506681 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.930097 42.506681 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.278808">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930264 42.506418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930264 42.506418 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.930264 42.506418 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>A</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.278849">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.930359 42.506152 </gml:lowerCorner>
+        		<gml:upperCorner>-2.930359 42.506152 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.930359 42.506152 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.277928">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.928706 42.510276 </gml:lowerCorner>
+        		<gml:upperCorner>-2.928706 42.510276 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.928706 42.510276 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.277958">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.929969 42.510500 </gml:lowerCorner>
+        		<gml:upperCorner>-2.929969 42.510500 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.929969 42.510500 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.277929">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.928880 42.509717 </gml:lowerCorner>
+        		<gml:upperCorner>-2.928880 42.509717 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.928880 42.509717 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.277956">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.929059 42.509361 </gml:lowerCorner>
+        		<gml:upperCorner>-2.929059 42.509361 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.929059 42.509361 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.277955">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.929105 42.509208 </gml:lowerCorner>
+        		<gml:upperCorner>-2.929105 42.509208 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.929105 42.509208 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.277122">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.929617 42.507810 </gml:lowerCorner>
+        		<gml:upperCorner>-2.929617 42.507810 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.929617 42.507810 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Fuente Corta</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26240</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Castañares de Rioja</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Castañares de Rioja</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.277127">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
