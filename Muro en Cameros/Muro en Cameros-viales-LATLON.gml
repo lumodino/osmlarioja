@@ -1445,7 +1445,7 @@
             <gml:posList srsDimension="2">-2.529181 42.224217  -2.529433 42.224041  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Muro en Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro en Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

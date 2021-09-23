@@ -445,7 +445,7 @@
             <gml:posList srsDimension="2">-2.256227 42.424354  -2.256186 42.424390  -2.256153 42.424430  -2.256128 42.424472  -2.256111 42.424517  -2.256103 42.424564  -2.256103 42.424610  -2.256113 42.424656  -2.256131 42.424701  -2.256158 42.424743  -2.256192 42.424783  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -465,7 +465,7 @@
             <gml:posList srsDimension="2">-2.256691 42.424269  -2.256732 42.424281  -2.256746 42.424286  -2.256797 42.424307  -2.256844 42.424334  -2.256886 42.424365  -2.256922 42.424400  -2.256951 42.424438  -2.256974 42.424478  -2.256989 42.424521  -2.256996 42.424564  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -485,7 +485,7 @@
             <gml:posList srsDimension="2">-2.253835 42.434295  -2.253607 42.434639  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -505,7 +505,7 @@
             <gml:posList srsDimension="2">-2.249923 42.433808  -2.250121 42.433300  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -525,7 +525,7 @@
             <gml:posList srsDimension="2">-2.259383 42.429943  -2.259197 42.430290  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -545,7 +545,7 @@
             <gml:posList srsDimension="2">-2.252324 42.424321  -2.252382 42.424265  -2.252559 42.424190  -2.252787 42.424169  -2.252878 42.424199  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -565,7 +565,7 @@
             <gml:posList srsDimension="2">-2.253880 42.431204  -2.253786 42.431179  -2.253440 42.431111  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -585,7 +585,7 @@
             <gml:posList srsDimension="2">-2.253593 42.422717  -2.256121 42.423373  -2.256207 42.423365  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -605,7 +605,7 @@
             <gml:posList srsDimension="2">-2.263262 42.426091  -2.263244 42.426087  -2.263211 42.426080  -2.263196 42.426076  -2.263180 42.426073  -2.263165 42.426072  -2.263146 42.426070  -2.263118 42.426068  -2.263103 42.426067  -2.263095 42.426067  -2.263088 42.426067  -2.263063 42.426068  -2.263029 42.426070  -2.263025 42.426070  -2.263005 42.426074  -2.262970 42.426080  -2.262950 42.426084  -2.262935 42.426088  -2.262914 42.426095  -2.262879 42.426107  -2.262878 42.426107  -2.262861 42.426115  -2.262830 42.426131  -2.262814 42.426139  -2.262812 42.426140  -2.262789 42.426156  -2.262772 42.426169  -2.262757 42.426179  -2.262753 42.426183  -2.262726 42.426211  -2.262710 42.426227  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -625,7 +625,7 @@
             <gml:posList srsDimension="2">-2.256362 42.423152  -2.256210 42.423120  -2.254989 42.422797  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -645,7 +645,7 @@
             <gml:posList srsDimension="2">-2.256897 42.424792  -2.256861 42.424821  -2.256822 42.424847  -2.256778 42.424868  -2.256732 42.424886  -2.256679 42.424903  -2.256623 42.424912  -2.256566 42.424915  -2.256507 42.424913  -2.256449 42.424906  -2.256433 42.424903  -2.256392 42.424894  -2.256391 42.424893  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -665,7 +665,7 @@
             <gml:posList srsDimension="2">-2.256996 42.424564  -2.256996 42.424605  -2.256989 42.424646  -2.256975 42.424685  -2.256955 42.424723  -2.256929 42.424759  -2.256897 42.424792  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -685,7 +685,7 @@
             <gml:posList srsDimension="2">-2.262710 42.426227  -2.262708 42.426229  -2.262704 42.426235  -2.262677 42.426277  -2.262675 42.426280  -2.262674 42.426284  -2.262673 42.426287  -2.262655 42.426330  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -705,7 +705,7 @@
             <gml:posList srsDimension="2">-2.253354 42.435020  -2.253206 42.435368  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -725,7 +725,7 @@
             <gml:posList srsDimension="2">-2.263447 42.426597  -2.263458 42.426585  -2.263458 42.426584  -2.263467 42.426574  -2.263477 42.426562  -2.263478 42.426561  -2.263484 42.426554  -2.263485 42.426553  -2.263489 42.426549  -2.263490 42.426546  -2.263491 42.426545  -2.263497 42.426533  -2.263505 42.426521  -2.263516 42.426500  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -745,7 +745,7 @@
             <gml:posList srsDimension="2">-2.254594 42.432984  -2.254559 42.433059  -2.254231 42.433790  -2.254027 42.434006  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -765,7 +765,7 @@
             <gml:posList srsDimension="2">-2.253631 42.431781  -2.253231 42.431692  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -785,7 +785,7 @@
             <gml:posList srsDimension="2">-2.262952 42.426711  -2.262975 42.426715  -2.263008 42.426721  -2.263020 42.426723  -2.263024 42.426723  -2.263056 42.426725  -2.263075 42.426726  -2.263090 42.426727  -2.263104 42.426727  -2.263127 42.426725  -2.263138 42.426725  -2.263159 42.426724  -2.263164 42.426723  -2.263194 42.426718  -2.263221 42.426713  -2.263228 42.426712  -2.263248 42.426706  -2.263263 42.426701  -2.263290 42.426693  -2.263292 42.426692  -2.263301 42.426689  -2.263320 42.426680  -2.263344 42.426669  -2.263352 42.426665  -2.263362 42.426660  -2.263377 42.426650  -2.263379 42.426649  -2.263390 42.426642  -2.263406 42.426632  -2.263447 42.426597  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -805,7 +805,7 @@
             <gml:posList srsDimension="2">-2.262655 42.426330  -2.262651 42.426358  -2.262646 42.426389  -2.262647 42.426397  -2.262649 42.426416  -2.262650 42.426434  -2.262651 42.426447  -2.262652 42.426448  -2.262654 42.426454  -2.262663 42.426480  -2.262667 42.426493  -2.262672 42.426508  -2.262673 42.426509  -2.262676 42.426514  -2.262689 42.426535  -2.262694 42.426544  -2.262705 42.426560  -2.262708 42.426564  -2.262720 42.426577  -2.262737 42.426595  -2.262749 42.426608  -2.262755 42.426613  -2.262771 42.426624  -2.262774 42.426626  -2.262795 42.426642  -2.262810 42.426653  -2.262813 42.426654  -2.262833 42.426664  -2.262857 42.426677  -2.262874 42.426685  -2.262880 42.426687  -2.262904 42.426695  -2.262952 42.426711  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -825,7 +825,7 @@
             <gml:posList srsDimension="2">-2.263516 42.426500  -2.263535 42.426439  -2.263535 42.426436  -2.263536 42.426420  -2.263536 42.426402  -2.263537 42.426396  -2.263538 42.426376  -2.263537 42.426375  -2.263533 42.426353  -2.263528 42.426331  -2.263526 42.426319  -2.263522 42.426311  -2.263512 42.426290  -2.263503 42.426270  -2.263498 42.426259  -2.263491 42.426250  -2.263476 42.426231  -2.263461 42.426213  -2.263455 42.426204  -2.263445 42.426196  -2.263435 42.426187  -2.263419 42.426174  -2.263400 42.426157  -2.263399 42.426157  -2.263382 42.426147  -2.263357 42.426133  -2.263342 42.426124  -2.263331 42.426118  -2.263313 42.426111  -2.263299 42.426105  -2.263262 42.426091  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -845,7 +845,7 @@
             <gml:posList srsDimension="2">-2.253607 42.434639  -2.253354 42.435020  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -865,7 +865,7 @@
             <gml:posList srsDimension="2">-2.254027 42.434006  -2.253835 42.434295  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -885,7 +885,7 @@
             <gml:posList srsDimension="2">-2.256691 42.424269  -2.256630 42.424257  -2.256567 42.424252  -2.256504 42.424254  -2.256442 42.424262  -2.256382 42.424276  -2.256325 42.424296  -2.256273 42.424323  -2.256227 42.424354  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -905,7 +905,7 @@
             <gml:posList srsDimension="2">-2.256192 42.424783  -2.256233 42.424818  -2.256281 42.424849  -2.256334 42.424874  -2.256391 42.424893  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -925,7 +925,7 @@
             <gml:posList srsDimension="2">-2.249931 42.430990  -2.250381 42.431076  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -945,7 +945,7 @@
             <gml:posList srsDimension="2">-2.253103 42.424730  -2.253038 42.424805  -2.252804 42.424883  -2.252547 42.424870  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -965,7 +965,7 @@
             <gml:posList srsDimension="2">-2.252878 42.424199  -2.252989 42.424234  -2.253125 42.424344  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -985,7 +985,7 @@
             <gml:posList srsDimension="2">-2.253125 42.424344  -2.253196 42.424487  -2.253155 42.424669  -2.253103 42.424730  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1005,7 +1005,7 @@
             <gml:posList srsDimension="2">-2.252547 42.424870  -2.252415 42.424815  -2.252315 42.424726  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1025,7 +1025,7 @@
             <gml:posList srsDimension="2">-2.252315 42.424726  -2.252275 42.424689  -2.252231 42.424541  -2.252260 42.424383  -2.252324 42.424321  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1045,7 +1045,7 @@
             <gml:posList srsDimension="2">-2.254989 42.422797  -2.253717 42.422459  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

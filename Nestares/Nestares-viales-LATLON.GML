@@ -285,7 +285,7 @@
             <gml:posList srsDimension="2">-2.619762 42.271440  -2.620044 42.271482  -2.620169 42.271543  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nestares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nestares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -305,7 +305,7 @@
             <gml:posList srsDimension="2">-2.618908 42.270371  -2.618784 42.270401  -2.618706 42.270419  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nestares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nestares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -325,7 +325,7 @@
             <gml:posList srsDimension="2">-2.617709 42.269850  -2.618125 42.269959  -2.618140 42.269960  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nestares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nestares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.618140 42.269960  -2.618251 42.269972  -2.618475 42.269950  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nestares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nestares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-2.618140 42.269960  -2.618039 42.270123  -2.617990 42.270184  -2.617955 42.270232  -2.617953 42.270285  -2.617973 42.270364  -2.617970 42.270400  -2.617940 42.270449  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nestares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nestares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -385,7 +385,7 @@
             <gml:posList srsDimension="2">-2.620038 42.270640  -2.620041 42.270733  -2.620041 42.270822  -2.620074 42.270868  -2.620098 42.270918  -2.620085 42.271006  -2.620060 42.271144  -2.620030 42.271291  -2.620079 42.271417  -2.620169 42.271543  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nestares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nestares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

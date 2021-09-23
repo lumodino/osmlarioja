@@ -1565,7 +1565,7 @@
             <gml:posList srsDimension="2">-2.112286 42.133328  -2.112328 42.133324  -2.112392 42.133475  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1585,7 +1585,7 @@
             <gml:posList srsDimension="2">-2.110824 42.133103  -2.110948 42.133043  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1605,7 +1605,7 @@
             <gml:posList srsDimension="2">-2.112070 42.133452  -2.112104 42.133420  -2.112123 42.133403  -2.112263 42.133330  -2.112286 42.133328  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Muro de Aguas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Muro de Aguas</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

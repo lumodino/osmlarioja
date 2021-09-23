@@ -1585,7 +1585,7 @@
             <gml:posList srsDimension="2">-2.688827 42.426987  -2.688761 42.427179  -2.688625 42.427415  -2.688574 42.427464  -2.688348 42.427624  -2.688276 42.427683  -2.688237 42.427731  -2.688247 42.427851  -2.688279 42.428082  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Huércanos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Huércanos</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1605,7 +1605,7 @@
             <gml:posList srsDimension="2">-2.699186 42.430118  -2.699026 42.430029  -2.698490 42.429794  -2.698084 42.429587  -2.697816 42.429546  -2.697375 42.429553  -2.697124 42.429581  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Huércanos</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Huércanos</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

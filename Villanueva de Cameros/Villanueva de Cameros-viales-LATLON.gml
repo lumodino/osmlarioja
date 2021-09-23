@@ -85,7 +85,7 @@
             <gml:posList srsDimension="2">-2.650016 42.167505  -2.649973 42.167602  -2.649951 42.167668  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villanueva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villanueva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

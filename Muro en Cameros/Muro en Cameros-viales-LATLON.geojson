@@ -73,7 +73,7 @@
 { "type": "Feature", "properties": { "gml_id": "viales.1535179", "NOMBRE_COMPLETO_VIAL": "Calle El Caño", "NOMBRE_POBLAMIENTO": "Muro en Cameros", "NOMBRE_MUNICIPIO": "Muro en Cameros", "COD_CATASTRAL_VIAL": "26.102.1", "COD_INE_VIAL": "2610100020" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.531402, 42.225161 ], [ -2.531487, 42.225257 ], [ -2.531632, 42.225333 ], [ -2.531863, 42.225383 ] ] } },
 { "type": "Feature", "properties": { "gml_id": "viales.1535180", "NOMBRE_COMPLETO_VIAL": "Calle El Caño", "NOMBRE_POBLAMIENTO": "Muro en Cameros", "NOMBRE_MUNICIPIO": "Muro en Cameros", "COD_CATASTRAL_VIAL": "26.102.1", "COD_INE_VIAL": "2610100020" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.531863, 42.225383 ], [ -2.531956, 42.225382 ], [ -2.532069, 42.225414 ] ] } },
 { "type": "Feature", "properties": { "gml_id": "viales.1535182", "NOMBRE_COMPLETO_VIAL": "Calle El Caño", "NOMBRE_POBLAMIENTO": "Muro en Cameros", "NOMBRE_MUNICIPIO": "Muro en Cameros", "COD_CATASTRAL_VIAL": "26.102.1", "COD_INE_VIAL": "2610100020" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.531863, 42.225383 ], [ -2.531789, 42.225465 ], [ -2.531745, 42.225603 ] ] } },
-{ "type": "Feature", "properties": { "gml_id": "viales.1535183", "NOMBRE_COMPLETO_VIAL": "No definido Sin nombre", "NOMBRE_POBLAMIENTO": "Muro en Cameros", "NOMBRE_MUNICIPIO": "Muro en Cameros" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.529181, 42.224217 ], [ -2.529433, 42.224041 ] ] } }
+{ "type": "Feature", "properties": { "gml_id": "viales.1535183", "NOMBRE_POBLAMIENTO": "Muro en Cameros", "NOMBRE_MUNICIPIO": "Muro en Cameros" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.529181, 42.224217 ], [ -2.529433, 42.224041 ] ] } }
 ]
 }
 

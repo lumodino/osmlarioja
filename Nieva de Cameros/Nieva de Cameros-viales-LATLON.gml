@@ -545,7 +545,7 @@
             <gml:posList srsDimension="2">-2.668374 42.217167  -2.668390 42.217006  -2.668412 42.216923  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -565,7 +565,7 @@
             <gml:posList srsDimension="2">-2.668412 42.216923  -2.668425 42.216872  -2.668536 42.216694  -2.668732 42.216451  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -585,7 +585,7 @@
             <gml:posList srsDimension="2">-2.668412 42.216923  -2.668442 42.216710  -2.668563 42.216459  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -605,7 +605,7 @@
             <gml:posList srsDimension="2">-2.666954 42.218647  -2.667055 42.218472  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -625,7 +625,7 @@
             <gml:posList srsDimension="2">-2.665958 42.218355  -2.665803 42.218275  -2.665760 42.218198  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -645,7 +645,7 @@
             <gml:posList srsDimension="2">-2.668206 42.216264  -2.668194 42.216395  -2.668281 42.216944  -2.668307 42.217051  -2.668374 42.217167  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -665,7 +665,7 @@
             <gml:posList srsDimension="2">-2.668293 42.215950  -2.668206 42.216264  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -685,7 +685,7 @@
             <gml:posList srsDimension="2">-2.665814 42.218380  -2.665807 42.218467  -2.665797 42.218504  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -705,7 +705,7 @@
             <gml:posList srsDimension="2">-2.666931 42.218183  -2.666919 42.218221  -2.666907 42.218277  -2.666901 42.218324  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nieva de Cameros</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nieva de Cameros</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

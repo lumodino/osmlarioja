@@ -1045,7 +1045,7 @@
             <gml:posList srsDimension="2">-2.862781 42.328558  -2.862832 42.328590  -2.862906 42.328628  -2.862960 42.328662  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1065,7 +1065,7 @@
             <gml:posList srsDimension="2">-2.866341 42.327905  -2.866330 42.328010  -2.866444 42.328216  -2.866538 42.328273  -2.866686 42.328310  -2.866731 42.328349  -2.866724 42.328395  -2.866649 42.328446  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1085,7 +1085,7 @@
             <gml:posList srsDimension="2">-2.866341 42.327905  -2.866547 42.327962  -2.866795 42.328030  -2.866889 42.328029  -2.866968 42.327974  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1105,7 +1105,7 @@
             <gml:posList srsDimension="2">-2.864955 42.328048  -2.865263 42.328007  -2.865385 42.327970  -2.865920 42.327885  -2.866210 42.327853  -2.866341 42.327905  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1125,7 +1125,7 @@
             <gml:posList srsDimension="2">-2.862960 42.328662  -2.863088 42.328759  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1145,7 +1145,7 @@
             <gml:posList srsDimension="2">-2.866341 42.327905  -2.866267 42.327946  -2.865892 42.328203  -2.865682 42.328364  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1165,7 +1165,7 @@
             <gml:posList srsDimension="2">-2.861226 42.329745  -2.861117 42.329670  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Millán de la Cogolla</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Millán de la Cogolla</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

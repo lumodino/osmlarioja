@@ -865,7 +865,7 @@
             <gml:posList srsDimension="2">-2.768254 42.374773  -2.767980 42.374762  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cárdenas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cárdenas</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

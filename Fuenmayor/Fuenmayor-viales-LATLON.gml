@@ -3945,7 +3945,7 @@
             <gml:posList srsDimension="2">-2.564740 42.467354  -2.565921 42.466734  -2.565950 42.466683  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3965,7 +3965,7 @@
             <gml:posList srsDimension="2">-2.567087 42.468793  -2.566929 42.468754  -2.566626 42.468673  -2.566314 42.468587  -2.566213 42.468561  -2.566144 42.468531  -2.566103 42.468473  -2.566064 42.468407  -2.566056 42.468379  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3985,7 +3985,7 @@
             <gml:posList srsDimension="2">-2.557458 42.467463  -2.557780 42.467470  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4005,7 +4005,7 @@
             <gml:posList srsDimension="2">-2.565950 42.466683  -2.565919 42.466599  -2.565562 42.466204  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4025,7 +4025,7 @@
             <gml:posList srsDimension="2">-2.557780 42.467470  -2.557844 42.467478  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4045,7 +4045,7 @@
             <gml:posList srsDimension="2">-2.559631 42.465362  -2.559700 42.465171  -2.559878 42.464810  -2.559970 42.464736  -2.560156 42.464660  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4065,7 +4065,7 @@
             <gml:posList srsDimension="2">-2.564740 42.467354  -2.564396 42.467000  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4085,7 +4085,7 @@
             <gml:posList srsDimension="2">-2.564318 42.468183  -2.563528 42.467985  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4105,7 +4105,7 @@
             <gml:posList srsDimension="2">-2.561369 42.469480  -2.560634 42.469700  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4125,7 +4125,7 @@
             <gml:posList srsDimension="2">-2.557649 42.466468  -2.557810 42.466468  -2.557922 42.466464  -2.558065 42.466447  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4145,7 +4145,7 @@
             <gml:posList srsDimension="2">-2.566756 42.465957  -2.566102 42.465884  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4165,7 +4165,7 @@
             <gml:posList srsDimension="2">-2.566056 42.468379  -2.564783 42.468204  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4185,7 +4185,7 @@
             <gml:posList srsDimension="2">-2.564783 42.468204  -2.564318 42.468183  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4205,7 +4205,7 @@
             <gml:posList srsDimension="2">-2.564229 42.467486  -2.564022 42.467252  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4225,7 +4225,7 @@
             <gml:posList srsDimension="2">-2.557798 42.467249  -2.557783 42.467427  -2.557780 42.467470  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4245,7 +4245,7 @@
             <gml:posList srsDimension="2">-2.556521 42.469453  -2.556597 42.469612  -2.556716 42.469836  -2.556825 42.470215  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4265,7 +4265,7 @@
             <gml:posList srsDimension="2">-2.556825 42.470215  -2.556867 42.470317  -2.556880 42.470410  -2.556870 42.470525  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4285,7 +4285,7 @@
             <gml:posList srsDimension="2">-2.556870 42.470525  -2.556848 42.470607  -2.556813 42.470754  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4305,7 +4305,7 @@
             <gml:posList srsDimension="2">-2.556825 42.470215  -2.556743 42.470228  -2.556670 42.470275  -2.556635 42.470317  -2.556626 42.470361  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4325,7 +4325,7 @@
             <gml:posList srsDimension="2">-2.556626 42.470361  -2.556338 42.470366  -2.555916 42.470358  -2.555568 42.470363  -2.554926 42.470358  -2.554488 42.470355  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4345,7 +4345,7 @@
             <gml:posList srsDimension="2">-2.556626 42.470361  -2.556626 42.470415  -2.556685 42.470486  -2.556750 42.470511  -2.556870 42.470525  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4365,7 +4365,7 @@
             <gml:posList srsDimension="2">-2.559237 42.469172  -2.558934 42.469125  -2.558626 42.469076  -2.558463 42.469054  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4385,7 +4385,7 @@
             <gml:posList srsDimension="2">-2.558463 42.469054  -2.558283 42.469030  -2.557910 42.468974  -2.557326 42.468877  -2.557147 42.468847  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Fuenmayor</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Fuenmayor</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

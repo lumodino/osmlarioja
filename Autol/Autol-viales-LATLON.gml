@@ -1385,7 +1385,7 @@
             <gml:posList srsDimension="2">-2.010575 42.218879  -2.010787 42.218368  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-2.010796 42.218928  -2.010998 42.218454  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-2.007556 42.218835  -2.007603 42.218651  -2.007381 42.218533  -2.007361 42.218323  -2.007288 42.218220  -2.007306 42.218075  -2.007030 42.217688  -2.006911 42.217602  -2.006733 42.217530  -2.006688 42.217465  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1445,7 +1445,7 @@
             <gml:posList srsDimension="2">-2.006374 42.220152  -2.006263 42.220235  -2.005956 42.220663  -2.005314 42.221396  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1465,7 +1465,7 @@
             <gml:posList srsDimension="2">-2.005055 42.221677  -2.005065 42.221662  -2.005123 42.221591  -2.005209 42.221524  -2.005277 42.221438  -2.005314 42.221396  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1485,7 +1485,7 @@
             <gml:posList srsDimension="2">-2.004212 42.214574  -2.004225 42.214538  -2.004375 42.214100  -2.004391 42.214053  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1505,7 +1505,7 @@
             <gml:posList srsDimension="2">-2.006425 42.223011  -2.006279 42.223021  -2.006126 42.223017  -2.006047 42.223005  -2.006022 42.222999  -2.006001 42.222987  -2.005986 42.222972  -2.005978 42.222953  -2.005976 42.222940  -2.005956 42.222885  -2.005953 42.222777  -2.005952 42.222690  -2.005941 42.222578  -2.005881 42.222580  -2.005875 42.222580  -2.005851 42.222580  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1525,7 +1525,7 @@
             <gml:posList srsDimension="2">-2.010796 42.218928  -2.011389 42.219076  -2.011606 42.219006  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1545,7 +1545,7 @@
             <gml:posList srsDimension="2">-2.010575 42.218879  -2.010796 42.218928  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1565,7 +1565,7 @@
             <gml:posList srsDimension="2">-2.011288 42.218572  -2.010998 42.218454  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1585,7 +1585,7 @@
             <gml:posList srsDimension="2">-2.010998 42.218454  -2.010787 42.218368  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

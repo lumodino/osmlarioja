@@ -1945,7 +1945,7 @@
             <gml:posList srsDimension="2">-1.993384 41.961463  -1.993289 41.961559  -1.993277 41.961570  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Aguilar del Río Alhama</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Aguilar del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

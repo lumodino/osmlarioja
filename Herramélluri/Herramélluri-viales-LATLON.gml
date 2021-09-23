@@ -225,7 +225,7 @@
             <gml:posList srsDimension="2">-3.025500 42.500252  -3.025591 42.500268  -3.025750 42.500292  -3.025868 42.500310  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Velasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herramélluri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -245,7 +245,7 @@
             <gml:posList srsDimension="2">-3.025556 42.499776  -3.025531 42.500115  -3.025519 42.500169  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Velasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herramélluri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -265,7 +265,7 @@
             <gml:posList srsDimension="2">-3.025519 42.500169  -3.025500 42.500252  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Velasco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herramélluri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-3.020627 42.501266  -3.020432 42.501313  -3.020287 42.501311  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herramélluri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herramélluri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-3.019724 42.504280  -3.019603 42.504276  -3.019510 42.504303  -3.019370 42.504390  -3.019182 42.504548  -3.019097 42.504586  -3.019016 42.504597  -3.018930 42.504586  -3.018856 42.504559  -3.018510 42.504359  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herramélluri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herramélluri</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

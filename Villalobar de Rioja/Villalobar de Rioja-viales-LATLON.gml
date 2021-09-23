@@ -1045,7 +1045,7 @@
             <gml:posList srsDimension="2">-2.959405 42.493981  -2.958944 42.493778  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalobar de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalobar de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1065,7 +1065,7 @@
             <gml:posList srsDimension="2">-2.959791 42.494150  -2.959405 42.493981  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalobar de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalobar de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1085,7 +1085,7 @@
             <gml:posList srsDimension="2">-2.959405 42.493981  -2.959150 42.494336  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalobar de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalobar de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1105,7 +1105,7 @@
             <gml:posList srsDimension="2">-2.966235 42.490313  -2.966189 42.490198  -2.966151 42.490091  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalobar de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalobar de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1125,7 +1125,7 @@
             <gml:posList srsDimension="2">-2.965563 42.490543  -2.965484 42.490483  -2.965349 42.490260  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalobar de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalobar de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1145,7 +1145,7 @@
             <gml:posList srsDimension="2">-2.966151 42.490091  -2.966092 42.489978  -2.966052 42.489895  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Villalobar de Rioja</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Villalobar de Rioja</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

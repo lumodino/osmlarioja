@@ -1365,7 +1365,7 @@
             <gml:posList srsDimension="2">-2.718922 42.402863  -2.718872 42.402669  -2.718745 42.402505  -2.718719 42.402445  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1385,7 +1385,7 @@
             <gml:posList srsDimension="2">-2.719084 42.403057  -2.718954 42.402871  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Tricio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Tricio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

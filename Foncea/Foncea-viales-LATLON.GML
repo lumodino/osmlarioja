@@ -45,7 +45,7 @@
             <gml:posList srsDimension="2">-3.039597 42.616746  -3.039637 42.616759  -3.039789 42.616726  -3.040112 42.616547  -3.040227 42.616505  -3.040230 42.616504  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Foncea</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Foncea</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

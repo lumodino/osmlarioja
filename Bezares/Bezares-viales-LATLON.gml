@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-2.670058 42.370712  -2.669945 42.370754  -2.669740 42.370804  -2.669594 42.370808  -2.669263 42.370734  -2.669136 42.370725  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bezares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bezares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -385,7 +385,7 @@
             <gml:posList srsDimension="2">-2.671630 42.370975  -2.671759 42.370887  -2.671614 42.370674  -2.671512 42.370613  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bezares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bezares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -405,7 +405,7 @@
             <gml:posList srsDimension="2">-2.671088 42.369801  -2.671486 42.370089  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bezares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bezares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -425,7 +425,7 @@
             <gml:posList srsDimension="2">-2.671600 42.370190  -2.671801 42.370209  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bezares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bezares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -445,7 +445,7 @@
             <gml:posList srsDimension="2">-2.671458 42.370112  -2.671600 42.370190  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bezares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bezares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -465,7 +465,7 @@
             <gml:posList srsDimension="2">-2.670717 42.370695  -2.670637 42.370731  -2.670474 42.370868  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Bezares</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Bezares</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

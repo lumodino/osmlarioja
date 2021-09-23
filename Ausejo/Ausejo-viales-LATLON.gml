@@ -605,7 +605,7 @@
             <gml:posList srsDimension="2">-2.167530 42.342715  -2.167552 42.342605  -2.167583 42.342495  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -625,7 +625,7 @@
             <gml:posList srsDimension="2">-2.167583 42.342495  -2.167604 42.342455  -2.167645 42.342249  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -645,7 +645,7 @@
             <gml:posList srsDimension="2">-2.167645 42.342249  -2.167648 42.342150  -2.167708 42.342083  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -665,7 +665,7 @@
             <gml:posList srsDimension="2">-2.170329 42.344098  -2.170246 42.344138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -685,7 +685,7 @@
             <gml:posList srsDimension="2">-2.167959 42.339538  -2.167956 42.339722  -2.167753 42.340126  -2.167653 42.340437  -2.167569 42.340711  -2.167506 42.340772  -2.167257 42.340841  -2.167233 42.340857  -2.167197 42.340991  -2.167234 42.341062  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -705,7 +705,7 @@
             <gml:posList srsDimension="2">-2.169932 42.341260  -2.169940 42.341306  -2.169948 42.341359  -2.169951 42.341372  -2.169960 42.341387  -2.169916 42.341483  -2.169920 42.341678  -2.169874 42.341766  -2.169785 42.341840  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -725,7 +725,7 @@
             <gml:posList srsDimension="2">-2.170479 42.343189  -2.170478 42.343220  -2.170426 42.343380  -2.170471 42.343506  -2.170662 42.343609  -2.170893 42.343673  -2.171062 42.343763  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -745,7 +745,7 @@
             <gml:posList srsDimension="2">-2.168906 42.341181  -2.168935 42.341032  -2.168912 42.340539  -2.168852 42.340469  -2.168702 42.340419  -2.168654 42.340374  -2.168640 42.340148  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -765,7 +765,7 @@
             <gml:posList srsDimension="2">-2.165538 42.339536  -2.165043 42.340598  -2.164989 42.340905  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -785,7 +785,7 @@
             <gml:posList srsDimension="2">-2.169907 42.342776  -2.170140 42.342774  -2.170309 42.342779  -2.170401 42.342809  -2.170471 42.342985  -2.170478 42.343079  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -805,7 +805,7 @@
             <gml:posList srsDimension="2">-2.171062 42.343763  -2.171108 42.343788  -2.171337 42.343863  -2.171564 42.344018  -2.171583 42.344105  -2.171438 42.344258  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -825,7 +825,7 @@
             <gml:posList srsDimension="2">-2.170585 42.340578  -2.170597 42.340608  -2.170614 42.340789  -2.170632 42.340870  -2.170641 42.340938  -2.170630 42.340971  -2.170624 42.340989  -2.170622 42.340994  -2.170604 42.341024  -2.170580 42.341065  -2.170555 42.341108  -2.170554 42.341110  -2.170543 42.341125  -2.170515 42.341163  -2.170497 42.341188  -2.170479 42.341212  -2.170474 42.341218  -2.170469 42.341233  -2.170464 42.341247  -2.170463 42.341250  -2.170459 42.341267  -2.170446 42.341307  -2.170432 42.341351  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -845,7 +845,7 @@
             <gml:posList srsDimension="2">-2.169938 42.345960  -2.169796 42.345742  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -865,7 +865,7 @@
             <gml:posList srsDimension="2">-2.165677 42.342498  -2.165735 42.342475  -2.165829 42.342363  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -885,7 +885,7 @@
             <gml:posList srsDimension="2">-2.170966 42.343923  -2.170985 42.343837  -2.171030 42.343786  -2.171062 42.343763  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -905,7 +905,7 @@
             <gml:posList srsDimension="2">-2.172604 42.342462  -2.172460 42.342592  -2.172384 42.342668  -2.172212 42.342737  -2.171969 42.342783  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -925,7 +925,7 @@
             <gml:posList srsDimension="2">-2.171969 42.342783  -2.171811 42.342810  -2.171663 42.342893  -2.171578 42.342989  -2.171580 42.343075  -2.171621 42.343138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -945,7 +945,7 @@
             <gml:posList srsDimension="2">-2.171606 42.345202  -2.171618 42.345171  -2.171621 42.345096  -2.171631 42.345048  -2.171649 42.344944  -2.171665 42.344887  -2.171685 42.344825  -2.171731 42.344757  -2.171762 42.344689  -2.171769 42.344628  -2.171759 42.344565  -2.171717 42.344498  -2.171673 42.344444  -2.171613 42.344405  -2.171531 42.344354  -2.171473 42.344309  -2.171438 42.344258  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ausejo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

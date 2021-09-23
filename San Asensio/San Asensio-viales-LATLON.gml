@@ -4765,7 +4765,7 @@
             <gml:posList srsDimension="2">-2.752274 42.495098  -2.752422 42.495473  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4785,7 +4785,7 @@
             <gml:posList srsDimension="2">-2.748002 42.500870  -2.747775 42.500762  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4805,7 +4805,7 @@
             <gml:posList srsDimension="2">-2.747775 42.500762  -2.747575 42.500648  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4825,7 +4825,7 @@
             <gml:posList srsDimension="2">-2.755148 42.494984  -2.755185 42.495098  -2.755410 42.495523  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4845,7 +4845,7 @@
             <gml:posList srsDimension="2">-2.747221 42.495016  -2.747230 42.494798  -2.747276 42.494658  -2.747781 42.493900  -2.747931 42.493591  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4865,7 +4865,7 @@
             <gml:posList srsDimension="2">-2.755916 42.494884  -2.755861 42.494838  -2.755795 42.494829  -2.755677 42.494846  -2.755387 42.494941  -2.755186 42.494977  -2.755148 42.494984  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4885,7 +4885,7 @@
             <gml:posList srsDimension="2">-2.747575 42.500648  -2.747337 42.500532  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4905,7 +4905,7 @@
             <gml:posList srsDimension="2">-2.747337 42.500532  -2.747126 42.500417  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4925,7 +4925,7 @@
             <gml:posList srsDimension="2">-2.747126 42.500417  -2.746880 42.500320  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4945,7 +4945,7 @@
             <gml:posList srsDimension="2">-2.746974 42.495954  -2.746973 42.495889  -2.747021 42.495810  -2.747078 42.495783  -2.747167 42.495784  -2.747352 42.495821  -2.747539 42.495823  -2.747661 42.495811  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4965,7 +4965,7 @@
             <gml:posList srsDimension="2">-2.755148 42.494984  -2.755013 42.494845  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Asensio</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>San Asensio</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

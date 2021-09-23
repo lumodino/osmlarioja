@@ -3511,7 +3511,7 @@
             <gml:pos>-2.959288 42.494229 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3532,7 +3532,7 @@
             <gml:pos>-2.959214 42.494328 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3553,7 +3553,7 @@
             <gml:pos>-2.959144 42.494173 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3574,7 +3574,7 @@
             <gml:pos>-2.959272 42.494013 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3595,7 +3595,7 @@
             <gml:pos>-2.959404 42.494077 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3616,7 +3616,7 @@
             <gml:pos>-2.959736 42.494211 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3637,7 +3637,7 @@
             <gml:pos>-2.958952 42.493887 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>
@@ -3658,7 +3658,7 @@
             <gml:pos>-2.958833 42.494048 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26256</ms:CODIGO_POSTAL>

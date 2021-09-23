@@ -1965,7 +1965,7 @@
             <gml:posList srsDimension="2">-2.322227 42.402819  -2.322429 42.402957  -2.322506 42.403052  -2.323037 42.403986  -2.323106 42.404169  -2.323193 42.404672  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1985,7 +1985,7 @@
             <gml:posList srsDimension="2">-2.333295 42.399663  -2.333215 42.399609  -2.333191 42.399560  -2.333192 42.399439  -2.333229 42.399288  -2.333291 42.399143  -2.333577 42.398615  -2.333697 42.398335  -2.333826 42.398142  -2.333906 42.397915  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2005,7 +2005,7 @@
             <gml:posList srsDimension="2">-2.334492 42.397481  -2.334401 42.397743  -2.334329 42.397833  -2.334143 42.397989  -2.334045 42.398129  -2.333941 42.398319  -2.333727 42.398860  -2.333335 42.399527  -2.333295 42.399663  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2025,7 +2025,7 @@
             <gml:posList srsDimension="2">-2.324082 42.396544  -2.323672 42.396220  -2.323569 42.396198  -2.323293 42.396225  -2.323266 42.396241  -2.323364 42.396572  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2045,7 +2045,7 @@
             <gml:posList srsDimension="2">-2.325487 42.404581  -2.325841 42.404517  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2065,7 +2065,7 @@
             <gml:posList srsDimension="2">-2.325939 42.404771  -2.325873 42.404786  -2.325760 42.404832  -2.325638 42.404882  -2.325599 42.404891  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2085,7 +2085,7 @@
             <gml:posList srsDimension="2">-2.325721 42.399043  -2.325907 42.399057  -2.326146 42.399013  -2.326360 42.398860  -2.326538 42.398688  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2105,7 +2105,7 @@
             <gml:posList srsDimension="2">-2.327678 42.401739  -2.327689 42.401788  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2125,7 +2125,7 @@
             <gml:posList srsDimension="2">-2.327678 42.401739  -2.327667 42.401620  -2.327623 42.401349  -2.327688 42.401117  -2.327715 42.400911  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2145,7 +2145,7 @@
             <gml:posList srsDimension="2">-2.327153 42.399899  -2.327257 42.399689  -2.327397 42.399524  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2165,7 +2165,7 @@
             <gml:posList srsDimension="2">-2.333295 42.399663  -2.333333 42.399769  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2185,7 +2185,7 @@
             <gml:posList srsDimension="2">-2.327397 42.399524  -2.327490 42.399455  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2205,7 +2205,7 @@
             <gml:posList srsDimension="2">-2.325745 42.399623  -2.326126 42.399685  -2.326457 42.399849  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2225,7 +2225,7 @@
             <gml:posList srsDimension="2">-2.325118 42.404675  -2.325194 42.404647  -2.325487 42.404581  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

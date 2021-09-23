@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-2.890628 42.416699  -2.890587 42.416667  -2.890561 42.416644  -2.890076 42.416218  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-2.887674 42.416326  -2.887873 42.416437  -2.887904 42.416521  -2.888243 42.416830  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1445,7 +1445,7 @@
             <gml:posList srsDimension="2">-2.886780 42.417740  -2.887381 42.418288  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1465,7 +1465,7 @@
             <gml:posList srsDimension="2">-2.890628 42.416699  -2.890241 42.416949  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1485,7 +1485,7 @@
             <gml:posList srsDimension="2">-2.892492 42.415500  -2.891286 42.415462  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1505,7 +1505,7 @@
             <gml:posList srsDimension="2">-2.894759 42.409779  -2.894342 42.409973  -2.894248 42.410037  -2.894255 42.410116  -2.895531 42.411862  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1525,7 +1525,7 @@
             <gml:posList srsDimension="2">-2.891286 42.415462  -2.890153 42.415419  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1545,7 +1545,7 @@
             <gml:posList srsDimension="2">-2.891540 42.417490  -2.891071 42.417091  -2.890628 42.416699  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1565,7 +1565,7 @@
             <gml:posList srsDimension="2">-2.890076 42.416218  -2.889764 42.415943  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1585,7 +1585,7 @@
             <gml:posList srsDimension="2">-2.891254 42.415745  -2.891286 42.415462  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1605,7 +1605,7 @@
             <gml:posList srsDimension="2">-2.891286 42.415462  -2.891298 42.415199  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1625,7 +1625,7 @@
             <gml:posList srsDimension="2">-2.890390 42.416020  -2.890076 42.416218  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cirueña</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cirueña</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

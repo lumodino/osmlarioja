@@ -25,7 +25,7 @@
             <gml:posList srsDimension="2">-2.764350 42.333471  -2.764337 42.333473  -2.764328 42.333475  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -45,7 +45,7 @@
             <gml:posList srsDimension="2">-2.757136 42.342221  -2.757131 42.342231  -2.757130 42.342234  -2.757128 42.342245  -2.757123 42.342270  -2.757123 42.342273  -2.757123 42.342285  -2.757125 42.342309  -2.757126 42.342317  -2.757126 42.342317  -2.757131 42.342332  -2.757138 42.342351  -2.757140 42.342356  -2.757146 42.342365  -2.757160 42.342388  -2.757163 42.342392  -2.757172 42.342401  -2.757192 42.342421  -2.757196 42.342425  -2.757207 42.342432  -2.757219 42.342440  -2.757238 42.342453  -2.757240 42.342454  -2.757250 42.342459  -2.757287 42.342474  -2.757311 42.342481  -2.757318 42.342482  -2.757330 42.342486  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -65,7 +65,7 @@
             <gml:posList srsDimension="2">-2.763564 42.330155  -2.763529 42.329686  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -85,7 +85,7 @@
             <gml:posList srsDimension="2">-2.756082 42.341936  -2.756094 42.341944  -2.756103 42.341949  -2.756117 42.341959  -2.756124 42.341964  -2.756140 42.341975  -2.756143 42.341976  -2.756157 42.341981  -2.756174 42.341988  -2.756181 42.341989  -2.756198 42.341994  -2.756220 42.341999  -2.756232 42.342002  -2.756280 42.342013  -2.756400 42.342043  -2.756429 42.342050  -2.756517 42.342071  -2.756598 42.342090  -2.756679 42.342110  -2.756715 42.342119  -2.756746 42.342126  -2.756777 42.342134  -2.756844 42.342151  -2.756920 42.342170  -2.756936 42.342174  -2.756940 42.342174  -2.756961 42.342179  -2.756964 42.342180  -2.756985 42.342185  -2.757008 42.342190  -2.757081 42.342208  -2.757095 42.342211  -2.757109 42.342215  -2.757136 42.342221  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -105,7 +105,7 @@
             <gml:posList srsDimension="2">-2.761368 42.334401  -2.761389 42.334405  -2.761631 42.334476  -2.761711 42.334499  -2.761728 42.334505  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -125,7 +125,7 @@
             <gml:posList srsDimension="2">-2.763246 42.330157  -2.763225 42.329705  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -145,7 +145,7 @@
             <gml:posList srsDimension="2">-2.765175 42.329611  -2.764982 42.329623  -2.764856 42.329675  -2.764759 42.329791  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -165,7 +165,7 @@
             <gml:posList srsDimension="2">-2.758922 42.331707  -2.758830 42.332058  -2.758785 42.332237  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -185,7 +185,7 @@
             <gml:posList srsDimension="2">-2.758922 42.331707  -2.759114 42.331004  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -205,7 +205,7 @@
             <gml:posList srsDimension="2">-2.757493 42.342085  -2.757466 42.342081  -2.757439 42.342079  -2.757412 42.342079  -2.757385 42.342081  -2.757358 42.342084  -2.757332 42.342089  -2.757306 42.342096  -2.757281 42.342105  -2.757258 42.342115  -2.757235 42.342126  -2.757214 42.342139  -2.757195 42.342153  -2.757177 42.342169  -2.757161 42.342185  -2.757148 42.342203  -2.757136 42.342221  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -225,7 +225,7 @@
             <gml:posList srsDimension="2">-2.762231 42.330059  -2.762218 42.329899  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -245,7 +245,7 @@
             <gml:posList srsDimension="2">-2.761578 42.330658  -2.761081 42.330628  -2.761009 42.330645  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -265,7 +265,7 @@
             <gml:posList srsDimension="2">-2.762231 42.330059  -2.762234 42.330158  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -285,7 +285,7 @@
             <gml:posList srsDimension="2">-2.762234 42.330158  -2.762237 42.330274  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -305,7 +305,7 @@
             <gml:posList srsDimension="2">-2.762237 42.330274  -2.762240 42.330400  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -325,7 +325,7 @@
             <gml:posList srsDimension="2">-2.764759 42.329791  -2.764711 42.329831  -2.764612 42.329990  -2.764549 42.330072  -2.764456 42.330124  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.761143 42.334022  -2.761088 42.333863  -2.761052 42.333770  -2.761057 42.333620  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Baños de Río Tobía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Baños de Río Tobía</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -25,7 +25,7 @@
             <gml:posList srsDimension="2">-2.554273 42.310974  -2.554187 42.310812  -2.554153 42.310679  -2.554153 42.310562  -2.554198 42.310456  -2.554386 42.310192  -2.554523 42.309968  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Castañares de las Cuevas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Viguera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

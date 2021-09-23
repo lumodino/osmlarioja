@@ -1165,7 +1165,7 @@
             <gml:posList srsDimension="2">-2.724798 42.355450  -2.725044 42.355540  -2.725267 42.355643  -2.725285 42.355653  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1185,7 +1185,7 @@
             <gml:posList srsDimension="2">-2.723199 42.351896  -2.723186 42.351867  -2.723147 42.351791  -2.723112 42.351717  -2.723095 42.351697  -2.723071 42.351681  -2.723056 42.351674  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1205,7 +1205,7 @@
             <gml:posList srsDimension="2">-2.725285 42.355653  -2.725426 42.355731  -2.725619 42.355851  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1225,7 +1225,7 @@
             <gml:posList srsDimension="2">-2.725285 42.355653  -2.725348 42.355665  -2.725456 42.355685  -2.725609 42.355713  -2.725765 42.355741  -2.725781 42.355744  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1245,7 +1245,7 @@
             <gml:posList srsDimension="2">-2.725534 42.355943  -2.725473 42.355899  -2.725251 42.355738  -2.725005 42.355579  -2.724939 42.355531  -2.724868 42.355487  -2.724798 42.355450  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1265,7 +1265,7 @@
             <gml:posList srsDimension="2">-2.724628 42.355383  -2.724792 42.355447  -2.724798 42.355450  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1285,7 +1285,7 @@
             <gml:posList srsDimension="2">-2.724151 42.354834  -2.724222 42.354789  -2.724284 42.354737  -2.724392 42.354623  -2.724533 42.354524  -2.724659 42.354459  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Camprovín</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Camprovín</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -1645,7 +1645,7 @@
             <gml:posList srsDimension="2">-2.833015 42.601620  -2.832873 42.601811  -2.832849 42.601848  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Briñas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Briñas</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

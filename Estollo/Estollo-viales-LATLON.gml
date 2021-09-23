@@ -765,7 +765,7 @@
             <gml:posList srsDimension="2">-2.849016 42.333104  -2.849068 42.332966  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>San Andrés del Valle</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Estollo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

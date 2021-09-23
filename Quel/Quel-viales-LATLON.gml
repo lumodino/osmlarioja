@@ -825,7 +825,7 @@
             <gml:posList srsDimension="2">-2.052428 42.226304  -2.052255 42.227091  -2.052180 42.227272  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -845,7 +845,7 @@
             <gml:posList srsDimension="2">-2.050137 42.225932  -2.049028 42.225731  -2.048975 42.225778  -2.048849 42.226166  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -865,7 +865,7 @@
             <gml:posList srsDimension="2">-2.047843 42.227553  -2.048084 42.227004  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -885,7 +885,7 @@
             <gml:posList srsDimension="2">-2.063896 42.233797  -2.063904 42.233783  -2.063914 42.233756  -2.063918 42.233728  -2.063915 42.233699  -2.063906 42.233672  -2.063890 42.233646  -2.063868 42.233623  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -905,7 +905,7 @@
             <gml:posList srsDimension="2">-2.063868 42.233623  -2.063842 42.233602  -2.063811 42.233586  -2.063778 42.233574  -2.063776 42.233574  -2.063740 42.233566  -2.063702 42.233563  -2.063664 42.233565  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -925,7 +925,7 @@
             <gml:posList srsDimension="2">-2.063664 42.233565  -2.063627 42.233572  -2.063592 42.233584  -2.063560 42.233600  -2.063533 42.233620  -2.063511 42.233643  -2.063494 42.233669  -2.063492 42.233674  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -945,7 +945,7 @@
             <gml:posList srsDimension="2">-2.045399 42.227334  -2.045501 42.227236  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -965,7 +965,7 @@
             <gml:posList srsDimension="2">-2.045501 42.227236  -2.045635 42.227108  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -985,7 +985,7 @@
             <gml:posList srsDimension="2">-2.050137 42.225932  -2.050195 42.225816  -2.050264 42.225749  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1005,7 +1005,7 @@
             <gml:posList srsDimension="2">-2.063492 42.233674  -2.063484 42.233696  -2.063480 42.233724  -2.063481 42.233730  -2.063483 42.233752  -2.063493 42.233780  -2.063508 42.233806  -2.063530 42.233829  -2.063557 42.233849  -2.063588 42.233866  -2.063622 42.233878  -2.063624 42.233878  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1025,7 +1025,7 @@
             <gml:posList srsDimension="2">-2.063624 42.233878  -2.063659 42.233886  -2.063697 42.233888  -2.063735 42.233886  -2.063752 42.233884  -2.063804 42.233871  -2.063826 42.233861  -2.063854 42.233848  -2.063854 42.233847  -2.063880 42.233818  -2.063886 42.233811  -2.063896 42.233797  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Quel</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Quel</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

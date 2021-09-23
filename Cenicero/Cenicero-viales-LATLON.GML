@@ -3685,7 +3685,7 @@
             <gml:posList srsDimension="2">-2.649754 42.481797  -2.649780 42.481792  -2.649793 42.481790  -2.649794 42.481789  -2.649802 42.481787  -2.649807 42.481785  -2.649827 42.481778  -2.649828 42.481778  -2.649829 42.481777  -2.649838 42.481773  -2.649862 42.481761  -2.649868 42.481757  -2.649885 42.481744  -2.649886 42.481743  -2.649901 42.481730  -2.649925 42.481699  -2.649934 42.481681  -2.649937 42.481673  -2.649940 42.481665  -2.649945 42.481630  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3705,7 +3705,7 @@
             <gml:posList srsDimension="2">-2.649945 42.481630  -2.649945 42.481622  -2.649943 42.481606  -2.649940 42.481593  -2.649934 42.481572  -2.649926 42.481557  -2.649912 42.481541  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3725,7 +3725,7 @@
             <gml:posList srsDimension="2">-2.649713 42.481800  -2.649754 42.481797  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3745,7 +3745,7 @@
             <gml:posList srsDimension="2">-2.649636 42.481468  -2.649617 42.481474  -2.649600 42.481481  -2.649591 42.481486  -2.649561 42.481502  -2.649539 42.481518  -2.649539 42.481519  -2.649528 42.481528  -2.649516 42.481542  -2.649508 42.481553  -2.649504 42.481559  -2.649502 42.481563  -2.649492 42.481585  -2.649489 42.481593  -2.649486 42.481607  -2.649485 42.481611  -2.649484 42.481625  -2.649484 42.481628  -2.649486 42.481646  -2.649489 42.481664  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3765,7 +3765,7 @@
             <gml:posList srsDimension="2">-2.649517 42.481717  -2.649537 42.481738  -2.649566 42.481759  -2.649598 42.481777  -2.649635 42.481789  -2.649673 42.481797  -2.649713 42.481800  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3785,7 +3785,7 @@
             <gml:posList srsDimension="2">-2.649489 42.481664  -2.649503 42.481698  -2.649517 42.481717  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3805,7 +3805,7 @@
             <gml:posList srsDimension="2">-2.649912 42.481541  -2.649892 42.481520  -2.649863 42.481499  -2.649831 42.481482  -2.649794 42.481469  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3825,7 +3825,7 @@
             <gml:posList srsDimension="2">-2.649794 42.481469  -2.649756 42.481461  -2.649716 42.481458  -2.649675 42.481461  -2.649636 42.481468  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cenicero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cenicero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

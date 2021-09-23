@@ -185,7 +185,7 @@
             <gml:posList srsDimension="2">-2.485766 42.334565  -2.485637 42.334679  -2.485525 42.334920  -2.485457 42.335058  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Islallana</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1005,7 +1005,7 @@
             <gml:posList srsDimension="2">-2.488879 42.334659  -2.488908 42.334656  -2.488998 42.334672  -2.489008 42.334662  -2.489093 42.334686  -2.489190 42.334731  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1025,7 +1025,7 @@
             <gml:posList srsDimension="2">-2.489357 42.335032  -2.489472 42.335069  -2.489540 42.335095  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1045,7 +1045,7 @@
             <gml:posList srsDimension="2">-2.483643 42.333383  -2.483707 42.333458  -2.483875 42.333533  -2.484123 42.333592  -2.484523 42.333647  -2.484523 42.333647  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1065,7 +1065,7 @@
             <gml:posList srsDimension="2">-2.506904 42.346598  -2.505886 42.344483  -2.505766 42.344453  -2.505655 42.344531  -2.506048 42.345309  -2.506274 42.345818  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1085,7 +1085,7 @@
             <gml:posList srsDimension="2">-2.505316 42.337389  -2.505152 42.337945  -2.505028 42.338344  -2.505017 42.338411  -2.505091 42.338705  -2.505189 42.339055  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1105,7 +1105,7 @@
             <gml:posList srsDimension="2">-2.487870 42.331884  -2.487835 42.331835  -2.487850 42.331733  -2.487829 42.331639  -2.487802 42.331596  -2.487766 42.331553  -2.487758 42.331544  -2.487716 42.331508  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1125,7 +1125,7 @@
             <gml:posList srsDimension="2">-2.505825 42.346714  -2.505518 42.346617  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1145,7 +1145,7 @@
             <gml:posList srsDimension="2">-2.505825 42.346714  -2.505524 42.347318  -2.505447 42.347373  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1165,7 +1165,7 @@
             <gml:posList srsDimension="2">-2.505189 42.339055  -2.505416 42.338421  -2.505765 42.337350  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1185,7 +1185,7 @@
             <gml:posList srsDimension="2">-2.509746 42.342027  -2.509138 42.342531  -2.509024 42.342637  -2.508966 42.342736  -2.508599 42.343586  -2.508496 42.343921  -2.508258 42.345066  -2.508139 42.345502  -2.508009 42.345865  -2.507851 42.346237  -2.507693 42.346543  -2.507235 42.347303  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1205,7 +1205,7 @@
             <gml:posList srsDimension="2">-2.504882 42.342355  -2.505161 42.341095  -2.505181 42.340877  -2.505040 42.340533  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1225,7 +1225,7 @@
             <gml:posList srsDimension="2">-2.487220 42.334647  -2.487189 42.334675  -2.487100 42.334679  -2.487057 42.334681  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1245,7 +1245,7 @@
             <gml:posList srsDimension="2">-2.488139 42.336532  -2.488146 42.336509  -2.488145 42.336486  -2.488145 42.336485  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1265,7 +1265,7 @@
             <gml:posList srsDimension="2">-2.484523 42.333647  -2.484383 42.333687  -2.484109 42.333756  -2.483837 42.333761  -2.483494 42.333737  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1285,7 +1285,7 @@
             <gml:posList srsDimension="2">-2.506274 42.345818  -2.506126 42.346089  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1305,7 +1305,7 @@
             <gml:posList srsDimension="2">-2.487418 42.335124  -2.487196 42.335123  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1325,7 +1325,7 @@
             <gml:posList srsDimension="2">-2.507123 42.347917  -2.507225 42.347758  -2.507298 42.347591  -2.507295 42.347458  -2.507235 42.347303  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1345,7 +1345,7 @@
             <gml:posList srsDimension="2">-2.506723 42.346780  -2.507040 42.347436  -2.507158 42.347711  -2.507123 42.347917  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1365,7 +1365,7 @@
             <gml:posList srsDimension="2">-2.489661 42.334925  -2.489581 42.334973  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1385,7 +1385,7 @@
             <gml:posList srsDimension="2">-2.504942 42.340553  -2.504543 42.341868  -2.504458 42.342484  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-2.506126 42.346089  -2.505825 42.346714  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-2.506126 42.346089  -2.506021 42.346059  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1445,7 +1445,7 @@
             <gml:posList srsDimension="2">-2.487852 42.334277  -2.487830 42.334379  -2.487724 42.334386  -2.487717 42.334416  -2.487708 42.334451  -2.487747 42.334482  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1465,7 +1465,7 @@
             <gml:posList srsDimension="2">-2.506904 42.346598  -2.507087 42.346306  -2.507275 42.345929  -2.507386 42.345624  -2.507481 42.345231  -2.507549 42.344676  -2.507644 42.344220  -2.507751 42.343544  -2.508300 42.342390  -2.508371 42.342131  -2.508422 42.341748  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1485,7 +1485,7 @@
             <gml:posList srsDimension="2">-2.507123 42.347917  -2.506231 42.349721  -2.506167 42.349811  -2.506051 42.349857  -2.505934 42.349865  -2.505815 42.349832  -2.505750 42.349765  -2.505718 42.349701  -2.505743 42.348819  -2.505804 42.348627  -2.506723 42.346780  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1505,7 +1505,7 @@
             <gml:posList srsDimension="2">-2.507235 42.347303  -2.507234 42.347304  -2.506904 42.346598  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1525,7 +1525,7 @@
             <gml:posList srsDimension="2">-2.506274 42.345818  -2.506454 42.346225  -2.506723 42.346780  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1545,7 +1545,7 @@
             <gml:posList srsDimension="2">-2.508422 42.341748  -2.508472 42.341535  -2.508515 42.341498  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1565,7 +1565,7 @@
             <gml:posList srsDimension="2">-2.505009 42.340327  -2.504996 42.340324  -2.504983 42.340321  -2.504969 42.340320  -2.504955 42.340319  -2.504942 42.340319  -2.504928 42.340320  -2.504915 42.340322  -2.504902 42.340325  -2.504889 42.340329  -2.504877 42.340333  -2.504865 42.340338  -2.504854 42.340344  -2.504843 42.340351  -2.504834 42.340358  -2.504825 42.340366  -2.504817 42.340374  -2.504811 42.340383  -2.504805 42.340392  -2.504800 42.340401  -2.504797 42.340411  -2.504794 42.340421  -2.504793 42.340431  -2.504793 42.340441  -2.504794 42.340451  -2.504797 42.340461  -2.504800 42.340471  -2.504805 42.340481  -2.504810 42.340490  -2.504817 42.340499  -2.504825 42.340507  -2.504834 42.340515  -2.504843 42.340522  -2.504853 42.340529  -2.504865 42.340535  -2.504876 42.340540  -2.504889 42.340544  -2.504901 42.340548  -2.504914 42.340551  -2.504928 42.340552  -2.504942 42.340553  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1585,7 +1585,7 @@
             <gml:posList srsDimension="2">-2.504942 42.340553  -2.504956 42.340554  -2.504971 42.340553  -2.504986 42.340551  -2.505000 42.340548  -2.505011 42.340545  -2.505021 42.340542  -2.505031 42.340538  -2.505040 42.340533  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1605,7 +1605,7 @@
             <gml:posList srsDimension="2">-2.505040 42.340533  -2.505051 42.340527  -2.505061 42.340521  -2.505071 42.340513  -2.505079 42.340505  -2.505087 42.340497  -2.505093 42.340488  -2.505099 42.340478  -2.505103 42.340469  -2.505106 42.340459  -2.505108 42.340449  -2.505109 42.340439  -2.505109 42.340428  -2.505107 42.340418  -2.505104 42.340408  -2.505101 42.340399  -2.505096 42.340389  -2.505090 42.340380  -2.505082 42.340371  -2.505074 42.340363  -2.505065 42.340355  -2.505055 42.340348  -2.505045 42.340342  -2.505033 42.340336  -2.505021 42.340331  -2.505009 42.340327  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1625,7 +1625,7 @@
             <gml:posList srsDimension="2">-2.505009 42.340327  -2.505078 42.340230  -2.505261 42.339867  -2.505281 42.339671  -2.505189 42.339055  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1645,7 +1645,7 @@
             <gml:posList srsDimension="2">-2.487172 42.334438  -2.486968 42.334294  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1665,7 +1665,7 @@
             <gml:posList srsDimension="2">-2.488958 42.334544  -2.488909 42.334614  -2.488879 42.334659  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1685,7 +1685,7 @@
             <gml:posList srsDimension="2">-2.488879 42.334659  -2.488819 42.334656  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1705,7 +1705,7 @@
             <gml:posList srsDimension="2">-2.509746 42.342027  -2.509834 42.341954  -2.509938 42.341894  -2.510020 42.341867  -2.510104 42.341852  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1725,7 +1725,7 @@
             <gml:posList srsDimension="2">-2.484694 42.334581  -2.484533 42.334512  -2.484426 42.334455  -2.484341 42.334395  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1745,7 +1745,7 @@
             <gml:posList srsDimension="2">-2.488139 42.334514  -2.488161 42.334455  -2.488159 42.334443  -2.488178 42.334385  -2.488213 42.334329  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1765,7 +1765,7 @@
             <gml:posList srsDimension="2">-2.485355 42.334806  -2.485267 42.334780  -2.484994 42.334685  -2.484761 42.334603  -2.484694 42.334581  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1785,7 +1785,7 @@
             <gml:posList srsDimension="2">-2.485766 42.334565  -2.485843 42.334451  -2.485975 42.334248  -2.485839 42.334175  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1805,7 +1805,7 @@
             <gml:posList srsDimension="2">-2.484829 42.335299  -2.484618 42.335179  -2.484344 42.335017  -2.484283 42.334976  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1825,7 +1825,7 @@
             <gml:posList srsDimension="2">-2.485700 42.333769  -2.485671 42.333669  -2.485649 42.333593  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

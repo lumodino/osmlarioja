@@ -1785,7 +1785,7 @@
             <gml:posList srsDimension="2">-2.847262 42.523301  -2.847187 42.522926  -2.847230 42.522860  -2.847295 42.522827  -2.847377 42.522825  -2.847428 42.522845  -2.847452 42.522882  -2.847491 42.523070  -2.847522 42.523190  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rodezno</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rodezno</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1805,7 +1805,7 @@
             <gml:posList srsDimension="2">-2.845424 42.524929  -2.845637 42.524968  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rodezno</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rodezno</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1825,7 +1825,7 @@
             <gml:posList srsDimension="2">-2.845870 42.524938  -2.845637 42.524968  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rodezno</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rodezno</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1845,7 +1845,7 @@
             <gml:posList srsDimension="2">-2.846061 42.525009  -2.845870 42.524938  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Rodezno</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Rodezno</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

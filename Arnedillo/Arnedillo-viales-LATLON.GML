@@ -2325,7 +2325,7 @@
             <gml:posList srsDimension="2">-2.196890 42.211038  -2.197327 42.210932  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Eulalia Somera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arnedillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3205,7 +3205,7 @@
             <gml:posList srsDimension="2">-2.235802 42.212938  -2.235803 42.212914  -2.235815 42.212901  -2.235886 42.212857  -2.235910 42.212842  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arnedillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arnedillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3225,7 +3225,7 @@
             <gml:posList srsDimension="2">-2.236162 42.211291  -2.236087 42.211171  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arnedillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arnedillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3245,7 +3245,7 @@
             <gml:posList srsDimension="2">-2.237488 42.212058  -2.237324 42.211877  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arnedillo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arnedillo</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

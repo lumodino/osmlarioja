@@ -886,7 +886,7 @@
             <gml:pos>-2.101637 42.230723 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26580</ms:CODIGO_POSTAL>
@@ -907,7 +907,7 @@
             <gml:pos>-2.102001 42.230848 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION>A</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26580</ms:CODIGO_POSTAL>
@@ -928,7 +928,7 @@
             <gml:pos>-2.101598 42.230756 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26580</ms:CODIGO_POSTAL>

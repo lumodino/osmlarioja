@@ -1385,7 +1385,7 @@
             <gml:posList srsDimension="2">-3.022556 42.141208  -3.022327 42.141104  -3.022104 42.141066  -3.021876 42.141006  -3.021614 42.140898  -3.021527 42.140882  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canales de la Sierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canales de la Sierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-3.022556 42.141208  -3.022463 42.141046  -3.022286 42.140856  -3.021852 42.140481  -3.021757 42.140389  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canales de la Sierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canales de la Sierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-3.023921 42.140146  -3.023622 42.140213  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Canales de la Sierra</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Canales de la Sierra</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

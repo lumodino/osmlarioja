@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.695797 42.386462  -2.695837 42.386447  -2.695873 42.386415  -2.695891 42.386399  -2.695909 42.386383  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arenzana de Arriba</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arenzana de Arriba</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-2.695229 42.386901  -2.695115 42.386866  -2.694991 42.386850  -2.694633 42.386889  -2.694441 42.386910  -2.694244 42.386939  -2.694133 42.387018  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Arenzana de Arriba</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arenzana de Arriba</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -245,7 +245,7 @@
             <gml:posList srsDimension="2">-2.243388 42.136809  -2.243199 42.136770  -2.242966 42.136760  -2.242870 42.136787  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -265,7 +265,7 @@
             <gml:posList srsDimension="2">-2.242087 42.136039  -2.241756 42.135920  -2.241628 42.135854  -2.241524 42.135785  -2.241322 42.135585  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -285,7 +285,7 @@
             <gml:posList srsDimension="2">-2.242087 42.136039  -2.242240 42.136063  -2.242363 42.136060  -2.242461 42.136001  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -305,7 +305,7 @@
             <gml:posList srsDimension="2">-2.242870 42.136787  -2.242737 42.136863  -2.242603 42.136907  -2.242328 42.136993  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -325,7 +325,7 @@
             <gml:posList srsDimension="2">-2.242328 42.136993  -2.242269 42.137007  -2.242152 42.137009  -2.242119 42.137006  -2.242086 42.137004  -2.242043 42.136999  -2.241988 42.136989  -2.241949 42.136981  -2.241889 42.136964  -2.241800 42.136932  -2.241650 42.136866  -2.241586 42.136831  -2.241518 42.136753  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -345,7 +345,7 @@
             <gml:posList srsDimension="2">-2.241518 42.136753  -2.241469 42.136689  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -365,7 +365,7 @@
             <gml:posList srsDimension="2">-2.228394 42.121913  -2.228389 42.121913  -2.228342 42.121925  -2.228290 42.121922  -2.228222 42.121908  -2.228043 42.121909  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -385,7 +385,7 @@
             <gml:posList srsDimension="2">-2.228043 42.121909  -2.228479 42.121783  -2.228550 42.121729  -2.228604 42.121677  -2.228618 42.121638  -2.228628 42.121602  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -405,7 +405,7 @@
             <gml:posList srsDimension="2">-2.228043 42.121909  -2.227819 42.121907  -2.227695 42.121857  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -425,7 +425,7 @@
             <gml:posList srsDimension="2">-2.227695 42.121857  -2.227623 42.121765  -2.227420 42.121672  -2.227244 42.121622  -2.227050 42.121504  -2.227010 42.121458  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -445,7 +445,7 @@
             <gml:posList srsDimension="2">-2.227812 42.121621  -2.227943 42.121608  -2.228124 42.121573  -2.228192 42.121536  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -465,7 +465,7 @@
             <gml:posList srsDimension="2">-2.227812 42.121621  -2.227777 42.121578  -2.227716 42.121490  -2.227678 42.121452  -2.227574 42.121386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -485,7 +485,7 @@
             <gml:posList srsDimension="2">-2.227695 42.121857  -2.227717 42.121811  -2.227707 42.121723  -2.227696 42.121661  -2.227812 42.121621  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -505,7 +505,7 @@
             <gml:posList srsDimension="2">-2.227846 42.121236  -2.227564 42.121141  -2.227372 42.121057  -2.227208 42.120884  -2.227189 42.120801  -2.227255 42.120678  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -525,7 +525,7 @@
             <gml:posList srsDimension="2">-2.228254 42.121488  -2.227851 42.121238  -2.227846 42.121236  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Poyales</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1885,7 +1885,7 @@
             <gml:posList srsDimension="2">-2.208324 42.121764  -2.208429 42.121750  -2.208729 42.121769  -2.208762 42.121834  -2.208878 42.121860  -2.209065 42.121894  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1905,7 +1905,7 @@
             <gml:posList srsDimension="2">-2.207647 42.121452  -2.207646 42.121454  -2.207672 42.121575  -2.207728 42.121646  -2.207780 42.121674  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1925,7 +1925,7 @@
             <gml:posList srsDimension="2">-2.208307 42.121434  -2.208429 42.121455  -2.208597 42.121491  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1945,7 +1945,7 @@
             <gml:posList srsDimension="2">-2.207844 42.121799  -2.207780 42.121674  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1965,7 +1965,7 @@
             <gml:posList srsDimension="2">-2.207927 42.121800  -2.207915 42.121661  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1985,7 +1985,7 @@
             <gml:posList srsDimension="2">-2.208307 42.121434  -2.207948 42.121403  -2.207791 42.121391  -2.207670 42.121421  -2.207647 42.121452  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2005,7 +2005,7 @@
             <gml:posList srsDimension="2">-2.207780 42.121674  -2.207915 42.121661  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2025,7 +2025,7 @@
             <gml:posList srsDimension="2">-2.207915 42.121661  -2.208088 42.121654  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2385,7 +2385,7 @@
             <gml:posList srsDimension="2">-2.267760 42.149219  -2.267878 42.149242  -2.268047 42.149296  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Enciso</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2405,7 +2405,7 @@
             <gml:posList srsDimension="2">-2.267948 42.148636  -2.268041 42.148670  -2.268172 42.148731  -2.268231 42.148763  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Enciso</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3005,7 +3005,7 @@
             <gml:posList srsDimension="2">-2.271945 42.124268  -2.272016 42.124172  -2.272147 42.124111  -2.272174 42.124078  -2.272269 42.124069  -2.272345 42.124097  -2.272425 42.124103  -2.272528 42.124096  -2.272718 42.124094  -2.272905 42.124110  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3025,7 +3025,7 @@
             <gml:posList srsDimension="2">-2.271906 42.124335  -2.272263 42.124390  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3045,7 +3045,7 @@
             <gml:posList srsDimension="2">-2.271945 42.124268  -2.271746 42.124205  -2.271631 42.124204  -2.271486 42.124196  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3065,7 +3065,7 @@
             <gml:posList srsDimension="2">-2.273432 42.124507  -2.273337 42.124486  -2.273130 42.124399  -2.273047 42.124252  -2.272905 42.124110  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3085,7 +3085,7 @@
             <gml:posList srsDimension="2">-2.272905 42.124110  -2.272924 42.123974  -2.272958 42.123910  -2.273053 42.123856  -2.273112 42.123790  -2.273217 42.123718  -2.273287 42.123641  -2.273443 42.123563  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3105,7 +3105,7 @@
             <gml:posList srsDimension="2">-2.271945 42.124268  -2.271906 42.124335  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3125,7 +3125,7 @@
             <gml:posList srsDimension="2">-2.271906 42.124335  -2.271839 42.124366  -2.271787 42.124372  -2.271730 42.124378  -2.271699 42.124389  -2.271661 42.124414  -2.271575 42.124514  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3145,7 +3145,7 @@
             <gml:posList srsDimension="2">-2.271532 42.124614  -2.271532 42.124638  -2.271556 42.124666  -2.271595 42.124689  -2.271642 42.124719  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3165,7 +3165,7 @@
             <gml:posList srsDimension="2">-2.271575 42.124514  -2.271530 42.124493  -2.271459 42.124458  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3185,7 +3185,7 @@
             <gml:posList srsDimension="2">-2.271575 42.124514  -2.271553 42.124557  -2.271532 42.124604  -2.271532 42.124614  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3205,7 +3205,7 @@
             <gml:posList srsDimension="2">-2.271532 42.124614  -2.271476 42.124625  -2.271439 42.124634  -2.271401 42.124645  -2.271353 42.124662  -2.271325 42.124695  -2.271291 42.124734  -2.271251 42.124780  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

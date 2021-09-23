@@ -65,7 +65,7 @@
             <gml:posList srsDimension="2">-2.319349 42.334858  -2.319326 42.334778  -2.319414 42.334639  -2.319544 42.334471  -2.319722 42.334236  -2.319903 42.333972  -2.320126 42.334039  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -85,7 +85,7 @@
             <gml:posList srsDimension="2">-2.324618 42.334051  -2.324555 42.334026  -2.324455 42.334033  -2.324124 42.333994  -2.323882 42.333916  -2.323484 42.333962  -2.323204 42.333951  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -105,7 +105,7 @@
             <gml:posList srsDimension="2">-2.322058 42.332969  -2.322083 42.333154  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -125,7 +125,7 @@
             <gml:posList srsDimension="2">-2.319264 42.334984  -2.319349 42.334858  -2.319349 42.334858  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -145,7 +145,7 @@
             <gml:posList srsDimension="2">-2.322228 42.335604  -2.322077 42.335435  -2.322048 42.335375  -2.322013 42.335301  -2.322002 42.335210  -2.321901 42.335146  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -165,7 +165,7 @@
             <gml:posList srsDimension="2">-2.322067 42.332816  -2.322058 42.332969  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -185,7 +185,7 @@
             <gml:posList srsDimension="2">-2.322992 42.333625  -2.323204 42.333951  -2.323204 42.333951  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lagunilla del Jubera</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -965,7 +965,7 @@
             <gml:posList srsDimension="2">-2.303749 42.350917  -2.303175 42.350790  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventas Blancas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -985,7 +985,7 @@
             <gml:posList srsDimension="2">-2.303749 42.350917  -2.303719 42.349919  -2.303808 42.349363  -2.303826 42.349202  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventas Blancas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1005,7 +1005,7 @@
             <gml:posList srsDimension="2">-2.303242 42.352533  -2.303446 42.352273  -2.303663 42.351872  -2.303690 42.351771  -2.303678 42.351711  -2.303482 42.351435  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventas Blancas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1025,7 +1025,7 @@
             <gml:posList srsDimension="2">-2.303971 42.351168  -2.303901 42.351106  -2.303805 42.351014  -2.303779 42.350984  -2.303760 42.350952  -2.303749 42.350918  -2.303749 42.350917  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventas Blancas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1045,7 +1045,7 @@
             <gml:posList srsDimension="2">-2.299814 42.348732  -2.300008 42.348600  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Ventas Blancas</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -3405,7 +3405,7 @@
             <gml:posList srsDimension="2">-2.369436 42.313038  -2.369557 42.313014  -2.369638 42.312996  -2.369731 42.312920  -2.369801 42.312868  -2.369890 42.312842  -2.370114 42.312818  -2.370279 42.312816  -2.370346 42.312803  -2.370409 42.312752  -2.370398 42.312708  -2.370358 42.312664  -2.370186 42.312628  -2.369888 42.312580  -2.369624 42.312537  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Zenzano</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lagunilla del Jubera</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-2.833569 42.095138  -2.833527 42.095087  -2.833521 42.095081  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Viniegra de Arriba</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Viniegra de Arriba</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>

@@ -1405,7 +1405,7 @@
             <gml:posList srsDimension="2">-2.208291 42.312950  -2.208168 42.312614  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Los Molinos de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1425,7 +1425,7 @@
             <gml:posList srsDimension="2">-2.208291 42.312950  -2.208569 42.312653  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Los Molinos de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1445,7 +1445,7 @@
             <gml:posList srsDimension="2">-2.208396 42.313260  -2.208280 42.313013  -2.208291 42.312950  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Los Molinos de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1465,7 +1465,7 @@
             <gml:posList srsDimension="2">-2.208569 42.312653  -2.208813 42.312433  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Los Molinos de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -1985,7 +1985,7 @@
             <gml:posList srsDimension="2">-2.243735 42.297838  -2.243884 42.297881  -2.244039 42.297905  -2.244230 42.297892  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2005,7 +2005,7 @@
             <gml:posList srsDimension="2">-2.243813 42.298887  -2.243716 42.298724  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2025,7 +2025,7 @@
             <gml:posList srsDimension="2">-2.243093 42.298931  -2.243020 42.298803  -2.242986 42.298758  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2045,7 +2045,7 @@
             <gml:posList srsDimension="2">-2.242789 42.299130  -2.242726 42.299108  -2.242588 42.299057  -2.242567 42.299054  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2065,7 +2065,7 @@
             <gml:posList srsDimension="2">-2.242564 42.300122  -2.242481 42.300121  -2.242411 42.300062  -2.242369 42.299999  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2085,7 +2085,7 @@
             <gml:posList srsDimension="2">-2.242836 42.299223  -2.242745 42.299164  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2105,7 +2105,7 @@
             <gml:posList srsDimension="2">-2.244230 42.297892  -2.244362 42.297853  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2125,7 +2125,7 @@
             <gml:posList srsDimension="2">-2.244362 42.297853  -2.244462 42.297867  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2145,7 +2145,7 @@
             <gml:posList srsDimension="2">-2.244029 42.298485  -2.243969 42.298435  -2.243905 42.298391  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2165,7 +2165,7 @@
             <gml:posList srsDimension="2">-2.243905 42.298391  -2.243811 42.298320  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2185,7 +2185,7 @@
             <gml:posList srsDimension="2">-2.243666 42.298745  -2.243640 42.298713  -2.243554 42.298618  -2.243509 42.298562  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -2205,7 +2205,7 @@
             <gml:posList srsDimension="2">-2.243509 42.298562  -2.243462 42.298503  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>La Villa de Ocón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4125,7 +4125,7 @@
             <gml:posList srsDimension="2">-2.261736 42.312138  -2.262363 42.312215  -2.263050 42.312386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Lucía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4145,7 +4145,7 @@
             <gml:posList srsDimension="2">-2.262904 42.312819  -2.263196 42.312491  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Lucía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4165,7 +4165,7 @@
             <gml:posList srsDimension="2">-2.264425 42.312690  -2.264681 42.312638  -2.264851 42.312649  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Lucía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4185,7 +4185,7 @@
             <gml:posList srsDimension="2">-2.264696 42.312843  -2.264660 42.312814  -2.264554 42.312753  -2.264425 42.312690  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Lucía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4205,7 +4205,7 @@
             <gml:posList srsDimension="2">-2.263196 42.312491  -2.263050 42.312386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Lucía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
@@ -4225,7 +4225,7 @@
             <gml:posList srsDimension="2">-2.264425 42.312690  -2.264339 42.312660  -2.264251 42.312654  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>No definido Sin nombre</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Santa Lucía</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ocón</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
