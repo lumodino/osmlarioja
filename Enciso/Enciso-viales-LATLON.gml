@@ -246,7 +246,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -266,7 +266,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -286,7 +286,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -306,7 +306,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -326,7 +326,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -346,7 +346,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -2246,7 +2246,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.058.83</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -2266,7 +2266,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.058.83</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -2286,7 +2286,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.058.83</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -2946,7 +2946,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.058.85</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -2966,7 +2966,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.058.85</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
@@ -2986,7 +2986,7 @@
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Villar (de Enciso)</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.058.82</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
