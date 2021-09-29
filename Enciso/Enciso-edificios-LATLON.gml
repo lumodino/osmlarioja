@@ -491,7 +491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -596,7 +596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -638,7 +638,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -974,7 +974,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1037,7 +1037,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1310,7 +1310,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1331,7 +1331,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1352,7 +1352,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1415,7 +1415,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1520,7 +1520,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1667,7 +1667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1856,7 +1856,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1982,7 +1982,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2003,7 +2003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2066,7 +2066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2339,7 +2339,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2360,7 +2360,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2549,7 +2549,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2570,7 +2570,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2591,7 +2591,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2612,7 +2612,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -2990,7 +2990,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3011,7 +3011,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3032,7 +3032,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3137,7 +3137,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3536,7 +3536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3704,7 +3704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3788,7 +3788,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3809,7 +3809,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4040,7 +4040,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4313,7 +4313,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4355,7 +4355,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4376,7 +4376,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4418,7 +4418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4502,7 +4502,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4691,7 +4691,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4817,7 +4817,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4880,7 +4880,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4922,7 +4922,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5048,7 +5048,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5153,7 +5153,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5195,7 +5195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5279,7 +5279,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5321,7 +5321,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5531,7 +5531,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5657,7 +5657,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5800,7 +5800,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5821,7 +5821,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5842,7 +5842,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5863,7 +5863,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6136,7 +6136,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6199,7 +6199,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6220,7 +6220,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6325,7 +6325,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6346,7 +6346,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6367,7 +6367,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6388,7 +6388,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6472,7 +6472,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6493,7 +6493,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6577,7 +6577,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -6745,7 +6745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7018,7 +7018,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7039,7 +7039,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7333,7 +7333,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7354,7 +7354,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7396,7 +7396,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7438,7 +7438,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -7480,7 +7480,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8278,7 +8278,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8383,7 +8383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8572,7 +8572,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8614,7 +8614,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8719,7 +8719,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8740,7 +8740,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8929,7 +8929,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -8971,7 +8971,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9055,7 +9055,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9139,7 +9139,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9496,7 +9496,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9517,7 +9517,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9664,7 +9664,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9769,7 +9769,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9853,7 +9853,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -9937,7 +9937,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10315,7 +10315,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10378,7 +10378,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10462,7 +10462,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10588,7 +10588,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10735,7 +10735,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10756,7 +10756,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -10777,7 +10777,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11239,7 +11239,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11428,7 +11428,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11470,7 +11470,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11491,7 +11491,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11575,7 +11575,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11596,7 +11596,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12016,7 +12016,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12205,7 +12205,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12247,7 +12247,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12436,7 +12436,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -12667,7 +12667,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13003,7 +13003,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13066,7 +13066,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13150,7 +13150,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13234,7 +13234,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -13381,7 +13381,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15292,7 +15292,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15418,7 +15418,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15733,7 +15733,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -15859,7 +15859,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16069,7 +16069,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16195,7 +16195,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16216,7 +16216,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16510,7 +16510,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16678,7 +16678,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -16783,7 +16783,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17140,7 +17140,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17371,7 +17371,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17455,7 +17455,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -17896,7 +17896,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18400,7 +18400,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18631,7 +18631,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18673,7 +18673,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -18967,7 +18967,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19072,7 +19072,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19177,7 +19177,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19408,7 +19408,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -19450,7 +19450,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20206,7 +20206,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20248,7 +20248,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20395,7 +20395,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -20416,7 +20416,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21025,7 +21025,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21067,7 +21067,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21109,7 +21109,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21256,7 +21256,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21277,7 +21277,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21319,7 +21319,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21424,7 +21424,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21487,7 +21487,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21676,7 +21676,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -21781,7 +21781,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22117,7 +22117,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22453,7 +22453,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22495,7 +22495,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22579,7 +22579,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22621,7 +22621,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22789,7 +22789,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22810,7 +22810,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -22978,7 +22978,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23020,7 +23020,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23167,7 +23167,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23188,7 +23188,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23251,7 +23251,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -23566,7 +23566,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>El Villar</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Enciso</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

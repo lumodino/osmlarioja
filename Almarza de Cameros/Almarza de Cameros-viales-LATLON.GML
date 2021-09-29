@@ -716,13 +716,13 @@
       <ms:viales gml:id="viales.1509337">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.598703 42.215980 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.598751 42.215963 </gml:lowerCorner>
         		<gml:upperCorner>-2.598194 42.216031 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.598194 42.216031  -2.598534 42.215980  -2.598703 42.215981  </gml:posList>
+            <gml:posList srsDimension="2">-2.598194 42.216031  -2.598534 42.215980  -2.598751 42.215963  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Herrán</ms:NOMBRE_COMPLETO_VIAL>

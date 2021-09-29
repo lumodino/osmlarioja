@@ -1156,13 +1156,13 @@
       <ms:viales gml:id="viales.1509419">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.907671 42.574785 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.907671 42.574772 </gml:lowerCorner>
         		<gml:upperCorner>-2.907581 42.575196 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.907598 42.574785  -2.907597 42.574816  -2.907583 42.574905  -2.907583 42.574912  -2.907581 42.574960  -2.907587 42.575008  -2.907601 42.575052  -2.907627 42.575115  -2.907660 42.575177  -2.907666 42.575187  -2.907671 42.575196  </gml:posList>
+            <gml:posList srsDimension="2">-2.907614 42.574772  -2.907597 42.574816  -2.907583 42.574905  -2.907583 42.574912  -2.907581 42.574960  -2.907587 42.575008  -2.907601 42.575052  -2.907627 42.575115  -2.907660 42.575177  -2.907666 42.575187  -2.907671 42.575196  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
@@ -1236,13 +1236,13 @@
       <ms:viales gml:id="viales.1509410">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.910515 42.576847 </gml:lowerCorner>
-        		<gml:upperCorner>-2.910447 42.577175 </gml:upperCorner>
+        		<gml:lowerCorner>-2.910511 42.576847 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910447 42.577154 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.910447 42.576847  -2.910514 42.577171  -2.910515 42.577175  </gml:posList>
+            <gml:posList srsDimension="2">-2.910447 42.576847  -2.910476 42.576987  -2.910511 42.577154  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mirasierra</ms:NOMBRE_COMPLETO_VIAL>
