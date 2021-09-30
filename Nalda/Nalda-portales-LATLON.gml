@@ -15724,13 +15724,13 @@
       <ms:portales gml:id="portales.297600">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.487971 42.334108 </gml:lowerCorner>
-        		<gml:upperCorner>-2.487971 42.334108 </gml:upperCorner>
+        		<gml:lowerCorner>-2.487845 42.334101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.487845 42.334101 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.487971 42.334108 </gml:pos>
+            <gml:pos>-2.487845 42.334101 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
@@ -15787,13 +15787,13 @@
       <ms:portales gml:id="portales.297599">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.488092 42.334097 </gml:lowerCorner>
-        		<gml:upperCorner>-2.488092 42.334097 </gml:upperCorner>
+        		<gml:lowerCorner>-2.487990 42.334104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.487990 42.334104 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.488092 42.334097 </gml:pos>
+            <gml:pos>-2.487990 42.334104 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>
@@ -15808,13 +15808,13 @@
       <ms:portales gml:id="portales.297587">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.488289 42.334082 </gml:lowerCorner>
-        		<gml:upperCorner>-2.488289 42.334082 </gml:upperCorner>
+        		<gml:lowerCorner>-2.488124 42.334092 </gml:lowerCorner>
+        		<gml:upperCorner>-2.488124 42.334092 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.488289 42.334082 </gml:pos>
+            <gml:pos>-2.488124 42.334092 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carrera</ms:NOMBRE_COMPLETO_VIAL>

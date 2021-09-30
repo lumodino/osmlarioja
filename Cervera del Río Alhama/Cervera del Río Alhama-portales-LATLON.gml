@@ -49639,13 +49639,13 @@
       <ms:portales gml:id="portales.277735">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.965109 42.050131 </gml:lowerCorner>
-        		<gml:upperCorner>-1.965109 42.050131 </gml:upperCorner>
+        		<gml:lowerCorner>-1.965075 42.050142 </gml:lowerCorner>
+        		<gml:upperCorner>-1.965075 42.050142 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.965109 42.050131 </gml:pos>
+            <gml:pos>-1.965075 42.050142 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Cervera</ms:NOMBRE_COMPLETO_VIAL>
@@ -49660,13 +49660,13 @@
       <ms:portales gml:id="portales.277737">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.964997 42.050134 </gml:lowerCorner>
-        		<gml:upperCorner>-1.964997 42.050134 </gml:upperCorner>
+        		<gml:lowerCorner>-1.965121 42.050127 </gml:lowerCorner>
+        		<gml:upperCorner>-1.965121 42.050127 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.964997 42.050134 </gml:pos>
+            <gml:pos>-1.965121 42.050127 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Cervera</ms:NOMBRE_COMPLETO_VIAL>
