@@ -1973,16 +1973,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1512114">
+      <ms:viales gml:id="viales.4522690">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.765207 42.263769 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764936 42.264002 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.765207 42.263769  -2.765101 42.263831  -2.764936 42.264002  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía Carrera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Anguiano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Anguiano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.014.13</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2601400148</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4522691">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764936 42.263919 </gml:lowerCorner>
         		<gml:upperCorner>-2.763458 42.264134 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.765207 42.263769  -2.765101 42.263831  -2.764892 42.264048  -2.764802 42.264092  -2.764484 42.264134  -2.764036 42.264105  -2.764036 42.264105  -2.763945 42.264102  -2.763740 42.264046  -2.763643 42.263996  -2.763458 42.263919  </gml:posList>
+            <gml:posList srsDimension="2">-2.764936 42.264002  -2.764892 42.264048  -2.764802 42.264092  -2.764484 42.264134  -2.764036 42.264105  -2.764036 42.264105  -2.763945 42.264102  -2.763740 42.264046  -2.763643 42.263996  -2.763458 42.263919  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Carrera</ms:NOMBRE_COMPLETO_VIAL>
