@@ -940,13 +940,13 @@
       <ms:portales gml:id="portales.251362">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.238929 42.210547 </gml:lowerCorner>
-        		<gml:upperCorner>-2.238929 42.210547 </gml:upperCorner>
+        		<gml:lowerCorner>-2.238914 42.210553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238914 42.210553 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.238929 42.210547 </gml:pos>
+            <gml:pos>-2.238914 42.210553 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Cidacos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1990,13 +1990,13 @@
       <ms:portales gml:id="portales.251410">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.236546 42.212607 </gml:lowerCorner>
-        		<gml:upperCorner>-2.236546 42.212607 </gml:upperCorner>
+        		<gml:lowerCorner>-2.236569 42.212606 </gml:lowerCorner>
+        		<gml:upperCorner>-2.236569 42.212606 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.236546 42.212607 </gml:pos>
+            <gml:pos>-2.236569 42.212606 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Cidacos</ms:NOMBRE_COMPLETO_VIAL>
@@ -2494,13 +2494,13 @@
       <ms:portales gml:id="portales.251431">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.238199 42.211681 </gml:lowerCorner>
-        		<gml:upperCorner>-2.238199 42.211681 </gml:upperCorner>
+        		<gml:lowerCorner>-2.238162 42.211653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.238162 42.211653 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.238199 42.211681 </gml:pos>
+            <gml:pos>-2.238162 42.211653 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Cidacos</ms:NOMBRE_COMPLETO_VIAL>
@@ -2725,13 +2725,13 @@
       <ms:portales gml:id="portales.251392">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.239855 42.211085 </gml:lowerCorner>
-        		<gml:upperCorner>-2.239855 42.211085 </gml:upperCorner>
+        		<gml:lowerCorner>-2.239859 42.211077 </gml:lowerCorner>
+        		<gml:upperCorner>-2.239859 42.211077 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.239855 42.211085 </gml:pos>
+            <gml:pos>-2.239859 42.211077 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Cidacos</ms:NOMBRE_COMPLETO_VIAL>

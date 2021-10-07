@@ -72697,13 +72697,13 @@
       <ms:portales gml:id="portales.250737">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097449 42.220255 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097449 42.220255 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097469 42.220275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097469 42.220275 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097449 42.220255 </gml:pos>
+            <gml:pos>-2.097469 42.220275 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Vallalope</ms:NOMBRE_COMPLETO_VIAL>
@@ -72718,13 +72718,13 @@
       <ms:portales gml:id="portales.250736">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097398 42.220333 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097398 42.220333 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097417 42.220358 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097417 42.220358 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097398 42.220333 </gml:pos>
+            <gml:pos>-2.097417 42.220358 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Vallalope</ms:NOMBRE_COMPLETO_VIAL>
@@ -72739,13 +72739,13 @@
       <ms:portales gml:id="portales.250742">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097806 42.220014 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097806 42.220014 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097766 42.220012 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097766 42.220012 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097806 42.220014 </gml:pos>
+            <gml:pos>-2.097766 42.220012 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Vallalope</ms:NOMBRE_COMPLETO_VIAL>
@@ -72781,13 +72781,13 @@
       <ms:portales gml:id="portales.250741">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097648 42.219810 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097648 42.219810 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097615 42.219825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097615 42.219825 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097648 42.219810 </gml:pos>
+            <gml:pos>-2.097615 42.219825 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Vallalope</ms:NOMBRE_COMPLETO_VIAL>
