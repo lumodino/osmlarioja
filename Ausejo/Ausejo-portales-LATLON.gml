@@ -17026,13 +17026,13 @@
       <ms:portales gml:id="portales.247307">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.168118 42.346177 </gml:lowerCorner>
-        		<gml:upperCorner>-2.168118 42.346177 </gml:upperCorner>
+        		<gml:lowerCorner>-2.168140 42.346168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.168140 42.346168 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.168118 42.346177 </gml:pos>
+            <gml:pos>-2.168140 42.346168 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Senda de Abajo</ms:NOMBRE_COMPLETO_VIAL>
