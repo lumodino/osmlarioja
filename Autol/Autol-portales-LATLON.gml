@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.011430 42.212652 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.011042 42.212652 </gml:lowerCorner>
       		<gml:upperCorner>-1.999614 42.223310 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -20019,48 +20019,6 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Valcaliente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26560</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4188907">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.011351 42.216928 </gml:lowerCorner>
-        		<gml:upperCorner>-2.011351 42.216928 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.011351 42.216928 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Valcaliente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>51</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26560</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Autol</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4188908">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.011430 42.216937 </gml:lowerCorner>
-        		<gml:upperCorner>-2.011430 42.216937 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.011430 42.216937 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Valcaliente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>53</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26560</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Autol</ms:NOMBRE_POBLAMIENTO>
