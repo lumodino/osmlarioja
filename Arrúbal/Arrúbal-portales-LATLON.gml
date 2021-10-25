@@ -742,7 +742,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>56</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26560</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26151</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Arrúbal</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Arrúbal</ms:NOMBRE_MUNICIPIO>
       </ms:portales>

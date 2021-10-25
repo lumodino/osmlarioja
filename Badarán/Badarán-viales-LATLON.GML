@@ -876,13 +876,13 @@
       <ms:viales gml:id="viales.1514638">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.807800 42.369043 </gml:lowerCorner>
-        		<gml:upperCorner>-2.807049 42.369235 </gml:upperCorner>
+        		<gml:lowerCorner>-2.807800 42.369018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.807047 42.369235 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.807800 42.369235  -2.807681 42.369215  -2.807387 42.369116  -2.807218 42.369057  -2.807049 42.369043  </gml:posList>
+            <gml:posList srsDimension="2">-2.807800 42.369235  -2.807681 42.369215  -2.807387 42.369116  -2.807218 42.369057  -2.807047 42.369018  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Prado</ms:NOMBRE_COMPLETO_VIAL>
@@ -916,13 +916,13 @@
       <ms:viales gml:id="viales.1514675">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.807049 42.369042 </gml:lowerCorner>
-        		<gml:upperCorner>-2.806664 42.369043 </gml:upperCorner>
+        		<gml:lowerCorner>-2.807047 42.369018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.806664 42.369042 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.807049 42.369043  -2.806664 42.369042  </gml:posList>
+            <gml:posList srsDimension="2">-2.807047 42.369018  -2.806664 42.369042  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle del Prado</ms:NOMBRE_COMPLETO_VIAL>
@@ -1216,13 +1216,13 @@
       <ms:viales gml:id="viales.1514642">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.807049 42.368773 </gml:lowerCorner>
-        		<gml:upperCorner>-2.807025 42.369043 </gml:upperCorner>
+        		<gml:lowerCorner>-2.807047 42.368773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.807025 42.369018 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.807025 42.368773  -2.807049 42.369043  </gml:posList>
+            <gml:posList srsDimension="2">-2.807025 42.368773  -2.807047 42.369018  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Félix Rodríguez</ms:NOMBRE_COMPLETO_VIAL>

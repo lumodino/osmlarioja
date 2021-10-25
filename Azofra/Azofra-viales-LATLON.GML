@@ -136,13 +136,13 @@
       <ms:viales gml:id="viales.1514618">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.803399 42.423134 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.803363 42.423174 </gml:lowerCorner>
         		<gml:upperCorner>-2.803101 42.423444 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.803101 42.423444  -2.803146 42.423393  -2.803399 42.423134  </gml:posList>
+            <gml:posList srsDimension="2">-2.803101 42.423444  -2.803146 42.423393  -2.803287 42.423247  -2.803363 42.423174  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Amando Fernández</ms:NOMBRE_COMPLETO_VIAL>
