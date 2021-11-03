@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.163317 42.236863 </gml:lowerCorner>
-      		<gml:upperCorner>-2.155874 42.245768 </gml:upperCorner>
+      		<gml:lowerCorner>-2.166760 42.236863 </gml:lowerCorner>
+      		<gml:upperCorner>-2.155874 42.260895 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -108,7 +108,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.156209 42.245175  -2.156204 42.245208  -2.156265 42.245213  -2.156267 42.245101  -2.156214 42.245100  -2.156212 42.245130  -2.156209 42.245175  </gml:posList>
+                <gml:posList srsDimension="2">-2.156209 42.245175  -2.156204 42.245208  -2.156265 42.245213  -2.156267 42.245101  -2.156214 42.245100  -2.156212 42.245130  -2.156211 42.245153  -2.156209 42.245175  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -150,7 +150,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.155995 42.245013  -2.155893 42.245001  -2.155874 42.245093  -2.155976 42.245105  -2.155995 42.245013  </gml:posList>
+                <gml:posList srsDimension="2">-2.155995 42.245013  -2.155893 42.245001  -2.155883 42.245047  -2.155874 42.245093  -2.155976 42.245105  -2.155995 42.245013  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1137,7 +1137,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.159893 42.244609  -2.159975 42.244581  -2.159916 42.244489  -2.159839 42.244516  -2.159893 42.244609  </gml:posList>
+                <gml:posList srsDimension="2">-2.159893 42.244609  -2.159975 42.244581  -2.159916 42.244489  -2.159839 42.244516  -2.159866 42.244563  -2.159893 42.244609  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1158,7 +1158,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.159777 42.244484  -2.159746 42.244496  -2.159727 42.244485  -2.159706 42.244487  -2.159636 42.244537  -2.159670 42.244571  -2.159779 42.244541  -2.159819 42.244525  -2.159777 42.244484  </gml:posList>
+                <gml:posList srsDimension="2">-2.159777 42.244484  -2.159746 42.244496  -2.159727 42.244485  -2.159706 42.244487  -2.159636 42.244537  -2.159670 42.244571  -2.159724 42.244556  -2.159779 42.244541  -2.159819 42.244525  -2.159777 42.244484  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1179,7 +1179,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.158199 42.245180  -2.158090 42.245207  -2.158103 42.245238  -2.158121 42.245275  -2.158130 42.245292  -2.158138 42.245307  -2.158225 42.245285  -2.158199 42.245180  </gml:posList>
+                <gml:posList srsDimension="2">-2.158199 42.245180  -2.158140 42.245194  -2.158090 42.245207  -2.158103 42.245238  -2.158121 42.245275  -2.158130 42.245292  -2.158138 42.245307  -2.158225 42.245285  -2.158199 42.245180  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1200,28 +1200,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.158225 42.245285  -2.158269 42.245273  -2.158245 42.245174  -2.158199 42.245180  -2.158225 42.245285  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4013345">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.157479 42.245700 </gml:lowerCorner>
-        		<gml:upperCorner>-2.157347 42.245768 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.157467 42.245700  -2.157347 42.245714  -2.157359 42.245768  -2.157479 42.245753  -2.157467 42.245700  </gml:posList>
+                <gml:posList srsDimension="2">-2.158225 42.245285  -2.158269 42.245273  -2.158245 42.245174  -2.158222 42.245177  -2.158199 42.245180  -2.158225 42.245285  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1347,7 +1326,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.159210 42.245189  -2.159157 42.245210  -2.159185 42.245250  -2.159238 42.245230  -2.159210 42.245189  </gml:posList>
+                <gml:posList srsDimension="2">-2.159210 42.245189  -2.159157 42.245210  -2.159171 42.245230  -2.159185 42.245250  -2.159238 42.245230  -2.159210 42.245189  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1389,7 +1368,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.158273 42.244374  -2.158155 42.244461  -2.158189 42.244495  -2.158206 42.244485  -2.158279 42.244445  -2.158322 42.244417  -2.158273 42.244374  </gml:posList>
+                <gml:posList srsDimension="2">-2.158273 42.244374  -2.158155 42.244461  -2.158189 42.244495  -2.158206 42.244485  -2.158279 42.244445  -2.158300 42.244431  -2.158322 42.244417  -2.158273 42.244374  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1542,27 +1521,6 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Bergasillas Somera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4013361">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.157677 42.244722 </gml:lowerCorner>
-        		<gml:upperCorner>-2.157569 42.244789 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.157655 42.244722  -2.157569 42.244747  -2.157595 42.244789  -2.157677 42.244765  -2.157655 42.244722  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3174,7 +3132,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.163124 42.238479  -2.163104 42.238497  -2.163146 42.238523  -2.163166 42.238504  -2.163124 42.238479  </gml:posList>
+                <gml:posList srsDimension="2">-2.163124 42.238479  -2.163104 42.238497  -2.163125 42.238510  -2.163146 42.238523  -2.163166 42.238504  -2.163124 42.238479  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3468,7 +3426,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.161418 42.244814  -2.161354 42.244785  -2.161271 42.244875  -2.161335 42.244905  -2.161418 42.244814  </gml:posList>
+                <gml:posList srsDimension="2">-2.161418 42.244814  -2.161354 42.244785  -2.161317 42.244825  -2.161271 42.244875  -2.161335 42.244905  -2.161418 42.244814  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3699,7 +3657,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.161484 42.237720  -2.161484 42.237690  -2.161491 42.237690  -2.161492 42.237657  -2.161420 42.237658  -2.161420 42.237716  -2.161484 42.237720  </gml:posList>
+                <gml:posList srsDimension="2">-2.161484 42.237720  -2.161484 42.237690  -2.161491 42.237690  -2.161492 42.237657  -2.161456 42.237658  -2.161420 42.237658  -2.161420 42.237716  -2.161484 42.237720  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3762,7 +3720,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.161725 42.237488  -2.161722 42.237480  -2.161765 42.237462  -2.161756 42.237442  -2.161763 42.237441  -2.161753 42.237415  -2.161743 42.237419  -2.161727 42.237377  -2.161530 42.237430  -2.161548 42.237480  -2.161599 42.237471  -2.161616 42.237511  -2.161725 42.237488  </gml:posList>
+                <gml:posList srsDimension="2">-2.161725 42.237488  -2.161722 42.237480  -2.161765 42.237462  -2.161756 42.237442  -2.161763 42.237441  -2.161753 42.237415  -2.161743 42.237419  -2.161735 42.237398  -2.161727 42.237377  -2.161530 42.237430  -2.161548 42.237480  -2.161599 42.237471  -2.161616 42.237511  -2.161725 42.237488  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4014,7 +3972,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.159457 42.244864  -2.159463 42.244900  -2.159485 42.244916  -2.159496 42.244914  -2.159491 42.244906  -2.159482 42.244861  -2.159482 42.244860  -2.159457 42.244864  </gml:posList>
+                <gml:posList srsDimension="2">-2.159457 42.244864  -2.159463 42.244900  -2.159485 42.244916  -2.159496 42.244914  -2.159491 42.244906  -2.159482 42.244861  -2.159482 42.244860  -2.159469 42.244862  -2.159457 42.244864  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4035,7 +3993,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.159482 42.244860  -2.159482 42.244861  -2.159491 42.244906  -2.159496 42.244914  -2.159534 42.244906  -2.159532 42.244902  -2.159516 42.244854  -2.159482 42.244860  </gml:posList>
+                <gml:posList srsDimension="2">-2.159482 42.244860  -2.159482 42.244861  -2.159491 42.244906  -2.159496 42.244914  -2.159534 42.244906  -2.159532 42.244902  -2.159516 42.244854  -2.159499 42.244857  -2.159482 42.244860  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4057,27 +4015,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.158831 42.244871  -2.158650 42.244931  -2.158688 42.245036  -2.158701 42.245076  -2.158877 42.245039  -2.158831 42.244871  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4013482">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.157467 42.245682 </gml:lowerCorner>
-        		<gml:upperCorner>-2.157343 42.245714 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.157347 42.245714  -2.157467 42.245700  -2.157463 42.245682  -2.157343 42.245696  -2.157347 42.245714  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4183,6 +4120,300 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.157798 42.244787  -2.157878 42.244857  -2.157929 42.244826  -2.157856 42.244760  -2.157798 42.244787  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165247 42.239207 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165204 42.239238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.165247 42.239226  -2.165237 42.239217  -2.165226 42.239207  -2.165204 42.239218  -2.165227 42.239238  -2.165247 42.239226  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540194">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166288 42.239827 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166239 42.239854 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.166280 42.239854  -2.166288 42.239833  -2.166245 42.239827  -2.166242 42.239838  -2.166239 42.239850  -2.166280 42.239854  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540201">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.162707 42.245091 </gml:lowerCorner>
+        		<gml:upperCorner>-2.162664 42.245123 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.162707 42.245109  -2.162690 42.245091  -2.162677 42.245098  -2.162664 42.245105  -2.162680 42.245123  -2.162707 42.245109  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540202">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.158910 42.245770 </gml:lowerCorner>
+        		<gml:upperCorner>-2.158713 42.245897 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.158910 42.245811  -2.158883 42.245781  -2.158851 42.245770  -2.158822 42.245784  -2.158785 42.245802  -2.158713 42.245838  -2.158733 42.245897  -2.158910 42.245811  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540203">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.157061 42.246197 </gml:lowerCorner>
+        		<gml:upperCorner>-2.157003 42.246233 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.157061 42.246225  -2.157061 42.246224  -2.157053 42.246197  -2.157028 42.246201  -2.157003 42.246205  -2.157011 42.246233  -2.157061 42.246225  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540204">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.161753 42.249049 </gml:lowerCorner>
+        		<gml:upperCorner>-2.161636 42.249141 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.161753 42.249113  -2.161728 42.249049  -2.161636 42.249071  -2.161651 42.249106  -2.161666 42.249141  -2.161675 42.249138  -2.161753 42.249113  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540211">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166760 42.260831 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166659 42.260895 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.166760 42.260856  -2.166676 42.260831  -2.166659 42.260872  -2.166697 42.260882  -2.166739 42.260895  -2.166760 42.260856  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540214">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.163557 42.238530 </gml:lowerCorner>
+        		<gml:upperCorner>-2.163466 42.238582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.163542 42.238582  -2.163557 42.238556  -2.163519 42.238543  -2.163481 42.238530  -2.163466 42.238558  -2.163542 42.238582  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Somera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540215">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.163009 42.237778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.162892 42.237833 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.163000 42.237833  -2.163009 42.237786  -2.162900 42.237778  -2.162896 42.237801  -2.162892 42.237825  -2.163000 42.237833  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Somera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540216">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.162792 42.237810 </gml:lowerCorner>
+        		<gml:upperCorner>-2.162728 42.237847 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.162780 42.237847  -2.162792 42.237825  -2.162740 42.237810  -2.162728 42.237833  -2.162780 42.237847  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Somera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540218">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.159613 42.244804 </gml:lowerCorner>
+        		<gml:upperCorner>-2.159575 42.244826 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.159579 42.244826  -2.159579 42.244826  -2.159613 42.244820  -2.159609 42.244804  -2.159575 42.244809  -2.159579 42.244826  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540219">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.159579 42.244802 </gml:lowerCorner>
+        		<gml:upperCorner>-2.159540 42.244831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.159579 42.244826  -2.159575 42.244809  -2.159574 42.244802  -2.159540 42.244806  -2.159545 42.244831  -2.159579 42.244826  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540245">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.157678 42.244715 </gml:lowerCorner>
+        		<gml:upperCorner>-2.157578 42.244787 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.157578 42.244738  -2.157604 42.244787  -2.157637 42.244777  -2.157678 42.244764  -2.157657 42.244715  -2.157578 42.244738  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasillas Bajera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasillas Bajera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4540247">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.157479 42.245682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.157343 42.245768 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.157463 42.245682  -2.157343 42.245696  -2.157347 42.245714  -2.157359 42.245768  -2.157479 42.245753  -2.157467 42.245700  -2.157463 42.245682  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

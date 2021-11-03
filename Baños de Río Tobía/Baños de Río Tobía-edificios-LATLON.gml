@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.778111 42.324837 </gml:lowerCorner>
-      		<gml:upperCorner>-2.747192 42.357247 </gml:upperCorner>
+      		<gml:lowerCorner>-2.781432 42.325935 </gml:lowerCorner>
+      		<gml:upperCorner>-2.725735 42.357247 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -621,7 +621,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.767430 42.331854  -2.767431 42.331822  -2.767589 42.331825  -2.767596 42.331603  -2.767237 42.331596  -2.767229 42.331818  -2.767385 42.331821  -2.767384 42.331853  -2.767430 42.331854  </gml:posList>
+                <gml:posList srsDimension="2">-2.767430 42.331854  -2.767431 42.331822  -2.767589 42.331825  -2.767596 42.331603  -2.767237 42.331596  -2.767229 42.331818  -2.767307 42.331820  -2.767385 42.331821  -2.767384 42.331853  -2.767430 42.331854  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1749,7 +1749,7 @@
       <ms:edificios gml:id="edificios.4084103">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.766787 42.331993 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.766948 42.331993 </gml:lowerCorner>
         		<gml:upperCorner>-2.766596 42.332339 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -1757,7 +1757,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.766753 42.332284  -2.766787 42.332004  -2.766634 42.331993  -2.766596 42.332339  -2.766753 42.332284  </gml:posList>
+                <gml:posList srsDimension="2">-2.766948 42.332231  -2.766923 42.332178  -2.766775 42.332212  -2.766799 42.331998  -2.766634 42.331993  -2.766596 42.332339  -2.766948 42.332231  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2188,7 +2188,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757595 42.335418  -2.757381 42.335745  -2.757422 42.335759  -2.757476 42.335675  -2.757550 42.335701  -2.757709 42.335458  -2.757595 42.335418  </gml:posList>
+                <gml:posList srsDimension="2">-2.757595 42.335418  -2.757381 42.335745  -2.757422 42.335759  -2.757449 42.335717  -2.757476 42.335675  -2.757550 42.335701  -2.757709 42.335458  -2.757595 42.335418  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2735,69 +2735,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.760782 42.327817  -2.760790 42.327880  -2.761070 42.327893  -2.761145 42.327896  -2.761149 42.327896  -2.761153 42.327839  -2.760782 42.327817  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084149">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762086 42.325813 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761938 42.326054 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762086 42.326046  -2.762056 42.325813  -2.761938 42.325821  -2.761966 42.326054  -2.762086 42.326046  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084150">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761642 42.325806 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761329 42.325967 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761642 42.325946  -2.761625 42.325806  -2.761329 42.325826  -2.761346 42.325967  -2.761642 42.325946  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084151">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761966 42.325785 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761779 42.326065 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761966 42.326054  -2.761938 42.325821  -2.761933 42.325785  -2.761779 42.325795  -2.761812 42.326065  -2.761966 42.326054  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5581,90 +5518,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084283">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761812 42.325795 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761625 42.326075 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761812 42.326065  -2.761779 42.325795  -2.761625 42.325806  -2.761642 42.325946  -2.761658 42.326075  -2.761812 42.326065  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084284">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761658 42.325946 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761273 42.326101 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761658 42.326075  -2.761642 42.325946  -2.761346 42.325967  -2.761279 42.325972  -2.761273 42.326101  -2.761658 42.326075  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084285">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761346 42.325826 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761279 42.325972 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761346 42.325967  -2.761329 42.325826  -2.761286 42.325829  -2.761279 42.325972  -2.761346 42.325967  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084286">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762324 42.325797 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762175 42.326038 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762324 42.326030  -2.762294 42.325797  -2.762175 42.325805  -2.762205 42.326038  -2.762324 42.326030  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4084287">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6012,7 +5865,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764748 42.332986  -2.764701 42.332988  -2.764654 42.332991  -2.764601 42.332996  -2.764581 42.332998  -2.764596 42.333093  -2.764766 42.333076  -2.764748 42.332986  </gml:posList>
+                <gml:posList srsDimension="2">-2.764748 42.332986  -2.764701 42.332988  -2.764654 42.332991  -2.764601 42.332996  -2.764581 42.332998  -2.764596 42.333093  -2.764681 42.333085  -2.764766 42.333076  -2.764748 42.332986  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6076,27 +5929,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.757357 42.336071  -2.757427 42.336089  -2.757549 42.335899  -2.757513 42.335886  -2.757500 42.335882  -2.757482 42.335875  -2.757480 42.335879  -2.757419 42.335973  -2.757358 42.336068  -2.757357 42.336071  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084307">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762308 42.333100 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762192 42.333263 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762292 42.333115  -2.762257 42.333116  -2.762255 42.333100  -2.762192 42.333104  -2.762203 42.333195  -2.762192 42.333196  -2.762199 42.333263  -2.762308 42.333256  -2.762292 42.333115  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7000,48 +6832,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.757496 42.335147  -2.757504 42.335089  -2.757445 42.335080  -2.757435 42.335138  -2.757496 42.335147  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084351">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762205 42.325805 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762056 42.326046 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762205 42.326038  -2.762175 42.325805  -2.762056 42.325813  -2.762086 42.326046  -2.762205 42.326038  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084352">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762681 42.325773 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762532 42.326014 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762681 42.326006  -2.762652 42.325773  -2.762532 42.325781  -2.762562 42.326014  -2.762681 42.326006  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8419,57 +8209,15 @@
       <ms:edificios gml:id="edificios.4084419">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757523 42.335029 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757477 42.335063 </gml:upperCorner>
+        		<gml:lowerCorner>-2.757523 42.335021 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757477 42.335059 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757520 42.335063  -2.757523 42.335035  -2.757477 42.335029  -2.757477 42.335063  -2.757520 42.335063  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084420">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762562 42.325781 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762413 42.326022 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762562 42.326014  -2.762532 42.325781  -2.762413 42.325789  -2.762443 42.326022  -2.762562 42.326014  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084421">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762443 42.325789 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762294 42.326030 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762443 42.326022  -2.762413 42.325789  -2.762294 42.325797  -2.762324 42.326030  -2.762443 42.326022  </gml:posList>
+                <gml:posList srsDimension="2">-2.757511 42.335059  -2.757523 42.335035  -2.757505 42.335028  -2.757487 42.335021  -2.757477 42.335046  -2.757511 42.335059  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8868,7 +8616,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755937 42.342015  -2.755870 42.342002  -2.755811 42.342159  -2.755878 42.342175  -2.755937 42.342015  </gml:posList>
+                <gml:posList srsDimension="2">-2.755937 42.342015  -2.755870 42.342002  -2.755811 42.342159  -2.755878 42.342175  -2.755907 42.342095  -2.755937 42.342015  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11073,7 +10821,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755568 42.333631  -2.755730 42.333599  -2.755631 42.333323  -2.755451 42.333317  -2.755568 42.333631  </gml:posList>
+                <gml:posList srsDimension="2">-2.755568 42.333631  -2.755649 42.333615  -2.755730 42.333599  -2.755631 42.333323  -2.755451 42.333317  -2.755568 42.333631  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11087,14 +10835,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.755747 42.334099 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755601 42.334181 </gml:upperCorner>
+        		<gml:upperCorner>-2.755601 42.334175 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755730 42.334181  -2.755747 42.334127  -2.755618 42.334099  -2.755601 42.334147  -2.755730 42.334181  </gml:posList>
+                <gml:posList srsDimension="2">-2.755732 42.334175  -2.755747 42.334127  -2.755618 42.334099  -2.755601 42.334147  -2.755732 42.334175  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12178,15 +11926,15 @@
       <ms:edificios gml:id="edificios.4084600">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762146 42.340120 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762011 42.340209 </gml:upperCorner>
+        		<gml:lowerCorner>-2.762160 42.340101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761994 42.340209 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762146 42.340135  -2.762031 42.340120  -2.762011 42.340194  -2.762128 42.340209  -2.762146 42.340135  </gml:posList>
+                <gml:posList srsDimension="2">-2.762160 42.340119  -2.762013 42.340101  -2.761994 42.340192  -2.762141 42.340209  -2.762160 42.340119  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12417,7 +12165,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757798 42.333778  -2.757783 42.333741  -2.757708 42.333753  -2.757720 42.333788  -2.757798 42.333778  </gml:posList>
+                <gml:posList srsDimension="2">-2.757798 42.333778  -2.757791 42.333759  -2.757783 42.333741  -2.757708 42.333753  -2.757720 42.333788  -2.757798 42.333778  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13866,7 +13614,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758009 42.334128  -2.757980 42.334040  -2.757913 42.334048  -2.757942 42.334136  -2.758009 42.334128  </gml:posList>
+                <gml:posList srsDimension="2">-2.758009 42.334128  -2.757980 42.334040  -2.757913 42.334048  -2.757927 42.334092  -2.757942 42.334136  -2.758009 42.334128  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15472,27 +15220,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084758">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761557 42.333596 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761409 42.333844 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761557 42.333618  -2.761555 42.333596  -2.761409 42.333610  -2.761448 42.333844  -2.761469 42.333841  -2.761426 42.333630  -2.761491 42.333624  -2.761552 42.333619  -2.761557 42.333618  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4084759">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -15924,7 +15651,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764421 42.333190  -2.764437 42.333268  -2.764517 42.333258  -2.764502 42.333178  -2.764476 42.333182  -2.764421 42.333190  </gml:posList>
+                <gml:posList srsDimension="2">-2.764421 42.333190  -2.764429 42.333229  -2.764437 42.333268  -2.764517 42.333258  -2.764502 42.333178  -2.764476 42.333182  -2.764421 42.333190  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17614,27 +17341,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4084867">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757083 42.354504 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756962 42.354708 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757083 42.354515  -2.757023 42.354504  -2.756962 42.354694  -2.757016 42.354708  -2.757083 42.354515  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4084868">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -17646,7 +17352,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755945 42.354370  -2.755941 42.354332  -2.755807 42.354338  -2.755807 42.354375  -2.755945 42.354370  </gml:posList>
+                <gml:posList srsDimension="2">-2.755945 42.354370  -2.755941 42.354332  -2.755895 42.354334  -2.755807 42.354338  -2.755807 42.354375  -2.755945 42.354370  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -18990,7 +18696,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763475 42.341763  -2.763524 42.341760  -2.763523 42.341745  -2.763514 42.341745  -2.763511 42.341708  -2.763475 42.341707  -2.763475 42.341763  </gml:posList>
+                <gml:posList srsDimension="2">-2.763475 42.341763  -2.763524 42.341760  -2.763523 42.341745  -2.763514 42.341745  -2.763511 42.341708  -2.763475 42.341707  -2.763475 42.341741  -2.763475 42.341763  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19003,15 +18709,15 @@
       <ms:edificios gml:id="edificios.4084933">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761774 42.342541 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761728 42.342593 </gml:upperCorner>
+        		<gml:lowerCorner>-2.761784 42.342534 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761734 42.342586 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761764 42.342593  -2.761774 42.342551  -2.761741 42.342541  -2.761728 42.342587  -2.761764 42.342593  </gml:posList>
+                <gml:posList srsDimension="2">-2.761770 42.342586  -2.761784 42.342538  -2.761747 42.342534  -2.761741 42.342557  -2.761734 42.342580  -2.761770 42.342586  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19024,15 +18730,15 @@
       <ms:edificios gml:id="edificios.4084934">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761574 42.342205 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761465 42.342293 </gml:upperCorner>
+        		<gml:lowerCorner>-2.761589 42.342193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761457 42.342294 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761558 42.342293  -2.761574 42.342220  -2.761483 42.342205  -2.761465 42.342278  -2.761558 42.342293  </gml:posList>
+                <gml:posList srsDimension="2">-2.761568 42.342294  -2.761589 42.342211  -2.761483 42.342193  -2.761457 42.342274  -2.761568 42.342294  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19045,15 +18751,15 @@
       <ms:edificios gml:id="edificios.4084935">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761580 42.343249 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761479 42.343331 </gml:upperCorner>
+        		<gml:lowerCorner>-2.761592 42.343249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761480 42.343324 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761570 42.343331  -2.761580 42.343253  -2.761487 42.343249  -2.761479 42.343331  -2.761570 42.343331  </gml:posList>
+                <gml:posList srsDimension="2">-2.761590 42.343324  -2.761592 42.343252  -2.761534 42.343251  -2.761487 42.343249  -2.761480 42.343324  -2.761590 42.343324  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19074,7 +18780,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761787 42.343376  -2.761735 42.343370  -2.761725 42.343435  -2.761779 42.343439  -2.761787 42.343376  </gml:posList>
+                <gml:posList srsDimension="2">-2.761787 42.343376  -2.761735 42.343370  -2.761733 42.343386  -2.761725 42.343435  -2.761779 42.343439  -2.761787 42.343376  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19087,15 +18793,15 @@
       <ms:edificios gml:id="edificios.4084937">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761347 42.343289 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761244 42.343325 </gml:upperCorner>
+        		<gml:lowerCorner>-2.761338 42.343292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761260 42.343320 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761347 42.343325  -2.761345 42.343293  -2.761244 42.343289  -2.761249 42.343323  -2.761347 42.343325  </gml:posList>
+                <gml:posList srsDimension="2">-2.761338 42.343320  -2.761338 42.343292  -2.761297 42.343292  -2.761260 42.343292  -2.761260 42.343318  -2.761338 42.343320  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20376,7 +20082,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.766055 42.339268  -2.766003 42.339238  -2.765980 42.339270  -2.765892 42.339220  -2.765853 42.339264  -2.765974 42.339326  -2.766055 42.339268  </gml:posList>
+                <gml:posList srsDimension="2">-2.766055 42.339268  -2.766003 42.339238  -2.765980 42.339270  -2.765892 42.339220  -2.765853 42.339264  -2.765920 42.339298  -2.765974 42.339326  -2.766055 42.339268  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20397,7 +20103,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.765247 42.338896  -2.765226 42.338833  -2.765182 42.338808  -2.764978 42.338771  -2.764965 42.338861  -2.765247 42.338896  </gml:posList>
+                <gml:posList srsDimension="2">-2.765247 42.338896  -2.765226 42.338833  -2.765182 42.338808  -2.764978 42.338771  -2.764971 42.338816  -2.764965 42.338861  -2.765247 42.338896  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20439,7 +20145,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764365 42.338787  -2.764394 42.338689  -2.764228 42.338678  -2.764223 42.338772  -2.764365 42.338787  </gml:posList>
+                <gml:posList srsDimension="2">-2.764380 42.338787  -2.764387 42.338738  -2.764394 42.338689  -2.764228 42.338678  -2.764223 42.338772  -2.764380 42.338787  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20452,7 +20158,7 @@
       <ms:edificios gml:id="edificios.4085002">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.764367 42.338772 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.764380 42.338772 </gml:lowerCorner>
         		<gml:upperCorner>-2.764207 42.338826 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -20460,7 +20166,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764223 42.338772  -2.764207 42.338812  -2.764367 42.338826  -2.764365 42.338787  -2.764223 42.338772  </gml:posList>
+                <gml:posList srsDimension="2">-2.764223 42.338772  -2.764207 42.338812  -2.764367 42.338826  -2.764380 42.338787  -2.764223 42.338772  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20473,15 +20179,15 @@
       <ms:edificios gml:id="edificios.4085003">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.763652 42.339244 </gml:lowerCorner>
-        		<gml:upperCorner>-2.763533 42.339346 </gml:upperCorner>
+        		<gml:lowerCorner>-2.763658 42.339239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763540 42.339334 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763647 42.339254  -2.763533 42.339244  -2.763535 42.339344  -2.763652 42.339346  -2.763647 42.339254  </gml:posList>
+                <gml:posList srsDimension="2">-2.763654 42.339249  -2.763540 42.339239  -2.763546 42.339323  -2.763658 42.339334  -2.763654 42.339249  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20494,15 +20200,15 @@
       <ms:edificios gml:id="edificios.4085004">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.764295 42.338879 </gml:lowerCorner>
-        		<gml:upperCorner>-2.764170 42.338931 </gml:upperCorner>
+        		<gml:lowerCorner>-2.764309 42.338895 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764206 42.338946 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764295 42.338889  -2.764181 42.338879  -2.764170 42.338917  -2.764287 42.338931  -2.764295 42.338889  </gml:posList>
+                <gml:posList srsDimension="2">-2.764309 42.338903  -2.764214 42.338895  -2.764206 42.338934  -2.764301 42.338946  -2.764309 42.338903  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21796,15 +21502,15 @@
       <ms:edificios gml:id="edificios.4085066">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758836 42.343932 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758711 42.344011 </gml:upperCorner>
+        		<gml:lowerCorner>-2.758838 42.343925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758724 42.344011 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758812 42.344011  -2.758836 42.343959  -2.758735 42.343932  -2.758711 42.343991  -2.758812 42.344011  </gml:posList>
+                <gml:posList srsDimension="2">-2.758812 42.344011  -2.758838 42.343947  -2.758751 42.343925  -2.758724 42.343994  -2.758812 42.344011  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21825,7 +21531,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759816 42.343387  -2.759829 42.343343  -2.759697 42.343318  -2.759681 42.343356  -2.759816 42.343387  </gml:posList>
+                <gml:posList srsDimension="2">-2.759816 42.343387  -2.759829 42.343343  -2.759697 42.343318  -2.759681 42.343356  -2.759748 42.343372  -2.759816 42.343387  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21888,7 +21594,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757649 42.343834  -2.757574 42.343820  -2.757539 42.343954  -2.757612 42.343970  -2.757649 42.343834  </gml:posList>
+                <gml:posList srsDimension="2">-2.757649 42.343834  -2.757574 42.343820  -2.757539 42.343954  -2.757612 42.343970  -2.757637 42.343876  -2.757649 42.343834  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21901,15 +21607,15 @@
       <ms:edificios gml:id="edificios.4085071">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756851 42.344816 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756765 42.344874 </gml:upperCorner>
+        		<gml:lowerCorner>-2.756875 42.344811 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756747 42.344869 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756843 42.344874  -2.756851 42.344822  -2.756768 42.344816  -2.756765 42.344862  -2.756843 42.344874  </gml:posList>
+                <gml:posList srsDimension="2">-2.756862 42.344869  -2.756875 42.344826  -2.756753 42.344811  -2.756747 42.344842  -2.756777 42.344846  -2.756775 42.344857  -2.756862 42.344869  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21964,15 +21670,15 @@
       <ms:edificios gml:id="edificios.4085074">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.755403 42.344527 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755333 42.344598 </gml:upperCorner>
+        		<gml:lowerCorner>-2.755403 42.344536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755348 42.344592 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755377 42.344598  -2.755403 42.344545  -2.755367 42.344527  -2.755333 42.344591  -2.755377 42.344598  </gml:posList>
+                <gml:posList srsDimension="2">-2.755388 42.344592  -2.755403 42.344545  -2.755364 42.344536  -2.755356 42.344560  -2.755348 42.344584  -2.755388 42.344592  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23001,7 +22707,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.760962 42.341514  -2.760978 42.341464  -2.760907 42.341454  -2.760894 42.341506  -2.760962 42.341514  </gml:posList>
+                <gml:posList srsDimension="2">-2.760962 42.341514  -2.760978 42.341464  -2.760942 42.341459  -2.760907 42.341454  -2.760894 42.341506  -2.760962 42.341514  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23767,27 +23473,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4085162">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.764989 42.330753 </gml:lowerCorner>
-        		<gml:upperCorner>-2.764909 42.330809 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764918 42.330753  -2.764909 42.330802  -2.764980 42.330809  -2.764989 42.330760  -2.764918 42.330753  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4085163">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -24177,7 +23862,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756648 42.335311  -2.756637 42.335337  -2.756626 42.335362  -2.756687 42.335377  -2.756709 42.335326  -2.756679 42.335319  -2.756648 42.335311  </gml:posList>
+                <gml:posList srsDimension="2">-2.756648 42.335311  -2.756637 42.335337  -2.756626 42.335362  -2.756687 42.335377  -2.756698 42.335352  -2.756709 42.335326  -2.756679 42.335319  -2.756648 42.335311  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24513,7 +24198,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753854 42.339109  -2.753281 42.338942  -2.753225 42.339047  -2.753796 42.339210  -2.753854 42.339109  </gml:posList>
+                <gml:posList srsDimension="2">-2.753854 42.339109  -2.753651 42.339050  -2.753281 42.338942  -2.753225 42.339047  -2.753796 42.339210  -2.753854 42.339109  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24526,15 +24211,15 @@
       <ms:edificios gml:id="edificios.4085198">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.753392 42.334059 </gml:lowerCorner>
-        		<gml:upperCorner>-2.753203 42.334178 </gml:upperCorner>
+        		<gml:lowerCorner>-2.753399 42.334064 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753215 42.334178 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753392 42.334081  -2.753294 42.334059  -2.753203 42.334158  -2.753347 42.334178  -2.753392 42.334081  </gml:posList>
+                <gml:posList srsDimension="2">-2.753399 42.334080  -2.753316 42.334064  -2.753266 42.334106  -2.753215 42.334147  -2.753347 42.334178  -2.753399 42.334080  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24547,15 +24232,15 @@
       <ms:edificios gml:id="edificios.4085199">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754274 42.334467 </gml:lowerCorner>
-        		<gml:upperCorner>-2.753697 42.334646 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754286 42.334542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753939 42.334646 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754265 42.334646  -2.754274 42.334576  -2.753768 42.334487  -2.753768 42.334470  -2.753715 42.334467  -2.753697 42.334533  -2.754265 42.334646  </gml:posList>
+                <gml:posList srsDimension="2">-2.753939 42.334581  -2.754265 42.334646  -2.754286 42.334606  -2.753958 42.334542  -2.753939 42.334581  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24576,7 +24261,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754489 42.334758  -2.754489 42.334712  -2.754436 42.334650  -2.754404 42.334631  -2.754363 42.334635  -2.754318 42.334711  -2.754401 42.334727  -2.754395 42.334751  -2.754489 42.334758  </gml:posList>
+                <gml:posList srsDimension="2">-2.754489 42.334758  -2.754489 42.334712  -2.754436 42.334650  -2.754404 42.334631  -2.754363 42.334635  -2.754340 42.334673  -2.754318 42.334711  -2.754401 42.334727  -2.754395 42.334751  -2.754489 42.334758  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24639,28 +24324,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752800 42.334496  -2.752824 42.334454  -2.752715 42.334428  -2.752691 42.334467  -2.752800 42.334496  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4085204">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.752691 42.334517 </gml:lowerCorner>
-        		<gml:upperCorner>-2.752626 42.334557 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752691 42.334531  -2.752632 42.334517  -2.752626 42.334544  -2.752682 42.334557  -2.752691 42.334531  </gml:posList>
+                <gml:posList srsDimension="2">-2.752800 42.334496  -2.752812 42.334475  -2.752824 42.334454  -2.752715 42.334428  -2.752691 42.334467  -2.752800 42.334496  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24681,7 +24345,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753027 42.335515  -2.753087 42.335457  -2.753001 42.335410  -2.752942 42.335466  -2.753027 42.335515  </gml:posList>
+                <gml:posList srsDimension="2">-2.753027 42.335515  -2.753056 42.335487  -2.753087 42.335457  -2.753001 42.335410  -2.752942 42.335466  -2.753027 42.335515  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24702,7 +24366,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752620 42.335216  -2.752627 42.335187  -2.752624 42.335185  -2.752634 42.335159  -2.752603 42.335153  -2.752595 42.335180  -2.752445 42.335155  -2.752441 42.335179  -2.752462 42.335185  -2.752460 42.335193  -2.752494 42.335200  -2.752500 42.335191  -2.752620 42.335216  </gml:posList>
+                <gml:posList srsDimension="2">-2.752620 42.335216  -2.752627 42.335187  -2.752624 42.335185  -2.752634 42.335159  -2.752603 42.335153  -2.752595 42.335180  -2.752445 42.335155  -2.752443 42.335167  -2.752441 42.335179  -2.752462 42.335185  -2.752460 42.335193  -2.752494 42.335200  -2.752500 42.335191  -2.752620 42.335216  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24737,14 +24401,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.750895 42.336693 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750801 42.336761 </gml:upperCorner>
+        		<gml:upperCorner>-2.750801 42.336753 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.750893 42.336761  -2.750895 42.336693  -2.750804 42.336693  -2.750801 42.336753  -2.750893 42.336761  </gml:posList>
+                <gml:posList srsDimension="2">-2.750893 42.336749  -2.750895 42.336693  -2.750804 42.336693  -2.750802 42.336723  -2.750801 42.336753  -2.750893 42.336749  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26036,7 +25700,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.750273 42.336895  -2.750260 42.336744  -2.750069 42.336757  -2.750072 42.336807  -2.750026 42.336807  -2.750020 42.336907  -2.750273 42.336895  </gml:posList>
+                <gml:posList srsDimension="2">-2.750273 42.336895  -2.750260 42.336744  -2.750069 42.336757  -2.750072 42.336807  -2.750026 42.336807  -2.750023 42.336857  -2.750020 42.336907  -2.750273 42.336895  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26049,15 +25713,15 @@
       <ms:edificios gml:id="edificios.4085271">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754023 42.344343 </gml:lowerCorner>
-        		<gml:upperCorner>-2.753597 42.344519 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754020 42.344320 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753565 42.344517 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753997 42.344519  -2.754023 42.344403  -2.753614 42.344343  -2.753597 42.344462  -2.753997 42.344519  </gml:posList>
+                <gml:posList srsDimension="2">-2.753986 42.344517  -2.754020 42.344385  -2.753599 42.344320  -2.753565 42.344457  -2.753986 42.344517  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27288,15 +26952,15 @@
       <ms:edificios gml:id="edificios.4085330">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757075 42.345547 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757022 42.345611 </gml:upperCorner>
+        		<gml:lowerCorner>-2.757088 42.345541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757036 42.345605 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757075 42.345552  -2.757031 42.345547  -2.757022 42.345608  -2.757072 42.345611  -2.757075 42.345552  </gml:posList>
+                <gml:posList srsDimension="2">-2.757088 42.345546  -2.757044 42.345541  -2.757036 42.345602  -2.757085 42.345605  -2.757088 42.345546  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27317,7 +26981,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757632 42.344717  -2.757536 42.344696  -2.757508 42.344777  -2.757609 42.344795  -2.757632 42.344717  </gml:posList>
+                <gml:posList srsDimension="2">-2.757632 42.344717  -2.757536 42.344696  -2.757508 42.344777  -2.757609 42.344795  -2.757620 42.344759  -2.757632 42.344717  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27351,15 +27015,15 @@
       <ms:edificios gml:id="edificios.4085333">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759894 42.346043 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759820 42.346120 </gml:upperCorner>
+        		<gml:lowerCorner>-2.759907 42.346033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759830 42.346110 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759894 42.346057  -2.759840 42.346043  -2.759820 42.346111  -2.759880 42.346120  -2.759894 42.346057  </gml:posList>
+                <gml:posList srsDimension="2">-2.759907 42.346041  -2.759851 42.346033  -2.759841 42.346067  -2.759830 42.346101  -2.759891 42.346110  -2.759907 42.346041  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27380,7 +27044,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.760923 42.345261  -2.760876 42.345248  -2.760854 42.345314  -2.760896 42.345324  -2.760923 42.345261  </gml:posList>
+                <gml:posList srsDimension="2">-2.760923 42.345261  -2.760876 42.345248  -2.760865 42.345281  -2.760854 42.345314  -2.760896 42.345324  -2.760923 42.345261  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27401,7 +27065,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763375 42.345893  -2.763401 42.345806  -2.763323 42.345797  -2.763300 42.345882  -2.763375 42.345893  </gml:posList>
+                <gml:posList srsDimension="2">-2.763375 42.345893  -2.763401 42.345806  -2.763323 42.345797  -2.763300 42.345882  -2.763338 42.345888  -2.763375 42.345893  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27414,15 +27078,15 @@
       <ms:edificios gml:id="edificios.4085336">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.763038 42.345434 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762954 42.345493 </gml:upperCorner>
+        		<gml:lowerCorner>-2.763050 42.345436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762965 42.345494 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763031 42.345493  -2.763038 42.345444  -2.762962 42.345434  -2.762954 42.345484  -2.763031 42.345493  </gml:posList>
+                <gml:posList srsDimension="2">-2.763043 42.345494  -2.763050 42.345446  -2.762974 42.345436  -2.762970 42.345460  -2.762965 42.345485  -2.763043 42.345494  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27435,7 +27099,7 @@
       <ms:edificios gml:id="edificios.4085337">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762691 42.339473 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.762691 42.339465 </gml:lowerCorner>
         		<gml:upperCorner>-2.762612 42.339525 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -27443,7 +27107,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762683 42.339525  -2.762691 42.339479  -2.762620 42.339473  -2.762612 42.339511  -2.762683 42.339525  </gml:posList>
+                <gml:posList srsDimension="2">-2.762683 42.339525  -2.762691 42.339479  -2.762655 42.339472  -2.762618 42.339465  -2.762612 42.339511  -2.762683 42.339525  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27485,7 +27149,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.765042 42.337929  -2.765060 42.337884  -2.764963 42.337865  -2.764948 42.337911  -2.765042 42.337929  </gml:posList>
+                <gml:posList srsDimension="2">-2.765042 42.337929  -2.765060 42.337884  -2.764963 42.337865  -2.764948 42.337911  -2.764995 42.337920  -2.765042 42.337929  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27519,7 +27183,7 @@
       <ms:edificios gml:id="edificios.4085341">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.767625 42.337583 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.767653 42.337561 </gml:lowerCorner>
         		<gml:upperCorner>-2.767472 42.337716 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -27527,7 +27191,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.767625 42.337606  -2.767581 42.337583  -2.767472 42.337694  -2.767523 42.337716  -2.767625 42.337606  </gml:posList>
+                <gml:posList srsDimension="2">-2.767653 42.337583  -2.767630 42.337572  -2.767606 42.337561  -2.767472 42.337694  -2.767523 42.337716  -2.767653 42.337583  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27548,7 +27212,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.766393 42.337611  -2.766382 42.337567  -2.766317 42.337576  -2.766331 42.337620  -2.766393 42.337611  </gml:posList>
+                <gml:posList srsDimension="2">-2.766393 42.337611  -2.766382 42.337567  -2.766349 42.337571  -2.766317 42.337576  -2.766331 42.337620  -2.766393 42.337611  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27590,7 +27254,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.765417 42.336405  -2.765413 42.336360  -2.765272 42.336360  -2.765275 42.336406  -2.765417 42.336405  </gml:posList>
+                <gml:posList srsDimension="2">-2.765417 42.336405  -2.765413 42.336360  -2.765343 42.336360  -2.765272 42.336360  -2.765275 42.336406  -2.765417 42.336405  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27611,7 +27275,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.765511 42.335904  -2.765545 42.335908  -2.765636 42.335858  -2.765617 42.335785  -2.765546 42.335779  -2.765511 42.335904  </gml:posList>
+                <gml:posList srsDimension="2">-2.765511 42.335904  -2.765545 42.335908  -2.765636 42.335858  -2.765617 42.335785  -2.765581 42.335782  -2.765546 42.335779  -2.765511 42.335904  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28745,7 +28409,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.765511 42.335904  -2.765546 42.335779  -2.765479 42.335766  -2.765440 42.335863  -2.765435 42.335887  -2.765511 42.335904  </gml:posList>
+                <gml:posList srsDimension="2">-2.765511 42.335904  -2.765546 42.335779  -2.765512 42.335772  -2.765479 42.335766  -2.765440 42.335863  -2.765435 42.335887  -2.765511 42.335904  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28766,7 +28430,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.765479 42.335766  -2.765128 42.335702  -2.765097 42.335797  -2.765440 42.335863  -2.765479 42.335766  </gml:posList>
+                <gml:posList srsDimension="2">-2.765479 42.335766  -2.765292 42.335732  -2.765128 42.335702  -2.765097 42.335797  -2.765440 42.335863  -2.765479 42.335766  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28829,7 +28493,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761767 42.347658  -2.761709 42.347643  -2.761693 42.347676  -2.761750 42.347690  -2.761767 42.347658  </gml:posList>
+                <gml:posList srsDimension="2">-2.761767 42.347658  -2.761709 42.347643  -2.761701 42.347659  -2.761693 42.347676  -2.761750 42.347690  -2.761767 42.347658  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28842,15 +28506,15 @@
       <ms:edificios gml:id="edificios.4085404">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.763484 42.349574 </gml:lowerCorner>
-        		<gml:upperCorner>-2.763411 42.349609 </gml:upperCorner>
+        		<gml:lowerCorner>-2.763494 42.349565 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763418 42.349605 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763484 42.349596  -2.763479 42.349574  -2.763411 42.349587  -2.763423 42.349609  -2.763484 42.349596  </gml:posList>
+                <gml:posList srsDimension="2">-2.763494 42.349591  -2.763485 42.349565  -2.763418 42.349581  -2.763424 42.349593  -2.763430 42.349605  -2.763494 42.349591  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28892,7 +28556,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763089 42.351452  -2.763091 42.351428  -2.763026 42.351422  -2.763023 42.351449  -2.763089 42.351452  </gml:posList>
+                <gml:posList srsDimension="2">-2.763089 42.351452  -2.763091 42.351428  -2.763059 42.351425  -2.763026 42.351422  -2.763023 42.351449  -2.763089 42.351452  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28913,7 +28577,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761544 42.353721  -2.761373 42.353724  -2.761371 42.353799  -2.761545 42.353799  -2.761544 42.353721  </gml:posList>
+                <gml:posList srsDimension="2">-2.761544 42.353721  -2.761459 42.353722  -2.761373 42.353724  -2.761371 42.353799  -2.761545 42.353799  -2.761544 42.353721  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28926,15 +28590,15 @@
       <ms:edificios gml:id="edificios.4085408">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.747308 42.357098 </gml:lowerCorner>
-        		<gml:upperCorner>-2.747192 42.357247 </gml:upperCorner>
+        		<gml:lowerCorner>-2.747308 42.357090 </gml:lowerCorner>
+        		<gml:upperCorner>-2.747203 42.357247 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.747280 42.357247  -2.747308 42.357108  -2.747245 42.357098  -2.747192 42.357233  -2.747280 42.357247  </gml:posList>
+                <gml:posList srsDimension="2">-2.747280 42.357247  -2.747308 42.357108  -2.747234 42.357090  -2.747203 42.357231  -2.747280 42.357247  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28955,7 +28619,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751413 42.332377  -2.751436 42.332285  -2.751391 42.332274  -2.751363 42.332368  -2.751413 42.332377  </gml:posList>
+                <gml:posList srsDimension="2">-2.751413 42.332377  -2.751436 42.332285  -2.751413 42.332280  -2.751391 42.332274  -2.751363 42.332368  -2.751413 42.332377  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28989,7 +28653,7 @@
       <ms:edificios gml:id="edificios.4085411">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751030 42.331576 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.751030 42.331573 </gml:lowerCorner>
         		<gml:upperCorner>-2.750902 42.331668 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -28997,7 +28661,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751030 42.331646  -2.750991 42.331576  -2.750902 42.331594  -2.750931 42.331668  -2.751030 42.331646  </gml:posList>
+                <gml:posList srsDimension="2">-2.751030 42.331646  -2.751020 42.331612  -2.751005 42.331573  -2.750902 42.331594  -2.750931 42.331668  -2.751030 42.331646  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -29018,7 +28682,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753485 42.333304  -2.753538 42.333164  -2.753458 42.333144  -2.753472 42.333109  -2.753376 42.333090  -2.753362 42.333125  -2.753293 42.333107  -2.753247 42.333205  -2.753310 42.333220  -2.753296 42.333259  -2.753485 42.333304  </gml:posList>
+                <gml:posList srsDimension="2">-2.753485 42.333304  -2.753538 42.333164  -2.753458 42.333144  -2.753472 42.333109  -2.753376 42.333090  -2.753362 42.333125  -2.753293 42.333107  -2.753247 42.333205  -2.753310 42.333220  -2.753296 42.333259  -2.753391 42.333282  -2.753485 42.333304  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30081,15 +29745,15 @@
       <ms:edificios gml:id="edificios.4085465">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751473 42.331705 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751309 42.331791 </gml:upperCorner>
+        		<gml:lowerCorner>-2.751482 42.331694 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751317 42.331780 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751473 42.331713  -2.751366 42.331705  -2.751356 42.331739  -2.751315 42.331740  -2.751309 42.331780  -2.751458 42.331791  -2.751473 42.331713  </gml:posList>
+                <gml:posList srsDimension="2">-2.751482 42.331702  -2.751374 42.331694  -2.751369 42.331711  -2.751364 42.331728  -2.751323 42.331729  -2.751317 42.331769  -2.751466 42.331780  -2.751482 42.331702  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30131,7 +29795,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754267 42.333367  -2.754141 42.333352  -2.754115 42.333433  -2.754246 42.333445  -2.754267 42.333367  </gml:posList>
+                <gml:posList srsDimension="2">-2.754267 42.333367  -2.754141 42.333352  -2.754115 42.333433  -2.754180 42.333439  -2.754246 42.333445  -2.754267 42.333367  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30152,7 +29816,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755143 42.333600  -2.754984 42.333538  -2.754934 42.333609  -2.755094 42.333668  -2.755143 42.333600  </gml:posList>
+                <gml:posList srsDimension="2">-2.755143 42.333600  -2.754984 42.333538  -2.754934 42.333609  -2.755014 42.333639  -2.755094 42.333668  -2.755143 42.333600  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30173,7 +29837,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754815 42.333553  -2.754812 42.333471  -2.754716 42.333450  -2.754691 42.333529  -2.754815 42.333553  </gml:posList>
+                <gml:posList srsDimension="2">-2.754815 42.333553  -2.754812 42.333471  -2.754716 42.333450  -2.754691 42.333529  -2.754741 42.333538  -2.754815 42.333553  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30215,7 +29879,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754919 42.332691  -2.754846 42.332680  -2.754822 42.332740  -2.754896 42.332752  -2.754919 42.332691  </gml:posList>
+                <gml:posList srsDimension="2">-2.754919 42.332691  -2.754846 42.332680  -2.754834 42.332710  -2.754822 42.332740  -2.754896 42.332752  -2.754919 42.332691  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30236,7 +29900,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755211 42.332896  -2.755234 42.332811  -2.755176 42.332803  -2.755148 42.332887  -2.755211 42.332896  </gml:posList>
+                <gml:posList srsDimension="2">-2.755211 42.332896  -2.755223 42.332853  -2.755234 42.332811  -2.755176 42.332803  -2.755148 42.332887  -2.755211 42.332896  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30257,7 +29921,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754081 42.332523  -2.754086 42.332490  -2.753873 42.332473  -2.753872 42.332506  -2.754081 42.332523  </gml:posList>
+                <gml:posList srsDimension="2">-2.754081 42.332523  -2.754086 42.332490  -2.753985 42.332482  -2.753873 42.332473  -2.753872 42.332506  -2.754081 42.332523  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30278,7 +29942,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753951 42.332657  -2.753968 42.332626  -2.753908 42.332605  -2.753893 42.332637  -2.753951 42.332657  </gml:posList>
+                <gml:posList srsDimension="2">-2.753951 42.332657  -2.753968 42.332626  -2.753948 42.332619  -2.753908 42.332605  -2.753893 42.332637  -2.753951 42.332657  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30299,28 +29963,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753893 42.332637  -2.753842 42.332619  -2.753826 42.332645  -2.753878 42.332663  -2.753893 42.332637  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4085476">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.755096 42.331854 </gml:lowerCorner>
-        		<gml:upperCorner>-2.754895 42.331893 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755091 42.331893  -2.755096 42.331855  -2.754895 42.331854  -2.754895 42.331893  -2.755091 42.331893  </gml:posList>
+                <gml:posList srsDimension="2">-2.753893 42.332637  -2.753867 42.332628  -2.753842 42.332619  -2.753826 42.332645  -2.753878 42.332663  -2.753893 42.332637  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30341,7 +29984,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755280 42.331473  -2.755231 42.331467  -2.755225 42.331531  -2.755203 42.331530  -2.755192 42.331603  -2.755180 42.331661  -2.755236 42.331669  -2.755280 42.331473  </gml:posList>
+                <gml:posList srsDimension="2">-2.755280 42.331473  -2.755231 42.331467  -2.755225 42.331531  -2.755203 42.331530  -2.755198 42.331566  -2.755192 42.331603  -2.755180 42.331661  -2.755236 42.331669  -2.755280 42.331473  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30404,7 +30047,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756934 42.333235  -2.756981 42.333233  -2.756981 42.333212  -2.757026 42.333211  -2.757018 42.333158  -2.756914 42.333171  -2.756934 42.333235  </gml:posList>
+                <gml:posList srsDimension="2">-2.756934 42.333235  -2.756981 42.333233  -2.756981 42.333212  -2.757026 42.333211  -2.757018 42.333158  -2.756928 42.333169  -2.756914 42.333171  -2.756934 42.333235  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -31160,7 +30803,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764852 42.334686  -2.764864 42.334725  -2.764904 42.334718  -2.764892 42.334679  -2.764852 42.334686  </gml:posList>
+                <gml:posList srsDimension="2">-2.764852 42.334686  -2.764864 42.334725  -2.764904 42.334718  -2.764898 42.334699  -2.764892 42.334679  -2.764852 42.334686  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -31517,7 +31160,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757185 42.332818  -2.757152 42.332789  -2.757048 42.332798  -2.757042 42.332824  -2.757185 42.332818  </gml:posList>
+                <gml:posList srsDimension="2">-2.757185 42.332818  -2.757152 42.332789  -2.757100 42.332793  -2.757048 42.332798  -2.757042 42.332824  -2.757185 42.332818  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -31559,7 +31202,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763966 42.337237  -2.763972 42.336886  -2.763796 42.336878  -2.763789 42.337237  -2.763966 42.337237  </gml:posList>
+                <gml:posList srsDimension="2">-2.763966 42.337237  -2.763972 42.336886  -2.763796 42.336878  -2.763789 42.337237  -2.763877 42.337237  -2.763966 42.337237  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -31622,7 +31265,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756590 42.333618  -2.756558 42.333596  -2.756525 42.333624  -2.756558 42.333645  -2.756590 42.333618  </gml:posList>
+                <gml:posList srsDimension="2">-2.756590 42.333618  -2.756558 42.333596  -2.756542 42.333610  -2.756525 42.333624  -2.756558 42.333645  -2.756590 42.333618  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -32294,7 +31937,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757523 42.333072  -2.757487 42.333082  -2.757502 42.333117  -2.757538 42.333109  -2.757523 42.333072  </gml:posList>
+                <gml:posList srsDimension="2">-2.757523 42.333072  -2.757487 42.333082  -2.757494 42.333099  -2.757502 42.333117  -2.757538 42.333109  -2.757523 42.333072  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34982,7 +34625,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757063 42.342557  -2.757091 42.342563  -2.757099 42.342543  -2.757070 42.342537  -2.757063 42.342557  </gml:posList>
+                <gml:posList srsDimension="2">-2.757063 42.342557  -2.757091 42.342563  -2.757099 42.342543  -2.757084 42.342540  -2.757070 42.342537  -2.757063 42.342557  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35097,27 +34740,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4085707">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762292 42.333098 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762255 42.333116 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762255 42.333100  -2.762257 42.333116  -2.762292 42.333115  -2.762290 42.333098  -2.762255 42.333100  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4085708">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -35213,7 +34835,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757712 42.335267  -2.757700 42.335285  -2.757725 42.335294  -2.757737 42.335276  -2.757712 42.335267  </gml:posList>
+                <gml:posList srsDimension="2">-2.757712 42.335267  -2.757700 42.335285  -2.757725 42.335294  -2.757731 42.335285  -2.757737 42.335276  -2.757712 42.335267  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35226,15 +34848,15 @@
       <ms:edificios gml:id="edificios.4085713">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761368 42.327091 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761329 42.327108 </gml:upperCorner>
+        		<gml:lowerCorner>-2.761384 42.327083 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761345 42.327100 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761368 42.327093  -2.761330 42.327091  -2.761329 42.327106  -2.761366 42.327108  -2.761368 42.327093  </gml:posList>
+                <gml:posList srsDimension="2">-2.761384 42.327086  -2.761347 42.327083  -2.761345 42.327098  -2.761382 42.327100  -2.761384 42.327086  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36200,7 +35822,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.749301 42.354952  -2.749117 42.354939  -2.749073 42.355209  -2.749257 42.355222  -2.749295 42.354987  -2.749301 42.354952  </gml:posList>
+                <gml:posList srsDimension="2">-2.749301 42.354952  -2.749209 42.354946  -2.749117 42.354939  -2.749073 42.355209  -2.749257 42.355222  -2.749295 42.354987  -2.749301 42.354952  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36213,15 +35835,15 @@
       <ms:edificios gml:id="edificios.4085763">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750986 42.355413 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750857 42.355481 </gml:upperCorner>
+        		<gml:lowerCorner>-2.750997 42.355410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750868 42.355478 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.750857 42.355419  -2.750859 42.355429  -2.750867 42.355481  -2.750933 42.355478  -2.750986 42.355475  -2.750981 42.355422  -2.750980 42.355413  -2.750857 42.355419  </gml:posList>
+                <gml:posList srsDimension="2">-2.750868 42.355416  -2.750870 42.355426  -2.750878 42.355478  -2.750944 42.355475  -2.750997 42.355472  -2.750992 42.355418  -2.750991 42.355410  -2.750868 42.355416  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36234,15 +35856,15 @@
       <ms:edificios gml:id="edificios.4085764">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751723 42.355171 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751460 42.355561 </gml:upperCorner>
+        		<gml:lowerCorner>-2.751693 42.355161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751376 42.355563 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751723 42.355192  -2.751535 42.355171  -2.751460 42.355540  -2.751646 42.355561  -2.751723 42.355192  </gml:posList>
+                <gml:posList srsDimension="2">-2.751693 42.355191  -2.751504 42.355170  -2.751394 42.355161  -2.751376 42.355282  -2.751482 42.355279  -2.751429 42.355539  -2.751523 42.355549  -2.751616 42.355559  -2.751658 42.355563  -2.751665 42.355532  -2.751622 42.355530  -2.751693 42.355191  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36256,14 +35878,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.753430 42.350544 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751764 42.352402 </gml:upperCorner>
+        		<gml:upperCorner>-2.751791 42.352340 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752441 42.350544  -2.752440 42.350547  -2.752324 42.350831  -2.751794 42.352099  -2.751764 42.352181  -2.752739 42.352402  -2.752775 42.352315  -2.752880 42.352081  -2.753106 42.351537  -2.753430 42.350753  -2.752441 42.350544  </gml:posList>
+                <gml:posList srsDimension="2">-2.752441 42.350544  -2.752440 42.350547  -2.752324 42.350831  -2.751791 42.352108  -2.752778 42.352340  -2.752880 42.352081  -2.753106 42.351537  -2.753430 42.350753  -2.752441 42.350544  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36276,15 +35898,15 @@
       <ms:edificios gml:id="edificios.4085766">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758285 42.352195 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757087 42.352815 </gml:upperCorner>
+        		<gml:lowerCorner>-2.758287 42.352220 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757089 42.352840 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758122 42.352589  -2.757209 42.352195  -2.757087 42.352351  -2.757220 42.352409  -2.757456 42.352510  -2.758163 42.352815  -2.758285 42.352659  -2.758122 42.352589  </gml:posList>
+                <gml:posList srsDimension="2">-2.758125 42.352614  -2.758218 42.352491  -2.757842 42.352315  -2.757736 42.352446  -2.757211 42.352220  -2.757089 42.352376  -2.757223 42.352434  -2.757459 42.352535  -2.757744 42.352658  -2.758165 42.352840  -2.758287 42.352684  -2.758125 42.352614  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36297,15 +35919,15 @@
       <ms:edificios gml:id="edificios.4085767">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757704 42.352686 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757469 42.352855 </gml:upperCorner>
+        		<gml:lowerCorner>-2.757711 42.352726 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757460 42.352908 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757704 42.352822  -2.757511 42.352686  -2.757469 42.352718  -2.757662 42.352855  -2.757704 42.352822  </gml:posList>
+                <gml:posList srsDimension="2">-2.757711 42.352864  -2.757664 42.352830  -2.757689 42.352812  -2.757588 42.352740  -2.757565 42.352759  -2.757519 42.352726  -2.757460 42.352772  -2.757654 42.352908  -2.757711 42.352864  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36318,15 +35940,15 @@
       <ms:edificios gml:id="edificios.4085768">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758410 42.352029 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758103 42.352254 </gml:upperCorner>
+        		<gml:lowerCorner>-2.758410 42.352071 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758103 42.352291 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758410 42.352125  -2.758210 42.352029  -2.758103 42.352149  -2.758319 42.352254  -2.758410 42.352125  </gml:posList>
+                <gml:posList srsDimension="2">-2.758410 42.352166  -2.758210 42.352071  -2.758103 42.352191  -2.758309 42.352291  -2.758410 42.352166  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36339,15 +35961,15 @@
       <ms:edificios gml:id="edificios.4085769">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758297 42.352131 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757918 42.352354 </gml:upperCorner>
+        		<gml:lowerCorner>-2.758300 42.352164 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757922 42.352388 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757978 42.352131  -2.757918 42.352214  -2.758231 42.352354  -2.758297 42.352275  -2.757978 42.352131  </gml:posList>
+                <gml:posList srsDimension="2">-2.757982 42.352164  -2.757922 42.352248  -2.758234 42.352388  -2.758300 42.352309  -2.757982 42.352164  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36368,7 +35990,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757098 42.354130  -2.756927 42.354121  -2.756915 42.354304  -2.757070 42.354312  -2.757098 42.354130  </gml:posList>
+                <gml:posList srsDimension="2">-2.757098 42.354130  -2.756927 42.354121  -2.756920 42.354220  -2.756915 42.354304  -2.757070 42.354312  -2.757098 42.354130  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36389,7 +36011,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.772163 42.347254  -2.771932 42.347245  -2.771928 42.347299  -2.772159 42.347308  -2.772163 42.347254  </gml:posList>
+                <gml:posList srsDimension="2">-2.772163 42.347254  -2.771932 42.347245  -2.771928 42.347299  -2.772043 42.347304  -2.772159 42.347308  -2.772163 42.347254  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36402,15 +36024,15 @@
       <ms:edificios gml:id="edificios.4085772">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.776362 42.345072 </gml:lowerCorner>
-        		<gml:upperCorner>-2.775927 42.345264 </gml:upperCorner>
+        		<gml:lowerCorner>-2.776385 42.345064 </gml:lowerCorner>
+        		<gml:upperCorner>-2.775950 42.345255 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.775986 42.345146  -2.775971 42.345149  -2.775977 42.345164  -2.775927 42.345175  -2.775945 42.345219  -2.775963 42.345264  -2.776013 42.345253  -2.776362 42.345176  -2.776320 42.345072  -2.775986 42.345146  </gml:posList>
+                <gml:posList srsDimension="2">-2.776009 42.345137  -2.775995 42.345141  -2.776000 42.345155  -2.775975 42.345161  -2.775950 42.345166  -2.775968 42.345210  -2.775986 42.345255  -2.776036 42.345244  -2.776385 42.345167  -2.776344 42.345064  -2.776009 42.345137  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36423,15 +36045,15 @@
       <ms:edificios gml:id="edificios.4085773">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.778111 42.344511 </gml:lowerCorner>
-        		<gml:upperCorner>-2.777926 42.344636 </gml:upperCorner>
+        		<gml:lowerCorner>-2.778129 42.344498 </gml:lowerCorner>
+        		<gml:upperCorner>-2.777943 42.344623 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.778111 42.344590  -2.778063 42.344511  -2.777926 42.344558  -2.777974 42.344636  -2.778111 42.344590  </gml:posList>
+                <gml:posList srsDimension="2">-2.778129 42.344576  -2.778081 42.344498  -2.777943 42.344544  -2.777967 42.344583  -2.777991 42.344623  -2.778129 42.344576  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36549,15 +36171,15 @@
       <ms:edificios gml:id="edificios.4085779">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.755642 42.345168 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755520 42.345242 </gml:upperCorner>
+        		<gml:lowerCorner>-2.755675 42.345168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755520 42.345249 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755642 42.345189  -2.755538 42.345168  -2.755520 42.345221  -2.755624 42.345242  -2.755642 42.345189  </gml:posList>
+                <gml:posList srsDimension="2">-2.755675 42.345197  -2.755538 42.345168  -2.755520 42.345221  -2.755655 42.345249  -2.755675 42.345197  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36578,7 +36200,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755516 42.344626  -2.755451 42.344610  -2.755428 42.344662  -2.755494 42.344678  -2.755516 42.344626  </gml:posList>
+                <gml:posList srsDimension="2">-2.755516 42.344626  -2.755451 42.344610  -2.755440 42.344636  -2.755428 42.344662  -2.755494 42.344678  -2.755516 42.344626  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36591,15 +36213,15 @@
       <ms:edificios gml:id="edificios.4085781">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756035 42.344637 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755850 42.344725 </gml:upperCorner>
+        		<gml:lowerCorner>-2.756090 42.344626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755863 42.344736 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756020 42.344671  -2.755953 42.344655  -2.755875 42.344637  -2.755855 42.344679  -2.755850 42.344688  -2.756010 42.344725  -2.756035 42.344674  -2.756020 42.344671  </gml:posList>
+                <gml:posList srsDimension="2">-2.756090 42.344665  -2.756008 42.344646  -2.755894 42.344626  -2.755863 42.344689  -2.755894 42.344698  -2.756054 42.344736  -2.756079 42.344685  -2.756090 42.344665  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36612,15 +36234,15 @@
       <ms:edificios gml:id="edificios.4085782">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.755416 42.345265 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755290 42.345344 </gml:upperCorner>
+        		<gml:lowerCorner>-2.755477 42.345252 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755290 42.345354 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755397 42.345344  -2.755416 42.345283  -2.755309 42.345265  -2.755290 42.345326  -2.755397 42.345344  </gml:posList>
+                <gml:posList srsDimension="2">-2.755458 42.345354  -2.755477 42.345281  -2.755313 42.345252  -2.755290 42.345326  -2.755458 42.345354  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36683,7 +36305,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755378 42.344204  -2.755120 42.344162  -2.755111 42.344195  -2.755368 42.344237  -2.755378 42.344204  </gml:posList>
+                <gml:posList srsDimension="2">-2.755378 42.344204  -2.755120 42.344162  -2.755111 42.344195  -2.755368 42.344237  -2.755373 42.344221  -2.755378 42.344204  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36819,27 +36441,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4114352">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762625 42.324837 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761219 42.325534 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761249 42.324837  -2.761229 42.325004  -2.761219 42.325081  -2.761219 42.325087  -2.761533 42.325100  -2.761559 42.325101  -2.761532 42.325488  -2.761935 42.325506  -2.762210 42.325518  -2.762329 42.325523  -2.762466 42.325529  -2.762586 42.325534  -2.762617 42.325138  -2.762625 42.325031  -2.762506 42.325014  -2.762369 42.324995  -2.762248 42.324978  -2.761975 42.324939  -2.761866 42.324924  -2.761249 42.324837  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4114354">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -36873,6 +36474,2631 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.763757 42.329158  -2.763760 42.329197  -2.763743 42.329198  -2.763746 42.329230  -2.763763 42.329229  -2.763810 42.329227  -2.763858 42.329224  -2.763856 42.329195  -2.763854 42.329172  -2.763849 42.329121  -2.763802 42.329123  -2.763754 42.329125  -2.763737 42.329126  -2.763740 42.329158  -2.763757 42.329158  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537725">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761475 42.326471 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761400 42.326497 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.761475 42.326494  -2.761475 42.326471  -2.761400 42.326476  -2.761401 42.326497  -2.761475 42.326494  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537726">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761581 42.326458 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761498 42.326490 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.761581 42.326487  -2.761579 42.326458  -2.761498 42.326461  -2.761501 42.326490  -2.761581 42.326487  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537728">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751989 42.327944 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751943 42.327986 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751989 42.327944  -2.751944 42.327945  -2.751943 42.327985  -2.751987 42.327986  -2.751989 42.327944  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537730">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766278 42.328279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766222 42.328342 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766278 42.328282  -2.766242 42.328279  -2.766222 42.328338  -2.766264 42.328342  -2.766271 42.328312  -2.766278 42.328282  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537733">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752147 42.328331 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752075 42.328395 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752147 42.328346  -2.752112 42.328331  -2.752093 42.328356  -2.752075 42.328381  -2.752108 42.328395  -2.752147 42.328346  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537735">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766788 42.328972 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766659 42.329054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766788 42.329003  -2.766787 42.328982  -2.766686 42.328972  -2.766673 42.329008  -2.766659 42.329044  -2.766703 42.329054  -2.766708 42.329039  -2.766770 42.329049  -2.766788 42.329003  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537736">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759971 42.328993 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759914 42.329034 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759914 42.328993  -2.759915 42.329032  -2.759968 42.329034  -2.759971 42.328993  -2.759914 42.328993  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537737">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756140 42.329068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755995 42.329114 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756140 42.329106  -2.756137 42.329068  -2.756016 42.329074  -2.756016 42.329080  -2.755995 42.329082  -2.755998 42.329109  -2.756021 42.329107  -2.756021 42.329114  -2.756140 42.329106  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537738">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765641 42.330065 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765526 42.330109 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765641 42.330066  -2.765526 42.330065  -2.765527 42.330086  -2.765527 42.330106  -2.765640 42.330109  -2.765641 42.330066  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537739">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751599 42.329975 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751543 42.330016 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751599 42.329991  -2.751577 42.329975  -2.751543 42.329999  -2.751565 42.330016  -2.751582 42.330004  -2.751599 42.329991  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537740">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765779 42.330140 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765707 42.330218 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765779 42.330140  -2.765712 42.330141  -2.765709 42.330180  -2.765707 42.330218  -2.765771 42.330217  -2.765779 42.330140  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537741">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766329 42.330370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766232 42.330426 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766329 42.330380  -2.766317 42.330378  -2.766238 42.330370  -2.766235 42.330391  -2.766232 42.330412  -2.766299 42.330423  -2.766318 42.330426  -2.766329 42.330380  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537743">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755693 42.330471 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755374 42.330574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755693 42.330574  -2.755678 42.330471  -2.755374 42.330475  -2.755382 42.330534  -2.755483 42.330523  -2.755483 42.330564  -2.755638 42.330553  -2.755640 42.330573  -2.755693 42.330574  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537745">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.769591 42.332458 </gml:lowerCorner>
+        		<gml:upperCorner>-2.769498 42.332513 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.769571 42.332458  -2.769498 42.332478  -2.769510 42.332513  -2.769591 42.332513  -2.769571 42.332458  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537746">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764738 42.332083 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764681 42.332163 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764681 42.332083  -2.764683 42.332155  -2.764735 42.332163  -2.764738 42.332087  -2.764681 42.332083  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537747">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764990 42.332144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764866 42.332212 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764990 42.332156  -2.764875 42.332144  -2.764866 42.332199  -2.764972 42.332211  -2.764981 42.332212  -2.764982 42.332202  -2.764990 42.332156  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537748">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765085 42.332155 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765042 42.332220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765042 42.332155  -2.765051 42.332217  -2.765051 42.332220  -2.765052 42.332220  -2.765085 42.332218  -2.765076 42.332155  -2.765042 42.332155  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537749">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751530 42.332322 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751435 42.332370 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751530 42.332331  -2.751514 42.332329  -2.751444 42.332322  -2.751435 42.332364  -2.751455 42.332366  -2.751488 42.332368  -2.751515 42.332370  -2.751520 42.332358  -2.751530 42.332331  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537751">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754811 42.332577 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754742 42.332647 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754811 42.332585  -2.754764 42.332577  -2.754742 42.332641  -2.754787 42.332647  -2.754811 42.332585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537752">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765449 42.332757 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765266 42.332863 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765325 42.332863  -2.765449 42.332856  -2.765441 42.332757  -2.765311 42.332764  -2.765315 42.332796  -2.765266 42.332798  -2.765268 42.332810  -2.765270 42.332822  -2.765320 42.332820  -2.765325 42.332863  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537754">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755020 42.334418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754927 42.334479 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755020 42.334453  -2.754947 42.334418  -2.754927 42.334445  -2.754995 42.334479  -2.755008 42.334466  -2.755020 42.334453  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537756">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755093 42.334464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755046 42.334500 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755093 42.334478  -2.755070 42.334464  -2.755058 42.334476  -2.755046 42.334487  -2.755068 42.334500  -2.755093 42.334478  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537757">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752516 42.334463 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752422 42.334512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752516 42.334482  -2.752487 42.334475  -2.752440 42.334463  -2.752422 42.334495  -2.752427 42.334496  -2.752495 42.334511  -2.752499 42.334512  -2.752516 42.334482  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537758">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755398 42.334497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755354 42.334528 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755398 42.334514  -2.755379 42.334497  -2.755367 42.334504  -2.755354 42.334511  -2.755373 42.334528  -2.755398 42.334514  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537759">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766727 42.334680 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766627 42.334783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766727 42.334737  -2.766691 42.334716  -2.766705 42.334699  -2.766659 42.334680  -2.766627 42.334731  -2.766666 42.334745  -2.766659 42.334774  -2.766701 42.334783  -2.766727 42.334737  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537760">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755990 42.335144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755870 42.335225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755944 42.335149  -2.755885 42.335144  -2.755880 42.335170  -2.755870 42.335222  -2.755927 42.335225  -2.755990 42.335224  -2.755985 42.335187  -2.755947 42.335187  -2.755944 42.335149  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537763">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764147 42.335272 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764037 42.335347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764147 42.335306  -2.764113 42.335289  -2.764078 42.335272  -2.764037 42.335316  -2.764101 42.335347  -2.764147 42.335306  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537764">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.768566 42.335397 </gml:lowerCorner>
+        		<gml:upperCorner>-2.767858 42.335681 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.768566 42.335472  -2.768529 42.335401  -2.768440 42.335397  -2.768280 42.335471  -2.768242 42.335405  -2.767948 42.335472  -2.767938 42.335444  -2.767858 42.335452  -2.767871 42.335598  -2.767938 42.335577  -2.767995 42.335681  -2.768331 42.335577  -2.768489 42.335508  -2.768566 42.335472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537766">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765820 42.335502 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765756 42.335547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765820 42.335511  -2.765768 42.335502  -2.765756 42.335537  -2.765808 42.335547  -2.765815 42.335526  -2.765820 42.335511  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537768">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.773638 42.335714 </gml:lowerCorner>
+        		<gml:upperCorner>-2.773592 42.335746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.773638 42.335727  -2.773605 42.335714  -2.773592 42.335734  -2.773608 42.335740  -2.773624 42.335746  -2.773638 42.335727  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537773">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751168 42.336102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750971 42.336335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751091 42.336297  -2.751070 42.336306  -2.751091 42.336335  -2.751118 42.336324  -2.751110 42.336313  -2.751168 42.336290  -2.751034 42.336102  -2.750976 42.336125  -2.750991 42.336147  -2.751005 42.336141  -2.751011 42.336158  -2.750971 42.336174  -2.750980 42.336186  -2.751021 42.336170  -2.751096 42.336276  -2.751099 42.336274  -2.751108 42.336287  -2.751084 42.336289  -2.751091 42.336297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537774">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750728 42.336130 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750668 42.336167 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750728 42.336152  -2.750714 42.336130  -2.750668 42.336146  -2.750669 42.336147  -2.750682 42.336167  -2.750728 42.336152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537775">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750729 42.336150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750458 42.336328 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750729 42.336256  -2.750661 42.336150  -2.750458 42.336222  -2.750526 42.336328  -2.750729 42.336256  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537777">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764039 42.337123 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763998 42.337170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764039 42.337124  -2.764001 42.337123  -2.763998 42.337170  -2.764037 42.337170  -2.764039 42.337124  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537779">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755836 42.337461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755720 42.337533 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755836 42.337503  -2.755744 42.337461  -2.755732 42.337476  -2.755720 42.337491  -2.755816 42.337533  -2.755836 42.337503  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537780">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765333 42.337955 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765276 42.337998 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765333 42.337992  -2.765311 42.337955  -2.765276 42.337961  -2.765287 42.337979  -2.765298 42.337998  -2.765333 42.337992  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537781">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755419 42.337944 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755282 42.338034 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755397 42.337974  -2.755317 42.337944  -2.755282 42.337995  -2.755334 42.338014  -2.755327 42.338024  -2.755355 42.338034  -2.755380 42.338011  -2.755402 42.338019  -2.755419 42.337993  -2.755391 42.337983  -2.755397 42.337974  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537782">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756029 42.338168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755983 42.338206 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756029 42.338176  -2.755997 42.338168  -2.755983 42.338198  -2.756015 42.338206  -2.756029 42.338176  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537783">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.753903 42.338824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753338 42.339007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.753884 42.338975  -2.753654 42.338909  -2.753648 42.338921  -2.753622 42.338914  -2.753628 42.338902  -2.753506 42.338867  -2.753500 42.338879  -2.753467 42.338870  -2.753473 42.338859  -2.753351 42.338824  -2.753338 42.338848  -2.753896 42.339007  -2.753903 42.338994  -2.753877 42.338988  -2.753884 42.338975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537784">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765230 42.338962 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765155 42.339042 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765230 42.338972  -2.765179 42.338962  -2.765175 42.338973  -2.765155 42.339032  -2.765206 42.339042  -2.765230 42.338972  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537785">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752403 42.339010 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752238 42.339118 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752376 42.339031  -2.752265 42.339010  -2.752238 42.339090  -2.752384 42.339118  -2.752403 42.339063  -2.752367 42.339056  -2.752376 42.339031  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537786">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765778 42.339042 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765673 42.339131 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765778 42.339064  -2.765778 42.339063  -2.765737 42.339042  -2.765673 42.339110  -2.765714 42.339131  -2.765778 42.339064  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537788">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752506 42.339088 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752420 42.339151 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752506 42.339104  -2.752474 42.339096  -2.752442 42.339088  -2.752420 42.339135  -2.752485 42.339151  -2.752496 42.339127  -2.752506 42.339104  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537789">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766194 42.339135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766138 42.339179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766194 42.339153  -2.766160 42.339135  -2.766138 42.339163  -2.766170 42.339179  -2.766194 42.339153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537790">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766374 42.339269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766325 42.339307 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766374 42.339280  -2.766343 42.339269  -2.766325 42.339295  -2.766356 42.339307  -2.766374 42.339280  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537791">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766310 42.339295 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766271 42.339323 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766310 42.339302  -2.766280 42.339295  -2.766275 42.339305  -2.766271 42.339316  -2.766301 42.339323  -2.766310 42.339302  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537792">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765003 42.339829 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764939 42.339876 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765003 42.339843  -2.764958 42.339829  -2.764948 42.339845  -2.764939 42.339861  -2.764984 42.339876  -2.765003 42.339843  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537793">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764520 42.339956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764426 42.340040 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764520 42.339971  -2.764454 42.339956  -2.764426 42.340025  -2.764492 42.340040  -2.764520 42.339971  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537794">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764839 42.340035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764800 42.340080 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764839 42.340039  -2.764818 42.340035  -2.764812 42.340053  -2.764806 42.340052  -2.764800 42.340078  -2.764824 42.340080  -2.764839 42.340039  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537795">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764488 42.340332 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764374 42.340389 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764488 42.340363  -2.764389 42.340332  -2.764374 42.340359  -2.764423 42.340374  -2.764472 42.340389  -2.764488 42.340363  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537796">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.737184 42.340716 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737123 42.340767 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.737184 42.340749  -2.737161 42.340716  -2.737142 42.340725  -2.737123 42.340734  -2.737145 42.340767  -2.737184 42.340749  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537797">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.778539 42.341163 </gml:lowerCorner>
+        		<gml:upperCorner>-2.778344 42.341283 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.778539 42.341180  -2.778520 42.341163  -2.778344 42.341266  -2.778363 42.341283  -2.778539 42.341180  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537798">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758072 42.341246 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758035 42.341271 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758072 42.341252  -2.758043 42.341246  -2.758035 42.341265  -2.758064 42.341271  -2.758072 42.341252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537799">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.778393 42.341337 </gml:lowerCorner>
+        		<gml:upperCorner>-2.778260 42.341450 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.778393 42.341365  -2.778331 42.341337  -2.778260 42.341422  -2.778322 42.341450  -2.778393 42.341365  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537800">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.730642 42.341300 </gml:lowerCorner>
+        		<gml:upperCorner>-2.730574 42.341348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.730642 42.341321  -2.730598 42.341300  -2.730574 42.341327  -2.730596 42.341337  -2.730618 42.341348  -2.730642 42.341321  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537801">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.778571 42.341436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.778453 42.341534 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.778571 42.341464  -2.778513 42.341436  -2.778483 42.341470  -2.778453 42.341504  -2.778509 42.341534  -2.778571 42.341464  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537802">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.760912 42.341658 </gml:lowerCorner>
+        		<gml:upperCorner>-2.760889 42.341677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.760912 42.341659  -2.760892 42.341658  -2.760889 42.341675  -2.760909 42.341677  -2.760912 42.341659  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537803">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761499 42.341892 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761464 42.341925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.761499 42.341896  -2.761485 42.341894  -2.761471 42.341892  -2.761464 42.341921  -2.761492 42.341925  -2.761499 42.341896  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537804">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762636 42.342144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762603 42.342170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762636 42.342146  -2.762605 42.342144  -2.762604 42.342157  -2.762603 42.342169  -2.762634 42.342170  -2.762636 42.342146  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537805">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725770 42.342195 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725735 42.342235 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725770 42.342235  -2.725770 42.342195  -2.725755 42.342195  -2.725739 42.342195  -2.725735 42.342234  -2.725770 42.342235  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537806">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761594 42.342464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761555 42.342481 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.761594 42.342470  -2.761558 42.342464  -2.761555 42.342475  -2.761573 42.342478  -2.761591 42.342481  -2.761594 42.342470  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537807">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732680 42.342555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732609 42.342607 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732680 42.342579  -2.732637 42.342555  -2.732623 42.342569  -2.732609 42.342583  -2.732651 42.342607  -2.732680 42.342579  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537808">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734952 42.342770 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734894 42.342814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734952 42.342788  -2.734920 42.342770  -2.734894 42.342796  -2.734927 42.342814  -2.734940 42.342801  -2.734952 42.342788  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537809">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.736126 42.342825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736069 42.342870 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.736110 42.342858  -2.736104 42.342853  -2.736115 42.342846  -2.736126 42.342838  -2.736109 42.342825  -2.736069 42.342851  -2.736092 42.342870  -2.736110 42.342858  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537811">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735376 42.343340 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735305 42.343383 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735376 42.343363  -2.735321 42.343340  -2.735305 42.343360  -2.735333 42.343372  -2.735361 42.343383  -2.735376 42.343363  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537812">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.753234 42.343563 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753118 42.343608 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.753234 42.343597  -2.753222 42.343563  -2.753118 42.343576  -2.753132 42.343608  -2.753234 42.343597  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537813">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757443 42.343749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757402 42.343772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757443 42.343755  -2.757441 42.343755  -2.757409 42.343749  -2.757408 42.343749  -2.757402 42.343766  -2.757437 42.343772  -2.757443 42.343755  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537814">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.781432 42.344050 </gml:lowerCorner>
+        		<gml:upperCorner>-2.781308 42.344149 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.781432 42.344114  -2.781393 42.344050  -2.781351 42.344064  -2.781308 42.344079  -2.781348 42.344144  -2.781368 42.344138  -2.781374 42.344149  -2.781420 42.344133  -2.781413 42.344121  -2.781432 42.344114  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537815">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755130 42.344106 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755061 42.344138 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755130 42.344121  -2.755067 42.344106  -2.755061 42.344118  -2.755076 42.344122  -2.755074 42.344126  -2.755122 42.344138  -2.755130 42.344121  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537816">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762996 42.344202 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762955 42.344239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762996 42.344208  -2.762966 42.344202  -2.762955 42.344233  -2.762985 42.344239  -2.762991 42.344223  -2.762996 42.344208  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537817">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757139 42.344205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757107 42.344251 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757139 42.344208  -2.757117 42.344205  -2.757107 42.344248  -2.757129 42.344251  -2.757139 42.344208  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537820">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756750 42.344770 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756658 42.344831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756677 42.344770  -2.756658 42.344824  -2.756691 42.344831  -2.756700 42.344801  -2.756739 42.344808  -2.756750 42.344781  -2.756677 42.344770  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.777586 42.345302 </gml:lowerCorner>
+        		<gml:upperCorner>-2.777462 42.345399 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.777586 42.345343  -2.777577 42.345322  -2.777569 42.345302  -2.777462 42.345332  -2.777503 42.345399  -2.777571 42.345377  -2.777557 42.345352  -2.777586 42.345343  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537824">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.767381 42.345655 </gml:lowerCorner>
+        		<gml:upperCorner>-2.767270 42.345692 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.767381 42.345676  -2.767375 42.345655  -2.767270 42.345672  -2.767276 42.345692  -2.767329 42.345684  -2.767381 42.345676  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537827">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755054 42.346040 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754964 42.346099 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755054 42.346049  -2.754979 42.346040  -2.754971 42.346065  -2.754964 42.346091  -2.755038 42.346099  -2.755054 42.346049  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537828">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754809 42.346091 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754717 42.346189 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754809 42.346097  -2.754732 42.346091  -2.754717 42.346184  -2.754791 42.346189  -2.754800 42.346143  -2.754809 42.346097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537829">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756746 42.346557 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756671 42.346601 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756746 42.346565  -2.756679 42.346557  -2.756675 42.346574  -2.756671 42.346592  -2.756738 42.346601  -2.756746 42.346565  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537830">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735903 42.347003 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735849 42.347033 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735903 42.347012  -2.735879 42.347008  -2.735856 42.347003  -2.735849 42.347024  -2.735896 42.347033  -2.735903 42.347012  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537832">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755190 42.347385 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755165 42.347414 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755190 42.347388  -2.755172 42.347385  -2.755165 42.347411  -2.755183 42.347414  -2.755187 42.347401  -2.755190 42.347388  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537833">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754645 42.347695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754562 42.347749 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754645 42.347747  -2.754642 42.347696  -2.754580 42.347695  -2.754571 42.347722  -2.754562 42.347749  -2.754645 42.347747  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537835">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754495 42.348117 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754426 42.348152 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754495 42.348119  -2.754428 42.348117  -2.754426 42.348149  -2.754493 42.348152  -2.754495 42.348119  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537836">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.775751 42.348404 </gml:lowerCorner>
+        		<gml:upperCorner>-2.775644 42.348478 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.775644 42.348442  -2.775644 42.348457  -2.775694 42.348456  -2.775695 42.348478  -2.775751 42.348476  -2.775748 42.348404  -2.775686 42.348406  -2.775687 42.348441  -2.775666 42.348441  -2.775644 42.348442  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537837">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754259 42.348825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754197 42.348862 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754259 42.348858  -2.754256 42.348825  -2.754197 42.348828  -2.754200 42.348862  -2.754259 42.348858  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537838">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755029 42.349042 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754960 42.349103 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755029 42.349047  -2.754972 42.349042  -2.754960 42.349097  -2.755017 42.349103  -2.755029 42.349047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537839">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757291 42.349155 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757151 42.349193 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757291 42.349190  -2.757290 42.349155  -2.757151 42.349157  -2.757152 42.349193  -2.757291 42.349190  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537840">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.753898 42.349746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753851 42.349772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.753898 42.349753  -2.753857 42.349746  -2.753851 42.349765  -2.753892 42.349772  -2.753898 42.349753  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537841">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757269 42.351919 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756928 42.352069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757269 42.352022  -2.756955 42.351919  -2.756928 42.351966  -2.757242 42.352069  -2.757269 42.352022  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537843">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750279 42.352121 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750228 42.352155 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750279 42.352124  -2.750230 42.352121  -2.750229 42.352137  -2.750228 42.352153  -2.750277 42.352155  -2.750279 42.352124  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537844">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758521 42.352399 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758475 42.352436 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758521 42.352407  -2.758487 42.352399  -2.758475 42.352428  -2.758509 42.352436  -2.758521 42.352407  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537845">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752766 42.352723 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752436 42.352806 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752766 42.352746  -2.752443 42.352723  -2.752437 42.352778  -2.752436 42.352786  -2.752755 42.352806  -2.752756 42.352798  -2.752766 42.352746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537846">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758369 42.352793 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757905 42.353103 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758369 42.352804  -2.758314 42.352793  -2.758201 42.353053  -2.758027 42.353012  -2.757921 42.352997  -2.757905 42.353047  -2.757945 42.353067  -2.758009 42.353067  -2.758245 42.353103  -2.758369 42.352804  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537848">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.745203 42.354289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.745144 42.354333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.745203 42.354299  -2.745158 42.354289  -2.745150 42.354308  -2.745144 42.354323  -2.745189 42.354333  -2.745203 42.354299  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537849">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.740351 42.354389 </gml:lowerCorner>
+        		<gml:upperCorner>-2.740307 42.354420 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.740351 42.354409  -2.740338 42.354389  -2.740307 42.354400  -2.740313 42.354410  -2.740320 42.354420  -2.740351 42.354409  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537850">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.743959 42.354415 </gml:lowerCorner>
+        		<gml:upperCorner>-2.743793 42.354512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.743856 42.354432  -2.743793 42.354436  -2.743801 42.354497  -2.743861 42.354493  -2.743864 42.354512  -2.743959 42.354505  -2.743953 42.354460  -2.743947 42.354415  -2.743855 42.354421  -2.743856 42.354432  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537851">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756980 42.354734 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756943 42.354771 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756980 42.354739  -2.756954 42.354734  -2.756943 42.354766  -2.756969 42.354771  -2.756980 42.354739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537853">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749210 42.355762 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749180 42.355807 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.749210 42.355763  -2.749183 42.355762  -2.749180 42.355806  -2.749207 42.355807  -2.749210 42.355763  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537854">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755562 42.355944 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755479 42.356034 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755562 42.355949  -2.755505 42.355944  -2.755500 42.355972  -2.755495 42.356000  -2.755484 42.355997  -2.755479 42.356028  -2.755548 42.356034  -2.755562 42.355949  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537855">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.773219 42.356305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.773140 42.356354 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.773219 42.356344  -2.773214 42.356325  -2.773209 42.356305  -2.773140 42.356315  -2.773150 42.356354  -2.773219 42.356344  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537856">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755676 42.356266 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755630 42.356287 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755676 42.356266  -2.755653 42.356266  -2.755631 42.356266  -2.755630 42.356287  -2.755676 42.356287  -2.755676 42.356266  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537857">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.744127 42.356277 </gml:lowerCorner>
+        		<gml:upperCorner>-2.744042 42.356343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.744127 42.356295  -2.744078 42.356277  -2.744042 42.356330  -2.744059 42.356337  -2.744077 42.356343  -2.744103 42.356305  -2.744117 42.356311  -2.744127 42.356295  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537858">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754400 42.353834 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754181 42.353975 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754400 42.353861  -2.754205 42.353834  -2.754181 42.353953  -2.754378 42.353975  -2.754400 42.353861  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537860">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.753782 42.334462 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753701 42.334541 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.753701 42.334529  -2.753761 42.334541  -2.753782 42.334472  -2.753723 42.334462  -2.753701 42.334529  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537861">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754827 42.332521 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754720 42.332585 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754827 42.332537  -2.754738 42.332521  -2.754720 42.332570  -2.754764 42.332577  -2.754811 42.332585  -2.754827 42.332537  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537862">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755884 42.329939 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755771 42.330043 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755884 42.330042  -2.755870 42.329939  -2.755821 42.329940  -2.755771 42.329940  -2.755784 42.330043  -2.755884 42.330042  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537863">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.768519 42.335992 </gml:lowerCorner>
+        		<gml:upperCorner>-2.768241 42.336306 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.768381 42.335992  -2.768241 42.336259  -2.768380 42.336306  -2.768519 42.336050  -2.768381 42.335992  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4537867">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765660 42.329641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765435 42.329993 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765644 42.329641  -2.765435 42.329651  -2.765444 42.329758  -2.765453 42.329865  -2.765468 42.329978  -2.765482 42.329978  -2.765482 42.329993  -2.765548 42.329990  -2.765547 42.329977  -2.765567 42.329977  -2.765557 42.329863  -2.765660 42.329860  -2.765644 42.329641  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538084">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757083 42.354505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756962 42.354708 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757083 42.354515  -2.757053 42.354510  -2.757030 42.354505  -2.756965 42.354685  -2.756962 42.354694  -2.757016 42.354708  -2.757083 42.354515  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538085">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757030 42.354504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756897 42.354685 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756965 42.354685  -2.757030 42.354505  -2.757023 42.354504  -2.756974 42.354504  -2.756958 42.354536  -2.756933 42.354531  -2.756897 42.354636  -2.756924 42.354643  -2.756914 42.354677  -2.756965 42.354685  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538086">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761569 42.353666 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761538 42.353688 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.761569 42.353667  -2.761538 42.353666  -2.761540 42.353688  -2.761569 42.353688  -2.761569 42.353667  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538088">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758908 42.352315 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758743 42.352423 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758908 42.352357  -2.758781 42.352315  -2.758743 42.352386  -2.758869 42.352423  -2.758908 42.352357  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538089">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.769581 42.332289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.769507 42.332331 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.769577 42.332289  -2.769507 42.332295  -2.769513 42.332331  -2.769581 42.332325  -2.769577 42.332289  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538090">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.769867 42.332380 </gml:lowerCorner>
+        		<gml:upperCorner>-2.769800 42.332413 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.769863 42.332380  -2.769800 42.332385  -2.769803 42.332413  -2.769867 42.332406  -2.769863 42.332380  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538095">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752010 42.328172 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751918 42.328263 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752010 42.328172  -2.751927 42.328172  -2.751918 42.328216  -2.751929 42.328263  -2.752009 42.328263  -2.752010 42.328172  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538096">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752040 42.328103 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751920 42.328173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752040 42.328103  -2.751920 42.328108  -2.751924 42.328140  -2.751927 42.328172  -2.751927 42.328172  -2.752010 42.328172  -2.752037 42.328173  -2.752040 42.328103  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538098">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752699 42.334511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752620 42.334556 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752699 42.334526  -2.752670 42.334519  -2.752639 42.334511  -2.752620 42.334542  -2.752681 42.334556  -2.752688 42.334543  -2.752699 42.334526  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538222">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757669 42.343760 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757584 42.343825 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757669 42.343776  -2.757668 42.343775  -2.757601 42.343760  -2.757584 42.343812  -2.757652 42.343825  -2.757669 42.343776  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538347">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758447 42.341301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758122 42.341662 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758447 42.341345  -2.758258 42.341301  -2.758122 42.341613  -2.758315 42.341662  -2.758447 42.341345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538348">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758876 42.341870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758800 42.341910 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758876 42.341878  -2.758806 42.341870  -2.758800 42.341901  -2.758871 42.341910  -2.758876 42.341878  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538349">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759005 42.342307 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758801 42.342393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759005 42.342337  -2.758815 42.342307  -2.758801 42.342362  -2.758990 42.342393  -2.759005 42.342337  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538351">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762642 42.338740 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762430 42.338895 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762642 42.338843  -2.762577 42.338740  -2.762430 42.338790  -2.762495 42.338895  -2.762642 42.338843  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4538476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756019 42.339019 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755950 42.339059 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756019 42.339034  -2.755963 42.339019  -2.755956 42.339031  -2.755950 42.339044  -2.756010 42.339059  -2.756019 42.339034  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762026 42.326267 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761970 42.326310 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762026 42.326307  -2.762023 42.326267  -2.761970 42.326271  -2.761973 42.326310  -2.762026 42.326307  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539109">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762308 42.333098 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762192 42.333263 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762290 42.333098  -2.762255 42.333100  -2.762192 42.333104  -2.762203 42.333195  -2.762192 42.333196  -2.762199 42.333263  -2.762308 42.333256  -2.762292 42.333115  -2.762290 42.333098  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539110">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758596 42.340700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758489 42.340804 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758530 42.340700  -2.758489 42.340790  -2.758558 42.340804  -2.758596 42.340713  -2.758530 42.340700  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Baños de Río Tobía</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Baños de Río Tobía</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539111">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750682 42.352169 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750560 42.352243 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750676 42.352243  -2.750682 42.352169  -2.750562 42.352172  -2.750560 42.352241  -2.750676 42.352243  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

@@ -9597,15 +9597,15 @@
       <ms:edificios gml:id="edificios.4271040">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.485642 42.357741 </gml:lowerCorner>
-        		<gml:upperCorner>-2.485526 42.357817 </gml:upperCorner>
+        		<gml:lowerCorner>-2.485682 42.357724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.485509 42.357850 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.485526 42.357787  -2.485613 42.357817  -2.485642 42.357770  -2.485554 42.357741  -2.485526 42.357787  </gml:posList>
+                <gml:posList srsDimension="2">-2.485509 42.357810  -2.485627 42.357850  -2.485682 42.357761  -2.485563 42.357724  -2.485509 42.357810  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24546,27 +24546,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4271761">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.488987 42.394927 </gml:lowerCorner>
-        		<gml:upperCorner>-2.488884 42.395030 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.488987 42.395030  -2.488984 42.394928  -2.488884 42.394927  -2.488887 42.395029  -2.488987 42.395030  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4271762">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -38199,15 +38178,15 @@
       <ms:edificios gml:id="edificios.4272423">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.488842 42.381977 </gml:lowerCorner>
-        		<gml:upperCorner>-2.488730 42.382065 </gml:upperCorner>
+        		<gml:lowerCorner>-2.488897 42.381971 </gml:lowerCorner>
+        		<gml:upperCorner>-2.488734 42.382061 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.488749 42.381996  -2.488739 42.382023  -2.488730 42.382047  -2.488816 42.382065  -2.488842 42.381995  -2.488756 42.381977  -2.488749 42.381996  </gml:posList>
+                <gml:posList srsDimension="2">-2.488753 42.381990  -2.488743 42.382017  -2.488734 42.382041  -2.488837 42.382061  -2.488845 42.382040  -2.488878 42.382047  -2.488897 42.381997  -2.488866 42.381986  -2.488863 42.381991  -2.488760 42.381971  -2.488753 42.381990  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -39099,27 +39078,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4272467">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.486067 42.378652 </gml:lowerCorner>
-        		<gml:upperCorner>-2.486002 42.378681 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.486061 42.378681  -2.486067 42.378664  -2.486008 42.378652  -2.486002 42.378669  -2.486061 42.378681  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4272468">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -39375,15 +39333,15 @@
       <ms:edificios gml:id="edificios.4272480">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.481927 42.392277 </gml:lowerCorner>
-        		<gml:upperCorner>-2.481837 42.392317 </gml:upperCorner>
+        		<gml:lowerCorner>-2.481927 42.392280 </gml:lowerCorner>
+        		<gml:upperCorner>-2.481851 42.392317 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.481862 42.392308  -2.481920 42.392317  -2.481927 42.392290  -2.481864 42.392281  -2.481839 42.392277  -2.481837 42.392304  -2.481862 42.392308  </gml:posList>
+                <gml:posList srsDimension="2">-2.481862 42.392308  -2.481920 42.392317  -2.481927 42.392290  -2.481858 42.392280  -2.481851 42.392306  -2.481862 42.392308  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -39417,15 +39375,15 @@
       <ms:edificios gml:id="edificios.4272482">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.482258 42.391299 </gml:lowerCorner>
-        		<gml:upperCorner>-2.481651 42.392134 </gml:upperCorner>
+        		<gml:lowerCorner>-2.482252 42.391275 </gml:lowerCorner>
+        		<gml:upperCorner>-2.481645 42.392110 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.481818 42.392134  -2.481878 42.392081  -2.482258 42.391433  -2.482247 42.391338  -2.482088 42.391299  -2.481651 42.392086  -2.481818 42.392134  </gml:posList>
+                <gml:posList srsDimension="2">-2.481812 42.392110  -2.481872 42.392058  -2.482252 42.391409  -2.482241 42.391315  -2.482082 42.391275  -2.481645 42.392062  -2.481812 42.392110  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -40929,7 +40887,7 @@
       <ms:edificios gml:id="edificios.4272559">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.459898 42.382328 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.459905 42.382328 </gml:lowerCorner>
         		<gml:upperCorner>-2.459829 42.382365 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -40937,7 +40895,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.459898 42.382365  -2.459898 42.382332  -2.459836 42.382328  -2.459829 42.382357  -2.459898 42.382365  </gml:posList>
+                <gml:posList srsDimension="2">-2.459898 42.382365  -2.459905 42.382336  -2.459836 42.382328  -2.459829 42.382357  -2.459898 42.382365  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -49641,27 +49599,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4272996">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.464220 42.385806 </gml:lowerCorner>
-        		<gml:upperCorner>-2.464165 42.385854 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.464165 42.385809  -2.464172 42.385809  -2.464175 42.385853  -2.464212 42.385854  -2.464219 42.385854  -2.464220 42.385806  -2.464165 42.385809  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4272997">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -49757,7 +49694,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.464273 42.385585  -2.464234 42.385444  -2.464102 42.385465  -2.464120 42.385582  -2.464178 42.385571  -2.464185 42.385596  -2.464273 42.385585  </gml:posList>
+                <gml:posList srsDimension="2">-2.464273 42.385585  -2.464234 42.385444  -2.464102 42.385465  -2.464115 42.385551  -2.464120 42.385582  -2.464178 42.385571  -2.464185 42.385596  -2.464273 42.385585  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -49770,15 +49707,15 @@
       <ms:edificios gml:id="edificios.4273002">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.463504 42.384059 </gml:lowerCorner>
-        		<gml:upperCorner>-2.463387 42.384201 </gml:upperCorner>
+        		<gml:lowerCorner>-2.463528 42.384041 </gml:lowerCorner>
+        		<gml:upperCorner>-2.463411 42.384183 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.463500 42.384064  -2.463464 42.384059  -2.463439 42.384156  -2.463396 42.384150  -2.463387 42.384185  -2.463495 42.384201  -2.463504 42.384165  -2.463474 42.384161  -2.463500 42.384064  </gml:posList>
+                <gml:posList srsDimension="2">-2.463524 42.384046  -2.463488 42.384041  -2.463463 42.384138  -2.463420 42.384132  -2.463411 42.384167  -2.463519 42.384183  -2.463528 42.384147  -2.463498 42.384143  -2.463524 42.384046  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -62412,15 +62349,15 @@
       <ms:edificios gml:id="edificios.4273622">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.457745 42.386268 </gml:lowerCorner>
-        		<gml:upperCorner>-2.457633 42.386359 </gml:upperCorner>
+        		<gml:lowerCorner>-2.457751 42.386254 </gml:lowerCorner>
+        		<gml:upperCorner>-2.457632 42.386345 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.457697 42.386359  -2.457745 42.386294  -2.457674 42.386268  -2.457633 42.386330  -2.457697 42.386359  </gml:posList>
+                <gml:posList srsDimension="2">-2.457702 42.386345  -2.457751 42.386281  -2.457679 42.386254  -2.457632 42.386313  -2.457702 42.386345  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -62517,15 +62454,15 @@
       <ms:edificios gml:id="edificios.4273628">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.455638 42.387088 </gml:lowerCorner>
-        		<gml:upperCorner>-2.455495 42.387197 </gml:upperCorner>
+        		<gml:lowerCorner>-2.455645 42.387073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.455502 42.387183 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.455638 42.387136  -2.455554 42.387088  -2.455495 42.387150  -2.455578 42.387197  -2.455638 42.387136  </gml:posList>
+                <gml:posList srsDimension="2">-2.455645 42.387122  -2.455562 42.387073  -2.455502 42.387135  -2.455523 42.387147  -2.455567 42.387172  -2.455586 42.387183  -2.455645 42.387122  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -67558,14 +67495,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.481444 42.370076 </gml:lowerCorner>
-        		<gml:upperCorner>-2.481380 42.370120 </gml:upperCorner>
+        		<gml:upperCorner>-2.481380 42.370115 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.481443 42.370077  -2.481380 42.370076  -2.481381 42.370115  -2.481444 42.370120  -2.481443 42.370077  </gml:posList>
+                <gml:posList srsDimension="2">-2.481443 42.370077  -2.481380 42.370076  -2.481381 42.370115  -2.481444 42.370115  -2.481443 42.370077  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -68175,6 +68112,111 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.479790 42.348620  -2.479835 42.348556  -2.479749 42.348522  -2.479704 42.348586  -2.479790 42.348620  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4511910">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.455567 42.387147 </gml:lowerCorner>
+        		<gml:upperCorner>-2.455430 42.387274 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.455567 42.387172  -2.455523 42.387147  -2.455430 42.387251  -2.455474 42.387274  -2.455567 42.387172  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.466412 42.386326 </gml:lowerCorner>
+        		<gml:upperCorner>-2.466351 42.386376 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.466412 42.386335  -2.466376 42.386326  -2.466351 42.386361  -2.466390 42.386376  -2.466412 42.386335  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539200">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.485254 42.384945 </gml:lowerCorner>
+        		<gml:upperCorner>-2.485144 42.385047 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.485254 42.384959  -2.485176 42.384945  -2.485144 42.385031  -2.485225 42.385047  -2.485254 42.384959  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539202">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.465897 42.381334 </gml:lowerCorner>
+        		<gml:upperCorner>-2.465851 42.381376 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.465861 42.381334  -2.465851 42.381369  -2.465885 42.381376  -2.465897 42.381340  -2.465861 42.381334  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Albelda de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Albelda de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4539209">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.469696 42.390075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.469631 42.390125 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.469631 42.390124  -2.469693 42.390125  -2.469696 42.390077  -2.469632 42.390075  -2.469631 42.390124  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

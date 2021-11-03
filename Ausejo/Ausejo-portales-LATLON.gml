@@ -16658,7 +16658,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Constitución</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26513</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Ausejo</ms:NOMBRE_POBLAMIENTO>

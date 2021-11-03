@@ -2008,6 +2008,48 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4539422">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.133232 42.253249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.133232 42.253249 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.133232 42.253249 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Corralada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>48</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>A</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26588</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Bergasa</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Bergasa</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4539425">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.133257 42.253161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.133257 42.253161 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.133257 42.253161 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Corralada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>48</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26588</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Bergasa</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Bergasa</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.256971">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2022,6 +2064,48 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Corralada</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26588</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Bergasa</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Bergasa</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4539424">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.133321 42.253274 </gml:lowerCorner>
+        		<gml:upperCorner>-2.133321 42.253274 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.133321 42.253274 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Corralada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>50</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26588</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Bergasa</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Bergasa</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4539423">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.133352 42.253330 </gml:lowerCorner>
+        		<gml:upperCorner>-2.133352 42.253330 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.133352 42.253330 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Corralada</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>52</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26588</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Bergasa</ms:NOMBRE_POBLAMIENTO>

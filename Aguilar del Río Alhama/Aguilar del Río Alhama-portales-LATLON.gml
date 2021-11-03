@@ -6568,13 +6568,13 @@
       <ms:portales gml:id="portales.234439">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.993508 41.961558 </gml:lowerCorner>
-        		<gml:upperCorner>-1.993508 41.961558 </gml:upperCorner>
+        		<gml:lowerCorner>-1.993456 41.961625 </gml:lowerCorner>
+        		<gml:upperCorner>-1.993456 41.961625 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.993508 41.961558 </gml:pos>
+            <gml:pos>-1.993456 41.961625 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alfonso Benito</ms:NOMBRE_COMPLETO_VIAL>
@@ -7051,13 +7051,13 @@
       <ms:portales gml:id="portales.234440">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.993408 41.961505 </gml:lowerCorner>
-        		<gml:upperCorner>-1.993408 41.961505 </gml:upperCorner>
+        		<gml:lowerCorner>-1.993347 41.961582 </gml:lowerCorner>
+        		<gml:upperCorner>-1.993347 41.961582 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.993408 41.961505 </gml:pos>
+            <gml:pos>-1.993347 41.961582 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alfonso Benito</ms:NOMBRE_COMPLETO_VIAL>

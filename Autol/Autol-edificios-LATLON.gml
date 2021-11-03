@@ -35835,7 +35835,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.010212 42.216440  -2.010157 42.216536  -2.010244 42.216564  -2.010332 42.216483  -2.010285 42.216468  -2.010227 42.216449  -2.010212 42.216440  </gml:posList>
+                <gml:posList srsDimension="2">-2.010212 42.216440  -2.010157 42.216536  -2.010244 42.216564  -2.010332 42.216483  -2.010285 42.216468  -2.010277 42.216465  -2.010227 42.216449  -2.010212 42.216440  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -46784,14 +46784,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.010430 42.216380 </gml:lowerCorner>
-        		<gml:upperCorner>-2.010285 42.216483 </gml:upperCorner>
+        		<gml:upperCorner>-2.010277 42.216483 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.010285 42.216468  -2.010332 42.216483  -2.010415 42.216470  -2.010430 42.216392  -2.010393 42.216380  -2.010285 42.216468  </gml:posList>
+                <gml:posList srsDimension="2">-2.010277 42.216465  -2.010332 42.216483  -2.010415 42.216470  -2.010430 42.216392  -2.010393 42.216380  -2.010277 42.216465  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -53948,14 +53948,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.010393 42.216367 </gml:lowerCorner>
-        		<gml:upperCorner>-2.010212 42.216468 </gml:upperCorner>
+        		<gml:upperCorner>-2.010212 42.216465 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.010212 42.216440  -2.010227 42.216449  -2.010285 42.216468  -2.010393 42.216380  -2.010356 42.216368  -2.010305 42.216367  -2.010253 42.216410  -2.010223 42.216434  -2.010212 42.216440  </gml:posList>
+                <gml:posList srsDimension="2">-2.010212 42.216440  -2.010227 42.216449  -2.010277 42.216465  -2.010393 42.216380  -2.010356 42.216368  -2.010305 42.216367  -2.010253 42.216410  -2.010223 42.216434  -2.010212 42.216440  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -64776,14 +64776,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.007274 42.228832 </gml:lowerCorner>
-        		<gml:upperCorner>-2.007110 42.229090 </gml:upperCorner>
+        		<gml:upperCorner>-2.007136 42.229064 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.007239 42.228832  -2.007211 42.228896  -2.007163 42.229007  -2.007110 42.229078  -2.007121 42.229090  -2.007178 42.229063  -2.007274 42.228841  -2.007239 42.228832  </gml:posList>
+                <gml:posList srsDimension="2">-2.007239 42.228832  -2.007211 42.228896  -2.007163 42.229007  -2.007136 42.229064  -2.007178 42.229063  -2.007274 42.228841  -2.007239 42.228832  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
