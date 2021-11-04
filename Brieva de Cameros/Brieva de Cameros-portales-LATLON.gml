@@ -2704,13 +2704,13 @@
       <ms:portales gml:id="portales.253967">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.792461 42.165151 </gml:lowerCorner>
-        		<gml:upperCorner>-2.792461 42.165151 </gml:upperCorner>
+        		<gml:lowerCorner>-2.792465 42.165150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.792465 42.165150 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.792461 42.165151 </gml:pos>
+            <gml:pos>-2.792465 42.165150 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Costanilla</ms:NOMBRE_COMPLETO_VIAL>

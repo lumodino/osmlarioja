@@ -16,13 +16,13 @@
       <ms:viales gml:id="viales.1515624">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.838053 42.604537 </gml:lowerCorner>
-        		<gml:upperCorner>-2.837396 42.605018 </gml:upperCorner>
+        		<gml:lowerCorner>-2.838053 42.604540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837394 42.605018 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.837396 42.604537  -2.837682 42.604739  -2.838053 42.605018  </gml:posList>
+            <gml:posList srsDimension="2">-2.837394 42.604540  -2.837608 42.604703  -2.837682 42.604739  -2.838053 42.605018  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Ebro</ms:NOMBRE_COMPLETO_VIAL>
@@ -96,13 +96,13 @@
       <ms:viales gml:id="viales.1515696">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.837396 42.604220 </gml:lowerCorner>
-        		<gml:upperCorner>-2.836984 42.604537 </gml:upperCorner>
+        		<gml:lowerCorner>-2.837394 42.604220 </gml:lowerCorner>
+        		<gml:upperCorner>-2.836984 42.604540 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.836984 42.604220  -2.837396 42.604537  </gml:posList>
+            <gml:posList srsDimension="2">-2.836984 42.604220  -2.837394 42.604540  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Ebro</ms:NOMBRE_COMPLETO_VIAL>
@@ -122,7 +122,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.836787 42.604059  -2.836984 42.604220  </gml:posList>
+            <gml:posList srsDimension="2">-2.836787 42.604059  -2.836801 42.604073  -2.836861 42.604126  -2.836914 42.604165  -2.836984 42.604220  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida del Ebro</ms:NOMBRE_COMPLETO_VIAL>
@@ -937,12 +937,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.837576 42.604213 </gml:lowerCorner>
-        		<gml:upperCorner>-2.837396 42.604537 </gml:upperCorner>
+        		<gml:upperCorner>-2.837394 42.604540 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.837396 42.604537  -2.837511 42.604284  -2.837576 42.604213  </gml:posList>
+            <gml:posList srsDimension="2">-2.837394 42.604540  -2.837511 42.604284  -2.837576 42.604213  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Portal de La Rioja</ms:NOMBRE_COMPLETO_VIAL>

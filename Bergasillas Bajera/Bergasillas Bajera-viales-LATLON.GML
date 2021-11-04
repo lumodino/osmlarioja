@@ -142,7 +142,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.157888 42.245188  -2.157697 42.245264  -2.157520 42.245329  -2.157424 42.245350  -2.157302 42.245373  -2.157269 42.245377  </gml:posList>
+            <gml:posList srsDimension="2">-2.157888 42.245188  -2.157840 42.245207  -2.157833 42.245210  -2.157814 42.245217  -2.157806 42.245221  -2.157803 42.245222  -2.157771 42.245235  -2.157724 42.245253  -2.157722 42.245254  -2.157688 42.245268  -2.157674 42.245273  -2.157643 42.245286  -2.157588 42.245306  -2.157561 42.245315  -2.157532 42.245326  -2.157522 42.245329  -2.157516 42.245331  -2.157489 42.245337  -2.157483 42.245338  -2.157459 42.245343  -2.157449 42.245345  -2.157445 42.245346  -2.157397 42.245356  -2.157316 42.245371  -2.157302 42.245373  -2.157269 42.245377  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Bergasa</ms:NOMBRE_COMPLETO_VIAL>
@@ -156,13 +156,13 @@
       <ms:viales gml:id="viales.1515438">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.159301 42.244616 </gml:lowerCorner>
-        		<gml:upperCorner>-2.159278 42.244639 </gml:upperCorner>
+        		<gml:lowerCorner>-2.159301 42.244619 </gml:lowerCorner>
+        		<gml:upperCorner>-2.159277 42.244643 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.159301 42.244616  -2.159278 42.244639  </gml:posList>
+            <gml:posList srsDimension="2">-2.159301 42.244619  -2.159290 42.244632  -2.159277 42.244643  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Bergasa</ms:NOMBRE_COMPLETO_VIAL>
@@ -176,13 +176,13 @@
       <ms:viales gml:id="viales.1515439">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.159278 42.244639 </gml:lowerCorner>
-        		<gml:upperCorner>-2.158235 42.245036 </gml:upperCorner>
+        		<gml:lowerCorner>-2.159277 42.244643 </gml:lowerCorner>
+        		<gml:upperCorner>-2.158234 42.245034 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.159278 42.244639  -2.158925 42.244754  -2.158744 42.244835  -2.158235 42.245036  </gml:posList>
+            <gml:posList srsDimension="2">-2.159277 42.244643  -2.159270 42.244645  -2.159260 42.244650  -2.159252 42.244652  -2.159239 42.244657  -2.159207 42.244665  -2.159175 42.244674  -2.159158 42.244679  -2.159157 42.244679  -2.159147 42.244682  -2.159117 42.244692  -2.159039 42.244717  -2.159019 42.244723  -2.159003 42.244729  -2.158991 42.244732  -2.158947 42.244747  -2.158929 42.244753  -2.158926 42.244754  -2.158913 42.244759  -2.158894 42.244767  -2.158858 42.244782  -2.158851 42.244785  -2.158849 42.244786  -2.158805 42.244807  -2.158787 42.244815  -2.158649 42.244872  -2.158624 42.244881  -2.158578 42.244899  -2.158561 42.244906  -2.158535 42.244916  -2.158525 42.244920  -2.158474 42.244938  -2.158423 42.244957  -2.158390 42.244970  -2.158357 42.244982  -2.158344 42.244986  -2.158339 42.244989  -2.158319 42.244997  -2.158307 42.245003  -2.158301 42.245005  -2.158280 42.245014  -2.158234 42.245034  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Bergasa</ms:NOMBRE_COMPLETO_VIAL>
@@ -196,13 +196,13 @@
       <ms:viales gml:id="viales.1515444">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.158235 42.245036 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.158234 42.245034 </gml:lowerCorner>
         		<gml:upperCorner>-2.157888 42.245188 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.158235 42.245036  -2.157888 42.245188  </gml:posList>
+            <gml:posList srsDimension="2">-2.158234 42.245034  -2.158174 42.245062  -2.158090 42.245102  -2.158060 42.245116  -2.158035 42.245127  -2.158012 42.245137  -2.158002 42.245141  -2.157978 42.245151  -2.157888 42.245188  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Bergasa</ms:NOMBRE_COMPLETO_VIAL>
@@ -222,7 +222,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.157269 42.245377  -2.157197 42.245386  -2.157001 42.245411  -2.156953 42.245415  -2.156911 42.245418  -2.156847 42.245416  -2.156793 42.245411  -2.156629 42.245402  -2.156219 42.245376  -2.156098 42.245367  </gml:posList>
+            <gml:posList srsDimension="2">-2.157269 42.245377  -2.157197 42.245386  -2.157001 42.245411  -2.156975 42.245414  -2.156953 42.245415  -2.156911 42.245418  -2.156847 42.245416  -2.156793 42.245411  -2.156629 42.245402  -2.156437 42.245392  -2.156219 42.245376  -2.156098 42.245367  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Bergasa</ms:NOMBRE_COMPLETO_VIAL>
@@ -497,12 +497,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.158273 42.244966 </gml:lowerCorner>
-        		<gml:upperCorner>-2.158235 42.245036 </gml:upperCorner>
+        		<gml:upperCorner>-2.158234 42.245034 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.158235 42.245036  -2.158273 42.244966  </gml:posList>
+            <gml:posList srsDimension="2">-2.158234 42.245034  -2.158273 42.244966  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Fragua</ms:NOMBRE_COMPLETO_VIAL>
