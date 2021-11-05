@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "name": "edificios",
 "features": [
+{ "type": "Feature", "properties": { "gml_id": "edificios.3956134", "T223_000_NUCL_URB_DENO": "Haro", "T223_000_INEMUNICIPIO_DENO": "Haro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.826936, 42.600592 ], [ -2.826944, 42.600637 ], [ -2.826978, 42.600634 ], [ -2.82697, 42.600589 ], [ -2.826936, 42.600592 ] ] ] } },
 { "type": "Feature", "properties": { "gml_id": "edificios.3975860", "T223_000_NUCL_URB_DENO": "Haro", "T223_000_INEMUNICIPIO_DENO": "Haro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.847957, 42.584718 ], [ -2.847957, 42.584713 ], [ -2.847754, 42.584697 ], [ -2.84775, 42.584697 ], [ -2.847741, 42.584775 ], [ -2.847947, 42.584792 ], [ -2.847957, 42.584718 ] ] ] } },
 { "type": "Feature", "properties": { "gml_id": "edificios.3975861", "T223_000_NUCL_URB_DENO": "Haro", "T223_000_INEMUNICIPIO_DENO": "Haro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.847752, 42.584376 ], [ -2.847764, 42.584311 ], [ -2.847742, 42.584289 ], [ -2.84766, 42.584281 ], [ -2.847624, 42.5844 ], [ -2.847746, 42.584408 ], [ -2.847752, 42.584376 ] ] ] } },
 { "type": "Feature", "properties": { "gml_id": "edificios.3975862", "T223_000_NUCL_URB_DENO": "Haro", "T223_000_INEMUNICIPIO_DENO": "Haro" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.84775, 42.584697 ], [ -2.847751, 42.584694 ], [ -2.847529, 42.584684 ], [ -2.847515, 42.584769 ], [ -2.847741, 42.584775 ], [ -2.84775, 42.584697 ] ] ] } },

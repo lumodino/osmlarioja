@@ -3208,13 +3208,13 @@
       <ms:portales gml:id="portales.252323">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.197073 42.210963 </gml:lowerCorner>
-        		<gml:upperCorner>-2.197073 42.210963 </gml:upperCorner>
+        		<gml:lowerCorner>-2.197061 42.210871 </gml:lowerCorner>
+        		<gml:upperCorner>-2.197061 42.210871 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.197073 42.210963 </gml:pos>
+            <gml:pos>-2.197061 42.210871 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
