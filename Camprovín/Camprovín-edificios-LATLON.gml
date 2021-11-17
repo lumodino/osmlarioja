@@ -45,7 +45,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.746437 42.369581  -2.746245 42.369552  -2.746172 42.369819  -2.746361 42.369848  -2.746437 42.369581  </gml:posList>
+                <gml:posList srsDimension="2">-2.746437 42.369581  -2.746245 42.369552  -2.746172 42.369819  -2.746267 42.369834  -2.746361 42.369848  -2.746437 42.369581  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -822,7 +822,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.722117 42.355109  -2.722121 42.355142  -2.722122 42.355153  -2.722139 42.355292  -2.722214 42.355279  -2.722282 42.355266  -2.722188 42.355132  -2.722166 42.355102  -2.722117 42.355109  </gml:posList>
+                <gml:posList srsDimension="2">-2.722117 42.355109  -2.722121 42.355142  -2.722122 42.355153  -2.722129 42.355208  -2.722139 42.355292  -2.722214 42.355279  -2.722282 42.355266  -2.722188 42.355132  -2.722166 42.355102  -2.722117 42.355109  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -937,27 +937,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4086969">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725576 42.352936 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725339 42.353077 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725499 42.353077  -2.725576 42.353020  -2.725532 42.352981  -2.725510 42.352962  -2.725481 42.352936  -2.725339 42.353041  -2.725367 42.353062  -2.725369 42.353063  -2.725412 42.353070  -2.725448 42.353043  -2.725499 42.353077  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4086970">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1021,27 +1000,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4086973">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.724873 42.354454 </gml:lowerCorner>
-        		<gml:upperCorner>-2.724651 42.354626 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.724782 42.354625  -2.724783 42.354626  -2.724873 42.354595  -2.724738 42.354454  -2.724651 42.354490  -2.724702 42.354543  -2.724752 42.354594  -2.724782 42.354625  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4086974">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1075,27 +1033,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.723777 42.353853  -2.723846 42.353905  -2.724002 42.353784  -2.724002 42.353761  -2.723936 42.353736  -2.723833 42.353812  -2.723777 42.353853  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4086976">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725926 42.352583 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725651 42.352776 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725651 42.352620  -2.725741 42.352685  -2.725889 42.352776  -2.725926 42.352732  -2.725829 42.352673  -2.725698 42.352583  -2.725651 42.352620  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1147,48 +1084,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4086979">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.724881 42.352977 </gml:lowerCorner>
-        		<gml:upperCorner>-2.724849 42.352999 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.724874 42.352977  -2.724849 42.352984  -2.724857 42.352999  -2.724881 42.352992  -2.724874 42.352977  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4086980">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725001 42.352951 </gml:lowerCorner>
-        		<gml:upperCorner>-2.724857 42.353051 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725001 42.353019  -2.724987 42.352989  -2.724967 42.352951  -2.724874 42.352977  -2.724881 42.352992  -2.724857 42.352999  -2.724883 42.353051  -2.725001 42.353019  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4086981">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1200,7 +1095,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725797 42.353509  -2.725787 42.353507  -2.725768 42.353502  -2.725752 42.353495  -2.725696 42.353558  -2.725741 42.353575  -2.725797 42.353509  </gml:posList>
+                <gml:posList srsDimension="2">-2.725797 42.353509  -2.725787 42.353507  -2.725768 42.353502  -2.725752 42.353495  -2.725696 42.353558  -2.725719 42.353566  -2.725741 42.353575  -2.725797 42.353509  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1284,7 +1179,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.717330 42.350665  -2.717556 42.350751  -2.717638 42.350639  -2.717402 42.350547  -2.717330 42.350665  </gml:posList>
+                <gml:posList srsDimension="2">-2.717330 42.350665  -2.717556 42.350751  -2.717638 42.350639  -2.717438 42.350561  -2.717402 42.350547  -2.717330 42.350665  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1305,7 +1200,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.726528 42.352850  -2.726455 42.352779  -2.726380 42.352818  -2.726459 42.352889  -2.726528 42.352850  </gml:posList>
+                <gml:posList srsDimension="2">-2.726528 42.352850  -2.726455 42.352779  -2.726380 42.352818  -2.726443 42.352875  -2.726459 42.352889  -2.726528 42.352850  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1326,7 +1221,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.726261 42.346509  -2.726209 42.346419  -2.726021 42.346482  -2.726059 42.346564  -2.726261 42.346509  </gml:posList>
+                <gml:posList srsDimension="2">-2.726261 42.346509  -2.726209 42.346419  -2.726115 42.346451  -2.726021 42.346482  -2.726059 42.346564  -2.726261 42.346509  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1347,7 +1242,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.693623 42.358798  -2.693644 42.358741  -2.693573 42.358727  -2.693544 42.358782  -2.693623 42.358798  </gml:posList>
+                <gml:posList srsDimension="2">-2.693623 42.358798  -2.693633 42.358770  -2.693644 42.358741  -2.693573 42.358727  -2.693544 42.358782  -2.693623 42.358798  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2221,15 +2116,15 @@
       <ms:edificios gml:id="edificios.4087030">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.722358 42.355609 </gml:lowerCorner>
-        		<gml:upperCorner>-2.722186 42.355752 </gml:upperCorner>
+        		<gml:lowerCorner>-2.722370 42.355598 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722198 42.355740 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.722358 42.355647  -2.722260 42.355609  -2.722186 42.355713  -2.722284 42.355752  -2.722358 42.355647  </gml:posList>
+                <gml:posList srsDimension="2">-2.722370 42.355636  -2.722272 42.355598  -2.722198 42.355702  -2.722297 42.355740  -2.722370 42.355636  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2410,15 +2305,15 @@
       <ms:edificios gml:id="edificios.4087039">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725247 42.351322 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725079 42.351470 </gml:upperCorner>
+        		<gml:lowerCorner>-2.725226 42.351328 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725080 42.351458 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725247 42.351438  -2.725192 42.351396  -2.725218 42.351367  -2.725139 42.351322  -2.725079 42.351397  -2.725112 42.351418  -2.725157 42.351445  -2.725206 42.351470  -2.725247 42.351438  </gml:posList>
+                <gml:posList srsDimension="2">-2.725226 42.351374  -2.725147 42.351328  -2.725114 42.351371  -2.725080 42.351414  -2.725113 42.351435  -2.725134 42.351446  -2.725155 42.351458  -2.725203 42.351401  -2.725226 42.351374  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3447,7 +3342,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.723896 42.351223  -2.723913 42.351285  -2.724059 42.351263  -2.724042 42.351200  -2.723896 42.351223  </gml:posList>
+                <gml:posList srsDimension="2">-2.723896 42.351223  -2.723913 42.351285  -2.724059 42.351263  -2.724050 42.351231  -2.724042 42.351200  -2.723896 42.351223  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3468,7 +3363,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725424 42.353156  -2.725527 42.353229  -2.725591 42.353181  -2.725554 42.353148  -2.725548 42.353152  -2.725481 42.353112  -2.725424 42.353156  </gml:posList>
+                <gml:posList srsDimension="2">-2.725424 42.353156  -2.725438 42.353166  -2.725472 42.353190  -2.725505 42.353213  -2.725527 42.353229  -2.725591 42.353181  -2.725554 42.353148  -2.725548 42.353152  -2.725481 42.353112  -2.725424 42.353156  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3628,7 +3523,7 @@
       <ms:edificios gml:id="edificios.4087097">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.724186 42.351670 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.724196 42.351670 </gml:lowerCorner>
         		<gml:upperCorner>-2.723988 42.351756 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -3636,7 +3531,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.724186 42.351716  -2.724166 42.351670  -2.723988 42.351712  -2.724011 42.351756  -2.724186 42.351716  </gml:posList>
+                <gml:posList srsDimension="2">-2.724196 42.351738  -2.724166 42.351670  -2.723988 42.351712  -2.724011 42.351756  -2.724105 42.351735  -2.724114 42.351755  -2.724196 42.351738  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4182,7 +4077,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.726095 42.353322  -2.726065 42.353310  -2.726040 42.353341  -2.726071 42.353351  -2.726095 42.353322  </gml:posList>
+                <gml:posList srsDimension="2">-2.726095 42.353322  -2.726080 42.353316  -2.726065 42.353310  -2.726040 42.353341  -2.726071 42.353351  -2.726095 42.353322  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4195,15 +4090,15 @@
       <ms:edificios gml:id="edificios.4087124">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.724798 42.355350 </gml:lowerCorner>
-        		<gml:upperCorner>-2.724767 42.355373 </gml:upperCorner>
+        		<gml:lowerCorner>-2.724803 42.355341 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724772 42.355364 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.724798 42.355373  -2.724794 42.355353  -2.724767 42.355350  -2.724767 42.355372  -2.724798 42.355373  </gml:posList>
+                <gml:posList srsDimension="2">-2.724803 42.355364  -2.724799 42.355344  -2.724772 42.355341  -2.724772 42.355363  -2.724803 42.355364  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4224,7 +4119,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.687713 42.353832  -2.687701 42.353744  -2.687750 42.353736  -2.687747 42.353702  -2.687682 42.353703  -2.687665 42.353614  -2.687535 42.353646  -2.687638 42.353843  -2.687713 42.353832  </gml:posList>
+                <gml:posList srsDimension="2">-2.687713 42.353832  -2.687707 42.353788  -2.687701 42.353744  -2.687750 42.353736  -2.687747 42.353702  -2.687682 42.353703  -2.687665 42.353614  -2.687535 42.353646  -2.687638 42.353843  -2.687713 42.353832  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5224,15 +5119,15 @@
       <ms:edificios gml:id="edificios.4087173">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.723015 42.351364 </gml:lowerCorner>
-        		<gml:upperCorner>-2.722896 42.351452 </gml:upperCorner>
+        		<gml:lowerCorner>-2.723027 42.351374 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722908 42.351462 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.722928 42.351452  -2.723015 42.351430  -2.722988 42.351364  -2.722896 42.351385  -2.722928 42.351452  </gml:posList>
+                <gml:posList srsDimension="2">-2.722940 42.351462  -2.723027 42.351440  -2.723000 42.351374  -2.722908 42.351395  -2.722918 42.351416  -2.722934 42.351450  -2.722940 42.351462  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5791,15 +5686,15 @@
       <ms:edificios gml:id="edificios.4087200">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725525 42.352287 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725393 42.352398 </gml:upperCorner>
+        		<gml:lowerCorner>-2.725537 42.352280 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725405 42.352390 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725483 42.352398  -2.725525 42.352370  -2.725437 42.352287  -2.725393 42.352313  -2.725483 42.352398  </gml:posList>
+                <gml:posList srsDimension="2">-2.725496 42.352390  -2.725537 42.352363  -2.725449 42.352280  -2.725405 42.352306  -2.725429 42.352328  -2.725472 42.352368  -2.725496 42.352390  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6190,15 +6085,15 @@
       <ms:edificios gml:id="edificios.4087219">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.724096 42.355486 </gml:lowerCorner>
-        		<gml:upperCorner>-2.724001 42.355567 </gml:upperCorner>
+        		<gml:lowerCorner>-2.724106 42.355469 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724012 42.355550 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.724096 42.355499  -2.724024 42.355486  -2.724001 42.355553  -2.724073 42.355567  -2.724096 42.355499  </gml:posList>
+                <gml:posList srsDimension="2">-2.724106 42.355482  -2.724034 42.355469  -2.724012 42.355537  -2.724083 42.355550  -2.724106 42.355482  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6324,7 +6219,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.721696 42.353612  -2.721749 42.353575  -2.721769 42.353560  -2.721730 42.353521  -2.721662 42.353574  -2.721656 42.353579  -2.721696 42.353612  </gml:posList>
+                <gml:posList srsDimension="2">-2.721696 42.353612  -2.721749 42.353575  -2.721769 42.353560  -2.721730 42.353521  -2.721662 42.353574  -2.721656 42.353579  -2.721676 42.353596  -2.721696 42.353612  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7143,7 +7038,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.721730 42.353521  -2.721681 42.353493  -2.721619 42.353547  -2.721662 42.353574  -2.721730 42.353521  </gml:posList>
+                <gml:posList srsDimension="2">-2.721730 42.353521  -2.721681 42.353493  -2.721619 42.353547  -2.721640 42.353561  -2.721662 42.353574  -2.721730 42.353521  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7258,27 +7153,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4087270">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725268 42.353824 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725141 42.353896 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725171 42.353824  -2.725141 42.353855  -2.725242 42.353896  -2.725268 42.353865  -2.725171 42.353824  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4087271">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -7353,7 +7227,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725393 42.352842  -2.725449 42.352890  -2.725498 42.352859  -2.725442 42.352811  -2.725393 42.352842  </gml:posList>
+                <gml:posList srsDimension="2">-2.725393 42.352842  -2.725449 42.352890  -2.725498 42.352859  -2.725470 42.352835  -2.725442 42.352811  -2.725393 42.352842  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8172,7 +8046,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.745205 42.368932  -2.745191 42.368864  -2.745066 42.368883  -2.745081 42.368947  -2.745205 42.368932  </gml:posList>
+                <gml:posList srsDimension="2">-2.745205 42.368932  -2.745191 42.368864  -2.745066 42.368883  -2.745081 42.368947  -2.745143 42.368940  -2.745205 42.368932  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9117,7 +8991,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.721696 42.353612  -2.721722 42.353634  -2.721776 42.353598  -2.721749 42.353575  -2.721696 42.353612  </gml:posList>
+                <gml:posList srsDimension="2">-2.721696 42.353612  -2.721709 42.353623  -2.721722 42.353634  -2.721776 42.353598  -2.721749 42.353575  -2.721696 42.353612  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9895,15 +9769,15 @@
       <ms:edificios gml:id="edificios.4087395">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725499 42.353043 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725412 42.353084 </gml:upperCorner>
+        		<gml:lowerCorner>-2.725501 42.353031 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725414 42.353072 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725499 42.353077  -2.725448 42.353043  -2.725412 42.353070  -2.725489 42.353084  -2.725499 42.353077  </gml:posList>
+                <gml:posList srsDimension="2">-2.725501 42.353065  -2.725477 42.353048  -2.725451 42.353031  -2.725414 42.353058  -2.725453 42.353065  -2.725492 42.353072  -2.725501 42.353065  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11799,6 +11673,1287 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Mahave</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548744">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729630 42.347187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.729576 42.347217 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729630 42.347195  -2.729606 42.347191  -2.729583 42.347187  -2.729576 42.347208  -2.729623 42.347217  -2.729630 42.347195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548747">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.702855 42.348898 </gml:lowerCorner>
+        		<gml:upperCorner>-2.702796 42.348938 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.702855 42.348901  -2.702800 42.348898  -2.702796 42.348934  -2.702823 42.348936  -2.702851 42.348938  -2.702855 42.348901  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548752">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.718614 42.350841 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718505 42.350941 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.718614 42.350868  -2.718596 42.350859  -2.718563 42.350841  -2.718505 42.350916  -2.718558 42.350941  -2.718614 42.350868  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548753">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.718750 42.350877 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718608 42.350970 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.718608 42.350916  -2.718715 42.350970  -2.718750 42.350932  -2.718647 42.350877  -2.718608 42.350916  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548759">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725186 42.351482 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725098 42.351550 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725186 42.351507  -2.725168 42.351482  -2.725098 42.351535  -2.725116 42.351550  -2.725186 42.351507  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548760">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725263 42.351401 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725155 42.351481 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725263 42.351434  -2.725203 42.351401  -2.725155 42.351458  -2.725184 42.351469  -2.725214 42.351481  -2.725263 42.351434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548761">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.694776 42.351581 </gml:lowerCorner>
+        		<gml:upperCorner>-2.694503 42.351772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.694776 42.351734  -2.694742 42.351693  -2.694708 42.351652  -2.694676 42.351668  -2.694580 42.351581  -2.694503 42.351621  -2.694581 42.351682  -2.694597 42.351700  -2.694663 42.351772  -2.694776 42.351734  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548763">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.719417 42.351979 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719321 42.352054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.719417 42.352022  -2.719367 42.351979  -2.719321 42.352000  -2.719380 42.352054  -2.719417 42.352022  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548764">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.719325 42.352075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.719265 42.352110 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.719325 42.352101  -2.719278 42.352075  -2.719265 42.352086  -2.719315 42.352110  -2.719325 42.352101  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548765">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735585 42.352301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735537 42.352331 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735585 42.352306  -2.735564 42.352303  -2.735543 42.352301  -2.735537 42.352326  -2.735579 42.352331  -2.735585 42.352306  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548766">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.737562 42.352390 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737520 42.352416 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.737562 42.352395  -2.737543 42.352392  -2.737524 42.352390  -2.737520 42.352411  -2.737557 42.352416  -2.737562 42.352395  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548768">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.717931 42.353727 </gml:lowerCorner>
+        		<gml:upperCorner>-2.717878 42.353764 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.717931 42.353739  -2.717916 42.353727  -2.717901 42.353736  -2.717878 42.353752  -2.717893 42.353764  -2.717931 42.353739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548769">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738686 42.353986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738621 42.354022 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738686 42.353995  -2.738639 42.353986  -2.738630 42.354000  -2.738621 42.354013  -2.738668 42.354022  -2.738686 42.353995  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548770">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725757 42.354231 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725541 42.354340 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725757 42.354303  -2.725565 42.354231  -2.725541 42.354273  -2.725561 42.354285  -2.725555 42.354303  -2.725639 42.354331  -2.725644 42.354315  -2.725731 42.354340  -2.725757 42.354303  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548772">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.726681 42.354362 </gml:lowerCorner>
+        		<gml:upperCorner>-2.726639 42.354392 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.726681 42.354380  -2.726668 42.354362  -2.726639 42.354374  -2.726652 42.354392  -2.726681 42.354380  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548774">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722141 42.354634 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722097 42.354656 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722141 42.354645  -2.722102 42.354634  -2.722097 42.354645  -2.722135 42.354656  -2.722141 42.354645  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548776">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.707782 42.354859 </gml:lowerCorner>
+        		<gml:upperCorner>-2.707723 42.354897 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.707782 42.354869  -2.707744 42.354859  -2.707723 42.354886  -2.707742 42.354892  -2.707761 42.354897  -2.707782 42.354869  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548777">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733770 42.354951 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733719 42.354984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733770 42.354958  -2.733726 42.354951  -2.733719 42.354978  -2.733763 42.354984  -2.733770 42.354958  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548779">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738041 42.355183 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738002 42.355211 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738041 42.355198  -2.738027 42.355183  -2.738002 42.355196  -2.738009 42.355204  -2.738016 42.355211  -2.738041 42.355198  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548780">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722418 42.355556 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722336 42.355625 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722418 42.355569  -2.722375 42.355556  -2.722336 42.355609  -2.722381 42.355625  -2.722418 42.355569  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548782">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.724769 42.355789 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724655 42.355852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.724769 42.355817  -2.724674 42.355789  -2.724655 42.355824  -2.724750 42.355852  -2.724769 42.355817  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548783">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.727963 42.356032 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727908 42.356061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.727963 42.356033  -2.727909 42.356032  -2.727908 42.356060  -2.727962 42.356061  -2.727963 42.356033  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548784">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722315 42.356480 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722273 42.356510 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722315 42.356490  -2.722285 42.356480  -2.722273 42.356500  -2.722303 42.356510  -2.722315 42.356490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548786">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.712839 42.357318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.712819 42.357337 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.712839 42.357318  -2.712819 42.357318  -2.712819 42.357328  -2.712819 42.357337  -2.712839 42.357337  -2.712839 42.357318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548787">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.726163 42.358014 </gml:lowerCorner>
+        		<gml:upperCorner>-2.726027 42.358092 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.726163 42.358047  -2.726051 42.358014  -2.726027 42.358059  -2.726139 42.358092  -2.726163 42.358047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548788">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723748 42.358333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723717 42.358364 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723748 42.358364  -2.723747 42.358333  -2.723717 42.358333  -2.723718 42.358364  -2.723748 42.358364  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548789">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725365 42.358749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725306 42.358776 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725365 42.358756  -2.725310 42.358749  -2.725306 42.358769  -2.725360 42.358776  -2.725365 42.358756  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548790">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.711676 42.358974 </gml:lowerCorner>
+        		<gml:upperCorner>-2.711634 42.359009 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.711676 42.358983  -2.711653 42.358974  -2.711634 42.358999  -2.711657 42.359009  -2.711665 42.358998  -2.711676 42.358983  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548791">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.714283 42.359230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.714209 42.359282 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.714283 42.359251  -2.714259 42.359240  -2.714235 42.359230  -2.714209 42.359261  -2.714257 42.359282  -2.714283 42.359251  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548793">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.737526 42.359477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737471 42.359525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.737526 42.359520  -2.737518 42.359477  -2.737471 42.359482  -2.737479 42.359525  -2.737526 42.359520  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548794">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723836 42.360307 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723785 42.360350 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723836 42.360341  -2.723819 42.360307  -2.723785 42.360316  -2.723801 42.360350  -2.723836 42.360341  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548795">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.721551 42.360350 </gml:lowerCorner>
+        		<gml:upperCorner>-2.721508 42.360390 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.721551 42.360372  -2.721533 42.360350  -2.721508 42.360368  -2.721527 42.360390  -2.721551 42.360372  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548796">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728367 42.361473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728293 42.361525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728367 42.361500  -2.728341 42.361473  -2.728293 42.361498  -2.728319 42.361525  -2.728367 42.361500  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548797">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.737527 42.362584 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737466 42.362629 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.737527 42.362602  -2.737491 42.362584  -2.737466 42.362610  -2.737502 42.362629  -2.737527 42.362602  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548798">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728720 42.362899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728697 42.362920 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728720 42.362900  -2.728698 42.362899  -2.728697 42.362919  -2.728719 42.362920  -2.728720 42.362900  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548799">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723612 42.363646 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723562 42.363694 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723612 42.363655  -2.723583 42.363646  -2.723562 42.363686  -2.723591 42.363694  -2.723612 42.363655  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548800">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.720941 42.364055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.720874 42.364104 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.720941 42.364072  -2.720894 42.364055  -2.720874 42.364087  -2.720921 42.364104  -2.720941 42.364072  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548801">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.721219 42.364256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.721150 42.364343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.721219 42.364263  -2.721170 42.364256  -2.721160 42.364296  -2.721150 42.364336  -2.721184 42.364341  -2.721199 42.364343  -2.721219 42.364263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548803">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728583 42.364379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728510 42.364435 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728583 42.364424  -2.728567 42.364379  -2.728510 42.364390  -2.728526 42.364435  -2.728583 42.364424  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548804">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.716953 42.365045 </gml:lowerCorner>
+        		<gml:upperCorner>-2.716892 42.365087 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.716953 42.365079  -2.716945 42.365045  -2.716918 42.365049  -2.716892 42.365053  -2.716900 42.365087  -2.716953 42.365079  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548805">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.731818 42.365516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731768 42.365545 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.731818 42.365540  -2.731814 42.365516  -2.731768 42.365520  -2.731772 42.365545  -2.731818 42.365540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548807">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732917 42.365907 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732837 42.365941 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732917 42.365927  -2.732840 42.365907  -2.732837 42.365931  -2.732913 42.365941  -2.732917 42.365927  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548808">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728086 42.366126 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728045 42.366160 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728086 42.366155  -2.728077 42.366126  -2.728045 42.366132  -2.728055 42.366160  -2.728086 42.366155  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548809">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.736634 42.366152 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736586 42.366186 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.736634 42.366174  -2.736618 42.366152  -2.736586 42.366164  -2.736602 42.366186  -2.736634 42.366174  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548810">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.731747 42.366556 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731670 42.366611 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.731747 42.366582  -2.731697 42.366556  -2.731670 42.366584  -2.731720 42.366611  -2.731747 42.366582  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548811">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735655 42.366702 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735605 42.366735 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735655 42.366715  -2.735642 42.366702  -2.735605 42.366722  -2.735618 42.366735  -2.735655 42.366715  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548812">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725745 42.367142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725708 42.367172 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725745 42.367147  -2.725716 42.367142  -2.725708 42.367167  -2.725736 42.367172  -2.725745 42.367147  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548814">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.724614 42.368274 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724559 42.368305 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.724614 42.368275  -2.724559 42.368274  -2.724559 42.368304  -2.724613 42.368305  -2.724614 42.368275  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548815">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725449 42.369545 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725392 42.369586 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725449 42.369553  -2.725402 42.369545  -2.725397 42.369562  -2.725392 42.369578  -2.725439 42.369586  -2.725449 42.369553  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548816">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734965 42.370722 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734902 42.370761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734965 42.370742  -2.734941 42.370732  -2.734916 42.370722  -2.734902 42.370742  -2.734952 42.370761  -2.734965 42.370742  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548817">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.731719 42.371052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731648 42.371101 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.731719 42.371072  -2.731670 42.371052  -2.731648 42.371081  -2.731672 42.371091  -2.731697 42.371101  -2.731719 42.371072  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548818">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733256 42.371934 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733214 42.371957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733256 42.371953  -2.733252 42.371934  -2.733233 42.371936  -2.733214 42.371938  -2.733218 42.371957  -2.733256 42.371953  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548819">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725001 42.352951 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724849 42.353051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.724967 42.352951  -2.724874 42.352977  -2.724849 42.352984  -2.724857 42.352999  -2.724883 42.353051  -2.725001 42.353019  -2.724987 42.352989  -2.724967 42.352951  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548820">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725579 42.352993 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725477 42.353065 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725501 42.353065  -2.725579 42.353008  -2.725562 42.352993  -2.725477 42.353048  -2.725501 42.353065  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548821">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725536 42.352954 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725370 42.353058 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725414 42.353058  -2.725451 42.353031  -2.725516 42.352983  -2.725536 42.352969  -2.725535 42.352969  -2.725519 42.352954  -2.725370 42.353050  -2.725372 42.353050  -2.725393 42.353054  -2.725414 42.353058  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725562 42.352969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725451 42.353048 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725477 42.353048  -2.725562 42.352993  -2.725549 42.352981  -2.725536 42.352969  -2.725516 42.352983  -2.725451 42.353031  -2.725477 42.353048  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548823">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725519 42.352924 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725341 42.353050 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725370 42.353050  -2.725519 42.352954  -2.725513 42.352949  -2.725484 42.352924  -2.725341 42.353028  -2.725355 42.353039  -2.725370 42.353050  -2.725370 42.353050  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548824">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725877 42.352673 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725781 42.352743 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725836 42.352743  -2.725877 42.352702  -2.725830 42.352673  -2.725781 42.352710  -2.725808 42.352727  -2.725836 42.352743  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548825">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725926 42.352702 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725836 42.352776 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725877 42.352702  -2.725836 42.352743  -2.725863 42.352760  -2.725889 42.352776  -2.725926 42.352732  -2.725877 42.352702  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548826">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725830 42.352641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725730 42.352710 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725781 42.352710  -2.725830 42.352673  -2.725829 42.352673  -2.725782 42.352641  -2.725730 42.352678  -2.725741 42.352685  -2.725781 42.352710  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548827">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725782 42.352583 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725651 42.352678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725730 42.352678  -2.725782 42.352641  -2.725698 42.352583  -2.725651 42.352620  -2.725678 42.352640  -2.725730 42.352678  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Camprovín</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Camprovín</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
