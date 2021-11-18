@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.850915 42.390474 </gml:lowerCorner>
-      		<gml:upperCorner>-2.842866 42.394207 </gml:upperCorner>
+      		<gml:lowerCorner>-2.874766 42.379376 </gml:lowerCorner>
+      		<gml:upperCorner>-2.832502 42.399751 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1314,7 +1314,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.848551 42.394023  -2.848695 42.393956  -2.848611 42.393857  -2.848590 42.393867  -2.848564 42.393836  -2.848482 42.393874  -2.848508 42.393905  -2.848467 42.393924  -2.848551 42.394023  </gml:posList>
+                <gml:posList srsDimension="2">-2.848551 42.394023  -2.848695 42.393956  -2.848611 42.393857  -2.848590 42.393867  -2.848564 42.393836  -2.848523 42.393855  -2.848482 42.393874  -2.848508 42.393905  -2.848467 42.393924  -2.848551 42.394023  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1335,7 +1335,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.848252 42.394160  -2.848295 42.394139  -2.848268 42.394109  -2.848258 42.394114  -2.848246 42.394101  -2.848225 42.394111  -2.848237 42.394124  -2.848226 42.394130  -2.848252 42.394160  </gml:posList>
+                <gml:posList srsDimension="2">-2.848252 42.394160  -2.848295 42.394139  -2.848268 42.394109  -2.848258 42.394114  -2.848246 42.394101  -2.848236 42.394106  -2.848225 42.394111  -2.848237 42.394124  -2.848226 42.394130  -2.848252 42.394160  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1356,7 +1356,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.848243 42.394185  -2.848213 42.394144  -2.848199 42.394150  -2.848183 42.394128  -2.848157 42.394138  -2.848174 42.394160  -2.848160 42.394166  -2.848190 42.394207  -2.848243 42.394185  </gml:posList>
+                <gml:posList srsDimension="2">-2.848243 42.394185  -2.848213 42.394144  -2.848199 42.394150  -2.848183 42.394128  -2.848170 42.394133  -2.848157 42.394138  -2.848174 42.394160  -2.848160 42.394166  -2.848190 42.394207  -2.848243 42.394185  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3036,7 +3036,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.844816 42.393577  -2.844799 42.393587  -2.844808 42.393597  -2.844828 42.393587  -2.844901 42.393553  -2.844860 42.393523  -2.844792 42.393554  -2.844814 42.393575  -2.844816 42.393577  </gml:posList>
+                <gml:posList srsDimension="2">-2.844816 42.393577  -2.844799 42.393587  -2.844808 42.393597  -2.844828 42.393587  -2.844901 42.393553  -2.844860 42.393523  -2.844792 42.393554  -2.844803 42.393565  -2.844814 42.393575  -2.844816 42.393577  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4540,15 +4540,15 @@
       <ms:edificios gml:id="edificios.4014132">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.843830 42.393430 </gml:lowerCorner>
-        		<gml:upperCorner>-2.843672 42.393554 </gml:upperCorner>
+        		<gml:lowerCorner>-2.843824 42.393430 </gml:lowerCorner>
+        		<gml:upperCorner>-2.843672 42.393548 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.843741 42.393430  -2.843672 42.393468  -2.843744 42.393554  -2.843830 42.393506  -2.843741 42.393430  </gml:posList>
+                <gml:posList srsDimension="2">-2.843741 42.393430  -2.843672 42.393468  -2.843754 42.393548  -2.843824 42.393509  -2.843741 42.393430  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4569,7 +4569,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.842920 42.393766  -2.842868 42.393784  -2.842913 42.393855  -2.843059 42.393803  -2.843014 42.393732  -2.842986 42.393742  -2.842933 42.393659  -2.842869 42.393682  -2.842866 42.393683  -2.842920 42.393766  </gml:posList>
+                <gml:posList srsDimension="2">-2.842920 42.393766  -2.842868 42.393784  -2.842913 42.393855  -2.842986 42.393829  -2.843059 42.393803  -2.843014 42.393732  -2.842986 42.393742  -2.842933 42.393659  -2.842869 42.393682  -2.842866 42.393683  -2.842920 42.393766  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4717,6 +4717,741 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.845291 42.392542  -2.845227 42.392484  -2.845147 42.392570  -2.845196 42.392616  -2.845224 42.392598  -2.845249 42.392568  -2.845291 42.392542  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549034">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842215 42.395828 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842054 42.395947 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.842145 42.395828  -2.842054 42.395900  -2.842102 42.395931  -2.842125 42.395947  -2.842215 42.395878  -2.842145 42.395828  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549036">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842453 42.396139 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842404 42.396179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.842453 42.396151  -2.842426 42.396139  -2.842404 42.396168  -2.842431 42.396179  -2.842453 42.396151  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549090">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.838378 42.379376 </gml:lowerCorner>
+        		<gml:upperCorner>-2.838331 42.379410 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.838378 42.379396  -2.838363 42.379376  -2.838331 42.379390  -2.838339 42.379400  -2.838347 42.379410  -2.838378 42.379396  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549091">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.832588 42.379630 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832502 42.379697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.832588 42.379675  -2.832536 42.379630  -2.832519 42.379641  -2.832502 42.379651  -2.832554 42.379697  -2.832588 42.379675  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549092">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.844222 42.386406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.844143 42.386475 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.844222 42.386469  -2.844212 42.386406  -2.844178 42.386409  -2.844143 42.386412  -2.844153 42.386475  -2.844222 42.386469  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549093">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.838490 42.387378 </gml:lowerCorner>
+        		<gml:upperCorner>-2.838432 42.387415 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.838490 42.387412  -2.838487 42.387378  -2.838432 42.387381  -2.838435 42.387415  -2.838463 42.387414  -2.838490 42.387412  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549094">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.859580 42.387688 </gml:lowerCorner>
+        		<gml:upperCorner>-2.859284 42.387814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.859580 42.387764  -2.859555 42.387688  -2.859284 42.387738  -2.859310 42.387814  -2.859580 42.387764  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549095">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.855738 42.388874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.855597 42.388959 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.855703 42.388874  -2.855639 42.388892  -2.855645 42.388903  -2.855597 42.388916  -2.855618 42.388957  -2.855664 42.388945  -2.855671 42.388959  -2.855705 42.388950  -2.855738 42.388942  -2.855703 42.388874  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549096">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.841501 42.390019 </gml:lowerCorner>
+        		<gml:upperCorner>-2.841242 42.390360 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.841501 42.390348  -2.841436 42.390019  -2.841242 42.390037  -2.841328 42.390360  -2.841501 42.390348  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549097">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.841416 42.390037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.840970 42.391340 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.841416 42.391322  -2.841164 42.390037  -2.840970 42.390055  -2.841222 42.391340  -2.841416 42.391322  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549098">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.841921 42.390052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.841522 42.391173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.841807 42.391168  -2.841801 42.391138  -2.841826 42.391135  -2.841852 42.391133  -2.841858 42.391161  -2.841904 42.391156  -2.841899 42.391131  -2.841921 42.391128  -2.841701 42.390052  -2.841522 42.390072  -2.841742 42.391148  -2.841753 42.391144  -2.841759 42.391173  -2.841807 42.391168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549099">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.846505 42.390294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.846480 42.390329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.846505 42.390328  -2.846502 42.390294  -2.846480 42.390296  -2.846481 42.390312  -2.846483 42.390329  -2.846505 42.390328  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549102">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843654 42.391011 </gml:lowerCorner>
+        		<gml:upperCorner>-2.843414 42.391352 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.843654 42.391337  -2.843596 42.391011  -2.843528 42.391018  -2.843546 42.391118  -2.843414 42.391131  -2.843430 42.391225  -2.843482 42.391220  -2.843493 42.391277  -2.843506 42.391352  -2.843654 42.391337  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549104">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843531 42.391371 </gml:lowerCorner>
+        		<gml:upperCorner>-2.843330 42.391478 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.843531 42.391423  -2.843415 42.391420  -2.843417 42.391372  -2.843334 42.391371  -2.843330 42.391473  -2.843529 42.391478  -2.843530 42.391450  -2.843531 42.391423  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549105">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.851878 42.391408 </gml:lowerCorner>
+        		<gml:upperCorner>-2.851817 42.391570 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.851878 42.391565  -2.851855 42.391409  -2.851855 42.391408  -2.851817 42.391412  -2.851840 42.391570  -2.851878 42.391565  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549107">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.852059 42.391599 </gml:lowerCorner>
+        		<gml:upperCorner>-2.851847 42.391658 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.852059 42.391644  -2.852052 42.391612  -2.851983 42.391617  -2.851982 42.391599  -2.851908 42.391604  -2.851912 42.391626  -2.851848 42.391628  -2.851847 42.391628  -2.851852 42.391658  -2.852059 42.391644  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.852782 42.391633 </gml:lowerCorner>
+        		<gml:upperCorner>-2.852749 42.391660 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.852782 42.391657  -2.852777 42.391633  -2.852763 42.391634  -2.852749 42.391636  -2.852754 42.391660  -2.852782 42.391657  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549109">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.841985 42.391719 </gml:lowerCorner>
+        		<gml:upperCorner>-2.841925 42.391781 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.841985 42.391773  -2.841976 42.391746  -2.841966 42.391719  -2.841925 42.391727  -2.841944 42.391781  -2.841985 42.391773  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549110">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.851848 42.391848 </gml:lowerCorner>
+        		<gml:upperCorner>-2.851662 42.391936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.851848 42.391901  -2.851829 42.391848  -2.851662 42.391876  -2.851671 42.391906  -2.851681 42.391936  -2.851835 42.391909  -2.851848 42.391901  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549112">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842793 42.391934 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842727 42.391985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.842793 42.391969  -2.842773 42.391951  -2.842753 42.391934  -2.842727 42.391950  -2.842767 42.391985  -2.842793 42.391969  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549113">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.851343 42.391954 </gml:lowerCorner>
+        		<gml:upperCorner>-2.851152 42.392036 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.851343 42.392023  -2.851333 42.391954  -2.851243 42.391961  -2.851152 42.391967  -2.851159 42.392036  -2.851343 42.392023  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549114">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842115 42.392245 </gml:lowerCorner>
+        		<gml:upperCorner>-2.841996 42.392314 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.842115 42.392291  -2.842093 42.392254  -2.842079 42.392269  -2.842064 42.392245  -2.842030 42.392256  -2.841996 42.392267  -2.842041 42.392314  -2.842115 42.392291  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549115">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.841528 42.392492 </gml:lowerCorner>
+        		<gml:upperCorner>-2.841404 42.392562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.841528 42.392529  -2.841506 42.392492  -2.841455 42.392508  -2.841404 42.392525  -2.841426 42.392562  -2.841528 42.392529  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549118">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.847035 42.395450 </gml:lowerCorner>
+        		<gml:upperCorner>-2.846922 42.395589 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.846947 42.395572  -2.846980 42.395589  -2.847008 42.395559  -2.847035 42.395529  -2.847011 42.395509  -2.847035 42.395482  -2.846972 42.395450  -2.846922 42.395506  -2.846942 42.395528  -2.846973 42.395544  -2.846947 42.395572  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549119">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.851321 42.399298 </gml:lowerCorner>
+        		<gml:upperCorner>-2.851291 42.399321 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.851321 42.399316  -2.851314 42.399298  -2.851304 42.399301  -2.851291 42.399304  -2.851295 42.399313  -2.851299 42.399321  -2.851313 42.399318  -2.851321 42.399316  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549120">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.874766 42.399687 </gml:lowerCorner>
+        		<gml:upperCorner>-2.874705 42.399736 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.874766 42.399720  -2.874732 42.399687  -2.874705 42.399703  -2.874722 42.399719  -2.874738 42.399736  -2.874766 42.399720  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549121">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.856915 42.399717 </gml:lowerCorner>
+        		<gml:upperCorner>-2.856863 42.399751 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.856915 42.399739  -2.856905 42.399717  -2.856863 42.399729  -2.856873 42.399751  -2.856894 42.399745  -2.856915 42.399739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549122">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.856058 42.388611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.855797 42.388821 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.855959 42.388611  -2.855797 42.388695  -2.855901 42.388812  -2.855950 42.388789  -2.855977 42.388821  -2.856013 42.388802  -2.856049 42.388784  -2.856020 42.388749  -2.856058 42.388730  -2.855959 42.388611  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549123">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842756 42.391773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842652 42.391825 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.842756 42.391810  -2.842748 42.391773  -2.842652 42.391789  -2.842664 42.391825  -2.842710 42.391818  -2.842756 42.391810  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549124">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.842988 42.396220 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842938 42.396257 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.842988 42.396235  -2.842964 42.396220  -2.842949 42.396232  -2.842938 42.396242  -2.842961 42.396257  -2.842988 42.396235  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549125">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.869739 42.391937 </gml:lowerCorner>
+        		<gml:upperCorner>-2.869476 42.392296 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.869476 42.392244  -2.869623 42.392296  -2.869700 42.392181  -2.869623 42.392155  -2.869739 42.391965  -2.869667 42.391937  -2.869564 42.392105  -2.869476 42.392244  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549126">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.869859 42.392379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.869717 42.392492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.869816 42.392423  -2.869844 42.392432  -2.869859 42.392407  -2.869779 42.392379  -2.869717 42.392473  -2.869771 42.392492  -2.869816 42.392423  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549127">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.870784 42.392722 </gml:lowerCorner>
+        		<gml:upperCorner>-2.870672 42.392833 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.870784 42.392738  -2.870716 42.392722  -2.870705 42.392752  -2.870684 42.392748  -2.870672 42.392777  -2.870694 42.392781  -2.870680 42.392817  -2.870747 42.392833  -2.870784 42.392738  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549140">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843138 42.390529 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842970 42.390631 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.843123 42.390564  -2.843109 42.390529  -2.842970 42.390561  -2.842999 42.390631  -2.843069 42.390615  -2.843138 42.390599  -2.843123 42.390564  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cañas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cañas</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549141">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843488 42.390443 </gml:lowerCorner>
+        		<gml:upperCorner>-2.843109 42.390564 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.843123 42.390564  -2.843262 42.390532  -2.843488 42.390480  -2.843482 42.390443  -2.843109 42.390529  -2.843123 42.390564  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

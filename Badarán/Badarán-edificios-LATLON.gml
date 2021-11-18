@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.829353 42.347518 </gml:lowerCorner>
-      		<gml:upperCorner>-2.777330 42.378541 </gml:upperCorner>
+      		<gml:upperCorner>-2.777422 42.378541 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -31072,48 +31072,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.811148 42.371100  -2.811034 42.371100  -2.811024 42.371167  -2.811138 42.371167  -2.811148 42.371100  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Badarán</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Badarán</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4534172">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.777452 42.372069 </gml:lowerCorner>
-        		<gml:upperCorner>-2.777330 42.372155 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.777452 42.372130  -2.777422 42.372069  -2.777330 42.372094  -2.777359 42.372155  -2.777452 42.372130  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Badarán</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Badarán</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4534173">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.777665 42.372325 </gml:lowerCorner>
-        		<gml:upperCorner>-2.777512 42.372402 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.777665 42.372368  -2.777650 42.372325  -2.777512 42.372359  -2.777533 42.372402  -2.777665 42.372368  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

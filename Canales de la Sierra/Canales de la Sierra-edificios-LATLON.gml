@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.095989 42.134550 </gml:lowerCorner>
-      		<gml:upperCorner>-3.017731 42.169861 </gml:upperCorner>
+      		<gml:lowerCorner>-3.095989 42.135607 </gml:lowerCorner>
+      		<gml:upperCorner>-3.021393 42.169861 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1326,7 +1326,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.025131 42.141922  -3.025153 42.141849  -3.025120 42.141841  -3.025095 42.141914  -3.025131 42.141922  </gml:posList>
+                <gml:posList srsDimension="2">-3.025131 42.141922  -3.025153 42.141849  -3.025120 42.141841  -3.025109 42.141873  -3.025095 42.141914  -3.025131 42.141922  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1368,7 +1368,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.024865 42.140241  -3.024856 42.140209  -3.024813 42.140211  -3.024819 42.140245  -3.024865 42.140241  </gml:posList>
+                <gml:posList srsDimension="2">-3.024865 42.140241  -3.024856 42.140209  -3.024813 42.140211  -3.024816 42.140228  -3.024819 42.140245  -3.024865 42.140241  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1444,7 +1444,7 @@
       <ms:edificios gml:id="edificios.4087554">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.023164 42.138487 </gml:lowerCorner>
+        		<gml:lowerCorner>-3.023231 42.138481 </gml:lowerCorner>
         		<gml:upperCorner>-3.022776 42.138629 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -1452,7 +1452,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.023146 42.138487  -3.022776 42.138534  -3.022794 42.138629  -3.023164 42.138578  -3.023146 42.138487  </gml:posList>
+                <gml:posList srsDimension="2">-3.023212 42.138481  -3.022776 42.138534  -3.022794 42.138629  -3.023179 42.138581  -3.023231 42.138575  -3.023212 42.138481  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2659,48 +2659,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4087612">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.022856 42.138467 </gml:lowerCorner>
-        		<gml:upperCorner>-3.022764 42.138504 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.022852 42.138467  -3.022792 42.138470  -3.022764 42.138477  -3.022771 42.138504  -3.022856 42.138491  -3.022852 42.138467  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Canales de la Sierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Canales de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4087613">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.022852 42.138372 </gml:lowerCorner>
-        		<gml:upperCorner>-3.022741 42.138477 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.022764 42.138477  -3.022792 42.138470  -3.022852 42.138467  -3.022827 42.138372  -3.022741 42.138384  -3.022764 42.138477  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Canales de la Sierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Canales de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4087614">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2712,28 +2670,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.023053 42.138435  -3.022980 42.138298  -3.022862 42.138330  -3.022929 42.138465  -3.023053 42.138435  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Canales de la Sierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Canales de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4087615">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.018055 42.134550 </gml:lowerCorner>
-        		<gml:upperCorner>-3.017731 42.134763 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.017974 42.134763  -3.018055 42.134668  -3.017930 42.134609  -3.017805 42.134550  -3.017731 42.134636  -3.017974 42.134763  </gml:posList>
+                <gml:posList srsDimension="2">-3.023053 42.138435  -3.023017 42.138367  -3.022980 42.138298  -3.022862 42.138330  -3.022929 42.138465  -3.023053 42.138435  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4129,27 +4066,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4087683">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.021977 42.140973 </gml:lowerCorner>
-        		<gml:upperCorner>-3.021934 42.141003 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.021963 42.141003  -3.021977 42.140983  -3.021947 42.140973  -3.021934 42.140993  -3.021963 42.141003  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Canales de la Sierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Canales de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4087684">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4770,7 +4686,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.024798 42.141146  -3.024942 42.141140  -3.024940 42.141117  -3.024798 42.141119  -3.024798 42.141146  </gml:posList>
+                <gml:posList srsDimension="2">-3.024798 42.141146  -3.024870 42.141143  -3.024942 42.141140  -3.024940 42.141117  -3.024798 42.141119  -3.024798 42.141146  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6031,6 +5947,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.030312 42.147982  -3.030334 42.147966  -3.030323 42.147957  -3.030311 42.147948  -3.030289 42.147965  -3.030312 42.147982  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Canales de la Sierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Canales de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4548995">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.022856 42.138372 </gml:lowerCorner>
+        		<gml:upperCorner>-3.022741 42.138504 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.022827 42.138372  -3.022741 42.138384  -3.022764 42.138477  -3.022771 42.138504  -3.022856 42.138491  -3.022852 42.138467  -3.022827 42.138372  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

@@ -236,13 +236,13 @@
       <ms:viales gml:id="viales.1528792">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.660475 42.329274 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.660487 42.329195 </gml:lowerCorner>
         		<gml:upperCorner>-2.660024 42.329988 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.660475 42.329274  -2.660450 42.329379  -2.660402 42.329454  -2.660338 42.329520  -2.660262 42.329598  -2.660122 42.329742  -2.660054 42.329838  -2.660029 42.329928  -2.660024 42.329988  </gml:posList>
+            <gml:posList srsDimension="2">-2.660487 42.329195  -2.660479 42.329283  -2.660450 42.329379  -2.660402 42.329454  -2.660338 42.329520  -2.660262 42.329598  -2.660122 42.329742  -2.660054 42.329838  -2.660029 42.329928  -2.660024 42.329988  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle  Daroca</ms:NOMBRE_COMPLETO_VIAL>
@@ -296,13 +296,13 @@
       <ms:viales gml:id="viales.4120908">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.660475 42.328826 </gml:lowerCorner>
-        		<gml:upperCorner>-2.660403 42.329274 </gml:upperCorner>
+        		<gml:lowerCorner>-2.660487 42.328826 </gml:lowerCorner>
+        		<gml:upperCorner>-2.660403 42.329195 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.660403 42.328826  -2.660456 42.328999  -2.660475 42.329274  </gml:posList>
+            <gml:posList srsDimension="2">-2.660403 42.328826  -2.660456 42.328999  -2.660487 42.329195  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle  Daroca</ms:NOMBRE_COMPLETO_VIAL>
@@ -377,12 +377,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.661200 42.329961 </gml:lowerCorner>
-        		<gml:upperCorner>-2.661032 42.330968 </gml:upperCorner>
+        		<gml:upperCorner>-2.661028 42.330968 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.661133 42.330968  -2.661073 42.330928  -2.661039 42.330880  -2.661032 42.330731  -2.661062 42.330442  -2.661168 42.330120  -2.661200 42.329961  </gml:posList>
+            <gml:posList srsDimension="2">-2.661133 42.330968  -2.661118 42.330960  -2.661103 42.330952  -2.661098 42.330949  -2.661095 42.330948  -2.661086 42.330939  -2.661075 42.330930  -2.661073 42.330928  -2.661053 42.330905  -2.661051 42.330901  -2.661045 42.330889  -2.661039 42.330880  -2.661039 42.330879  -2.661035 42.330868  -2.661030 42.330857  -2.661030 42.330855  -2.661029 42.330843  -2.661028 42.330825  -2.661028 42.330819  -2.661029 42.330784  -2.661030 42.330767  -2.661033 42.330717  -2.661062 42.330442  -2.661168 42.330120  -2.661200 42.329961  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
@@ -637,12 +637,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.660640 42.328973 </gml:lowerCorner>
-        		<gml:upperCorner>-2.660475 42.329274 </gml:upperCorner>
+        		<gml:upperCorner>-2.660487 42.329195 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.660640 42.328973  -2.660571 42.328986  -2.660506 42.329156  -2.660475 42.329274  </gml:posList>
+            <gml:posList srsDimension="2">-2.660640 42.328973  -2.660571 42.328986  -2.660506 42.329156  -2.660487 42.329195  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Travesía de Daroca</ms:NOMBRE_COMPLETO_VIAL>
