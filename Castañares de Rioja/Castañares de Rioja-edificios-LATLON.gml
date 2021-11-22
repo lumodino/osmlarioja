@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.938225 42.501254 </gml:lowerCorner>
-      		<gml:upperCorner>-2.921861 42.530918 </gml:upperCorner>
+      		<gml:lowerCorner>-2.938225 42.497566 </gml:lowerCorner>
+      		<gml:upperCorner>-2.910096 42.531864 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -339,7 +339,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.936356 42.505395  -2.936090 42.505296  -2.935980 42.505456  -2.936246 42.505556  -2.936356 42.505395  </gml:posList>
+                <gml:posList srsDimension="2">-2.936356 42.505395  -2.936090 42.505296  -2.936035 42.505376  -2.935980 42.505456  -2.936246 42.505556  -2.936356 42.505395  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -381,7 +381,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.936516 42.502150  -2.936807 42.502257  -2.936904 42.502111  -2.936610 42.502004  -2.936516 42.502150  </gml:posList>
+                <gml:posList srsDimension="2">-2.936516 42.502150  -2.936661 42.502203  -2.936807 42.502257  -2.936904 42.502111  -2.936610 42.502004  -2.936516 42.502150  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -768,7 +768,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.928343 42.514880  -2.928377 42.514989  -2.928673 42.514939  -2.928641 42.514830  -2.928343 42.514880  </gml:posList>
+                <gml:posList srsDimension="2">-2.928343 42.514880  -2.928360 42.514934  -2.928377 42.514989  -2.928673 42.514939  -2.928641 42.514830  -2.928343 42.514880  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1054,36 +1054,15 @@
       <ms:edificios gml:id="edificios.3956238">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923509 42.515294 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923288 42.515417 </gml:upperCorner>
+        		<gml:lowerCorner>-2.923525 42.515306 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923304 42.515429 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923509 42.515379  -2.923509 42.515370  -2.923497 42.515317  -2.923411 42.515324  -2.923406 42.515294  -2.923361 42.515299  -2.923367 42.515328  -2.923288 42.515334  -2.923297 42.515396  -2.923378 42.515390  -2.923384 42.515417  -2.923429 42.515416  -2.923423 42.515386  -2.923509 42.515379  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3956239">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.925088 42.513989 </gml:lowerCorner>
-        		<gml:upperCorner>-2.925035 42.514065 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.925052 42.514065  -2.925088 42.514060  -2.925072 42.513989  -2.925035 42.513994  -2.925052 42.514065  </gml:posList>
+                <gml:posList srsDimension="2">-2.923525 42.515391  -2.923525 42.515382  -2.923513 42.515329  -2.923428 42.515336  -2.923422 42.515306  -2.923377 42.515311  -2.923383 42.515340  -2.923304 42.515346  -2.923313 42.515408  -2.923394 42.515402  -2.923400 42.515429  -2.923445 42.515428  -2.923439 42.515398  -2.923525 42.515391  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1096,15 +1075,15 @@
       <ms:edificios gml:id="edificios.3956240">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923349 42.513841 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923245 42.513932 </gml:upperCorner>
+        		<gml:lowerCorner>-2.923361 42.513870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923257 42.513962 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923329 42.513841  -2.923245 42.513852  -2.923265 42.513932  -2.923349 42.513921  -2.923329 42.513841  </gml:posList>
+                <gml:posList srsDimension="2">-2.923341 42.513870  -2.923257 42.513882  -2.923277 42.513962  -2.923361 42.513950  -2.923351 42.513910  -2.923341 42.513870  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1117,15 +1096,15 @@
       <ms:edificios gml:id="edificios.3956241">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923004 42.514125 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922898 42.514242 </gml:upperCorner>
+        		<gml:lowerCorner>-2.923028 42.514131 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922922 42.514249 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922969 42.514242  -2.923004 42.514138  -2.922933 42.514125  -2.922898 42.514229  -2.922969 42.514242  </gml:posList>
+                <gml:posList srsDimension="2">-2.922993 42.514249  -2.923028 42.514144  -2.922957 42.514131  -2.922938 42.514188  -2.922922 42.514236  -2.922993 42.514249  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1138,15 +1117,15 @@
       <ms:edificios gml:id="edificios.3956242">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922203 42.514893 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922141 42.514939 </gml:upperCorner>
+        		<gml:lowerCorner>-2.922188 42.514889 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922126 42.514935 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922203 42.514938  -2.922202 42.514893  -2.922141 42.514894  -2.922142 42.514939  -2.922203 42.514938  </gml:posList>
+                <gml:posList srsDimension="2">-2.922188 42.514934  -2.922187 42.514889  -2.922126 42.514889  -2.922127 42.514912  -2.922127 42.514935  -2.922188 42.514934  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1419,7 +1398,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.936220 42.501917  -2.936153 42.502018  -2.936343 42.502087  -2.936410 42.501986  -2.936291 42.501943  -2.936278 42.501938  -2.936265 42.501933  -2.936255 42.501930  -2.936252 42.501929  -2.936239 42.501924  -2.936236 42.501922  -2.936220 42.501917  </gml:posList>
+                <gml:posList srsDimension="2">-2.936220 42.501917  -2.936153 42.502018  -2.936248 42.502052  -2.936343 42.502087  -2.936410 42.501986  -2.936291 42.501943  -2.936278 42.501938  -2.936265 42.501933  -2.936255 42.501930  -2.936252 42.501929  -2.936239 42.501924  -2.936236 42.501922  -2.936220 42.501917  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1596,7 +1575,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.936471 42.502431  -2.936575 42.502269  -2.936467 42.502230  -2.936368 42.502383  -2.936471 42.502431  </gml:posList>
+                <gml:posList srsDimension="2">-2.936471 42.502431  -2.936575 42.502269  -2.936521 42.502250  -2.936467 42.502230  -2.936368 42.502383  -2.936471 42.502431  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2424,7 +2403,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.937463 42.502317  -2.937399 42.502423  -2.937730 42.502542  -2.937708 42.502575  -2.938064 42.502715  -2.938079 42.502692  -2.938092 42.502671  -2.938154 42.502572  -2.937463 42.502317  </gml:posList>
+                <gml:posList srsDimension="2">-2.937463 42.502317  -2.937431 42.502370  -2.937399 42.502423  -2.937730 42.502542  -2.937708 42.502575  -2.938064 42.502715  -2.938079 42.502692  -2.938092 42.502671  -2.938154 42.502572  -2.937463 42.502317  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2445,7 +2424,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.938225 42.502877  -2.938109 42.502850  -2.937999 42.503108  -2.938115 42.503135  -2.938225 42.502877  </gml:posList>
+                <gml:posList srsDimension="2">-2.938225 42.502877  -2.938109 42.502850  -2.938030 42.503037  -2.937999 42.503108  -2.938115 42.503135  -2.938225 42.502877  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2466,7 +2445,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.935766 42.501544  -2.935831 42.501278  -2.935652 42.501254  -2.935587 42.501520  -2.935766 42.501544  </gml:posList>
+                <gml:posList srsDimension="2">-2.935766 42.501544  -2.935831 42.501278  -2.935741 42.501266  -2.935652 42.501254  -2.935587 42.501520  -2.935766 42.501544  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2487,7 +2466,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.934952 42.502110  -2.935390 42.502306  -2.935484 42.502190  -2.935541 42.502121  -2.935446 42.502079  -2.935166 42.501953  -2.935071 42.502069  -2.935009 42.502041  -2.934952 42.502110  </gml:posList>
+                <gml:posList srsDimension="2">-2.934952 42.502110  -2.935390 42.502306  -2.935466 42.502213  -2.935484 42.502190  -2.935541 42.502121  -2.935446 42.502079  -2.935166 42.501953  -2.935071 42.502069  -2.935009 42.502041  -2.934952 42.502110  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3349,27 +3328,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.933503 42.510795  -2.933488 42.510791  -2.933422 42.510773  -2.933378 42.510856  -2.933407 42.510864  -2.933506 42.510893  -2.933524 42.510860  -2.933542 42.510830  -2.933553 42.510809  -2.933503 42.510795  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3956347">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.935234 42.507046 </gml:lowerCorner>
-        		<gml:upperCorner>-2.935065 42.507175 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.935205 42.507119  -2.935234 42.507073  -2.935152 42.507046  -2.935142 42.507063  -2.935117 42.507055  -2.935065 42.507142  -2.935169 42.507175  -2.935205 42.507119  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4357,27 +4315,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.932487 42.511593  -2.932489 42.511595  -2.932517 42.511621  -2.932550 42.511609  -2.932523 42.511580  -2.932565 42.511567  -2.932502 42.511478  -2.932412 42.511511  -2.932487 42.511593  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3956395">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.935072 42.507789 </gml:lowerCorner>
-        		<gml:upperCorner>-2.934925 42.507915 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.934925 42.507889  -2.935016 42.507915  -2.935072 42.507816  -2.934984 42.507789  -2.934925 42.507889  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10207,15 +10144,15 @@
       <ms:edificios gml:id="edificios.3956673">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931671 42.514353 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931541 42.514444 </gml:upperCorner>
+        		<gml:lowerCorner>-2.931677 42.514359 </gml:lowerCorner>
+        		<gml:upperCorner>-2.931538 42.514459 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.931671 42.514406  -2.931583 42.514353  -2.931541 42.514399  -2.931627 42.514444  -2.931671 42.514406  </gml:posList>
+                <gml:posList srsDimension="2">-2.931677 42.514412  -2.931589 42.514359  -2.931538 42.514410  -2.931631 42.514459  -2.931677 42.514412  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12306,27 +12243,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.930976 42.513329  -2.931019 42.513330  -2.931019 42.513326  -2.931035 42.513240  -2.930990 42.513238  -2.930981 42.513299  -2.930976 42.513329  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3956773">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.935261 42.507119 </gml:lowerCorner>
-        		<gml:upperCorner>-2.935169 42.507195 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.935205 42.507119  -2.935169 42.507175  -2.935228 42.507195  -2.935261 42.507137  -2.935205 42.507119  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21230,27 +21146,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957197">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.935152 42.507038 </gml:lowerCorner>
-        		<gml:upperCorner>-2.935117 42.507063 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.935152 42.507046  -2.935127 42.507038  -2.935117 42.507055  -2.935142 42.507063  -2.935152 42.507046  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3957198">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -23029,15 +22924,15 @@
       <ms:edificios gml:id="edificios.3957282">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.924020 42.515680 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923981 42.515709 </gml:upperCorner>
+        		<gml:lowerCorner>-2.924148 42.515691 </gml:lowerCorner>
+        		<gml:upperCorner>-2.924109 42.515720 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923983 42.515680  -2.923981 42.515707  -2.924017 42.515709  -2.924020 42.515682  -2.923983 42.515680  </gml:posList>
+                <gml:posList srsDimension="2">-2.924112 42.515691  -2.924110 42.515704  -2.924109 42.515718  -2.924145 42.515720  -2.924148 42.515693  -2.924112 42.515691  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23730,7 +23625,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923593 42.513381  -2.923714 42.513392  -2.923774 42.513398  -2.923790 42.513308  -2.923608 42.513292  -2.923593 42.513381  </gml:posList>
+                <gml:posList srsDimension="2">-2.923593 42.513381  -2.923714 42.513392  -2.923774 42.513398  -2.923790 42.513308  -2.923608 42.513292  -2.923601 42.513336  -2.923593 42.513381  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23751,7 +23646,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923593 42.513381  -2.923533 42.513375  -2.923525 42.513420  -2.923692 42.513436  -2.923706 42.513437  -2.923714 42.513392  -2.923593 42.513381  </gml:posList>
+                <gml:posList srsDimension="2">-2.923593 42.513381  -2.923533 42.513375  -2.923525 42.513420  -2.923609 42.513428  -2.923692 42.513436  -2.923706 42.513437  -2.923714 42.513392  -2.923593 42.513381  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23764,15 +23659,15 @@
       <ms:edificios gml:id="edificios.3957317">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923869 42.512669 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923543 42.512851 </gml:upperCorner>
+        		<gml:lowerCorner>-2.923896 42.512682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923570 42.512865 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923558 42.512778  -2.923590 42.512836  -2.923599 42.512851  -2.923869 42.512769  -2.923813 42.512669  -2.923543 42.512752  -2.923558 42.512778  </gml:posList>
+                <gml:posList srsDimension="2">-2.923585 42.512792  -2.923617 42.512850  -2.923626 42.512865  -2.923761 42.512823  -2.923896 42.512782  -2.923840 42.512682  -2.923570 42.512765  -2.923585 42.512792  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23793,7 +23688,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923558 42.512778  -2.923445 42.512813  -2.923478 42.512871  -2.923590 42.512836  -2.923558 42.512778  </gml:posList>
+                <gml:posList srsDimension="2">-2.923558 42.512778  -2.923445 42.512813  -2.923478 42.512871  -2.923518 42.512859  -2.923590 42.512836  -2.923558 42.512778  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23806,15 +23701,15 @@
       <ms:edificios gml:id="edificios.3957319">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.924273 42.512535 </gml:lowerCorner>
-        		<gml:upperCorner>-2.924074 42.512682 </gml:upperCorner>
+        		<gml:lowerCorner>-2.924291 42.512546 </gml:lowerCorner>
+        		<gml:upperCorner>-2.924109 42.512679 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.924143 42.512535  -2.924074 42.512587  -2.924204 42.512682  -2.924273 42.512630  -2.924143 42.512535  </gml:posList>
+                <gml:posList srsDimension="2">-2.924161 42.512546  -2.924109 42.512585  -2.924239 42.512679  -2.924291 42.512640  -2.924226 42.512593  -2.924161 42.512546  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23827,15 +23722,15 @@
       <ms:edificios gml:id="edificios.3957320">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.925413 42.514613 </gml:lowerCorner>
-        		<gml:upperCorner>-2.925316 42.514649 </gml:upperCorner>
+        		<gml:lowerCorner>-2.925443 42.514613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925316 42.514661 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.925316 42.514649  -2.925413 42.514649  -2.925413 42.514613  -2.925316 42.514613  -2.925316 42.514649  </gml:posList>
+                <gml:posList srsDimension="2">-2.925317 42.514661  -2.925440 42.514661  -2.925443 42.514614  -2.925316 42.514613  -2.925317 42.514661  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23848,15 +23743,15 @@
       <ms:edificios gml:id="edificios.3957321">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.925348 42.513832 </gml:lowerCorner>
-        		<gml:upperCorner>-2.925309 42.513923 </gml:upperCorner>
+        		<gml:lowerCorner>-2.925370 42.513847 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925268 42.513886 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.925346 42.513832  -2.925309 42.513832  -2.925311 42.513923  -2.925348 42.513922  -2.925346 42.513832  </gml:posList>
+                <gml:posList srsDimension="2">-2.925369 42.513847  -2.925268 42.513850  -2.925271 42.513886  -2.925370 42.513883  -2.925369 42.513847  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23869,15 +23764,15 @@
       <ms:edificios gml:id="edificios.3957322">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.925515 42.513226 </gml:lowerCorner>
-        		<gml:upperCorner>-2.925409 42.513278 </gml:upperCorner>
+        		<gml:lowerCorner>-2.925623 42.513235 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925431 42.513295 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.925515 42.513278  -2.925515 42.513226  -2.925409 42.513226  -2.925409 42.513277  -2.925515 42.513278  </gml:posList>
+                <gml:posList srsDimension="2">-2.925537 42.513295  -2.925537 42.513290  -2.925623 42.513290  -2.925622 42.513236  -2.925538 42.513235  -2.925537 42.513243  -2.925484 42.513243  -2.925431 42.513243  -2.925431 42.513294  -2.925537 42.513295  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23890,7 +23785,7 @@
       <ms:edificios gml:id="edificios.3957323">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.925416 42.512781 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.925493 42.512734 </gml:lowerCorner>
         		<gml:upperCorner>-2.925199 42.512812 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -23898,7 +23793,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.925343 42.512781  -2.925199 42.512781  -2.925200 42.512812  -2.925342 42.512811  -2.925416 42.512810  -2.925416 42.512781  -2.925343 42.512781  </gml:posList>
+                <gml:posList srsDimension="2">-2.925343 42.512781  -2.925347 42.512734  -2.925252 42.512737  -2.925254 42.512781  -2.925199 42.512781  -2.925200 42.512812  -2.925342 42.512811  -2.925491 42.512802  -2.925493 42.512772  -2.925343 42.512781  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23940,7 +23835,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922735 42.512253  -2.922732 42.512199  -2.922659 42.512201  -2.922662 42.512255  -2.922735 42.512253  </gml:posList>
+                <gml:posList srsDimension="2">-2.922735 42.512253  -2.922733 42.512226  -2.922732 42.512199  -2.922659 42.512201  -2.922662 42.512255  -2.922735 42.512253  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23953,15 +23848,15 @@
       <ms:edificios gml:id="edificios.3957326">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923637 42.511789 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923161 42.512181 </gml:upperCorner>
+        		<gml:lowerCorner>-2.923637 42.511818 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923189 42.512198 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923236 42.511789  -2.923161 42.511842  -2.923411 42.512096  -2.923430 42.512088  -2.923521 42.512181  -2.923637 42.512152  -2.923516 42.512031  -2.923411 42.511940  -2.923236 42.511789  </gml:posList>
+                <gml:posList srsDimension="2">-2.923270 42.511818  -2.923189 42.511870  -2.923392 42.512054  -2.923430 42.512088  -2.923537 42.512198  -2.923637 42.512152  -2.923411 42.511940  -2.923270 42.511818  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23974,15 +23869,15 @@
       <ms:edificios gml:id="edificios.3957327">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922171 42.510070 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922100 42.510130 </gml:upperCorner>
+        		<gml:lowerCorner>-2.922159 42.510076 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922085 42.510150 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922171 42.510077  -2.922111 42.510070  -2.922100 42.510123  -2.922160 42.510130  -2.922171 42.510077  </gml:posList>
+                <gml:posList srsDimension="2">-2.922158 42.510077  -2.922085 42.510076  -2.922088 42.510150  -2.922159 42.510150  -2.922159 42.510113  -2.922158 42.510077  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23995,15 +23890,15 @@
       <ms:edificios gml:id="edificios.3957328">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922147 42.510805 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922015 42.510909 </gml:upperCorner>
+        		<gml:lowerCorner>-2.922147 42.510817 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922032 42.510909 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922147 42.510909  -2.922145 42.510805  -2.922015 42.510816  -2.922037 42.510900  -2.922147 42.510909  </gml:posList>
+                <gml:posList srsDimension="2">-2.922147 42.510909  -2.922145 42.510824  -2.922032 42.510817  -2.922037 42.510900  -2.922147 42.510909  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24024,49 +23919,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922669 42.510754  -2.922667 42.510817  -2.922752 42.510819  -2.922754 42.510756  -2.922669 42.510754  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957330">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922791 42.510278 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922724 42.510336 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922730 42.510334  -2.922731 42.510336  -2.922791 42.510333  -2.922789 42.510327  -2.922784 42.510278  -2.922780 42.510278  -2.922729 42.510280  -2.922726 42.510280  -2.922724 42.510280  -2.922729 42.510331  -2.922730 42.510334  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957331">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923022 42.510371 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922957 42.510433 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922967 42.510433  -2.923022 42.510429  -2.923022 42.510428  -2.923013 42.510371  -2.923012 42.510371  -2.922960 42.510375  -2.922958 42.510376  -2.922957 42.510376  -2.922965 42.510433  -2.922967 42.510433  </gml:posList>
+                <gml:posList srsDimension="2">-2.922669 42.510754  -2.922667 42.510817  -2.922752 42.510819  -2.922754 42.510756  -2.922699 42.510755  -2.922669 42.510754  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24079,15 +23932,15 @@
       <ms:edificios gml:id="edificios.3957332">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.923135 42.510642 </gml:lowerCorner>
-        		<gml:upperCorner>-2.923051 42.510702 </gml:upperCorner>
+        		<gml:lowerCorner>-2.923144 42.510631 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923060 42.510692 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.923125 42.510642  -2.923051 42.510648  -2.923061 42.510702  -2.923135 42.510697  -2.923125 42.510642  </gml:posList>
+                <gml:posList srsDimension="2">-2.923135 42.510631  -2.923060 42.510637  -2.923070 42.510692  -2.923144 42.510687  -2.923135 42.510631  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24297,7 +24150,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.926302 42.507940  -2.926324 42.507833  -2.926153 42.507813  -2.926128 42.507913  -2.926302 42.507940  </gml:posList>
+                <gml:posList srsDimension="2">-2.926302 42.507940  -2.926324 42.507833  -2.926153 42.507813  -2.926141 42.507863  -2.926128 42.507913  -2.926302 42.507940  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24613,6 +24466,1770 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.933342 42.507030  -2.933397 42.507032  -2.933470 42.507034  -2.933488 42.507035  -2.933501 42.506804  -2.933482 42.506804  -2.933410 42.506801  -2.933355 42.506800  -2.933342 42.507030  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549506">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921987 42.531257 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921858 42.531372 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921900 42.531372  -2.921987 42.531310  -2.921924 42.531257  -2.921858 42.531303  -2.921884 42.531331  -2.921863 42.531343  -2.921900 42.531372  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549507">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921909 42.531199 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921759 42.531304 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921815 42.531304  -2.921909 42.531238  -2.921883 42.531216  -2.921864 42.531228  -2.921833 42.531199  -2.921759 42.531244  -2.921788 42.531275  -2.921782 42.531278  -2.921815 42.531304  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549509">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921831 42.531141 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921685 42.531240 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921735 42.531240  -2.921831 42.531170  -2.921800 42.531144  -2.921770 42.531164  -2.921742 42.531141  -2.921685 42.531177  -2.921710 42.531198  -2.921694 42.531208  -2.921735 42.531240  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549510">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921783 42.531060 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921617 42.531179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921625 42.531152  -2.921640 42.531164  -2.921662 42.531179  -2.921735 42.531129  -2.921751 42.531140  -2.921783 42.531116  -2.921710 42.531060  -2.921617 42.531114  -2.921642 42.531137  -2.921625 42.531152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549511">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.917932 42.497566 </gml:lowerCorner>
+        		<gml:upperCorner>-2.917877 42.497602 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.917932 42.497592  -2.917921 42.497566  -2.917899 42.497571  -2.917877 42.497576  -2.917888 42.497602  -2.917932 42.497592  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.937076 42.502147 </gml:lowerCorner>
+        		<gml:upperCorner>-2.937029 42.502184 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.937076 42.502157  -2.937045 42.502147  -2.937029 42.502174  -2.937045 42.502179  -2.937062 42.502184  -2.937076 42.502157  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549515">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.925097 42.506541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925048 42.506573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.925097 42.506544  -2.925057 42.506541  -2.925048 42.506567  -2.925090 42.506573  -2.925097 42.506544  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549516">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.925084 42.506604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.924972 42.506747 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.925084 42.506615  -2.925006 42.506604  -2.924972 42.506734  -2.925047 42.506747  -2.925084 42.506615  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549518">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922283 42.512150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922168 42.512207 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922283 42.512207  -2.922282 42.512179  -2.922281 42.512150  -2.922170 42.512150  -2.922168 42.512205  -2.922283 42.512207  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549519">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922209 42.512512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922025 42.512614 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922209 42.512512  -2.922025 42.512519  -2.922025 42.512614  -2.922208 42.512613  -2.922208 42.512562  -2.922209 42.512512  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549520">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.925377 42.513192 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925235 42.513272 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.925377 42.513270  -2.925375 42.513192  -2.925235 42.513193  -2.925237 42.513272  -2.925377 42.513270  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549521">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.925978 42.513315 </gml:lowerCorner>
+        		<gml:upperCorner>-2.925805 42.513385 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.925978 42.513362  -2.925951 42.513315  -2.925805 42.513353  -2.925809 42.513365  -2.925813 42.513377  -2.925881 42.513359  -2.925897 42.513385  -2.925978 42.513362  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549524">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.937186 42.515217 </gml:lowerCorner>
+        		<gml:upperCorner>-2.936969 42.515337 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.937186 42.515237  -2.937079 42.515217  -2.937065 42.515254  -2.937005 42.515240  -2.936969 42.515310  -2.937059 42.515337  -2.937073 42.515311  -2.937139 42.515329  -2.937162 42.515283  -2.937186 42.515237  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549525">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.937062 42.515518 </gml:lowerCorner>
+        		<gml:upperCorner>-2.937001 42.515566 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.937062 42.515525  -2.937013 42.515518  -2.937001 42.515555  -2.937046 42.515566  -2.937054 42.515546  -2.937062 42.515525  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549527">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.927286 42.516693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.927239 42.516737 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.927286 42.516693  -2.927239 42.516696  -2.927241 42.516737  -2.927285 42.516737  -2.927286 42.516715  -2.927286 42.516693  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549529">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910550 42.520225 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910096 42.520615 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.910550 42.520299  -2.910230 42.520225  -2.910163 42.520383  -2.910096 42.520540  -2.910412 42.520615  -2.910550 42.520299  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549532">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922325 42.524970 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922156 42.525096 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922325 42.525050  -2.922318 42.525045  -2.922223 42.524970  -2.922206 42.524982  -2.922156 42.525016  -2.922258 42.525096  -2.922266 42.525091  -2.922324 42.525050  -2.922325 42.525050  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549533">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922624 42.528837 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922517 42.528885 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922624 42.528863  -2.922530 42.528837  -2.922517 42.528863  -2.922616 42.528885  -2.922624 42.528863  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549534">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922171 42.529533 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922119 42.529569 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922171 42.529545  -2.922133 42.529533  -2.922119 42.529557  -2.922157 42.529569  -2.922171 42.529545  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549535">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923532 42.529072 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923330 42.529288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923532 42.529137  -2.923359 42.529072  -2.923330 42.529117  -2.923369 42.529133  -2.923344 42.529166  -2.923417 42.529198  -2.923384 42.529266  -2.923461 42.529288  -2.923532 42.529137  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549537">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923022 42.529702 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922985 42.529735 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923022 42.529710  -2.922999 42.529702  -2.922985 42.529728  -2.923008 42.529735  -2.923022 42.529710  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549539">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922537 42.529724 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922471 42.529762 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922537 42.529740  -2.922482 42.529724  -2.922471 42.529746  -2.922526 42.529762  -2.922537 42.529740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549540">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922495 42.529764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922441 42.529810 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922495 42.529774  -2.922461 42.529764  -2.922441 42.529800  -2.922475 42.529810  -2.922495 42.529774  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549541">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922585 42.529814 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922511 42.529860 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922585 42.529830  -2.922527 42.529814  -2.922511 42.529844  -2.922570 42.529860  -2.922585 42.529830  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549542">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922914 42.529827 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922651 42.529974 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922766 42.529859  -2.922664 42.529827  -2.922651 42.529844  -2.922684 42.529856  -2.922666 42.529901  -2.922877 42.529974  -2.922907 42.529923  -2.922914 42.529914  -2.922842 42.529890  -2.922832 42.529904  -2.922756 42.529879  -2.922766 42.529859  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549543">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922480 42.529875 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922421 42.529928 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922480 42.529886  -2.922446 42.529875  -2.922421 42.529917  -2.922455 42.529928  -2.922480 42.529886  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549544">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922638 42.529914 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922561 42.529961 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922638 42.529933  -2.922576 42.529914  -2.922561 42.529942  -2.922623 42.529961  -2.922638 42.529933  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549545">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922724 42.529943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922646 42.530014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922677 42.529984  -2.922664 42.530004  -2.922692 42.530014  -2.922724 42.529963  -2.922665 42.529943  -2.922646 42.529974  -2.922677 42.529984  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922645 42.529983 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922300 42.530193 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922488 42.530168  -2.922568 42.530193  -2.922609 42.530121  -2.922505 42.530089  -2.922523 42.530058  -2.922622 42.530089  -2.922645 42.530049  -2.922431 42.529983  -2.922391 42.530052  -2.922343 42.530037  -2.922337 42.530047  -2.922327 42.530046  -2.922300 42.530094  -2.922363 42.530114  -2.922357 42.530124  -2.922447 42.530152  -2.922458 42.530141  -2.922496 42.530153  -2.922488 42.530168  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549547">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922736 42.530061 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922641 42.530144 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922736 42.530080  -2.922681 42.530061  -2.922641 42.530125  -2.922696 42.530144  -2.922736 42.530080  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922954 42.530105 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922737 42.530290 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922954 42.530158  -2.922818 42.530105  -2.922737 42.530243  -2.922890 42.530290  -2.922954 42.530158  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922578 42.530171 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922185 42.530395 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922545 42.530238  -2.922344 42.530171  -2.922301 42.530232  -2.922254 42.530216  -2.922236 42.530252  -2.922199 42.530241  -2.922185 42.530267  -2.922248 42.530287  -2.922254 42.530280  -2.922282 42.530290  -2.922278 42.530296  -2.922323 42.530310  -2.922358 42.530251  -2.922386 42.530260  -2.922373 42.530283  -2.922359 42.530277  -2.922332 42.530325  -2.922554 42.530395  -2.922578 42.530350  -2.922504 42.530330  -2.922517 42.530307  -2.922508 42.530304  -2.922545 42.530238  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549550">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922633 42.530243 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922533 42.530335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922633 42.530261  -2.922576 42.530243  -2.922533 42.530317  -2.922590 42.530335  -2.922633 42.530261  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549551">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923048 42.530291 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922639 42.530546 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922967 42.530477  -2.923017 42.530390  -2.922696 42.530291  -2.922667 42.530343  -2.922715 42.530358  -2.922708 42.530370  -2.922678 42.530361  -2.922639 42.530431  -2.922698 42.530449  -2.922702 42.530441  -2.922720 42.530446  -2.922711 42.530461  -2.922778 42.530482  -2.922782 42.530475  -2.923012 42.530546  -2.923048 42.530483  -2.922992 42.530466  -2.922983 42.530482  -2.922967 42.530477  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549552">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922208 42.530320 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922112 42.530394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922208 42.530339  -2.922146 42.530320  -2.922112 42.530384  -2.922146 42.530394  -2.922155 42.530377  -2.922183 42.530385  -2.922208 42.530339  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922278 42.530363 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922236 42.530402 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922278 42.530371  -2.922252 42.530363  -2.922236 42.530395  -2.922262 42.530402  -2.922278 42.530371  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922417 42.530377 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922287 42.530459 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922346 42.530427  -2.922337 42.530442  -2.922389 42.530459  -2.922417 42.530414  -2.922306 42.530377  -2.922287 42.530407  -2.922346 42.530427  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549555">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922326 42.530410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922059 42.530527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922186 42.530457  -2.922206 42.530423  -2.922167 42.530410  -2.922150 42.530438  -2.922082 42.530415  -2.922059 42.530454  -2.922285 42.530527  -2.922326 42.530458  -2.922252 42.530434  -2.922230 42.530471  -2.922186 42.530457  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922518 42.530418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922416 42.530495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922518 42.530439  -2.922445 42.530418  -2.922416 42.530474  -2.922488 42.530495  -2.922518 42.530439  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549557">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922173 42.530420 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921643 42.530672 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921987 42.530613  -2.921999 42.530592  -2.922134 42.530639  -2.922173 42.530565  -2.921707 42.530420  -2.921643 42.530548  -2.921713 42.530571  -2.921744 42.530507  -2.921782 42.530517  -2.921798 42.530489  -2.921923 42.530527  -2.921873 42.530623  -2.922014 42.530667  -2.922026 42.530672  -2.922051 42.530624  -2.922011 42.530612  -2.922009 42.530621  -2.921987 42.530613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549558">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922661 42.530473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922580 42.530558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922606 42.530552  -2.922626 42.530558  -2.922661 42.530490  -2.922600 42.530473  -2.922580 42.530511  -2.922621 42.530522  -2.922606 42.530552  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922396 42.530479 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922304 42.530553 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922396 42.530488  -2.922365 42.530479  -2.922354 42.530502  -2.922325 42.530494  -2.922304 42.530537  -2.922365 42.530553  -2.922396 42.530488  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549560">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922743 42.530499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922653 42.530562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922743 42.530524  -2.922682 42.530499  -2.922653 42.530537  -2.922714 42.530562  -2.922743 42.530524  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549561">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922483 42.530504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922379 42.530578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922483 42.530511  -2.922458 42.530504  -2.922444 42.530531  -2.922400 42.530518  -2.922379 42.530558  -2.922448 42.530578  -2.922483 42.530511  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923126 42.530505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923025 42.530575 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923126 42.530511  -2.923103 42.530505  -2.923092 42.530526  -2.923048 42.530513  -2.923025 42.530556  -2.923093 42.530575  -2.923126 42.530511  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549563">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922821 42.530530 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922744 42.530586 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922821 42.530546  -2.922765 42.530530  -2.922744 42.530570  -2.922800 42.530586  -2.922821 42.530546  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549564">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921811 42.530536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921728 42.530598 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921811 42.530555  -2.921747 42.530536  -2.921728 42.530579  -2.921792 42.530598  -2.921811 42.530555  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922893 42.530559 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922819 42.530632 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922841 42.530626  -2.922858 42.530632  -2.922893 42.530579  -2.922839 42.530559  -2.922819 42.530588  -2.922857 42.530602  -2.922841 42.530626  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549566">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922598 42.530566 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922518 42.530624 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922598 42.530589  -2.922546 42.530566  -2.922518 42.530601  -2.922570 42.530624  -2.922598 42.530589  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922978 42.530577 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922893 42.530634 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922978 42.530600  -2.922916 42.530577  -2.922893 42.530611  -2.922956 42.530634  -2.922978 42.530600  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922681 42.530592 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922609 42.530649 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922681 42.530605  -2.922631 42.530592  -2.922609 42.530636  -2.922658 42.530649  -2.922681 42.530605  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549569">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922068 42.530595 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921564 42.530882 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921916 42.530690  -2.921614 42.530595  -2.921596 42.530640  -2.921730 42.530681  -2.921712 42.530717  -2.921683 42.530707  -2.921680 42.530712  -2.921598 42.530689  -2.921564 42.530746  -2.921998 42.530882  -2.922068 42.530742  -2.922017 42.530725  -2.922007 42.530734  -2.921945 42.530713  -2.921909 42.530808  -2.921869 42.530795  -2.921916 42.530690  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549570">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923045 42.530623 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922971 42.530680 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923045 42.530638  -2.922994 42.530623  -2.922971 42.530665  -2.923022 42.530680  -2.923045 42.530638  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549571">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923138 42.530629 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923042 42.530712 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923138 42.530647  -2.923076 42.530629  -2.923042 42.530694  -2.923096 42.530710  -2.923103 42.530712  -2.923138 42.530647  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549572">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922916 42.530641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922830 42.530730 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922897 42.530690  -2.922910 42.530666  -2.922916 42.530656  -2.922870 42.530641  -2.922830 42.530711  -2.922891 42.530730  -2.922911 42.530695  -2.922897 42.530690  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549573">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922829 42.530647 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922758 42.530699 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922829 42.530664  -2.922781 42.530647  -2.922758 42.530681  -2.922806 42.530699  -2.922829 42.530664  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549574">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922727 42.530668 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922396 42.530896 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922727 42.530834  -2.922666 42.530815  -2.922708 42.530743  -2.922475 42.530668  -2.922396 42.530802  -2.922691 42.530896  -2.922727 42.530834  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549575">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923233 42.530765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923140 42.530834 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923233 42.530785  -2.923167 42.530765  -2.923140 42.530815  -2.923205 42.530834  -2.923233 42.530785  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549576">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923202 42.530771 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922718 42.531054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922827 42.530833  -2.922850 42.530792  -2.922791 42.530771  -2.922718 42.530902  -2.922724 42.530904  -2.922719 42.530917  -2.922733 42.530922  -2.922739 42.530910  -2.922783 42.530922  -2.922776 42.530933  -2.922955 42.530991  -2.922961 42.530983  -2.923161 42.531054  -2.923202 42.530987  -2.923134 42.530965  -2.923064 42.530943  -2.922981 42.530916  -2.922900 42.530890  -2.922892 42.530887  -2.922927 42.530820  -2.922879 42.530800  -2.922856 42.530841  -2.922827 42.530833  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922103 42.530804 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921554 42.531110 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922103 42.530975  -2.921971 42.530931  -2.921949 42.530975  -2.921985 42.530987  -2.921973 42.531010  -2.921842 42.530967  -2.921878 42.530898  -2.921584 42.530804  -2.921554 42.530841  -2.921629 42.530862  -2.921626 42.530879  -2.921685 42.530895  -2.921688 42.530890  -2.921735 42.530905  -2.921722 42.530935  -2.921776 42.530953  -2.921741 42.531013  -2.922033 42.531110  -2.922103 42.530975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921516 42.530850 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921368 42.530961 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921516 42.530895  -2.921455 42.530850  -2.921368 42.530918  -2.921427 42.530961  -2.921516 42.530895  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549579">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922449 42.530852 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922344 42.530933 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922449 42.530876  -2.922381 42.530852  -2.922344 42.530909  -2.922412 42.530933  -2.922449 42.530876  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549580">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923115 42.530876 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922435 42.531237 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923019 42.531185  -2.923043 42.531146  -2.923078 42.531158  -2.923115 42.531099  -2.922931 42.531035  -2.922909 42.531071  -2.922968 42.531091  -2.922953 42.531115  -2.922719 42.531034  -2.922756 42.530977  -2.922462 42.530876  -2.922435 42.530918  -2.922454 42.530925  -2.922441 42.530945  -2.922496 42.530964  -2.922492 42.530969  -2.922563 42.530994  -2.922577 42.530971  -2.922630 42.530989  -2.922624 42.531006  -2.922599 42.530997  -2.922594 42.531012  -2.922562 42.531001  -2.922532 42.531049  -2.922808 42.531144  -2.922803 42.531152  -2.923050 42.531237  -2.923070 42.531202  -2.923019 42.531185  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549581">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921602 42.530914 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921451 42.531034 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921461 42.531002  -2.921499 42.531034  -2.921602 42.530965  -2.921533 42.530914  -2.921451 42.530964  -2.921482 42.530986  -2.921461 42.531002  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549582">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922411 42.530925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922311 42.530990 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922323 42.530978  -2.922349 42.530990  -2.922360 42.530972  -2.922392 42.530982  -2.922411 42.530949  -2.922322 42.530925  -2.922311 42.530953  -2.922330 42.530959  -2.922323 42.530978  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549583">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921689 42.530980 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921538 42.531113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921539 42.531078  -2.921580 42.531113  -2.921689 42.531037  -2.921628 42.530987  -2.921623 42.530980  -2.921538 42.531042  -2.921560 42.531060  -2.921539 42.531078  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549584">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922900 42.531013 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922836 42.531063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922900 42.531024  -2.922860 42.531013  -2.922836 42.531051  -2.922876 42.531063  -2.922900 42.531024  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549585">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923037 42.531029 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922231 42.531419 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922872 42.531390  -2.922962 42.531419  -2.923037 42.531283  -2.922266 42.531029  -2.922231 42.531096  -2.922300 42.531118  -2.922315 42.531090  -2.922418 42.531122  -2.922404 42.531156  -2.922499 42.531183  -2.922520 42.531158  -2.922565 42.531172  -2.922549 42.531199  -2.922566 42.531206  -2.922561 42.531215  -2.922486 42.531192  -2.922455 42.531246  -2.922876 42.531385  -2.922872 42.531390  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923222 42.531102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923112 42.531176 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923222 42.531131  -2.923139 42.531102  -2.923112 42.531147  -2.923196 42.531176  -2.923222 42.531131  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549587">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922460 42.531104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922189 42.531238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922282 42.531146  -2.922296 42.531121  -2.922244 42.531104  -2.922230 42.531128  -2.922213 42.531123  -2.922189 42.531162  -2.922425 42.531238  -2.922460 42.531178  -2.922340 42.531140  -2.922328 42.531160  -2.922282 42.531146  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549588">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922061 42.531135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921900 42.531211 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922061 42.531188  -2.921917 42.531135  -2.921900 42.531159  -2.921995 42.531196  -2.921998 42.531189  -2.922046 42.531211  -2.922061 42.531188  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549589">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923183 42.531170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923079 42.531253 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923183 42.531191  -2.923114 42.531170  -2.923079 42.531232  -2.923148 42.531253  -2.923183 42.531191  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549590">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922316 42.531237 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922204 42.531315 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922316 42.531264  -2.922238 42.531237  -2.922204 42.531289  -2.922283 42.531315  -2.922316 42.531264  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549591">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922390 42.531271 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922315 42.531335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922390 42.531284  -2.922348 42.531271  -2.922315 42.531322  -2.922358 42.531335  -2.922390 42.531284  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549592">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923217 42.531289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923027 42.531475 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923027 42.531449  -2.923104 42.531475  -2.923151 42.531392  -2.923181 42.531403  -2.923217 42.531342  -2.923053 42.531289  -2.923034 42.531313  -2.923073 42.531323  -2.923070 42.531331  -2.923091 42.531336  -2.923085 42.531346  -2.923044 42.531334  -2.923029 42.531363  -2.923091 42.531382  -2.923083 42.531405  -2.923058 42.531395  -2.923027 42.531449  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549593">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922614 42.531333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922502 42.531423 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922614 42.531361  -2.922534 42.531333  -2.922502 42.531394  -2.922583 42.531423  -2.922614 42.531361  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549594">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922837 42.531395 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922666 42.531473 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922837 42.531441  -2.922692 42.531395  -2.922666 42.531452  -2.922732 42.531473  -2.922746 42.531447  -2.922823 42.531471  -2.922837 42.531441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922924 42.531450 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922866 42.531505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922924 42.531464  -2.922888 42.531450  -2.922866 42.531491  -2.922902 42.531505  -2.922924 42.531464  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549596">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923061 42.531578 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923012 42.531615 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923061 42.531588  -2.923026 42.531578  -2.923012 42.531605  -2.923047 42.531615  -2.923061 42.531588  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549597">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922762 42.531773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922621 42.531864 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922762 42.531793  -2.922729 42.531773  -2.922621 42.531848  -2.922645 42.531864  -2.922687 42.531834  -2.922697 42.531841  -2.922762 42.531793  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.938130 42.504406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.937995 42.504505 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.938121 42.504439  -2.938112 42.504440  -2.938108 42.504406  -2.938025 42.504414  -2.938030 42.504445  -2.937995 42.504450  -2.938004 42.504505  -2.938130 42.504494  -2.938121 42.504439  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923399 42.515831 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923334 42.515870 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923387 42.515870  -2.923399 42.515845  -2.923346 42.515831  -2.923334 42.515856  -2.923387 42.515870  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.935198 42.507038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.935095 42.507116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.935127 42.507038  -2.935117 42.507055  -2.935095 42.507092  -2.935164 42.507116  -2.935198 42.507061  -2.935152 42.507046  -2.935127 42.507038  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Castañares de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Castañares de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4549601">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.937693 42.502652 </gml:lowerCorner>
+        		<gml:upperCorner>-2.937180 42.503039 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.937284 42.502652  -2.937180 42.502815  -2.937205 42.502827  -2.937500 42.502970  -2.937532 42.502986  -2.937642 42.503039  -2.937693 42.502974  -2.937532 42.502900  -2.937500 42.502885  -2.937277 42.502781  -2.937347 42.502676  -2.937284 42.502652  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
