@@ -4177,12 +4177,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-1.904056 41.997657 </gml:lowerCorner>
-        		<gml:upperCorner>-1.903810 41.998024 </gml:upperCorner>
+        		<gml:upperCorner>-1.903786 41.998024 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.904003 41.997657  -1.903810 41.997869  -1.903813 41.997907  -1.904056 41.998024  </gml:posList>
+            <gml:posList srsDimension="2">-1.904003 41.997657  -1.903810 41.997869  -1.903786 41.997915  -1.904056 41.998024  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
@@ -7313,26 +7313,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1518597">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.958523 42.006232 </gml:lowerCorner>
-        		<gml:upperCorner>-1.957763 42.006690 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.957763 42.006232  -1.957782 42.006243  -1.957787 42.006245  -1.957888 42.006295  -1.957949 42.006324  -1.957952 42.006326  -1.957966 42.006332  -1.958030 42.006363  -1.958045 42.006370  -1.958072 42.006383  -1.958102 42.006396  -1.958136 42.006411  -1.958222 42.006446  -1.958319 42.006484  -1.958332 42.006489  -1.958404 42.006522  -1.958430 42.006534  -1.958471 42.006553  -1.958481 42.006558  -1.958490 42.006562  -1.958502 42.006568  -1.958503 42.006569  -1.958508 42.006576  -1.958514 42.006586  -1.958519 42.006593  -1.958519 42.006594  -1.958522 42.006605  -1.958523 42.006609  -1.958523 42.006615  -1.958522 42.006624  -1.958522 42.006627  -1.958519 42.006632  -1.958517 42.006638  -1.958513 42.006642  -1.958509 42.006646  -1.958501 42.006655  -1.958497 42.006659  -1.958495 42.006660  -1.958481 42.006664  -1.958472 42.006667  -1.958453 42.006672  -1.958442 42.006674  -1.958439 42.006674  -1.958431 42.006675  -1.958383 42.006677  -1.958356 42.006678  -1.958334 42.006679  -1.958326 42.006679  -1.958253 42.006677  -1.958188 42.006675  -1.958188 42.006675  -1.958186 42.006675  -1.958180 42.006674  -1.958156 42.006672  -1.958117 42.006668  -1.958100 42.006666  -1.958063 42.006664  -1.958051 42.006663  -1.958047 42.006663  -1.958040 42.006664  -1.958034 42.006666  -1.958032 42.006667  -1.958026 42.006669  -1.958022 42.006673  -1.958015 42.006680  -1.958009 42.006687  -1.958005 42.006690  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco del Royo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.047.45</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2604700462</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1518660">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -7403,6 +7383,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.956211 42.005563  -1.956371 42.005596  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco del Royo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.45</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700462</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4552485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.958523 42.006232 </gml:lowerCorner>
+        		<gml:upperCorner>-1.957763 42.006620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.957763 42.006232  -1.957782 42.006243  -1.957787 42.006245  -1.957888 42.006295  -1.957949 42.006324  -1.957952 42.006326  -1.957966 42.006332  -1.958030 42.006363  -1.958045 42.006370  -1.958072 42.006383  -1.958102 42.006396  -1.958136 42.006411  -1.958222 42.006446  -1.958319 42.006484  -1.958332 42.006489  -1.958404 42.006522  -1.958430 42.006534  -1.958471 42.006553  -1.958481 42.006558  -1.958490 42.006562  -1.958502 42.006568  -1.958503 42.006569  -1.958508 42.006576  -1.958514 42.006586  -1.958519 42.006593  -1.958519 42.006594  -1.958522 42.006605  -1.958523 42.006609  -1.958523 42.006615  -1.958522 42.006620  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco del Royo</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.45</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700462</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4552486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.958522 42.006620 </gml:lowerCorner>
+        		<gml:upperCorner>-1.958005 42.006690 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.958522 42.006620  -1.958522 42.006624  -1.958522 42.006627  -1.958519 42.006632  -1.958517 42.006638  -1.958513 42.006642  -1.958509 42.006646  -1.958501 42.006655  -1.958497 42.006659  -1.958495 42.006660  -1.958481 42.006664  -1.958472 42.006667  -1.958453 42.006672  -1.958442 42.006674  -1.958439 42.006674  -1.958431 42.006675  -1.958383 42.006677  -1.958356 42.006678  -1.958334 42.006679  -1.958326 42.006679  -1.958253 42.006677  -1.958188 42.006675  -1.958188 42.006675  -1.958186 42.006675  -1.958180 42.006674  -1.958156 42.006672  -1.958117 42.006668  -1.958100 42.006666  -1.958063 42.006664  -1.958051 42.006663  -1.958047 42.006663  -1.958040 42.006664  -1.958034 42.006666  -1.958032 42.006667  -1.958026 42.006669  -1.958022 42.006673  -1.958015 42.006680  -1.958009 42.006687  -1.958005 42.006690  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco del Royo</ms:NOMBRE_COMPLETO_VIAL>
@@ -7833,16 +7853,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3938515">
+      <ms:viales gml:id="viales.4552506">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.952459 42.005474 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.952254 42.005573 </gml:lowerCorner>
         		<gml:upperCorner>-1.950584 42.005973 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.950584 42.005835  -1.950610 42.005835  -1.950972 42.005833  -1.951076 42.005830  -1.951286 42.005915  -1.951333 42.005938  -1.951384 42.005955  -1.951437 42.005967  -1.951492 42.005972  -1.951547 42.005973  -1.951602 42.005967  -1.951636 42.005960  -1.951695 42.005944  -1.951750 42.005922  -1.951775 42.005909  -1.951994 42.005744  -1.952099 42.005693  -1.952240 42.005586  -1.952345 42.005489  -1.952404 42.005474  -1.952431 42.005476  -1.952459 42.005478  </gml:posList>
+            <gml:posList srsDimension="2">-1.950584 42.005835  -1.950610 42.005835  -1.950972 42.005833  -1.951076 42.005830  -1.951286 42.005915  -1.951333 42.005938  -1.951384 42.005955  -1.951437 42.005967  -1.951492 42.005972  -1.951547 42.005973  -1.951602 42.005967  -1.951636 42.005960  -1.951695 42.005944  -1.951750 42.005922  -1.951775 42.005909  -1.951994 42.005744  -1.952099 42.005693  -1.952240 42.005586  -1.952254 42.005573  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cervera del Río Alhama</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.54</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700413</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4552507">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.952459 42.005474 </gml:lowerCorner>
+        		<gml:upperCorner>-1.952254 42.005573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.952254 42.005573  -1.952345 42.005489  -1.952404 42.005474  -1.952431 42.005476  -1.952459 42.005478  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle San Miguel</ms:NOMBRE_COMPLETO_VIAL>
@@ -8842,7 +8882,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.948102 42.006065  -1.947853 42.006114  -1.947602 42.006214  -1.947467 42.006268  -1.947471 42.006299  </gml:posList>
+            <gml:posList srsDimension="2">-1.948102 42.006065  -1.947986 42.006075  -1.947853 42.006114  -1.947602 42.006214  -1.947467 42.006268  -1.947471 42.006299  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Nisuelas</ms:NOMBRE_COMPLETO_VIAL>
