@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-1.969001 41.973748 </gml:lowerCorner>
+      		<gml:lowerCorner>-1.968962 41.973748 </gml:lowerCorner>
       		<gml:upperCorner>-1.860543 42.057643 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -2144,27 +2144,6 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-1.861778 41.982075 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Madrid</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>60</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26528</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Valverde</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4210347">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.861693 41.982301 </gml:lowerCorner>
-        		<gml:upperCorner>-1.861693 41.982301 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.861693 41.982301 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Madrid</ms:NOMBRE_COMPLETO_VIAL>
@@ -12205,7 +12184,7 @@
             <gml:pos>-1.907293 41.997026 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12226,7 +12205,7 @@
             <gml:pos>-1.907002 41.996942 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12247,7 +12226,7 @@
             <gml:pos>-1.906870 41.996869 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12268,7 +12247,7 @@
             <gml:pos>-1.906746 41.996802 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>19</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12289,7 +12268,7 @@
             <gml:pos>-1.907568 41.996843 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12310,7 +12289,7 @@
             <gml:pos>-1.907113 41.996891 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>28</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12331,7 +12310,7 @@
             <gml:pos>-1.907611 41.996475 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12352,7 +12331,7 @@
             <gml:pos>-1.907025 41.996865 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12373,7 +12352,7 @@
             <gml:pos>-1.907149 41.996941 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>39</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12394,7 +12373,7 @@
             <gml:pos>-1.907456 41.996121 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12415,7 +12394,7 @@
             <gml:pos>-1.907727 41.996994 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12436,7 +12415,7 @@
             <gml:pos>-1.907891 41.996983 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -12457,7 +12436,7 @@
             <gml:pos>-1.907468 41.997116 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26529</ms:CODIGO_POSTAL>
@@ -57829,13 +57808,13 @@
       <ms:portales gml:id="portales.278546">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.969001 42.049874 </gml:lowerCorner>
-        		<gml:upperCorner>-1.969001 42.049874 </gml:upperCorner>
+        		<gml:lowerCorner>-1.968906 42.049957 </gml:lowerCorner>
+        		<gml:upperCorner>-1.968906 42.049957 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.969001 42.049874 </gml:pos>
+            <gml:pos>-1.968906 42.049957 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Julio Iglesias Peñafiel</ms:NOMBRE_COMPLETO_VIAL>

@@ -1096,13 +1096,13 @@
       <ms:viales gml:id="viales.1518769">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.861899 41.980718 </gml:lowerCorner>
-        		<gml:upperCorner>-1.861091 41.982447 </gml:upperCorner>
+        		<gml:lowerCorner>-1.861905 41.980718 </gml:lowerCorner>
+        		<gml:upperCorner>-1.861091 41.982295 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.861091 41.980718  -1.861589 41.982447  -1.861899 41.982216  </gml:posList>
+            <gml:posList srsDimension="2">-1.861091 41.980718  -1.861568 41.982295  -1.861905 41.982230  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Fuente Peña</ms:NOMBRE_COMPLETO_VIAL>
@@ -2116,13 +2116,13 @@
       <ms:viales gml:id="viales.1518577">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.911293 42.056101 </gml:lowerCorner>
+        		<gml:lowerCorner>-1.911519 42.055902 </gml:lowerCorner>
         		<gml:upperCorner>-1.909891 42.056666 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.909891 42.056666  -1.910170 42.056590  -1.910461 42.056460  -1.910726 42.056317  -1.910953 42.056207  -1.911293 42.056101  </gml:posList>
+            <gml:posList srsDimension="2">-1.911519 42.055990  -1.911486 42.055934  -1.911445 42.055913  -1.911386 42.055902  -1.911263 42.055928  -1.911028 42.056068  -1.910745 42.056250  -1.910363 42.056504  -1.910170 42.056590  -1.909891 42.056666  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Pedro Sáez de Guinoa</ms:NOMBRE_COMPLETO_VIAL>
@@ -3825,7 +3825,7 @@
             <gml:posList srsDimension="2">-1.906743 41.996683  -1.906761 41.996754  -1.906822 41.996818  -1.907238 41.996949  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3845,7 +3845,7 @@
             <gml:posList srsDimension="2">-1.907571 41.996958  -1.907573 41.996958  -1.907576 41.996958  -1.907605 41.996957  -1.907728 41.996972  -1.908071 41.996945  -1.908274 41.996951  -1.908419 41.996906  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3865,7 +3865,7 @@
             <gml:posList srsDimension="2">-1.907428 41.995914  -1.907409 41.995886  -1.907399 41.995870  -1.907397 41.995868  -1.907391 41.995859  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3885,7 +3885,7 @@
             <gml:posList srsDimension="2">-1.907539 41.996313  -1.907537 41.996299  -1.907535 41.996293  -1.907533 41.996281  -1.907532 41.996275  -1.907530 41.996268  -1.907524 41.996236  -1.907518 41.996206  -1.907512 41.996171  -1.907509 41.996160  -1.907498 41.996103  -1.907492 41.996071  -1.907491 41.996063  -1.907476 41.995986  -1.907470 41.995978  -1.907465 41.995971  -1.907463 41.995967  -1.907435 41.995925  -1.907428 41.995914  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3905,7 +3905,7 @@
             <gml:posList srsDimension="2">-1.907539 41.996313  -1.907542 41.996329  -1.907545 41.996346  -1.907548 41.996366  -1.907552 41.996387  -1.907569 41.996485  -1.907578 41.996538  -1.907585 41.996576  -1.907588 41.996594  -1.907591 41.996613  -1.907598 41.996652  -1.907598 41.996656  -1.907599 41.996657  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3925,7 +3925,7 @@
             <gml:posList srsDimension="2">-1.908664 41.997466  -1.908372 41.997451  -1.907974 41.997270  -1.907528 41.997113  -1.907528 41.997113  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3945,7 +3945,7 @@
             <gml:posList srsDimension="2">-1.907528 41.997113  -1.907571 41.996958  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3965,7 +3965,7 @@
             <gml:posList srsDimension="2">-1.907599 41.996657  -1.907604 41.996688  -1.907608 41.996713  -1.907613 41.996746  -1.907614 41.996749  -1.907614 41.996751  -1.907614 41.996753  -1.907614 41.996756  -1.907607 41.996827  -1.907605 41.996856  -1.907603 41.996871  -1.907603 41.996880  -1.907597 41.996893  -1.907596 41.996896  -1.907576 41.996947  -1.907573 41.996954  -1.907571 41.996958  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -3985,7 +3985,7 @@
             <gml:posList srsDimension="2">-1.907528 41.997113  -1.907238 41.996949  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Parque Infantil</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.047.79</ms:COD_CATASTRAL_VIAL>
@@ -4063,26 +4063,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.904468 41.997890  -1.904315 41.998109  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.047.155</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2604700401</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1518966">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.904452 41.998484 </gml:lowerCorner>
-        		<gml:upperCorner>-1.904201 41.998741 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-1.904201 41.998484  -1.904270 41.998628  -1.904370 41.998709  -1.904452 41.998741  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
@@ -4243,6 +4223,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-1.904407 41.996540  -1.904638 41.996612  -1.904971 41.996721  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.155</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700401</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4553545">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.904370 41.998484 </gml:lowerCorner>
+        		<gml:upperCorner>-1.904201 41.998709 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.904201 41.998484  -1.904270 41.998628  -1.904370 41.998709  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Cabretón</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Cervera del Río Alhama</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.047.155</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2604700401</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4553546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-1.904452 41.998709 </gml:lowerCorner>
+        		<gml:upperCorner>-1.904370 41.998741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-1.904370 41.998709  -1.904452 41.998741  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Lavadero</ms:NOMBRE_COMPLETO_VIAL>
