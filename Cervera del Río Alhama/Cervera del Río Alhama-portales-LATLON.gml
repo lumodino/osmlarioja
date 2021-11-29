@@ -16816,13 +16816,13 @@
       <ms:portales gml:id="portales.280645">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.947165 42.014409 </gml:lowerCorner>
-        		<gml:upperCorner>-1.947165 42.014409 </gml:upperCorner>
+        		<gml:lowerCorner>-1.947316 42.014157 </gml:lowerCorner>
+        		<gml:upperCorner>-1.947316 42.014157 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.947165 42.014409 </gml:pos>
+            <gml:pos>-1.947316 42.014157 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Ibo Alfaro</ms:NOMBRE_COMPLETO_VIAL>
@@ -19105,13 +19105,13 @@
       <ms:portales gml:id="portales.279806">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.955168 42.003443 </gml:lowerCorner>
-        		<gml:upperCorner>-1.955168 42.003443 </gml:upperCorner>
+        		<gml:lowerCorner>-1.955410 42.003446 </gml:lowerCorner>
+        		<gml:upperCorner>-1.955410 42.003446 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.955168 42.003443 </gml:pos>
+            <gml:pos>-1.955410 42.003446 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida La Rioja</ms:NOMBRE_COMPLETO_VIAL>
@@ -44788,13 +44788,13 @@
       <ms:portales gml:id="portales.273926">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.957700 42.001445 </gml:lowerCorner>
-        		<gml:upperCorner>-1.957700 42.001445 </gml:upperCorner>
+        		<gml:lowerCorner>-1.957676 42.001703 </gml:lowerCorner>
+        		<gml:upperCorner>-1.957676 42.001703 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.957700 42.001445 </gml:pos>
+            <gml:pos>-1.957676 42.001703 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Subida a las Eras</ms:NOMBRE_COMPLETO_VIAL>
@@ -45922,13 +45922,13 @@
       <ms:portales gml:id="portales.279866">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.957115 41.999511 </gml:lowerCorner>
-        		<gml:upperCorner>-1.957115 41.999511 </gml:upperCorner>
+        		<gml:lowerCorner>-1.956925 42.000047 </gml:lowerCorner>
+        		<gml:upperCorner>-1.956925 42.000047 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.957115 41.999511 </gml:pos>
+            <gml:pos>-1.956925 42.000047 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino C</ms:NOMBRE_COMPLETO_VIAL>
