@@ -176,13 +176,13 @@
       <ms:viales gml:id="viales.1546301">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.842943 42.484643 </gml:lowerCorner>
-        		<gml:upperCorner>-2.840368 42.484903 </gml:upperCorner>
+        		<gml:lowerCorner>-2.842944 42.484626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.840366 42.484901 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.842943 42.484903  -2.842881 42.484891  -2.842144 42.484823  -2.840848 42.484670  -2.840368 42.484643  </gml:posList>
+            <gml:posList srsDimension="2">-2.842944 42.484901  -2.842881 42.484891  -2.842772 42.484883  -2.842283 42.484835  -2.842144 42.484823  -2.841950 42.484799  -2.841668 42.484771  -2.841629 42.484766  -2.841502 42.484749  -2.841288 42.484721  -2.841255 42.484717  -2.840848 42.484670  -2.840736 42.484661  -2.840674 42.484656  -2.840573 42.484649  -2.840531 42.484646  -2.840447 42.484636  -2.840366 42.484626  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -196,13 +196,13 @@
       <ms:viales gml:id="viales.1546302">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.840646 42.484643 </gml:lowerCorner>
-        		<gml:upperCorner>-2.840368 42.485785 </gml:upperCorner>
+        		<gml:lowerCorner>-2.840646 42.484626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.840366 42.485785 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.840571 42.485785  -2.840646 42.485447  -2.840628 42.485341  -2.840548 42.485117  -2.840368 42.484643  </gml:posList>
+            <gml:posList srsDimension="2">-2.840571 42.485785  -2.840646 42.485447  -2.840628 42.485341  -2.840548 42.485117  -2.840366 42.484626  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -217,12 +217,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.843448 42.484784 </gml:lowerCorner>
-        		<gml:upperCorner>-2.842943 42.484903 </gml:upperCorner>
+        		<gml:upperCorner>-2.842944 42.484901 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.842943 42.484903  -2.843047 42.484856  -2.843448 42.484784  </gml:posList>
+            <gml:posList srsDimension="2">-2.842944 42.484901  -2.843047 42.484856  -2.843448 42.484784  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -236,13 +236,13 @@
       <ms:viales gml:id="viales.1546319">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.843178 42.484903 </gml:lowerCorner>
-        		<gml:upperCorner>-2.842943 42.484950 </gml:upperCorner>
+        		<gml:lowerCorner>-2.843181 42.484901 </gml:lowerCorner>
+        		<gml:upperCorner>-2.842944 42.484947 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.843178 42.484950  -2.842943 42.484903  </gml:posList>
+            <gml:posList srsDimension="2">-2.843181 42.484947  -2.843169 42.484944  -2.843122 42.484936  -2.843106 42.484933  -2.843061 42.484925  -2.843052 42.484923  -2.843017 42.484915  -2.842967 42.484904  -2.842953 42.484902  -2.842944 42.484901  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -256,13 +256,13 @@
       <ms:viales gml:id="viales.1546321">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.840368 42.484437 </gml:lowerCorner>
-        		<gml:upperCorner>-2.838799 42.484643 </gml:upperCorner>
+        		<gml:lowerCorner>-2.840366 42.484437 </gml:lowerCorner>
+        		<gml:upperCorner>-2.838799 42.484626 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.840368 42.484643  -2.838799 42.484437  </gml:posList>
+            <gml:posList srsDimension="2">-2.840366 42.484626  -2.840288 42.484617  -2.840137 42.484599  -2.840101 42.484595  -2.840062 42.484591  -2.839967 42.484580  -2.839866 42.484568  -2.839849 42.484565  -2.839742 42.484550  -2.839664 42.484539  -2.839500 42.484515  -2.839481 42.484512  -2.839462 42.484510  -2.839249 42.484485  -2.839130 42.484472  -2.839075 42.484465  -2.838799 42.484437  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -276,13 +276,13 @@
       <ms:viales gml:id="viales.1546349">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.842943 42.484903 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.842944 42.484901 </gml:lowerCorner>
         		<gml:upperCorner>-2.842884 42.485182 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.842884 42.485182  -2.842943 42.484903  </gml:posList>
+            <gml:posList srsDimension="2">-2.842884 42.485182  -2.842944 42.484901  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -297,12 +297,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.843448 42.484784 </gml:lowerCorner>
-        		<gml:upperCorner>-2.843227 42.484959 </gml:upperCorner>
+        		<gml:upperCorner>-2.843227 42.484958 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.843448 42.484784  -2.843332 42.484867  -2.843227 42.484959  </gml:posList>
+            <gml:posList srsDimension="2">-2.843448 42.484784  -2.843332 42.484867  -2.843227 42.484958  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Casas Blancas</ms:NOMBRE_COMPLETO_VIAL>

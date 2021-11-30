@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.893635 42.483059 </gml:lowerCorner>
-      		<gml:upperCorner>-2.826608 42.495834 </gml:upperCorner>
+      		<gml:lowerCorner>-2.893635 42.467228 </gml:lowerCorner>
+      		<gml:upperCorner>-2.820908 42.498242 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -100,15 +100,15 @@
       <ms:edificios gml:id="edificios.4028308">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.839260 42.484907 </gml:lowerCorner>
-        		<gml:upperCorner>-2.838211 42.485122 </gml:upperCorner>
+        		<gml:lowerCorner>-2.838705 42.484919 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837476 42.485219 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.839260 42.485014  -2.838232 42.484907  -2.838211 42.485015  -2.839240 42.485122  -2.839260 42.485014  </gml:posList>
+                <gml:posList srsDimension="2">-2.838705 42.485057  -2.837505 42.484919  -2.837476 42.485076  -2.838676 42.485219  -2.838705 42.485057  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -142,15 +142,15 @@
       <ms:edificios gml:id="edificios.4028310">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.839323 42.484578 </gml:lowerCorner>
-        		<gml:upperCorner>-2.838273 42.484792 </gml:upperCorner>
+        		<gml:lowerCorner>-2.838790 42.484547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837557 42.484835 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.838294 42.484578  -2.838273 42.484684  -2.839302 42.484792  -2.839323 42.484686  -2.838294 42.484578  </gml:posList>
+                <gml:posList srsDimension="2">-2.837581 42.484547  -2.837557 42.484696  -2.838759 42.484835  -2.838790 42.484683  -2.837581 42.484547  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -298,27 +298,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.840056 42.485713  -2.840553 42.485756  -2.840555 42.485710  -2.840057 42.485666  -2.840056 42.485713  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4028319">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.841456 42.485746 </gml:lowerCorner>
-        		<gml:upperCorner>-2.840951 42.485834 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.840958 42.485746  -2.840951 42.485791  -2.841449 42.485834  -2.841456 42.485789  -2.840958 42.485746  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -646,15 +625,15 @@
       <ms:edificios gml:id="edificios.4028336">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.836320 42.489659 </gml:lowerCorner>
-        		<gml:upperCorner>-2.836155 42.489781 </gml:upperCorner>
+        		<gml:lowerCorner>-2.836295 42.489660 </gml:lowerCorner>
+        		<gml:upperCorner>-2.836130 42.489782 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.836320 42.489703  -2.836215 42.489659  -2.836155 42.489736  -2.836261 42.489781  -2.836320 42.489703  </gml:posList>
+                <gml:posList srsDimension="2">-2.836295 42.489704  -2.836190 42.489660  -2.836130 42.489737  -2.836236 42.489782  -2.836295 42.489704  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -667,15 +646,15 @@
       <ms:edificios gml:id="edificios.4028337">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.837112 42.489415 </gml:lowerCorner>
-        		<gml:upperCorner>-2.836826 42.489592 </gml:upperCorner>
+        		<gml:lowerCorner>-2.837158 42.489390 </gml:lowerCorner>
+        		<gml:upperCorner>-2.836872 42.489568 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.837112 42.489451  -2.837051 42.489415  -2.837003 42.489459  -2.836939 42.489429  -2.836826 42.489561  -2.836899 42.489592  -2.836947 42.489547  -2.837009 42.489572  -2.837112 42.489451  </gml:posList>
+                <gml:posList srsDimension="2">-2.837158 42.489426  -2.837096 42.489390  -2.837048 42.489434  -2.836985 42.489404  -2.836872 42.489536  -2.836945 42.489568  -2.836993 42.489522  -2.837055 42.489547  -2.837158 42.489426  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -688,36 +667,15 @@
       <ms:edificios gml:id="edificios.4028338">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.827191 42.485398 </gml:lowerCorner>
-        		<gml:upperCorner>-2.826978 42.485543 </gml:upperCorner>
+        		<gml:lowerCorner>-2.827195 42.485398 </gml:lowerCorner>
+        		<gml:upperCorner>-2.826999 42.485531 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.826978 42.485483  -2.827037 42.485543  -2.827191 42.485457  -2.827133 42.485398  -2.826978 42.485483  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cidamón</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4028339">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.827304 42.485769 </gml:lowerCorner>
-        		<gml:upperCorner>-2.826608 42.486468 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.827181 42.486468  -2.827304 42.486407  -2.826731 42.485769  -2.826608 42.485830  -2.827181 42.486468  </gml:posList>
+                <gml:posList srsDimension="2">-2.826999 42.485470  -2.827058 42.485531  -2.827195 42.485462  -2.827133 42.485398  -2.826999 42.485470  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -760,27 +718,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.827269 42.485507  -2.827832 42.486149  -2.827956 42.486089  -2.827393 42.485447  -2.827269 42.485507  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cidamón</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4028342">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.828299 42.485290 </gml:lowerCorner>
-        		<gml:upperCorner>-2.827607 42.485990 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.827607 42.485351  -2.828175 42.485990  -2.828299 42.485930  -2.827730 42.485290  -2.827607 42.485351  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -912,27 +849,6 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4028350">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833938 42.483846 </gml:lowerCorner>
-        		<gml:upperCorner>-2.833879 42.483878 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.833884 42.483846  -2.833879 42.483872  -2.833933 42.483878  -2.833938 42.483851  -2.833884 42.483846  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cidamón (diseminado)</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -1180,6 +1096,531 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.840051 42.485471  -2.840060 42.485390  -2.839969 42.485383  -2.839961 42.485465  -2.840051 42.485471  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553636">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.883710 42.467228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.883659 42.467298 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.883710 42.467298  -2.883710 42.467228  -2.883659 42.467228  -2.883659 42.467298  -2.883710 42.467298  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553637">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.880308 42.472882 </gml:lowerCorner>
+        		<gml:upperCorner>-2.880264 42.472914 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.880308 42.472891  -2.880277 42.472882  -2.880264 42.472905  -2.880296 42.472914  -2.880308 42.472891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553638">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.882940 42.472975 </gml:lowerCorner>
+        		<gml:upperCorner>-2.882878 42.473042 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.882940 42.472977  -2.882884 42.472975  -2.882878 42.473039  -2.882934 42.473042  -2.882940 42.472977  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553639">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.821049 42.483146 </gml:lowerCorner>
+        		<gml:upperCorner>-2.820908 42.483249 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.821049 42.483200  -2.820964 42.483146  -2.820908 42.483190  -2.820985 42.483249  -2.821049 42.483200  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553640">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.821204 42.483385 </gml:lowerCorner>
+        		<gml:upperCorner>-2.821082 42.483485 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.821204 42.483422  -2.821149 42.483385  -2.821082 42.483447  -2.821137 42.483485  -2.821204 42.483422  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553641">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.838532 42.487505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.838263 42.487735 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.838532 42.487564  -2.838419 42.487505  -2.838263 42.487681  -2.838375 42.487735  -2.838532 42.487564  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553643">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.848881 42.489379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.848812 42.489432 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.848881 42.489393  -2.848841 42.489379  -2.848812 42.489414  -2.848850 42.489432  -2.848881 42.489393  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553644">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.861396 42.490836 </gml:lowerCorner>
+        		<gml:upperCorner>-2.861331 42.490880 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.861392 42.490880  -2.861396 42.490879  -2.861387 42.490836  -2.861331 42.490844  -2.861332 42.490845  -2.861382 42.490839  -2.861392 42.490880  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553645">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.861338 42.490877 </gml:lowerCorner>
+        		<gml:upperCorner>-2.861337 42.490880 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.861338 42.490880  -2.861338 42.490877  -2.861337 42.490877  -2.861338 42.490880  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553646">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.861327 42.490859 </gml:lowerCorner>
+        		<gml:upperCorner>-2.861305 42.490862 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.861327 42.490859  -2.861305 42.490862  -2.861327 42.490859  -2.861327 42.490859  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553647">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.861306 42.490863 </gml:lowerCorner>
+        		<gml:upperCorner>-2.861301 42.490879 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.861306 42.490879  -2.861303 42.490863  -2.861301 42.490863  -2.861306 42.490879  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553648">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.869609 42.491547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.869432 42.491706 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.869601 42.491628  -2.869562 42.491586  -2.869522 42.491577  -2.869492 42.491547  -2.869432 42.491582  -2.869459 42.491614  -2.869452 42.491645  -2.869489 42.491688  -2.869523 42.491690  -2.869543 42.491706  -2.869609 42.491671  -2.869594 42.491651  -2.869601 42.491628  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553649">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.883228 42.492213 </gml:lowerCorner>
+        		<gml:upperCorner>-2.882881 42.492379 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.883228 42.492317  -2.882964 42.492213  -2.882881 42.492334  -2.882997 42.492379  -2.883049 42.492307  -2.883205 42.492364  -2.883228 42.492317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553650">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.883065 42.492485 </gml:lowerCorner>
+        		<gml:upperCorner>-2.882703 42.492710 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.883065 42.492593  -2.883063 42.492592  -2.882782 42.492485  -2.882703 42.492603  -2.882980 42.492710  -2.883065 42.492593  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553651">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.892179 42.493532 </gml:lowerCorner>
+        		<gml:upperCorner>-2.892055 42.493632 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.892179 42.493598  -2.892109 42.493532  -2.892055 42.493568  -2.892129 42.493632  -2.892179 42.493598  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553652">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.876247 42.493867 </gml:lowerCorner>
+        		<gml:upperCorner>-2.876163 42.493932 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.876247 42.493884  -2.876185 42.493867  -2.876163 42.493915  -2.876221 42.493932  -2.876247 42.493884  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553653">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.881086 42.494543 </gml:lowerCorner>
+        		<gml:upperCorner>-2.880990 42.494605 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.881086 42.494560  -2.881032 42.494543  -2.880990 42.494588  -2.881036 42.494605  -2.881086 42.494560  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553654">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.856573 42.498035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.856526 42.498062 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.856573 42.498041  -2.856533 42.498035  -2.856526 42.498055  -2.856568 42.498062  -2.856573 42.498041  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553655">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.831180 42.498205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.831141 42.498242 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.831180 42.498217  -2.831156 42.498205  -2.831141 42.498229  -2.831167 42.498242  -2.831180 42.498217  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553656">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.838937 42.488265 </gml:lowerCorner>
+        		<gml:upperCorner>-2.838883 42.488304 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.838937 42.488280  -2.838903 42.488265  -2.838883 42.488290  -2.838918 42.488304  -2.838937 42.488280  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553657">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.840366 42.488609 </gml:lowerCorner>
+        		<gml:upperCorner>-2.840324 42.488638 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.840360 42.488609  -2.840324 42.488614  -2.840330 42.488638  -2.840366 42.488635  -2.840360 42.488609  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Cabezón de Cameros</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553658">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.836737 42.483896 </gml:lowerCorner>
+        		<gml:upperCorner>-2.836089 42.484116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.836737 42.483961  -2.836111 42.483896  -2.836089 42.484054  -2.836703 42.484116  -2.836737 42.483961  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553659">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837534 42.483729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.837172 42.484201 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.837534 42.483759  -2.837280 42.483729  -2.837172 42.484175  -2.837435 42.484201  -2.837534 42.483759  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553660">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.837280 42.483700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.836861 42.484175 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.837280 42.483729  -2.837050 42.483700  -2.836962 42.484050  -2.836880 42.484040  -2.836861 42.484135  -2.837172 42.484175  -2.837280 42.483729  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de Cidamón)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Cidamón</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4553661">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.830992 42.489744 </gml:lowerCorner>
+        		<gml:upperCorner>-2.830937 42.489783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.830989 42.489752  -2.830965 42.489744  -2.830941 42.489752  -2.830937 42.489772  -2.830954 42.489782  -2.830978 42.489783  -2.830992 42.489769  -2.830989 42.489752  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
