@@ -336,13 +336,13 @@
       <ms:viales gml:id="viales.1519742">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.421107 42.365767 </gml:lowerCorner>
-        		<gml:upperCorner>-2.420422 42.365958 </gml:upperCorner>
+        		<gml:lowerCorner>-2.421107 42.365788 </gml:lowerCorner>
+        		<gml:upperCorner>-2.420414 42.365958 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.421107 42.365821  -2.420845 42.365932  -2.420612 42.365958  -2.420531 42.365941  -2.420456 42.365865  -2.420422 42.365767  </gml:posList>
+            <gml:posList srsDimension="2">-2.421107 42.365821  -2.420845 42.365932  -2.420612 42.365958  -2.420531 42.365941  -2.420456 42.365865  -2.420414 42.365788  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campo de la Matanza</ms:NOMBRE_COMPLETO_VIAL>
