@@ -3936,13 +3936,13 @@
       <ms:viales gml:id="viales.1520136">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.110718 42.077396 </gml:lowerCorner>
-        		<gml:upperCorner>-2.110299 42.077487 </gml:upperCorner>
+        		<gml:lowerCorner>-2.110727 42.077378 </gml:lowerCorner>
+        		<gml:upperCorner>-2.110326 42.077486 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.110718 42.077464  -2.110716 42.077462  -2.110680 42.077396  -2.110461 42.077456  -2.110299 42.077487  </gml:posList>
+            <gml:posList srsDimension="2">-2.110718 42.077464  -2.110727 42.077428  -2.110718 42.077409  -2.110697 42.077395  -2.110647 42.077378  -2.110554 42.077393  -2.110348 42.077478  -2.110326 42.077486  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
@@ -3956,13 +3956,13 @@
       <ms:viales gml:id="viales.1520225">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.110323 42.077487 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.110335 42.077486 </gml:lowerCorner>
         		<gml:upperCorner>-2.110259 42.077741 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.110299 42.077487  -2.110307 42.077561  -2.110259 42.077603  -2.110261 42.077637  -2.110299 42.077665  -2.110323 42.077698  -2.110319 42.077741  </gml:posList>
+            <gml:posList srsDimension="2">-2.110326 42.077486  -2.110335 42.077560  -2.110259 42.077603  -2.110261 42.077637  -2.110299 42.077665  -2.110323 42.077698  -2.110319 42.077741  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Plaza</ms:NOMBRE_COMPLETO_VIAL>
