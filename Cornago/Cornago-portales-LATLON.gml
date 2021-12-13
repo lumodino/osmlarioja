@@ -15913,13 +15913,13 @@
       <ms:portales gml:id="portales.1559211">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.092977 42.065385 </gml:lowerCorner>
-        		<gml:upperCorner>-2.092977 42.065385 </gml:upperCorner>
+        		<gml:lowerCorner>-2.092991 42.065399 </gml:lowerCorner>
+        		<gml:upperCorner>-2.092991 42.065399 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.092977 42.065385 </gml:pos>
+            <gml:pos>-2.092991 42.065399 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Ricardo de Luis</ms:NOMBRE_COMPLETO_VIAL>
