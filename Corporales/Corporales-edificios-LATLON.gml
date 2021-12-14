@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.013567 42.424172 </gml:lowerCorner>
+      		<gml:lowerCorner>-3.017174 42.414543 </gml:lowerCorner>
       		<gml:upperCorner>-2.993879 42.433538 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -1326,7 +1326,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.012849 42.424917  -3.012794 42.424862  -3.012748 42.424887  -3.012803 42.424943  -3.012849 42.424917  </gml:posList>
+                <gml:posList srsDimension="2">-3.012849 42.424917  -3.012794 42.424862  -3.012771 42.424875  -3.012748 42.424887  -3.012803 42.424943  -3.012849 42.424917  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1347,7 +1347,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.012075 42.425532  -3.012032 42.425485  -3.011918 42.425543  -3.011960 42.425589  -3.012075 42.425532  </gml:posList>
+                <gml:posList srsDimension="2">-3.012075 42.425532  -3.012032 42.425485  -3.011975 42.425514  -3.011918 42.425543  -3.011960 42.425589  -3.012075 42.425532  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2040,7 +2040,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.008239 42.425486  -3.008196 42.425519  -3.008302 42.425592  -3.008344 42.425559  -3.008239 42.425486  </gml:posList>
+                <gml:posList srsDimension="2">-3.008239 42.425486  -3.008196 42.425519  -3.008302 42.425592  -3.008344 42.425559  -3.008299 42.425528  -3.008239 42.425486  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3558,6 +3558,90 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Morales</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Corporales</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555624">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.017174 42.414543 </gml:lowerCorner>
+        		<gml:upperCorner>-3.017147 42.414562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.017171 42.414543  -3.017159 42.414544  -3.017147 42.414545  -3.017148 42.414562  -3.017174 42.414562  -3.017171 42.414543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Corporales</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Corporales</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555625">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.009612 42.420446 </gml:lowerCorner>
+        		<gml:upperCorner>-3.009357 42.420663 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.009612 42.420507  -3.009491 42.420446  -3.009357 42.420590  -3.009387 42.420605  -3.009361 42.420634  -3.009418 42.420663  -3.009445 42.420634  -3.009479 42.420651  -3.009612 42.420507  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Corporales</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Corporales</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555626">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.006303 42.422649 </gml:lowerCorner>
+        		<gml:upperCorner>-3.006262 42.422679 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.006303 42.422665  -3.006279 42.422649  -3.006270 42.422656  -3.006262 42.422663  -3.006285 42.422679  -3.006303 42.422665  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Corporales</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Corporales</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555627">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.007224 42.423232 </gml:lowerCorner>
+        		<gml:upperCorner>-3.007164 42.423267 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.007224 42.423245  -3.007213 42.423234  -3.007199 42.423232  -3.007175 42.423243  -3.007164 42.423248  -3.007182 42.423267  -3.007224 42.423245  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Corporales</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Corporales</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

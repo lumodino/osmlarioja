@@ -499,13 +499,13 @@
       <ms:portales gml:id="portales.292416">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.271530 42.124472 </gml:lowerCorner>
-        		<gml:upperCorner>-2.271530 42.124472 </gml:upperCorner>
+        		<gml:lowerCorner>-2.271583 42.124481 </gml:lowerCorner>
+        		<gml:upperCorner>-2.271583 42.124481 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.271530 42.124472 </gml:pos>
+            <gml:pos>-2.271583 42.124481 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Garranzo</ms:NOMBRE_COMPLETO_VIAL>
@@ -541,38 +541,17 @@
       <ms:portales gml:id="portales.292421">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.271484 42.124373 </gml:lowerCorner>
-        		<gml:upperCorner>-2.271484 42.124373 </gml:upperCorner>
+        		<gml:lowerCorner>-2.271669 42.124384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.271669 42.124384 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.271484 42.124373 </gml:pos>
+            <gml:pos>-2.271669 42.124384 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Garranzo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>15</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.292422">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.271503 42.124380 </gml:lowerCorner>
-        		<gml:upperCorner>-2.271503 42.124380 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.271503 42.124380 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Lugar Garranzo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Garranzo</ms:NOMBRE_POBLAMIENTO>
@@ -1045,13 +1024,13 @@
       <ms:portales gml:id="portales.292050">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.272710 42.124737 </gml:lowerCorner>
-        		<gml:upperCorner>-2.272710 42.124737 </gml:upperCorner>
+        		<gml:lowerCorner>-2.272701 42.124748 </gml:lowerCorner>
+        		<gml:upperCorner>-2.272701 42.124748 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.272710 42.124737 </gml:pos>
+            <gml:pos>-2.272701 42.124748 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Garranzo</ms:NOMBRE_COMPLETO_VIAL>
@@ -1150,13 +1129,13 @@
       <ms:portales gml:id="portales.292047">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.273226 42.125113 </gml:lowerCorner>
-        		<gml:upperCorner>-2.273226 42.125113 </gml:upperCorner>
+        		<gml:lowerCorner>-2.273247 42.125109 </gml:lowerCorner>
+        		<gml:upperCorner>-2.273247 42.125109 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.273226 42.125113 </gml:pos>
+            <gml:pos>-2.273247 42.125109 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Garranzo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2620,13 +2599,13 @@
       <ms:portales gml:id="portales.292868">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.208883 42.121744 </gml:lowerCorner>
-        		<gml:upperCorner>-2.208883 42.121744 </gml:upperCorner>
+        		<gml:lowerCorner>-2.208840 42.121754 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208840 42.121754 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.208883 42.121744 </gml:pos>
+            <gml:pos>-2.208840 42.121754 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
@@ -3712,13 +3691,13 @@
       <ms:portales gml:id="portales.292897">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.208253 42.122371 </gml:lowerCorner>
-        		<gml:upperCorner>-2.208253 42.122371 </gml:upperCorner>
+        		<gml:lowerCorner>-2.208192 42.122392 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208192 42.122392 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.208253 42.122371 </gml:pos>
+            <gml:pos>-2.208192 42.122392 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
@@ -4825,13 +4804,13 @@
       <ms:portales gml:id="portales.293309">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.205899 42.121671 </gml:lowerCorner>
-        		<gml:upperCorner>-2.205899 42.121671 </gml:upperCorner>
+        		<gml:lowerCorner>-2.205910 42.121704 </gml:lowerCorner>
+        		<gml:upperCorner>-2.205910 42.121704 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.205899 42.121671 </gml:pos>
+            <gml:pos>-2.205910 42.121704 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
@@ -5791,13 +5770,13 @@
       <ms:portales gml:id="portales.292903">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.208264 42.121834 </gml:lowerCorner>
-        		<gml:upperCorner>-2.208264 42.121834 </gml:upperCorner>
+        		<gml:lowerCorner>-2.208302 42.121826 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208302 42.121826 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.208264 42.121834 </gml:pos>
+            <gml:pos>-2.208302 42.121826 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
@@ -13435,13 +13414,13 @@
       <ms:portales gml:id="portales.4205565">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.242727 42.136813 </gml:lowerCorner>
-        		<gml:upperCorner>-2.242727 42.136813 </gml:upperCorner>
+        		<gml:lowerCorner>-2.242737 42.136812 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242737 42.136812 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.242727 42.136813 </gml:pos>
+            <gml:pos>-2.242737 42.136812 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
@@ -14041,6 +14020,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4556695">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.244193 42.136286 </gml:lowerCorner>
+        		<gml:upperCorner>-2.244193 42.136286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.244193 42.136286 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4205608">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14086,13 +14086,13 @@
       <ms:portales gml:id="portales.4205549">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.244163 42.136283 </gml:lowerCorner>
-        		<gml:upperCorner>-2.244163 42.136283 </gml:upperCorner>
+        		<gml:lowerCorner>-2.244111 42.136271 </gml:lowerCorner>
+        		<gml:upperCorner>-2.244111 42.136271 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.244163 42.136283 </gml:pos>
+            <gml:pos>-2.244111 42.136271 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
@@ -14629,6 +14629,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4205554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.243992 42.136037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.243992 42.136037 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.243992 42.136037 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>El Villar</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.4205584">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14650,16 +14671,16 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.4205554">
+      <ms:portales gml:id="portales.4556697">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.244008 42.136059 </gml:lowerCorner>
-        		<gml:upperCorner>-2.244008 42.136059 </gml:upperCorner>
+        		<gml:lowerCorner>-2.244028 42.136069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.244028 42.136069 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.244008 42.136059 </gml:pos>
+            <gml:pos>-2.244028 42.136069 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
@@ -14863,13 +14884,13 @@
       <ms:portales gml:id="portales.4205579">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.242197 42.135778 </gml:lowerCorner>
-        		<gml:upperCorner>-2.242197 42.135778 </gml:upperCorner>
+        		<gml:lowerCorner>-2.242234 42.135782 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242234 42.135782 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.242197 42.135778 </gml:pos>
+            <gml:pos>-2.242234 42.135782 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
@@ -15052,13 +15073,13 @@
       <ms:portales gml:id="portales.4205537">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.242030 42.137555 </gml:lowerCorner>
-        		<gml:upperCorner>-2.242030 42.137555 </gml:upperCorner>
+        		<gml:lowerCorner>-2.242007 42.137543 </gml:lowerCorner>
+        		<gml:upperCorner>-2.242007 42.137543 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.242030 42.137555 </gml:pos>
+            <gml:pos>-2.242007 42.137543 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar El Villar de Enciso</ms:NOMBRE_COMPLETO_VIAL>
