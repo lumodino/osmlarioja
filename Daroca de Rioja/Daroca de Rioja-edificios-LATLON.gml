@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.608264 42.335036 </gml:lowerCorner>
-      		<gml:upperCorner>-2.578130 42.378715 </gml:upperCorner>
+      		<gml:upperCorner>-2.578130 42.376182 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1360,15 +1360,15 @@
       <ms:edificios gml:id="edificios.4091408">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582579 42.373635 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582452 42.373803 </gml:upperCorner>
+        		<gml:lowerCorner>-2.582565 42.373657 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582438 42.373825 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582452 42.373637  -2.582456 42.373803  -2.582579 42.373763  -2.582574 42.373679  -2.582578 42.373635  -2.582452 42.373637  </gml:posList>
+                <gml:posList srsDimension="2">-2.582438 42.373659  -2.582442 42.373825  -2.582565 42.373785  -2.582560 42.373701  -2.582564 42.373657  -2.582438 42.373659  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2575,48 +2575,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4091466">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582629 42.374514 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582544 42.374583 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582582 42.374514  -2.582546 42.374542  -2.582544 42.374543  -2.582584 42.374583  -2.582629 42.374548  -2.582582 42.374514  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4091467">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582584 42.374543 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582507 42.374606 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582544 42.374543  -2.582507 42.374572  -2.582555 42.374606  -2.582584 42.374583  -2.582544 42.374543  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4091468">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2641,15 +2599,15 @@
       <ms:edificios gml:id="edificios.4091469">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582683 42.373676 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582574 42.373763 </gml:upperCorner>
+        		<gml:lowerCorner>-2.582668 42.373698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582560 42.373785 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582574 42.373679  -2.582579 42.373763  -2.582682 42.373736  -2.582683 42.373676  -2.582574 42.373679  </gml:posList>
+                <gml:posList srsDimension="2">-2.582560 42.373701  -2.582565 42.373785  -2.582668 42.373757  -2.582668 42.373698  -2.582560 42.373701  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2746,15 +2704,15 @@
       <ms:edificios gml:id="edificios.4091474">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583784 42.368582 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583585 42.368742 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583815 42.368563 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583633 42.368750 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.583629 42.368620  -2.583585 42.368694  -2.583732 42.368742  -2.583784 42.368654  -2.583750 42.368643  -2.583756 42.368633  -2.583757 42.368632  -2.583759 42.368629  -2.583759 42.368627  -2.583759 42.368624  -2.583759 42.368622  -2.583757 42.368620  -2.583756 42.368618  -2.583754 42.368616  -2.583752 42.368615  -2.583717 42.368604  -2.583689 42.368594  -2.583651 42.368582  -2.583629 42.368620  </gml:posList>
+                <gml:posList srsDimension="2">-2.583642 42.368627  -2.583671 42.368640  -2.583633 42.368707  -2.583763 42.368750  -2.583815 42.368662  -2.583781 42.368650  -2.583787 42.368641  -2.583788 42.368639  -2.583790 42.368637  -2.583790 42.368635  -2.583790 42.368632  -2.583790 42.368630  -2.583788 42.368627  -2.583787 42.368626  -2.583785 42.368623  -2.583783 42.368622  -2.583748 42.368611  -2.583763 42.368587  -2.583676 42.368563  -2.583642 42.368627  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2767,15 +2725,15 @@
       <ms:edificios gml:id="edificios.4091475">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583922 42.367788 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583769 42.367949 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583932 42.367790 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583769 42.367948 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.583889 42.367949  -2.583922 42.367807  -2.583774 42.367788  -2.583771 42.367828  -2.583829 42.367834  -2.583825 42.367873  -2.583785 42.367870  -2.583769 42.367934  -2.583889 42.367949  </gml:posList>
+                <gml:posList srsDimension="2">-2.583903 42.367943  -2.583932 42.367806  -2.583789 42.367790  -2.583778 42.367849  -2.583789 42.367851  -2.583785 42.367870  -2.583769 42.367934  -2.583871 42.367948  -2.583873 42.367940  -2.583903 42.367943  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2838,7 +2796,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.588398 42.370938  -2.588407 42.370922  -2.588502 42.370772  -2.588677 42.370475  -2.588492 42.370417  -2.588212 42.370879  -2.588398 42.370938  </gml:posList>
+                <gml:posList srsDimension="2">-2.588398 42.370938  -2.588407 42.370922  -2.588502 42.370772  -2.588677 42.370475  -2.588601 42.370451  -2.588492 42.370417  -2.588352 42.370648  -2.588212 42.370879  -2.588398 42.370938  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3625,48 +3583,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4091516">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582884 42.373057 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582720 42.373162 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582720 42.373105  -2.582803 42.373128  -2.582794 42.373146  -2.582851 42.373162  -2.582884 42.373095  -2.582744 42.373057  -2.582720 42.373105  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4091517">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582803 42.373105 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582711 42.373146 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582720 42.373105  -2.582711 42.373124  -2.582794 42.373146  -2.582803 42.373128  -2.582720 42.373105  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4091518">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3712,15 +3628,15 @@
       <ms:edificios gml:id="edificios.4091520">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583090 42.372194 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582925 42.372328 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583109 42.372126 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582898 42.372336 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582925 42.372289  -2.583011 42.372328  -2.583090 42.372234  -2.583004 42.372194  -2.582925 42.372289  </gml:posList>
+                <gml:posList srsDimension="2">-2.582898 42.372278  -2.583028 42.372336  -2.583109 42.372229  -2.583070 42.372216  -2.583107 42.372162  -2.583012 42.372126  -2.582898 42.372278  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3796,15 +3712,15 @@
       <ms:edificios gml:id="edificios.4091524">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582260 42.371940 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582140 42.372033 </gml:upperCorner>
+        		<gml:lowerCorner>-2.582273 42.371922 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582121 42.372051 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582206 42.372033  -2.582260 42.371973  -2.582194 42.371940  -2.582140 42.372000  -2.582206 42.372033  </gml:posList>
+                <gml:posList srsDimension="2">-2.582206 42.372033  -2.582273 42.371959  -2.582191 42.371922  -2.582129 42.371993  -2.582140 42.372000  -2.582121 42.372025  -2.582180 42.372051  -2.582206 42.372033  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3817,15 +3733,15 @@
       <ms:edificios gml:id="edificios.4091525">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.584214 42.371600 </gml:lowerCorner>
-        		<gml:upperCorner>-2.584127 42.371684 </gml:upperCorner>
+        		<gml:lowerCorner>-2.584247 42.371598 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584147 42.371682 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.584146 42.371684  -2.584214 42.371674  -2.584195 42.371600  -2.584127 42.371609  -2.584146 42.371684  </gml:posList>
+                <gml:posList srsDimension="2">-2.584180 42.371682  -2.584214 42.371672  -2.584247 42.371662  -2.584215 42.371598  -2.584147 42.371616  -2.584180 42.371682  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3838,15 +3754,15 @@
       <ms:edificios gml:id="edificios.4091526">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583773 42.371547 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583585 42.371746 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583781 42.371573 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583584 42.371774 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.583701 42.371547  -2.583585 42.371574  -2.583657 42.371746  -2.583773 42.371719  -2.583701 42.371547  </gml:posList>
+                <gml:posList srsDimension="2">-2.583695 42.371573  -2.583584 42.371609  -2.583670 42.371774  -2.583781 42.371741  -2.583695 42.371573  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4237,15 +4153,15 @@
       <ms:edificios gml:id="edificios.4091545">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583440 42.374327 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583358 42.374378 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583451 42.374320 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583345 42.374384 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.583440 42.374349  -2.583420 42.374327  -2.583358 42.374356  -2.583379 42.374378  -2.583440 42.374349  </gml:posList>
+                <gml:posList srsDimension="2">-2.583451 42.374344  -2.583434 42.374320  -2.583345 42.374359  -2.583365 42.374384  -2.583451 42.374344  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4447,15 +4363,15 @@
       <ms:edificios gml:id="edificios.4555844">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588246 42.363516 </gml:lowerCorner>
-        		<gml:upperCorner>-2.588181 42.363562 </gml:upperCorner>
+        		<gml:lowerCorner>-2.588262 42.363512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.588159 42.363574 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.588246 42.363541  -2.588223 42.363516  -2.588181 42.363537  -2.588203 42.363562  -2.588246 42.363541  </gml:posList>
+                <gml:posList srsDimension="2">-2.588262 42.363538  -2.588242 42.363512  -2.588159 42.363546  -2.588179 42.363574  -2.588262 42.363538  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4489,36 +4405,15 @@
       <ms:edificios gml:id="edificios.4555846">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583868 42.368192 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583795 42.368237 </gml:upperCorner>
+        		<gml:lowerCorner>-2.583885 42.368170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583803 42.368234 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.583868 42.368225  -2.583862 42.368228  -2.583856 42.368231  -2.583848 42.368232  -2.583841 42.368233  -2.583834 42.368232  -2.583827 42.368231  -2.583820 42.368228  -2.583814 42.368225  -2.583809 42.368221  -2.583807 42.368219  -2.583806 42.368218  -2.583803 42.368213  -2.583801 42.368208  -2.583801 42.368203  -2.583801 42.368197  -2.583803 42.368192  -2.583795 42.368206  -2.583805 42.368226  -2.583838 42.368237  -2.583866 42.368228  -2.583868 42.368225  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4555847">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.583807 42.368186 </gml:lowerCorner>
-        		<gml:upperCorner>-2.583804 42.368191 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.583807 42.368186  -2.583806 42.368187  -2.583804 42.368191  -2.583806 42.368187  -2.583807 42.368186  </gml:posList>
+                <gml:posList srsDimension="2">-2.583803 42.368192  -2.583803 42.368202  -2.583806 42.368212  -2.583812 42.368222  -2.583821 42.368228  -2.583829 42.368232  -2.583840 42.368234  -2.583853 42.368234  -2.583871 42.368227  -2.583877 42.368222  -2.583881 42.368214  -2.583885 42.368206  -2.583885 42.368198  -2.583882 42.368189  -2.583873 42.368179  -2.583857 42.368173  -2.583842 42.368170  -2.583826 42.368172  -2.583811 42.368179  -2.583803 42.368192  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4549,48 +4444,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4555849">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.589484 42.369095 </gml:lowerCorner>
-        		<gml:upperCorner>-2.589436 42.369122 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.589484 42.369101  -2.589441 42.369095  -2.589436 42.369116  -2.589479 42.369122  -2.589484 42.369101  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4555850">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.589423 42.369217 </gml:lowerCorner>
-        		<gml:upperCorner>-2.589376 42.369244 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.589423 42.369225  -2.589383 42.369217  -2.589376 42.369236  -2.589416 42.369244  -2.589423 42.369225  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4555851">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4603,27 +4456,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.582887 42.369452  -2.582818 42.369448  -2.582814 42.369496  -2.582882 42.369500  -2.582887 42.369452  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4555852">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.582064 42.369535 </gml:lowerCorner>
-        		<gml:upperCorner>-2.582015 42.369580 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.582064 42.369545  -2.582040 42.369535  -2.582015 42.369570  -2.582038 42.369580  -2.582064 42.369545  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4780,18 +4612,186 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4555860">
+      <ms:edificios gml:id="edificios.4555870">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.588532 42.378684 </gml:lowerCorner>
-        		<gml:upperCorner>-2.588449 42.378715 </gml:upperCorner>
+        		<gml:lowerCorner>-2.589025 42.369778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.588601 42.370475 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.588532 42.378708  -2.588528 42.378684  -2.588449 42.378692  -2.588453 42.378715  -2.588532 42.378708  </gml:posList>
+                <gml:posList srsDimension="2">-2.589014 42.369858  -2.588995 42.369853  -2.589025 42.369791  -2.588989 42.369778  -2.588923 42.369814  -2.588955 42.369835  -2.588951 42.369842  -2.588898 42.369934  -2.588601 42.370451  -2.588677 42.370475  -2.589014 42.369858  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555871">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.584304 42.371783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584225 42.371835 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.584242 42.371835  -2.584304 42.371819  -2.584288 42.371783  -2.584225 42.371799  -2.584234 42.371817  -2.584242 42.371835  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555873">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.582893 42.373046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582711 42.373152 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.582867 42.373152  -2.582893 42.373074  -2.582739 42.373046  -2.582711 42.373124  -2.582867 42.373152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555874">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583194 42.373696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583066 42.373773 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583140 42.373704  -2.583130 42.373707  -2.583066 42.373724  -2.583090 42.373773  -2.583162 42.373754  -2.583194 42.373745  -2.583170 42.373696  -2.583140 42.373704  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555877">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.581079 42.376032 </gml:lowerCorner>
+        		<gml:upperCorner>-2.580580 42.376182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.580584 42.376182  -2.581079 42.376175  -2.581076 42.376032  -2.580580 42.376035  -2.580584 42.376182  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555878">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583294 42.373349 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583258 42.373377 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583292 42.373349  -2.583258 42.373351  -2.583261 42.373377  -2.583294 42.373376  -2.583292 42.373349  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555879">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.582369 42.372112 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582289 42.372167 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.582369 42.372134  -2.582312 42.372112  -2.582289 42.372144  -2.582349 42.372167  -2.582369 42.372134  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555881">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583686 42.370054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583555 42.370176 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583612 42.370176  -2.583677 42.370131  -2.583659 42.370116  -2.583686 42.370096  -2.583624 42.370054  -2.583555 42.370134  -2.583612 42.370176  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Daroca de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Daroca de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4555919">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.582629 42.374514 </gml:lowerCorner>
+        		<gml:upperCorner>-2.582507 42.374606 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.582584 42.374583  -2.582629 42.374548  -2.582582 42.374514  -2.582546 42.374542  -2.582544 42.374543  -2.582507 42.374572  -2.582555 42.374606  -2.582584 42.374583  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

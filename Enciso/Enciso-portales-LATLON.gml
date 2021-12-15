@@ -2407,6 +2407,48 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4556715">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.207637 42.121485 </gml:lowerCorner>
+        		<gml:upperCorner>-2.207637 42.121485 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.207637 42.121485 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4556716">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.207805 42.121736 </gml:lowerCorner>
+        		<gml:upperCorner>-2.207805 42.121736 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.207805 42.121736 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.292483">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3289,6 +3331,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4556718">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208689 42.121618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208689 42.121618 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.208689 42.121618 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>102</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.293283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3597,6 +3660,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4556720">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208967 42.122266 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208967 42.122266 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.208967 42.122266 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
@@ -4549,6 +4633,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4556722">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208645 42.122352 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208645 42.122352 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.208645 42.122352 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.292499">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5011,6 +5116,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4556717">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208009 42.121797 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208009 42.121797 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.208009 42.121797 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.292498">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5214,6 +5340,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4556719">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.209226 42.122279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.209226 42.122279 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.209226 42.122279 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
@@ -5614,6 +5761,27 @@
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION>A</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4556721">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.209127 42.122348 </gml:lowerCorner>
+        		<gml:upperCorner>-2.209127 42.122348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.209127 42.122348 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
@@ -6117,6 +6285,48 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4556723">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208504 42.122333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208504 42.122333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.208504 42.122333 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>95</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Enciso</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4556724">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.208252 42.121395 </gml:lowerCorner>
+        		<gml:upperCorner>-2.208252 42.121395 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.208252 42.121395 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Navalsaz</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26586</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Navalsaz</ms:NOMBRE_POBLAMIENTO>
@@ -12616,13 +12826,13 @@
       <ms:portales gml:id="portales.4205501">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.270348 42.147946 </gml:lowerCorner>
-        		<gml:upperCorner>-2.270348 42.147946 </gml:upperCorner>
+        		<gml:lowerCorner>-2.270376 42.147960 </gml:lowerCorner>
+        		<gml:upperCorner>-2.270376 42.147960 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.270348 42.147946 </gml:pos>
+            <gml:pos>-2.270376 42.147960 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Portillo</ms:NOMBRE_COMPLETO_VIAL>
