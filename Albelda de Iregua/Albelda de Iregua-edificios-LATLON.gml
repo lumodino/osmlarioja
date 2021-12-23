@@ -42777,15 +42777,15 @@
       <ms:edificios gml:id="edificios.4272651">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.489238 42.379865 </gml:lowerCorner>
-        		<gml:upperCorner>-2.489065 42.379998 </gml:upperCorner>
+        		<gml:lowerCorner>-2.489242 42.379862 </gml:lowerCorner>
+        		<gml:upperCorner>-2.489069 42.379995 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.489065 42.379963  -2.489112 42.379971  -2.489160 42.379979  -2.489156 42.379990  -2.489204 42.379998  -2.489238 42.379880  -2.489143 42.379865  -2.489133 42.379900  -2.489085 42.379893  -2.489065 42.379963  </gml:posList>
+                <gml:posList srsDimension="2">-2.489069 42.379960  -2.489116 42.379968  -2.489164 42.379976  -2.489160 42.379987  -2.489208 42.379995  -2.489242 42.379878  -2.489147 42.379862  -2.489137 42.379898  -2.489089 42.379890  -2.489069 42.379960  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
