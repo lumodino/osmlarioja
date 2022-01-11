@@ -1216,13 +1216,13 @@
       <ms:viales gml:id="viales.1525232">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.031450 42.265714 </gml:lowerCorner>
-        		<gml:upperCorner>-3.031293 42.265808 </gml:upperCorner>
+        		<gml:lowerCorner>-3.031450 42.265709 </gml:lowerCorner>
+        		<gml:upperCorner>-3.031294 42.265808 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.031293 42.265714  -3.031400 42.265742  -3.031450 42.265808  </gml:posList>
+            <gml:posList srsDimension="2">-3.031294 42.265709  -3.031400 42.265742  -3.031450 42.265808  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Agrupación Azárrulla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1242,7 +1242,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.031488 42.265859  -3.031832 42.265733  </gml:posList>
+            <gml:posList srsDimension="2">-3.031488 42.265859  -3.031581 42.265847  -3.031593 42.265821  -3.031832 42.265733  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Agrupación Azárrulla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1382,7 +1382,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.031450 42.265808  -3.031488 42.265859  </gml:posList>
+            <gml:posList srsDimension="2">-3.031450 42.265808  -3.031472 42.265844  -3.031488 42.265859  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Agrupación Azárrulla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1517,12 +1517,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.031442 42.265857 </gml:lowerCorner>
-        		<gml:upperCorner>-3.031266 42.266190 </gml:upperCorner>
+        		<gml:upperCorner>-3.031266 42.266160 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.031314 42.266190  -3.031441 42.266105  -3.031442 42.266069  -3.031267 42.265857  -3.031266 42.265857  </gml:posList>
+            <gml:posList srsDimension="2">-3.031391 42.266160  -3.031441 42.266105  -3.031442 42.266069  -3.031410 42.266009  -3.031366 42.265958  -3.031267 42.265857  -3.031266 42.265857  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Agrupación Azárrulla</ms:NOMBRE_COMPLETO_VIAL>
@@ -1536,13 +1536,13 @@
       <ms:viales gml:id="viales.1525382">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.031266 42.265857 </gml:lowerCorner>
-        		<gml:upperCorner>-3.030999 42.265888 </gml:upperCorner>
+        		<gml:lowerCorner>-3.031266 42.265757 </gml:lowerCorner>
+        		<gml:upperCorner>-3.030773 42.265897 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.030999 42.265888  -3.031266 42.265857  </gml:posList>
+            <gml:posList srsDimension="2">-3.030773 42.265757  -3.031030 42.265897  -3.031266 42.265857  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Agrupación Azárrulla</ms:NOMBRE_COMPLETO_VIAL>
@@ -2622,7 +2622,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.038374 42.244586  -3.038781 42.244870  </gml:posList>
+            <gml:posList srsDimension="2">-3.038374 42.244586  -3.038626 42.244747  -3.038781 42.244870  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Agrupación Posadas</ms:NOMBRE_COMPLETO_VIAL>
