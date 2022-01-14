@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-3.014519 42.579352 </gml:lowerCorner>
-      		<gml:upperCorner>-2.976517 42.599174 </gml:upperCorner>
+      		<gml:upperCorner>-2.976517 42.599274 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -520,13 +520,13 @@
       <ms:portales gml:id="portales.308261">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.978116 42.599071 </gml:lowerCorner>
-        		<gml:upperCorner>-2.978116 42.599071 </gml:upperCorner>
+        		<gml:lowerCorner>-2.977930 42.599274 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977930 42.599274 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.978116 42.599071 </gml:pos>
+            <gml:pos>-2.977930 42.599274 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Miranda Fonzaleche</ms:NOMBRE_COMPLETO_VIAL>

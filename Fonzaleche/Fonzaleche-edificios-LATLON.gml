@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.015498 42.578996 </gml:lowerCorner>
-      		<gml:upperCorner>-2.974120 42.602130 </gml:upperCorner>
+      		<gml:lowerCorner>-3.019960 42.572843 </gml:lowerCorner>
+      		<gml:upperCorner>-2.973901 42.609805 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -885,7 +885,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.976569 42.597655  -2.976619 42.597663  -2.976645 42.597557  -2.976676 42.597434  -2.976678 42.597428  -2.976626 42.597430  -2.976611 42.597496  -2.976577 42.597491  -2.976552 42.597583  -2.976586 42.597589  -2.976569 42.597655  </gml:posList>
+                <gml:posList srsDimension="2">-2.976569 42.597655  -2.976619 42.597663  -2.976630 42.597615  -2.976645 42.597557  -2.976676 42.597434  -2.976678 42.597428  -2.976626 42.597430  -2.976611 42.597496  -2.976577 42.597491  -2.976552 42.597583  -2.976586 42.597589  -2.976569 42.597655  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1284,7 +1284,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.003687 42.583980  -3.003687 42.583833  -3.003330 42.583808  -3.003322 42.583965  -3.003687 42.583980  </gml:posList>
+                <gml:posList srsDimension="2">-3.003687 42.583980  -3.003687 42.583833  -3.003330 42.583808  -3.003322 42.583965  -3.003534 42.583974  -3.003687 42.583980  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1305,49 +1305,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.006316 42.583817  -3.006262 42.583772  -3.006145 42.583854  -3.006194 42.583900  -3.006316 42.583817  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4043270">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015344 42.579459 </gml:lowerCorner>
-        		<gml:upperCorner>-3.015118 42.579599 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015270 42.579459  -3.015148 42.579525  -3.015118 42.579541  -3.015170 42.579593  -3.015202 42.579576  -3.015225 42.579599  -3.015344 42.579533  -3.015270 42.579459  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4043271">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015270 42.579263 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014921 42.579527 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015072 42.579263  -3.014921 42.579346  -3.015104 42.579527  -3.015133 42.579511  -3.015148 42.579525  -3.015270 42.579459  -3.015072 42.579263  </gml:posList>
+                <gml:posList srsDimension="2">-3.006316 42.583817  -3.006262 42.583772  -3.006145 42.583854  -3.006194 42.583900  -3.006255 42.583859  -3.006316 42.583817  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1969,15 +1927,15 @@
       <ms:edificios gml:id="edificios.4043301">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.013999 42.583324 </gml:lowerCorner>
-        		<gml:upperCorner>-3.013827 42.583456 </gml:upperCorner>
+        		<gml:lowerCorner>-3.013998 42.583306 </gml:lowerCorner>
+        		<gml:upperCorner>-3.013826 42.583438 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.013999 42.583414  -3.013920 42.583324  -3.013827 42.583368  -3.013902 42.583456  -3.013999 42.583414  </gml:posList>
+                <gml:posList srsDimension="2">-3.013998 42.583396  -3.013919 42.583306  -3.013826 42.583350  -3.013901 42.583438  -3.013998 42.583396  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2670,7 +2628,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.009786 42.582646  -3.009969 42.582652  -3.009984 42.582382  -3.009801 42.582376  -3.009786 42.582646  </gml:posList>
+                <gml:posList srsDimension="2">-3.009786 42.582646  -3.009877 42.582649  -3.009969 42.582652  -3.009984 42.582382  -3.009801 42.582376  -3.009786 42.582646  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4066,81 +4024,18 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4043401">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015225 42.579576 </gml:lowerCorner>
-        		<gml:upperCorner>-3.015170 42.579616 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015170 42.579593  -3.015194 42.579616  -3.015225 42.579599  -3.015202 42.579576  -3.015170 42.579593  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4043402">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015148 42.579511 </gml:lowerCorner>
-        		<gml:upperCorner>-3.015104 42.579541 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015104 42.579527  -3.015118 42.579541  -3.015148 42.579525  -3.015133 42.579511  -3.015104 42.579527  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4043403">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015118 42.579147 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014745 42.579574 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015104 42.579527  -3.014921 42.579346  -3.015072 42.579263  -3.014955 42.579147  -3.014745 42.579263  -3.015059 42.579574  -3.015118 42.579541  -3.015104 42.579527  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4043404">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.015498 42.579189 </gml:lowerCorner>
-        		<gml:upperCorner>-3.015097 42.579490 </gml:upperCorner>
+        		<gml:lowerCorner>-3.015511 42.579202 </gml:lowerCorner>
+        		<gml:upperCorner>-3.015072 42.579533 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015381 42.579490  -3.015498 42.579428  -3.015423 42.579350  -3.015403 42.579358  -3.015325 42.579284  -3.015294 42.579294  -3.015175 42.579189  -3.015097 42.579235  -3.015381 42.579490  </gml:posList>
+                <gml:posList srsDimension="2">-3.015344 42.579533  -3.015511 42.579444  -3.015423 42.579350  -3.015403 42.579358  -3.015325 42.579284  -3.015294 42.579294  -3.015189 42.579202  -3.015072 42.579263  -3.015270 42.579459  -3.015344 42.579533  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4867,15 +4762,15 @@
       <ms:edificios gml:id="edificios.4043439">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014050 42.583292 </gml:lowerCorner>
-        		<gml:upperCorner>-3.013920 42.583414 </gml:upperCorner>
+        		<gml:lowerCorner>-3.014049 42.583274 </gml:lowerCorner>
+        		<gml:upperCorner>-3.013919 42.583396 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.013999 42.583414  -3.014050 42.583392  -3.013982 42.583292  -3.013920 42.583324  -3.013999 42.583414  </gml:posList>
+                <gml:posList srsDimension="2">-3.013998 42.583396  -3.014049 42.583374  -3.014015 42.583324  -3.013981 42.583274  -3.013919 42.583306  -3.013998 42.583396  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6492,7 +6387,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.978852 42.599139  -2.978748 42.599093  -2.978716 42.599132  -2.978820 42.599179  -2.978852 42.599139  </gml:posList>
+                <gml:posList srsDimension="2">-2.978852 42.599139  -2.978748 42.599093  -2.978732 42.599112  -2.978716 42.599132  -2.978820 42.599179  -2.978852 42.599139  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7143,7 +7038,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977701 42.599263  -2.977611 42.599239  -2.977587 42.599288  -2.977677 42.599312  -2.977701 42.599263  </gml:posList>
+                <gml:posList srsDimension="2">-2.977701 42.599263  -2.977611 42.599239  -2.977587 42.599288  -2.977677 42.599312  -2.977689 42.599288  -2.977701 42.599263  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9214,15 +9109,15 @@
       <ms:edificios gml:id="edificios.4043646">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.011084 42.578996 </gml:lowerCorner>
-        		<gml:upperCorner>-3.010625 42.579280 </gml:upperCorner>
+        		<gml:lowerCorner>-3.011108 42.579008 </gml:lowerCorner>
+        		<gml:upperCorner>-3.010649 42.579291 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.011009 42.579242  -3.011084 42.579126  -3.010714 42.578996  -3.010645 42.579114  -3.010625 42.579147  -3.010986 42.579280  -3.011009 42.579242  </gml:posList>
+                <gml:posList srsDimension="2">-3.011033 42.579254  -3.011108 42.579137  -3.010738 42.579008  -3.010689 42.579091  -3.010669 42.579126  -3.010649 42.579159  -3.011010 42.579291  -3.011033 42.579254  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9844,15 +9739,15 @@
       <ms:edificios gml:id="edificios.4043676">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.010139 42.580707 </gml:lowerCorner>
-        		<gml:upperCorner>-3.010069 42.580758 </gml:upperCorner>
+        		<gml:lowerCorner>-3.010154 42.580697 </gml:lowerCorner>
+        		<gml:upperCorner>-3.010085 42.580748 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.010139 42.580749  -3.010127 42.580707  -3.010069 42.580715  -3.010083 42.580758  -3.010139 42.580749  </gml:posList>
+                <gml:posList srsDimension="2">-3.010154 42.580739  -3.010143 42.580697  -3.010085 42.580705  -3.010098 42.580748  -3.010126 42.580744  -3.010154 42.580739  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10314,7 +10209,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.014533 42.584174  -3.014411 42.584019  -3.014106 42.584150  -3.014229 42.584306  -3.014533 42.584174  </gml:posList>
+                <gml:posList srsDimension="2">-3.014533 42.584174  -3.014411 42.584019  -3.014106 42.584150  -3.014229 42.584306  -3.014381 42.584240  -3.014533 42.584174  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10482,7 +10377,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.978069 42.597198  -2.978132 42.597224  -2.978152 42.597197  -2.978090 42.597174  -2.978088 42.597173  -2.978069 42.597198  </gml:posList>
+                <gml:posList srsDimension="2">-2.978069 42.597198  -2.978132 42.597224  -2.978152 42.597197  -2.978121 42.597185  -2.978090 42.597174  -2.978088 42.597173  -2.978069 42.597198  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12204,7 +12099,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.975973 42.602011  -2.975933 42.602020  -2.975952 42.602130  -2.976004 42.602122  -2.975973 42.602011  </gml:posList>
+                <gml:posList srsDimension="2">-2.975973 42.602011  -2.975933 42.602020  -2.975943 42.602075  -2.975952 42.602130  -2.976004 42.602122  -2.975973 42.602011  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12225,7 +12120,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.974651 42.598486  -2.974584 42.598248  -2.974369 42.598281  -2.974437 42.598519  -2.974651 42.598486  </gml:posList>
+                <gml:posList srsDimension="2">-2.974651 42.598486  -2.974584 42.598248  -2.974369 42.598281  -2.974437 42.598519  -2.974544 42.598503  -2.974651 42.598486  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12373,6 +12268,468 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.011382 42.581379  -3.011362 42.581390  -3.011336 42.581404  -3.011403 42.581456  -3.011440 42.581435  -3.011485 42.581409  -3.011418 42.581361  -3.011382 42.581379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564545">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.019960 42.573546 </gml:lowerCorner>
+        		<gml:upperCorner>-3.019934 42.573565 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.019960 42.573565  -3.019937 42.573546  -3.019934 42.573562  -3.019960 42.573565  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.008656 42.572843 </gml:lowerCorner>
+        		<gml:upperCorner>-3.008583 42.572888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.008656 42.572866  -3.008600 42.572843  -3.008583 42.572865  -3.008640 42.572888  -3.008656 42.572866  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564547">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.008786 42.572932 </gml:lowerCorner>
+        		<gml:upperCorner>-3.008732 42.572967 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.008786 42.572948  -3.008751 42.572932  -3.008732 42.572953  -3.008769 42.572967  -3.008786 42.572948  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.010429 42.577286 </gml:lowerCorner>
+        		<gml:upperCorner>-3.010395 42.577320 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.010429 42.577320  -3.010427 42.577303  -3.010425 42.577286  -3.010395 42.577288  -3.010398 42.577313  -3.010429 42.577320  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.014064 42.579456 </gml:lowerCorner>
+        		<gml:upperCorner>-3.013992 42.579512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.014064 42.579496  -3.014038 42.579456  -3.014015 42.579464  -3.013992 42.579472  -3.014018 42.579512  -3.014064 42.579496  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564550">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.011163 42.580009 </gml:lowerCorner>
+        		<gml:upperCorner>-3.010948 42.580078 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.011163 42.580039  -3.011153 42.580009  -3.010948 42.580044  -3.010961 42.580078  -3.011163 42.580039  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564552">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.010821 42.582876 </gml:lowerCorner>
+        		<gml:upperCorner>-3.010756 42.582927 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.010821 42.582882  -3.010764 42.582876  -3.010760 42.582899  -3.010756 42.582921  -3.010812 42.582927  -3.010821 42.582882  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.010703 42.584329 </gml:lowerCorner>
+        		<gml:upperCorner>-3.010619 42.584394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.010703 42.584349  -3.010676 42.584339  -3.010649 42.584329  -3.010619 42.584375  -3.010672 42.584394  -3.010703 42.584349  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.002513 42.584767 </gml:lowerCorner>
+        		<gml:upperCorner>-3.002439 42.584813 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.002513 42.584769  -3.002441 42.584767  -3.002439 42.584811  -3.002509 42.584813  -3.002511 42.584791  -3.002513 42.584769  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564555">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.988052 42.590751 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987880 42.590850 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.988052 42.590808  -2.987926 42.590751  -2.987880 42.590820  -2.987916 42.590835  -2.987940 42.590844  -2.987956 42.590822  -2.988019 42.590850  -2.988052 42.590808  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.987651 42.590785 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987531 42.590849 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.987651 42.590814  -2.987619 42.590785  -2.987531 42.590788  -2.987543 42.590821  -2.987578 42.590849  -2.987651 42.590814  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564558">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.987942 42.592452 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987876 42.592495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.987876 42.592452  -2.987880 42.592490  -2.987908 42.592493  -2.987936 42.592495  -2.987942 42.592458  -2.987876 42.592452  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.978331 42.597250 </gml:lowerCorner>
+        		<gml:upperCorner>-2.978225 42.597357 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.978331 42.597266  -2.978293 42.597250  -2.978225 42.597342  -2.978264 42.597357  -2.978331 42.597266  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564561">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974248 42.598245 </gml:lowerCorner>
+        		<gml:upperCorner>-2.974188 42.598300 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974227 42.598297  -2.974248 42.598295  -2.974234 42.598245  -2.974188 42.598251  -2.974203 42.598300  -2.974227 42.598297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974012 42.599644 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973901 42.599723 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974012 42.599671  -2.973929 42.599644  -2.973901 42.599697  -2.973984 42.599723  -2.974012 42.599671  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564563">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.981125 42.601476 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981065 42.601515 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.981125 42.601501  -2.981117 42.601488  -2.981109 42.601476  -2.981081 42.601492  -2.981065 42.601498  -2.981075 42.601515  -2.981095 42.601507  -2.981125 42.601501  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564564">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983119 42.609775 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983073 42.609805 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983119 42.609780  -2.983079 42.609775  -2.983076 42.609787  -2.983073 42.609800  -2.983113 42.609805  -2.983119 42.609780  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564566">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.011160 42.579289 </gml:lowerCorner>
+        		<gml:upperCorner>-3.011068 42.579339 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.011156 42.579339  -3.011160 42.579305  -3.011072 42.579289  -3.011070 42.579308  -3.011068 42.579322  -3.011156 42.579339  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.015270 42.579157 </gml:lowerCorner>
+        		<gml:upperCorner>-3.014695 42.579574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.014965 42.579157  -3.014695 42.579323  -3.014769 42.579397  -3.014838 42.579356  -3.015059 42.579574  -3.015118 42.579541  -3.015148 42.579525  -3.015270 42.579459  -3.015072 42.579263  -3.014965 42.579157  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.015344 42.579459 </gml:lowerCorner>
+        		<gml:upperCorner>-3.015118 42.579616 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.015225 42.579599  -3.015344 42.579533  -3.015270 42.579459  -3.015148 42.579525  -3.015118 42.579541  -3.015170 42.579593  -3.015194 42.579616  -3.015225 42.579599  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.987415 42.590872 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987326 42.590906 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.987414 42.590872  -2.987326 42.590873  -2.987328 42.590906  -2.987415 42.590904  -2.987414 42.590872  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Fonzaleche</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Fonzaleche</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4564599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.986864 42.590716 </gml:lowerCorner>
+        		<gml:upperCorner>-2.986812 42.590754 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.986864 42.590719  -2.986812 42.590716  -2.986815 42.590749  -2.986859 42.590754  -2.986864 42.590719  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

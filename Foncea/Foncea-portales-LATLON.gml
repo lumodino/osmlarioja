@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-3.040849 42.613689 </gml:lowerCorner>
-      		<gml:upperCorner>-3.035853 42.617034 </gml:upperCorner>
+      		<gml:upperCorner>-3.035853 42.617000 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -2599,13 +2599,13 @@
       <ms:portales gml:id="portales.4120183">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.040432 42.617034 </gml:lowerCorner>
-        		<gml:upperCorner>-3.040432 42.617034 </gml:upperCorner>
+        		<gml:lowerCorner>-3.040462 42.617000 </gml:lowerCorner>
+        		<gml:upperCorner>-3.040462 42.617000 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-3.040432 42.617034 </gml:pos>
+            <gml:pos>-3.040462 42.617000 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino el Depósito</ms:NOMBRE_COMPLETO_VIAL>
