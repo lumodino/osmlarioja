@@ -542,7 +542,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.561369 42.469480  -2.561370 42.469481  -2.562102 42.470851  </gml:posList>
+            <gml:posList srsDimension="2">-2.561369 42.469480  -2.561370 42.469481  -2.561876 42.470429  -2.562002 42.470656  -2.562102 42.470851  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de la Estación</ms:NOMBRE_COMPLETO_VIAL>

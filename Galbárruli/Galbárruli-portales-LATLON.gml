@@ -2284,13 +2284,13 @@
       <ms:portales gml:id="portales.4120268">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.958515 42.621332 </gml:lowerCorner>
-        		<gml:upperCorner>-2.958515 42.621332 </gml:upperCorner>
+        		<gml:lowerCorner>-2.958508 42.621341 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958508 42.621341 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.958515 42.621332 </gml:pos>
+            <gml:pos>-2.958508 42.621341 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de la Cruz</ms:NOMBRE_COMPLETO_VIAL>

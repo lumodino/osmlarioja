@@ -6400,13 +6400,13 @@
       <ms:portales gml:id="portales.304542">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.567133 42.468896 </gml:lowerCorner>
-        		<gml:upperCorner>-2.567133 42.468896 </gml:upperCorner>
+        		<gml:lowerCorner>-2.567165 42.468899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.567165 42.468899 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.567133 42.468896 </gml:pos>
+            <gml:pos>-2.567165 42.468899 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas San Cristóbal</ms:NOMBRE_COMPLETO_VIAL>

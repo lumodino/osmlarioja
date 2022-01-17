@@ -96,13 +96,13 @@
       <ms:viales gml:id="viales.1529906">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.237523 42.347759 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.237524 42.347759 </gml:lowerCorner>
         		<gml:upperCorner>-2.236918 42.347907 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.237523 42.347904  -2.237258 42.347907  -2.237171 42.347894  -2.236918 42.347759  </gml:posList>
+            <gml:posList srsDimension="2">-2.237524 42.347881  -2.237258 42.347907  -2.237171 42.347894  -2.236918 42.347759  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Eras</ms:NOMBRE_COMPLETO_VIAL>
@@ -117,12 +117,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.238821 42.347121 </gml:lowerCorner>
-        		<gml:upperCorner>-2.237523 42.347911 </gml:upperCorner>
+        		<gml:upperCorner>-2.237524 42.347911 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.238821 42.347121  -2.238534 42.347339  -2.238518 42.347513  -2.238439 42.347616  -2.238150 42.347765  -2.237879 42.347875  -2.237764 42.347903  -2.237621 42.347911  -2.237523 42.347904  </gml:posList>
+            <gml:posList srsDimension="2">-2.238821 42.347121  -2.238572 42.347343  -2.238518 42.347513  -2.238439 42.347616  -2.238150 42.347765  -2.237879 42.347875  -2.237764 42.347903  -2.237621 42.347911  -2.237524 42.347881  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Eras</ms:NOMBRE_COMPLETO_VIAL>
@@ -1702,7 +1702,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.238821 42.347121  -2.238580 42.346956  -2.238282 42.346625  -2.238245 42.346592  -2.238196 42.346594  -2.237424 42.346647  </gml:posList>
+            <gml:posList srsDimension="2">-2.238821 42.347121  -2.238775 42.347114  -2.238580 42.346956  -2.238282 42.346625  -2.238245 42.346592  -2.238196 42.346594  -2.237424 42.346647  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calleja Antón</ms:NOMBRE_COMPLETO_VIAL>
