@@ -8,10 +8,31 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.831328 42.546520 </gml:lowerCorner>
-      		<gml:upperCorner>-2.810790 42.554821 </gml:upperCorner>
+      		<gml:lowerCorner>-2.835565 42.544689 </gml:lowerCorner>
+      		<gml:upperCorner>-2.810059 42.564141 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4000567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.831729 42.547025 </gml:lowerCorner>
+        		<gml:upperCorner>-2.831216 42.547251 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.831729 42.547162  -2.831685 42.547025  -2.831450 42.547070  -2.831216 42.547114  -2.831261 42.547251  -2.831729 42.547162  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
     <gml:featureMember>
       <ms:edificios gml:id="edificios.4004076">
         <gml:boundedBy>
@@ -108,7 +129,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.822703 42.547568  -2.822704 42.547608  -2.822889 42.547603  -2.822883 42.547453  -2.822705 42.547459  -2.822707 42.547568  -2.822703 42.547568  </gml:posList>
+                <gml:posList srsDimension="2">-2.822703 42.547568  -2.822704 42.547608  -2.822796 42.547605  -2.822889 42.547603  -2.822883 42.547453  -2.822705 42.547459  -2.822707 42.547568  -2.822703 42.547568  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -444,7 +465,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.821466 42.548249  -2.821506 42.548316  -2.821678 42.548243  -2.821639 42.548180  -2.821626 42.548159  -2.821527 42.548195  -2.821543 42.548221  -2.821466 42.548249  </gml:posList>
+                <gml:posList srsDimension="2">-2.821466 42.548249  -2.821506 42.548316  -2.821592 42.548279  -2.821678 42.548243  -2.821639 42.548180  -2.821626 42.548159  -2.821527 42.548195  -2.821543 42.548221  -2.821466 42.548249  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -604,15 +625,15 @@
       <ms:edificios gml:id="edificios.4004104">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.822355 42.547692 </gml:lowerCorner>
-        		<gml:upperCorner>-2.822160 42.547833 </gml:upperCorner>
+        		<gml:lowerCorner>-2.822374 42.547692 </gml:lowerCorner>
+        		<gml:upperCorner>-2.822160 42.547855 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.822160 42.547749  -2.822248 42.547833  -2.822331 42.547788  -2.822340 42.547783  -2.822343 42.547781  -2.822346 42.547780  -2.822349 42.547778  -2.822352 42.547777  -2.822355 42.547775  -2.822269 42.547692  -2.822160 42.547749  </gml:posList>
+                <gml:posList srsDimension="2">-2.822329 42.547750  -2.822269 42.547692  -2.822160 42.547749  -2.822199 42.547804  -2.822247 42.547855  -2.822310 42.547824  -2.822374 42.547794  -2.822329 42.547750  -2.822329 42.547750  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -759,7 +780,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.822593 42.547463  -2.822600 42.547570  -2.822703 42.547568  -2.822707 42.547568  -2.822705 42.547459  -2.822593 42.547463  </gml:posList>
+                <gml:posList srsDimension="2">-2.822593 42.547463  -2.822600 42.547570  -2.822651 42.547569  -2.822703 42.547568  -2.822707 42.547568  -2.822705 42.547459  -2.822593 42.547463  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1242,7 +1263,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.820781 42.550137  -2.820753 42.550102  -2.820695 42.550133  -2.820727 42.550161  -2.820781 42.550137  </gml:posList>
+                <gml:posList srsDimension="2">-2.820781 42.550137  -2.820753 42.550102  -2.820695 42.550133  -2.820711 42.550147  -2.820727 42.550161  -2.820781 42.550137  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1263,7 +1284,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.820986 42.549105  -2.820946 42.549035  -2.820875 42.549061  -2.820924 42.549129  -2.820986 42.549105  </gml:posList>
+                <gml:posList srsDimension="2">-2.820986 42.549105  -2.820966 42.549070  -2.820946 42.549035  -2.820875 42.549061  -2.820924 42.549129  -2.820986 42.549105  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1819,27 +1840,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4004162">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.820421 42.550397 </gml:lowerCorner>
-        		<gml:upperCorner>-2.820267 42.550477 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.820421 42.550435  -2.820400 42.550397  -2.820267 42.550438  -2.820289 42.550477  -2.820421 42.550435  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4004163">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1969,15 +1969,15 @@
       <ms:edificios gml:id="edificios.4004169">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.820452 42.550450 </gml:lowerCorner>
-        		<gml:upperCorner>-2.820297 42.550524 </gml:upperCorner>
+        		<gml:lowerCorner>-2.820452 42.550406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.820268 42.550524 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.820297 42.550492  -2.820315 42.550524  -2.820452 42.550483  -2.820432 42.550450  -2.820429 42.550451  -2.820297 42.550492  </gml:posList>
+                <gml:posList srsDimension="2">-2.820268 42.550449  -2.820315 42.550524  -2.820384 42.550503  -2.820452 42.550483  -2.820432 42.550450  -2.820405 42.550406  -2.820268 42.550449  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2137,15 +2137,15 @@
       <ms:edificios gml:id="edificios.4004177">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.821726 42.550831 </gml:lowerCorner>
-        		<gml:upperCorner>-2.821628 42.550916 </gml:upperCorner>
+        		<gml:lowerCorner>-2.821744 42.550831 </gml:lowerCorner>
+        		<gml:upperCorner>-2.821628 42.550927 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.821681 42.550831  -2.821628 42.550874  -2.821661 42.550916  -2.821711 42.550896  -2.821726 42.550880  -2.821681 42.550831  </gml:posList>
+                <gml:posList srsDimension="2">-2.821681 42.550831  -2.821628 42.550874  -2.821674 42.550927  -2.821744 42.550894  -2.821713 42.550862  -2.821681 42.550831  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2355,7 +2355,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.822556 42.547495  -2.822559 42.547446  -2.822488 42.547444  -2.822485 42.547493  -2.822556 42.547495  </gml:posList>
+                <gml:posList srsDimension="2">-2.822556 42.547495  -2.822559 42.547446  -2.822488 42.547444  -2.822485 42.547493  -2.822520 42.547494  -2.822556 42.547495  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2418,7 +2418,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.821708 42.550958  -2.821717 42.550990  -2.821791 42.550982  -2.821771 42.550936  -2.821704 42.550945  -2.821708 42.550958  </gml:posList>
+                <gml:posList srsDimension="2">-2.821708 42.550958  -2.821717 42.550990  -2.821791 42.550982  -2.821781 42.550959  -2.821771 42.550936  -2.821704 42.550945  -2.821708 42.550958  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2557,15 +2557,15 @@
       <ms:edificios gml:id="edificios.4004197">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.829102 42.546520 </gml:lowerCorner>
-        		<gml:upperCorner>-2.828941 42.546720 </gml:upperCorner>
+        		<gml:lowerCorner>-2.829108 42.546521 </gml:lowerCorner>
+        		<gml:upperCorner>-2.828937 42.546742 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.829088 42.546720  -2.829102 42.546523  -2.828950 42.546520  -2.828941 42.546720  -2.829088 42.546720  </gml:posList>
+                <gml:posList srsDimension="2">-2.829108 42.546739  -2.829102 42.546523  -2.829026 42.546521  -2.828937 42.546526  -2.828943 42.546742  -2.829108 42.546739  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2797,27 +2797,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.822027 42.549895  -2.821984 42.549853  -2.821918 42.549905  -2.821922 42.549909  -2.821935 42.549898  -2.821956 42.549881  -2.821991 42.549915  -2.822027 42.549895  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4004209">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.820429 42.550435 </gml:lowerCorner>
-        		<gml:upperCorner>-2.820289 42.550492 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.820421 42.550435  -2.820289 42.550477  -2.820290 42.550479  -2.820297 42.550492  -2.820429 42.550451  -2.820421 42.550435  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3384,7 +3363,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.828382 42.546589  -2.828377 42.546531  -2.827655 42.546542  -2.827663 42.546605  -2.828382 42.546589  </gml:posList>
+                <gml:posList srsDimension="2">-2.828382 42.546589  -2.828377 42.546531  -2.827969 42.546537  -2.827655 42.546542  -2.827663 42.546605  -2.828382 42.546589  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3510,7 +3489,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.823116 42.548733  -2.823107 42.548749  -2.823133 42.548758  -2.823142 42.548742  -2.823116 42.548733  </gml:posList>
+                <gml:posList srsDimension="2">-2.823116 42.548733  -2.823107 42.548749  -2.823120 42.548753  -2.823133 42.548758  -2.823142 42.548742  -2.823116 42.548733  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3952,6 +3931,489 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.826390 42.549760  -2.826387 42.549795  -2.826344 42.549793  -2.826346 42.549755  -2.826222 42.549752  -2.826216 42.549878  -2.826511 42.549886  -2.826512 42.549871  -2.826530 42.549871  -2.826535 42.549799  -2.826517 42.549799  -2.826520 42.549763  -2.826390 42.549760  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565582">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.835431 42.552736 </gml:lowerCorner>
+        		<gml:upperCorner>-2.835352 42.552788 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.835373 42.552787  -2.835431 42.552746  -2.835429 42.552736  -2.835352 42.552744  -2.835358 42.552775  -2.835361 42.552788  -2.835373 42.552787  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565583">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.835565 42.552436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.835448 42.552663 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.835527 42.552663  -2.835565 42.552444  -2.835497 42.552436  -2.835448 42.552653  -2.835527 42.552663  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565584">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.830479 42.546256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.830416 42.546281 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.830416 42.546256  -2.830421 42.546281  -2.830479 42.546274  -2.830416 42.546256  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565585">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.825441 42.546853 </gml:lowerCorner>
+        		<gml:upperCorner>-2.825203 42.547002 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.825441 42.546891  -2.825414 42.546883  -2.825314 42.546853  -2.825306 42.546886  -2.825247 42.546869  -2.825203 42.546950  -2.825349 42.546993  -2.825381 42.547002  -2.825432 42.546907  -2.825441 42.546891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.828009 42.547391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.827909 42.547488 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.828009 42.547472  -2.827975 42.547391  -2.827909 42.547406  -2.827943 42.547488  -2.828009 42.547472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565587">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.822292 42.548430 </gml:lowerCorner>
+        		<gml:upperCorner>-2.822238 42.548469 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.822292 42.548454  -2.822273 42.548430  -2.822238 42.548445  -2.822258 42.548469  -2.822275 42.548462  -2.822292 42.548454  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565588">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.819025 42.548690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.818939 42.548730 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.819025 42.548723  -2.819020 42.548690  -2.818939 42.548697  -2.818944 42.548730  -2.818984 42.548726  -2.819025 42.548723  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565589">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.822828 42.550414 </gml:lowerCorner>
+        		<gml:upperCorner>-2.822766 42.550457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.822828 42.550440  -2.822791 42.550414  -2.822766 42.550432  -2.822805 42.550457  -2.822828 42.550440  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565590">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.818398 42.550682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.818286 42.550728 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.818398 42.550699  -2.818389 42.550682  -2.818286 42.550711  -2.818295 42.550728  -2.818398 42.550699  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565592">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.816757 42.550997 </gml:lowerCorner>
+        		<gml:upperCorner>-2.816643 42.551116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.816719 42.551050  -2.816757 42.551032  -2.816727 42.550997  -2.816643 42.551036  -2.816711 42.551116  -2.816734 42.551105  -2.816757 42.551094  -2.816719 42.551050  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565593">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.819804 42.551148 </gml:lowerCorner>
+        		<gml:upperCorner>-2.819626 42.551268 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.819804 42.551185  -2.819761 42.551148  -2.819704 42.551175  -2.819626 42.551211  -2.819669 42.551256  -2.819680 42.551250  -2.819690 42.551261  -2.819697 42.551268  -2.819718 42.551257  -2.819700 42.551238  -2.819804 42.551185  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565594">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.819652 42.551249 </gml:lowerCorner>
+        		<gml:upperCorner>-2.819595 42.551288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.819652 42.551265  -2.819625 42.551249  -2.819595 42.551269  -2.819617 42.551288  -2.819652 42.551265  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.812633 42.552059 </gml:lowerCorner>
+        		<gml:upperCorner>-2.812547 42.552123 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.812633 42.552102  -2.812603 42.552059  -2.812575 42.552069  -2.812547 42.552079  -2.812577 42.552123  -2.812633 42.552102  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565596">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.835329 42.552384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834604 42.552874 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.834787 42.552571  -2.834604 42.552592  -2.834662 42.552874  -2.835329 42.552798  -2.835319 42.552748  -2.835244 42.552384  -2.834760 42.552439  -2.834787 42.552571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565597">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.810920 42.552484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.810851 42.552534 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.810920 42.552508  -2.810898 42.552484  -2.810851 42.552511  -2.810871 42.552534  -2.810920 42.552508  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.810197 42.552969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.810059 42.553061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.810197 42.553012  -2.810155 42.552969  -2.810059 42.553017  -2.810104 42.553061  -2.810197 42.553012  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.810318 42.553023 </gml:lowerCorner>
+        		<gml:upperCorner>-2.810116 42.553182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.810318 42.553128  -2.810210 42.553023  -2.810116 42.553072  -2.810221 42.553182  -2.810318 42.553128  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.826536 42.554587 </gml:lowerCorner>
+        		<gml:upperCorner>-2.826453 42.554639 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.826536 42.554607  -2.826470 42.554587  -2.826453 42.554619  -2.826519 42.554639  -2.826536 42.554607  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565601">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.814852 42.561838 </gml:lowerCorner>
+        		<gml:upperCorner>-2.814753 42.561903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.814852 42.561887  -2.814834 42.561838  -2.814753 42.561854  -2.814771 42.561903  -2.814852 42.561887  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565602">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.815037 42.564101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.814990 42.564141 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.815037 42.564133  -2.815023 42.564101  -2.814990 42.564109  -2.815004 42.564141  -2.815037 42.564133  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565603">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.819439 42.550587 </gml:lowerCorner>
+        		<gml:upperCorner>-2.819351 42.550620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.819439 42.550617  -2.819439 42.550587  -2.819351 42.550589  -2.819353 42.550620  -2.819439 42.550617  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565604">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.827900 42.544689 </gml:lowerCorner>
+        		<gml:upperCorner>-2.827775 42.544784 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.827900 42.544747  -2.827841 42.544689  -2.827775 42.544726  -2.827832 42.544784  -2.827900 42.544747  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Gimileo</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Gimileo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565840">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.830846 42.546769 </gml:lowerCorner>
+        		<gml:upperCorner>-2.830779 42.546815 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.830846 42.546795  -2.830826 42.546769  -2.830803 42.546778  -2.830779 42.546788  -2.830802 42.546815  -2.830846 42.546795  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

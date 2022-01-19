@@ -422,7 +422,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.002463 42.110173  -2.002370 42.110062  -2.002395 42.109990  </gml:posList>
+            <gml:posList srsDimension="2">-2.002463 42.110173  -2.002370 42.110062  -2.002370 42.110021  -2.002395 42.109990  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio Bodegas</ms:NOMBRE_COMPLETO_VIAL>

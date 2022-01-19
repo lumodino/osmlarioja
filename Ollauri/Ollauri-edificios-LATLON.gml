@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.838143 42.529737 </gml:lowerCorner>
-      		<gml:upperCorner>-2.816567 42.547251 </gml:upperCorner>
+      		<gml:upperCorner>-2.816567 42.546280 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -6618,27 +6618,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.832120 42.545739  -2.832081 42.545748  -2.832087 42.545770  -2.832120 42.545762  -2.832118 42.545754  -2.832126 42.545753  -2.832120 42.545739  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ollauri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ollauri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4000567">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.831729 42.547025 </gml:lowerCorner>
-        		<gml:upperCorner>-2.831216 42.547251 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.831729 42.547162  -2.831685 42.547025  -2.831216 42.547114  -2.831261 42.547251  -2.831729 42.547162  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
