@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.017174 42.414543 </gml:lowerCorner>
+      		<gml:lowerCorner>-3.017174 42.413149 </gml:lowerCorner>
       		<gml:upperCorner>-2.993879 42.433538 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -3637,6 +3637,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.007224 42.423245  -3.007213 42.423234  -3.007199 42.423232  -3.007175 42.423243  -3.007164 42.423248  -3.007182 42.423267  -3.007224 42.423245  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Corporales</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Corporales</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4565937">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.016228 42.413149 </gml:lowerCorner>
+        		<gml:upperCorner>-3.016188 42.413182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.016225 42.413182  -3.016228 42.413150  -3.016188 42.413149  -3.016188 42.413182  -3.016225 42.413182  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
