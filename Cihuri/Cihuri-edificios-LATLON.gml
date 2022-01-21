@@ -10228,27 +10228,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3957877">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.922153 42.564958 </gml:lowerCorner>
-        		<gml:upperCorner>-2.922152 42.564960 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.922152 42.564958  -2.922153 42.564960  -2.922153 42.564959  -2.922152 42.564958  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Cihuri</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Cihuri</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3957878">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

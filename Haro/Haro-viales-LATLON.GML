@@ -5636,13 +5636,13 @@
       <ms:viales gml:id="viales.1530734">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.851971 42.565677 </gml:lowerCorner>
-        		<gml:upperCorner>-2.851932 42.565890 </gml:upperCorner>
+        		<gml:lowerCorner>-2.851971 42.565682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.851896 42.565890 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.851971 42.565890  -2.851932 42.565677  </gml:posList>
+            <gml:posList srsDimension="2">-2.851971 42.565890  -2.851896 42.565682  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Julián Fernández Ollero</ms:NOMBRE_COMPLETO_VIAL>

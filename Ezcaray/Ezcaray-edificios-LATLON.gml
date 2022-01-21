@@ -34225,15 +34225,15 @@
       <ms:edificios gml:id="edificios.4562891">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.039483 42.243578 </gml:lowerCorner>
-        		<gml:upperCorner>-3.039451 42.243623 </gml:upperCorner>
+        		<gml:lowerCorner>-3.039483 42.243574 </gml:lowerCorner>
+        		<gml:upperCorner>-3.039418 42.243624 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.039451 42.243578  -3.039483 42.243586  -3.039455 42.243623  -3.039455 42.243623  -3.039483 42.243586  -3.039451 42.243578  </gml:posList>
+                <gml:posList srsDimension="2">-3.039449 42.243574  -3.039433 42.243592  -3.039418 42.243610  -3.039453 42.243624  -3.039483 42.243586  -3.039449 42.243574  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35914,27 +35914,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.014767 42.312403  -3.014709 42.312346  -3.014672 42.312327  -3.014642 42.312353  -3.014691 42.312389  -3.014740 42.312426  -3.014767 42.312403  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ezcaray</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ezcaray</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4562995">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014499 42.312500 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014495 42.312501 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.014495 42.312501  -3.014499 42.312501  -3.014495 42.312500  -3.014495 42.312501  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -38632,27 +38611,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4563161">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.014668 42.312429 </gml:lowerCorner>
-        		<gml:upperCorner>-3.014458 42.312601 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.014660 42.312501  -3.014668 42.312486  -3.014584 42.312462  -3.014594 42.312443  -3.014546 42.312429  -3.014508 42.312501  -3.014507 42.312503  -3.014499 42.312501  -3.014495 42.312501  -3.014458 42.312571  -3.014477 42.312585  -3.014534 42.312601  -3.014560 42.312552  -3.014535 42.312544  -3.014551 42.312514  -3.014640 42.312539  -3.014660 42.312501  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ezcaray</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ezcaray</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4563162">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -38938,6 +38896,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.010148 42.325581  -3.010093 42.325577  -3.010066 42.325635  -3.010115 42.325643  -3.010148 42.325581  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ezcaray</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ezcaray</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4566937">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.014668 42.312429 </gml:lowerCorner>
+        		<gml:upperCorner>-3.014458 42.312601 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.014499 42.312501  -3.014495 42.312500  -3.014495 42.312501  -3.014458 42.312571  -3.014477 42.312585  -3.014534 42.312601  -3.014560 42.312552  -3.014535 42.312544  -3.014551 42.312514  -3.014640 42.312539  -3.014660 42.312501  -3.014668 42.312486  -3.014584 42.312462  -3.014594 42.312443  -3.014546 42.312429  -3.014508 42.312501  -3.014507 42.312503  -3.014499 42.312501  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

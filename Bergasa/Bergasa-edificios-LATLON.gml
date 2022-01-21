@@ -748,27 +748,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3955021">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.130615 42.252299 </gml:lowerCorner>
-        		<gml:upperCorner>-2.130196 42.252562 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.130276 42.252562  -2.130306 42.252547  -2.130321 42.252552  -2.130333 42.252559  -2.130391 42.252531  -2.130402 42.252544  -2.130413 42.252535  -2.130536 42.252475  -2.130527 42.252465  -2.130508 42.252459  -2.130518 42.252455  -2.130566 42.252432  -2.130582 42.252425  -2.130600 42.252416  -2.130615 42.252409  -2.130587 42.252375  -2.130583 42.252377  -2.130516 42.252319  -2.130498 42.252299  -2.130434 42.252331  -2.130241 42.252428  -2.130253 42.252429  -2.130245 42.252433  -2.130200 42.252456  -2.130196 42.252460  -2.130197 42.252465  -2.130227 42.252501  -2.130276 42.252562  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Bergasa</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Bergasa</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3955022">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13002,27 +12981,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3955610">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.130197 42.252460 </gml:lowerCorner>
-        		<gml:upperCorner>-2.130196 42.252465 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.130196 42.252460  -2.130196 42.252461  -2.130196 42.252462  -2.130196 42.252462  -2.130196 42.252463  -2.130196 42.252464  -2.130196 42.252464  -2.130197 42.252465  -2.130196 42.252460  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Bergasa</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Bergasa</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3955611">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13875,6 +13833,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.129459 42.254815  -2.129386 42.254797  -2.129347 42.254875  -2.129419 42.254892  -2.129459 42.254815  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Bergasa</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Bergasa</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4566936">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.130615 42.252299 </gml:lowerCorner>
+        		<gml:upperCorner>-2.130196 42.252562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.130197 42.252465  -2.130227 42.252501  -2.130276 42.252562  -2.130306 42.252547  -2.130321 42.252552  -2.130333 42.252559  -2.130391 42.252531  -2.130402 42.252544  -2.130413 42.252535  -2.130536 42.252475  -2.130527 42.252465  -2.130508 42.252459  -2.130518 42.252455  -2.130566 42.252432  -2.130582 42.252425  -2.130600 42.252416  -2.130615 42.252409  -2.130587 42.252375  -2.130583 42.252377  -2.130516 42.252319  -2.130498 42.252299  -2.130434 42.252331  -2.130241 42.252428  -2.130253 42.252429  -2.130245 42.252433  -2.130200 42.252456  -2.130196 42.252460  -2.130196 42.252461  -2.130196 42.252462  -2.130196 42.252462  -2.130196 42.252463  -2.130196 42.252464  -2.130196 42.252464  -2.130197 42.252465  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
