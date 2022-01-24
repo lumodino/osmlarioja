@@ -6202,7 +6202,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Haro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>23</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26214</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Cuzcurrita de Río Tirón</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Cuzcurrita de Río Tirón</ms:NOMBRE_MUNICIPIO>
       </ms:portales>

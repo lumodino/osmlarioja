@@ -1036,7 +1036,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26213</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Ochánduri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ochánduri</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -1792,7 +1792,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>52</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26213</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Ochánduri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ochánduri</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -3976,7 +3976,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26213</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Ochánduri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ochánduri</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
@@ -6202,7 +6202,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Viñas</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26200</ms:CODIGO_POSTAL>
+        <ms:CODIGO_POSTAL>26213</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Ochánduri</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Ochánduri</ms:NOMBRE_MUNICIPIO>
       </ms:portales>
