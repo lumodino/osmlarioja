@@ -6190,13 +6190,13 @@
       <ms:portales gml:id="portales.319161">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732655 42.454225 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732655 42.454225 </gml:upperCorner>
+        		<gml:lowerCorner>-2.732705 42.454207 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732705 42.454207 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.732655 42.454225 </gml:pos>
+            <gml:pos>-2.732705 42.454207 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle de la Media Legua</ms:NOMBRE_COMPLETO_VIAL>

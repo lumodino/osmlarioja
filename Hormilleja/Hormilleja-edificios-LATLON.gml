@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.733532 42.452469 </gml:lowerCorner>
-      		<gml:upperCorner>-2.727914 42.457585 </gml:upperCorner>
+      		<gml:lowerCorner>-2.748821 42.448315 </gml:lowerCorner>
+      		<gml:upperCorner>-2.722555 42.473016 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -109,90 +109,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.731340 42.456667  -2.731303 42.456689  -2.731343 42.456726  -2.731487 42.456641  -2.731447 42.456605  -2.731340 42.456668  -2.731340 42.456667  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698007">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732739 42.453784 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732666 42.453835 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732718 42.453784  -2.732666 42.453817  -2.732686 42.453835  -2.732739 42.453803  -2.732718 42.453784  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698008">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732718 42.453676 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732544 42.453817 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732596 42.453676  -2.732544 42.453708  -2.732666 42.453817  -2.732718 42.453784  -2.732596 42.453676  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698009">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732666 42.453708 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732537 42.453821 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732544 42.453708  -2.732537 42.453712  -2.732658 42.453821  -2.732666 42.453817  -2.732544 42.453708  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698010">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732596 42.453655 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732521 42.453708 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732573 42.453655  -2.732521 42.453687  -2.732544 42.453708  -2.732596 42.453676  -2.732573 42.453655  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -403,111 +319,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.732772 42.455500  -2.732678 42.455530  -2.732717 42.455598  -2.732805 42.455569  -2.732772 42.455500  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698021">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732583 42.455440 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732554 42.455490 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732565 42.455440  -2.732554 42.455442  -2.732575 42.455490  -2.732583 42.455488  -2.732569 42.455455  -2.732572 42.455455  -2.732565 42.455440  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698022">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732578 42.455490 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732510 42.455512 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732575 42.455490  -2.732539 42.455498  -2.732536 42.455491  -2.732510 42.455497  -2.732516 42.455512  -2.732578 42.455497  -2.732575 42.455490  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698023">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732575 42.455393 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732468 42.455498 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732554 42.455442  -2.732537 42.455402  -2.732506 42.455410  -2.732504 42.455405  -2.732499 42.455393  -2.732468 42.455400  -2.732497 42.455467  -2.732510 42.455497  -2.732536 42.455491  -2.732539 42.455498  -2.732575 42.455490  -2.732554 42.455442  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698024">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732565 42.455396 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732534 42.455442 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732534 42.455398  -2.732537 42.455402  -2.732554 42.455442  -2.732565 42.455440  -2.732562 42.455434  -2.732559 42.455434  -2.732542 42.455396  -2.732534 42.455398  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698025">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732537 42.455398 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732504 42.455410 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732534 42.455398  -2.732504 42.455405  -2.732506 42.455410  -2.732537 42.455402  -2.732534 42.455398  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3859,15 +3670,15 @@
       <ms:edificios gml:id="edificios.1698185">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732894 42.454208 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732634 42.454433 </gml:upperCorner>
+        		<gml:lowerCorner>-2.732944 42.454191 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732684 42.454415 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732815 42.454208  -2.732795 42.454229  -2.732784 42.454222  -2.732765 42.454212  -2.732634 42.454351  -2.732654 42.454363  -2.732669 42.454373  -2.732647 42.454395  -2.732714 42.454433  -2.732742 42.454407  -2.732725 42.454400  -2.732859 42.454263  -2.732873 42.454269  -2.732894 42.454249  -2.732815 42.454208  </gml:posList>
+                <gml:posList srsDimension="2">-2.732865 42.454191  -2.732845 42.454211  -2.732835 42.454204  -2.732815 42.454194  -2.732684 42.454334  -2.732704 42.454345  -2.732720 42.454355  -2.732697 42.454378  -2.732764 42.454415  -2.732792 42.454389  -2.732776 42.454382  -2.732909 42.454246  -2.732923 42.454251  -2.732944 42.454232  -2.732865 42.454191  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3880,15 +3691,15 @@
       <ms:edificios gml:id="edificios.1698186">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732815 42.454201 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732784 42.454229 </gml:upperCorner>
+        		<gml:lowerCorner>-2.732865 42.454184 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732835 42.454211 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732815 42.454208  -2.732802 42.454201  -2.732784 42.454222  -2.732795 42.454229  -2.732815 42.454208  </gml:posList>
+                <gml:posList srsDimension="2">-2.732865 42.454191  -2.732852 42.454184  -2.732835 42.454204  -2.732845 42.454211  -2.732865 42.454191  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3901,15 +3712,15 @@
       <ms:edificios gml:id="edificios.1698187">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732669 42.454363 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732631 42.454395 </gml:upperCorner>
+        		<gml:lowerCorner>-2.732720 42.454345 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732681 42.454378 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732654 42.454363  -2.732631 42.454386  -2.732647 42.454395  -2.732669 42.454373  -2.732654 42.454363  </gml:posList>
+                <gml:posList srsDimension="2">-2.732704 42.454345  -2.732681 42.454369  -2.732697 42.454378  -2.732720 42.454355  -2.732704 42.454345  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4015,69 +3826,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.730344 42.456016  -2.730285 42.455989  -2.730269 42.456022  -2.730270 42.456022  -2.730317 42.456039  -2.730319 42.456040  -2.730344 42.456016  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698193">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728251 42.455350 </gml:lowerCorner>
-        		<gml:upperCorner>-2.728194 42.455371 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728251 42.455362  -2.728248 42.455350  -2.728194 42.455358  -2.728197 42.455371  -2.728251 42.455362  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698194">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728316 42.455355 </gml:lowerCorner>
-        		<gml:upperCorner>-2.728197 42.455431 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728301 42.455355  -2.728251 42.455362  -2.728197 42.455371  -2.728213 42.455431  -2.728316 42.455415  -2.728301 42.455355  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698195">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728301 42.455342 </gml:lowerCorner>
-        		<gml:upperCorner>-2.728248 42.455362 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728301 42.455355  -2.728301 42.455354  -2.728298 42.455342  -2.728248 42.455350  -2.728251 42.455362  -2.728301 42.455355  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4510,7 +4258,7 @@
       <ms:edificios gml:id="edificios.1698216">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.733211 42.454128 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.733211 42.454078 </gml:lowerCorner>
         		<gml:upperCorner>-2.733058 42.454224 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -4518,7 +4266,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.733141 42.454224  -2.733211 42.454163  -2.733183 42.454144  -2.733162 42.454128  -2.733130 42.454156  -2.733099 42.454134  -2.733058 42.454169  -2.733129 42.454216  -2.733141 42.454224  </gml:posList>
+                <gml:posList srsDimension="2">-2.733141 42.454224  -2.733211 42.454163  -2.733178 42.454140  -2.733201 42.454121  -2.733134 42.454078  -2.733070 42.454132  -2.733087 42.454145  -2.733058 42.454169  -2.733129 42.454216  -2.733141 42.454224  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4804,15 +4552,15 @@
       <ms:edificios gml:id="edificios.1698230">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728748 42.455686 </gml:lowerCorner>
-        		<gml:upperCorner>-2.728677 42.455750 </gml:upperCorner>
+        		<gml:lowerCorner>-2.728848 42.455653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728748 42.455723 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728748 42.455697  -2.728726 42.455686  -2.728677 42.455739  -2.728700 42.455750  -2.728748 42.455697  </gml:posList>
+                <gml:posList srsDimension="2">-2.728848 42.455681  -2.728789 42.455653  -2.728748 42.455697  -2.728801 42.455723  -2.728848 42.455681  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5116,27 +4864,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698245">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731248 42.453911 </gml:lowerCorner>
-        		<gml:upperCorner>-2.731099 42.454019 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.731203 42.453911  -2.731099 42.453984  -2.731140 42.454019  -2.731248 42.453949  -2.731203 42.453911  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.1698246">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5224,15 +4951,15 @@
       <ms:edificios gml:id="edificios.1698250">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.732562 42.452734 </gml:lowerCorner>
-        		<gml:upperCorner>-2.732416 42.452876 </gml:upperCorner>
+        		<gml:lowerCorner>-2.732562 42.452665 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732282 42.452876 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.732455 42.452734  -2.732416 42.452760  -2.732491 42.452823  -2.732450 42.452850  -2.732479 42.452876  -2.732562 42.452825  -2.732455 42.452734  </gml:posList>
+                <gml:posList srsDimension="2">-2.732455 42.452734  -2.732383 42.452665  -2.732333 42.452699  -2.732308 42.452681  -2.732282 42.452692  -2.732479 42.452876  -2.732562 42.452825  -2.732455 42.452734  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5791,15 +5518,15 @@
       <ms:edificios gml:id="edificios.1698277">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.733250 42.455374 </gml:lowerCorner>
-        		<gml:upperCorner>-2.733079 42.455477 </gml:upperCorner>
+        		<gml:lowerCorner>-2.733297 42.455367 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733057 42.455520 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.733249 42.455435  -2.733215 42.455374  -2.733079 42.455415  -2.733114 42.455477  -2.733250 42.455436  -2.733249 42.455435  </gml:posList>
+                <gml:posList srsDimension="2">-2.733297 42.455465  -2.733247 42.455367  -2.733057 42.455423  -2.733115 42.455520  -2.733297 42.455465  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6430,48 +6157,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.733011 42.455816  -2.732992 42.455747  -2.732929 42.455756  -2.732949 42.455826  -2.733011 42.455816  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698308">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731300 42.453949 </gml:lowerCorner>
-        		<gml:upperCorner>-2.731140 42.454050 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.731300 42.453993  -2.731248 42.453949  -2.731140 42.454019  -2.731173 42.454047  -2.731192 42.454034  -2.731211 42.454050  -2.731300 42.453993  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698309">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731211 42.454034 </gml:lowerCorner>
-        		<gml:upperCorner>-2.731173 42.454063 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.731211 42.454050  -2.731192 42.454034  -2.731173 42.454047  -2.731192 42.454063  -2.731211 42.454050  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8227,15 +7912,15 @@
       <ms:edificios gml:id="edificios.1698393">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.731897 42.452969 </gml:lowerCorner>
-        		<gml:upperCorner>-2.731837 42.453012 </gml:upperCorner>
+        		<gml:lowerCorner>-2.731918 42.452936 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731787 42.453030 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.731897 42.452985  -2.731876 42.452969  -2.731837 42.452995  -2.731857 42.453012  -2.731897 42.452985  </gml:posList>
+                <gml:posList srsDimension="2">-2.731918 42.452990  -2.731850 42.452936  -2.731787 42.452974  -2.731854 42.453030  -2.731918 42.452990  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10723,18 +10408,690 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698512">
+      <ms:edificios gml:id="edificios.4568728">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728134 42.454609 </gml:lowerCorner>
-        		<gml:upperCorner>-2.727915 42.454738 </gml:upperCorner>
+        		<gml:lowerCorner>-2.731709 42.453393 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731240 42.453765 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728131 42.454654  -2.728110 42.454609  -2.727915 42.454683  -2.727936 42.454738  -2.728018 42.454707  -2.728134 42.454663  -2.728131 42.454654  </gml:posList>
+                <gml:posList srsDimension="2">-2.731709 42.453553  -2.731517 42.453393  -2.731240 42.453577  -2.731354 42.453662  -2.731297 42.453695  -2.731393 42.453765  -2.731709 42.453553  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568730">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728494 42.453613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728400 42.453683 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728457 42.453613  -2.728400 42.453652  -2.728434 42.453683  -2.728494 42.453642  -2.728457 42.453613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568731">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728457 42.453588 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728369 42.453652 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728457 42.453613  -2.728426 42.453588  -2.728397 42.453606  -2.728369 42.453623  -2.728400 42.453652  -2.728457 42.453613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568732">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733834 42.451925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733762 42.451973 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733834 42.451949  -2.733808 42.451925  -2.733790 42.451936  -2.733781 42.451928  -2.733762 42.451939  -2.733771 42.451947  -2.733768 42.451949  -2.733794 42.451973  -2.733834 42.451949  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568733">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734257 42.452429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734081 42.452558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734243 42.452506  -2.734137 42.452429  -2.734081 42.452471  -2.734180 42.452543  -2.734202 42.452558  -2.734257 42.452517  -2.734243 42.452506  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568734">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734617 42.452264 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734418 42.452416 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734486 42.452416  -2.734617 42.452323  -2.734542 42.452264  -2.734441 42.452336  -2.734449 42.452342  -2.734418 42.452364  -2.734486 42.452416  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568735">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734135 42.451594 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734084 42.451632 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734135 42.451617  -2.734107 42.451594  -2.734084 42.451609  -2.734113 42.451632  -2.734135 42.451617  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568736">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734070 42.451497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733940 42.451589 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734070 42.451543  -2.734013 42.451497  -2.733940 42.451538  -2.734001 42.451589  -2.734070 42.451543  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568737">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733889 42.451690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733500 42.451874 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733500 42.451716  -2.733664 42.451868  -2.733708 42.451841  -2.733745 42.451874  -2.733889 42.451786  -2.733810 42.451723  -2.733672 42.451808  -2.733648 42.451786  -2.733690 42.451760  -2.733656 42.451729  -2.733634 42.451742  -2.733581 42.451690  -2.733500 42.451716  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568738">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733797 42.451520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733571 42.451634 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733653 42.451634  -2.733704 42.451608  -2.733699 42.451602  -2.733797 42.451560  -2.733780 42.451520  -2.733715 42.451546  -2.733662 42.451552  -2.733571 42.451566  -2.733653 42.451634  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568742">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734584 42.452454 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734400 42.452568 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734584 42.452518  -2.734537 42.452480  -2.734500 42.452505  -2.734431 42.452454  -2.734400 42.452477  -2.734514 42.452568  -2.734584 42.452518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568743">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734106 42.459490 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733821 42.459779 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733910 42.459490  -2.733821 42.459588  -2.733982 42.459779  -2.734106 42.459722  -2.733910 42.459490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568744">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.731451 42.452366 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731282 42.452491 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.731451 42.452434  -2.731386 42.452366  -2.731282 42.452430  -2.731349 42.452491  -2.731451 42.452434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568749">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738370 42.449925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737977 42.450083 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738370 42.449925  -2.737982 42.449936  -2.737977 42.449935  -2.737987 42.450083  -2.738369 42.450076  -2.738370 42.449925  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568750">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.736504 42.450181 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736118 42.450468 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.736374 42.450181  -2.736118 42.450373  -2.736249 42.450468  -2.736504 42.450275  -2.736374 42.450181  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568752">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734349 42.459477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734137 42.459666 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734137 42.459519  -2.734255 42.459666  -2.734349 42.459624  -2.734231 42.459477  -2.734137 42.459519  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568753">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734255 42.459519 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734032 42.459712 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734255 42.459666  -2.734137 42.459519  -2.734032 42.459565  -2.734151 42.459712  -2.734255 42.459666  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568754">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733281 42.458871 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732912 42.459115 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732912 42.458991  -2.732952 42.459042  -2.733008 42.459115  -2.733281 42.458993  -2.733182 42.458871  -2.732912 42.458991  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568755">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732952 42.458991 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732852 42.459068 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732952 42.459042  -2.732912 42.458991  -2.732852 42.459018  -2.732893 42.459068  -2.732952 42.459042  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568756">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732745 42.459451 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732602 42.459615 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732724 42.459615  -2.732745 42.459530  -2.732743 42.459503  -2.732641 42.459451  -2.732602 42.459591  -2.732724 42.459615  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568757">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.741957 42.448315 </gml:lowerCorner>
+        		<gml:upperCorner>-2.741902 42.448344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.741957 42.448342  -2.741956 42.448315  -2.741902 42.448316  -2.741903 42.448344  -2.741957 42.448342  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568759">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734658 42.456202 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734573 42.456246 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734658 42.456236  -2.734649 42.456202  -2.734573 42.456212  -2.734582 42.456246  -2.734658 42.456236  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568760">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734584 42.456289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734524 42.456329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734584 42.456320  -2.734576 42.456289  -2.734524 42.456295  -2.734533 42.456329  -2.734584 42.456320  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568761">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732804 42.456991 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732732 42.457041 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732777 42.457041  -2.732804 42.457010  -2.732766 42.456991  -2.732757 42.457001  -2.732745 42.456994  -2.732738 42.457002  -2.732732 42.457009  -2.732745 42.457016  -2.732739 42.457023  -2.732777 42.457041  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568763">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732754 42.457046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732647 42.457113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732700 42.457054  -2.732694 42.457063  -2.732660 42.457046  -2.732647 42.457065  -2.732684 42.457081  -2.732676 42.457091  -2.732703 42.457103  -2.732724 42.457113  -2.732754 42.457078  -2.732700 42.457054  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568765">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725734 42.462153 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725653 42.462234 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725665 42.462153  -2.725653 42.462227  -2.725720 42.462234  -2.725734 42.462159  -2.725665 42.462153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568766">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.748821 42.462507 </gml:lowerCorner>
+        		<gml:upperCorner>-2.748779 42.462548 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.748821 42.462509  -2.748783 42.462507  -2.748779 42.462546  -2.748817 42.462548  -2.748821 42.462509  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568767">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735864 42.462920 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735814 42.462966 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735864 42.462956  -2.735843 42.462920  -2.735814 42.462928  -2.735835 42.462966  -2.735864 42.462956  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568768">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.739995 42.466280 </gml:lowerCorner>
+        		<gml:upperCorner>-2.739945 42.466322 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.739995 42.466315  -2.739982 42.466280  -2.739945 42.466287  -2.739958 42.466322  -2.739995 42.466315  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568770">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722687 42.469622 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722583 42.469676 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722586 42.469622  -2.722583 42.469673  -2.722683 42.469676  -2.722687 42.469634  -2.722657 42.469632  -2.722655 42.469624  -2.722586 42.469622  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568771">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723130 42.469656 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723023 42.469718 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723035 42.469656  -2.723023 42.469714  -2.723117 42.469718  -2.723130 42.469659  -2.723035 42.469656  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568772">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722582 42.469695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722555 42.469714 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722582 42.469714  -2.722580 42.469695  -2.722555 42.469696  -2.722556 42.469714  -2.722582 42.469714  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568773">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735976 42.454518 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735728 42.454728 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735916 42.454518  -2.735728 42.454694  -2.735788 42.454728  -2.735976 42.454547  -2.735916 42.454518  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10744,18 +11101,18 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698513">
+      <ms:edificios gml:id="edificios.4568774">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728131 42.454606 </gml:lowerCorner>
-        		<gml:upperCorner>-2.728110 42.454654 </gml:upperCorner>
+        		<gml:lowerCorner>-2.735822 42.454436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735692 42.454541 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728131 42.454654  -2.728126 42.454636  -2.728117 42.454606  -2.728110 42.454609  -2.728131 42.454654  </gml:posList>
+                <gml:posList srsDimension="2">-2.735779 42.454436  -2.735692 42.454518  -2.735733 42.454541  -2.735822 42.454457  -2.735779 42.454436  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10765,18 +11122,39 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698514">
+      <ms:edificios gml:id="edificios.4568775">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.728033 42.454707 </gml:lowerCorner>
-        		<gml:upperCorner>-2.727930 42.454763 </gml:upperCorner>
+        		<gml:lowerCorner>-2.726252 42.472956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.726171 42.473016 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.728018 42.454707  -2.727936 42.454738  -2.727930 42.454740  -2.727937 42.454763  -2.728033 42.454731  -2.728018 42.454707  </gml:posList>
+                <gml:posList srsDimension="2">-2.726171 42.472974  -2.726179 42.472995  -2.726187 42.473016  -2.726252 42.473000  -2.726236 42.472956  -2.726171 42.472974  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568776">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729150 42.457182 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728876 42.457516 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729081 42.457363  -2.729090 42.457307  -2.729113 42.457308  -2.729119 42.457251  -2.729144 42.457251  -2.729150 42.457193  -2.729027 42.457182  -2.729014 42.457242  -2.728992 42.457240  -2.728986 42.457294  -2.728964 42.457292  -2.728958 42.457347  -2.728934 42.457345  -2.728926 42.457394  -2.728908 42.457394  -2.728899 42.457449  -2.728880 42.457450  -2.728876 42.457508  -2.728994 42.457516  -2.728998 42.457466  -2.729023 42.457469  -2.729027 42.457412  -2.729053 42.457415  -2.729060 42.457361  -2.729081 42.457363  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10786,18 +11164,249 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1698515">
+      <ms:edificios gml:id="edificios.4568777">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.727936 42.454683 </gml:lowerCorner>
-        		<gml:upperCorner>-2.727914 42.454740 </gml:upperCorner>
+        		<gml:lowerCorner>-2.726774 42.456789 </gml:lowerCorner>
+        		<gml:upperCorner>-2.726684 42.456847 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.727915 42.454683  -2.727914 42.454683  -2.727915 42.454690  -2.727930 42.454740  -2.727936 42.454738  -2.727915 42.454683  </gml:posList>
+                <gml:posList srsDimension="2">-2.726753 42.456847  -2.726774 42.456813  -2.726702 42.456789  -2.726684 42.456825  -2.726753 42.456847  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568778">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733372 42.453896 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733146 42.454051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733304 42.454051  -2.733372 42.453988  -2.733271 42.453928  -2.733215 42.453896  -2.733146 42.453965  -2.733217 42.454004  -2.733304 42.454051  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568779">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732715 42.454413 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732445 42.454629 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732715 42.454515  -2.732510 42.454413  -2.732445 42.454486  -2.732574 42.454547  -2.732534 42.454594  -2.732609 42.454629  -2.732715 42.454515  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568814">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728154 42.454607 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727934 42.454765 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728151 42.454655  -2.728146 42.454637  -2.728137 42.454607  -2.728131 42.454610  -2.727935 42.454684  -2.727934 42.454685  -2.727936 42.454691  -2.727951 42.454742  -2.727957 42.454765  -2.728053 42.454732  -2.728039 42.454708  -2.728154 42.454664  -2.728151 42.454655  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568815">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728330 42.455345 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728208 42.455434 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728311 42.455345  -2.728261 42.455353  -2.728208 42.455361  -2.728211 42.455374  -2.728227 42.455434  -2.728330 42.455418  -2.728314 42.455358  -2.728314 42.455357  -2.728311 42.455345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568816">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728721 42.455773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728538 42.455894 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728721 42.455841  -2.728588 42.455773  -2.728538 42.455828  -2.728673 42.455894  -2.728721 42.455841  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568817">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728665 42.455843 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728523 42.456029 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728665 42.455905  -2.728523 42.455843  -2.728540 42.456029  -2.728563 42.456019  -2.728617 42.455958  -2.728665 42.455905  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568818">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738580 42.448690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738130 42.448879 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738133 42.448769  -2.738143 42.448867  -2.738258 42.448860  -2.738260 42.448879  -2.738545 42.448863  -2.738541 42.448825  -2.738580 42.448822  -2.738577 42.448765  -2.738535 42.448766  -2.738533 42.448747  -2.738529 42.448690  -2.738241 42.448702  -2.738130 42.448705  -2.738133 42.448769  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568819">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734222 42.451644 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734057 42.451751 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734222 42.451679  -2.734178 42.451644  -2.734057 42.451713  -2.734099 42.451751  -2.734222 42.451679  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Hormilleja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568820">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.731300 42.453911 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731099 42.454063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.731173 42.454047  -2.731192 42.454063  -2.731211 42.454050  -2.731300 42.453993  -2.731248 42.453949  -2.731203 42.453911  -2.731099 42.453984  -2.731140 42.454019  -2.731173 42.454047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568821">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732583 42.455393 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732468 42.455512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732575 42.455490  -2.732583 42.455488  -2.732569 42.455455  -2.732572 42.455455  -2.732565 42.455440  -2.732562 42.455434  -2.732559 42.455434  -2.732542 42.455396  -2.732534 42.455398  -2.732504 42.455405  -2.732499 42.455393  -2.732468 42.455400  -2.732497 42.455467  -2.732510 42.455497  -2.732516 42.455512  -2.732578 42.455497  -2.732575 42.455490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Hormilleja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4568822">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732866 42.453749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732648 42.453929 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732671 42.453802  -2.732664 42.453807  -2.732786 42.453915  -2.732793 42.453911  -2.732814 42.453929  -2.732866 42.453897  -2.732845 42.453879  -2.732724 42.453770  -2.732700 42.453749  -2.732648 42.453781  -2.732671 42.453802  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

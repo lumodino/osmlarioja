@@ -1969,13 +1969,13 @@
       <ms:portales gml:id="portales.316933">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.770658 42.438986 </gml:lowerCorner>
-        		<gml:upperCorner>-2.770658 42.438986 </gml:upperCorner>
+        		<gml:lowerCorner>-2.770888 42.438947 </gml:lowerCorner>
+        		<gml:upperCorner>-2.770888 42.438947 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.770658 42.438986 </gml:pos>
+            <gml:pos>-2.770888 42.438947 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Autonomía de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
