@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.370424 42.310997 </gml:lowerCorner>
-      		<gml:upperCorner>-2.289830 42.359503 </gml:upperCorner>
+      		<gml:lowerCorner>-2.399811 42.289940 </gml:lowerCorner>
+      		<gml:upperCorner>-2.289466 42.373595 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -4738,27 +4738,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4091918">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.314901 42.340525 </gml:lowerCorner>
-        		<gml:upperCorner>-2.314789 42.340608 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.314836 42.340525  -2.314789 42.340559  -2.314853 42.340608  -2.314901 42.340574  -2.314836 42.340525  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4091919">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5497,15 +5476,15 @@
       <ms:edificios gml:id="edificios.4091954">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.305379 42.344506 </gml:lowerCorner>
-        		<gml:upperCorner>-2.305293 42.344567 </gml:upperCorner>
+        		<gml:lowerCorner>-2.305399 42.344505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.305312 42.344566 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305379 42.344524  -2.305315 42.344506  -2.305309 42.344519  -2.305293 42.344549  -2.305341 42.344562  -2.305357 42.344567  -2.305359 42.344563  -2.305379 42.344524  </gml:posList>
+                <gml:posList srsDimension="2">-2.305399 42.344523  -2.305334 42.344505  -2.305328 42.344518  -2.305324 42.344526  -2.305312 42.344548  -2.305360 42.344561  -2.305377 42.344566  -2.305379 42.344562  -2.305399 42.344523  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5518,15 +5497,15 @@
       <ms:edificios gml:id="edificios.4091955">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.305401 42.344463 </gml:lowerCorner>
-        		<gml:upperCorner>-2.305315 42.344524 </gml:upperCorner>
+        		<gml:lowerCorner>-2.305421 42.344462 </gml:lowerCorner>
+        		<gml:upperCorner>-2.305334 42.344523 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305401 42.344481  -2.305375 42.344473  -2.305337 42.344463  -2.305332 42.344474  -2.305315 42.344506  -2.305379 42.344524  -2.305401 42.344481  </gml:posList>
+                <gml:posList srsDimension="2">-2.305421 42.344480  -2.305394 42.344473  -2.305356 42.344462  -2.305351 42.344473  -2.305346 42.344483  -2.305334 42.344505  -2.305399 42.344523  -2.305421 42.344480  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7647,7 +7626,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.315673 42.340267  -2.315711 42.340279  -2.315741 42.340225  -2.315702 42.340213  -2.315673 42.340267  </gml:posList>
+                <gml:posList srsDimension="2">-2.315673 42.340267  -2.315711 42.340279  -2.315741 42.340225  -2.315702 42.340213  -2.315688 42.340240  -2.315673 42.340267  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8152,48 +8131,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.304367 42.347026  -2.304364 42.347091  -2.304595 42.347098  -2.304606 42.347098  -2.304611 42.347018  -2.304611 42.347008  -2.304369 42.347001  -2.304367 42.347026  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092081">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.306602 42.347482 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306494 42.347585 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306494 42.347501  -2.306541 42.347585  -2.306602 42.347566  -2.306555 42.347482  -2.306494 42.347501  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092082">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.306541 42.347501 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306426 42.347612 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306494 42.347501  -2.306426 42.347521  -2.306454 42.347572  -2.306435 42.347577  -2.306454 42.347612  -2.306541 42.347585  -2.306494 42.347501  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9127,27 +9064,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092127">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.314914 42.340516 </gml:lowerCorner>
-        		<gml:upperCorner>-2.314836 42.340574 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.314914 42.340565  -2.314849 42.340516  -2.314836 42.340525  -2.314901 42.340574  -2.314914 42.340565  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4092128">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -9463,60 +9379,18 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092143">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303962 42.352000 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303927 42.352030 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303937 42.352000  -2.303927 42.352005  -2.303952 42.352030  -2.303962 42.352025  -2.303937 42.352000  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092144">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303952 42.351955 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303771 42.352091 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303937 42.352000  -2.303893 42.351955  -2.303771 42.352022  -2.303839 42.352091  -2.303952 42.352030  -2.303927 42.352005  -2.303937 42.352000  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4092145">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303838 42.352211 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303549 42.352507 </gml:upperCorner>
+        		<gml:lowerCorner>-2.303865 42.352178 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303576 42.352473 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303838 42.352257  -2.303684 42.352211  -2.303643 42.352287  -2.303549 42.352462  -2.303679 42.352501  -2.303701 42.352507  -2.303716 42.352488  -2.303838 42.352257  </gml:posList>
+                <gml:posList srsDimension="2">-2.303865 42.352223  -2.303712 42.352178  -2.303691 42.352215  -2.303671 42.352253  -2.303576 42.352429  -2.303707 42.352467  -2.303728 42.352473  -2.303744 42.352455  -2.303865 42.352223  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9558,7 +9432,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303685 42.352773  -2.303544 42.352946  -2.303711 42.353021  -2.303867 42.352828  -2.303701 42.352753  -2.303685 42.352773  </gml:posList>
+                <gml:posList srsDimension="2">-2.303685 42.352773  -2.303544 42.352946  -2.303628 42.352983  -2.303711 42.353021  -2.303867 42.352828  -2.303701 42.352753  -2.303685 42.352773  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9571,15 +9445,15 @@
       <ms:edificios gml:id="edificios.4092148">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303643 42.352256 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303443 42.352470 </gml:upperCorner>
+        		<gml:lowerCorner>-2.303671 42.352223 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303470 42.352437 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303544 42.352470  -2.303549 42.352462  -2.303643 42.352287  -2.303542 42.352256  -2.303443 42.352440  -2.303544 42.352470  </gml:posList>
+                <gml:posList srsDimension="2">-2.303572 42.352437  -2.303576 42.352429  -2.303671 42.352253  -2.303570 42.352223  -2.303470 42.352407  -2.303572 42.352437  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9592,15 +9466,15 @@
       <ms:edificios gml:id="edificios.4092149">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303642 42.352487 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303263 42.352855 </gml:upperCorner>
+        		<gml:lowerCorner>-2.303663 42.352461 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303284 42.352829 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303495 42.352510  -2.303384 42.352650  -2.303319 42.352732  -2.303282 42.352779  -2.303263 42.352802  -2.303392 42.352855  -2.303642 42.352543  -2.303514 42.352487  -2.303495 42.352510  </gml:posList>
+                <gml:posList srsDimension="2">-2.303516 42.352484  -2.303405 42.352624  -2.303340 42.352706  -2.303303 42.352752  -2.303284 42.352776  -2.303413 42.352829  -2.303663 42.352517  -2.303535 42.352461  -2.303516 42.352484  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9613,15 +9487,15 @@
       <ms:edificios gml:id="edificios.4092150">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303495 42.352474 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303300 42.352650 </gml:upperCorner>
+        		<gml:lowerCorner>-2.303516 42.352447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303322 42.352624 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303384 42.352650  -2.303495 42.352510  -2.303411 42.352474  -2.303300 42.352613  -2.303384 42.352650  </gml:posList>
+                <gml:posList srsDimension="2">-2.303405 42.352624  -2.303516 42.352484  -2.303433 42.352447  -2.303322 42.352587  -2.303405 42.352624  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9634,15 +9508,15 @@
       <ms:edificios gml:id="edificios.4092151">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303392 42.352802 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303173 42.352971 </gml:upperCorner>
+        		<gml:lowerCorner>-2.303413 42.352776 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303194 42.352945 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303263 42.352802  -2.303173 42.352915  -2.303298 42.352971  -2.303392 42.352855  -2.303263 42.352802  </gml:posList>
+                <gml:posList srsDimension="2">-2.303284 42.352776  -2.303239 42.352832  -2.303194 42.352889  -2.303319 42.352945  -2.303413 42.352829  -2.303284 42.352776  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12519,7 +12393,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303661 42.351742  -2.303572 42.351620  -2.303469 42.351687  -2.303375 42.351770  -2.303578 42.351887  -2.303661 42.351742  </gml:posList>
+                <gml:posList srsDimension="2">-2.303661 42.351742  -2.303617 42.351681  -2.303572 42.351620  -2.303469 42.351687  -2.303375 42.351770  -2.303578 42.351887  -2.303661 42.351742  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12970,48 +12844,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092310">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.338243 42.355853 </gml:lowerCorner>
-        		<gml:upperCorner>-2.338132 42.355926 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338132 42.355902  -2.338218 42.355926  -2.338240 42.355881  -2.338243 42.355876  -2.338157 42.355853  -2.338132 42.355902  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092311">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.338218 42.355902 </gml:lowerCorner>
-        		<gml:upperCorner>-2.338123 42.355944 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338132 42.355902  -2.338123 42.355920  -2.338182 42.355936  -2.338209 42.355944  -2.338218 42.355926  -2.338132 42.355902  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4092312">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13044,7 +12876,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338199 42.355505  -2.338231 42.355391  -2.338111 42.355373  -2.338070 42.355523  -2.338189 42.355541  -2.338199 42.355505  </gml:posList>
+                <gml:posList srsDimension="2">-2.338199 42.355505  -2.338231 42.355391  -2.338111 42.355373  -2.338090 42.355448  -2.338070 42.355523  -2.338189 42.355541  -2.338199 42.355505  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13057,36 +12889,15 @@
       <ms:edificios gml:id="edificios.4092314">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.337866 42.355831 </gml:lowerCorner>
-        		<gml:upperCorner>-2.337748 42.355896 </gml:upperCorner>
+        		<gml:lowerCorner>-2.337897 42.355833 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337780 42.355899 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.337767 42.355831  -2.337748 42.355872  -2.337848 42.355896  -2.337866 42.355855  -2.337767 42.355831  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092315">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.337637 42.352618 </gml:lowerCorner>
-        		<gml:upperCorner>-2.337517 42.352697 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.337637 42.352668  -2.337572 42.352632  -2.337548 42.352618  -2.337517 42.352649  -2.337603 42.352697  -2.337620 42.352685  -2.337637 42.352668  </gml:posList>
+                <gml:posList srsDimension="2">-2.337798 42.355833  -2.337780 42.355874  -2.337879 42.355899  -2.337897 42.355857  -2.337798 42.355833  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13099,57 +12910,15 @@
       <ms:edificios gml:id="edificios.4092316">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.337041 42.352163 </gml:lowerCorner>
-        		<gml:upperCorner>-2.336942 42.352236 </gml:upperCorner>
+        		<gml:lowerCorner>-2.337036 42.352141 </gml:lowerCorner>
+        		<gml:upperCorner>-2.336937 42.352214 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.336942 42.352193  -2.337000 42.352236  -2.337041 42.352205  -2.336983 42.352163  -2.336942 42.352193  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092317">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.337606 42.352585 </gml:lowerCorner>
-        		<gml:upperCorner>-2.337548 42.352632 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.337548 42.352618  -2.337572 42.352632  -2.337606 42.352599  -2.337581 42.352585  -2.337548 42.352618  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092318">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.337670 42.352599 </gml:lowerCorner>
-        		<gml:upperCorner>-2.337572 42.352668 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.337606 42.352599  -2.337572 42.352632  -2.337637 42.352668  -2.337670 42.352635  -2.337606 42.352599  </gml:posList>
+                <gml:posList srsDimension="2">-2.336937 42.352171  -2.336995 42.352214  -2.337016 42.352199  -2.337036 42.352183  -2.336979 42.352141  -2.336937 42.352171  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13171,48 +12940,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.339452 42.347568  -2.339720 42.347323  -2.339748 42.347298  -2.339616 42.347218  -2.339279 42.347526  -2.339411 42.347606  -2.339452 42.347568  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092320">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.339095 42.347888 </gml:lowerCorner>
-        		<gml:upperCorner>-2.338748 42.348206 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338748 42.347966  -2.339059 42.348206  -2.339094 42.348181  -2.339017 42.348123  -2.339095 42.348066  -2.338858 42.347888  -2.338763 42.347955  -2.338748 42.347966  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092321">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.339059 42.347966 </gml:lowerCorner>
-        		<gml:upperCorner>-2.338710 42.348231 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338748 42.347966  -2.338722 42.347985  -2.338710 42.347994  -2.338805 42.348065  -2.339025 42.348231  -2.339037 42.348223  -2.339059 42.348206  -2.338748 42.347966  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13989,7 +13716,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.335294 42.327397  -2.335403 42.327545  -2.335828 42.327371  -2.335716 42.327222  -2.335294 42.327397  </gml:posList>
+                <gml:posList srsDimension="2">-2.335294 42.327397  -2.335348 42.327471  -2.335403 42.327545  -2.335828 42.327371  -2.335716 42.327222  -2.335294 42.327397  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14002,15 +13729,15 @@
       <ms:edificios gml:id="edificios.4092359">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.329849 42.328993 </gml:lowerCorner>
-        		<gml:upperCorner>-2.329553 42.329189 </gml:upperCorner>
+        		<gml:lowerCorner>-2.329871 42.328982 </gml:lowerCorner>
+        		<gml:upperCorner>-2.329575 42.329178 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.329849 42.329065  -2.329838 42.329052  -2.329800 42.329007  -2.329780 42.329016  -2.329764 42.328998  -2.329760 42.328993  -2.329631 42.329053  -2.329612 42.329062  -2.329615 42.329067  -2.329631 42.329085  -2.329562 42.329117  -2.329553 42.329138  -2.329596 42.329189  -2.329684 42.329149  -2.329697 42.329164  -2.329765 42.329132  -2.329752 42.329117  -2.329841 42.329076  -2.329849 42.329065  </gml:posList>
+                <gml:posList srsDimension="2">-2.329871 42.329053  -2.329860 42.329040  -2.329822 42.328995  -2.329802 42.329005  -2.329786 42.328986  -2.329783 42.328982  -2.329653 42.329042  -2.329634 42.329051  -2.329638 42.329055  -2.329653 42.329074  -2.329585 42.329106  -2.329575 42.329127  -2.329619 42.329178  -2.329706 42.329137  -2.329719 42.329152  -2.329787 42.329121  -2.329774 42.329106  -2.329807 42.329090  -2.329863 42.329064  -2.329871 42.329053  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14254,15 +13981,15 @@
       <ms:edificios gml:id="edificios.4092371">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.301319 42.350090 </gml:lowerCorner>
-        		<gml:upperCorner>-2.301232 42.350153 </gml:upperCorner>
+        		<gml:lowerCorner>-2.301352 42.350089 </gml:lowerCorner>
+        		<gml:upperCorner>-2.301265 42.350152 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.301319 42.350116  -2.301285 42.350090  -2.301232 42.350127  -2.301266 42.350153  -2.301319 42.350116  </gml:posList>
+                <gml:posList srsDimension="2">-2.301352 42.350115  -2.301318 42.350089  -2.301265 42.350126  -2.301299 42.350152  -2.301352 42.350115  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -18745,27 +18472,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092585">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.303975 42.348975 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303872 42.349049 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303873 42.348975  -2.303872 42.349049  -2.303974 42.349049  -2.303975 42.348976  -2.303873 42.348975  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4092586">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -19774,27 +19480,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092634">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.301273 42.351006 </gml:lowerCorner>
-        		<gml:upperCorner>-2.301173 42.351082 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.301227 42.351079  -2.301231 42.351082  -2.301273 42.351052  -2.301270 42.351049  -2.301216 42.351006  -2.301173 42.351037  -2.301227 42.351079  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4092635">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -19921,27 +19606,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092641">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.301216 42.350956 </gml:lowerCorner>
-        		<gml:upperCorner>-2.301104 42.351041 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.301159 42.351034  -2.301168 42.351041  -2.301173 42.351037  -2.301216 42.351006  -2.301204 42.350997  -2.301155 42.350956  -2.301104 42.350992  -2.301159 42.351034  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4092642">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -19995,7 +19659,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299833 42.351255  -2.299902 42.351292  -2.300096 42.351092  -2.300030 42.351057  -2.299833 42.351255  </gml:posList>
+                <gml:posList srsDimension="2">-2.299833 42.351255  -2.299902 42.351292  -2.300096 42.351092  -2.300030 42.351057  -2.299965 42.351123  -2.299833 42.351255  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20029,15 +19693,15 @@
       <ms:edificios gml:id="edificios.4092646">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.299460 42.351035 </gml:lowerCorner>
-        		<gml:upperCorner>-2.299345 42.351120 </gml:upperCorner>
+        		<gml:lowerCorner>-2.299482 42.351018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299364 42.351124 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299364 42.351035  -2.299345 42.351105  -2.299440 42.351120  -2.299460 42.351049  -2.299364 42.351035  </gml:posList>
+                <gml:posList srsDimension="2">-2.299388 42.351018  -2.299364 42.351093  -2.299462 42.351124  -2.299482 42.351046  -2.299435 42.351032  -2.299388 42.351018  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20050,15 +19714,15 @@
       <ms:edificios gml:id="edificios.4092647">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.299634 42.351516 </gml:lowerCorner>
-        		<gml:upperCorner>-2.299537 42.351575 </gml:upperCorner>
+        		<gml:lowerCorner>-2.299662 42.351512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299565 42.351571 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299634 42.351546  -2.299570 42.351516  -2.299537 42.351549  -2.299599 42.351575  -2.299604 42.351570  -2.299634 42.351546  </gml:posList>
+                <gml:posList srsDimension="2">-2.299662 42.351542  -2.299599 42.351512  -2.299587 42.351524  -2.299565 42.351545  -2.299628 42.351571  -2.299633 42.351566  -2.299662 42.351542  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20071,15 +19735,15 @@
       <ms:edificios gml:id="edificios.4092648">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.299182 42.351209 </gml:lowerCorner>
-        		<gml:upperCorner>-2.299084 42.351294 </gml:upperCorner>
+        		<gml:lowerCorner>-2.299203 42.351208 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299105 42.351292 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299182 42.351229  -2.299134 42.351212  -2.299125 42.351209  -2.299122 42.351213  -2.299084 42.351274  -2.299139 42.351294  -2.299182 42.351229  </gml:posList>
+                <gml:posList srsDimension="2">-2.299203 42.351228  -2.299155 42.351211  -2.299146 42.351208  -2.299143 42.351212  -2.299124 42.351243  -2.299105 42.351273  -2.299160 42.351292  -2.299203 42.351228  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20092,15 +19756,15 @@
       <ms:edificios gml:id="edificios.4092649">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.299192 42.351274 </gml:lowerCorner>
-        		<gml:upperCorner>-2.299036 42.351389 </gml:upperCorner>
+        		<gml:lowerCorner>-2.299213 42.351273 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299057 42.351387 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299192 42.351312  -2.299181 42.351308  -2.299139 42.351294  -2.299084 42.351274  -2.299081 42.351279  -2.299045 42.351336  -2.299036 42.351351  -2.299144 42.351389  -2.299154 42.351373  -2.299190 42.351316  -2.299192 42.351312  </gml:posList>
+                <gml:posList srsDimension="2">-2.299213 42.351311  -2.299202 42.351307  -2.299160 42.351292  -2.299105 42.351273  -2.299102 42.351278  -2.299066 42.351335  -2.299057 42.351350  -2.299165 42.351387  -2.299175 42.351372  -2.299211 42.351315  -2.299213 42.351311  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20113,15 +19777,15 @@
       <ms:edificios gml:id="edificios.4092650">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.299236 42.351229 </gml:lowerCorner>
-        		<gml:upperCorner>-2.299139 42.351312 </gml:upperCorner>
+        		<gml:lowerCorner>-2.299257 42.351228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299160 42.351311 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299139 42.351294  -2.299181 42.351308  -2.299192 42.351312  -2.299236 42.351248  -2.299182 42.351229  -2.299139 42.351294  </gml:posList>
+                <gml:posList srsDimension="2">-2.299160 42.351292  -2.299202 42.351307  -2.299213 42.351311  -2.299257 42.351247  -2.299203 42.351228  -2.299160 42.351292  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20163,7 +19827,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.299795 42.352264  -2.299775 42.352267  -2.299755 42.352270  -2.299719 42.352276  -2.299681 42.352282  -2.299682 42.352285  -2.299693 42.352326  -2.299739 42.352319  -2.299808 42.352308  -2.299795 42.352264  </gml:posList>
+                <gml:posList srsDimension="2">-2.299795 42.352264  -2.299775 42.352267  -2.299755 42.352270  -2.299737 42.352273  -2.299719 42.352276  -2.299681 42.352282  -2.299682 42.352285  -2.299693 42.352326  -2.299739 42.352319  -2.299808 42.352308  -2.299795 42.352264  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20415,7 +20079,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289977 42.359497  -2.290098 42.359503  -2.290099 42.359496  -2.290111 42.359413  -2.290112 42.359405  -2.290113 42.359396  -2.290053 42.359393  -2.290054 42.359375  -2.290054 42.359373  -2.289982 42.359367  -2.289982 42.359371  -2.289980 42.359392  -2.289978 42.359407  -2.289975 42.359443  -2.289981 42.359443  -2.289978 42.359483  -2.289977 42.359497  </gml:posList>
+                <gml:posList srsDimension="2">-2.289977 42.359497  -2.290098 42.359503  -2.290099 42.359496  -2.290111 42.359413  -2.290112 42.359405  -2.290113 42.359396  -2.290083 42.359394  -2.290053 42.359393  -2.290054 42.359375  -2.290054 42.359373  -2.289982 42.359367  -2.289982 42.359371  -2.289980 42.359392  -2.289978 42.359407  -2.289975 42.359443  -2.289981 42.359443  -2.289978 42.359483  -2.289977 42.359497  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20436,7 +20100,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289904 42.359266  -2.289903 42.359304  -2.289901 42.359378  -2.289900 42.359384  -2.289957 42.359385  -2.289960 42.359287  -2.289961 42.359267  -2.289953 42.359267  -2.289950 42.359267  -2.289904 42.359266  </gml:posList>
+                <gml:posList srsDimension="2">-2.289904 42.359266  -2.289903 42.359304  -2.289901 42.359378  -2.289900 42.359384  -2.289957 42.359385  -2.289960 42.359287  -2.289961 42.359267  -2.289953 42.359267  -2.289950 42.359267  -2.289927 42.359267  -2.289904 42.359266  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20449,15 +20113,15 @@
       <ms:edificios gml:id="edificios.4092666">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290923 42.358333 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290740 42.358474 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290951 42.358329 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290768 42.358470 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290923 42.358382  -2.290810 42.358333  -2.290786 42.358365  -2.290740 42.358427  -2.290856 42.358474  -2.290923 42.358382  </gml:posList>
+                <gml:posList srsDimension="2">-2.290951 42.358379  -2.290894 42.358354  -2.290837 42.358329  -2.290813 42.358362  -2.290768 42.358424  -2.290884 42.358470  -2.290951 42.358379  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20799,6 +20463,2799 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627337">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.332273 42.365621 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332187 42.365684 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.332273 42.365648  -2.332234 42.365625  -2.332227 42.365621  -2.332217 42.365630  -2.332187 42.365657  -2.332233 42.365684  -2.332273 42.365648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627338">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.373042 42.289940 </gml:lowerCorner>
+        		<gml:upperCorner>-2.372741 42.290084 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.373042 42.290011  -2.373007 42.289940  -2.372759 42.290014  -2.372741 42.290020  -2.372759 42.290051  -2.372777 42.290084  -2.372950 42.290037  -2.373042 42.290011  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627339">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367925 42.300401 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367673 42.300451 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367925 42.300411  -2.367679 42.300401  -2.367676 42.300420  -2.367673 42.300443  -2.367717 42.300444  -2.367919 42.300451  -2.367925 42.300411  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627340">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383374 42.306463 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383113 42.306551 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383374 42.306480  -2.383360 42.306467  -2.383341 42.306463  -2.383292 42.306467  -2.383113 42.306496  -2.383125 42.306551  -2.383238 42.306531  -2.383247 42.306517  -2.383277 42.306515  -2.383335 42.306497  -2.383367 42.306496  -2.383374 42.306480  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627341">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383326 42.306560 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383163 42.306640 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383326 42.306609  -2.383311 42.306560  -2.383217 42.306567  -2.383163 42.306580  -2.383192 42.306640  -2.383262 42.306623  -2.383326 42.306609  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627342">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382643 42.306829 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382533 42.306901 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382643 42.306891  -2.382637 42.306829  -2.382533 42.306839  -2.382544 42.306901  -2.382643 42.306891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627343">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382387 42.306894 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382308 42.306960 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382387 42.306940  -2.382379 42.306894  -2.382308 42.306904  -2.382320 42.306960  -2.382387 42.306940  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627344">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.351336 42.307198 </gml:lowerCorner>
+        		<gml:upperCorner>-2.351281 42.307238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.351336 42.307210  -2.351307 42.307198  -2.351281 42.307227  -2.351315 42.307238  -2.351336 42.307210  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627345">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380398 42.307738 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380318 42.307814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380398 42.307803  -2.380372 42.307738  -2.380318 42.307750  -2.380350 42.307814  -2.380398 42.307803  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627346">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388874 42.309040 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388755 42.309098 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388874 42.309051  -2.388766 42.309040  -2.388755 42.309083  -2.388862 42.309098  -2.388874 42.309051  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627347">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.398570 42.309403 </gml:lowerCorner>
+        		<gml:upperCorner>-2.398487 42.309455 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.398570 42.309423  -2.398515 42.309403  -2.398487 42.309434  -2.398552 42.309455  -2.398570 42.309423  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627348">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.398733 42.309442 </gml:lowerCorner>
+        		<gml:upperCorner>-2.398589 42.309566 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.398733 42.309518  -2.398639 42.309442  -2.398589 42.309505  -2.398676 42.309566  -2.398733 42.309518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627349">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.398910 42.309536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.398689 42.309657 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.398910 42.309576  -2.398859 42.309536  -2.398783 42.309588  -2.398745 42.309566  -2.398689 42.309614  -2.398734 42.309647  -2.398760 42.309629  -2.398802 42.309657  -2.398910 42.309576  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627350">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388440 42.309533 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388275 42.309642 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388440 42.309590  -2.388395 42.309533  -2.388275 42.309581  -2.388314 42.309642  -2.388314 42.309642  -2.388315 42.309642  -2.388440 42.309590  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627351">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.399811 42.309700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.399715 42.309775 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.399811 42.309746  -2.399780 42.309700  -2.399715 42.309724  -2.399729 42.309762  -2.399734 42.309775  -2.399743 42.309772  -2.399811 42.309746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627352">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.369348 42.310669 </gml:lowerCorner>
+        		<gml:upperCorner>-2.369249 42.310721 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.369348 42.310721  -2.369345 42.310669  -2.369259 42.310671  -2.369251 42.310671  -2.369251 42.310672  -2.369249 42.310719  -2.369348 42.310721  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627353">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367585 42.310924 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367485 42.310987 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367585 42.310977  -2.367566 42.310924  -2.367488 42.310933  -2.367485 42.310987  -2.367585 42.310977  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627354">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.374026 42.311046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.373908 42.311115 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.374026 42.311097  -2.374010 42.311046  -2.373908 42.311063  -2.373924 42.311115  -2.374026 42.311097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627355">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367700 42.312977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367478 42.313138 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367700 42.313027  -2.367652 42.313003  -2.367639 42.313011  -2.367577 42.312977  -2.367478 42.313072  -2.367599 42.313138  -2.367700 42.313027  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627356">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.368481 42.313009 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368371 42.313080 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.368481 42.313011  -2.368439 42.313009  -2.368438 42.313033  -2.368390 42.313032  -2.368371 42.313076  -2.368477 42.313080  -2.368481 42.313011  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627357">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.331978 42.327511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.331885 42.327588 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.331978 42.327519  -2.331943 42.327515  -2.331908 42.327511  -2.331885 42.327580  -2.331958 42.327588  -2.331978 42.327519  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627358">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326707 42.329851 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326638 42.329907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326707 42.329891  -2.326673 42.329851  -2.326638 42.329868  -2.326672 42.329907  -2.326707 42.329891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627359">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.327463 42.329863 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327399 42.329907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.327463 42.329888  -2.327454 42.329863  -2.327399 42.329879  -2.327413 42.329907  -2.327463 42.329888  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627360">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.328814 42.329723 </gml:lowerCorner>
+        		<gml:upperCorner>-2.328731 42.329792 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.328814 42.329757  -2.328796 42.329738  -2.328777 42.329723  -2.328731 42.329757  -2.328762 42.329792  -2.328814 42.329757  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627361">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.327390 42.330129 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327309 42.330185 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.327390 42.330161  -2.327364 42.330129  -2.327309 42.330153  -2.327334 42.330185  -2.327390 42.330161  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627362">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.327452 42.330198 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327380 42.330239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.327452 42.330220  -2.327436 42.330198  -2.327380 42.330216  -2.327396 42.330239  -2.327452 42.330220  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627363">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.325589 42.330405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.325508 42.330457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.325589 42.330440  -2.325572 42.330405  -2.325508 42.330423  -2.325525 42.330457  -2.325589 42.330440  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627364">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.327762 42.330509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327699 42.330556 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.327762 42.330536  -2.327729 42.330509  -2.327699 42.330529  -2.327716 42.330542  -2.327732 42.330556  -2.327762 42.330536  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627365">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326615 42.330609 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326529 42.330674 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326615 42.330649  -2.326571 42.330609  -2.326529 42.330634  -2.326573 42.330674  -2.326615 42.330649  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627366">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.327299 42.330814 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327231 42.330866 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.327299 42.330845  -2.327290 42.330829  -2.327282 42.330814  -2.327231 42.330839  -2.327256 42.330866  -2.327299 42.330845  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.325158 42.330909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.325088 42.330956 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.325158 42.330947  -2.325147 42.330909  -2.325088 42.330918  -2.325099 42.330956  -2.325158 42.330947  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627368">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.327116 42.330954 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327055 42.330997 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.327116 42.330980  -2.327096 42.330967  -2.327075 42.330954  -2.327055 42.330971  -2.327096 42.330997  -2.327116 42.330980  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627369">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326298 42.331071 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326244 42.331111 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326298 42.331093  -2.326272 42.331071  -2.326244 42.331089  -2.326270 42.331111  -2.326298 42.331093  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627370">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326939 42.331094 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326885 42.331133 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326939 42.331113  -2.326923 42.331103  -2.326907 42.331094  -2.326885 42.331114  -2.326917 42.331133  -2.326939 42.331113  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627371">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.323615 42.331329 </gml:lowerCorner>
+        		<gml:upperCorner>-2.323565 42.331367 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.323615 42.331354  -2.323594 42.331329  -2.323565 42.331343  -2.323586 42.331367  -2.323615 42.331354  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627372">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.323904 42.331379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.323859 42.331418 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.323904 42.331413  -2.323896 42.331379  -2.323859 42.331385  -2.323868 42.331418  -2.323904 42.331413  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627373">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326551 42.331454 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326451 42.331536 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326551 42.331473  -2.326519 42.331454  -2.326451 42.331517  -2.326482 42.331536  -2.326551 42.331473  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627374">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326184 42.331504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326135 42.331541 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326184 42.331518  -2.326164 42.331504  -2.326135 42.331526  -2.326155 42.331541  -2.326184 42.331518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627375">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.323393 42.331536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.323304 42.331606 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.323393 42.331586  -2.323359 42.331536  -2.323304 42.331557  -2.323338 42.331606  -2.323393 42.331586  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627376">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.323185 42.331559 </gml:lowerCorner>
+        		<gml:upperCorner>-2.323100 42.331611 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.323185 42.331584  -2.323167 42.331559  -2.323100 42.331586  -2.323118 42.331611  -2.323185 42.331584  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627377">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.326267 42.331699 </gml:lowerCorner>
+        		<gml:upperCorner>-2.326177 42.331766 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.326267 42.331740  -2.326218 42.331699  -2.326177 42.331725  -2.326226 42.331766  -2.326267 42.331740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627378">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.325625 42.332035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.325582 42.332076 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.325625 42.332069  -2.325610 42.332035  -2.325582 42.332042  -2.325596 42.332076  -2.325625 42.332069  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627379">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.325369 42.332082 </gml:lowerCorner>
+        		<gml:upperCorner>-2.325330 42.332109 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.325369 42.332101  -2.325360 42.332082  -2.325330 42.332090  -2.325339 42.332109  -2.325369 42.332101  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627380">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322834 42.332181 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322705 42.332258 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.322834 42.332238  -2.322820 42.332181  -2.322784 42.332187  -2.322705 42.332202  -2.322725 42.332258  -2.322834 42.332238  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627381">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.323700 42.333050 </gml:lowerCorner>
+        		<gml:upperCorner>-2.323589 42.333146 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.323700 42.333123  -2.323664 42.333050  -2.323589 42.333071  -2.323609 42.333146  -2.323700 42.333123  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627382">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.320303 42.333336 </gml:lowerCorner>
+        		<gml:upperCorner>-2.320227 42.333378 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.320240 42.333336  -2.320227 42.333355  -2.320288 42.333378  -2.320303 42.333357  -2.320240 42.333336  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627383">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.324387 42.333369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.324317 42.333381 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.324317 42.333369  -2.324387 42.333381  -2.324387 42.333381  -2.324317 42.333369  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627384">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.324385 42.333385 </gml:lowerCorner>
+        		<gml:upperCorner>-2.324376 42.333417 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.324385 42.333385  -2.324380 42.333405  -2.324376 42.333417  -2.324380 42.333405  -2.324385 42.333385  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627385">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.317052 42.333627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.316931 42.333675 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.317052 42.333636  -2.316937 42.333627  -2.316931 42.333667  -2.317030 42.333675  -2.317052 42.333636  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627386">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.319200 42.333735 </gml:lowerCorner>
+        		<gml:upperCorner>-2.319137 42.333794 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.319200 42.333746  -2.319166 42.333735  -2.319137 42.333783  -2.319172 42.333794  -2.319200 42.333746  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627387">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322017 42.334910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.321929 42.334992 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.322017 42.334922  -2.321963 42.334910  -2.321929 42.334969  -2.321979 42.334992  -2.322017 42.334922  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627388">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322292 42.334943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322176 42.335022 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.322292 42.334994  -2.322216 42.334943  -2.322176 42.334995  -2.322248 42.335022  -2.322292 42.334994  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627389">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.316928 42.335006 </gml:lowerCorner>
+        		<gml:upperCorner>-2.316839 42.335062 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.316928 42.335023  -2.316855 42.335006  -2.316839 42.335045  -2.316912 42.335062  -2.316928 42.335023  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627390">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.316848 42.335046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.316682 42.335154 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.316848 42.335113  -2.316768 42.335077  -2.316722 42.335046  -2.316682 42.335085  -2.316722 42.335114  -2.316822 42.335154  -2.316848 42.335113  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627391">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322854 42.335440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322739 42.335510 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.322854 42.335487  -2.322836 42.335440  -2.322739 42.335461  -2.322753 42.335510  -2.322854 42.335487  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627392">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322179 42.335676 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322117 42.335773 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.322117 42.335703  -2.322133 42.335773  -2.322179 42.335767  -2.322157 42.335676  -2.322123 42.335680  -2.322129 42.335702  -2.322117 42.335703  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627393">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.319412 42.335922 </gml:lowerCorner>
+        		<gml:upperCorner>-2.319334 42.336007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.319412 42.335940  -2.319369 42.335922  -2.319334 42.335989  -2.319386 42.336007  -2.319412 42.335940  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627394">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.319016 42.336095 </gml:lowerCorner>
+        		<gml:upperCorner>-2.318902 42.336172 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.319016 42.336129  -2.318979 42.336095  -2.318902 42.336135  -2.318941 42.336172  -2.319016 42.336129  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627395">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.318662 42.336185 </gml:lowerCorner>
+        		<gml:upperCorner>-2.318534 42.336281 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.318662 42.336249  -2.318572 42.336185  -2.318534 42.336216  -2.318624 42.336281  -2.318662 42.336249  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627396">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.322512 42.336995 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322424 42.337100 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.322512 42.337003  -2.322459 42.336995  -2.322424 42.337087  -2.322479 42.337100  -2.322512 42.337003  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627397">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.319406 42.337299 </gml:lowerCorner>
+        		<gml:upperCorner>-2.319275 42.337392 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.319406 42.337332  -2.319322 42.337299  -2.319275 42.337355  -2.319357 42.337392  -2.319406 42.337332  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627398">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.318200 42.338102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.318132 42.338157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.318200 42.338123  -2.318148 42.338102  -2.318132 42.338140  -2.318172 42.338157  -2.318200 42.338123  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627399">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.318144 42.338173 </gml:lowerCorner>
+        		<gml:upperCorner>-2.318071 42.338225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.318144 42.338193  -2.318093 42.338173  -2.318071 42.338201  -2.318117 42.338225  -2.318144 42.338193  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627400">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.317841 42.338946 </gml:lowerCorner>
+        		<gml:upperCorner>-2.317762 42.339001 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.317841 42.338960  -2.317779 42.338946  -2.317762 42.338987  -2.317828 42.339001  -2.317841 42.338960  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627401">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333310 42.341938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333224 42.342027 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333310 42.342018  -2.333289 42.341938  -2.333224 42.341946  -2.333224 42.341946  -2.333240 42.342027  -2.333304 42.342019  -2.333310 42.342018  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627402">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.312589 42.342107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.312500 42.342157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.312500 42.342157  -2.312518 42.342156  -2.312589 42.342151  -2.312585 42.342107  -2.312518 42.342111  -2.312500 42.342112  -2.312500 42.342157  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627403">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.312500 42.342112 </gml:lowerCorner>
+        		<gml:upperCorner>-2.312485 42.342157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.312500 42.342157  -2.312500 42.342112  -2.312485 42.342113  -2.312491 42.342157  -2.312500 42.342157  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627404">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.311913 42.342441 </gml:lowerCorner>
+        		<gml:upperCorner>-2.311797 42.342514 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.311913 42.342490  -2.311891 42.342441  -2.311797 42.342469  -2.311815 42.342514  -2.311913 42.342490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627405">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.307324 42.342803 </gml:lowerCorner>
+        		<gml:upperCorner>-2.307144 42.342972 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.307324 42.342923  -2.307204 42.342803  -2.307144 42.342836  -2.307236 42.342923  -2.307206 42.342937  -2.307238 42.342972  -2.307324 42.342923  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627406">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.325399 42.343912 </gml:lowerCorner>
+        		<gml:upperCorner>-2.325253 42.344086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.325399 42.344067  -2.325344 42.343912  -2.325253 42.343930  -2.325306 42.344086  -2.325399 42.344067  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627407">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.305312 42.344180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.305219 42.344238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.305312 42.344230  -2.305296 42.344180  -2.305219 42.344201  -2.305238 42.344238  -2.305268 42.344232  -2.305312 42.344230  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627408">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.305055 42.344305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.304979 42.344366 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.304984 42.344363  -2.305015 42.344366  -2.305018 42.344345  -2.305050 42.344348  -2.305055 42.344311  -2.304985 42.344305  -2.304979 42.344345  -2.304986 42.344346  -2.304984 42.344363  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627409">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.300543 42.344611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.300454 42.344692 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.300543 42.344627  -2.300476 42.344611  -2.300454 42.344661  -2.300478 42.344667  -2.300471 42.344686  -2.300494 42.344692  -2.300502 42.344674  -2.300522 42.344678  -2.300543 42.344627  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627410">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.299935 42.344689 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299935 42.344689 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.299935 42.344689  -2.299935 42.344689  -2.299935 42.344689  -2.299935 42.344689  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627411">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.299873 42.344703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299873 42.344705 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.299873 42.344703  -2.299873 42.344705  -2.299873 42.344705  -2.299873 42.344703  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627412">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.303617 42.344749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303563 42.344789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.303617 42.344767  -2.303575 42.344749  -2.303563 42.344768  -2.303601 42.344789  -2.303617 42.344767  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627413">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.304354 42.344965 </gml:lowerCorner>
+        		<gml:upperCorner>-2.304315 42.344997 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.304354 42.344970  -2.304330 42.344965  -2.304315 42.344990  -2.304339 42.344997  -2.304354 42.344970  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627414">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.304418 42.344985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.304356 42.345039 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.304418 42.344996  -2.304399 42.344985  -2.304356 42.345025  -2.304389 42.345039  -2.304418 42.344996  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627415">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.303865 42.345435 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303796 42.345503 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.303865 42.345446  -2.303821 42.345435  -2.303796 42.345494  -2.303839 42.345503  -2.303865 42.345446  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627416">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.334449 42.346777 </gml:lowerCorner>
+        		<gml:upperCorner>-2.334299 42.346862 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.334449 42.346838  -2.334371 42.346777  -2.334335 42.346804  -2.334299 42.346830  -2.334337 42.346857  -2.334374 42.346836  -2.334391 42.346849  -2.334408 42.346862  -2.334449 42.346838  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627417">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.303870 42.346804 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303806 42.346873 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.303870 42.346809  -2.303830 42.346804  -2.303806 42.346856  -2.303812 42.346867  -2.303858 42.346873  -2.303870 42.346809  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627418">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.334690 42.347267 </gml:lowerCorner>
+        		<gml:upperCorner>-2.334423 42.347687 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.334641 42.347373  -2.334655 42.347342  -2.334669 42.347310  -2.334594 42.347267  -2.334580 42.347281  -2.334423 42.347648  -2.334556 42.347687  -2.334690 42.347384  -2.334641 42.347373  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627419">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.306663 42.347031 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306620 42.347063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.306663 42.347055  -2.306650 42.347031  -2.306620 42.347038  -2.306633 42.347063  -2.306663 42.347055  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627421">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.309700 42.347682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.309613 42.347730 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.309700 42.347712  -2.309685 42.347682  -2.309613 42.347700  -2.309628 42.347730  -2.309700 42.347712  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627422">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.300128 42.347772 </gml:lowerCorner>
+        		<gml:upperCorner>-2.300004 42.347865 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.300128 42.347821  -2.300068 42.347772  -2.300004 42.347817  -2.300075 42.347865  -2.300128 42.347821  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627423">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.299926 42.347781 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299866 42.347832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.299926 42.347800  -2.299899 42.347781  -2.299866 42.347813  -2.299890 42.347832  -2.299926 42.347800  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627424">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.299306 42.347951 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299246 42.347994 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.299306 42.347963  -2.299262 42.347951  -2.299246 42.347979  -2.299286 42.347994  -2.299306 42.347963  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627425">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.300017 42.348248 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299864 42.348344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.300017 42.348307  -2.299919 42.348248  -2.299864 42.348298  -2.299972 42.348344  -2.300017 42.348307  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627426">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297516 42.348732 </gml:lowerCorner>
+        		<gml:upperCorner>-2.297318 42.348828 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297515 42.348812  -2.297516 42.348812  -2.297501 42.348732  -2.297384 42.348753  -2.297318 42.348779  -2.297334 42.348828  -2.297515 42.348812  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627427">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.303992 42.348973 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303883 42.349050 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.303992 42.349046  -2.303988 42.348973  -2.303896 42.348977  -2.303883 42.348977  -2.303884 42.349014  -2.303885 42.349050  -2.303992 42.349046  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627428">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.299197 42.349072 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299049 42.349116 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.299197 42.349091  -2.299057 42.349072  -2.299049 42.349102  -2.299189 42.349116  -2.299197 42.349091  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627429">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.336350 42.349659 </gml:lowerCorner>
+        		<gml:upperCorner>-2.336248 42.349727 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.336350 42.349692  -2.336318 42.349659  -2.336283 42.349676  -2.336248 42.349692  -2.336286 42.349727  -2.336350 42.349692  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627430">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.335829 42.350290 </gml:lowerCorner>
+        		<gml:upperCorner>-2.335741 42.350359 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.335829 42.350329  -2.335807 42.350310  -2.335785 42.350290  -2.335741 42.350316  -2.335786 42.350359  -2.335829 42.350329  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627431">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294720 42.350911 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294671 42.350949 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.294720 42.350929  -2.294697 42.350911  -2.294671 42.350932  -2.294693 42.350949  -2.294720 42.350929  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627432">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294791 42.350968 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294735 42.351012 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.294791 42.350993  -2.294763 42.350968  -2.294735 42.350987  -2.294760 42.351012  -2.294791 42.350993  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627433">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294851 42.351027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294799 42.351067 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.294851 42.351049  -2.294827 42.351027  -2.294799 42.351044  -2.294821 42.351067  -2.294851 42.351049  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627434">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.298812 42.351708 </gml:lowerCorner>
+        		<gml:upperCorner>-2.298753 42.351751 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.298812 42.351716  -2.298769 42.351708  -2.298753 42.351741  -2.298797 42.351751  -2.298812 42.351716  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.298885 42.351939 </gml:lowerCorner>
+        		<gml:upperCorner>-2.298814 42.352009 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.298885 42.351944  -2.298829 42.351939  -2.298822 42.351971  -2.298814 42.352004  -2.298866 42.352009  -2.298885 42.351944  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627438">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.295078 42.352230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295008 42.352286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.295078 42.352272  -2.295040 42.352230  -2.295008 42.352244  -2.295047 42.352286  -2.295078 42.352272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627439">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.340253 42.354557 </gml:lowerCorner>
+        		<gml:upperCorner>-2.340223 42.354585 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.340253 42.354561  -2.340225 42.354557  -2.340223 42.354583  -2.340237 42.354584  -2.340252 42.354585  -2.340253 42.354561  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627440">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.307901 42.354558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.307620 42.354705 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.307901 42.354648  -2.307768 42.354600  -2.307655 42.354558  -2.307620 42.354601  -2.307724 42.354651  -2.307856 42.354705  -2.307891 42.354661  -2.307901 42.354648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290226 42.356125 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290168 42.356172 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290226 42.356154  -2.290193 42.356125  -2.290168 42.356142  -2.290198 42.356172  -2.290212 42.356163  -2.290226 42.356154  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.293023 42.357952 </gml:lowerCorner>
+        		<gml:upperCorner>-2.292960 42.358001 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.293023 42.357990  -2.293008 42.357952  -2.292960 42.357963  -2.292975 42.358001  -2.293023 42.357990  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627446">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290491 42.358217 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290349 42.358305 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290491 42.358263  -2.290437 42.358241  -2.290380 42.358217  -2.290349 42.358263  -2.290459 42.358305  -2.290491 42.358263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290766 42.358279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290620 42.358393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290766 42.358307  -2.290704 42.358279  -2.290620 42.358365  -2.290689 42.358393  -2.290766 42.358307  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627452">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.296142 42.359031 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295938 42.359157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.296142 42.359156  -2.296137 42.359087  -2.296132 42.359031  -2.295938 42.359033  -2.295946 42.359157  -2.295950 42.359157  -2.296142 42.359156  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627453">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.328048 42.359525 </gml:lowerCorner>
+        		<gml:upperCorner>-2.327724 42.359608 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.328048 42.359544  -2.327894 42.359541  -2.327825 42.359537  -2.327730 42.359525  -2.327724 42.359593  -2.328046 42.359608  -2.328048 42.359544  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627454">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.289568 42.359314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289466 42.359442 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.289568 42.359319  -2.289529 42.359316  -2.289491 42.359314  -2.289466 42.359431  -2.289545 42.359442  -2.289547 42.359434  -2.289568 42.359319  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627455">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.289930 42.359493 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289885 42.359527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.289885 42.359493  -2.289885 42.359524  -2.289929 42.359527  -2.289930 42.359494  -2.289885 42.359493  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627456">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.328439 42.359745 </gml:lowerCorner>
+        		<gml:upperCorner>-2.328152 42.359845 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.328439 42.359755  -2.328348 42.359745  -2.328343 42.359770  -2.328316 42.359766  -2.328311 42.359791  -2.328166 42.359775  -2.328152 42.359823  -2.328256 42.359830  -2.328325 42.359838  -2.328416 42.359845  -2.328425 42.359811  -2.328439 42.359755  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627458">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.336041 42.360334 </gml:lowerCorner>
+        		<gml:upperCorner>-2.335960 42.360393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.336041 42.360358  -2.335985 42.360334  -2.335960 42.360371  -2.336015 42.360393  -2.336041 42.360358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627460">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.296240 42.360671 </gml:lowerCorner>
+        		<gml:upperCorner>-2.296170 42.360726 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.296240 42.360717  -2.296237 42.360671  -2.296170 42.360673  -2.296178 42.360726  -2.296240 42.360717  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.296412 42.360880 </gml:lowerCorner>
+        		<gml:upperCorner>-2.296256 42.361025 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.296412 42.360996  -2.296336 42.360880  -2.296296 42.360895  -2.296256 42.360909  -2.296333 42.361025  -2.296412 42.360996  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627462">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294103 42.361314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294075 42.361335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.294103 42.361328  -2.294091 42.361314  -2.294075 42.361322  -2.294087 42.361335  -2.294103 42.361328  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627463">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.298376 42.363025 </gml:lowerCorner>
+        		<gml:upperCorner>-2.298307 42.363069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.298376 42.363062  -2.298368 42.363025  -2.298307 42.363032  -2.298315 42.363069  -2.298376 42.363062  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.312479 42.363477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.312399 42.363536 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.312479 42.363505  -2.312440 42.363477  -2.312399 42.363508  -2.312437 42.363536  -2.312479 42.363505  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627465">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.330080 42.364943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.329625 42.365166 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.330080 42.365092  -2.330073 42.365025  -2.330056 42.364991  -2.329981 42.364943  -2.329817 42.364997  -2.329625 42.365061  -2.329696 42.365166  -2.329786 42.365135  -2.329859 42.365119  -2.329862 42.365075  -2.329966 42.365057  -2.329991 42.365116  -2.330080 42.365092  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627466">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.330057 42.365212 </gml:lowerCorner>
+        		<gml:upperCorner>-2.329900 42.365396 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.330057 42.365378  -2.330054 42.365328  -2.330045 42.365275  -2.330006 42.365212  -2.329900 42.365212  -2.329935 42.365297  -2.329950 42.365396  -2.330057 42.365378  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627468">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.330159 42.365626 </gml:lowerCorner>
+        		<gml:upperCorner>-2.329992 42.365757 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.330159 42.365688  -2.330147 42.365626  -2.329992 42.365645  -2.330009 42.365757  -2.330120 42.365746  -2.330159 42.365688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627469">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.311292 42.368248 </gml:lowerCorner>
+        		<gml:upperCorner>-2.311215 42.368309 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.311292 42.368293  -2.311268 42.368248  -2.311246 42.368256  -2.311215 42.368267  -2.311239 42.368309  -2.311261 42.368303  -2.311292 42.368293  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627472">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.301835 42.371443 </gml:lowerCorner>
+        		<gml:upperCorner>-2.301734 42.371517 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.301835 42.371475  -2.301786 42.371443  -2.301734 42.371481  -2.301785 42.371517  -2.301835 42.371475  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627473">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297195 42.372777 </gml:lowerCorner>
+        		<gml:upperCorner>-2.297076 42.372847 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297195 42.372826  -2.297173 42.372777  -2.297076 42.372803  -2.297098 42.372847  -2.297195 42.372826  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627474">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297226 42.373039 </gml:lowerCorner>
+        		<gml:upperCorner>-2.297044 42.373127 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297226 42.373062  -2.297184 42.373049  -2.297170 42.373068  -2.297072 42.373039  -2.297044 42.373076  -2.297196 42.373127  -2.297226 42.373062  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627475">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297166 42.373405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.296871 42.373595 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297166 42.373514  -2.297027 42.373451  -2.296945 42.373405  -2.296871 42.373483  -2.296962 42.373524  -2.297026 42.373558  -2.297095 42.373595  -2.297166 42.373514  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290369 42.356126 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290311 42.356173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290369 42.356154  -2.290336 42.356126  -2.290311 42.356143  -2.290341 42.356173  -2.290355 42.356164  -2.290369 42.356154  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627477">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.295272 42.352405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295198 42.352455 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.295272 42.352441  -2.295247 42.352405  -2.295198 42.352422  -2.295229 42.352455  -2.295272 42.352441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627478">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339124 42.347857 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338719 42.348220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338859 42.347857  -2.338719 42.347972  -2.338833 42.348054  -2.339054 42.348220  -2.339066 42.348211  -2.339088 42.348195  -2.339123 42.348170  -2.339046 42.348112  -2.339124 42.348055  -2.338859 42.347857  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627479">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.329443 42.350481 </gml:lowerCorner>
+        		<gml:upperCorner>-2.329396 42.350535 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.329433 42.350535  -2.329443 42.350489  -2.329405 42.350481  -2.329396 42.350527  -2.329433 42.350535  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627480">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.337685 42.352558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337523 42.352689 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.337685 42.352613  -2.337623 42.352574  -2.337598 42.352558  -2.337523 42.352617  -2.337584 42.352689  -2.337685 42.352613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627481">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338269 42.355845 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338149 42.355936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338244 42.355918  -2.338266 42.355874  -2.338269 42.355869  -2.338216 42.355854  -2.338183 42.355845  -2.338159 42.355894  -2.338149 42.355913  -2.338208 42.355929  -2.338235 42.355936  -2.338244 42.355918  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627482">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.314926 42.340516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.314789 42.340616 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.314926 42.340572  -2.314849 42.340516  -2.314836 42.340525  -2.314789 42.340559  -2.314869 42.340616  -2.314897 42.340594  -2.314926 42.340572  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Lagunilla del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627483">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.306640 42.347482 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306426 42.347618 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.306555 42.347482  -2.306494 42.347501  -2.306426 42.347521  -2.306454 42.347572  -2.306435 42.347577  -2.306460 42.347618  -2.306561 42.347588  -2.306572 42.347609  -2.306640 42.347586  -2.306624 42.347560  -2.306638 42.347556  -2.306614 42.347514  -2.306579 42.347524  -2.306555 42.347482  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4627484">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.303992 42.351928 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303802 42.352065 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.303982 42.352004  -2.303992 42.351998  -2.303967 42.351973  -2.303923 42.351928  -2.303802 42.351995  -2.303870 42.352065  -2.303982 42.352004  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ventas Blancas</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Lagunilla del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

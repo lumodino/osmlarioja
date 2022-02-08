@@ -1255,13 +1255,13 @@
       <ms:portales gml:id="portales.316292">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.318517 42.339146 </gml:lowerCorner>
-        		<gml:upperCorner>-2.318517 42.339146 </gml:upperCorner>
+        		<gml:lowerCorner>-2.318538 42.339149 </gml:lowerCorner>
+        		<gml:upperCorner>-2.318538 42.339149 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.318517 42.339146 </gml:pos>
+            <gml:pos>-2.318538 42.339149 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Ventas Blancas</ms:NOMBRE_COMPLETO_VIAL>
@@ -6001,13 +6001,13 @@
       <ms:portales gml:id="portales.315922">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.322021 42.335153 </gml:lowerCorner>
-        		<gml:upperCorner>-2.322021 42.335153 </gml:upperCorner>
+        		<gml:lowerCorner>-2.322002 42.335144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.322002 42.335144 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.322021 42.335153 </gml:pos>
+            <gml:pos>-2.322002 42.335144 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Ribafrecha</ms:NOMBRE_COMPLETO_VIAL>
@@ -10180,13 +10180,13 @@
       <ms:portales gml:id="portales.315020">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.318859 42.335363 </gml:lowerCorner>
-        		<gml:upperCorner>-2.318859 42.335363 </gml:upperCorner>
+        		<gml:lowerCorner>-2.318955 42.335398 </gml:lowerCorner>
+        		<gml:upperCorner>-2.318955 42.335398 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.318859 42.335363 </gml:pos>
+            <gml:pos>-2.318955 42.335398 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Barrio A</ms:NOMBRE_COMPLETO_VIAL>
@@ -13876,13 +13876,13 @@
       <ms:portales gml:id="portales.316729">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.300899 42.349975 </gml:lowerCorner>
-        		<gml:upperCorner>-2.300899 42.349975 </gml:upperCorner>
+        		<gml:lowerCorner>-2.300908 42.349983 </gml:lowerCorner>
+        		<gml:upperCorner>-2.300908 42.349983 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.300899 42.349975 </gml:pos>
+            <gml:pos>-2.300908 42.349983 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía del Cementerio</ms:NOMBRE_COMPLETO_VIAL>
