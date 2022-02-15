@@ -3520,6 +3520,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4656118">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.474306 42.401024 </gml:lowerCorner>
+        		<gml:upperCorner>-2.474306 42.401024 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.474306 42.401024 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1303</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.318008">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3544,13 +3565,13 @@
       <ms:portales gml:id="portales.318009">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.471387 42.400779 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471387 42.400779 </gml:upperCorner>
+        		<gml:lowerCorner>-2.471239 42.400831 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471239 42.400831 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.471387 42.400779 </gml:pos>
+            <gml:pos>-2.471239 42.400831 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
@@ -3565,13 +3586,13 @@
       <ms:portales gml:id="portales.315508">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.472883 42.400976 </gml:lowerCorner>
-        		<gml:upperCorner>-2.472883 42.400976 </gml:upperCorner>
+        		<gml:lowerCorner>-2.472871 42.401016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.472871 42.401016 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.472883 42.400976 </gml:pos>
+            <gml:pos>-2.472871 42.401016 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
@@ -3691,17 +3712,38 @@
       <ms:portales gml:id="portales.315504">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.471703 42.400754 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471703 42.400754 </gml:upperCorner>
+        		<gml:lowerCorner>-2.471592 42.400723 </gml:lowerCorner>
+        		<gml:upperCorner>-2.471592 42.400723 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.471703 42.400754 </gml:pos>
+            <gml:pos>-2.471592 42.400723 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1328</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4656117">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.473077 42.400934 </gml:lowerCorner>
+        		<gml:upperCorner>-2.473077 42.400934 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.473077 42.400934 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>1329</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
@@ -3796,13 +3838,13 @@
       <ms:portales gml:id="portales.318006">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.471322 42.399952 </gml:lowerCorner>
-        		<gml:upperCorner>-2.471322 42.399952 </gml:upperCorner>
+        		<gml:lowerCorner>-2.470977 42.400132 </gml:lowerCorner>
+        		<gml:upperCorner>-2.470977 42.400132 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.471322 42.399952 </gml:pos>
+            <gml:pos>-2.470977 42.400132 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
@@ -3859,13 +3901,13 @@
       <ms:portales gml:id="portales.315510">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.474586 42.401209 </gml:lowerCorner>
-        		<gml:upperCorner>-2.474586 42.401209 </gml:upperCorner>
+        		<gml:lowerCorner>-2.475086 42.401311 </gml:lowerCorner>
+        		<gml:upperCorner>-2.475086 42.401311 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.474586 42.401209 </gml:pos>
+            <gml:pos>-2.475086 42.401311 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
@@ -3880,13 +3922,13 @@
       <ms:portales gml:id="portales.315511">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.474746 42.400763 </gml:lowerCorner>
-        		<gml:upperCorner>-2.474746 42.400763 </gml:upperCorner>
+        		<gml:lowerCorner>-2.475212 42.400961 </gml:lowerCorner>
+        		<gml:upperCorner>-2.475212 42.400961 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.474746 42.400763 </gml:pos>
+            <gml:pos>-2.475212 42.400961 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Residencia Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>
@@ -15682,13 +15724,13 @@
       <ms:portales gml:id="portales.315068">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.460916 42.431681 </gml:lowerCorner>
-        		<gml:upperCorner>-2.460916 42.431681 </gml:upperCorner>
+        		<gml:lowerCorner>-2.460796 42.432154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.460796 42.432154 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.460916 42.431681 </gml:pos>
+            <gml:pos>-2.460796 42.432154 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Viejo de Logroño</ms:NOMBRE_COMPLETO_VIAL>
@@ -29458,13 +29500,13 @@
       <ms:portales gml:id="portales.318047">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.456899 42.421575 </gml:lowerCorner>
-        		<gml:upperCorner>-2.456899 42.421575 </gml:upperCorner>
+        		<gml:lowerCorner>-2.456781 42.421463 </gml:lowerCorner>
+        		<gml:upperCorner>-2.456781 42.421463 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.456899 42.421575 </gml:pos>
+            <gml:pos>-2.456781 42.421463 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Alberite</ms:NOMBRE_COMPLETO_VIAL>
@@ -40252,13 +40294,13 @@
       <ms:portales gml:id="portales.315514">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.476563 42.399410 </gml:lowerCorner>
-        		<gml:upperCorner>-2.476563 42.399410 </gml:upperCorner>
+        		<gml:lowerCorner>-2.476567 42.399373 </gml:lowerCorner>
+        		<gml:upperCorner>-2.476567 42.399373 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.476563 42.399410 </gml:pos>
+            <gml:pos>-2.476567 42.399373 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Reina Sofía</ms:NOMBRE_COMPLETO_VIAL>

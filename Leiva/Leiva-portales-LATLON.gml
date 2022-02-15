@@ -12595,13 +12595,13 @@
       <ms:portales gml:id="portales.317717">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.047805 42.504315 </gml:lowerCorner>
-        		<gml:upperCorner>-3.047805 42.504315 </gml:upperCorner>
+        		<gml:lowerCorner>-3.047835 42.504325 </gml:lowerCorner>
+        		<gml:upperCorner>-3.047835 42.504325 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-3.047805 42.504315 </gml:pos>
+            <gml:pos>-3.047835 42.504325 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cementerio</ms:NOMBRE_COMPLETO_VIAL>

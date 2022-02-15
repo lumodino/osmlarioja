@@ -6211,17 +6211,17 @@
       <ms:portales gml:id="portales.4210342">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.865124 41.977588 </gml:lowerCorner>
-        		<gml:upperCorner>-1.865124 41.977588 </gml:upperCorner>
+        		<gml:lowerCorner>-1.865177 41.977567 </gml:lowerCorner>
+        		<gml:upperCorner>-1.865177 41.977567 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.865124 41.977588 </gml:pos>
+            <gml:pos>-1.865177 41.977567 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Nevera</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26528</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Valverde</ms:NOMBRE_POBLAMIENTO>
