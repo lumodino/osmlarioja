@@ -17484,6 +17484,27 @@
         <ms:T223_000_INEMUNICIPIO_DENO>Azofra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4656275">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.801116 42.426861 </gml:lowerCorner>
+        		<gml:upperCorner>-2.801045 42.427003 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.801091 42.427003  -2.801116 42.426866  -2.801069 42.426861  -2.801045 42.427001  -2.801091 42.427003  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Azofra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Azofra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

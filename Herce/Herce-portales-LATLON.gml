@@ -4626,6 +4626,27 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>18</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4211600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.164443 42.214578 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164443 42.214578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.164443 42.214578 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>18</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4668,49 +4689,7 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.307693">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164518 42.214613 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164518 42.214613 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164518 42.214613 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4211600">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164443 42.214578 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164443 42.214578 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164443 42.214578 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
+        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
@@ -4730,8 +4709,29 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>26</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.307693">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.164520 42.214624 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164520 42.214624 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.164520 42.214624 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>B</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
@@ -4741,17 +4741,17 @@
       <ms:portales gml:id="portales.307695">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164467 42.214652 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164467 42.214652 </gml:upperCorner>
+        		<gml:lowerCorner>-2.164472 42.214660 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164472 42.214660 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164467 42.214652 </gml:pos>
+            <gml:pos>-2.164472 42.214660 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>28</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4762,17 +4762,17 @@
       <ms:portales gml:id="portales.307696">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164489 42.214684 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164489 42.214684 </gml:upperCorner>
+        		<gml:lowerCorner>-2.164493 42.214695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164493 42.214695 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164489 42.214684 </gml:pos>
+            <gml:pos>-2.164493 42.214695 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4793,7 +4793,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>32</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>26</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4814,7 +4814,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>34</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>28</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4835,7 +4835,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>36</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4853,6 +4853,69 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-2.164651 42.214867 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>32</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.307340">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.164646 42.214939 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164646 42.214939 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.164646 42.214939 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>34</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.307339">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.164735 42.215012 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164735 42.215012 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.164735 42.215012 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>36</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4211602">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.164569 42.215017 </gml:lowerCorner>
+        		<gml:upperCorner>-2.164569 42.215017 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.164569 42.215017 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
@@ -4885,69 +4948,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.307340">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164646 42.214939 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164646 42.214939 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164646 42.214939 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>40</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.307339">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164735 42.215012 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164735 42.215012 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164735 42.215012 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>42</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4211602">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.164569 42.215017 </gml:lowerCorner>
-        		<gml:upperCorner>-2.164569 42.215017 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.164569 42.215017 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>44</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.307263">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4961,7 +4961,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>46</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>40</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -4982,7 +4982,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>48</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>42</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -5003,7 +5003,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>50</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>44</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -5024,7 +5024,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>52</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>46</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -5045,7 +5045,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>54</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>48</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -5066,7 +5066,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>56</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>50</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -5084,6 +5084,69 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-2.165057 42.215306 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>52</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.307281">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165157 42.215364 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165157 42.215364 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165157 42.215364 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>54</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.307282">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165231 42.215394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165231 42.215394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165231 42.215394 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>56</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.307283">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165327 42.215440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165327 42.215440 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165327 42.215440 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
@@ -5109,69 +5172,6 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.307281">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165157 42.215364 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165157 42.215364 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165157 42.215364 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>60</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.307282">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165231 42.215394 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165231 42.215394 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165231 42.215394 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>62</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.307283">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165327 42.215440 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165327 42.215440 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165327 42.215440 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Sol</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>64</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -6556,7 +6556,7 @@
             <gml:pos>-2.165492 42.215703 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6577,7 +6577,7 @@
             <gml:pos>-2.164913 42.215644 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6598,7 +6598,7 @@
             <gml:pos>-2.165456 42.215773 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6619,7 +6619,7 @@
             <gml:pos>-2.165429 42.215809 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6640,7 +6640,7 @@
             <gml:pos>-2.165191 42.215771 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6661,7 +6661,7 @@
             <gml:pos>-2.165130 42.215742 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6682,7 +6682,7 @@
             <gml:pos>-2.164991 42.215738 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6703,7 +6703,7 @@
             <gml:pos>-2.165159 42.215706 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6724,7 +6724,7 @@
             <gml:pos>-2.165113 42.215652 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
@@ -6745,7 +6745,7 @@
             <gml:pos>-2.165118 42.215621 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>

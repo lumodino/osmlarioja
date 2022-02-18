@@ -1525,7 +1525,7 @@
             <gml:posList srsDimension="2">-2.165481 42.215705  -2.165442 42.215689  -2.165327 42.215633  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.072.12</ms:COD_CATASTRAL_VIAL>
@@ -1545,7 +1545,7 @@
             <gml:posList srsDimension="2">-2.165481 42.215705  -2.165454 42.215725  -2.165442 42.215741  -2.165440 42.215796  -2.165369 42.215786  -2.165302 42.215778  -2.165237 42.215767  -2.165169 42.215738  -2.165193 42.215678  -2.165159 42.215647  -2.165151 42.215591  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.072.12</ms:COD_CATASTRAL_VIAL>
@@ -1565,7 +1565,7 @@
             <gml:posList srsDimension="2">-2.165327 42.215633  -2.165239 42.215620  -2.165151 42.215591  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.072.12</ms:COD_CATASTRAL_VIAL>

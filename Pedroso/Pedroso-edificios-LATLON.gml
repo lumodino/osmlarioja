@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.744507 42.298432 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.744507 42.298240 </gml:lowerCorner>
       		<gml:upperCorner>-2.710688 42.305419 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -1361,14 +1361,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.711911 42.298432 </gml:lowerCorner>
-        		<gml:upperCorner>-2.711826 42.298501 </gml:upperCorner>
+        		<gml:upperCorner>-2.711818 42.298541 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.711909 42.298501  -2.711911 42.298435  -2.711827 42.298432  -2.711826 42.298499  -2.711909 42.298501  </gml:posList>
+                <gml:posList srsDimension="2">-2.711905 42.298541  -2.711911 42.298435  -2.711827 42.298432  -2.711818 42.298538  -2.711905 42.298541  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6250,6 +6250,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.729827 42.302950  -2.729923 42.302971  -2.729958 42.302892  -2.729858 42.302871  -2.729827 42.302950  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Pedroso</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pedroso</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4657078">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.710780 42.298240 </gml:lowerCorner>
+        		<gml:upperCorner>-2.710714 42.298323 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.710778 42.298323  -2.710780 42.298240  -2.710714 42.298243  -2.710720 42.298321  -2.710778 42.298323  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

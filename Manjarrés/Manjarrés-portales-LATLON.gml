@@ -457,13 +457,13 @@
       <ms:portales gml:id="portales.228180">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.672563 42.387851 </gml:lowerCorner>
-        		<gml:upperCorner>-2.672563 42.387851 </gml:upperCorner>
+        		<gml:lowerCorner>-2.672629 42.388019 </gml:lowerCorner>
+        		<gml:upperCorner>-2.672629 42.388019 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.672563 42.387851 </gml:pos>
+            <gml:pos>-2.672629 42.388019 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Santa Coloma</ms:NOMBRE_COMPLETO_VIAL>

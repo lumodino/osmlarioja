@@ -67585,6 +67585,27 @@
         <ms:T223_000_INEMUNICIPIO_DENO>Autol</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4656273">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.018739 42.216234 </gml:lowerCorner>
+        		<gml:upperCorner>-2.018622 42.216385 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.018701 42.216309  -2.018694 42.216234  -2.018622 42.216239  -2.018629 42.216311  -2.018653 42.216313  -2.018656 42.216340  -2.018666 42.216385  -2.018739 42.216378  -2.018729 42.216305  -2.018701 42.216309  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Autol</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Autol</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

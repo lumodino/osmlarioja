@@ -184,13 +184,13 @@
       <ms:portales gml:id="portales.228597">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.796534 42.298335 </gml:lowerCorner>
-        		<gml:upperCorner>-2.796534 42.298335 </gml:upperCorner>
+        		<gml:lowerCorner>-2.796522 42.298344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.796522 42.298344 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.796534 42.298335 </gml:pos>
+            <gml:pos>-2.796522 42.298344 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Olmos</ms:NOMBRE_COMPLETO_VIAL>

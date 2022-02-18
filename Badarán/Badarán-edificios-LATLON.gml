@@ -31416,6 +31416,27 @@
         <ms:T223_000_INEMUNICIPIO_DENO>Badarán</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4656276">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.814416 42.363153 </gml:lowerCorner>
+        		<gml:upperCorner>-2.814344 42.363205 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.814359 42.363153  -2.814351 42.363164  -2.814344 42.363175  -2.814405 42.363205  -2.814416 42.363194  -2.814404 42.363188  -2.814415 42.363175  -2.814359 42.363153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Badarán</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Badarán</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 
