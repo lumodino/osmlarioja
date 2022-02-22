@@ -835,13 +835,13 @@
       <ms:portales gml:id="portales.227484">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.556824 42.380296 </gml:lowerCorner>
-        		<gml:upperCorner>-2.556824 42.380296 </gml:upperCorner>
+        		<gml:lowerCorner>-2.556817 42.380283 </gml:lowerCorner>
+        		<gml:upperCorner>-2.556817 42.380283 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.556824 42.380296 </gml:pos>
+            <gml:pos>-2.556817 42.380283 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Daroca</ms:NOMBRE_COMPLETO_VIAL>

@@ -11353,27 +11353,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.233778">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.329712 42.400006 </gml:lowerCorner>
-        		<gml:upperCorner>-2.329712 42.400006 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.329712 42.400006 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Media Luna</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26143</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Murillo de Río Leza</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Murillo de Río Leza</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.233779">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

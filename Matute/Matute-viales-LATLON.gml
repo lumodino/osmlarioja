@@ -82,7 +82,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.798405 42.298266  -2.798134 42.298421  -2.798003 42.298472  -2.797569 42.298537  -2.797440 42.298510  -2.797139 42.298381  </gml:posList>
+            <gml:posList srsDimension="2">-2.798405 42.298266  -2.798134 42.298421  -2.798003 42.298472  -2.797810 42.298511  -2.797569 42.298537  -2.797440 42.298510  -2.797139 42.298381  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
@@ -182,7 +182,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.797139 42.298381  -2.796856 42.298171  -2.796628 42.297912  -2.796577 42.297811  -2.796551 42.297622  -2.796315 42.297398  -2.796246 42.297322  -2.796182 42.297151  -2.796074 42.297012  -2.795962 42.296939  </gml:posList>
+            <gml:posList srsDimension="2">-2.797139 42.298381  -2.796856 42.298171  -2.796628 42.297912  -2.796594 42.297790  -2.796551 42.297622  -2.796477 42.297522  -2.796315 42.297398  -2.796246 42.297322  -2.796182 42.297151  -2.796074 42.297012  -2.795962 42.296939  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diseminado</ms:NOMBRE_COMPLETO_VIAL>
@@ -1262,7 +1262,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.794889 42.296534  -2.794911 42.296541  -2.794995 42.296568  </gml:posList>
+            <gml:posList srsDimension="2">-2.794889 42.296534  -2.794911 42.296541  -2.794972 42.296548  -2.794995 42.296568  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza del Plano</ms:NOMBRE_COMPLETO_VIAL>

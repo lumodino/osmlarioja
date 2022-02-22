@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.958150 42.024820 </gml:lowerCorner>
-      		<gml:upperCorner>-2.894553 42.200715 </gml:upperCorner>
+      		<gml:lowerCorner>-2.958150 42.024812 </gml:lowerCorner>
+      		<gml:upperCorner>-2.895272 42.164327 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1297,15 +1297,15 @@
       <ms:edificios gml:id="edificios.4113510">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931502 42.137224 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931337 42.137383 </gml:upperCorner>
+        		<gml:lowerCorner>-2.931530 42.137216 </gml:lowerCorner>
+        		<gml:upperCorner>-2.931366 42.137375 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.931412 42.137224  -2.931337 42.137254  -2.931429 42.137383  -2.931502 42.137363  -2.931412 42.137224  </gml:posList>
+                <gml:posList srsDimension="2">-2.931441 42.137216  -2.931366 42.137246  -2.931424 42.137327  -2.931458 42.137375  -2.931530 42.137355  -2.931441 42.137216  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2914,15 +2914,15 @@
       <ms:edificios gml:id="edificios.4113587">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.944578 42.133977 </gml:lowerCorner>
-        		<gml:upperCorner>-2.944386 42.134107 </gml:upperCorner>
+        		<gml:lowerCorner>-2.944571 42.133972 </gml:lowerCorner>
+        		<gml:upperCorner>-2.944390 42.134098 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.944578 42.134037  -2.944416 42.133977  -2.944386 42.134055  -2.944526 42.134107  -2.944578 42.134037  </gml:posList>
+                <gml:posList srsDimension="2">-2.944571 42.134024  -2.944430 42.133972  -2.944390 42.134045  -2.944460 42.134071  -2.944530 42.134098  -2.944571 42.134024  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3331,86 +3331,23 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657132">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.894686 42.165807 </gml:lowerCorner>
-        		<gml:upperCorner>-2.894553 42.165871 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.894686 42.165864  -2.894623 42.165807  -2.894553 42.165850  -2.894577 42.165871  -2.894686 42.165864  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4657133">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.895316 42.024820 </gml:lowerCorner>
-        		<gml:upperCorner>-2.895261 42.024858 </gml:upperCorner>
+        		<gml:lowerCorner>-2.895327 42.024812 </gml:lowerCorner>
+        		<gml:upperCorner>-2.895272 42.024851 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.895316 42.024839  -2.895304 42.024826  -2.895299 42.024820  -2.895282 42.024829  -2.895261 42.024839  -2.895279 42.024858  -2.895296 42.024849  -2.895302 42.024846  -2.895316 42.024839  </gml:posList>
+                <gml:posList srsDimension="2">-2.895327 42.024831  -2.895315 42.024818  -2.895310 42.024812  -2.895293 42.024821  -2.895272 42.024832  -2.895290 42.024851  -2.895299 42.024846  -2.895307 42.024842  -2.895313 42.024839  -2.895327 42.024831  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657134">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.897013 42.033015 </gml:lowerCorner>
-        		<gml:upperCorner>-2.896488 42.033148 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.897013 42.033123  -2.896940 42.033108  -2.896806 42.033083  -2.896650 42.033043  -2.896516 42.033015  -2.896488 42.033026  -2.896500 42.033046  -2.896541 42.033057  -2.896846 42.033123  -2.897008 42.033148  -2.897013 42.033123  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657135">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.898861 42.035997 </gml:lowerCorner>
-        		<gml:upperCorner>-2.898782 42.036058 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.898861 42.036019  -2.898816 42.035997  -2.898782 42.036036  -2.898828 42.036058  -2.898861 42.036019  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3431,91 +3368,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657137">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.897029 42.037904 </gml:lowerCorner>
-        		<gml:upperCorner>-2.896737 42.038146 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.897029 42.038037  -2.897025 42.037972  -2.896983 42.037949  -2.896973 42.037930  -2.896876 42.037904  -2.896791 42.037912  -2.896751 42.037904  -2.896737 42.037917  -2.896738 42.037984  -2.896747 42.038020  -2.896790 42.038074  -2.896796 42.038093  -2.896822 42.038093  -2.896833 42.038085  -2.896865 42.038098  -2.896887 42.038134  -2.896951 42.038141  -2.896987 42.038146  -2.897009 42.038132  -2.897014 42.038108  -2.897026 42.038074  -2.897029 42.038037  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657138">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.897242 42.038653 </gml:lowerCorner>
-        		<gml:upperCorner>-2.896952 42.038943 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.897242 42.038931  -2.897238 42.038896  -2.897211 42.038816  -2.897209 42.038747  -2.897171 42.038696  -2.897122 42.038684  -2.897072 42.038668  -2.897003 42.038653  -2.896968 42.038655  -2.896952 42.038684  -2.896965 42.038717  -2.896996 42.038775  -2.897041 42.038853  -2.897089 42.038906  -2.897159 42.038939  -2.897232 42.038943  -2.897242 42.038931  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657139">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.904726 42.040039 </gml:lowerCorner>
-        		<gml:upperCorner>-2.904433 42.040287 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.904726 42.040127  -2.904714 42.040077  -2.904698 42.040060  -2.904673 42.040046  -2.904633 42.040039  -2.904608 42.040058  -2.904547 42.040142  -2.904497 42.040204  -2.904458 42.040187  -2.904433 42.040222  -2.904471 42.040235  -2.904458 42.040248  -2.904485 42.040268  -2.904536 42.040287  -2.904581 42.040283  -2.904648 42.040274  -2.904693 42.040255  -2.904696 42.040204  -2.904720 42.040162  -2.904726 42.040127  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657140">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.905151 42.040407 </gml:lowerCorner>
-        		<gml:upperCorner>-2.904844 42.040732 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.905151 42.040448  -2.905118 42.040409  -2.905025 42.040407  -2.905005 42.040430  -2.904990 42.040438  -2.904977 42.040464  -2.904992 42.040482  -2.904979 42.040524  -2.904981 42.040550  -2.904908 42.040585  -2.904871 42.040610  -2.904869 42.040634  -2.904844 42.040658  -2.904850 42.040697  -2.904895 42.040727  -2.904971 42.040732  -2.905027 42.040703  -2.905050 42.040651  -2.905046 42.040596  -2.905114 42.040525  -2.905151 42.040482  -2.905137 42.040460  -2.905151 42.040448  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3536,49 +3389,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657142">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.904617 42.056346 </gml:lowerCorner>
-        		<gml:upperCorner>-2.904536 42.056406 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.904617 42.056391  -2.904598 42.056346  -2.904536 42.056361  -2.904555 42.056406  -2.904617 42.056391  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657143">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.898252 42.080250 </gml:lowerCorner>
-        		<gml:upperCorner>-2.898065 42.080413 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.898252 42.080379  -2.898128 42.080250  -2.898065 42.080284  -2.898189 42.080413  -2.898252 42.080379  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3599,7 +3410,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3620,175 +3431,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657146">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.900714 42.098153 </gml:lowerCorner>
-        		<gml:upperCorner>-2.900441 42.098368 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.900714 42.098214  -2.900620 42.098153  -2.900441 42.098307  -2.900534 42.098368  -2.900714 42.098214  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657147">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.901751 42.099924 </gml:lowerCorner>
-        		<gml:upperCorner>-2.901626 42.100097 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.901751 42.099934  -2.901657 42.099924  -2.901626 42.100087  -2.901720 42.100097  -2.901751 42.099934  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657148">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.903360 42.101475 </gml:lowerCorner>
-        		<gml:upperCorner>-2.903241 42.101636 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.903360 42.101494  -2.903264 42.101475  -2.903241 42.101622  -2.903333 42.101636  -2.903360 42.101494  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657149">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.909289 42.113224 </gml:lowerCorner>
-        		<gml:upperCorner>-2.909040 42.113360 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.909289 42.113298  -2.909079 42.113224  -2.909040 42.113285  -2.909251 42.113360  -2.909289 42.113298  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657150">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.912031 42.113708 </gml:lowerCorner>
-        		<gml:upperCorner>-2.911828 42.113832 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.912031 42.113780  -2.912021 42.113776  -2.911872 42.113708  -2.911833 42.113747  -2.911828 42.113751  -2.911987 42.113832  -2.912031 42.113780  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657151">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.909540 42.115230 </gml:lowerCorner>
-        		<gml:upperCorner>-2.909233 42.115377 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.909540 42.115337  -2.909400 42.115275  -2.909333 42.115260  -2.909265 42.115230  -2.909233 42.115293  -2.909435 42.115344  -2.909510 42.115377  -2.909540 42.115337  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657153">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.916776 42.117600 </gml:lowerCorner>
-        		<gml:upperCorner>-2.916558 42.117677 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.916776 42.117610  -2.916564 42.117600  -2.916558 42.117668  -2.916770 42.117677  -2.916776 42.117610  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657154">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.917746 42.118637 </gml:lowerCorner>
-        		<gml:upperCorner>-2.917542 42.118711 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.917746 42.118711  -2.917746 42.118637  -2.917542 42.118637  -2.917542 42.118711  -2.917746 42.118711  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3809,28 +3452,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657158">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.921852 42.140822 </gml:lowerCorner>
-        		<gml:upperCorner>-2.921676 42.140961 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.921852 42.140895  -2.921704 42.140822  -2.921676 42.140861  -2.921707 42.140889  -2.921792 42.140961  -2.921852 42.140895  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3851,49 +3473,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657160">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.930279 42.150057 </gml:lowerCorner>
-        		<gml:upperCorner>-2.930033 42.150126 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.930279 42.150064  -2.930038 42.150057  -2.930033 42.150116  -2.930276 42.150126  -2.930279 42.150064  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657161">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931458 42.150215 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931234 42.150317 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.931458 42.150264  -2.931439 42.150215  -2.931234 42.150261  -2.931255 42.150317  -2.931458 42.150264  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3914,7 +3494,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3935,28 +3515,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657164">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.912359 42.153626 </gml:lowerCorner>
-        		<gml:upperCorner>-2.912097 42.153736 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.912359 42.153676  -2.912341 42.153626  -2.912097 42.153681  -2.912123 42.153736  -2.912359 42.153676  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3977,7 +3536,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -3985,20 +3544,20 @@
       <ms:edificios gml:id="edificios.4657169">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.912242 42.158147 </gml:lowerCorner>
-        		<gml:upperCorner>-2.912073 42.158247 </gml:upperCorner>
+        		<gml:lowerCorner>-2.912251 42.158137 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912082 42.158238 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.912144 42.158232  -2.912214 42.158247  -2.912242 42.158177  -2.912101 42.158147  -2.912073 42.158216  -2.912144 42.158232  </gml:posList>
+                <gml:posList srsDimension="2">-2.912152 42.158222  -2.912223 42.158238  -2.912251 42.158168  -2.912110 42.158137  -2.912082 42.158207  -2.912152 42.158222  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4019,28 +3578,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657173">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.909615 42.158027 </gml:lowerCorner>
-        		<gml:upperCorner>-2.908614 42.158311 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.908614 42.158224  -2.908642 42.158311  -2.909615 42.158137  -2.909590 42.158058  -2.909562 42.158063  -2.909551 42.158027  -2.909541 42.158028  -2.909490 42.158037  -2.909500 42.158066  -2.909460 42.158073  -2.908614 42.158224  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4061,7 +3599,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4082,7 +3620,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4090,20 +3628,20 @@
       <ms:edificios gml:id="edificios.4657176">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.911611 42.158689 </gml:lowerCorner>
-        		<gml:upperCorner>-2.911368 42.158993 </gml:upperCorner>
+        		<gml:lowerCorner>-2.911611 42.158668 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911382 42.158969 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.911611 42.158718  -2.911470 42.158689  -2.911368 42.158963  -2.911509 42.158993  -2.911611 42.158718  </gml:posList>
+                <gml:posList srsDimension="2">-2.911611 42.158695  -2.911483 42.158668  -2.911382 42.158943  -2.911509 42.158969  -2.911611 42.158695  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4112,40 +3650,19 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.911816 42.158954 </gml:lowerCorner>
-        		<gml:upperCorner>-2.911727 42.159030 </gml:upperCorner>
+        		<gml:upperCorner>-2.911740 42.159016 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.911816 42.158966  -2.911789 42.158954  -2.911780 42.158966  -2.911767 42.158961  -2.911727 42.159013  -2.911767 42.159030  -2.911816 42.158966  </gml:posList>
+                <gml:posList srsDimension="2">-2.911816 42.158966  -2.911789 42.158954  -2.911780 42.158966  -2.911767 42.158961  -2.911740 42.158996  -2.911778 42.159016  -2.911816 42.158966  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657183">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.947759 42.159917 </gml:lowerCorner>
-        		<gml:upperCorner>-2.947604 42.160074 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.947759 42.160051  -2.947676 42.159917  -2.947604 42.159933  -2.947710 42.160074  -2.947759 42.160051  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4153,204 +3670,15 @@
       <ms:edificios gml:id="edificios.4657184">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.906576 42.161506 </gml:lowerCorner>
-        		<gml:upperCorner>-2.906530 42.161543 </gml:upperCorner>
+        		<gml:lowerCorner>-2.906583 42.161498 </gml:lowerCorner>
+        		<gml:upperCorner>-2.906538 42.161535 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.906530 42.161532  -2.906546 42.161540  -2.906552 42.161543  -2.906576 42.161517  -2.906572 42.161515  -2.906554 42.161506  -2.906530 42.161532  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657185">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.895386 42.165644 </gml:lowerCorner>
-        		<gml:upperCorner>-2.895282 42.165716 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.895386 42.165683  -2.895355 42.165644  -2.895282 42.165679  -2.895309 42.165716  -2.895386 42.165683  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657186">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.902159 42.165680 </gml:lowerCorner>
-        		<gml:upperCorner>-2.901871 42.165750 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.902159 42.165696  -2.901877 42.165680  -2.901871 42.165734  -2.902154 42.165750  -2.902159 42.165696  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657187">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.905013 42.169732 </gml:lowerCorner>
-        		<gml:upperCorner>-2.904859 42.169948 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.905013 42.169929  -2.904988 42.169845  -2.904957 42.169732  -2.904859 42.169753  -2.904885 42.169850  -2.904916 42.169948  -2.905013 42.169929  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657188">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931406 42.187105 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931190 42.187181 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.931406 42.187124  -2.931203 42.187105  -2.931190 42.187155  -2.931386 42.187181  -2.931406 42.187124  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657189">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931509 42.189024 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931235 42.189134 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.931509 42.189091  -2.931492 42.189024  -2.931235 42.189062  -2.931262 42.189134  -2.931509 42.189091  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657190">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.931900 42.189286 </gml:lowerCorner>
-        		<gml:upperCorner>-2.931687 42.189444 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.931900 42.189327  -2.931851 42.189286  -2.931687 42.189412  -2.931749 42.189444  -2.931900 42.189327  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657191">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.929944 42.189589 </gml:lowerCorner>
-        		<gml:upperCorner>-2.929798 42.189789 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.929944 42.189606  -2.929859 42.189589  -2.929798 42.189769  -2.929887 42.189789  -2.929944 42.189606  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657192">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.929873 42.189820 </gml:lowerCorner>
-        		<gml:upperCorner>-2.929731 42.189951 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.929873 42.189843  -2.929788 42.189820  -2.929731 42.189931  -2.929816 42.189951  -2.929873 42.189843  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4657193">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.938955 42.200601 </gml:lowerCorner>
-        		<gml:upperCorner>-2.938590 42.200715 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.938955 42.200644  -2.938605 42.200601  -2.938590 42.200682  -2.938953 42.200715  -2.938955 42.200644  </gml:posList>
+                <gml:posList srsDimension="2">-2.906538 42.161524  -2.906554 42.161532  -2.906560 42.161535  -2.906583 42.161509  -2.906579 42.161507  -2.906561 42.161498  -2.906538 42.161524  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4376,7 +3704,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -4397,7 +3725,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tabladas</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_NUCL_URB_DENO>Mansilla de la Sierra</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Mansilla de la Sierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

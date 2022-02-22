@@ -593,26 +593,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1534545">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.294763 42.187163 </gml:lowerCorner>
-        		<gml:upperCorner>-2.294036 42.187637 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.294095 42.187163  -2.294081 42.187185  -2.294080 42.187186  -2.294069 42.187203  -2.294066 42.187207  -2.294056 42.187224  -2.294042 42.187250  -2.294039 42.187260  -2.294036 42.187272  -2.294038 42.187282  -2.294040 42.187290  -2.294040 42.187291  -2.294041 42.187292  -2.294042 42.187293  -2.294045 42.187297  -2.294050 42.187302  -2.294060 42.187313  -2.294073 42.187326  -2.294075 42.187327  -2.294079 42.187330  -2.294116 42.187351  -2.294152 42.187372  -2.294163 42.187378  -2.294167 42.187380  -2.294196 42.187396  -2.294230 42.187414  -2.294231 42.187415  -2.294240 42.187419  -2.294249 42.187423  -2.294259 42.187425  -2.294272 42.187428  -2.294273 42.187428  -2.294299 42.187431  -2.294322 42.187434  -2.294329 42.187435  -2.294343 42.187435  -2.294360 42.187434  -2.294377 42.187431  -2.294403 42.187426  -2.294414 42.187424  -2.294420 42.187424  -2.294459 42.187428  -2.294478 42.187431  -2.294484 42.187431  -2.294511 42.187435  -2.294526 42.187438  -2.294535 42.187442  -2.294562 42.187458  -2.294578 42.187468  -2.294581 42.187470  -2.294587 42.187476  -2.294602 42.187492  -2.294613 42.187502  -2.294621 42.187510  -2.294628 42.187517  -2.294630 42.187520  -2.294661 42.187553  -2.294673 42.187565  -2.294689 42.187583  -2.294691 42.187584  -2.294709 42.187597  -2.294737 42.187618  -2.294761 42.187635  -2.294763 42.187637  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eras del Puente</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Munilla</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.099.20</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2609800033</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1534555">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -683,6 +663,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.294763 42.187637  -2.294985 42.187529  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eras del Puente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Munilla</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.099.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609800033</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4658049">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294114 42.187163 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294074 42.187279 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.294074 42.187279  -2.294088 42.187257  -2.294106 42.187219  -2.294114 42.187197  -2.294095 42.187163  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eras del Puente</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Munilla</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Munilla</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.099.20</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2609800033</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4658050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294763 42.187279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294074 42.187637 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.294074 42.187279  -2.294077 42.187295  -2.294116 42.187351  -2.294152 42.187372  -2.294163 42.187378  -2.294167 42.187380  -2.294196 42.187396  -2.294230 42.187414  -2.294231 42.187415  -2.294240 42.187419  -2.294249 42.187423  -2.294259 42.187425  -2.294272 42.187428  -2.294273 42.187428  -2.294299 42.187431  -2.294322 42.187434  -2.294329 42.187435  -2.294343 42.187435  -2.294360 42.187434  -2.294377 42.187431  -2.294403 42.187426  -2.294414 42.187424  -2.294420 42.187424  -2.294459 42.187428  -2.294478 42.187431  -2.294484 42.187431  -2.294511 42.187435  -2.294526 42.187438  -2.294535 42.187442  -2.294562 42.187458  -2.294578 42.187468  -2.294581 42.187470  -2.294587 42.187476  -2.294602 42.187492  -2.294613 42.187502  -2.294621 42.187510  -2.294628 42.187517  -2.294630 42.187520  -2.294661 42.187553  -2.294673 42.187565  -2.294689 42.187583  -2.294691 42.187584  -2.294709 42.187597  -2.294737 42.187618  -2.294761 42.187635  -2.294763 42.187637  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras del Puente</ms:NOMBRE_COMPLETO_VIAL>
