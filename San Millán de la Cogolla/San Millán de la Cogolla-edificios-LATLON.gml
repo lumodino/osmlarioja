@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.889096 42.305594 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.889096 42.305596 </gml:lowerCorner>
       		<gml:upperCorner>-2.854463 42.333902 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -4272,27 +4272,6 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>San Millán de la Cogolla</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de la Cogolla</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4092886">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.888497 42.305594 </gml:lowerCorner>
-        		<gml:upperCorner>-2.888289 42.305667 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.888301 42.305667  -2.888497 42.305634  -2.888485 42.305594  -2.888289 42.305627  -2.888301 42.305667  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Lugar del Río o Río</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Millán de la Cogolla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

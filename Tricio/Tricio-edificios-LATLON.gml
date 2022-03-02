@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.734145 42.391985 </gml:lowerCorner>
-      		<gml:upperCorner>-2.700283 42.412641 </gml:upperCorner>
+      		<gml:upperCorner>-2.700283 42.412263 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -739,27 +739,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.709450 42.408166  -2.709918 42.407835  -2.709852 42.407818  -2.709645 42.407763  -2.709450 42.408166  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047253">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.706179 42.411652 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705798 42.411991 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705953 42.411991  -2.706179 42.411724  -2.706023 42.411652  -2.705798 42.411918  -2.705953 42.411991  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2902,48 +2881,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.718685 42.402259  -2.718717 42.402413  -2.718780 42.402403  -2.718783 42.402403  -2.718796 42.402310  -2.718815 42.402267  -2.718835 42.402223  -2.718761 42.402204  -2.718691 42.402195  -2.718685 42.402259  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047356">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.706092 42.412168 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705759 42.412520 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705759 42.412471  -2.705932 42.412520  -2.706092 42.412219  -2.705914 42.412168  -2.705759 42.412471  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047357">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.706713 42.411728 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705933 42.412641 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706123 42.412228  -2.705933 42.412521  -2.705973 42.412532  -2.706126 42.412577  -2.706351 42.412641  -2.706504 42.412346  -2.706305 42.412289  -2.706449 42.412065  -2.706479 42.412017  -2.706535 42.412036  -2.706569 42.412049  -2.706713 42.411826  -2.706625 42.411793  -2.706447 42.411728  -2.706123 42.412228  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7906,27 +7843,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047593">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.705598 42.412367 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705446 42.412464 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705597 42.412414  -2.705598 42.412412  -2.705543 42.412388  -2.705540 42.412391  -2.705487 42.412367  -2.705446 42.412416  -2.705554 42.412464  -2.705597 42.412414  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4047594">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10111,27 +10027,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047698">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.706123 42.412219 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705932 42.412521 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706092 42.412219  -2.705932 42.412520  -2.705933 42.412521  -2.706123 42.412228  -2.706092 42.412219  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4047699">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10501,27 +10396,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.718701 42.401191  -2.718628 42.401178  -2.718616 42.401215  -2.718743 42.401240  -2.718748 42.401241  -2.718761 42.401202  -2.718701 42.401191  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047717">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.706569 42.412017 </gml:lowerCorner>
-        		<gml:upperCorner>-2.706449 42.412096 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.706449 42.412065  -2.706539 42.412096  -2.706569 42.412049  -2.706535 42.412036  -2.706479 42.412017  -2.706449 42.412065  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12433,27 +12307,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.719808 42.400952  -2.719925 42.400973  -2.719961 42.400979  -2.719976 42.400982  -2.719988 42.400949  -2.719982 42.400945  -2.719932 42.400941  -2.719930 42.400948  -2.719815 42.400933  -2.719808 42.400952  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Tricio</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Tricio</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4047809">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.705647 42.412327 </gml:lowerCorner>
-        		<gml:upperCorner>-2.705543 42.412412 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.705543 42.412388  -2.705598 42.412412  -2.705647 42.412350  -2.705592 42.412327  -2.705543 42.412388  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

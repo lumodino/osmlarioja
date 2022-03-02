@@ -28954,13 +28954,13 @@
       <ms:portales gml:id="portales.295471">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.716068 42.417551 </gml:lowerCorner>
-        		<gml:upperCorner>-2.716068 42.417551 </gml:upperCorner>
+        		<gml:lowerCorner>-2.717346 42.417899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.717346 42.417899 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.716068 42.417551 </gml:pos>
+            <gml:pos>-2.717346 42.417899 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Logroño</ms:NOMBRE_COMPLETO_VIAL>
@@ -29038,13 +29038,13 @@
       <ms:portales gml:id="portales.295473">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.717028 42.417920 </gml:lowerCorner>
-        		<gml:upperCorner>-2.717028 42.417920 </gml:upperCorner>
+        		<gml:lowerCorner>-2.716814 42.417884 </gml:lowerCorner>
+        		<gml:upperCorner>-2.716814 42.417884 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.717028 42.417920 </gml:pos>
+            <gml:pos>-2.716814 42.417884 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Logroño</ms:NOMBRE_COMPLETO_VIAL>

@@ -1116,13 +1116,13 @@
       <ms:viales gml:id="viales.1535216">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.532289 42.225709 </gml:lowerCorner>
-        		<gml:upperCorner>-2.531701 42.225829 </gml:upperCorner>
+        		<gml:lowerCorner>-2.532287 42.225709 </gml:lowerCorner>
+        		<gml:upperCorner>-2.531701 42.225812 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.532289 42.225829  -2.532010 42.225727  -2.531810 42.225709  -2.531701 42.225713  </gml:posList>
+            <gml:posList srsDimension="2">-2.532287 42.225812  -2.532010 42.225727  -2.531810 42.225709  -2.531701 42.225713  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Eras</ms:NOMBRE_COMPLETO_VIAL>
