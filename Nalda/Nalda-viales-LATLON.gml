@@ -616,13 +616,13 @@
       <ms:viales gml:id="viales.1535702">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.515745 42.324450 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.515723 42.324437 </gml:lowerCorner>
         		<gml:upperCorner>-2.515644 42.324704 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.515745 42.324450  -2.515670 42.324541  -2.515644 42.324704  </gml:posList>
+            <gml:posList srsDimension="2">-2.515723 42.324437  -2.515670 42.324541  -2.515644 42.324704  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
@@ -737,12 +737,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.515888 42.324319 </gml:lowerCorner>
-        		<gml:upperCorner>-2.515745 42.324450 </gml:upperCorner>
+        		<gml:upperCorner>-2.515723 42.324437 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.515888 42.324319  -2.515812 42.324367  -2.515745 42.324450  </gml:posList>
+            <gml:posList srsDimension="2">-2.515888 42.324319  -2.515812 42.324367  -2.515723 42.324437  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
@@ -1876,13 +1876,13 @@
       <ms:viales gml:id="viales.1535757">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.488648 42.336485 </gml:lowerCorner>
-        		<gml:upperCorner>-2.488145 42.337129 </gml:upperCorner>
+        		<gml:lowerCorner>-2.488939 42.336485 </gml:lowerCorner>
+        		<gml:upperCorner>-2.488145 42.337422 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.488145 42.336485  -2.488319 42.336670  -2.488370 42.336809  -2.488544 42.336991  -2.488648 42.337129  </gml:posList>
+            <gml:posList srsDimension="2">-2.488145 42.336485  -2.488319 42.336670  -2.488370 42.336809  -2.488544 42.336991  -2.488776 42.337324  -2.488802 42.337361  -2.488939 42.337422  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Lorenzo Íñiguez</ms:NOMBRE_COMPLETO_VIAL>
@@ -3716,13 +3716,13 @@
       <ms:viales gml:id="viales.1535784">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516246 42.323889 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516233 42.323956 </gml:upperCorner>
+        		<gml:lowerCorner>-2.516282 42.323889 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516233 42.323959 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516246 42.323956  -2.516233 42.323889  </gml:posList>
+            <gml:posList srsDimension="2">-2.516282 42.323959  -2.516233 42.323889  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -3736,13 +3736,13 @@
       <ms:viales gml:id="viales.1535785">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516611 42.323882 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516233 42.324071 </gml:upperCorner>
+        		<gml:lowerCorner>-2.516578 42.323882 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516233 42.324055 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516233 42.323889  -2.516263 42.323882  -2.516287 42.323889  -2.516449 42.323994  -2.516611 42.324071  </gml:posList>
+            <gml:posList srsDimension="2">-2.516233 42.323889  -2.516263 42.323882  -2.516287 42.323889  -2.516449 42.323994  -2.516578 42.324055  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -4896,13 +4896,13 @@
       <ms:viales gml:id="viales.1535781">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516396 42.323956 </gml:lowerCorner>
-        		<gml:upperCorner>-2.516246 42.324073 </gml:upperCorner>
+        		<gml:lowerCorner>-2.516396 42.323959 </gml:lowerCorner>
+        		<gml:upperCorner>-2.516282 42.324073 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516396 42.324073  -2.516347 42.324012  -2.516246 42.323956  </gml:posList>
+            <gml:posList srsDimension="2">-2.516396 42.324073  -2.516347 42.324012  -2.516282 42.323959  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -4916,13 +4916,13 @@
       <ms:viales gml:id="viales.1535782">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.516246 42.323956 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.516282 42.323959 </gml:lowerCorner>
         		<gml:upperCorner>-2.516046 42.323962 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.516246 42.323956  -2.516046 42.323962  </gml:posList>
+            <gml:posList srsDimension="2">-2.516282 42.323959  -2.516046 42.323962  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
