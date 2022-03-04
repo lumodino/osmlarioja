@@ -1173,26 +1173,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535696">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.509746 42.342027 </gml:lowerCorner>
-        		<gml:upperCorner>-2.507235 42.347303 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.509746 42.342027  -2.509138 42.342531  -2.509024 42.342637  -2.508966 42.342736  -2.508599 42.343586  -2.508496 42.343921  -2.508258 42.345066  -2.508139 42.345502  -2.508009 42.345865  -2.507851 42.346237  -2.507693 42.346543  -2.507235 42.347303  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535698">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1453,26 +1433,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535770">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.508422 42.341748 </gml:lowerCorner>
-        		<gml:upperCorner>-2.506904 42.346598 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.506904 42.346598  -2.507087 42.346306  -2.507275 42.345929  -2.507386 42.345624  -2.507481 42.345231  -2.507549 42.344676  -2.507644 42.344220  -2.507751 42.343544  -2.508300 42.342390  -2.508371 42.342131  -2.508422 42.341748  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1535771">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1693,26 +1653,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1535890">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.510104 42.341852 </gml:lowerCorner>
-        		<gml:upperCorner>-2.509746 42.342027 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.509746 42.342027  -2.509834 42.341954  -2.509938 42.341894  -2.510020 42.341867  -2.510104 42.341852  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1559374">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1836,13 +1776,13 @@
       <ms:viales gml:id="viales.1535679">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.487533 42.335322 </gml:lowerCorner>
-        		<gml:upperCorner>-2.486751 42.336089 </gml:upperCorner>
+        		<gml:lowerCorner>-2.487533 42.335323 </gml:lowerCorner>
+        		<gml:upperCorner>-2.486745 42.336089 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487533 42.336089  -2.487327 42.335954  -2.487023 42.335695  -2.486825 42.335457  -2.486759 42.335352  -2.486751 42.335322  </gml:posList>
+            <gml:posList srsDimension="2">-2.487533 42.336089  -2.487327 42.335954  -2.487023 42.335695  -2.486825 42.335457  -2.486759 42.335352  -2.486745 42.335323  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Lorenzo Íñiguez</ms:NOMBRE_COMPLETO_VIAL>
@@ -1857,12 +1797,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.486792 42.334816 </gml:lowerCorner>
-        		<gml:upperCorner>-2.486732 42.335322 </gml:upperCorner>
+        		<gml:upperCorner>-2.486732 42.335323 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.486751 42.335322  -2.486732 42.335249  -2.486733 42.335134  -2.486792 42.334816  </gml:posList>
+            <gml:posList srsDimension="2">-2.486745 42.335323  -2.486732 42.335249  -2.486733 42.335134  -2.486792 42.334816  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Lorenzo Íñiguez</ms:NOMBRE_COMPLETO_VIAL>
@@ -1922,7 +1862,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487961 42.336290  -2.487909 42.336286  -2.487771 42.336244  -2.487533 42.336089  </gml:posList>
+            <gml:posList srsDimension="2">-2.487961 42.336290  -2.487942 42.336289  -2.487930 42.336288  -2.487925 42.336287  -2.487909 42.336286  -2.487899 42.336284  -2.487873 42.336279  -2.487858 42.336276  -2.487848 42.336273  -2.487823 42.336266  -2.487810 42.336261  -2.487799 42.336257  -2.487796 42.336255  -2.487777 42.336247  -2.487771 42.336244  -2.487757 42.336236  -2.487742 42.336228  -2.487737 42.336224  -2.487731 42.336220  -2.487707 42.336204  -2.487648 42.336165  -2.487580 42.336120  -2.487557 42.336104  -2.487533 42.336089  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Lorenzo Íñiguez</ms:NOMBRE_COMPLETO_VIAL>
@@ -2556,13 +2496,13 @@
       <ms:viales gml:id="viales.1535736">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.487091 42.335322 </gml:lowerCorner>
-        		<gml:upperCorner>-2.486751 42.335565 </gml:upperCorner>
+        		<gml:lowerCorner>-2.487091 42.335323 </gml:lowerCorner>
+        		<gml:upperCorner>-2.486745 42.335565 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.487091 42.335565  -2.486972 42.335506  -2.486898 42.335463  -2.486811 42.335370  -2.486751 42.335322  </gml:posList>
+            <gml:posList srsDimension="2">-2.487091 42.335565  -2.486972 42.335506  -2.486898 42.335463  -2.486811 42.335370  -2.486745 42.335323  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Somo Bajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -4722,7 +4662,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.489670 42.335603  -2.489317 42.335784  -2.488065 42.336280  -2.487961 42.336290  </gml:posList>
+            <gml:posList srsDimension="2">-2.489670 42.335603  -2.489626 42.335625  -2.489594 42.335640  -2.489521 42.335678  -2.489495 42.335692  -2.489460 42.335711  -2.489456 42.335713  -2.489424 42.335729  -2.489378 42.335753  -2.489335 42.335775  -2.489311 42.335787  -2.489306 42.335790  -2.489293 42.335794  -2.489218 42.335823  -2.489166 42.335843  -2.489138 42.335854  -2.489128 42.335857  -2.488971 42.335910  -2.488901 42.335934  -2.488879 42.335942  -2.488873 42.335944  -2.488871 42.335945  -2.488849 42.335953  -2.488837 42.335958  -2.488818 42.335964  -2.488772 42.335984  -2.488667 42.336028  -2.488597 42.336057  -2.488566 42.336070  -2.488553 42.336075  -2.488512 42.336092  -2.488479 42.336106  -2.488464 42.336113  -2.488426 42.336129  -2.488339 42.336168  -2.488299 42.336185  -2.488233 42.336214  -2.488204 42.336227  -2.488203 42.336227  -2.488161 42.336248  -2.488120 42.336265  -2.488065 42.336280  -2.488013 42.336288  -2.487961 42.336290  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera</ms:NOMBRE_COMPLETO_VIAL>
@@ -5210,6 +5150,66 @@
         <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535770">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.508422 42.341748 </gml:lowerCorner>
+        		<gml:upperCorner>-2.506904 42.346598 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.506904 42.346598  -2.507087 42.346306  -2.507275 42.345929  -2.507386 42.345624  -2.507481 42.345231  -2.507549 42.344676  -2.507644 42.344220  -2.507751 42.343544  -2.508300 42.342390  -2.508371 42.342131  -2.508422 42.341748  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Tintoretto</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.95</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610300111</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535696">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.509746 42.342027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.507235 42.347303 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.509746 42.342027  -2.509138 42.342531  -2.509024 42.342637  -2.508966 42.342736  -2.508599 42.343586  -2.508496 42.343921  -2.508258 42.345066  -2.508139 42.345502  -2.508009 42.345865  -2.507851 42.346237  -2.507693 42.346543  -2.507235 42.347303  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Monet</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610300109</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1535890">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.510104 42.341852 </gml:lowerCorner>
+        		<gml:upperCorner>-2.509746 42.342027 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.509746 42.342027  -2.509834 42.341954  -2.509938 42.341894  -2.510020 42.341867  -2.510104 42.341852  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Monet</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Nalda</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Nalda</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.104.96</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610300109</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>
