@@ -305,7 +305,7 @@
             <gml:posList srsDimension="2">-2.165357 42.215540  -2.165298 42.215510  -2.165226 42.215467  -2.165123 42.215449  -2.165011 42.215386  -2.164739 42.215273  -2.164691 42.215238  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Travesía del Moro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.072.13</ms:COD_CATASTRAL_VIAL>

@@ -667,13 +667,13 @@
       <ms:portales gml:id="portales.4182779">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098199 41.963255 </gml:lowerCorner>
-        		<gml:upperCorner>-2.098199 41.963255 </gml:upperCorner>
+        		<gml:lowerCorner>-2.098216 41.963255 </gml:lowerCorner>
+        		<gml:upperCorner>-2.098216 41.963255 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.098199 41.963255 </gml:pos>
+            <gml:pos>-2.098216 41.963255 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -751,13 +751,13 @@
       <ms:portales gml:id="portales.4182780">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098143 41.963176 </gml:lowerCorner>
-        		<gml:upperCorner>-2.098143 41.963176 </gml:upperCorner>
+        		<gml:lowerCorner>-2.098147 41.963167 </gml:lowerCorner>
+        		<gml:upperCorner>-2.098147 41.963167 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.098143 41.963176 </gml:pos>
+            <gml:pos>-2.098147 41.963167 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -793,13 +793,13 @@
       <ms:portales gml:id="portales.4182783">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098089 41.963142 </gml:lowerCorner>
-        		<gml:upperCorner>-2.098089 41.963142 </gml:upperCorner>
+        		<gml:lowerCorner>-2.098090 41.963136 </gml:lowerCorner>
+        		<gml:upperCorner>-2.098090 41.963136 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.098089 41.963142 </gml:pos>
+            <gml:pos>-2.098090 41.963136 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -814,13 +814,13 @@
       <ms:portales gml:id="portales.4182784">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097994 41.963123 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097994 41.963123 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097997 41.963115 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097997 41.963115 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097994 41.963123 </gml:pos>
+            <gml:pos>-2.097997 41.963115 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -835,13 +835,13 @@
       <ms:portales gml:id="portales.4182785">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097898 41.963131 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097898 41.963131 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097898 41.963123 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097898 41.963123 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097898 41.963131 </gml:pos>
+            <gml:pos>-2.097898 41.963123 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -877,13 +877,13 @@
       <ms:portales gml:id="portales.4182788">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.097932 41.963094 </gml:lowerCorner>
-        		<gml:upperCorner>-2.097932 41.963094 </gml:upperCorner>
+        		<gml:lowerCorner>-2.097947 41.963089 </gml:lowerCorner>
+        		<gml:upperCorner>-2.097947 41.963089 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.097932 41.963094 </gml:pos>
+            <gml:pos>-2.097947 41.963089 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>

@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.099423 41.963357 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.099423 41.963351 </gml:lowerCorner>
       		<gml:upperCorner>-2.097966 41.965646 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -16,13 +16,13 @@
       <ms:viales gml:id="viales.1535906">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098791 41.963514 </gml:lowerCorner>
-        		<gml:upperCorner>-2.098334 41.964415 </gml:upperCorner>
+        		<gml:lowerCorner>-2.098791 41.963505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.098329 41.964415 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.098791 41.964415  -2.098791 41.964415  -2.098717 41.964062  -2.098660 41.963941  -2.098334 41.963514  </gml:posList>
+            <gml:posList srsDimension="2">-2.098791 41.964415  -2.098791 41.964415  -2.098717 41.964062  -2.098660 41.963941  -2.098329 41.963505  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -56,13 +56,13 @@
       <ms:viales gml:id="viales.1535914">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098334 41.963357 </gml:lowerCorner>
-        		<gml:upperCorner>-2.098250 41.963514 </gml:upperCorner>
+        		<gml:lowerCorner>-2.098329 41.963351 </gml:lowerCorner>
+        		<gml:upperCorner>-2.098260 41.963505 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.098334 41.963514  -2.098334 41.963513  -2.098250 41.963357  </gml:posList>
+            <gml:posList srsDimension="2">-2.098329 41.963505  -2.098260 41.963375  -2.098260 41.963358  -2.098274 41.963351  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>
@@ -76,13 +76,13 @@
       <ms:viales gml:id="viales.1535915">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.098334 41.963514 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.098329 41.963505 </gml:lowerCorner>
         		<gml:upperCorner>-2.097966 41.963661 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.098334 41.963514  -2.098254 41.963537  -2.097966 41.963661  </gml:posList>
+            <gml:posList srsDimension="2">-2.098329 41.963505  -2.098254 41.963537  -2.097966 41.963661  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Abajo</ms:NOMBRE_COMPLETO_VIAL>

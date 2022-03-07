@@ -113,16 +113,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1820368">
+      <ms:viales gml:id="viales.4666627">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.562892 42.422646 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.562351 42.423165 </gml:lowerCorner>
         		<gml:upperCorner>-2.560775 42.425113 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.560775 42.425113  -2.560884 42.425048  -2.561030 42.424990  -2.561210 42.424936  -2.561330 42.424883  -2.561417 42.424794  -2.561484 42.424667  -2.561572 42.424387  -2.561667 42.424107  -2.561775 42.423886  -2.561943 42.423621  -2.562083 42.423430  -2.562351 42.423165  -2.562478 42.423023  -2.562739 42.422802  -2.562892 42.422646  </gml:posList>
+            <gml:posList srsDimension="2">-2.560775 42.425113  -2.560884 42.425048  -2.561030 42.424990  -2.561210 42.424936  -2.561330 42.424883  -2.561417 42.424794  -2.561484 42.424667  -2.561572 42.424387  -2.561667 42.424107  -2.561775 42.423886  -2.561943 42.423621  -2.562083 42.423430  -2.562351 42.423165  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino de Hornos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Navarrete</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Navarrete</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2610500170</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4666628">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.562892 42.422646 </gml:lowerCorner>
+        		<gml:upperCorner>-2.562351 42.423165 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.562351 42.423165  -2.562478 42.423023  -2.562739 42.422802  -2.562892 42.422646  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Hornos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1836,13 +1856,13 @@
       <ms:viales gml:id="viales.1536012">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.571384 42.428959 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570568 42.429876 </gml:upperCorner>
+        		<gml:lowerCorner>-2.571384 42.428936 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570617 42.429876 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570568 42.428959  -2.570978 42.429406  -2.571384 42.429876  </gml:posList>
+            <gml:posList srsDimension="2">-2.570617 42.428936  -2.570978 42.429406  -2.571384 42.429876  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera de Burgos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1857,12 +1877,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.571231 42.428644 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570568 42.428959 </gml:upperCorner>
+        		<gml:upperCorner>-2.570617 42.428936 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570568 42.428959  -2.571231 42.428644  </gml:posList>
+            <gml:posList srsDimension="2">-2.570617 42.428936  -2.571231 42.428644  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera de Burgos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1916,13 +1936,13 @@
       <ms:viales gml:id="viales.1536195">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.570568 42.428959 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.570617 42.428936 </gml:lowerCorner>
         		<gml:upperCorner>-2.570230 42.429119 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.570230 42.429119  -2.570230 42.429119  -2.570568 42.428959  </gml:posList>
+            <gml:posList srsDimension="2">-2.570230 42.429119  -2.570230 42.429119  -2.570617 42.428936  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera de Burgos</ms:NOMBRE_COMPLETO_VIAL>
