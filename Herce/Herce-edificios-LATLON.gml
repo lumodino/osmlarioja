@@ -2617,27 +2617,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.1695691">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166760 42.214117 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166692 42.214166 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.166760 42.214159  -2.166758 42.214157  -2.166743 42.214120  -2.166742 42.214117  -2.166740 42.214117  -2.166730 42.214120  -2.166720 42.214124  -2.166711 42.214127  -2.166702 42.214131  -2.166692 42.214135  -2.166694 42.214138  -2.166709 42.214163  -2.166710 42.214166  -2.166758 42.214159  -2.166760 42.214159  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Herce</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.1695692">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

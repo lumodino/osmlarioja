@@ -128,8 +128,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.38</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2607200063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -148,8 +148,8 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Trillo</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.38</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2607200063</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -168,7 +168,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Puente</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.39</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -188,7 +188,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Barranco</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.40</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -208,7 +208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Larga</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.41</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -228,7 +228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Larga</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.41</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -248,7 +248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.42</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -268,7 +268,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.42</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -288,7 +288,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.42</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200059</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -328,7 +328,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -348,7 +348,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -368,7 +368,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -388,7 +388,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -408,7 +408,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vía Verde</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.43</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200057</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1588,7 +1588,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1608,7 +1608,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -1628,7 +1628,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Moro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.37</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2607200045</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2208,7 +2208,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Fray Atanasio Lobera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.44</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2228,7 +2228,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Fray Atanasio Lobera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.44</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
@@ -2248,7 +2248,7 @@
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Fray Atanasio Lobera</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_CATASTRAL_VIAL>26.072.44</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>

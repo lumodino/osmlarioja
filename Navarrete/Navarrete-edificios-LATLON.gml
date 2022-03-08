@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.588839 42.407646 </gml:lowerCorner>
-      		<gml:upperCorner>-2.526003 42.445175 </gml:upperCorner>
+      		<gml:lowerCorner>-2.595506 42.407646 </gml:lowerCorner>
+      		<gml:upperCorner>-2.525779 42.445844 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -570,7 +570,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.570557 42.426176  -2.570553 42.426182  -2.570437 42.426325  -2.570569 42.426381  -2.570622 42.426403  -2.570731 42.426233  -2.570933 42.425908  -2.570760 42.425856  -2.570557 42.426176  </gml:posList>
+                <gml:posList srsDimension="2">-2.570557 42.426176  -2.570553 42.426182  -2.570437 42.426325  -2.570569 42.426381  -2.570622 42.426403  -2.570731 42.426233  -2.570933 42.425908  -2.570846 42.425882  -2.570760 42.425856  -2.570557 42.426176  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -843,7 +843,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554519 42.432499  -2.554569 42.432783  -2.554155 42.432846  -2.554099 42.432855  -2.554104 42.432941  -2.554690 42.432849  -2.554674 42.432767  -2.554622 42.432489  -2.554519 42.432499  </gml:posList>
+                <gml:posList srsDimension="2">-2.554519 42.432499  -2.554569 42.432783  -2.554403 42.432809  -2.554155 42.432846  -2.554099 42.432855  -2.554104 42.432941  -2.554690 42.432849  -2.554674 42.432767  -2.554622 42.432489  -2.554519 42.432499  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1158,7 +1158,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.560418 42.434860  -2.560432 42.434755  -2.559782 42.434918  -2.559803 42.435014  -2.559810 42.435012  -2.560126 42.434933  -2.560213 42.434911  -2.560322 42.434884  -2.560418 42.434860  </gml:posList>
+                <gml:posList srsDimension="2">-2.560418 42.434860  -2.560432 42.434755  -2.559782 42.434918  -2.559792 42.434966  -2.559803 42.435014  -2.559810 42.435012  -2.560126 42.434933  -2.560213 42.434911  -2.560322 42.434884  -2.560418 42.434860  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1284,7 +1284,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.552930 42.418216  -2.552663 42.417913  -2.552606 42.417941  -2.552874 42.418243  -2.552930 42.418216  </gml:posList>
+                <gml:posList srsDimension="2">-2.552930 42.418216  -2.552808 42.418078  -2.552663 42.417913  -2.552606 42.417941  -2.552874 42.418243  -2.552930 42.418216  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2277,7 +2277,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554573 42.430203  -2.554465 42.430221  -2.554501 42.430640  -2.554610 42.430631  -2.554573 42.430203  </gml:posList>
+                <gml:posList srsDimension="2">-2.554573 42.430203  -2.554465 42.430221  -2.554501 42.430640  -2.554610 42.430631  -2.554604 42.430566  -2.554573 42.430203  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3033,7 +3033,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.557147 42.433323  -2.557154 42.433338  -2.557177 42.433384  -2.557520 42.433289  -2.557471 42.433191  -2.557423 42.433204  -2.557129 42.433286  -2.557147 42.433323  </gml:posList>
+                <gml:posList srsDimension="2">-2.557147 42.433323  -2.557154 42.433338  -2.557177 42.433384  -2.557520 42.433289  -2.557496 42.433240  -2.557471 42.433191  -2.557423 42.433204  -2.557129 42.433286  -2.557147 42.433323  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4479,7 +4479,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.565018 42.433208  -2.565313 42.433067  -2.565264 42.433011  -2.565252 42.432997  -2.564957 42.433138  -2.565018 42.433208  </gml:posList>
+                <gml:posList srsDimension="2">-2.565018 42.433208  -2.565313 42.433067  -2.565289 42.433039  -2.565264 42.433011  -2.565252 42.432997  -2.564957 42.433138  -2.565018 42.433208  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4605,7 +4605,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.558565 42.432542  -2.558498 42.432456  -2.558383 42.432309  -2.558288 42.432351  -2.558375 42.432459  -2.558421 42.432516  -2.558468 42.432575  -2.558565 42.432542  </gml:posList>
+                <gml:posList srsDimension="2">-2.558565 42.432542  -2.558498 42.432456  -2.558383 42.432309  -2.558336 42.432330  -2.558288 42.432351  -2.558375 42.432459  -2.558421 42.432516  -2.558468 42.432575  -2.558565 42.432542  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4668,7 +4668,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.561319 42.420452  -2.561351 42.420451  -2.561347 42.420270  -2.561187 42.420274  -2.561196 42.420455  -2.561319 42.420452  </gml:posList>
+                <gml:posList srsDimension="2">-2.561319 42.420452  -2.561351 42.420451  -2.561347 42.420270  -2.561187 42.420274  -2.561192 42.420365  -2.561196 42.420455  -2.561319 42.420452  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4773,7 +4773,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.550140 42.430214  -2.549989 42.430243  -2.549990 42.430245  -2.550057 42.430417  -2.550206 42.430386  -2.550140 42.430214  </gml:posList>
+                <gml:posList srsDimension="2">-2.550140 42.430214  -2.549989 42.430243  -2.549990 42.430245  -2.550057 42.430417  -2.550132 42.430401  -2.550206 42.430386  -2.550140 42.430214  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5034,7 +5034,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564975 42.432888  -2.565037 42.432960  -2.565285 42.432843  -2.565256 42.432755  -2.564975 42.432888  </gml:posList>
+                <gml:posList srsDimension="2">-2.564975 42.432888  -2.565037 42.432960  -2.565285 42.432843  -2.565270 42.432799  -2.565256 42.432755  -2.564975 42.432888  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5526,7 +5526,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.561345 42.436603  -2.561267 42.436638  -2.561489 42.436904  -2.561573 42.436865  -2.561345 42.436603  </gml:posList>
+                <gml:posList srsDimension="2">-2.561345 42.436603  -2.561306 42.436620  -2.561267 42.436638  -2.561489 42.436904  -2.561573 42.436865  -2.561345 42.436603  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6526,15 +6526,15 @@
       <ms:edificios gml:id="edificios.3973091">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.553701 42.429704 </gml:lowerCorner>
-        		<gml:upperCorner>-2.553429 42.429793 </gml:upperCorner>
+        		<gml:lowerCorner>-2.553704 42.429704 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553424 42.429824 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.553431 42.429793  -2.553701 42.429789  -2.553699 42.429704  -2.553429 42.429708  -2.553431 42.429793  </gml:posList>
+                <gml:posList srsDimension="2">-2.553424 42.429824  -2.553564 42.429819  -2.553704 42.429814  -2.553699 42.429704  -2.553429 42.429708  -2.553424 42.429824  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6723,7 +6723,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564734 42.433245  -2.564957 42.433138  -2.564898 42.433071  -2.564665 42.433182  -2.564724 42.433250  -2.564734 42.433245  </gml:posList>
+                <gml:posList srsDimension="2">-2.564734 42.433245  -2.564957 42.433138  -2.564928 42.433104  -2.564898 42.433071  -2.564665 42.433182  -2.564724 42.433250  -2.564734 42.433245  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7300,36 +7300,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973128">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554323 42.421985 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554054 42.422131 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:MultiSurface srsName="EPSG:4326">
-            <gml:surfaceMembers>
-              <gml:Polygon>
-                <gml:exterior>
-                  <gml:LinearRing>
-                    <gml:posList srsDimension="2">-2.554278 42.421985  -2.554054 42.422050  -2.554101 42.422131  -2.554323 42.422068  -2.554278 42.421985  </gml:posList>
-                  </gml:LinearRing>
-                </gml:exterior>
-                <gml:interior>
-                  <gml:LinearRing>
-                    <gml:posList srsDimension="2">-2.554232 42.422009  -2.554276 42.421995  -2.554313 42.422061  -2.554269 42.422075  -2.554232 42.422009  </gml:posList>
-                  </gml:LinearRing>
-                </gml:interior>
-              </gml:Polygon>
-            </gml:surfaceMembers>
-          </gml:MultiSurface>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3973129">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -7740,7 +7710,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554456 42.428034  -2.554463 42.428115  -2.554708 42.428105  -2.554702 42.428024  -2.554456 42.428034  </gml:posList>
+                <gml:posList srsDimension="2">-2.554456 42.428034  -2.554463 42.428115  -2.554708 42.428105  -2.554705 42.428065  -2.554702 42.428024  -2.554456 42.428034  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8685,7 +8655,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.555745 42.430349  -2.555510 42.430392  -2.555517 42.430412  -2.555534 42.430461  -2.555775 42.430423  -2.555745 42.430349  </gml:posList>
+                <gml:posList srsDimension="2">-2.555745 42.430349  -2.555627 42.430370  -2.555510 42.430392  -2.555517 42.430412  -2.555534 42.430461  -2.555775 42.430423  -2.555745 42.430349  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8706,7 +8676,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.572014 42.427278  -2.572034 42.427259  -2.572231 42.427068  -2.572177 42.427037  -2.571960 42.427247  -2.572014 42.427278  </gml:posList>
+                <gml:posList srsDimension="2">-2.572014 42.427278  -2.572034 42.427259  -2.572120 42.427175  -2.572231 42.427068  -2.572177 42.427037  -2.571960 42.427247  -2.572014 42.427278  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9838,27 +9808,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.562615 42.425679  -2.562735 42.425664  -2.562704 42.425533  -2.562585 42.425548  -2.562615 42.425679  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973248">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564636 42.432258 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564426 42.432360 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564436 42.432333  -2.564441 42.432360  -2.564636 42.432339  -2.564620 42.432258  -2.564426 42.432280  -2.564429 42.432293  -2.564436 42.432333  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11043,7 +10992,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.561504 42.436574  -2.561569 42.436545  -2.561541 42.436513  -2.561477 42.436542  -2.561504 42.436574  </gml:posList>
+                <gml:posList srsDimension="2">-2.561504 42.436574  -2.561569 42.436545  -2.561541 42.436513  -2.561509 42.436527  -2.561477 42.436542  -2.561504 42.436574  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11547,7 +11496,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.565263 42.433236  -2.565389 42.433175  -2.565366 42.433091  -2.565205 42.433169  -2.565263 42.433236  </gml:posList>
+                <gml:posList srsDimension="2">-2.565263 42.433236  -2.565389 42.433175  -2.565378 42.433133  -2.565366 42.433091  -2.565205 42.433169  -2.565263 42.433236  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11799,7 +11748,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.562172 42.421887  -2.562177 42.421933  -2.562486 42.421914  -2.562483 42.421887  -2.562427 42.421890  -2.562425 42.421872  -2.562194 42.421886  -2.562172 42.421887  </gml:posList>
+                <gml:posList srsDimension="2">-2.562172 42.421887  -2.562174 42.421910  -2.562177 42.421933  -2.562486 42.421914  -2.562483 42.421887  -2.562427 42.421890  -2.562425 42.421872  -2.562194 42.421886  -2.562172 42.421887  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12733,27 +12682,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973385">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564832 42.432156 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564648 42.432274 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564832 42.432231  -2.564785 42.432156  -2.564648 42.432206  -2.564679 42.432251  -2.564694 42.432274  -2.564735 42.432264  -2.564832 42.432231  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3973386">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13080,7 +13008,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.567689 42.432366  -2.567663 42.432332  -2.567641 42.432303  -2.567612 42.432266  -2.567523 42.432305  -2.567600 42.432405  -2.567689 42.432366  </gml:posList>
+                <gml:posList srsDimension="2">-2.567689 42.432366  -2.567663 42.432332  -2.567641 42.432303  -2.567612 42.432266  -2.567523 42.432305  -2.567561 42.432355  -2.567600 42.432405  -2.567689 42.432366  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13135,15 +13063,15 @@
       <ms:edificios gml:id="edificios.3973404">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554199 42.420285 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554034 42.420403 </gml:upperCorner>
+        		<gml:lowerCorner>-2.558133 42.418180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557018 42.418909 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554158 42.420285  -2.554034 42.420318  -2.554075 42.420403  -2.554199 42.420369  -2.554158 42.420285  </gml:posList>
+                <gml:posList srsDimension="2">-2.557880 42.418250  -2.557371 42.418405  -2.557327 42.418359  -2.557427 42.418205  -2.557336 42.418180  -2.557240 42.418309  -2.557030 42.418447  -2.557018 42.418566  -2.557131 42.418669  -2.557391 42.418679  -2.557528 42.418909  -2.557630 42.418874  -2.557620 42.418856  -2.558133 42.418700  -2.557880 42.418250  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15694,27 +15622,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973526">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564609 42.432166 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564412 42.432241 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564412 42.432204  -2.564419 42.432241  -2.564609 42.432219  -2.564597 42.432166  -2.564421 42.432186  -2.564423 42.432195  -2.564418 42.432197  -2.564413 42.432199  -2.564412 42.432204  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3973527">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -16411,15 +16318,15 @@
       <ms:edificios gml:id="edificios.3973560">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.571455 42.423517 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570979 42.423927 </gml:upperCorner>
+        		<gml:lowerCorner>-2.571459 42.423542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570983 42.423953 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.570979 42.423873  -2.570994 42.423879  -2.571147 42.423927  -2.571415 42.423603  -2.571455 42.423555  -2.571375 42.423517  -2.571156 42.423777  -2.571078 42.423752  -2.570979 42.423873  </gml:posList>
+                <gml:posList srsDimension="2">-2.570983 42.423899  -2.570998 42.423905  -2.571151 42.423953  -2.571419 42.423629  -2.571459 42.423581  -2.571379 42.423542  -2.571160 42.423803  -2.571082 42.423777  -2.570983 42.423899  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17395,27 +17302,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973607">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564785 42.432251 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564620 42.432339 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564679 42.432251  -2.564620 42.432258  -2.564636 42.432339  -2.564785 42.432322  -2.564778 42.432293  -2.564744 42.432298  -2.564735 42.432264  -2.564694 42.432274  -2.564679 42.432251  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3973608">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -17574,7 +17460,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.555183 42.429995  -2.555197 42.430038  -2.555311 42.430017  -2.555285 42.429941  -2.555171 42.429962  -2.555183 42.429995  </gml:posList>
+                <gml:posList srsDimension="2">-2.555183 42.429995  -2.555197 42.430038  -2.555311 42.430017  -2.555303 42.429995  -2.555285 42.429941  -2.555171 42.429962  -2.555183 42.429995  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -18519,7 +18405,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.556999 42.433263  -2.556913 42.433290  -2.556953 42.433376  -2.557045 42.433351  -2.556999 42.433263  </gml:posList>
+                <gml:posList srsDimension="2">-2.556999 42.433263  -2.556956 42.433276  -2.556913 42.433290  -2.556953 42.433376  -2.557045 42.433351  -2.556999 42.433263  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21217,27 +21103,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973789">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564620 42.432219 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564419 42.432280 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564419 42.432241  -2.564426 42.432280  -2.564620 42.432258  -2.564612 42.432219  -2.564609 42.432219  -2.564419 42.432241  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3973790">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -22888,27 +22753,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.556344 42.428063  -2.556415 42.428060  -2.556407 42.427955  -2.556406 42.427946  -2.556371 42.427947  -2.556355 42.427947  -2.556356 42.427963  -2.556298 42.427966  -2.556305 42.428057  -2.556336 42.428056  -2.556343 42.428056  -2.556344 42.428063  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3973869">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564855 42.432230 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564735 42.432322 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564832 42.432231  -2.564735 42.432264  -2.564744 42.432298  -2.564778 42.432293  -2.564785 42.432322  -2.564855 42.432313  -2.564834 42.432230  -2.564832 42.432231  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25271,7 +25115,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554745 42.429159  -2.554862 42.429146  -2.554850 42.429096  -2.554735 42.429110  -2.554745 42.429159  </gml:posList>
+                <gml:posList srsDimension="2">-2.554745 42.429159  -2.554862 42.429146  -2.554856 42.429121  -2.554850 42.429096  -2.554735 42.429110  -2.554745 42.429159  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25922,7 +25766,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.561649 42.421143  -2.561650 42.421155  -2.561697 42.421154  -2.561694 42.421111  -2.561717 42.421110  -2.561714 42.421058  -2.561697 42.421058  -2.561695 42.421024  -2.561671 42.421024  -2.561673 42.421091  -2.561645 42.421092  -2.561649 42.421143  </gml:posList>
+                <gml:posList srsDimension="2">-2.561649 42.421143  -2.561650 42.421155  -2.561673 42.421154  -2.561697 42.421154  -2.561694 42.421111  -2.561717 42.421110  -2.561714 42.421058  -2.561697 42.421058  -2.561695 42.421024  -2.561671 42.421024  -2.561673 42.421091  -2.561645 42.421092  -2.561649 42.421143  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28329,15 +28173,15 @@
       <ms:edificios gml:id="edificios.3974127">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.551253 42.430406 </gml:lowerCorner>
-        		<gml:upperCorner>-2.551165 42.430487 </gml:upperCorner>
+        		<gml:lowerCorner>-2.551282 42.430404 </gml:lowerCorner>
+        		<gml:upperCorner>-2.551141 42.430616 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.551233 42.430406  -2.551165 42.430417  -2.551187 42.430487  -2.551253 42.430479  -2.551233 42.430406  </gml:posList>
+                <gml:posList srsDimension="2">-2.551242 42.430404  -2.551141 42.430421  -2.551196 42.430616  -2.551242 42.430610  -2.551232 42.430563  -2.551282 42.430558  -2.551242 42.430404  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -30723,15 +30567,15 @@
       <ms:edificios gml:id="edificios.3974241">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.553925 42.420464 </gml:lowerCorner>
-        		<gml:upperCorner>-2.553805 42.420529 </gml:upperCorner>
+        		<gml:lowerCorner>-2.557651 42.419596 </gml:lowerCorner>
+        		<gml:upperCorner>-2.557560 42.419644 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.553925 42.420501  -2.553907 42.420464  -2.553805 42.420492  -2.553823 42.420529  -2.553925 42.420501  </gml:posList>
+                <gml:posList srsDimension="2">-2.557649 42.419644  -2.557651 42.419598  -2.557563 42.419596  -2.557560 42.419642  -2.557649 42.419644  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -32390,7 +32234,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.571172 42.425619  -2.571240 42.425623  -2.571247 42.425566  -2.571180 42.425562  -2.571172 42.425619  </gml:posList>
+                <gml:posList srsDimension="2">-2.571172 42.425619  -2.571240 42.425623  -2.571247 42.425566  -2.571180 42.425562  -2.571176 42.425590  -2.571172 42.425619  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34185,27 +34029,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3974406">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.554313 42.421995 </gml:lowerCorner>
-        		<gml:upperCorner>-2.554232 42.422075 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554232 42.422009  -2.554269 42.422075  -2.554313 42.422061  -2.554276 42.421995  -2.554232 42.422009  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3974407">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -35616,15 +35439,15 @@
       <ms:edificios gml:id="edificios.3974474">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.551284 42.430555 </gml:lowerCorner>
-        		<gml:upperCorner>-2.551223 42.430626 </gml:upperCorner>
+        		<gml:lowerCorner>-2.551293 42.430558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.551232 42.430629 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.551223 42.430560  -2.551232 42.430601  -2.551237 42.430626  -2.551284 42.430611  -2.551273 42.430555  -2.551223 42.430560  </gml:posList>
+                <gml:posList srsDimension="2">-2.551232 42.430563  -2.551242 42.430610  -2.551246 42.430629  -2.551293 42.430614  -2.551282 42.430558  -2.551232 42.430563  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36758,7 +36581,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.554349 42.421315  -2.554342 42.421278  -2.554267 42.421287  -2.554275 42.421323  -2.554349 42.421315  </gml:posList>
+                <gml:posList srsDimension="2">-2.554349 42.421315  -2.554342 42.421278  -2.554267 42.421287  -2.554271 42.421305  -2.554275 42.421323  -2.554349 42.421315  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -39771,27 +39594,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3974672">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.564679 42.432206 </gml:lowerCorner>
-        		<gml:upperCorner>-2.564612 42.432258 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.564620 42.432258  -2.564679 42.432251  -2.564648 42.432206  -2.564612 42.432219  -2.564620 42.432258  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3974673">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -41769,15 +41571,15 @@
       <ms:edificios gml:id="edificios.3974767">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.551232 42.430560 </gml:lowerCorner>
-        		<gml:upperCorner>-2.551182 42.430605 </gml:upperCorner>
+        		<gml:lowerCorner>-2.552141 42.430194 </gml:lowerCorner>
+        		<gml:upperCorner>-2.551966 42.430329 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.551223 42.430560  -2.551182 42.430563  -2.551190 42.430605  -2.551232 42.430601  -2.551223 42.430560  </gml:posList>
+                <gml:posList srsDimension="2">-2.552141 42.430243  -2.552067 42.430194  -2.551966 42.430278  -2.552042 42.430329  -2.552141 42.430243  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -42840,15 +42642,15 @@
       <ms:edificios gml:id="edificios.3974818">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.578560 42.425686 </gml:lowerCorner>
-        		<gml:upperCorner>-2.578281 42.425909 </gml:upperCorner>
+        		<gml:lowerCorner>-2.578542 42.425707 </gml:lowerCorner>
+        		<gml:upperCorner>-2.578263 42.425930 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.578560 42.425848  -2.578458 42.425686  -2.578281 42.425747  -2.578383 42.425909  -2.578560 42.425848  </gml:posList>
+                <gml:posList srsDimension="2">-2.578542 42.425869  -2.578440 42.425707  -2.578263 42.425768  -2.578365 42.425930  -2.578542 42.425869  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -45662,7 +45464,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.575868 42.425033  -2.575820 42.424979  -2.575770 42.425000  -2.575818 42.425056  -2.575868 42.425033  </gml:posList>
+                <gml:posList srsDimension="2">-2.575868 42.425033  -2.575820 42.424979  -2.575770 42.425000  -2.575818 42.425056  -2.575843 42.425044  -2.575868 42.425033  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -45675,15 +45477,15 @@
       <ms:edificios gml:id="edificios.3974953">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.572839 42.424971 </gml:lowerCorner>
-        		<gml:upperCorner>-2.572777 42.425050 </gml:upperCorner>
+        		<gml:lowerCorner>-2.572846 42.424972 </gml:lowerCorner>
+        		<gml:upperCorner>-2.572778 42.425063 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.572839 42.425049  -2.572835 42.424972  -2.572777 42.424971  -2.572779 42.425050  -2.572839 42.425049  </gml:posList>
+                <gml:posList srsDimension="2">-2.572846 42.425053  -2.572842 42.425019  -2.572835 42.424972  -2.572778 42.424983  -2.572788 42.425063  -2.572846 42.425053  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -46599,15 +46401,15 @@
       <ms:edificios gml:id="edificios.3974997">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.571438 42.423317 </gml:lowerCorner>
-        		<gml:upperCorner>-2.570994 42.423662 </gml:upperCorner>
+        		<gml:lowerCorner>-2.571442 42.423343 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570998 42.423687 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.571392 42.423317  -2.571321 42.423336  -2.571198 42.423404  -2.571087 42.423469  -2.571047 42.423526  -2.570994 42.423633  -2.571091 42.423662  -2.571196 42.423491  -2.571438 42.423379  -2.571392 42.423317  </gml:posList>
+                <gml:posList srsDimension="2">-2.571396 42.423343  -2.571325 42.423361  -2.571202 42.423430  -2.571092 42.423495  -2.571051 42.423552  -2.570998 42.423659  -2.571096 42.423687  -2.571200 42.423517  -2.571442 42.423404  -2.571396 42.423343  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -50030,7 +49832,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.573086 42.444059  -2.573186 42.444032  -2.573156 42.443976  -2.573061 42.444004  -2.573086 42.444059  </gml:posList>
+                <gml:posList srsDimension="2">-2.573086 42.444059  -2.573186 42.444032  -2.573156 42.443976  -2.573061 42.444004  -2.573073 42.444032  -2.573086 42.444059  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -50513,7 +50315,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.565762 42.441139  -2.565560 42.440957  -2.565428 42.441036  -2.565630 42.441219  -2.565762 42.441139  </gml:posList>
+                <gml:posList srsDimension="2">-2.565762 42.441139  -2.565560 42.440957  -2.565494 42.440997  -2.565428 42.441036  -2.565630 42.441219  -2.565762 42.441139  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -50828,7 +50630,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.569815 42.444187  -2.569815 42.444155  -2.569892 42.444156  -2.569891 42.444130  -2.569891 42.444128  -2.570098 42.444132  -2.570160 42.444134  -2.570162 42.444009  -2.569893 42.444004  -2.569893 42.443955  -2.569894 42.443945  -2.569684 42.443942  -2.569685 42.444183  -2.569815 42.444187  </gml:posList>
+                <gml:posList srsDimension="2">-2.569815 42.444187  -2.569815 42.444155  -2.569892 42.444156  -2.569891 42.444130  -2.569891 42.444128  -2.570098 42.444132  -2.570160 42.444134  -2.570162 42.444009  -2.570027 42.444006  -2.569893 42.444004  -2.569893 42.443955  -2.569894 42.443945  -2.569684 42.443942  -2.569685 42.444183  -2.569815 42.444187  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51219,15 +51021,15 @@
       <ms:edificios gml:id="edificios.3975217">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.553735 42.439757 </gml:lowerCorner>
-        		<gml:upperCorner>-2.553671 42.439806 </gml:upperCorner>
+        		<gml:lowerCorner>-2.553758 42.439704 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553647 42.439806 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.553735 42.439795  -2.553719 42.439757  -2.553671 42.439768  -2.553686 42.439806  -2.553735 42.439795  </gml:posList>
+                <gml:posList srsDimension="2">-2.553758 42.439786  -2.553719 42.439704  -2.553647 42.439724  -2.553686 42.439806  -2.553758 42.439786  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51240,15 +51042,15 @@
       <ms:edificios gml:id="edificios.3975218">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.553595 42.439534 </gml:lowerCorner>
-        		<gml:upperCorner>-2.553518 42.439582 </gml:upperCorner>
+        		<gml:lowerCorner>-2.553611 42.439528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553534 42.439576 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.553595 42.439562  -2.553577 42.439534  -2.553518 42.439553  -2.553536 42.439582  -2.553595 42.439562  </gml:posList>
+                <gml:posList srsDimension="2">-2.553611 42.439556  -2.553601 42.439542  -2.553592 42.439528  -2.553534 42.439548  -2.553551 42.439576  -2.553611 42.439556  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51261,15 +51063,15 @@
       <ms:edificios gml:id="edificios.3975219">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.549496 42.438182 </gml:lowerCorner>
-        		<gml:upperCorner>-2.549361 42.438293 </gml:upperCorner>
+        		<gml:lowerCorner>-2.549457 42.438154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.549334 42.438251 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.549403 42.438182  -2.549361 42.438201  -2.549449 42.438293  -2.549496 42.438283  -2.549472 42.438257  -2.549420 42.438201  -2.549403 42.438182  </gml:posList>
+                <gml:posList srsDimension="2">-2.549388 42.438154  -2.549334 42.438179  -2.549400 42.438251  -2.549457 42.438229  -2.549405 42.438173  -2.549388 42.438154  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51459,69 +51261,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.540618 42.438973  -2.540538 42.439155  -2.540609 42.439172  -2.540689 42.438991  -2.540618 42.438973  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3975229">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.541876 42.439423 </gml:lowerCorner>
-        		<gml:upperCorner>-2.541802 42.439479 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.541802 42.439464  -2.541807 42.439466  -2.541854 42.439479  -2.541876 42.439437  -2.541827 42.439423  -2.541802 42.439464  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3975230">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.541807 42.439443 </gml:lowerCorner>
-        		<gml:upperCorner>-2.541711 42.439513 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.541802 42.439464  -2.541739 42.439443  -2.541711 42.439490  -2.541779 42.439513  -2.541807 42.439466  -2.541802 42.439464  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3975231">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.541443 42.439278 </gml:lowerCorner>
-        		<gml:upperCorner>-2.541349 42.439352 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.541382 42.439278  -2.541349 42.439331  -2.541413 42.439352  -2.541443 42.439298  -2.541382 42.439278  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51752,7 +51491,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.529156 42.440196  -2.529121 42.440089  -2.529111 42.440091  -2.528650 42.440178  -2.528722 42.440393  -2.528830 42.440373  -2.528948 42.440350  -2.529314 42.440281  -2.529278 42.440176  -2.529278 42.440174  -2.529156 42.440196  </gml:posList>
+                <gml:posList srsDimension="2">-2.529156 42.440196  -2.529121 42.440089  -2.529111 42.440091  -2.528929 42.440125  -2.528650 42.440178  -2.528722 42.440393  -2.528830 42.440373  -2.528948 42.440350  -2.529314 42.440281  -2.529278 42.440176  -2.529278 42.440174  -2.529156 42.440196  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51773,7 +51512,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.531342 42.439791  -2.531395 42.439722  -2.531361 42.439618  -2.531047 42.439679  -2.531081 42.439776  -2.531127 42.439767  -2.531148 42.439826  -2.531342 42.439791  </gml:posList>
+                <gml:posList srsDimension="2">-2.531342 42.439791  -2.531395 42.439722  -2.531378 42.439670  -2.531361 42.439618  -2.531047 42.439679  -2.531081 42.439776  -2.531127 42.439767  -2.531148 42.439826  -2.531342 42.439791  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51786,15 +51525,15 @@
       <ms:edificios gml:id="edificios.3975244">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.533882 42.438266 </gml:lowerCorner>
-        		<gml:upperCorner>-2.533767 42.438498 </gml:upperCorner>
+        		<gml:lowerCorner>-2.533882 42.438199 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533760 42.438498 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.533767 42.438268  -2.533791 42.438498  -2.533882 42.438494  -2.533862 42.438266  -2.533767 42.438268  </gml:posList>
+                <gml:posList srsDimension="2">-2.533760 42.438199  -2.533791 42.438498  -2.533882 42.438494  -2.533860 42.438237  -2.533760 42.438199  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -51807,15 +51546,15 @@
       <ms:edificios gml:id="edificios.3975245">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.533794 42.438268 </gml:lowerCorner>
-        		<gml:upperCorner>-2.533583 42.438542 </gml:upperCorner>
+        		<gml:lowerCorner>-2.533794 42.438122 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533561 42.438542 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.533791 42.438498  -2.533767 42.438268  -2.533668 42.438271  -2.533667 42.438359  -2.533583 42.438364  -2.533603 42.438542  -2.533788 42.438530  -2.533794 42.438531  -2.533791 42.438498  </gml:posList>
+                <gml:posList srsDimension="2">-2.533791 42.438498  -2.533760 42.438199  -2.533657 42.438154  -2.533561 42.438122  -2.533583 42.438364  -2.533603 42.438542  -2.533788 42.438530  -2.533794 42.438531  -2.533791 42.438498  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -52729,7 +52468,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.573105 42.434042  -2.573381 42.433858  -2.573292 42.433785  -2.573016 42.433969  -2.573105 42.434042  </gml:posList>
+                <gml:posList srsDimension="2">-2.573105 42.434042  -2.573381 42.433858  -2.573292 42.433785  -2.573016 42.433969  -2.573061 42.434006  -2.573105 42.434042  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -53201,27 +52940,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3975311">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.542169 42.435365 </gml:lowerCorner>
-        		<gml:upperCorner>-2.542007 42.435533 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.542052 42.435533  -2.542169 42.435513  -2.542124 42.435365  -2.542007 42.435384  -2.542052 42.435533  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3975312">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -53443,7 +53161,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.540268 42.435161  -2.540742 42.435290  -2.540754 42.435266  -2.540686 42.435247  -2.540722 42.435174  -2.540316 42.435064  -2.540268 42.435161  </gml:posList>
+                <gml:posList srsDimension="2">-2.540268 42.435161  -2.540742 42.435290  -2.540754 42.435266  -2.540686 42.435247  -2.540704 42.435211  -2.540722 42.435174  -2.540316 42.435064  -2.540268 42.435161  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -55040,6 +54758,3807 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.567294 42.430046  -2.567307 42.430100  -2.567484 42.430073  -2.567417 42.429832  -2.567415 42.429832  -2.567382 42.429838  -2.567327 42.429847  -2.567340 42.429895  -2.567347 42.429919  -2.567373 42.430011  -2.567379 42.430033  -2.567294 42.430046  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666430">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.539504 42.408391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.539443 42.408461 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.539504 42.408397  -2.539459 42.408391  -2.539443 42.408455  -2.539489 42.408461  -2.539504 42.408397  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666431">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.540403 42.409051 </gml:lowerCorner>
+        		<gml:upperCorner>-2.540326 42.409106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.540403 42.409082  -2.540376 42.409051  -2.540326 42.409075  -2.540354 42.409106  -2.540403 42.409082  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666432">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.539952 42.409410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.539908 42.409443 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.539952 42.409422  -2.539935 42.409410  -2.539908 42.409432  -2.539925 42.409443  -2.539952 42.409422  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666433">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.537322 42.414280 </gml:lowerCorner>
+        		<gml:upperCorner>-2.537232 42.414356 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.537322 42.414337  -2.537282 42.414280  -2.537232 42.414300  -2.537271 42.414356  -2.537322 42.414337  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666434">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.544587 42.415171 </gml:lowerCorner>
+        		<gml:upperCorner>-2.544536 42.415212 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.544587 42.415202  -2.544571 42.415171  -2.544536 42.415181  -2.544552 42.415212  -2.544587 42.415202  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553353 42.415344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553288 42.415391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553353 42.415379  -2.553338 42.415344  -2.553288 42.415356  -2.553303 42.415391  -2.553353 42.415379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666436">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553392 42.415418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553319 42.415476 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553392 42.415464  -2.553373 42.415418  -2.553319 42.415430  -2.553338 42.415476  -2.553392 42.415464  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666437">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553286 42.415442 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553198 42.415483 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553286 42.415476  -2.553281 42.415442  -2.553198 42.415449  -2.553203 42.415483  -2.553286 42.415476  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666438">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553116 42.415446 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553050 42.415520 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553116 42.415454  -2.553075 42.415446  -2.553050 42.415511  -2.553091 42.415520  -2.553116 42.415454  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666439">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553007 42.415456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552948 42.415528 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553007 42.415462  -2.552966 42.415456  -2.552948 42.415522  -2.552989 42.415528  -2.553007 42.415462  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666440">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552905 42.415465 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552846 42.415537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552905 42.415471  -2.552863 42.415465  -2.552846 42.415531  -2.552887 42.415537  -2.552905 42.415471  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666441">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552803 42.415476 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552745 42.415548 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552803 42.415482  -2.552762 42.415476  -2.552745 42.415543  -2.552786 42.415548  -2.552803 42.415482  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552672 42.415497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552463 42.415597 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552672 42.415567  -2.552653 42.415497  -2.552520 42.415517  -2.552529 42.415550  -2.552463 42.415560  -2.552473 42.415597  -2.552672 42.415567  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666443">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.549768 42.415509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.549700 42.415566 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.549768 42.415523  -2.549729 42.415509  -2.549700 42.415552  -2.549739 42.415566  -2.549768 42.415523  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553626 42.415611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553476 42.415714 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553626 42.415670  -2.553580 42.415611  -2.553476 42.415655  -2.553523 42.415714  -2.553626 42.415670  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666445">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553404 42.415638 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552787 42.415985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553404 42.415735  -2.553328 42.415638  -2.552821 42.415854  -2.552865 42.415911  -2.552787 42.415945  -2.552818 42.415985  -2.553404 42.415735  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666446">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552174 42.415964 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552002 42.416095 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552174 42.416059  -2.552099 42.415964  -2.552099 42.415964  -2.552002 42.416001  -2.552077 42.416095  -2.552174 42.416059  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553714 42.415681 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553557 42.415785 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553714 42.415739  -2.553671 42.415681  -2.553557 42.415727  -2.553600 42.415785  -2.553714 42.415739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666448">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553746 42.415786 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553598 42.415864 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553746 42.415814  -2.553727 42.415786  -2.553598 42.415836  -2.553617 42.415864  -2.553746 42.415814  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666449">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553493 42.415787 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552885 42.416097 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552885 42.416069  -2.552908 42.416097  -2.553493 42.415831  -2.553457 42.415787  -2.552891 42.416045  -2.552904 42.416060  -2.552885 42.416069  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553807 42.415862 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553682 42.415946 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553807 42.415909  -2.553771 42.415862  -2.553682 42.415898  -2.553718 42.415946  -2.553807 42.415909  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666451">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553626 42.415890 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553174 42.416150 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553626 42.415998  -2.553545 42.415890  -2.553174 42.416041  -2.553256 42.416150  -2.553626 42.415998  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666452">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.584512 42.416009 </gml:lowerCorner>
+        		<gml:upperCorner>-2.584443 42.416062 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.584512 42.416042  -2.584481 42.416009  -2.584443 42.416029  -2.584474 42.416062  -2.584512 42.416042  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666453">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552791 42.415898 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552171 42.416253 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552243 42.416121  -2.552257 42.416137  -2.552171 42.416177  -2.552236 42.416253  -2.552791 42.415994  -2.552709 42.415898  -2.552654 42.415924  -2.552689 42.415966  -2.552659 42.415980  -2.552671 42.415995  -2.552588 42.416034  -2.552543 42.415981  -2.552243 42.416121  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666454">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.550519 42.415932 </gml:lowerCorner>
+        		<gml:upperCorner>-2.550449 42.415988 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.550519 42.415946  -2.550471 42.415932  -2.550449 42.415974  -2.550496 42.415988  -2.550519 42.415946  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666455">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553849 42.415953 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553740 42.416029 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553849 42.416001  -2.553817 42.415953  -2.553740 42.415980  -2.553772 42.416029  -2.553849 42.416001  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666456">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.550524 42.416013 </gml:lowerCorner>
+        		<gml:upperCorner>-2.550456 42.416072 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.550524 42.416042  -2.550470 42.416013  -2.550456 42.416043  -2.550511 42.416072  -2.550524 42.416042  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666457">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553902 42.416043 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553780 42.416129 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553902 42.416089  -2.553861 42.416043  -2.553780 42.416083  -2.553821 42.416129  -2.553902 42.416089  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666458">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552874 42.416052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552279 42.416356 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552874 42.416099  -2.552834 42.416052  -2.552279 42.416309  -2.552319 42.416356  -2.552874 42.416099  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666459">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553700 42.416059 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553087 42.416351 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553700 42.416097  -2.553670 42.416059  -2.553087 42.416313  -2.553117 42.416351  -2.553700 42.416097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666460">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553953 42.416142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553837 42.416223 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553953 42.416189  -2.553917 42.416142  -2.553837 42.416176  -2.553873 42.416223  -2.553953 42.416189  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553825 42.416173 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553185 42.416511 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553825 42.416256  -2.553757 42.416173  -2.553185 42.416427  -2.553253 42.416511  -2.553825 42.416256  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666462">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554018 42.416247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553918 42.416320 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554018 42.416297  -2.553987 42.416247  -2.553918 42.416271  -2.553948 42.416320  -2.554018 42.416297  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666463">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552858 42.416269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552386 42.416546 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552858 42.416354  -2.552783 42.416269  -2.552386 42.416461  -2.552461 42.416546  -2.552858 42.416354  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554068 42.416310 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553966 42.416393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554068 42.416368  -2.554024 42.416310  -2.553966 42.416334  -2.554010 42.416393  -2.554068 42.416368  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666465">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553954 42.416326 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553334 42.416668 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553411 42.416668  -2.553954 42.416416  -2.553878 42.416326  -2.553334 42.416578  -2.553409 42.416668  -2.553411 42.416668  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666466">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553411 42.416668 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553409 42.416668 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553411 42.416668  -2.553409 42.416668  -2.553410 42.416668  -2.553411 42.416668  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666467">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553091 42.416328 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552489 42.416615 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553091 42.416368  -2.553059 42.416328  -2.552489 42.416574  -2.552521 42.416615  -2.553091 42.416368  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666468">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.562448 42.416429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.562412 42.416460 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.562448 42.416456  -2.562442 42.416429  -2.562412 42.416433  -2.562419 42.416460  -2.562448 42.416456  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666469">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553221 42.416436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552569 42.416789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552651 42.416789  -2.553221 42.416534  -2.553142 42.416436  -2.552895 42.416546  -2.552934 42.416595  -2.552852 42.416631  -2.552811 42.416580  -2.552569 42.416686  -2.552651 42.416789  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666471">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.568567 42.416506 </gml:lowerCorner>
+        		<gml:upperCorner>-2.568453 42.416610 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.568567 42.416520  -2.568481 42.416506  -2.568453 42.416595  -2.568539 42.416610  -2.568567 42.416520  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666472">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554092 42.416508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553952 42.416628 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554092 42.416598  -2.554019 42.416508  -2.553952 42.416538  -2.554025 42.416628  -2.554092 42.416598  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666473">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554022 42.416558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553877 42.416676 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554022 42.416642  -2.553954 42.416558  -2.553877 42.416592  -2.553947 42.416676  -2.554022 42.416642  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666475">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553930 42.416589 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553794 42.416709 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553930 42.416681  -2.553856 42.416589  -2.553794 42.416617  -2.553871 42.416709  -2.553930 42.416681  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666478">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553348 42.416599 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552724 42.416935 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553263 42.416599  -2.553130 42.416668  -2.552955 42.416744  -2.552724 42.416845  -2.552795 42.416935  -2.553231 42.416744  -2.553348 42.416693  -2.553263 42.416599  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666480">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554259 42.416625 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554137 42.416761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554213 42.416625  -2.554137 42.416642  -2.554183 42.416744  -2.554190 42.416761  -2.554259 42.416745  -2.554259 42.416744  -2.554213 42.416625  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666482">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553856 42.416642 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553731 42.416744 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553818 42.416668  -2.553798 42.416642  -2.553731 42.416672  -2.553791 42.416744  -2.553856 42.416715  -2.553818 42.416668  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666483">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553769 42.416681 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553651 42.416781 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553769 42.416755  -2.553760 42.416744  -2.553709 42.416681  -2.553651 42.416707  -2.553681 42.416744  -2.553710 42.416781  -2.553769 42.416755  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666484">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.542888 42.416653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.542830 42.416669 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.542888 42.416669  -2.542878 42.416653  -2.542830 42.416669  -2.542888 42.416669  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.542899 42.416669 </gml:lowerCorner>
+        		<gml:upperCorner>-2.542777 42.416721 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.542888 42.416669  -2.542830 42.416669  -2.542777 42.416686  -2.542798 42.416721  -2.542899 42.416688  -2.542888 42.416669  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554077 42.416710 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553476 42.417014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554077 42.416763  -2.554061 42.416744  -2.554033 42.416710  -2.553957 42.416744  -2.553476 42.416961  -2.553519 42.417014  -2.554077 42.416763  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666487">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553687 42.416719 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553565 42.416820 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553687 42.416792  -2.553648 42.416744  -2.553628 42.416719  -2.553572 42.416744  -2.553565 42.416747  -2.553624 42.416820  -2.553687 42.416792  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666488">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553603 42.416733 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553459 42.416856 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553603 42.416825  -2.553538 42.416744  -2.553529 42.416733  -2.553504 42.416744  -2.553459 42.416764  -2.553533 42.416856  -2.553603 42.416825  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666489">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554297 42.416758 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553822 42.417007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554297 42.416817  -2.554250 42.416758  -2.553822 42.416949  -2.553870 42.417007  -2.554297 42.416817  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666490">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553493 42.416813 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553378 42.416905 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553493 42.416877  -2.553441 42.416813  -2.553378 42.416841  -2.553429 42.416905  -2.553493 42.416877  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666491">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553407 42.416828 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553273 42.416943 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553407 42.416914  -2.553337 42.416828  -2.553273 42.416857  -2.553342 42.416943  -2.553407 42.416914  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666492">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553322 42.416863 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553183 42.416982 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553322 42.416953  -2.553293 42.416918  -2.553284 42.416907  -2.553249 42.416863  -2.553183 42.416892  -2.553223 42.416941  -2.553256 42.416982  -2.553322 42.416953  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666493">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553239 42.416902 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553106 42.417015 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553239 42.416987  -2.553171 42.416902  -2.553106 42.416931  -2.553175 42.417015  -2.553239 42.416987  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666494">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553159 42.416938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553026 42.417052 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553159 42.417023  -2.553091 42.416938  -2.553026 42.416967  -2.553095 42.417052  -2.553159 42.417023  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666495">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553832 42.416962 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553191 42.417286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553832 42.417020  -2.553784 42.416962  -2.553191 42.417227  -2.553238 42.417286  -2.553832 42.417020  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666496">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553076 42.416979 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552947 42.417088 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553076 42.417060  -2.553012 42.416979  -2.552947 42.417008  -2.553011 42.417088  -2.553076 42.417060  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666497">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553456 42.416996 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553319 42.417086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553456 42.417043  -2.553419 42.416996  -2.553319 42.417039  -2.553356 42.417086  -2.553456 42.417043  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666498">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552986 42.417025 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552861 42.417127 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552986 42.417098  -2.552930 42.417025  -2.552861 42.417054  -2.552917 42.417127  -2.552986 42.417098  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666499">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553296 42.417069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553157 42.417159 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553296 42.417113  -2.553261 42.417069  -2.553157 42.417114  -2.553192 42.417159  -2.553296 42.417113  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666500">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553120 42.417143 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552992 42.417229 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553120 42.417188  -2.553083 42.417143  -2.552992 42.417184  -2.553029 42.417229  -2.553120 42.417188  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666501">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552849 42.417226 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552665 42.417341 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552849 42.417286  -2.552809 42.417237  -2.552771 42.417255  -2.552748 42.417226  -2.552665 42.417263  -2.552728 42.417341  -2.552849 42.417286  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666502">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553182 42.417251 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553032 42.417347 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553182 42.417298  -2.553145 42.417251  -2.553032 42.417300  -2.553069 42.417347  -2.553182 42.417298  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666503">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552454 42.418097 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552409 42.418136 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552454 42.418115  -2.552433 42.418097  -2.552409 42.418118  -2.552428 42.418136  -2.552454 42.418115  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666504">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.578599 42.419028 </gml:lowerCorner>
+        		<gml:upperCorner>-2.578471 42.419117 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.578599 42.419071  -2.578543 42.419028  -2.578471 42.419074  -2.578527 42.419117  -2.578599 42.419071  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666505">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.578144 42.420008 </gml:lowerCorner>
+        		<gml:upperCorner>-2.578065 42.420067 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.578144 42.420041  -2.578103 42.420008  -2.578065 42.420035  -2.578106 42.420067  -2.578144 42.420041  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666506">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583407 42.420177 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583247 42.420284 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583407 42.420248  -2.583384 42.420229  -2.583319 42.420177  -2.583247 42.420226  -2.583287 42.420259  -2.583316 42.420284  -2.583357 42.420250  -2.583383 42.420267  -2.583407 42.420248  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666507">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583781 42.420297 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583689 42.420375 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583781 42.420318  -2.583739 42.420297  -2.583689 42.420354  -2.583731 42.420375  -2.583781 42.420318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666508">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583693 42.420414 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583633 42.420458 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583693 42.420431  -2.583670 42.420414  -2.583633 42.420441  -2.583656 42.420458  -2.583693 42.420431  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666509">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.583620 42.420492 </gml:lowerCorner>
+        		<gml:upperCorner>-2.583570 42.420527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.583620 42.420504  -2.583597 42.420492  -2.583570 42.420515  -2.583593 42.420527  -2.583620 42.420504  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666510">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.578929 42.420596 </gml:lowerCorner>
+        		<gml:upperCorner>-2.578820 42.420701 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.578848 42.420668  -2.578820 42.420686  -2.578834 42.420701  -2.578918 42.420665  -2.578929 42.420642  -2.578899 42.420596  -2.578886 42.420602  -2.578821 42.420635  -2.578848 42.420668  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666511">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.578841 42.420686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.578642 42.420789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.578841 42.420725  -2.578810 42.420686  -2.578706 42.420737  -2.578676 42.420707  -2.578646 42.420724  -2.578642 42.420727  -2.578707 42.420789  -2.578757 42.420766  -2.578825 42.420734  -2.578841 42.420725  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577513 42.421891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577444 42.421941 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577513 42.421898  -2.577452 42.421891  -2.577444 42.421934  -2.577504 42.421941  -2.577513 42.421898  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666513">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561833 42.421946 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561655 42.422019 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.561833 42.421963  -2.561825 42.421946  -2.561782 42.421964  -2.561774 42.421957  -2.561655 42.422009  -2.561666 42.422019  -2.561778 42.421970  -2.561791 42.421983  -2.561833 42.421963  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666514">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.571097 42.422254 </gml:lowerCorner>
+        		<gml:upperCorner>-2.571016 42.422457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.571097 42.422453  -2.571097 42.422453  -2.571081 42.422254  -2.571016 42.422261  -2.571047 42.422457  -2.571097 42.422453  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666515">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.564440 42.422761 </gml:lowerCorner>
+        		<gml:upperCorner>-2.564370 42.422798 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.564440 42.422786  -2.564426 42.422761  -2.564370 42.422778  -2.564383 42.422798  -2.564423 42.422789  -2.564440 42.422786  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666516">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.555210 42.422794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.555120 42.422867 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.555210 42.422846  -2.555169 42.422794  -2.555120 42.422814  -2.555161 42.422867  -2.555210 42.422846  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666517">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.581013 42.423497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.580928 42.423565 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.581013 42.423526  -2.580972 42.423497  -2.580928 42.423535  -2.580969 42.423565  -2.581013 42.423526  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666518">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.579360 42.424346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.579298 42.424408 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.579360 42.424393  -2.579323 42.424346  -2.579298 42.424361  -2.579316 42.424385  -2.579335 42.424408  -2.579360 42.424393  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666519">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.579458 42.424494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.579396 42.424540 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.579458 42.424517  -2.579445 42.424494  -2.579396 42.424517  -2.579410 42.424540  -2.579458 42.424517  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666520">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570952 42.425037 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570881 42.425113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.570952 42.425104  -2.570933 42.425037  -2.570881 42.425045  -2.570900 42.425113  -2.570952 42.425104  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666521">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.579339 42.425857 </gml:lowerCorner>
+        		<gml:upperCorner>-2.579249 42.425918 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.579339 42.425898  -2.579313 42.425857  -2.579249 42.425880  -2.579266 42.425918  -2.579339 42.425898  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666522">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.579182 42.425907 </gml:lowerCorner>
+        		<gml:upperCorner>-2.579050 42.426014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.579107 42.425962  -2.579182 42.425938  -2.579164 42.425907  -2.579050 42.425944  -2.579084 42.426014  -2.579129 42.425997  -2.579107 42.425962  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666523">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.578911 42.425996 </gml:lowerCorner>
+        		<gml:upperCorner>-2.578805 42.426071 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.578911 42.426039  -2.578888 42.425996  -2.578805 42.426022  -2.578808 42.426071  -2.578911 42.426039  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666524">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.574801 42.426046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.574702 42.426098 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.574801 42.426081  -2.574789 42.426046  -2.574702 42.426064  -2.574714 42.426098  -2.574801 42.426081  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666525">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577121 42.426127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.576766 42.426301 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577121 42.426169  -2.577085 42.426127  -2.576766 42.426259  -2.576803 42.426301  -2.577121 42.426169  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666526">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.582699 42.426496 </gml:lowerCorner>
+        		<gml:upperCorner>-2.581893 42.427155 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.582699 42.426583  -2.582567 42.426498  -2.582562 42.426496  -2.582416 42.426620  -2.582271 42.426744  -2.582127 42.426867  -2.581990 42.426984  -2.581893 42.427067  -2.581894 42.427068  -2.582024 42.427155  -2.582699 42.426583  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666527">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577738 42.426583 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577295 42.426701 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577738 42.426607  -2.577727 42.426583  -2.577295 42.426673  -2.577308 42.426701  -2.577738 42.426607  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666528">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577822 42.426646 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577330 42.426780 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577822 42.426673  -2.577813 42.426646  -2.577330 42.426753  -2.577339 42.426780  -2.577822 42.426673  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666529">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.573211 42.426706 </gml:lowerCorner>
+        		<gml:upperCorner>-2.572808 42.426852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.572811 42.426852  -2.573211 42.426733  -2.573198 42.426706  -2.572808 42.426827  -2.572811 42.426852  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666530">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577884 42.426714 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577348 42.426860 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577884 42.426743  -2.577875 42.426721  -2.577873 42.426714  -2.577348 42.426831  -2.577359 42.426860  -2.577667 42.426791  -2.577884 42.426743  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666531">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577914 42.426788 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577387 42.426937 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577914 42.426816  -2.577902 42.426788  -2.577387 42.426909  -2.577399 42.426937  -2.577914 42.426816  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666532">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577599 42.426956 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577423 42.427019 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577599 42.426984  -2.577589 42.426956  -2.577423 42.426991  -2.577433 42.427019  -2.577599 42.426984  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666533">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577697 42.427074 </gml:lowerCorner>
+        		<gml:upperCorner>-2.577543 42.427244 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.577697 42.427223  -2.577695 42.427219  -2.577632 42.427074  -2.577543 42.427094  -2.577609 42.427244  -2.577697 42.427223  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666534">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.569031 42.427259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.568976 42.427299 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.569031 42.427276  -2.568997 42.427259  -2.568980 42.427279  -2.568976 42.427283  -2.569004 42.427296  -2.569010 42.427299  -2.569031 42.427276  -2.569031 42.427276  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666535">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.568565 42.427512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.568483 42.427573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.568565 42.427549  -2.568515 42.427512  -2.568483 42.427536  -2.568533 42.427573  -2.568565 42.427549  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666536">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.564211 42.428287 </gml:lowerCorner>
+        		<gml:upperCorner>-2.564148 42.428324 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.564211 42.428303  -2.564160 42.428287  -2.564148 42.428308  -2.564199 42.428324  -2.564211 42.428303  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666537">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.546008 42.429435 </gml:lowerCorner>
+        		<gml:upperCorner>-2.545904 42.429620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.546008 42.429442  -2.545952 42.429435  -2.545904 42.429611  -2.545974 42.429620  -2.546008 42.429442  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666538">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.546761 42.429499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.546714 42.429555 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.546761 42.429550  -2.546740 42.429499  -2.546714 42.429503  -2.546734 42.429555  -2.546761 42.429550  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666539">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.547890 42.430168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.547786 42.430239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.547890 42.430207  -2.547865 42.430168  -2.547786 42.430201  -2.547811 42.430239  -2.547890 42.430207  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666540">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.542837 42.430152 </gml:lowerCorner>
+        		<gml:upperCorner>-2.542616 42.430441 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.542837 42.430175  -2.542693 42.430152  -2.542616 42.430419  -2.542760 42.430441  -2.542761 42.430439  -2.542835 42.430181  -2.542837 42.430175  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666541">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.592296 42.430340 </gml:lowerCorner>
+        		<gml:upperCorner>-2.591922 42.430582 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.591965 42.430563  -2.592265 42.430582  -2.592296 42.430364  -2.591933 42.430340  -2.591922 42.430405  -2.591983 42.430409  -2.591965 42.430563  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666542">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.543157 42.430199 </gml:lowerCorner>
+        		<gml:upperCorner>-2.542895 42.430498 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.543157 42.430234  -2.542973 42.430199  -2.542972 42.430201  -2.542895 42.430463  -2.542904 42.430465  -2.543080 42.430498  -2.543157 42.430234  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666543">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.592785 42.430418 </gml:lowerCorner>
+        		<gml:upperCorner>-2.592555 42.430539 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.592785 42.430452  -2.592581 42.430418  -2.592555 42.430506  -2.592760 42.430539  -2.592772 42.430495  -2.592785 42.430452  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666544">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.544470 42.430718 </gml:lowerCorner>
+        		<gml:upperCorner>-2.544114 42.430971 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.544470 42.430863  -2.544239 42.430718  -2.544114 42.430826  -2.544345 42.430971  -2.544470 42.430863  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666545">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.561414 42.430806 </gml:lowerCorner>
+        		<gml:upperCorner>-2.561217 42.430925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.561414 42.430859  -2.561402 42.430840  -2.561384 42.430824  -2.561360 42.430812  -2.561333 42.430806  -2.561304 42.430806  -2.561277 42.430812  -2.561253 42.430823  -2.561234 42.430838  -2.561221 42.430857  -2.561217 42.430878  -2.561220 42.430899  -2.561229 42.430918  -2.561235 42.430925  -2.561233 42.430922  -2.561228 42.430909  -2.561227 42.430895  -2.561228 42.430881  -2.561233 42.430868  -2.561241 42.430856  -2.561252 42.430845  -2.561265 42.430835  -2.561270 42.430832  -2.561272 42.430831  -2.561289 42.430825  -2.561307 42.430822  -2.561325 42.430821  -2.561343 42.430822  -2.561361 42.430826  -2.561377 42.430831  -2.561392 42.430839  -2.561405 42.430849  -2.561414 42.430859  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.545681 42.430770 </gml:lowerCorner>
+        		<gml:upperCorner>-2.545613 42.430826 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.545681 42.430826  -2.545677 42.430770  -2.545613 42.430770  -2.545617 42.430826  -2.545681 42.430826  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666547">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.545963 42.430869 </gml:lowerCorner>
+        		<gml:upperCorner>-2.545872 42.430951 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.545877 42.430925  -2.545879 42.430951  -2.545927 42.430944  -2.545927 42.430931  -2.545962 42.430931  -2.545963 42.430871  -2.545872 42.430869  -2.545876 42.430911  -2.545877 42.430925  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.546915 42.430947 </gml:lowerCorner>
+        		<gml:upperCorner>-2.546866 42.430979 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.546915 42.430972  -2.546907 42.430947  -2.546866 42.430955  -2.546874 42.430979  -2.546895 42.430976  -2.546915 42.430972  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.562245 42.431200 </gml:lowerCorner>
+        		<gml:upperCorner>-2.562191 42.431234 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.562245 42.431206  -2.562193 42.431200  -2.562191 42.431228  -2.562242 42.431234  -2.562245 42.431206  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666550">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533083 42.431213 </gml:lowerCorner>
+        		<gml:upperCorner>-2.532859 42.431311 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.533082 42.431310  -2.533083 42.431215  -2.533083 42.431213  -2.533078 42.431213  -2.532860 42.431214  -2.532859 42.431311  -2.532868 42.431311  -2.533082 42.431310  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666551">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.567711 42.433021 </gml:lowerCorner>
+        		<gml:upperCorner>-2.567616 42.433090 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.567677 42.433021  -2.567616 42.433048  -2.567622 42.433056  -2.567637 42.433080  -2.567644 42.433090  -2.567711 42.433066  -2.567677 42.433021  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666552">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.560144 42.431983 </gml:lowerCorner>
+        		<gml:upperCorner>-2.560054 42.432137 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.560144 42.431990  -2.560110 42.431983  -2.560054 42.432130  -2.560088 42.432137  -2.560144 42.431990  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.566577 42.433450 </gml:lowerCorner>
+        		<gml:upperCorner>-2.566517 42.433489 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.566547 42.433455  -2.566517 42.433463  -2.566528 42.433489  -2.566577 42.433474  -2.566566 42.433450  -2.566547 42.433455  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666554">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.566536 42.433832 </gml:lowerCorner>
+        		<gml:upperCorner>-2.566494 42.433892 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.566511 42.433834  -2.566511 42.433834  -2.566496 42.433836  -2.566494 42.433836  -2.566504 42.433892  -2.566522 42.433892  -2.566536 42.433892  -2.566528 42.433832  -2.566511 42.433834  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666555">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552093 42.433160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552001 42.433229 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552035 42.433229  -2.552093 42.433210  -2.552060 42.433160  -2.552001 42.433179  -2.552035 42.433229  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.571334 42.433561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.571146 42.433723 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.571334 42.433585  -2.571307 42.433568  -2.571296 42.433561  -2.571146 42.433699  -2.571157 42.433706  -2.571184 42.433723  -2.571264 42.433650  -2.571334 42.433585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666557">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.562424 42.433727 </gml:lowerCorner>
+        		<gml:upperCorner>-2.562081 42.433926 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.562424 42.433878  -2.562380 42.433727  -2.562081 42.433778  -2.562125 42.433926  -2.562424 42.433878  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666558">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.571112 42.433767 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570919 42.433936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.571112 42.433792  -2.571087 42.433778  -2.571069 42.433767  -2.570919 42.433911  -2.570936 42.433920  -2.570963 42.433936  -2.571039 42.433863  -2.571112 42.433792  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570888 42.433985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570767 42.434086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.570888 42.434006  -2.570865 42.433992  -2.570854 42.433985  -2.570767 42.434065  -2.570801 42.434086  -2.570803 42.434083  -2.570888 42.434006  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666560">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.537735 42.433900 </gml:lowerCorner>
+        		<gml:upperCorner>-2.537652 42.434014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.537735 42.433903  -2.537656 42.433900  -2.537652 42.434011  -2.537730 42.434014  -2.537735 42.433903  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666561">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.560017 42.434006 </gml:lowerCorner>
+        		<gml:upperCorner>-2.559863 42.434059 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.560017 42.434036  -2.560010 42.434006  -2.559863 42.434026  -2.559866 42.434059  -2.560017 42.434036  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.551110 42.434748 </gml:lowerCorner>
+        		<gml:upperCorner>-2.550900 42.434919 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.551071 42.434891  -2.551058 42.434855  -2.551110 42.434842  -2.551084 42.434773  -2.551030 42.434784  -2.551018 42.434748  -2.550926 42.434766  -2.550944 42.434804  -2.550927 42.434806  -2.550912 42.434813  -2.550902 42.434824  -2.550900 42.434837  -2.550901 42.434841  -2.550908 42.434854  -2.550922 42.434865  -2.550940 42.434870  -2.550960 42.434870  -2.550980 42.434919  -2.551071 42.434891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666563">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533851 42.435521 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533809 42.435554 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.533851 42.435524  -2.533816 42.435521  -2.533809 42.435550  -2.533844 42.435554  -2.533851 42.435524  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666564">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533962 42.435715 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533920 42.435835 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.533962 42.435715  -2.533955 42.435715  -2.533923 42.435716  -2.533920 42.435835  -2.533925 42.435834  -2.533959 42.435833  -2.533962 42.435715  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.560264 42.435970 </gml:lowerCorner>
+        		<gml:upperCorner>-2.559389 42.436518 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.560264 42.436038  -2.560197 42.435970  -2.559389 42.436445  -2.559456 42.436518  -2.560264 42.436038  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666566">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.560521 42.436023 </gml:lowerCorner>
+        		<gml:upperCorner>-2.559737 42.436681 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.560439 42.436197  -2.560069 42.436443  -2.559737 42.436638  -2.559788 42.436681  -2.560521 42.436201  -2.560387 42.436023  -2.560333 42.436045  -2.560439 42.436197  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552998 42.436234 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552919 42.436288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552998 42.436263  -2.552973 42.436235  -2.552972 42.436234  -2.552919 42.436258  -2.552945 42.436288  -2.552991 42.436266  -2.552998 42.436263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553047 42.436321 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552901 42.436411 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553047 42.436378  -2.553009 42.436321  -2.552901 42.436354  -2.552939 42.436411  -2.553047 42.436378  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666569">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553085 42.436392 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552996 42.436438 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553085 42.436419  -2.553070 42.436392  -2.552996 42.436411  -2.553012 42.436438  -2.553015 42.436438  -2.553085 42.436419  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666570">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.545127 42.436686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.544989 42.436814 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.545127 42.436702  -2.545095 42.436686  -2.545015 42.436768  -2.544989 42.436795  -2.545023 42.436814  -2.545075 42.436758  -2.545127 42.436702  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666571">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.552671 42.436899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.552556 42.436963 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.552671 42.436940  -2.552651 42.436899  -2.552556 42.436923  -2.552576 42.436963  -2.552671 42.436940  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666572">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.550958 42.436910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.550850 42.436974 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.550958 42.436954  -2.550945 42.436910  -2.550850 42.436930  -2.550864 42.436974  -2.550958 42.436954  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666573">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553310 42.437172 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553185 42.437291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553310 42.437272  -2.553279 42.437172  -2.553217 42.437185  -2.553185 42.437210  -2.553212 42.437291  -2.553310 42.437272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666574">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.540320 42.437734 </gml:lowerCorner>
+        		<gml:upperCorner>-2.540139 42.437914 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.540320 42.437914  -2.540312 42.437734  -2.540267 42.437734  -2.540192 42.437734  -2.540166 42.437760  -2.540139 42.437786  -2.540143 42.437839  -2.540195 42.437914  -2.540320 42.437914  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666575">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.536480 42.437741 </gml:lowerCorner>
+        		<gml:upperCorner>-2.536409 42.437809 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.536480 42.437793  -2.536462 42.437741  -2.536409 42.437757  -2.536427 42.437809  -2.536480 42.437793  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666576">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.539014 42.438607 </gml:lowerCorner>
+        		<gml:upperCorner>-2.538952 42.438651 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.539014 42.438621  -2.538973 42.438607  -2.538952 42.438637  -2.538993 42.438651  -2.539014 42.438621  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.541683 42.438627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.541552 42.438679 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.541552 42.438627  -2.541552 42.438636  -2.541553 42.438666  -2.541676 42.438679  -2.541683 42.438629  -2.541552 42.438627  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.539064 42.438629 </gml:lowerCorner>
+        		<gml:upperCorner>-2.539017 42.438667 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.539064 42.438646  -2.539037 42.438629  -2.539017 42.438650  -2.539045 42.438667  -2.539064 42.438646  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666579">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.538909 42.438636 </gml:lowerCorner>
+        		<gml:upperCorner>-2.538758 42.438720 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.538909 42.438672  -2.538780 42.438636  -2.538758 42.438684  -2.538887 42.438720  -2.538909 42.438672  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666580">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.538853 42.438809 </gml:lowerCorner>
+        		<gml:upperCorner>-2.538788 42.438848 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.538853 42.438819  -2.538798 42.438809  -2.538788 42.438838  -2.538843 42.438848  -2.538853 42.438819  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666581">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.526284 42.438870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.526231 42.438956 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.526284 42.438955  -2.526282 42.438870  -2.526231 42.438870  -2.526232 42.438956  -2.526284 42.438955  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666582">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553213 42.438998 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553133 42.439068 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553213 42.439042  -2.553186 42.438998  -2.553133 42.439023  -2.553160 42.439068  -2.553213 42.439042  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666583">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.525898 42.438980 </gml:lowerCorner>
+        		<gml:upperCorner>-2.525813 42.439036 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.525898 42.438999  -2.525830 42.438980  -2.525813 42.439036  -2.525897 42.439036  -2.525898 42.438999  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666584">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.525834 42.439136 </gml:lowerCorner>
+        		<gml:upperCorner>-2.525779 42.439176 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.525834 42.439142  -2.525788 42.439136  -2.525779 42.439171  -2.525826 42.439176  -2.525834 42.439142  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.541196 42.439305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.541115 42.439404 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.541196 42.439315  -2.541169 42.439305  -2.541115 42.439394  -2.541143 42.439404  -2.541196 42.439315  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666588">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.550976 42.439505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.550894 42.439558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.550976 42.439550  -2.550964 42.439505  -2.550894 42.439513  -2.550906 42.439558  -2.550976 42.439550  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666589">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.551192 42.439638 </gml:lowerCorner>
+        		<gml:upperCorner>-2.551123 42.439680 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.551192 42.439660  -2.551177 42.439657  -2.551175 42.439638  -2.551123 42.439639  -2.551127 42.439680  -2.551192 42.439678  -2.551192 42.439660  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666590">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533615 42.439617 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533503 42.439739 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.533615 42.439726  -2.533581 42.439643  -2.533526 42.439617  -2.533503 42.439623  -2.533539 42.439739  -2.533615 42.439726  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666591">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533106 42.439703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533000 42.439825 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.533106 42.439813  -2.533072 42.439703  -2.533000 42.439716  -2.533037 42.439825  -2.533106 42.439813  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666592">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.533209 42.439720 </gml:lowerCorner>
+        		<gml:upperCorner>-2.533149 42.439803 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.533209 42.439795  -2.533186 42.439720  -2.533149 42.439728  -2.533163 42.439803  -2.533209 42.439795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666593">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553978 42.440289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553918 42.440343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553978 42.440310  -2.553947 42.440289  -2.553918 42.440322  -2.553949 42.440343  -2.553978 42.440310  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666594">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.595135 42.440807 </gml:lowerCorner>
+        		<gml:upperCorner>-2.594956 42.440978 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.595135 42.440824  -2.595035 42.440807  -2.595013 42.440930  -2.594969 42.440922  -2.594963 42.440921  -2.594956 42.440957  -2.595106 42.440978  -2.595135 42.440824  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.567429 42.442148 </gml:lowerCorner>
+        		<gml:upperCorner>-2.567367 42.442202 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.567429 42.442198  -2.567414 42.442148  -2.567396 42.442150  -2.567367 42.442153  -2.567373 42.442202  -2.567429 42.442198  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666596">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.595506 42.443078 </gml:lowerCorner>
+        		<gml:upperCorner>-2.595394 42.443178 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.595506 42.443103  -2.595486 42.443095  -2.595435 42.443078  -2.595394 42.443158  -2.595464 42.443178  -2.595506 42.443103  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666597">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.579190 42.443799 </gml:lowerCorner>
+        		<gml:upperCorner>-2.579042 42.443869 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.579190 42.443857  -2.579179 42.443799  -2.579042 42.443811  -2.579054 42.443869  -2.579190 42.443857  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.565830 42.445465 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565595 42.445626 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.565830 42.445547  -2.565672 42.445465  -2.565658 42.445479  -2.565647 42.445490  -2.565622 42.445516  -2.565611 42.445526  -2.565595 42.445542  -2.565754 42.445626  -2.565768 42.445612  -2.565781 42.445598  -2.565804 42.445574  -2.565818 42.445560  -2.565830 42.445547  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.565818 42.445661 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565576 42.445844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.565818 42.445730  -2.565680 42.445661  -2.565576 42.445771  -2.565712 42.445844  -2.565818 42.445730  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.565985 42.445786 </gml:lowerCorner>
+        		<gml:upperCorner>-2.565902 42.445844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.565985 42.445811  -2.565937 42.445786  -2.565928 42.445794  -2.565902 42.445815  -2.565939 42.445835  -2.565955 42.445844  -2.565968 42.445830  -2.565978 42.445819  -2.565985 42.445811  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666611">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.547833 42.435697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.547686 42.435812 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.547754 42.435697  -2.547686 42.435764  -2.547762 42.435812  -2.547833 42.435741  -2.547754 42.435697  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666620">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.551375 42.430824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.551293 42.430889 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.551315 42.430889  -2.551375 42.430869  -2.551362 42.430824  -2.551293 42.430849  -2.551315 42.430889  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666621">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.591524 42.431335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.591267 42.431557 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.591524 42.431369  -2.591327 42.431335  -2.591267 42.431525  -2.591459 42.431557  -2.591524 42.431369  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666622">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.580699 42.424722 </gml:lowerCorner>
+        		<gml:upperCorner>-2.580564 42.424832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.580659 42.424722  -2.580564 42.424750  -2.580609 42.424832  -2.580699 42.424806  -2.580659 42.424722  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666623">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.576251 42.425353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.575964 42.425543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.576251 42.425416  -2.576042 42.425353  -2.576003 42.425415  -2.575964 42.425476  -2.576164 42.425543  -2.576251 42.425416  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666624">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.564725 42.421784 </gml:lowerCorner>
+        		<gml:upperCorner>-2.564507 42.421954 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.564596 42.421784  -2.564507 42.421876  -2.564648 42.421954  -2.564725 42.421875  -2.564654 42.421840  -2.564668 42.421824  -2.564596 42.421784  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666625">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.564792 42.421466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.564516 42.421696 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.564607 42.421466  -2.564553 42.421497  -2.564516 42.421519  -2.564573 42.421583  -2.564583 42.421578  -2.564607 42.421598  -2.564588 42.421612  -2.564667 42.421696  -2.564730 42.421670  -2.564740 42.421680  -2.564792 42.421644  -2.564703 42.421545  -2.564693 42.421551  -2.564607 42.421466  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666626">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.564815 42.421875 </gml:lowerCorner>
+        		<gml:upperCorner>-2.564641 42.422024 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.564725 42.421875  -2.564648 42.421954  -2.564641 42.421961  -2.564754 42.422024  -2.564797 42.421977  -2.564778 42.421966  -2.564815 42.421925  -2.564725 42.421875  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666637">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.571162 42.424142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.571075 42.424234 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.571141 42.424234  -2.571162 42.424149  -2.571092 42.424142  -2.571075 42.424230  -2.571141 42.424234  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666638">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553837 42.428296 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553698 42.428360 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553799 42.428296  -2.553698 42.428308  -2.553706 42.428360  -2.553837 42.428347  -2.553829 42.428306  -2.553802 42.428310  -2.553799 42.428296  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666639">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570564 42.424943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570446 42.425023 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.570564 42.424996  -2.570536 42.424943  -2.570491 42.424961  -2.570446 42.424982  -2.570462 42.425007  -2.570499 42.425023  -2.570522 42.425012  -2.570564 42.424996  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666640">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.570699 42.424875 </gml:lowerCorner>
+        		<gml:upperCorner>-2.570590 42.424956 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.570699 42.424923  -2.570628 42.424875  -2.570590 42.424908  -2.570660 42.424956  -2.570699 42.424923  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666641">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.575126 42.430341 </gml:lowerCorner>
+        		<gml:upperCorner>-2.574893 42.430478 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.574893 42.430430  -2.574913 42.430454  -2.574933 42.430478  -2.575126 42.430394  -2.575084 42.430341  -2.574893 42.430430  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666646">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.554323 42.421985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.554054 42.422131 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.554278 42.421985  -2.554054 42.422050  -2.554101 42.422131  -2.554323 42.422068  -2.554301 42.422026  -2.554278 42.421985  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666831">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553691 42.439571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553620 42.439613 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553691 42.439596  -2.553672 42.439571  -2.553620 42.439587  -2.553640 42.439613  -2.553691 42.439596  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666832">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.553647 42.439618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.553566 42.439663 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.553647 42.439638  -2.553633 42.439618  -2.553566 42.439640  -2.553578 42.439663  -2.553647 42.439638  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666833">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.577020 42.425672 </gml:lowerCorner>
+        		<gml:upperCorner>-2.576732 42.425882 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.576983 42.425672  -2.576939 42.425715  -2.576732 42.425824  -2.576786 42.425882  -2.576992 42.425767  -2.577020 42.425708  -2.576983 42.425672  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Navarrete</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Navarrete</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4666834">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.545466 42.431072 </gml:lowerCorner>
+        		<gml:upperCorner>-2.545398 42.431128 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.545466 42.431128  -2.545462 42.431072  -2.545398 42.431072  -2.545402 42.431128  -2.545466 42.431128  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
