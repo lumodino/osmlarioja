@@ -10358,6 +10358,27 @@
         <ms:T223_000_INEMUNICIPIO_DENO>San Millán de la Cogolla</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670072">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.887601 42.319290 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886821 42.319609 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.887306 42.319326  -2.887266 42.319392  -2.886991 42.319307  -2.886873 42.319290  -2.886821 42.319375  -2.886926 42.319429  -2.887480 42.319609  -2.887601 42.319426  -2.887306 42.319326  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Millán de la Cogolla</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de la Cogolla</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

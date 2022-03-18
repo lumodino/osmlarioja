@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.927712 42.316686 </gml:lowerCorner>
-      		<gml:upperCorner>-2.924121 42.318821 </gml:upperCorner>
+      		<gml:upperCorner>-2.924121 42.318808 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -737,12 +737,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.925606 42.318523 </gml:lowerCorner>
-        		<gml:upperCorner>-2.925408 42.318821 </gml:upperCorner>
+        		<gml:upperCorner>-2.925418 42.318808 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.925408 42.318821  -2.925555 42.318610  -2.925606 42.318523  </gml:posList>
+            <gml:posList srsDimension="2">-2.925606 42.318523  -2.925603 42.318571  -2.925577 42.318592  -2.925574 42.318594  -2.925567 42.318600  -2.925555 42.318610  -2.925545 42.318626  -2.925542 42.318631  -2.925531 42.318650  -2.925522 42.318664  -2.925510 42.318681  -2.925498 42.318699  -2.925486 42.318716  -2.925483 42.318720  -2.925475 42.318731  -2.925466 42.318743  -2.925451 42.318764  -2.925418 42.318808  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>

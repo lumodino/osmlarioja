@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.599008 42.197494 </gml:lowerCorner>
-      		<gml:upperCorner>-2.595445 42.200405 </gml:upperCorner>
+      		<gml:lowerCorner>-2.599561 42.184976 </gml:lowerCorner>
+      		<gml:upperCorner>-2.579329 42.201555 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -717,7 +717,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.596890 42.200214  -2.596974 42.200203  -2.596960 42.200147  -2.596877 42.200158  -2.596890 42.200214  </gml:posList>
+                <gml:posList srsDimension="2">-2.596890 42.200214  -2.596974 42.200203  -2.596960 42.200147  -2.596939 42.200150  -2.596901 42.200155  -2.596877 42.200158  -2.596890 42.200214  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -780,7 +780,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.598304 42.200325  -2.598295 42.200311  -2.598231 42.200333  -2.598262 42.200383  -2.598327 42.200360  -2.598304 42.200325  </gml:posList>
+                <gml:posList srsDimension="2">-2.598304 42.200325  -2.598295 42.200311  -2.598231 42.200333  -2.598247 42.200358  -2.598262 42.200383  -2.598327 42.200360  -2.598304 42.200325  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -906,7 +906,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.596877 42.200158  -2.596815 42.200164  -2.596830 42.200249  -2.596893 42.200240  -2.596890 42.200214  -2.596877 42.200158  </gml:posList>
+                <gml:posList srsDimension="2">-2.596877 42.200158  -2.596846 42.200161  -2.596815 42.200164  -2.596830 42.200249  -2.596893 42.200240  -2.596890 42.200214  -2.596877 42.200158  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -969,7 +969,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.595873 42.198008  -2.595905 42.197884  -2.595476 42.197823  -2.595445 42.197947  -2.595873 42.198008  </gml:posList>
+                <gml:posList srsDimension="2">-2.595873 42.198008  -2.595905 42.197884  -2.595476 42.197823  -2.595461 42.197885  -2.595445 42.197947  -2.595873 42.198008  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1011,7 +1011,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.596110 42.197538  -2.596098 42.197494  -2.596044 42.197505  -2.596062 42.197548  -2.596110 42.197538  </gml:posList>
+                <gml:posList srsDimension="2">-2.596110 42.197538  -2.596098 42.197494  -2.596044 42.197505  -2.596053 42.197526  -2.596062 42.197548  -2.596110 42.197538  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1129,15 +1129,204 @@
       <ms:edificios gml:id="edificios.4108791">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.598830 42.199703 </gml:lowerCorner>
-        		<gml:upperCorner>-2.598713 42.199753 </gml:upperCorner>
+        		<gml:lowerCorner>-2.598842 42.199716 </gml:lowerCorner>
+        		<gml:upperCorner>-2.598724 42.199766 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.598828 42.199753  -2.598830 42.199704  -2.598713 42.199703  -2.598718 42.199751  -2.598828 42.199753  </gml:posList>
+                <gml:posList srsDimension="2">-2.598839 42.199766  -2.598842 42.199717  -2.598724 42.199716  -2.598727 42.199740  -2.598730 42.199764  -2.598839 42.199766  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Pinillos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670138">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.579375 42.184976 </gml:lowerCorner>
+        		<gml:upperCorner>-2.579329 42.185005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.579375 42.184984  -2.579338 42.184976  -2.579329 42.184996  -2.579366 42.185005  -2.579375 42.184984  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670139">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.597154 42.198127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.597075 42.198221 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.597154 42.198211  -2.597113 42.198127  -2.597075 42.198137  -2.597117 42.198221  -2.597154 42.198211  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670140">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.597056 42.198130 </gml:lowerCorner>
+        		<gml:upperCorner>-2.596954 42.198179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.597056 42.198157  -2.597044 42.198130  -2.596954 42.198152  -2.596966 42.198179  -2.597011 42.198168  -2.597056 42.198157  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670145">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.595799 42.199006 </gml:lowerCorner>
+        		<gml:upperCorner>-2.595719 42.199075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.595799 42.199022  -2.595770 42.199006  -2.595719 42.199059  -2.595749 42.199075  -2.595799 42.199022  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670146">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.594716 42.199062 </gml:lowerCorner>
+        		<gml:upperCorner>-2.594603 42.199167 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.594640 42.199084  -2.594603 42.199136  -2.594677 42.199167  -2.594713 42.199114  -2.594694 42.199106  -2.594716 42.199073  -2.594701 42.199067  -2.594687 42.199062  -2.594667 42.199095  -2.594640 42.199084  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670147">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.594855 42.199087 </gml:lowerCorner>
+        		<gml:upperCorner>-2.594760 42.199170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.594793 42.199102  -2.594760 42.199144  -2.594820 42.199170  -2.594850 42.199131  -2.594835 42.199123  -2.594855 42.199098  -2.594841 42.199092  -2.594826 42.199087  -2.594806 42.199108  -2.594793 42.199102  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670151">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.599561 42.201518 </gml:lowerCorner>
+        		<gml:upperCorner>-2.599510 42.201555 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.599536 42.201518  -2.599510 42.201534  -2.599536 42.201555  -2.599561 42.201540  -2.599536 42.201518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Pinillos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670152">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.598892 42.199126 </gml:lowerCorner>
+        		<gml:upperCorner>-2.598827 42.199235 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.598827 42.199130  -2.598851 42.199235  -2.598892 42.199229  -2.598875 42.199126  -2.598827 42.199130  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Pinillos</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Pinillos</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4670153">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.597945 42.200396 </gml:lowerCorner>
+        		<gml:upperCorner>-2.597905 42.200419 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.597905 42.200414  -2.597940 42.200419  -2.597945 42.200402  -2.597927 42.200399  -2.597909 42.200396  -2.597905 42.200414  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

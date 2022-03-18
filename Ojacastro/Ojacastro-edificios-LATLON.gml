@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.052583 42.334512 </gml:lowerCorner>
-      		<gml:upperCorner>-2.965704 42.381824 </gml:upperCorner>
+      		<gml:lowerCorner>-3.052583 42.324321 </gml:lowerCorner>
+      		<gml:upperCorner>-2.954659 42.381805 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -2775,7 +2775,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.995022 42.350601  -2.994933 42.350608  -2.994966 42.350754  -2.995059 42.350747  -2.995022 42.350601  </gml:posList>
+                <gml:posList srsDimension="2">-2.995022 42.350601  -2.994933 42.350608  -2.994966 42.350754  -2.995059 42.350747  -2.995040 42.350674  -2.995022 42.350601  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3229,15 +3229,15 @@
       <ms:edificios gml:id="edificios.4097351">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.005950 42.349008 </gml:lowerCorner>
-        		<gml:upperCorner>-3.005812 42.349097 </gml:upperCorner>
+        		<gml:lowerCorner>-3.005953 42.349010 </gml:lowerCorner>
+        		<gml:upperCorner>-3.005784 42.349117 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.005822 42.349097  -3.005950 42.349081  -3.005936 42.349008  -3.005812 42.349025  -3.005822 42.349097  </gml:posList>
+                <gml:posList srsDimension="2">-3.005808 42.349117  -3.005953 42.349092  -3.005940 42.349051  -3.005926 42.349010  -3.005784 42.349036  -3.005808 42.349117  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4182,7 +4182,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.015062 42.352299  -3.014902 42.352252  -3.014875 42.352292  -3.015046 42.352339  -3.015062 42.352299  </gml:posList>
+                <gml:posList srsDimension="2">-3.015062 42.352299  -3.014902 42.352252  -3.014875 42.352292  -3.014960 42.352316  -3.015046 42.352339  -3.015062 42.352299  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6135,7 +6135,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.005368 42.348999  -3.005312 42.348966  -3.005289 42.348987  -3.005243 42.348958  -3.005216 42.348978  -3.005324 42.349043  -3.005368 42.348999  </gml:posList>
+                <gml:posList srsDimension="2">-3.005368 42.348999  -3.005340 42.348982  -3.005312 42.348966  -3.005289 42.348987  -3.005243 42.348958  -3.005216 42.348978  -3.005324 42.349043  -3.005368 42.348999  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8676,7 +8676,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.006238 42.348716  -3.006285 42.348716  -3.006285 42.348662  -3.006239 42.348662  -3.006238 42.348716  </gml:posList>
+                <gml:posList srsDimension="2">-3.006238 42.348716  -3.006262 42.348716  -3.006285 42.348716  -3.006285 42.348662  -3.006239 42.348662  -3.006238 42.348716  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9579,7 +9579,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.995317 42.350557  -2.995226 42.350587  -2.995284 42.350683  -2.995380 42.350653  -2.995317 42.350557  </gml:posList>
+                <gml:posList srsDimension="2">-2.995317 42.350557  -2.995226 42.350587  -2.995284 42.350683  -2.995332 42.350668  -2.995380 42.350653  -2.995317 42.350557  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9621,7 +9621,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.995593 42.352124  -2.995531 42.352093  -2.995448 42.352191  -2.995502 42.352219  -2.995593 42.352124  </gml:posList>
+                <gml:posList srsDimension="2">-2.995593 42.352124  -2.995531 42.352093  -2.995490 42.352142  -2.995448 42.352191  -2.995502 42.352219  -2.995593 42.352124  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9705,7 +9705,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.009008 42.340075  -3.008908 42.340040  -3.008763 42.340181  -3.008855 42.340226  -3.008928 42.340150  -3.009008 42.340075  </gml:posList>
+                <gml:posList srsDimension="2">-3.009008 42.340075  -3.008908 42.340040  -3.008835 42.340111  -3.008763 42.340181  -3.008855 42.340226  -3.008928 42.340150  -3.009008 42.340075  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9991,15 +9991,15 @@
       <ms:edificios gml:id="edificios.4097673">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.999430 42.353065 </gml:lowerCorner>
-        		<gml:upperCorner>-2.999374 42.353109 </gml:upperCorner>
+        		<gml:lowerCorner>-2.999508 42.353069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999436 42.353123 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.999430 42.353076  -2.999392 42.353065  -2.999374 42.353098  -2.999411 42.353109  -2.999430 42.353076  </gml:posList>
+                <gml:posList srsDimension="2">-2.999508 42.353090  -2.999459 42.353069  -2.999436 42.353104  -2.999489 42.353123  -2.999499 42.353106  -2.999508 42.353090  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10042,27 +10042,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.004306 42.346133  -3.004282 42.346128  -3.004265 42.346173  -3.004298 42.346181  -3.004308 42.346155  -3.004298 42.346152  -3.004306 42.346133  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097676">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.004046 42.347729 </gml:lowerCorner>
-        		<gml:upperCorner>-3.003995 42.347771 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.004007 42.347729  -3.003995 42.347764  -3.004034 42.347771  -3.004046 42.347736  -3.004007 42.347729  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10702,27 +10681,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097707">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.002062 42.346593 </gml:lowerCorner>
-        		<gml:upperCorner>-3.002031 42.346628 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.002049 42.346593  -3.002031 42.346623  -3.002044 42.346628  -3.002062 42.346597  -3.002049 42.346593  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4097708">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -10852,15 +10810,15 @@
       <ms:edificios gml:id="edificios.4097714">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.012207 42.348880 </gml:lowerCorner>
-        		<gml:upperCorner>-3.012078 42.348959 </gml:upperCorner>
+        		<gml:lowerCorner>-3.012202 42.348876 </gml:lowerCorner>
+        		<gml:upperCorner>-3.012073 42.348949 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.012154 42.348880  -3.012096 42.348910  -3.012102 42.348915  -3.012078 42.348928  -3.012095 42.348942  -3.012119 42.348928  -3.012154 42.348959  -3.012207 42.348928  -3.012154 42.348880  </gml:posList>
+                <gml:posList srsDimension="2">-3.012149 42.348876  -3.012091 42.348906  -3.012097 42.348910  -3.012073 42.348924  -3.012095 42.348943  -3.012132 42.348921  -3.012146 42.348935  -3.012160 42.348949  -3.012202 42.348924  -3.012149 42.348876  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11147,14 +11105,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.002181 42.375466 </gml:lowerCorner>
-        		<gml:upperCorner>-3.002115 42.375520 </gml:upperCorner>
+        		<gml:upperCorner>-3.002058 42.375537 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.002163 42.375466  -3.002115 42.375477  -3.002133 42.375520  -3.002181 42.375509  -3.002163 42.375466  </gml:posList>
+                <gml:posList srsDimension="2">-3.002163 42.375466  -3.002058 42.375490  -3.002082 42.375537  -3.002181 42.375509  -3.002163 42.375466  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11511,7 +11469,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977457 42.367664  -2.977422 42.367637  -2.977282 42.367733  -2.977323 42.367762  -2.977457 42.367664  </gml:posList>
+                <gml:posList srsDimension="2">-2.977457 42.367664  -2.977422 42.367637  -2.977282 42.367733  -2.977323 42.367762  -2.977380 42.367720  -2.977457 42.367664  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11574,7 +11532,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.000259 42.358281  -3.000206 42.358211  -2.999880 42.358333  -2.999944 42.358421  -3.000259 42.358281  </gml:posList>
+                <gml:posList srsDimension="2">-3.000259 42.358281  -3.000206 42.358211  -3.000104 42.358249  -2.999880 42.358333  -2.999944 42.358421  -3.000259 42.358281  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11755,15 +11713,15 @@
       <ms:edificios gml:id="edificios.4097757">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.023592 42.346973 </gml:lowerCorner>
-        		<gml:upperCorner>-3.023512 42.347039 </gml:upperCorner>
+        		<gml:lowerCorner>-3.023605 42.346957 </gml:lowerCorner>
+        		<gml:upperCorner>-3.023517 42.347034 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.023592 42.346991  -3.023556 42.346973  -3.023512 42.347022  -3.023549 42.347039  -3.023592 42.346991  </gml:posList>
+                <gml:posList srsDimension="2">-3.023605 42.346978  -3.023567 42.346957  -3.023539 42.346990  -3.023517 42.347016  -3.023554 42.347034  -3.023605 42.346978  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11784,7 +11742,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.027955 42.349656  -3.027871 42.349597  -3.027838 42.349621  -3.027919 42.349678  -3.027955 42.349656  </gml:posList>
+                <gml:posList srsDimension="2">-3.027955 42.349656  -3.027871 42.349597  -3.027854 42.349609  -3.027838 42.349621  -3.027919 42.349678  -3.027955 42.349656  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11805,7 +11763,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.032479 42.351683  -3.032479 42.351658  -3.032416 42.351662  -3.032419 42.351693  -3.032479 42.351683  </gml:posList>
+                <gml:posList srsDimension="2">-3.032479 42.351683  -3.032479 42.351670  -3.032479 42.351658  -3.032416 42.351662  -3.032419 42.351693  -3.032479 42.351683  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11826,7 +11784,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.034256 42.352408  -3.034297 42.352394  -3.034269 42.352342  -3.034229 42.352356  -3.034256 42.352408  </gml:posList>
+                <gml:posList srsDimension="2">-3.034256 42.352408  -3.034297 42.352394  -3.034283 42.352368  -3.034269 42.352342  -3.034229 42.352356  -3.034256 42.352408  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11839,15 +11797,15 @@
       <ms:edificios gml:id="edificios.4097761">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.034124 42.352530 </gml:lowerCorner>
-        		<gml:upperCorner>-3.033995 42.352613 </gml:upperCorner>
+        		<gml:lowerCorner>-3.034133 42.352523 </gml:lowerCorner>
+        		<gml:upperCorner>-3.034004 42.352607 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.034124 42.352554  -3.034097 42.352530  -3.033995 42.352589  -3.034020 42.352613  -3.034124 42.352554  </gml:posList>
+                <gml:posList srsDimension="2">-3.034133 42.352547  -3.034106 42.352523  -3.034063 42.352548  -3.034004 42.352583  -3.034029 42.352607  -3.034133 42.352547  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11910,7 +11868,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.036361 42.352392  -3.036373 42.352405  -3.036472 42.352363  -3.036444 42.352329  -3.036323 42.352375  -3.036346 42.352400  -3.036361 42.352392  </gml:posList>
+                <gml:posList srsDimension="2">-3.036361 42.352392  -3.036373 42.352405  -3.036472 42.352363  -3.036444 42.352329  -3.036383 42.352352  -3.036323 42.352375  -3.036346 42.352400  -3.036361 42.352392  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11952,7 +11910,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.037151 42.352085  -3.037127 42.352061  -3.037071 42.352086  -3.037039 42.352058  -3.036971 42.352093  -3.037001 42.352123  -3.037062 42.352097  -3.037079 42.352116  -3.037151 42.352085  </gml:posList>
+                <gml:posList srsDimension="2">-3.037151 42.352085  -3.037127 42.352061  -3.037099 42.352073  -3.037071 42.352086  -3.037039 42.352058  -3.036971 42.352093  -3.037001 42.352123  -3.037062 42.352097  -3.037079 42.352116  -3.037151 42.352085  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12046,48 +12004,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097771">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.003165 42.375441 </gml:lowerCorner>
-        		<gml:upperCorner>-3.003093 42.375499 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.003165 42.375454  -3.003112 42.375441  -3.003093 42.375486  -3.003146 42.375499  -3.003165 42.375454  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Arviza o Arviza Barrena</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097772">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.002865 42.375173 </gml:lowerCorner>
-        		<gml:upperCorner>-3.002691 42.375281 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.002738 42.375173  -3.002691 42.375221  -3.002831 42.375281  -3.002865 42.375234  -3.002787 42.375200  -3.002738 42.375173  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Arviza o Arviza Barrena</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4097773">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12142,27 +12058,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-3.002888 42.375078  -3.002953 42.375112  -3.003010 42.375053  -3.002946 42.375018  -3.002888 42.375078  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Arviza o Arviza Barrena</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097776">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.002171 42.375189 </gml:lowerCorner>
-        		<gml:upperCorner>-3.002096 42.375243 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.002145 42.375243  -3.002171 42.375222  -3.002123 42.375189  -3.002096 42.375210  -3.002145 42.375243  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12393,7 +12288,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.004279 42.375633  -3.004234 42.375695  -3.004240 42.375696  -3.004245 42.375697  -3.004251 42.375699  -3.004329 42.375715  -3.004355 42.375653  -3.004279 42.375633  </gml:posList>
+                <gml:posList srsDimension="2">-3.004279 42.375633  -3.004234 42.375695  -3.004240 42.375696  -3.004245 42.375697  -3.004251 42.375699  -3.004290 42.375707  -3.004329 42.375715  -3.004355 42.375653  -3.004279 42.375633  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12414,7 +12309,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.004153 42.375678  -3.004234 42.375695  -3.004279 42.375633  -3.004174 42.375613  -3.004153 42.375678  </gml:posList>
+                <gml:posList srsDimension="2">-3.004153 42.375678  -3.004193 42.375687  -3.004234 42.375695  -3.004279 42.375633  -3.004174 42.375613  -3.004153 42.375678  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12456,7 +12351,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.004577 42.375843  -3.004647 42.375863  -3.004820 42.375904  -3.004870 42.375793  -3.004627 42.375732  -3.004577 42.375843  </gml:posList>
+                <gml:posList srsDimension="2">-3.004577 42.375843  -3.004647 42.375863  -3.004820 42.375904  -3.004870 42.375793  -3.004627 42.375732  -3.004589 42.375816  -3.004577 42.375843  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12511,15 +12406,15 @@
       <ms:edificios gml:id="edificios.4097793">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.021674 42.381629 </gml:lowerCorner>
-        		<gml:upperCorner>-3.021504 42.381824 </gml:upperCorner>
+        		<gml:lowerCorner>-3.021668 42.381611 </gml:lowerCorner>
+        		<gml:upperCorner>-3.021498 42.381805 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.021651 42.381806  -3.021674 42.381796  -3.021601 42.381663  -3.021583 42.381629  -3.021504 42.381656  -3.021593 42.381824  -3.021651 42.381806  </gml:posList>
+                <gml:posList srsDimension="2">-3.021645 42.381788  -3.021668 42.381778  -3.021595 42.381644  -3.021577 42.381611  -3.021498 42.381638  -3.021587 42.381805  -3.021645 42.381788  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12721,15 +12616,15 @@
       <ms:edificios gml:id="edificios.4097803">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.967338 42.352359 </gml:lowerCorner>
-        		<gml:upperCorner>-2.967209 42.352458 </gml:upperCorner>
+        		<gml:lowerCorner>-2.967347 42.352324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967218 42.352423 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.967209 42.352359  -2.967219 42.352458  -2.967338 42.352454  -2.967303 42.352359  -2.967209 42.352359  </gml:posList>
+                <gml:posList srsDimension="2">-2.967218 42.352324  -2.967228 42.352423  -2.967288 42.352421  -2.967347 42.352419  -2.967312 42.352324  -2.967218 42.352324  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12742,15 +12637,15 @@
       <ms:edificios gml:id="edificios.4097804">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.967219 42.352359 </gml:lowerCorner>
-        		<gml:upperCorner>-2.967133 42.352461 </gml:upperCorner>
+        		<gml:lowerCorner>-2.967228 42.352324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967143 42.352426 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.967209 42.352359  -2.967133 42.352360  -2.967140 42.352461  -2.967219 42.352458  -2.967209 42.352359  </gml:posList>
+                <gml:posList srsDimension="2">-2.967218 42.352324  -2.967143 42.352324  -2.967150 42.352426  -2.967189 42.352425  -2.967228 42.352423  -2.967218 42.352324  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12802,39 +12697,18 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097807">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.966950 42.351718 </gml:lowerCorner>
-        		<gml:upperCorner>-2.966830 42.351823 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.966899 42.351718  -2.966830 42.351735  -2.966833 42.351749  -2.966878 42.351823  -2.966950 42.351798  -2.966899 42.351718  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Uyarra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4097808">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.966733 42.351681 </gml:lowerCorner>
-        		<gml:upperCorner>-2.966673 42.351765 </gml:upperCorner>
+        		<gml:lowerCorner>-2.966739 42.351664 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966679 42.351747 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.966733 42.351765  -2.966733 42.351681  -2.966673 42.351681  -2.966673 42.351765  -2.966733 42.351765  </gml:posList>
+                <gml:posList srsDimension="2">-2.966739 42.351747  -2.966739 42.351664  -2.966679 42.351664  -2.966679 42.351747  -2.966739 42.351747  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12876,7 +12750,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.965942 42.349543  -2.965760 42.349603  -2.965876 42.349797  -2.966058 42.349738  -2.965942 42.349543  </gml:posList>
+                <gml:posList srsDimension="2">-2.965942 42.349543  -2.965851 42.349573  -2.965760 42.349603  -2.965876 42.349797  -2.966058 42.349738  -2.965942 42.349543  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13158,7 +13032,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.988254 42.346941  -2.988253 42.346973  -2.988016 42.346975  -2.988016 42.347082  -2.988481 42.347089  -2.988484 42.346996  -2.988604 42.346998  -2.988605 42.346947  -2.988607 42.346882  -2.988254 42.346872  -2.988254 42.346941  </gml:posList>
+                <gml:posList srsDimension="2">-2.988254 42.346941  -2.988253 42.346973  -2.988016 42.346975  -2.988016 42.347082  -2.988481 42.347089  -2.988484 42.346996  -2.988604 42.346998  -2.988605 42.346947  -2.988607 42.346882  -2.988307 42.346874  -2.988254 42.346872  -2.988254 42.346941  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13189,39 +13063,18 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4097825">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.991035 42.347879 </gml:lowerCorner>
-        		<gml:upperCorner>-2.990917 42.347969 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.990965 42.347969  -2.991035 42.347910  -2.990987 42.347879  -2.990917 42.347939  -2.990965 42.347969  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4097826">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.991148 42.347878 </gml:lowerCorner>
-        		<gml:upperCorner>-2.990953 42.348028 </gml:upperCorner>
+        		<gml:lowerCorner>-2.991118 42.347906 </gml:lowerCorner>
+        		<gml:upperCorner>-2.990969 42.348014 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.991148 42.347927  -2.991073 42.347878  -2.990953 42.347980  -2.991028 42.348028  -2.991148 42.347927  </gml:posList>
+                <gml:posList srsDimension="2">-2.991118 42.347952  -2.991040 42.347906  -2.990969 42.347966  -2.991046 42.348014  -2.991118 42.347952  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13242,7 +13095,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.033945 42.352645  -3.033947 42.352607  -3.033912 42.352607  -3.033910 42.352643  -3.033945 42.352645  </gml:posList>
+                <gml:posList srsDimension="2">-3.033945 42.352645  -3.033947 42.352607  -3.033912 42.352607  -3.033911 42.352625  -3.033910 42.352643  -3.033945 42.352645  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13255,15 +13108,15 @@
       <ms:edificios gml:id="edificios.4563126">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.005277 42.334512 </gml:lowerCorner>
-        		<gml:upperCorner>-3.005246 42.334537 </gml:upperCorner>
+        		<gml:lowerCorner>-3.005281 42.334504 </gml:lowerCorner>
+        		<gml:upperCorner>-3.005250 42.334529 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.005277 42.334536  -3.005275 42.334512  -3.005246 42.334513  -3.005247 42.334537  -3.005277 42.334536  </gml:posList>
+                <gml:posList srsDimension="2">-3.005281 42.334528  -3.005280 42.334504  -3.005250 42.334505  -3.005252 42.334529  -3.005281 42.334528  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13276,15 +13129,15 @@
       <ms:edificios gml:id="edificios.4563127">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.005540 42.334550 </gml:lowerCorner>
-        		<gml:upperCorner>-3.005461 42.334592 </gml:upperCorner>
+        		<gml:lowerCorner>-3.005544 42.334542 </gml:lowerCorner>
+        		<gml:upperCorner>-3.005465 42.334584 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.005540 42.334572  -3.005537 42.334550  -3.005502 42.334551  -3.005503 42.334572  -3.005462 42.334574  -3.005461 42.334592  -3.005506 42.334591  -3.005506 42.334572  -3.005540 42.334572  </gml:posList>
+                <gml:posList srsDimension="2">-3.005544 42.334564  -3.005542 42.334542  -3.005506 42.334543  -3.005508 42.334564  -3.005466 42.334566  -3.005465 42.334584  -3.005510 42.334583  -3.005511 42.334565  -3.005544 42.334564  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13297,15 +13150,1422 @@
       <ms:edificios gml:id="edificios.4563128">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.005089 42.334596 </gml:lowerCorner>
-        		<gml:upperCorner>-3.005047 42.334622 </gml:upperCorner>
+        		<gml:lowerCorner>-3.005093 42.334588 </gml:lowerCorner>
+        		<gml:upperCorner>-3.005051 42.334614 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.005089 42.334621  -3.005088 42.334596  -3.005047 42.334597  -3.005048 42.334622  -3.005089 42.334621  </gml:posList>
+                <gml:posList srsDimension="2">-3.005093 42.334613  -3.005092 42.334588  -3.005051 42.334589  -3.005052 42.334614  -3.005093 42.334613  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669543">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.954702 42.324321 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954659 42.324361 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.954702 42.324324  -2.954665 42.324321  -2.954659 42.324358  -2.954695 42.324361  -2.954702 42.324324  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669544">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.999625 42.339735 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999550 42.339818 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.999625 42.339800  -2.999592 42.339735  -2.999550 42.339751  -2.999583 42.339818  -2.999625 42.339800  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669545">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.002576 42.344934 </gml:lowerCorner>
+        		<gml:upperCorner>-3.002540 42.344958 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.002576 42.344946  -3.002549 42.344934  -3.002540 42.344947  -3.002566 42.344958  -3.002576 42.344946  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.023010 42.346462 </gml:lowerCorner>
+        		<gml:upperCorner>-3.022928 42.346537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.023010 42.346525  -3.022992 42.346462  -3.022928 42.346471  -3.022937 42.346504  -3.022946 42.346537  -3.023010 42.346525  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669547">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.987187 42.346590 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987122 42.346666 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.987187 42.346598  -2.987127 42.346590  -2.987122 42.346663  -2.987184 42.346666  -2.987185 42.346632  -2.987187 42.346598  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.000805 42.346817 </gml:lowerCorner>
+        		<gml:upperCorner>-3.000764 42.346842 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.000805 42.346842  -3.000804 42.346819  -3.000767 42.346817  -3.000764 42.346842  -3.000805 42.346842  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669550">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.008502 42.346871 </gml:lowerCorner>
+        		<gml:upperCorner>-3.008345 42.346978 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.008502 42.346916  -3.008419 42.346871  -3.008399 42.346891  -3.008345 42.346943  -3.008410 42.346978  -3.008456 42.346947  -3.008502 42.346916  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669551">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.022922 42.346925 </gml:lowerCorner>
+        		<gml:upperCorner>-3.022817 42.346991 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.022922 42.346953  -3.022897 42.346939  -3.022872 42.346925  -3.022855 42.346927  -3.022845 42.346933  -3.022817 42.346965  -3.022871 42.346991  -3.022893 42.346965  -3.022904 42.346972  -3.022922 42.346953  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669552">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.002849 42.348673 </gml:lowerCorner>
+        		<gml:upperCorner>-3.002734 42.348767 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.002849 42.348695  -3.002784 42.348673  -3.002734 42.348751  -3.002779 42.348767  -3.002788 42.348753  -3.002808 42.348760  -3.002849 42.348695  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669553">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.003050 42.348729 </gml:lowerCorner>
+        		<gml:upperCorner>-3.003002 42.348765 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.003050 42.348742  -3.003021 42.348729  -3.003002 42.348751  -3.003031 42.348765  -3.003050 42.348742  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.995022 42.349048 </gml:lowerCorner>
+        		<gml:upperCorner>-2.994937 42.349107 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.995022 42.349055  -2.994953 42.349048  -2.994937 42.349097  -2.995004 42.349107  -2.995022 42.349055  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669557">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.992935 42.349122 </gml:lowerCorner>
+        		<gml:upperCorner>-2.992829 42.349203 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.992935 42.349170  -2.992881 42.349122  -2.992829 42.349155  -2.992883 42.349203  -2.992909 42.349186  -2.992935 42.349170  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669559">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.966021 42.349318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965931 42.349407 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.966021 42.349398  -2.966010 42.349344  -2.965977 42.349347  -2.965969 42.349318  -2.965931 42.349322  -2.965947 42.349407  -2.966021 42.349398  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669561">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.013881 42.350064 </gml:lowerCorner>
+        		<gml:upperCorner>-3.013787 42.350134 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.013881 42.350107  -3.013834 42.350064  -3.013787 42.350095  -3.013812 42.350114  -3.013836 42.350134  -3.013881 42.350107  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.041641 42.350395 </gml:lowerCorner>
+        		<gml:upperCorner>-3.041568 42.350438 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.041641 42.350410  -3.041631 42.350395  -3.041586 42.350412  -3.041568 42.350419  -3.041576 42.350428  -3.041583 42.350438  -3.041641 42.350410  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.995469 42.350520 </gml:lowerCorner>
+        		<gml:upperCorner>-2.995356 42.350618 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.995469 42.350561  -2.995409 42.350520  -2.995356 42.350563  -2.995398 42.350618  -2.995469 42.350561  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669566">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.017289 42.351971 </gml:lowerCorner>
+        		<gml:upperCorner>-3.017243 42.352001 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.017289 42.351976  -3.017248 42.351971  -3.017243 42.351997  -3.017263 42.351999  -3.017284 42.352001  -3.017289 42.351976  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.999412 42.352227 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999349 42.352275 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.999412 42.352227  -2.999354 42.352227  -2.999349 42.352273  -2.999409 42.352275  -2.999412 42.352227  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.000099 42.353137 </gml:lowerCorner>
+        		<gml:upperCorner>-3.000032 42.353195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.000099 42.353150  -3.000057 42.353137  -3.000032 42.353182  -3.000074 42.353195  -3.000099 42.353150  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669569">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.000055 42.353197 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999979 42.353258 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.000055 42.353217  -3.000030 42.353207  -3.000004 42.353197  -2.999979 42.353236  -3.000033 42.353258  -3.000055 42.353217  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669570">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.000470 42.353294 </gml:lowerCorner>
+        		<gml:upperCorner>-3.000322 42.353386 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.000470 42.353338  -3.000348 42.353294  -3.000322 42.353345  -3.000441 42.353386  -3.000470 42.353338  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669571">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.019724 42.353670 </gml:lowerCorner>
+        		<gml:upperCorner>-3.019658 42.353716 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.019724 42.353679  -3.019697 42.353674  -3.019670 42.353670  -3.019669 42.353672  -3.019658 42.353708  -3.019714 42.353716  -3.019722 42.353688  -3.019724 42.353679  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669572">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.999716 42.353740 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999664 42.353779 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.999716 42.353750  -2.999678 42.353740  -2.999664 42.353768  -2.999699 42.353779  -2.999707 42.353764  -2.999716 42.353750  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669573">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.020188 42.353785 </gml:lowerCorner>
+        		<gml:upperCorner>-3.020096 42.353854 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.020188 42.353820  -3.020171 42.353805  -3.020149 42.353785  -3.020134 42.353796  -3.020124 42.353802  -3.020096 42.353821  -3.020136 42.353854  -3.020188 42.353820  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669574">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.999591 42.353975 </gml:lowerCorner>
+        		<gml:upperCorner>-2.999525 42.354030 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.999591 42.353989  -2.999550 42.353975  -2.999525 42.354016  -2.999567 42.354030  -2.999579 42.354009  -2.999591 42.353989  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669575">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.994263 42.354239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.993884 42.354555 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.994137 42.354453  -2.994123 42.354445  -2.994263 42.354287  -2.994227 42.354271  -2.994220 42.354267  -2.994180 42.354249  -2.994158 42.354239  -2.994133 42.354267  -2.994130 42.354271  -2.994127 42.354267  -2.994107 42.354245  -2.994087 42.354267  -2.993884 42.354492  -2.993971 42.354535  -2.994046 42.354555  -2.994137 42.354453  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669576">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.993805 42.354454 </gml:lowerCorner>
+        		<gml:upperCorner>-2.993588 42.354594 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.993728 42.354563  -2.993748 42.354542  -2.993767 42.354553  -2.993805 42.354509  -2.993705 42.354454  -2.993662 42.354498  -2.993629 42.354481  -2.993588 42.354525  -2.993703 42.354590  -2.993720 42.354573  -2.993757 42.354594  -2.993766 42.354582  -2.993728 42.354563  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669577">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.994361 42.354516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.994005 42.354869 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.994138 42.354829  -2.994131 42.354869  -2.994277 42.354775  -2.994228 42.354748  -2.994361 42.354579  -2.994198 42.354516  -2.994037 42.354665  -2.994005 42.354711  -2.994107 42.354767  -2.994126 42.354788  -2.994138 42.354829  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.997024 42.354837 </gml:lowerCorner>
+        		<gml:upperCorner>-2.996865 42.354984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.997024 42.354859  -2.996978 42.354848  -2.996932 42.354837  -2.996906 42.354897  -2.996892 42.354894  -2.996865 42.354956  -2.996983 42.354984  -2.997010 42.354921  -2.996999 42.354918  -2.997024 42.354859  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669579">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.996982 42.355102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.996729 42.355223 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.996982 42.355173  -2.996919 42.355161  -2.996856 42.355150  -2.996864 42.355122  -2.996778 42.355102  -2.996729 42.355179  -2.996964 42.355223  -2.996982 42.355173  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669580">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.991702 42.355795 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991589 42.355880 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.991702 42.355830  -2.991655 42.355795  -2.991589 42.355849  -2.991637 42.355880  -2.991702 42.355830  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669581">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.992800 42.356204 </gml:lowerCorner>
+        		<gml:upperCorner>-2.992664 42.356333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.992800 42.356236  -2.992740 42.356204  -2.992733 42.356213  -2.992726 42.356223  -2.992716 42.356236  -2.992664 42.356308  -2.992720 42.356333  -2.992800 42.356236  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669582">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.992363 42.356323 </gml:lowerCorner>
+        		<gml:upperCorner>-2.992250 42.356407 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.992363 42.356360  -2.992289 42.356323  -2.992270 42.356349  -2.992250 42.356375  -2.992320 42.356407  -2.992363 42.356360  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669583">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.986173 42.356368 </gml:lowerCorner>
+        		<gml:upperCorner>-2.986068 42.356433 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.986173 42.356404  -2.986092 42.356368  -2.986068 42.356400  -2.986153 42.356433  -2.986173 42.356404  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669584">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.000764 42.356587 </gml:lowerCorner>
+        		<gml:upperCorner>-3.000642 42.356702 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.000764 42.356604  -3.000712 42.356594  -3.000676 42.356587  -3.000642 42.356685  -3.000730 42.356702  -3.000764 42.356604  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669585">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.991791 42.356987 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991735 42.357026 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.991791 42.357005  -2.991753 42.356987  -2.991735 42.357006  -2.991773 42.357026  -2.991791 42.357005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669586">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.991720 42.357000 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991472 42.357185 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.991651 42.357149  -2.991720 42.357081  -2.991655 42.357042  -2.991639 42.357059  -2.991570 42.357019  -2.991562 42.357025  -2.991514 42.357000  -2.991493 42.357023  -2.991472 42.357045  -2.991516 42.357071  -2.991495 42.357090  -2.991668 42.357185  -2.991683 42.357166  -2.991651 42.357149  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669587">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.998767 42.357474 </gml:lowerCorner>
+        		<gml:upperCorner>-2.998700 42.357549 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.998767 42.357482  -2.998728 42.357474  -2.998700 42.357540  -2.998739 42.357549  -2.998753 42.357516  -2.998767 42.357482  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669591">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.001595 42.358426 </gml:lowerCorner>
+        		<gml:upperCorner>-3.001521 42.358474 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.001595 42.358426  -3.001521 42.358427  -3.001521 42.358474  -3.001591 42.358473  -3.001595 42.358426  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669592">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.005465 42.359227 </gml:lowerCorner>
+        		<gml:upperCorner>-3.005328 42.359284 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.005465 42.359254  -3.005411 42.359240  -3.005356 42.359227  -3.005339 42.359249  -3.005333 42.359246  -3.005329 42.359255  -3.005328 42.359255  -3.005446 42.359284  -3.005465 42.359254  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669593">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970247 42.359665 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970187 42.359728 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970247 42.359726  -2.970243 42.359665  -2.970187 42.359670  -2.970195 42.359728  -2.970247 42.359726  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669594">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970043 42.359708 </gml:lowerCorner>
+        		<gml:upperCorner>-2.969950 42.359791 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970043 42.359710  -2.969953 42.359708  -2.969950 42.359790  -2.970040 42.359791  -2.970043 42.359710  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.028067 42.360259 </gml:lowerCorner>
+        		<gml:upperCorner>-3.027950 42.360346 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.028067 42.360293  -3.027987 42.360259  -3.027950 42.360314  -3.028025 42.360346  -3.028067 42.360293  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669597">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972336 42.362882 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972257 42.362949 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972335 42.362916  -2.972303 42.362882  -2.972257 42.362906  -2.972274 42.362923  -2.972290 42.362941  -2.972299 42.362936  -2.972311 42.362949  -2.972336 42.362936  -2.972324 42.362922  -2.972335 42.362916  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983311 42.362886 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983199 42.362954 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983311 42.362946  -2.983240 42.362886  -2.983199 42.362915  -2.983301 42.362954  -2.983311 42.362946  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973055 42.363094 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972690 42.363427 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972690 42.363094  -2.972696 42.363125  -2.973018 42.363427  -2.973055 42.363407  -2.972732 42.363105  -2.972690 42.363094  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973016 42.363267 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972767 42.363477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973016 42.363452  -2.972809 42.363267  -2.972794 42.363277  -2.972785 42.363272  -2.972767 42.363285  -2.972883 42.363390  -2.972978 42.363477  -2.973016 42.363452  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669602">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983513 42.363986 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983443 42.364040 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983513 42.364016  -2.983484 42.363986  -2.983443 42.364008  -2.983472 42.364040  -2.983513 42.364016  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669603">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983715 42.370405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983615 42.370479 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983715 42.370430  -2.983651 42.370405  -2.983615 42.370454  -2.983682 42.370479  -2.983715 42.370430  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669605">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.982282 42.372842 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982205 42.372901 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.982205 42.372886  -2.982249 42.372901  -2.982282 42.372859  -2.982238 42.372842  -2.982229 42.372854  -2.982215 42.372850  -2.982205 42.372864  -2.982218 42.372869  -2.982205 42.372886  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669609">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.004002 42.375360 </gml:lowerCorner>
+        		<gml:upperCorner>-3.003863 42.375451 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.003901 42.375360  -3.003863 42.375402  -3.003912 42.375427  -3.003962 42.375451  -3.003970 42.375442  -3.003984 42.375449  -3.004002 42.375430  -3.003983 42.375420  -3.003995 42.375407  -3.003901 42.375360  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669610">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.003282 42.375972 </gml:lowerCorner>
+        		<gml:upperCorner>-3.003231 42.376005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.003268 42.375972  -3.003236 42.375984  -3.003241 42.375989  -3.003231 42.375993  -3.003240 42.376005  -3.003282 42.375988  -3.003268 42.375972  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669611">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.003209 42.375975 </gml:lowerCorner>
+        		<gml:upperCorner>-3.003167 42.376000 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.003201 42.375975  -3.003167 42.375981  -3.003173 42.376000  -3.003209 42.375994  -3.003201 42.375975  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669612">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.003184 42.376009 </gml:lowerCorner>
+        		<gml:upperCorner>-3.003067 42.376056 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.003076 42.376009  -3.003067 42.376048  -3.003133 42.376056  -3.003184 42.376053  -3.003180 42.376040  -3.003176 42.376027  -3.003136 42.376035  -3.003140 42.376017  -3.003076 42.376009  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669613">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.989801 42.357514 </gml:lowerCorner>
+        		<gml:upperCorner>-2.989701 42.357592 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.989801 42.357534  -2.989764 42.357514  -2.989701 42.357572  -2.989738 42.357592  -2.989801 42.357534  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669614">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.995477 42.361384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.995377 42.361460 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.995477 42.361414  -2.995423 42.361384  -2.995377 42.361430  -2.995433 42.361460  -2.995477 42.361414  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669615">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.012234 42.348947 </gml:lowerCorner>
+        		<gml:upperCorner>-3.012165 42.348998 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.012193 42.348947  -3.012165 42.348976  -3.012173 42.348980  -3.012165 42.348988  -3.012177 42.348993  -3.012188 42.348998  -3.012198 42.348988  -3.012208 42.348994  -3.012234 42.348966  -3.012193 42.348947  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669616">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.009078 42.348289 </gml:lowerCorner>
+        		<gml:upperCorner>-3.008988 42.348355 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.008988 42.348326  -3.009036 42.348355  -3.009078 42.348315  -3.009034 42.348289  -3.008988 42.348326  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669617">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.008874 42.348277 </gml:lowerCorner>
+        		<gml:upperCorner>-3.008783 42.348390 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.008783 42.348375  -3.008806 42.348390  -3.008826 42.348361  -3.008874 42.348290  -3.008849 42.348277  -3.008783 42.348375  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669621">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.036922 42.352051 </gml:lowerCorner>
+        		<gml:upperCorner>-3.036870 42.352089 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.036922 42.352075  -3.036898 42.352051  -3.036870 42.352063  -3.036895 42.352089  -3.036922 42.352075  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Amunartia</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669622">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.991434 42.364048 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991349 42.364107 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.991408 42.364107  -2.991434 42.364070  -2.991371 42.364048  -2.991349 42.364085  -2.991378 42.364096  -2.991408 42.364107  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ojacastro</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669723">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.021399 42.353418 </gml:lowerCorner>
+        		<gml:upperCorner>-3.021317 42.353488 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.021399 42.353424  -3.021344 42.353418  -3.021341 42.353439  -3.021325 42.353438  -3.021317 42.353481  -3.021388 42.353488  -3.021393 42.353464  -3.021399 42.353424  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669735">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.998854 42.353765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.998763 42.353820 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.998854 42.353798  -2.998835 42.353765  -2.998763 42.353785  -2.998767 42.353818  -2.998797 42.353820  -2.998854 42.353798  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669738">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.000564 42.353403 </gml:lowerCorner>
+        		<gml:upperCorner>-3.000501 42.353448 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.000564 42.353412  -3.000509 42.353403  -3.000501 42.353437  -3.000553 42.353448  -3.000564 42.353412  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669742">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.997911 42.355318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.997763 42.355416 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.997857 42.355318  -2.997763 42.355393  -2.997797 42.355416  -2.997866 42.355360  -2.997887 42.355375  -2.997911 42.355358  -2.997857 42.355318  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669744">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.998764 42.354589 </gml:lowerCorner>
+        		<gml:upperCorner>-2.998641 42.354711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.998764 42.354617  -2.998681 42.354589  -2.998641 42.354691  -2.998714 42.354711  -2.998764 42.354617  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ojacastro</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4669748">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.005403 42.334584 </gml:lowerCorner>
+        		<gml:upperCorner>-3.005360 42.334610 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.005403 42.334608  -3.005401 42.334585  -3.005360 42.334584  -3.005360 42.334610  -3.005403 42.334608  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

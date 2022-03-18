@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.676672 42.194807 </gml:lowerCorner>
-      		<gml:upperCorner>-2.664849 42.220211 </gml:upperCorner>
+      		<gml:upperCorner>-2.664844 42.220211 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -100,13 +100,13 @@
       <ms:portales gml:id="portales.1457421">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.674246 42.197434 </gml:lowerCorner>
-        		<gml:upperCorner>-2.674246 42.197434 </gml:upperCorner>
+        		<gml:lowerCorner>-2.674260 42.197460 </gml:lowerCorner>
+        		<gml:upperCorner>-2.674260 42.197460 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.674246 42.197434 </gml:pos>
+            <gml:pos>-2.674260 42.197460 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Diseminado Nieva de Cameros</ms:NOMBRE_COMPLETO_VIAL>
@@ -5371,13 +5371,13 @@
       <ms:portales gml:id="portales.4209767">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.664849 42.218669 </gml:lowerCorner>
-        		<gml:upperCorner>-2.664849 42.218669 </gml:upperCorner>
+        		<gml:lowerCorner>-2.664844 42.218661 </gml:lowerCorner>
+        		<gml:upperCorner>-2.664844 42.218661 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.664849 42.218669 </gml:pos>
+            <gml:pos>-2.664844 42.218661 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle de la Iglesia</ms:NOMBRE_COMPLETO_VIAL>

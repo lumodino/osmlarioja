@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.036311 42.340073 </gml:lowerCorner>
+      		<gml:lowerCorner>-3.036311 42.340111 </gml:lowerCorner>
       		<gml:upperCorner>-2.965859 42.381746 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -100,13 +100,13 @@
       <ms:portales gml:id="portales.4046429">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.967180 42.352460 </gml:lowerCorner>
-        		<gml:upperCorner>-2.967180 42.352460 </gml:upperCorner>
+        		<gml:lowerCorner>-2.967189 42.352425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967189 42.352425 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.967180 42.352460 </gml:pos>
+            <gml:pos>-2.967189 42.352425 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Uyarra</ms:NOMBRE_COMPLETO_VIAL>
@@ -121,13 +121,13 @@
       <ms:portales gml:id="portales.4046428">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.967273 42.352454 </gml:lowerCorner>
-        		<gml:upperCorner>-2.967273 42.352454 </gml:upperCorner>
+        		<gml:lowerCorner>-2.967288 42.352421 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967288 42.352421 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.967273 42.352454 </gml:pos>
+            <gml:pos>-2.967288 42.352421 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Uyarra</ms:NOMBRE_COMPLETO_VIAL>
@@ -205,13 +205,13 @@
       <ms:portales gml:id="portales.4051063">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.995008 42.350653 </gml:lowerCorner>
-        		<gml:upperCorner>-2.995008 42.350653 </gml:upperCorner>
+        		<gml:lowerCorner>-2.995040 42.350674 </gml:lowerCorner>
+        		<gml:upperCorner>-2.995040 42.350674 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.995008 42.350653 </gml:pos>
+            <gml:pos>-2.995040 42.350674 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Diseminado Ojacastro</ms:NOMBRE_COMPLETO_VIAL>
@@ -352,13 +352,13 @@
       <ms:portales gml:id="portales.4051068">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.992282 42.356360 </gml:lowerCorner>
-        		<gml:upperCorner>-2.992282 42.356360 </gml:upperCorner>
+        		<gml:lowerCorner>-2.992270 42.356349 </gml:lowerCorner>
+        		<gml:upperCorner>-2.992270 42.356349 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.992282 42.356360 </gml:pos>
+            <gml:pos>-2.992270 42.356349 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Diseminado Ojacastro</ms:NOMBRE_COMPLETO_VIAL>
@@ -394,13 +394,13 @@
       <ms:portales gml:id="portales.4051070">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.008785 42.340073 </gml:lowerCorner>
-        		<gml:upperCorner>-3.008785 42.340073 </gml:upperCorner>
+        		<gml:lowerCorner>-3.008835 42.340111 </gml:lowerCorner>
+        		<gml:upperCorner>-3.008835 42.340111 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-3.008785 42.340073 </gml:pos>
+            <gml:pos>-3.008835 42.340111 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Diseminado Ojacastro</ms:NOMBRE_COMPLETO_VIAL>
@@ -15640,13 +15640,13 @@
       <ms:portales gml:id="portales.4046415">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977362 42.367710 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977362 42.367710 </gml:upperCorner>
+        		<gml:lowerCorner>-2.977380 42.367720 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977380 42.367720 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.977362 42.367710 </gml:pos>
+            <gml:pos>-2.977380 42.367720 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Aldea de Santa Asensio de los Cantos</ms:NOMBRE_COMPLETO_VIAL>

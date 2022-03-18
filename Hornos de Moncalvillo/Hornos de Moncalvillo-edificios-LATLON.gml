@@ -4644,7 +4644,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.585452 42.392155  -2.585466 42.392164  -2.585467 42.392162  -2.585490 42.392140  -2.585494 42.392136  -2.585531 42.392098  -2.585535 42.392094  -2.585535 42.392094  -2.585534 42.392094  -2.585472 42.392065  -2.585408 42.392128  -2.585426 42.392139  -2.585452 42.392155  </gml:posList>
+                <gml:posList srsDimension="2">-2.585466 42.392164  -2.585467 42.392162  -2.585490 42.392140  -2.585494 42.392136  -2.585531 42.392098  -2.585535 42.392094  -2.585535 42.392094  -2.585534 42.392094  -2.585472 42.392065  -2.585408 42.392128  -2.585466 42.392164  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5485,27 +5485,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.584913 42.390475  -2.584928 42.390533  -2.584982 42.390526  -2.584967 42.390467  -2.584913 42.390475  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Hornos de Moncalvillo</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Hornos de Moncalvillo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4568962">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.584104 42.392600 </gml:lowerCorner>
-        		<gml:upperCorner>-2.584046 42.392655 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.584046 42.392653  -2.584096 42.392655  -2.584104 42.392605  -2.584074 42.392602  -2.584049 42.392600  -2.584046 42.392653  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

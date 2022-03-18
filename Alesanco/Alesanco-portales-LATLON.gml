@@ -1105,6 +1105,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4054595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.816925 42.414279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.816925 42.414279 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.816925 42.414279 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mediodía</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION>A</ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26324</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.239283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -1120,27 +1141,6 @@
         <ms:NOMBRE_COMPLETO_VIAL>Calle Mediodía</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION>B</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26324</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4054595">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.816925 42.414279 </gml:lowerCorner>
-        		<gml:upperCorner>-2.816925 42.414279 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.816925 42.414279 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Mediodía</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26324</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Alesanco</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Alesanco</ms:NOMBRE_MUNICIPIO>

@@ -2830,13 +2830,13 @@
       <ms:portales gml:id="portales.285830">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.080238 42.340203 </gml:lowerCorner>
-        		<gml:upperCorner>-2.080238 42.340203 </gml:upperCorner>
+        		<gml:lowerCorner>-2.080195 42.340207 </gml:lowerCorner>
+        		<gml:upperCorner>-2.080195 42.340207 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.080238 42.340203 </gml:pos>
+            <gml:pos>-2.080195 42.340207 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera</ms:NOMBRE_COMPLETO_VIAL>
@@ -11944,13 +11944,13 @@
       <ms:portales gml:id="portales.4211624">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.066352 42.337389 </gml:lowerCorner>
-        		<gml:upperCorner>-2.066352 42.337389 </gml:upperCorner>
+        		<gml:lowerCorner>-2.066384 42.337379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.066384 42.337379 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.066352 42.337389 </gml:pos>
+            <gml:pos>-2.066384 42.337379 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Regadío</ms:NOMBRE_COMPLETO_VIAL>
@@ -36535,13 +36535,13 @@
       <ms:portales gml:id="portales.1820331">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.070339 42.328782 </gml:lowerCorner>
-        		<gml:upperCorner>-2.070339 42.328782 </gml:upperCorner>
+        		<gml:lowerCorner>-2.070235 42.328891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.070235 42.328891 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.070339 42.328782 </gml:pos>
+            <gml:pos>-2.070235 42.328891 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Diseminado Tempranillos</ms:NOMBRE_COMPLETO_VIAL>

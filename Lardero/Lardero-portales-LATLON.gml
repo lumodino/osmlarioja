@@ -1147,90 +1147,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.314708">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.458619 42.421692 </gml:lowerCorner>
-        		<gml:upperCorner>-2.458619 42.421692 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.458619 42.421692 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4167724">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.460174 42.421055 </gml:lowerCorner>
-        		<gml:upperCorner>-2.460174 42.421055 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.460174 42.421055 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4167725">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.460205 42.421173 </gml:lowerCorner>
-        		<gml:upperCorner>-2.460205 42.421173 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.460205 42.421173 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4167726">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.460241 42.420994 </gml:lowerCorner>
-        		<gml:upperCorner>-2.460241 42.420994 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.460241 42.420994 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.318057">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -5317,7 +5233,7 @@
             <gml:pos>-2.461453 42.426236 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5338,7 +5254,7 @@
             <gml:pos>-2.461841 42.426531 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5359,7 +5275,7 @@
             <gml:pos>-2.462171 42.426738 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5380,7 +5296,7 @@
             <gml:pos>-2.462225 42.426766 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5401,7 +5317,7 @@
             <gml:pos>-2.462409 42.426914 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5422,7 +5338,7 @@
             <gml:pos>-2.462492 42.426888 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION>2</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5443,7 +5359,7 @@
             <gml:pos>-2.462416 42.426821 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION>B - BIS</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5464,7 +5380,7 @@
             <gml:pos>-2.462565 42.426953 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION>BIS</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5485,7 +5401,7 @@
             <gml:pos>-2.462546 42.426649 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION>I</ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5506,7 +5422,7 @@
             <gml:pos>-2.462362 42.426773 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5527,7 +5443,7 @@
             <gml:pos>-2.462291 42.426711 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5548,7 +5464,7 @@
             <gml:pos>-2.462201 42.426631 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5569,7 +5485,7 @@
             <gml:pos>-2.462132 42.426570 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5590,7 +5506,7 @@
             <gml:pos>-2.461995 42.426445 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5611,7 +5527,7 @@
             <gml:pos>-2.461918 42.426372 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5632,7 +5548,7 @@
             <gml:pos>-2.461851 42.426288 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -5653,7 +5569,7 @@
             <gml:pos>-2.461618 42.426212 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -33331,7 +33247,7 @@
             <gml:pos>-2.458905 42.429619 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -33352,7 +33268,7 @@
             <gml:pos>-2.456925 42.429531 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>17</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -33373,7 +33289,7 @@
             <gml:pos>-2.456762 42.429518 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>19</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -33394,7 +33310,7 @@
             <gml:pos>-2.458871 42.429545 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -33415,7 +33331,7 @@
             <gml:pos>-2.456603 42.429507 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>21</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -33436,7 +33352,7 @@
             <gml:pos>-2.458695 42.429611 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
@@ -38226,6 +38142,90 @@
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>99</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.314708">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.458619 42.421692 </gml:lowerCorner>
+        		<gml:upperCorner>-2.458619 42.421692 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.458619 42.421692 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4167724">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.460174 42.421055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.460174 42.421055 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.460174 42.421055 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4167725">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.460205 42.421173 </gml:lowerCorner>
+        		<gml:upperCorner>-2.460205 42.421173 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.460205 42.421173 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4167726">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.460241 42.420994 </gml:lowerCorner>
+        		<gml:upperCorner>-2.460241 42.420994 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.460241 42.420994 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>SN</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
@@ -44512,90 +44512,6 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.315538">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.455341 42.439113 </gml:lowerCorner>
-        		<gml:upperCorner>-2.455341 42.439113 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.455341 42.439113 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.315537">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.454234 42.438933 </gml:lowerCorner>
-        		<gml:upperCorner>-2.454234 42.438933 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.454234 42.438933 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.315536">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.454597 42.438991 </gml:lowerCorner>
-        		<gml:upperCorner>-2.454597 42.438991 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.454597 42.438991 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.4164427">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.455253 42.439095 </gml:lowerCorner>
-        		<gml:upperCorner>-2.455253 42.439095 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.455253 42.439095 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:portales gml:id="portales.1410283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -47759,6 +47675,90 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza España</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.315538">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.455341 42.439113 </gml:lowerCorner>
+        		<gml:upperCorner>-2.455341 42.439113 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.455341 42.439113 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.315537">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.454234 42.438933 </gml:lowerCorner>
+        		<gml:upperCorner>-2.454234 42.438933 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.454234 42.438933 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.315536">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.454597 42.438991 </gml:lowerCorner>
+        		<gml:upperCorner>-2.454597 42.438991 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.454597 42.438991 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4164427">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.455253 42.439095 </gml:lowerCorner>
+        		<gml:upperCorner>-2.455253 42.439095 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.455253 42.439095 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>9</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26140</ms:CODIGO_POSTAL>

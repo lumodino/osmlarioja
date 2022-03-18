@@ -153,26 +153,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1553908">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.460040 42.421068 </gml:lowerCorner>
-        		<gml:upperCorner>-2.458000 42.422147 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.458000 42.422147  -2.458341 42.421977  -2.458728 42.421539  -2.458779 42.421490  -2.458935 42.421398  -2.459447 42.421232  -2.459700 42.421176  -2.460040 42.421068  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.28</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400390</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1553924">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -203,26 +183,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.464363 42.418587  -2.464626 42.418712  -2.464756 42.418752  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.28</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400390</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1553963">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.460615 42.420546 </gml:lowerCorner>
-        		<gml:upperCorner>-2.460040 42.421068 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.460040 42.421068  -2.460615 42.420546  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Monte Las Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -290,6 +250,26 @@
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.221</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608400389</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4671192">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.464435 42.427726 </gml:lowerCorner>
+        		<gml:upperCorner>-2.463136 42.428326 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.464435 42.427726  -2.464073 42.427859  -2.463765 42.428025  -2.463487 42.428135  -2.463163 42.428317  -2.463136 42.428326  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Travesía los Robles</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.108</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400367</ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
@@ -945,7 +925,7 @@
             <gml:posList srsDimension="2">-2.462033 42.426550  -2.461882 42.426735  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.63</ms:COD_CATASTRAL_VIAL>
@@ -965,7 +945,7 @@
             <gml:posList srsDimension="2">-2.461393 42.426281  -2.461792 42.426201  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.63</ms:COD_CATASTRAL_VIAL>
@@ -985,7 +965,7 @@
             <gml:posList srsDimension="2">-2.462612 42.427039  -2.462594 42.427034  -2.462573 42.427015  -2.462495 42.426942  -2.462420 42.426876  -2.462294 42.426761  -2.462227 42.426706  -2.462185 42.426674  -2.462133 42.426633  -2.462076 42.426588  -2.462033 42.426550  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Plaza San pedro</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Plaza San Pedro</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.63</ms:COD_CATASTRAL_VIAL>
@@ -4253,26 +4233,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1553928">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.464435 42.427726 </gml:lowerCorner>
-        		<gml:upperCorner>-2.462811 42.428431 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.464435 42.427726  -2.464073 42.427859  -2.463765 42.428025  -2.463487 42.428135  -2.463163 42.428317  -2.462811 42.428431  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.26</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400334</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1554124">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4303,6 +4263,26 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.462811 42.428431  -2.462042 42.428802  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.26</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400334</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4671193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.463136 42.428326 </gml:lowerCorner>
+        		<gml:upperCorner>-2.462811 42.428431 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.463136 42.428326  -2.462811 42.428431  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Robles</ms:NOMBRE_COMPLETO_VIAL>
@@ -8865,7 +8845,7 @@
             <gml:posList srsDimension="2">-2.457211 42.429490  -2.456326 42.429439  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.127</ms:COD_CATASTRAL_VIAL>
@@ -8885,7 +8865,7 @@
             <gml:posList srsDimension="2">-2.458119 42.429539  -2.458642 42.429571  -2.459116 42.429578  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.127</ms:COD_CATASTRAL_VIAL>
@@ -8905,7 +8885,7 @@
             <gml:posList srsDimension="2">-2.457728 42.429522  -2.458119 42.429539  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.127</ms:COD_CATASTRAL_VIAL>
@@ -8925,7 +8905,7 @@
             <gml:posList srsDimension="2">-2.457211 42.429490  -2.457728 42.429522  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle A. Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Antonio Palacio Valdés</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.127</ms:COD_CATASTRAL_VIAL>
@@ -9743,6 +9723,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.464384 42.419285  -2.464007 42.419578  -2.463876 42.419656  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.222</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400399</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1553908">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.460040 42.421068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.458000 42.422147 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.458000 42.422147  -2.458341 42.421977  -2.458728 42.421539  -2.458779 42.421490  -2.458935 42.421398  -2.459447 42.421232  -2.459700 42.421176  -2.460040 42.421068  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.222</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400399</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1553963">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.460615 42.420546 </gml:lowerCorner>
+        		<gml:upperCorner>-2.460040 42.421068 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.460040 42.421068  -2.460615 42.420546  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Corrales</ms:NOMBRE_COMPLETO_VIAL>
@@ -10893,106 +10913,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1553749">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.455900 42.439069 </gml:lowerCorner>
-        		<gml:upperCorner>-2.454823 42.439235 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.454823 42.439069  -2.455900 42.439235  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1553845">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.453948 42.438753 </gml:lowerCorner>
-        		<gml:upperCorner>-2.452871 42.438925 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.452871 42.438753  -2.452910 42.438760  -2.453051 42.438784  -2.453948 42.438925  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1553947">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.456024 42.439235 </gml:lowerCorner>
-        		<gml:upperCorner>-2.455900 42.439254 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.455900 42.439235  -2.456024 42.439254  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1554044">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.454823 42.438925 </gml:lowerCorner>
-        		<gml:upperCorner>-2.453948 42.439069 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.453948 42.438925  -2.454590 42.439030  -2.454823 42.439069  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1553750">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.455846 42.440565 </gml:lowerCorner>
-        		<gml:upperCorner>-2.454413 42.441058 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.454413 42.440565  -2.455451 42.440963  -2.455846 42.441058  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Rosalía de Castro</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.084.92</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2608400325</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1553993">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11590,6 +11510,106 @@
         <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
         <ms:COD_CATASTRAL_VIAL>26.084.27</ms:COD_CATASTRAL_VIAL>
         <ms:COD_INE_VIAL>2608400016</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1553749">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.455900 42.439069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.454823 42.439235 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.454823 42.439069  -2.455900 42.439235  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1553845">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.453948 42.438753 </gml:lowerCorner>
+        		<gml:upperCorner>-2.452871 42.438925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.452871 42.438753  -2.452910 42.438760  -2.453051 42.438784  -2.453948 42.438925  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1553947">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.456024 42.439235 </gml:lowerCorner>
+        		<gml:upperCorner>-2.455900 42.439254 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.455900 42.439235  -2.456024 42.439254  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1554044">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.454823 42.438925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.453948 42.439069 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.453948 42.438925  -2.454590 42.439030  -2.454823 42.439069  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Eliseo Pinedo López</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.084.93</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2608400326</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.1553750">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.455846 42.440565 </gml:lowerCorner>
+        		<gml:upperCorner>-2.454413 42.441058 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.454413 42.440565  -2.455451 42.440963  -2.455846 42.441058  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle los Linderos</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Lardero</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Lardero</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL></ms:COD_INE_VIAL>
       </ms:viales>
     </gml:featureMember>
 </wfs:FeatureCollection>

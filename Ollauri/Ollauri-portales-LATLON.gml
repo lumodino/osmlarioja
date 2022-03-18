@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.837913 42.539624 </gml:lowerCorner>
-      		<gml:upperCorner>-2.827089 42.546050 </gml:upperCorner>
+      		<gml:upperCorner>-2.827156 42.546050 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -121,13 +121,13 @@
       <ms:portales gml:id="portales.4121597">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.827089 42.539650 </gml:lowerCorner>
-        		<gml:upperCorner>-2.827089 42.539650 </gml:upperCorner>
+        		<gml:lowerCorner>-2.827156 42.539673 </gml:lowerCorner>
+        		<gml:upperCorner>-2.827156 42.539673 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.827089 42.539650 </gml:pos>
+            <gml:pos>-2.827156 42.539673 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Nájera</ms:NOMBRE_COMPLETO_VIAL>

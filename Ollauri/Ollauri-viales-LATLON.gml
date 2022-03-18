@@ -33,16 +33,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.3866078">
+      <ms:viales gml:id="viales.4669875">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.830620 42.539735 </gml:lowerCorner>
-        		<gml:upperCorner>-2.826601 42.542241 </gml:upperCorner>
+        		<gml:lowerCorner>-2.830620 42.539786 </gml:lowerCorner>
+        		<gml:upperCorner>-2.826631 42.542241 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.830620 42.542241  -2.830558 42.542206  -2.830527 42.542188  -2.830517 42.542182  -2.830432 42.542130  -2.830367 42.542091  -2.830327 42.542067  -2.830209 42.541995  -2.830062 42.541906  -2.830029 42.541886  -2.829891 42.541803  -2.829812 42.541756  -2.829786 42.541740  -2.829770 42.541731  -2.829753 42.541721  -2.829721 42.541702  -2.829721 42.541702  -2.829673 42.541674  -2.829664 42.541668  -2.829656 42.541664  -2.829635 42.541652  -2.829592 42.541626  -2.829447 42.541541  -2.829375 42.541499  -2.829363 42.541493  -2.829266 42.541438  -2.829149 42.541373  -2.829063 42.541327  -2.828983 42.541285  -2.828962 42.541274  -2.828848 42.541215  -2.828747 42.541163  -2.828705 42.541142  -2.828644 42.541111  -2.828591 42.541085  -2.828578 42.541078  -2.828563 42.541071  -2.828495 42.541037  -2.828488 42.541033  -2.828485 42.541032  -2.828480 42.541029  -2.828410 42.540994  -2.828384 42.540981  -2.828372 42.540975  -2.828358 42.540968  -2.828284 42.540931  -2.828214 42.540896  -2.828155 42.540867  -2.828117 42.540848  -2.828090 42.540834  -2.828051 42.540814  -2.827955 42.540766  -2.827871 42.540724  -2.827764 42.540669  -2.827746 42.540661  -2.827735 42.540655  -2.827722 42.540648  -2.827687 42.540631  -2.827621 42.540597  -2.827579 42.540576  -2.827503 42.540538  -2.827500 42.540536  -2.827461 42.540515  -2.827443 42.540506  -2.827410 42.540488  -2.827390 42.540477  -2.827384 42.540474  -2.827355 42.540457  -2.827318 42.540435  -2.827300 42.540424  -2.827281 42.540412  -2.827270 42.540405  -2.827242 42.540386  -2.827189 42.540351  -2.827163 42.540333  -2.827146 42.540322  -2.827132 42.540312  -2.827123 42.540305  -2.827084 42.540275  -2.827061 42.540257  -2.827056 42.540254  -2.827044 42.540244  -2.827024 42.540226  -2.827012 42.540216  -2.826979 42.540188  -2.826968 42.540179  -2.826968 42.540179  -2.826942 42.540154  -2.826924 42.540138  -2.826885 42.540101  -2.826883 42.540099  -2.826865 42.540080  -2.826843 42.540055  -2.826834 42.540046  -2.826823 42.540034  -2.826806 42.540015  -2.826803 42.540012  -2.826793 42.540001  -2.826758 42.539958  -2.826737 42.539934  -2.826728 42.539922  -2.826714 42.539904  -2.826692 42.539876  -2.826668 42.539846  -2.826668 42.539845  -2.826662 42.539838  -2.826662 42.539837  -2.826658 42.539832  -2.826657 42.539830  -2.826649 42.539816  -2.826627 42.539780  -2.826619 42.539766  -2.826609 42.539748  -2.826603 42.539738  -2.826601 42.539735  </gml:posList>
+            <gml:posList srsDimension="2">-2.830620 42.542241  -2.830558 42.542206  -2.830527 42.542188  -2.830517 42.542182  -2.830432 42.542130  -2.830367 42.542091  -2.830327 42.542067  -2.830209 42.541995  -2.830062 42.541906  -2.830029 42.541886  -2.829891 42.541803  -2.829812 42.541756  -2.829786 42.541740  -2.829770 42.541731  -2.829753 42.541721  -2.829721 42.541702  -2.829721 42.541702  -2.829673 42.541674  -2.829664 42.541668  -2.829656 42.541664  -2.829635 42.541652  -2.829592 42.541626  -2.829447 42.541541  -2.829375 42.541499  -2.829363 42.541493  -2.829266 42.541438  -2.829149 42.541373  -2.829063 42.541327  -2.828983 42.541285  -2.828962 42.541274  -2.828848 42.541215  -2.828747 42.541163  -2.828705 42.541142  -2.828644 42.541111  -2.828591 42.541085  -2.828578 42.541078  -2.828563 42.541071  -2.828495 42.541037  -2.828488 42.541033  -2.828485 42.541032  -2.828480 42.541029  -2.828410 42.540994  -2.828384 42.540981  -2.828372 42.540975  -2.828358 42.540968  -2.828284 42.540931  -2.828214 42.540896  -2.828155 42.540867  -2.828117 42.540848  -2.828090 42.540834  -2.828051 42.540814  -2.827955 42.540766  -2.827871 42.540724  -2.827764 42.540669  -2.827746 42.540661  -2.827735 42.540655  -2.827722 42.540648  -2.827687 42.540631  -2.827621 42.540597  -2.827579 42.540576  -2.827503 42.540538  -2.827500 42.540536  -2.827461 42.540515  -2.827443 42.540506  -2.827410 42.540488  -2.827390 42.540477  -2.827384 42.540474  -2.827355 42.540457  -2.827318 42.540435  -2.827300 42.540424  -2.827281 42.540412  -2.827270 42.540405  -2.827242 42.540386  -2.827189 42.540351  -2.827163 42.540333  -2.827146 42.540322  -2.827132 42.540312  -2.827123 42.540305  -2.827084 42.540275  -2.827061 42.540257  -2.827056 42.540254  -2.827044 42.540244  -2.827024 42.540226  -2.827012 42.540216  -2.826979 42.540188  -2.826968 42.540179  -2.826968 42.540179  -2.826942 42.540154  -2.826924 42.540138  -2.826885 42.540101  -2.826883 42.540099  -2.826865 42.540080  -2.826843 42.540055  -2.826834 42.540046  -2.826823 42.540034  -2.826806 42.540015  -2.826803 42.540012  -2.826793 42.540001  -2.826758 42.539958  -2.826737 42.539934  -2.826728 42.539922  -2.826714 42.539904  -2.826692 42.539876  -2.826668 42.539846  -2.826668 42.539845  -2.826662 42.539838  -2.826662 42.539837  -2.826658 42.539832  -2.826657 42.539830  -2.826649 42.539816  -2.826631 42.539786  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera de Nájera</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Ollauri</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Ollauri</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL></ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2611100039</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4669876">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.826631 42.539735 </gml:lowerCorner>
+        		<gml:upperCorner>-2.826601 42.539786 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.826631 42.539786  -2.826627 42.539780  -2.826619 42.539766  -2.826609 42.539748  -2.826603 42.539738  -2.826601 42.539735  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Nájera</ms:NOMBRE_COMPLETO_VIAL>
@@ -76,13 +96,13 @@
       <ms:viales gml:id="viales.3868656">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.830974 42.542407 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.830972 42.542406 </gml:lowerCorner>
         		<gml:upperCorner>-2.830371 42.542629 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.830371 42.542629  -2.830578 42.542569  -2.830873 42.542489  -2.830974 42.542407  </gml:posList>
+            <gml:posList srsDimension="2">-2.830371 42.542629  -2.830578 42.542569  -2.830873 42.542489  -2.830972 42.542406  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle los Lirios</ms:NOMBRE_COMPLETO_VIAL>
@@ -136,13 +156,13 @@
       <ms:viales gml:id="viales.1538834">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.836283 42.541458 </gml:lowerCorner>
-        		<gml:upperCorner>-2.834956 42.542402 </gml:upperCorner>
+        		<gml:lowerCorner>-2.836294 42.541457 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834954 42.542400 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.834956 42.542402  -2.836283 42.541458  </gml:posList>
+            <gml:posList srsDimension="2">-2.836294 42.541457  -2.836241 42.541493  -2.836231 42.541499  -2.836210 42.541513  -2.836204 42.541517  -2.836163 42.541544  -2.836126 42.541570  -2.836085 42.541599  -2.836056 42.541618  -2.836026 42.541638  -2.835992 42.541661  -2.835980 42.541668  -2.835956 42.541684  -2.835937 42.541698  -2.835857 42.541756  -2.835846 42.541763  -2.835834 42.541772  -2.835780 42.541811  -2.835777 42.541813  -2.835707 42.541862  -2.835693 42.541872  -2.835669 42.541889  -2.835662 42.541893  -2.835622 42.541921  -2.835548 42.541973  -2.835541 42.541978  -2.835534 42.541983  -2.835517 42.541995  -2.835481 42.542020  -2.835462 42.542034  -2.835423 42.542063  -2.835411 42.542071  -2.835322 42.542136  -2.835319 42.542139  -2.835308 42.542147  -2.835245 42.542193  -2.835206 42.542221  -2.835096 42.542302  -2.834954 42.542400  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
@@ -256,13 +276,13 @@
       <ms:viales gml:id="viales.1538885">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.834956 42.542218 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.834954 42.542218 </gml:lowerCorner>
         		<gml:upperCorner>-2.834417 42.542641 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.834956 42.542402  -2.834871 42.542229  -2.834806 42.542218  -2.834716 42.542242  -2.834620 42.542318  -2.834417 42.542641  </gml:posList>
+            <gml:posList srsDimension="2">-2.834954 42.542400  -2.834871 42.542229  -2.834806 42.542218  -2.834716 42.542242  -2.834620 42.542318  -2.834417 42.542641  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
@@ -276,13 +296,13 @@
       <ms:viales gml:id="viales.1538926">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.834817 42.542540 </gml:lowerCorner>
-        		<gml:upperCorner>-2.834783 42.542848 </gml:upperCorner>
+        		<gml:lowerCorner>-2.834811 42.542540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834778 42.542848 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.834806 42.542848  -2.834783 42.542606  -2.834817 42.542540  </gml:posList>
+            <gml:posList srsDimension="2">-2.834811 42.542540  -2.834796 42.542567  -2.834796 42.542569  -2.834789 42.542587  -2.834783 42.542606  -2.834783 42.542607  -2.834780 42.542627  -2.834778 42.542646  -2.834778 42.542647  -2.834778 42.542655  -2.834778 42.542666  -2.834779 42.542683  -2.834779 42.542684  -2.834785 42.542722  -2.834789 42.542751  -2.834792 42.542770  -2.834797 42.542806  -2.834800 42.542824  -2.834806 42.542848  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
@@ -296,13 +316,13 @@
       <ms:viales gml:id="viales.1538927">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.834956 42.542402 </gml:lowerCorner>
-        		<gml:upperCorner>-2.834817 42.542540 </gml:upperCorner>
+        		<gml:lowerCorner>-2.834954 42.542400 </gml:lowerCorner>
+        		<gml:upperCorner>-2.834811 42.542540 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.834817 42.542540  -2.834837 42.542500  -2.834886 42.542451  -2.834956 42.542402  </gml:posList>
+            <gml:posList srsDimension="2">-2.834954 42.542400  -2.834933 42.542414  -2.834926 42.542419  -2.834911 42.542431  -2.834904 42.542436  -2.834886 42.542451  -2.834884 42.542453  -2.834867 42.542468  -2.834858 42.542477  -2.834852 42.542482  -2.834851 42.542484  -2.834837 42.542500  -2.834837 42.542500  -2.834834 42.542505  -2.834825 42.542519  -2.834821 42.542526  -2.834816 42.542533  -2.834811 42.542540  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
@@ -337,12 +357,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.836474 42.541322 </gml:lowerCorner>
-        		<gml:upperCorner>-2.836283 42.541458 </gml:upperCorner>
+        		<gml:upperCorner>-2.836294 42.541457 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.836283 42.541458  -2.836474 42.541322  </gml:posList>
+            <gml:posList srsDimension="2">-2.836294 42.541457  -2.836335 42.541423  -2.836366 42.541399  -2.836474 42.541322  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
@@ -382,7 +402,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.836474 42.541322  -2.836848 42.541057  </gml:posList>
+            <gml:posList srsDimension="2">-2.836474 42.541322  -2.836552 42.541267  -2.836676 42.541177  -2.836848 42.541057  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de Rodezno</ms:NOMBRE_COMPLETO_VIAL>
@@ -396,13 +416,13 @@
       <ms:viales gml:id="viales.1538836">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.832789 42.542397 </gml:lowerCorner>
-        		<gml:upperCorner>-2.831940 42.542496 </gml:upperCorner>
+        		<gml:lowerCorner>-2.832789 42.542395 </gml:lowerCorner>
+        		<gml:upperCorner>-2.831939 42.542499 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.831940 42.542496  -2.832439 42.542397  -2.832619 42.542417  -2.832789 42.542477  </gml:posList>
+            <gml:posList srsDimension="2">-2.832789 42.542477  -2.832765 42.542465  -2.832750 42.542457  -2.832743 42.542453  -2.832715 42.542445  -2.832703 42.542441  -2.832633 42.542421  -2.832619 42.542417  -2.832599 42.542413  -2.832566 42.542406  -2.832550 42.542402  -2.832528 42.542399  -2.832508 42.542396  -2.832494 42.542396  -2.832490 42.542396  -2.832488 42.542396  -2.832475 42.542395  -2.832457 42.542396  -2.832439 42.542397  -2.832436 42.542397  -2.832416 42.542401  -2.832392 42.542404  -2.832385 42.542406  -2.832380 42.542407  -2.832352 42.542412  -2.832348 42.542413  -2.832318 42.542419  -2.832259 42.542431  -2.832256 42.542431  -2.832246 42.542433  -2.832104 42.542463  -2.832078 42.542468  -2.832074 42.542469  -2.832060 42.542472  -2.832040 42.542477  -2.832001 42.542485  -2.831939 42.542499  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Huertas</ms:NOMBRE_COMPLETO_VIAL>
@@ -516,13 +536,13 @@
       <ms:viales gml:id="viales.1538889">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.836283 42.541458 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.836294 42.541457 </gml:lowerCorner>
         		<gml:upperCorner>-2.835203 42.541769 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.836283 42.541458  -2.836130 42.541465  -2.835793 42.541550  -2.835538 42.541633  -2.835203 42.541769  </gml:posList>
+            <gml:posList srsDimension="2">-2.836294 42.541457  -2.836130 42.541465  -2.835793 42.541550  -2.835538 42.541633  -2.835203 42.541769  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Alta</ms:NOMBRE_COMPLETO_VIAL>
@@ -837,12 +857,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.837011 42.542349 </gml:lowerCorner>
-        		<gml:upperCorner>-2.834817 42.542540 </gml:upperCorner>
+        		<gml:upperCorner>-2.834811 42.542540 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.837011 42.542349  -2.835650 42.542380  -2.835262 42.542433  -2.834817 42.542540  </gml:posList>
+            <gml:posList srsDimension="2">-2.837011 42.542349  -2.835650 42.542380  -2.835262 42.542433  -2.834811 42.542540  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Molino</ms:NOMBRE_COMPLETO_VIAL>
@@ -856,13 +876,13 @@
       <ms:viales gml:id="viales.1538925">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.834817 42.542540 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.834811 42.542540 </gml:lowerCorner>
         		<gml:upperCorner>-2.833562 42.542875 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.834817 42.542540  -2.834705 42.542624  -2.834429 42.542727  -2.833993 42.542817  -2.833631 42.542866  -2.833562 42.542875  </gml:posList>
+            <gml:posList srsDimension="2">-2.834811 42.542540  -2.834705 42.542624  -2.834429 42.542727  -2.833993 42.542817  -2.833631 42.542866  -2.833562 42.542875  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino del Molino</ms:NOMBRE_COMPLETO_VIAL>
@@ -1096,13 +1116,13 @@
       <ms:viales gml:id="viales.1538915">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.831940 42.542496 </gml:lowerCorner>
-        		<gml:upperCorner>-2.831940 42.542568 </gml:upperCorner>
+        		<gml:lowerCorner>-2.831940 42.542499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.831939 42.542568 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.831940 42.542496  -2.831940 42.542568  </gml:posList>
+            <gml:posList srsDimension="2">-2.831939 42.542499  -2.831940 42.542568  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
@@ -1136,13 +1156,13 @@
       <ms:viales gml:id="viales.1559644">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.830974 42.542241 </gml:lowerCorner>
-        		<gml:upperCorner>-2.830620 42.542407 </gml:upperCorner>
+        		<gml:lowerCorner>-2.830972 42.542241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.830620 42.542406 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.830620 42.542241  -2.830788 42.542331  -2.830974 42.542407  </gml:posList>
+            <gml:posList srsDimension="2">-2.830972 42.542406  -2.830947 42.542397  -2.830929 42.542391  -2.830895 42.542379  -2.830882 42.542375  -2.830881 42.542374  -2.830875 42.542372  -2.830837 42.542354  -2.830804 42.542339  -2.830788 42.542331  -2.830757 42.542315  -2.830717 42.542293  -2.830708 42.542288  -2.830692 42.542280  -2.830620 42.542241  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
@@ -1156,13 +1176,13 @@
       <ms:viales gml:id="viales.1559645">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.831940 42.542407 </gml:lowerCorner>
-        		<gml:upperCorner>-2.830974 42.542530 </gml:upperCorner>
+        		<gml:lowerCorner>-2.831939 42.542406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.830972 42.542537 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.830974 42.542407  -2.831282 42.542490  -2.831523 42.542529  -2.831769 42.542530  -2.831940 42.542496  </gml:posList>
+            <gml:posList srsDimension="2">-2.831939 42.542499  -2.831899 42.542507  -2.831877 42.542512  -2.831856 42.542516  -2.831832 42.542520  -2.831830 42.542521  -2.831817 42.542523  -2.831798 42.542526  -2.831769 42.542530  -2.831759 42.542531  -2.831725 42.542534  -2.831718 42.542535  -2.831702 42.542536  -2.831685 42.542536  -2.831669 42.542537  -2.831651 42.542537  -2.831634 42.542537  -2.831621 42.542536  -2.831619 42.542536  -2.831591 42.542535  -2.831576 42.542534  -2.831550 42.542531  -2.831523 42.542529  -2.831469 42.542523  -2.831441 42.542519  -2.831430 42.542517  -2.831409 42.542514  -2.831383 42.542510  -2.831369 42.542507  -2.831336 42.542501  -2.831312 42.542496  -2.831282 42.542490  -2.831220 42.542476  -2.831197 42.542470  -2.831176 42.542465  -2.831154 42.542459  -2.831116 42.542449  -2.831098 42.542444  -2.831080 42.542439  -2.831072 42.542437  -2.831019 42.542421  -2.830998 42.542414  -2.830972 42.542406  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Marqués de Terán</ms:NOMBRE_COMPLETO_VIAL>
@@ -1536,13 +1556,13 @@
       <ms:viales gml:id="viales.1538892">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833055 42.542477 </gml:lowerCorner>
-        		<gml:upperCorner>-2.832789 42.542687 </gml:upperCorner>
+        		<gml:lowerCorner>-2.833057 42.542477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.832789 42.542696 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.832789 42.542477  -2.833055 42.542687  </gml:posList>
+            <gml:posList srsDimension="2">-2.833057 42.542696  -2.833034 42.542678  -2.832984 42.542639  -2.832930 42.542598  -2.832912 42.542583  -2.832885 42.542560  -2.832822 42.542505  -2.832820 42.542503  -2.832805 42.542489  -2.832796 42.542481  -2.832789 42.542477  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
@@ -1557,12 +1577,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.833184 42.542536 </gml:lowerCorner>
-        		<gml:upperCorner>-2.833055 42.542687 </gml:upperCorner>
+        		<gml:upperCorner>-2.833057 42.542696 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.833055 42.542687  -2.833184 42.542536  </gml:posList>
+            <gml:posList srsDimension="2">-2.833057 42.542696  -2.833184 42.542536  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza de la Paz</ms:NOMBRE_COMPLETO_VIAL>
@@ -1696,13 +1716,13 @@
       <ms:viales gml:id="viales.1538870">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833055 42.542687 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.833057 42.542696 </gml:lowerCorner>
         		<gml:upperCorner>-2.832875 42.543253 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.832875 42.543253  -2.832881 42.543210  -2.833047 42.542711  -2.833055 42.542687  </gml:posList>
+            <gml:posList srsDimension="2">-2.832875 42.543253  -2.832881 42.543210  -2.833047 42.542711  -2.833057 42.542696  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle José María Paternina</ms:NOMBRE_COMPLETO_VIAL>
@@ -2542,7 +2562,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.833468 42.542887  -2.833533 42.542916  -2.833633 42.542941  -2.834806 42.542848  </gml:posList>
+            <gml:posList srsDimension="2">-2.834806 42.542848  -2.834724 42.542856  -2.834639 42.542865  -2.834593 42.542869  -2.834500 42.542877  -2.834397 42.542885  -2.834378 42.542887  -2.834376 42.542887  -2.834321 42.542892  -2.834289 42.542894  -2.834277 42.542895  -2.834230 42.542899  -2.834176 42.542904  -2.834144 42.542906  -2.834075 42.542912  -2.834016 42.542917  -2.833942 42.542923  -2.833899 42.542926  -2.833862 42.542929  -2.833828 42.542932  -2.833793 42.542934  -2.833755 42.542936  -2.833677 42.542939  -2.833633 42.542941  -2.833633 42.542941  -2.833591 42.542932  -2.833567 42.542926  -2.833533 42.542916  -2.833468 42.542887  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Gallo</ms:NOMBRE_COMPLETO_VIAL>
@@ -2556,13 +2576,13 @@
       <ms:viales gml:id="viales.1538923">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.833468 42.542687 </gml:lowerCorner>
-        		<gml:upperCorner>-2.833055 42.542887 </gml:upperCorner>
+        		<gml:lowerCorner>-2.833468 42.542696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.833057 42.542887 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.833055 42.542687  -2.833125 42.542725  -2.833468 42.542887  </gml:posList>
+            <gml:posList srsDimension="2">-2.833468 42.542887  -2.833427 42.542869  -2.833408 42.542860  -2.833388 42.542852  -2.833369 42.542844  -2.833341 42.542832  -2.833318 42.542822  -2.833317 42.542822  -2.833273 42.542801  -2.833248 42.542790  -2.833213 42.542774  -2.833124 42.542732  -2.833098 42.542720  -2.833096 42.542719  -2.833077 42.542709  -2.833057 42.542696  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Gallo</ms:NOMBRE_COMPLETO_VIAL>
