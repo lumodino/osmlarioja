@@ -22893,6 +22893,48 @@
         <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4671511">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.198398 42.196110 </gml:lowerCorner>
+        		<gml:upperCorner>-2.198271 42.196179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.198398 42.196130  -2.198289 42.196110  -2.198271 42.196167  -2.198323 42.196176  -2.198330 42.196157  -2.198346 42.196157  -2.198341 42.196172  -2.198382 42.196179  -2.198398 42.196130  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4671512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.198084 42.196221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.198007 42.196284 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.198084 42.196226  -2.198014 42.196221  -2.198010 42.196250  -2.198007 42.196279  -2.198077 42.196284  -2.198084 42.196226  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

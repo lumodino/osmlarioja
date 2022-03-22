@@ -9655,13 +9655,13 @@
       <ms:portales gml:id="portales.282410">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.177256 42.188071 </gml:lowerCorner>
-        		<gml:upperCorner>-2.177256 42.188071 </gml:upperCorner>
+        		<gml:lowerCorner>-2.177196 42.188061 </gml:lowerCorner>
+        		<gml:upperCorner>-2.177196 42.188061 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.177256 42.188071 </gml:pos>
+            <gml:pos>-2.177196 42.188061 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Arnedo</ms:NOMBRE_COMPLETO_VIAL>
