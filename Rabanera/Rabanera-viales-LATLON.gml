@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.487263 42.188093 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.487263 42.188084 </gml:lowerCorner>
       		<gml:upperCorner>-2.485433 42.190404 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -16,13 +16,13 @@
       <ms:viales gml:id="viales.4131763">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.486303 42.188093 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.486303 42.188084 </gml:lowerCorner>
         		<gml:upperCorner>-2.485584 42.188630 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.485754 42.188630  -2.485633 42.188482  -2.485586 42.188364  -2.485584 42.188308  -2.485637 42.188201  -2.485752 42.188131  -2.485944 42.188093  -2.486083 42.188109  -2.486250 42.188215  -2.486291 42.188261  -2.486303 42.188340  </gml:posList>
+            <gml:posList srsDimension="2">-2.486303 42.188340  -2.486291 42.188261  -2.486269 42.188218  -2.486217 42.188172  -2.486146 42.188124  -2.486086 42.188095  -2.486037 42.188084  -2.485948 42.188084  -2.485790 42.188115  -2.485637 42.188201  -2.485584 42.188308  -2.485586 42.188364  -2.485633 42.188482  -2.485754 42.188630  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL></ms:NOMBRE_COMPLETO_VIAL>

@@ -522,27 +522,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.686194 42.196974  -2.686928 42.196523  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Nieva</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.122.23</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612200030</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1540729">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.695583 42.195370 </gml:lowerCorner>
-        		<gml:upperCorner>-2.692187 42.195644 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.692187 42.195644  -2.692252 42.195640  -2.692278 42.195638  -2.692281 42.195638  -2.692295 42.195637  -2.692374 42.195632  -2.692443 42.195627  -2.692609 42.195616  -2.692750 42.195606  -2.692762 42.195605  -2.692775 42.195605  -2.692792 42.195603  -2.692916 42.195596  -2.693041 42.195588  -2.693055 42.195587  -2.693175 42.195579  -2.693250 42.195575  -2.693276 42.195573  -2.693278 42.195573  -2.693301 42.195571  -2.693536 42.195556  -2.693537 42.195556  -2.693585 42.195552  -2.693671 42.195547  -2.693755 42.195541  -2.693790 42.195539  -2.693802 42.195538  -2.693951 42.195528  -2.693985 42.195526  -2.694113 42.195517  -2.694142 42.195515  -2.694211 42.195511  -2.694217 42.195510  -2.694290 42.195505  -2.694452 42.195494  -2.694469 42.195493  -2.694614 42.195483  -2.694940 42.195456  -2.695136 42.195441  -2.695331 42.195421  -2.695402 42.195409  -2.695514 42.195385  -2.695583 42.195370  </gml:posList>
+            <gml:posList srsDimension="2">-2.686928 42.196523  -2.686861 42.196565  -2.686834 42.196582  -2.686810 42.196596  -2.686801 42.196602  -2.686792 42.196607  -2.686634 42.196703  -2.686469 42.196803  -2.686461 42.196808  -2.686385 42.196856  -2.686309 42.196903  -2.686251 42.196938  -2.686194 42.196974  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Nieva</ms:NOMBRE_COMPLETO_VIAL>
@@ -562,7 +542,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.687884 42.196003  -2.688099 42.195941  -2.688485 42.195887  -2.692187 42.195644  </gml:posList>
+            <gml:posList srsDimension="2">-2.692187 42.195644  -2.692102 42.195650  -2.691980 42.195658  -2.691939 42.195661  -2.691900 42.195664  -2.691828 42.195670  -2.691825 42.195670  -2.691817 42.195670  -2.691776 42.195673  -2.691557 42.195688  -2.691297 42.195705  -2.691281 42.195706  -2.691276 42.195707  -2.691223 42.195710  -2.691182 42.195713  -2.691149 42.195715  -2.690872 42.195733  -2.690668 42.195746  -2.690601 42.195750  -2.690591 42.195751  -2.690579 42.195752  -2.690543 42.195754  -2.690276 42.195770  -2.690084 42.195782  -2.690075 42.195782  -2.690039 42.195784  -2.690006 42.195787  -2.689945 42.195791  -2.689907 42.195794  -2.689877 42.195796  -2.689782 42.195802  -2.689528 42.195820  -2.689499 42.195822  -2.689479 42.195823  -2.689415 42.195827  -2.689305 42.195833  -2.689196 42.195840  -2.689008 42.195850  -2.688919 42.195856  -2.688893 42.195857  -2.688807 42.195863  -2.688731 42.195868  -2.688714 42.195869  -2.688618 42.195876  -2.688503 42.195885  -2.688485 42.195887  -2.688485 42.195887  -2.688419 42.195894  -2.688355 42.195901  -2.688307 42.195907  -2.688241 42.195915  -2.688226 42.195917  -2.688216 42.195919  -2.688099 42.195941  -2.688041 42.195955  -2.687941 42.195984  -2.687910 42.195994  -2.687884 42.196003  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Nieva</ms:NOMBRE_COMPLETO_VIAL>
@@ -582,7 +562,47 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.687884 42.196003  -2.687746 42.196052  -2.687531 42.196158  -2.686928 42.196523  </gml:posList>
+            <gml:posList srsDimension="2">-2.687884 42.196003  -2.687845 42.196018  -2.687803 42.196034  -2.687794 42.196038  -2.687746 42.196052  -2.687744 42.196053  -2.687727 42.196060  -2.687707 42.196069  -2.687678 42.196083  -2.687621 42.196111  -2.687606 42.196118  -2.687584 42.196130  -2.687532 42.196157  -2.687532 42.196158  -2.687531 42.196158  -2.687500 42.196176  -2.687471 42.196192  -2.687415 42.196224  -2.687335 42.196273  -2.687244 42.196328  -2.687166 42.196376  -2.687151 42.196385  -2.687087 42.196424  -2.687040 42.196453  -2.686985 42.196488  -2.686928 42.196523  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Nieva</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4673475">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.695091 42.195445 </gml:lowerCorner>
+        		<gml:upperCorner>-2.692187 42.195644 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.692187 42.195644  -2.692252 42.195640  -2.692278 42.195638  -2.692281 42.195638  -2.692295 42.195637  -2.692374 42.195632  -2.692443 42.195627  -2.692609 42.195616  -2.692750 42.195606  -2.692762 42.195605  -2.692775 42.195605  -2.692792 42.195603  -2.692916 42.195596  -2.693041 42.195588  -2.693055 42.195587  -2.693175 42.195579  -2.693250 42.195575  -2.693276 42.195573  -2.693278 42.195573  -2.693301 42.195571  -2.693536 42.195556  -2.693537 42.195556  -2.693585 42.195552  -2.693671 42.195547  -2.693755 42.195541  -2.693790 42.195539  -2.693802 42.195538  -2.693951 42.195528  -2.693985 42.195526  -2.694113 42.195517  -2.694142 42.195515  -2.694211 42.195511  -2.694217 42.195510  -2.694290 42.195505  -2.694452 42.195494  -2.694469 42.195493  -2.694614 42.195483  -2.694930 42.195458  -2.695091 42.195445  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Carretera Nieva</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.23</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200030</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4673476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.695583 42.195370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.695091 42.195445 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.695583 42.195370  -2.695504 42.195387  -2.695494 42.195390  -2.695480 42.195393  -2.695449 42.195400  -2.695444 42.195401  -2.695435 42.195403  -2.695402 42.195409  -2.695372 42.195415  -2.695366 42.195417  -2.695331 42.195421  -2.695303 42.195425  -2.695267 42.195429  -2.695250 42.195430  -2.695248 42.195431  -2.695246 42.195431  -2.695169 42.195438  -2.695125 42.195442  -2.695091 42.195445  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Nieva</ms:NOMBRE_COMPLETO_VIAL>
@@ -2173,26 +2193,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1540751">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.698334 42.193701 </gml:lowerCorner>
-        		<gml:upperCorner>-2.697596 42.193989 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.698334 42.193989  -2.698207 42.193843  -2.698135 42.193766  -2.698075 42.193701  -2.697859 42.193819  -2.697708 42.193901  -2.697657 42.193873  -2.697596 42.193855  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1540755">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2463,6 +2463,66 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.695711 42.194222  -2.695800 42.194234  -2.696418 42.194055  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4673469">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.698334 42.193756 </gml:lowerCorner>
+        		<gml:upperCorner>-2.698126 42.193989 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.698334 42.193989  -2.698207 42.193843  -2.698135 42.193766  -2.698126 42.193756  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4673470">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.698126 42.193701 </gml:lowerCorner>
+        		<gml:upperCorner>-2.697596 42.193901 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.698126 42.193756  -2.698075 42.193701  -2.697859 42.193819  -2.697708 42.193901  -2.697657 42.193873  -2.697596 42.193855  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>El Rasillo de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>El Rasillo de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.122.22</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2612200022</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4673471">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.698481 42.193362 </gml:lowerCorner>
+        		<gml:upperCorner>-2.698126 42.193756 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.698126 42.193756  -2.698169 42.193723  -2.698257 42.193671  -2.698286 42.193641  -2.698278 42.193614  -2.698199 42.193520  -2.698195 42.193500  -2.698299 42.193447  -2.698405 42.193405  -2.698481 42.193362  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle la Mata</ms:NOMBRE_COMPLETO_VIAL>
