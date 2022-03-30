@@ -6211,13 +6211,13 @@
       <ms:portales gml:id="portales.4137255">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.193637 42.337602 </gml:lowerCorner>
-        		<gml:upperCorner>-2.193637 42.337602 </gml:upperCorner>
+        		<gml:lowerCorner>-2.193621 42.337604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.193621 42.337604 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.193637 42.337602 </gml:pos>
+            <gml:pos>-2.193621 42.337604 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Bodegas Cuesta Mugía</ms:NOMBRE_COMPLETO_VIAL>

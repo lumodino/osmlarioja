@@ -1882,7 +1882,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.165730 42.215002  -2.165685 42.214972  -2.165626 42.214856  -2.165598 42.214696  -2.165621 42.214608  -2.165724 42.214534  -2.165993 42.214466  -2.166012 42.214450  -2.165997 42.214402  </gml:posList>
+            <gml:posList srsDimension="2">-2.165730 42.215002  -2.165685 42.214972  -2.165626 42.214856  -2.165598 42.214744  -2.165598 42.214696  -2.165621 42.214608  -2.165724 42.214534  -2.165993 42.214466  -2.166012 42.214450  -2.165997 42.214402  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>

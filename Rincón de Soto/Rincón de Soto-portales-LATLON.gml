@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-1.869993 42.225258 </gml:lowerCorner>
-      		<gml:upperCorner>-1.841463 42.248558 </gml:upperCorner>
+      		<gml:lowerCorner>-1.869953 42.225258 </gml:lowerCorner>
+      		<gml:upperCorner>-1.841463 42.248562 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -48505,13 +48505,13 @@
       <ms:portales gml:id="portales.3865412">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-1.869993 42.248558 </gml:lowerCorner>
-        		<gml:upperCorner>-1.869993 42.248558 </gml:upperCorner>
+        		<gml:lowerCorner>-1.869953 42.248562 </gml:lowerCorner>
+        		<gml:upperCorner>-1.869953 42.248562 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-1.869993 42.248558 </gml:pos>
+            <gml:pos>-1.869953 42.248562 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Lugar Soto Doria</ms:NOMBRE_COMPLETO_VIAL>

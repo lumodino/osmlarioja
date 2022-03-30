@@ -2311,7 +2311,7 @@
 { "type": "Feature", "properties": { "gml_id": "portales.4209839", "NOMBRE_COMPLETO_VIAL": "Calle A", "NUMERO_POLICIA": "5", "CODIGO_POSTAL": "26550", "NOMBRE_POBLAMIENTO": "Rincón de Soto", "NOMBRE_MUNICIPIO": "Rincón de Soto" }, "geometry": { "type": "Point", "coordinates": [ -1.844734, 42.227199 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.281398", "NOMBRE_COMPLETO_VIAL": "Calle B", "NUMERO_POLICIA": "16", "CODIGO_POSTAL": "26550", "NOMBRE_POBLAMIENTO": "Rincón de Soto", "NOMBRE_MUNICIPIO": "Rincón de Soto" }, "geometry": { "type": "Point", "coordinates": [ -1.844341, 42.227553 ] } },
 { "type": "Feature", "properties": { "gml_id": "portales.281399", "NOMBRE_COMPLETO_VIAL": "Calle B", "NUMERO_POLICIA": "18", "CODIGO_POSTAL": "26550", "NOMBRE_POBLAMIENTO": "Rincón de Soto", "NOMBRE_MUNICIPIO": "Rincón de Soto" }, "geometry": { "type": "Point", "coordinates": [ -1.844147, 42.227485 ] } },
-{ "type": "Feature", "properties": { "gml_id": "portales.3865412", "NOMBRE_COMPLETO_VIAL": "Lugar Soto Doria", "NUMERO_POLICIA": "SN", "CODIGO_POSTAL": "26550", "NOMBRE_POBLAMIENTO": "Rincón de Soto", "NOMBRE_MUNICIPIO": "Rincón de Soto" }, "geometry": { "type": "Point", "coordinates": [ -1.869993, 42.248558 ] } }
+{ "type": "Feature", "properties": { "gml_id": "portales.3865412", "NOMBRE_COMPLETO_VIAL": "Lugar Soto Doria", "NUMERO_POLICIA": "SN", "CODIGO_POSTAL": "26550", "NOMBRE_POBLAMIENTO": "Rincón de Soto", "NOMBRE_MUNICIPIO": "Rincón de Soto" }, "geometry": { "type": "Point", "coordinates": [ -1.869953, 42.248562 ] } }
 ]
 }
 

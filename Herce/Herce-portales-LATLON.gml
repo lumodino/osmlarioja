@@ -5893,6 +5893,27 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:portales gml:id="portales.4673570">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165930 42.215235 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165930 42.215235 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165930 42.215235 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Mayor</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>27</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:portales gml:id="portales.307248">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -8224,125 +8245,20 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.306801">
+      <ms:portales gml:id="portales.4673559">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165687 42.214946 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165687 42.214946 </gml:upperCorner>
+        		<gml:lowerCorner>-2.165643 42.214914 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165643 42.214914 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165687 42.214946 </gml:pos>
+            <gml:pos>-2.165643 42.214914 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
         <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.306809">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166004 42.215094 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166004 42.215094 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.166004 42.215094 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.306808">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.166066 42.215103 </gml:lowerCorner>
-        		<gml:upperCorner>-2.166066 42.215103 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.166066 42.215103 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.306803">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165593 42.214620 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165593 42.214620 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165593 42.214620 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.306800">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165727 42.214978 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165727 42.214978 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165727 42.214978 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.306804">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165580 42.214660 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165580 42.214660 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165580 42.214660 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -8363,7 +8279,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>10</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -8371,20 +8287,20 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.306805">
+      <ms:portales gml:id="portales.306804">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165582 42.214738 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165582 42.214738 </gml:upperCorner>
+        		<gml:lowerCorner>-2.165580 42.214660 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165580 42.214660 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165582 42.214738 </gml:pos>
+            <gml:pos>-2.165580 42.214660 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>11</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -8392,20 +8308,293 @@
       </ms:portales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:portales gml:id="portales.306811">
+      <ms:portales gml:id="portales.306800">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.165916 42.215053 </gml:lowerCorner>
-        		<gml:upperCorner>-2.165916 42.215053 </gml:upperCorner>
+        		<gml:lowerCorner>-2.165727 42.214978 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165727 42.214978 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.165916 42.215053 </gml:pos>
+            <gml:pos>-2.165727 42.214978 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>12</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.306803">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165593 42.214620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165593 42.214620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165593 42.214620 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>13</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.306801">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165687 42.214946 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165687 42.214946 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165687 42.214946 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>14</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673566">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165829 42.214868 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165829 42.214868 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165829 42.214868 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>16</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165778 42.214845 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165778 42.214845 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165778 42.214845 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>18</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.306808">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166035 42.215074 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166035 42.215074 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.166035 42.215074 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>2</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165777 42.214811 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165777 42.214811 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165777 42.214811 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>20</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673569">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165705 42.214816 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165705 42.214816 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165705 42.214816 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>22</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165729 42.214695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165729 42.214695 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165729 42.214695 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>24</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673563">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165662 42.214609 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165662 42.214609 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165662 42.214609 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>26</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673564">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165767 42.214558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165767 42.214558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165767 42.214558 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>28</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673560">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165612 42.214869 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165612 42.214869 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165612 42.214869 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>3</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165862 42.214549 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165862 42.214549 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165862 42.214549 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>30</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.306809">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.166053 42.215040 </gml:lowerCorner>
+        		<gml:upperCorner>-2.166053 42.215040 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.166053 42.215040 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>4</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -8426,7 +8615,7 @@
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
+        <ms:NUMERO_POLICIA>5</ms:NUMERO_POLICIA>
         <ms:EXTENSION></ms:EXTENSION>
         <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
         <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
@@ -8444,6 +8633,69 @@
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
             <gml:pos>-2.166033 42.215013 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>6</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.306805">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165582 42.214738 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165582 42.214738 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165582 42.214738 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>7</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.306811">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165916 42.215053 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165916 42.215053 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165916 42.215053 </gml:pos>
+          </gml:Point>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NUMERO_POLICIA>8</ms:NUMERO_POLICIA>
+        <ms:EXTENSION></ms:EXTENSION>
+        <ms:CODIGO_POSTAL>26584</ms:CODIGO_POSTAL>
+        <ms:NOMBRE_POBLAMIENTO>Herce</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Herce</ms:NOMBRE_MUNICIPIO>
+      </ms:portales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:portales gml:id="portales.4673561">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.165578 42.214700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.165578 42.214700 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Point srsName="EPSG:4326">
+            <gml:pos>-2.165578 42.214700 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Campanar</ms:NOMBRE_COMPLETO_VIAL>

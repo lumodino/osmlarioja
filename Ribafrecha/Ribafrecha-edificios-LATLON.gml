@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.396903 42.344754 </gml:lowerCorner>
-      		<gml:upperCorner>-2.337045 42.388097 </gml:upperCorner>
+      		<gml:lowerCorner>-2.405142 42.331565 </gml:lowerCorner>
+      		<gml:upperCorner>-2.332233 42.388097 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -1801,7 +1801,7 @@
       <ms:edificios gml:id="edificios.4036128">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.388994 42.355648 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.388928 42.355780 </gml:lowerCorner>
         		<gml:upperCorner>-2.388808 42.355850 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -1809,7 +1809,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388876 42.355683  -2.388808 42.355823  -2.388908 42.355850  -2.388977 42.355710  -2.388994 42.355675  -2.388893 42.355648  -2.388876 42.355683  </gml:posList>
+                <gml:posList srsDimension="2">-2.388829 42.355780  -2.388808 42.355823  -2.388908 42.355850  -2.388928 42.355810  -2.388829 42.355780  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2809,15 +2809,15 @@
       <ms:edificios gml:id="edificios.4036176">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.345259 42.380568 </gml:lowerCorner>
-        		<gml:upperCorner>-2.345191 42.380617 </gml:upperCorner>
+        		<gml:lowerCorner>-2.345264 42.380545 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345197 42.380594 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.345223 42.380617  -2.345259 42.380591  -2.345226 42.380568  -2.345191 42.380594  -2.345223 42.380617  </gml:posList>
+                <gml:posList srsDimension="2">-2.345228 42.380594  -2.345264 42.380568  -2.345232 42.380545  -2.345197 42.380571  -2.345228 42.380594  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3951,7 +3951,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.391333 42.353951  -2.391443 42.353959  -2.391461 42.353845  -2.391350 42.353835  -2.391333 42.353951  </gml:posList>
+                <gml:posList srsDimension="2">-2.391333 42.353951  -2.391388 42.353955  -2.391443 42.353959  -2.391461 42.353845  -2.391350 42.353835  -2.391333 42.353951  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4069,36 +4069,15 @@
       <ms:edificios gml:id="edificios.4036236">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.383413 42.354481 </gml:lowerCorner>
-        		<gml:upperCorner>-2.383187 42.354624 </gml:upperCorner>
+        		<gml:lowerCorner>-2.383411 42.354468 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383126 42.354612 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.383413 42.354525  -2.383360 42.354481  -2.383187 42.354585  -2.383246 42.354624  -2.383413 42.354525  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4036237">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.386087 42.356880 </gml:lowerCorner>
-        		<gml:upperCorner>-2.385981 42.357021 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.385981 42.356888  -2.385982 42.356911  -2.385985 42.356958  -2.385991 42.356988  -2.385997 42.357021  -2.386087 42.357014  -2.386086 42.356999  -2.386082 42.356954  -2.386080 42.356927  -2.386077 42.356901  -2.386076 42.356880  -2.385981 42.356888  </gml:posList>
+                <gml:posList srsDimension="2">-2.383411 42.354512  -2.383359 42.354468  -2.383246 42.354536  -2.383179 42.354493  -2.383126 42.354538  -2.383185 42.354573  -2.383244 42.354612  -2.383411 42.354512  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4182,7 +4161,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338796 42.385261  -2.338831 42.385190  -2.338724 42.385159  -2.338690 42.385232  -2.338796 42.385261  </gml:posList>
+                <gml:posList srsDimension="2">-2.338796 42.385261  -2.338831 42.385190  -2.338778 42.385174  -2.338724 42.385159  -2.338690 42.385232  -2.338796 42.385261  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4521,7 +4500,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388031 42.351069  -2.387873 42.350921  -2.387828 42.350948  -2.387934 42.351050  -2.387924 42.351056  -2.387975 42.351102  -2.388031 42.351069  </gml:posList>
+                <gml:posList srsDimension="2">-2.388031 42.351069  -2.387873 42.350921  -2.387850 42.350934  -2.387828 42.350948  -2.387934 42.351050  -2.387924 42.351056  -2.387975 42.351102  -2.388031 42.351069  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5438,14 +5417,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.391022 42.353619 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390638 42.353769 </gml:upperCorner>
+        		<gml:upperCorner>-2.390647 42.353775 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.391022 42.353651  -2.391018 42.353649  -2.390969 42.353622  -2.390965 42.353619  -2.390951 42.353632  -2.390853 42.353727  -2.390640 42.353722  -2.390638 42.353762  -2.390798 42.353766  -2.390901 42.353769  -2.391010 42.353662  -2.391022 42.353651  </gml:posList>
+                <gml:posList srsDimension="2">-2.391022 42.353651  -2.390984 42.353619  -2.390870 42.353725  -2.390670 42.353698  -2.390647 42.353743  -2.390789 42.353763  -2.390876 42.353775  -2.390927 42.353763  -2.391020 42.353668  -2.391022 42.353651  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5550,7 +5529,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338366 42.385150  -2.338416 42.385081  -2.338307 42.385042  -2.338259 42.385112  -2.338366 42.385150  </gml:posList>
+                <gml:posList srsDimension="2">-2.338366 42.385150  -2.338416 42.385081  -2.338361 42.385061  -2.338307 42.385042  -2.338259 42.385112  -2.338366 42.385150  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5571,7 +5550,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338169 42.385078  -2.338218 42.385013  -2.338114 42.384972  -2.338063 42.385039  -2.338169 42.385078  </gml:posList>
+                <gml:posList srsDimension="2">-2.338169 42.385078  -2.338218 42.385013  -2.338166 42.384993  -2.338114 42.384972  -2.338063 42.385039  -2.338169 42.385078  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7039,15 +7018,15 @@
       <ms:edificios gml:id="edificios.4036375">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.359489 42.366807 </gml:lowerCorner>
-        		<gml:upperCorner>-2.359361 42.366871 </gml:upperCorner>
+        		<gml:lowerCorner>-2.359508 42.366807 </gml:lowerCorner>
+        		<gml:upperCorner>-2.359381 42.366871 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359481 42.366807  -2.359421 42.366813  -2.359361 42.366819  -2.359373 42.366871  -2.359489 42.366860  -2.359481 42.366807  </gml:posList>
+                <gml:posList srsDimension="2">-2.359500 42.366807  -2.359440 42.366813  -2.359381 42.366819  -2.359392 42.366871  -2.359508 42.366861  -2.359500 42.366807  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7438,15 +7417,15 @@
       <ms:edificios gml:id="edificios.4036394">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.383905 42.354549 </gml:lowerCorner>
-        		<gml:upperCorner>-2.383757 42.354679 </gml:upperCorner>
+        		<gml:lowerCorner>-2.383905 42.354532 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383757 42.354662 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.383905 42.354585  -2.383868 42.354549  -2.383809 42.354590  -2.383757 42.354632  -2.383820 42.354679  -2.383905 42.354585  </gml:posList>
+                <gml:posList srsDimension="2">-2.383905 42.354569  -2.383869 42.354532  -2.383810 42.354574  -2.383757 42.354615  -2.383820 42.354662  -2.383905 42.354569  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7711,15 +7690,15 @@
       <ms:edificios gml:id="edificios.4036407">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.390838 42.351604 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390701 42.351707 </gml:upperCorner>
+        		<gml:lowerCorner>-2.390857 42.351587 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390719 42.351690 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390741 42.351604  -2.390701 42.351678  -2.390798 42.351707  -2.390838 42.351633  -2.390741 42.351604  </gml:posList>
+                <gml:posList srsDimension="2">-2.390759 42.351587  -2.390719 42.351661  -2.390817 42.351690  -2.390857 42.351616  -2.390759 42.351587  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8328,7 +8307,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.392598 42.364881  -2.392345 42.364573  -2.392136 42.364665  -2.392390 42.364973  -2.392598 42.364881  </gml:posList>
+                <gml:posList srsDimension="2">-2.392598 42.364881  -2.392345 42.364573  -2.392240 42.364619  -2.392136 42.364665  -2.392390 42.364973  -2.392598 42.364881  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9790,15 +9769,15 @@
       <ms:edificios gml:id="edificios.4036507">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.391003 42.357862 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390936 42.357920 </gml:upperCorner>
+        		<gml:lowerCorner>-2.391061 42.357855 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390936 42.357919 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.391003 42.357867  -2.390963 42.357865  -2.390937 42.357862  -2.390936 42.357919  -2.391003 42.357920  -2.391003 42.357867  </gml:posList>
+                <gml:posList srsDimension="2">-2.391061 42.357859  -2.390944 42.357855  -2.390936 42.357919  -2.391053 42.357918  -2.391061 42.357859  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9811,7 +9790,7 @@
       <ms:edificios gml:id="edificios.4036508">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.391013 42.358007 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.391041 42.357954 </gml:lowerCorner>
         		<gml:upperCorner>-2.390888 42.358143 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -9819,7 +9798,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390888 42.358130  -2.390931 42.358143  -2.391013 42.358022  -2.390958 42.358007  -2.390888 42.358130  </gml:posList>
+                <gml:posList srsDimension="2">-2.390888 42.358130  -2.390931 42.358143  -2.391025 42.358016  -2.391041 42.357954  -2.391007 42.357956  -2.390970 42.358010  -2.390888 42.358130  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10932,7 +10911,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388714 42.355834  -2.388714 42.355790  -2.388593 42.355781  -2.388591 42.355835  -2.388634 42.355835  -2.388714 42.355834  </gml:posList>
+                <gml:posList srsDimension="2">-2.388714 42.355834  -2.388714 42.355800  -2.388714 42.355790  -2.388593 42.355781  -2.388591 42.355835  -2.388634 42.355835  -2.388714 42.355834  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11079,7 +11058,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.387252 42.350760  -2.387276 42.350695  -2.387194 42.350676  -2.387171 42.350743  -2.387252 42.350760  </gml:posList>
+                <gml:posList srsDimension="2">-2.387252 42.350760  -2.387276 42.350695  -2.387194 42.350676  -2.387171 42.350743  -2.387211 42.350752  -2.387252 42.350760  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13788,7 +13767,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388234 42.350881  -2.388308 42.350872  -2.388292 42.350814  -2.388217 42.350824  -2.388234 42.350881  </gml:posList>
+                <gml:posList srsDimension="2">-2.388234 42.350881  -2.388308 42.350872  -2.388292 42.350814  -2.388217 42.350824  -2.388226 42.350852  -2.388234 42.350881  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14502,7 +14481,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.387844 42.361120  -2.387849 42.361075  -2.387751 42.361074  -2.387748 42.361115  -2.387844 42.361120  </gml:posList>
+                <gml:posList srsDimension="2">-2.387844 42.361120  -2.387846 42.361097  -2.387849 42.361075  -2.387751 42.361074  -2.387748 42.361115  -2.387844 42.361120  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15006,7 +14985,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388315 42.351024  -2.388370 42.351014  -2.388346 42.350948  -2.388294 42.350957  -2.388315 42.351024  </gml:posList>
+                <gml:posList srsDimension="2">-2.388315 42.351024  -2.388370 42.351014  -2.388346 42.350948  -2.388294 42.350957  -2.388304 42.350991  -2.388315 42.351024  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16027,15 +16006,15 @@
       <ms:edificios gml:id="edificios.4036804">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.392214 42.354017 </gml:lowerCorner>
-        		<gml:upperCorner>-2.392132 42.354069 </gml:upperCorner>
+        		<gml:lowerCorner>-2.392228 42.354000 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392145 42.354052 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.392140 42.354069  -2.392214 42.354062  -2.392207 42.354017  -2.392132 42.354024  -2.392140 42.354069  </gml:posList>
+                <gml:posList srsDimension="2">-2.392153 42.354052  -2.392228 42.354045  -2.392220 42.354000  -2.392145 42.354007  -2.392153 42.354052  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17182,15 +17161,15 @@
       <ms:edificios gml:id="edificios.4036859">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.388130 42.350987 </gml:lowerCorner>
-        		<gml:upperCorner>-2.388043 42.351056 </gml:upperCorner>
+        		<gml:lowerCorner>-2.388143 42.350993 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388065 42.351050 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388091 42.351056  -2.388130 42.351034  -2.388082 42.350987  -2.388043 42.351009  -2.388091 42.351056  </gml:posList>
+                <gml:posList srsDimension="2">-2.388101 42.351050  -2.388143 42.351026  -2.388113 42.350993  -2.388089 42.351006  -2.388065 42.351019  -2.388101 42.351050  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19282,15 +19261,15 @@
       <ms:edificios gml:id="edificios.4036959">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.383449 42.355029 </gml:lowerCorner>
-        		<gml:upperCorner>-2.383370 42.355084 </gml:upperCorner>
+        		<gml:lowerCorner>-2.383457 42.355020 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383378 42.355076 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.383422 42.355084  -2.383449 42.355056  -2.383397 42.355029  -2.383370 42.355057  -2.383422 42.355084  </gml:posList>
+                <gml:posList srsDimension="2">-2.383430 42.355076  -2.383457 42.355048  -2.383405 42.355020  -2.383378 42.355049  -2.383430 42.355076  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19597,15 +19576,15 @@
       <ms:edificios gml:id="edificios.4036974">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.391483 42.354185 </gml:lowerCorner>
-        		<gml:upperCorner>-2.391409 42.354240 </gml:upperCorner>
+        		<gml:lowerCorner>-2.391499 42.354172 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391425 42.354227 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.391448 42.354185  -2.391409 42.354208  -2.391443 42.354240  -2.391483 42.354218  -2.391448 42.354185  </gml:posList>
+                <gml:posList srsDimension="2">-2.391465 42.354172  -2.391425 42.354194  -2.391459 42.354227  -2.391499 42.354205  -2.391465 42.354172  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21382,15 +21361,15 @@
       <ms:edificios gml:id="edificios.4037059">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.390812 42.350691 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390587 42.350846 </gml:upperCorner>
+        		<gml:lowerCorner>-2.390812 42.350704 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390604 42.350872 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390617 42.350737  -2.390587 42.350780  -2.390644 42.350801  -2.390627 42.350826  -2.390679 42.350846  -2.390696 42.350820  -2.390752 42.350841  -2.390788 42.350788  -2.390812 42.350753  -2.390658 42.350695  -2.390654 42.350694  -2.390648 42.350691  -2.390647 42.350693  -2.390617 42.350737  </gml:posList>
+                <gml:posList srsDimension="2">-2.390604 42.350801  -2.390661 42.350818  -2.390643 42.350858  -2.390703 42.350872  -2.390719 42.350834  -2.390773 42.350846  -2.390812 42.350753  -2.390643 42.350704  -2.390604 42.350801  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23188,15 +23167,15 @@
       <ms:edificios gml:id="edificios.4037145">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.383105 42.354500 </gml:lowerCorner>
-        		<gml:upperCorner>-2.383065 42.354529 </gml:upperCorner>
+        		<gml:lowerCorner>-2.383110 42.354490 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383070 42.354518 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.383086 42.354529  -2.383105 42.354511  -2.383085 42.354500  -2.383065 42.354517  -2.383086 42.354529  </gml:posList>
+                <gml:posList srsDimension="2">-2.383090 42.354518  -2.383110 42.354500  -2.383089 42.354490  -2.383070 42.354507  -2.383090 42.354518  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23440,15 +23419,15 @@
       <ms:edificios gml:id="edificios.4037157">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.384494 42.363848 </gml:lowerCorner>
-        		<gml:upperCorner>-2.384229 42.364121 </gml:upperCorner>
+        		<gml:lowerCorner>-2.384472 42.363864 </gml:lowerCorner>
+        		<gml:upperCorner>-2.384257 42.364104 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.384383 42.363848  -2.384229 42.363895  -2.384333 42.364121  -2.384494 42.364080  -2.384383 42.363848  </gml:posList>
+                <gml:posList srsDimension="2">-2.384390 42.363864  -2.384257 42.363899  -2.384343 42.364104  -2.384472 42.364073  -2.384445 42.364005  -2.384390 42.363864  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23503,15 +23482,15 @@
       <ms:edificios gml:id="edificios.4037160">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.390832 42.377582 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390364 42.377819 </gml:upperCorner>
+        		<gml:lowerCorner>-2.390860 42.377598 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390391 42.377835 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390775 42.377582  -2.390382 42.377711  -2.390364 42.377766  -2.390399 42.377819  -2.390832 42.377686  -2.390775 42.377582  </gml:posList>
+                <gml:posList srsDimension="2">-2.390802 42.377598  -2.390409 42.377727  -2.390391 42.377782  -2.390427 42.377835  -2.390860 42.377703  -2.390802 42.377598  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23545,15 +23524,15 @@
       <ms:edificios gml:id="edificios.4037162">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.390434 42.378022 </gml:lowerCorner>
-        		<gml:upperCorner>-2.390339 42.378076 </gml:upperCorner>
+        		<gml:lowerCorner>-2.390450 42.377964 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390302 42.378051 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390346 42.378076  -2.390421 42.378069  -2.390434 42.378068  -2.390425 42.378022  -2.390339 42.378030  -2.390346 42.378076  </gml:posList>
+                <gml:posList srsDimension="2">-2.390319 42.378051  -2.390394 42.378044  -2.390450 42.378040  -2.390442 42.377989  -2.390402 42.377994  -2.390392 42.377964  -2.390302 42.377971  -2.390319 42.378051  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23965,15 +23944,15 @@
       <ms:edificios gml:id="edificios.4037182">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.361096 42.381101 </gml:lowerCorner>
-        		<gml:upperCorner>-2.360962 42.381322 </gml:upperCorner>
+        		<gml:lowerCorner>-2.361096 42.381090 </gml:lowerCorner>
+        		<gml:upperCorner>-2.360962 42.381311 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.361096 42.381322  -2.361096 42.381109  -2.361031 42.381103  -2.360969 42.381101  -2.360962 42.381267  -2.360963 42.381320  -2.361096 42.381322  </gml:posList>
+                <gml:posList srsDimension="2">-2.361096 42.381311  -2.361096 42.381098  -2.361031 42.381092  -2.360969 42.381090  -2.360965 42.381186  -2.360962 42.381256  -2.360963 42.381309  -2.361096 42.381311  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23986,15 +23965,15 @@
       <ms:edificios gml:id="edificios.4037183">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.360963 42.381267 </gml:lowerCorner>
-        		<gml:upperCorner>-2.360854 42.381326 </gml:upperCorner>
+        		<gml:lowerCorner>-2.360963 42.381256 </gml:lowerCorner>
+        		<gml:upperCorner>-2.360854 42.381316 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.360962 42.381267  -2.360854 42.381277  -2.360858 42.381326  -2.360963 42.381320  -2.360962 42.381267  </gml:posList>
+                <gml:posList srsDimension="2">-2.360962 42.381256  -2.360908 42.381261  -2.360854 42.381266  -2.360858 42.381316  -2.360963 42.381309  -2.360962 42.381256  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24007,15 +23986,15 @@
       <ms:edificios gml:id="edificios.4037184">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.361096 42.381054 </gml:lowerCorner>
-        		<gml:upperCorner>-2.361031 42.381109 </gml:upperCorner>
+        		<gml:lowerCorner>-2.361096 42.381044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.361031 42.381098 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.361096 42.381109  -2.361096 42.381058  -2.361034 42.381054  -2.361031 42.381103  -2.361096 42.381109  </gml:posList>
+                <gml:posList srsDimension="2">-2.361096 42.381098  -2.361096 42.381048  -2.361034 42.381044  -2.361031 42.381092  -2.361096 42.381098  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24028,15 +24007,15 @@
       <ms:edificios gml:id="edificios.4037185">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.394409 42.361658 </gml:lowerCorner>
-        		<gml:upperCorner>-2.394170 42.362208 </gml:upperCorner>
+        		<gml:lowerCorner>-2.394430 42.361658 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394191 42.362208 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.394282 42.361658  -2.394175 42.361658  -2.394170 42.362207  -2.394404 42.362208  -2.394407 42.361937  -2.394408 42.361838  -2.394409 42.361702  -2.394409 42.361659  -2.394282 42.361658  </gml:posList>
+                <gml:posList srsDimension="2">-2.394303 42.361658  -2.394196 42.361658  -2.394191 42.362207  -2.394425 42.362208  -2.394428 42.361937  -2.394429 42.361832  -2.394430 42.361695  -2.394430 42.361659  -2.394303 42.361658  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24049,15 +24028,15 @@
       <ms:edificios gml:id="edificios.4037186">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.394487 42.361702 </gml:lowerCorner>
-        		<gml:upperCorner>-2.394408 42.361838 </gml:upperCorner>
+        		<gml:lowerCorner>-2.394514 42.361695 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394429 42.361835 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.394487 42.361736  -2.394482 42.361703  -2.394409 42.361702  -2.394408 42.361838  -2.394482 42.361838  -2.394487 42.361736  </gml:posList>
+                <gml:posList srsDimension="2">-2.394514 42.361698  -2.394430 42.361695  -2.394429 42.361832  -2.394511 42.361835  -2.394514 42.361698  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24071,14 +24050,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.395220 42.361575 </gml:lowerCorner>
-        		<gml:upperCorner>-2.394893 42.362247 </gml:upperCorner>
+        		<gml:upperCorner>-2.394930 42.362229 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.395220 42.362217  -2.395043 42.361575  -2.394903 42.361600  -2.394893 42.361601  -2.395080 42.362247  -2.395172 42.362243  -2.395167 42.362225  -2.395220 42.362217  </gml:posList>
+                <gml:posList srsDimension="2">-2.395220 42.362217  -2.395043 42.361575  -2.394930 42.361595  -2.395105 42.362229  -2.395173 42.362222  -2.395220 42.362217  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24175,7 +24154,7 @@
       <ms:edificios gml:id="edificios.4037192">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.395089 42.362702 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.395135 42.362702 </gml:lowerCorner>
         		<gml:upperCorner>-2.394900 42.362824 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -24183,7 +24162,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.395083 42.362724  -2.395000 42.362726  -2.394998 42.362702  -2.394900 42.362705  -2.394902 42.362743  -2.394908 42.362824  -2.395089 42.362820  -2.395083 42.362724  </gml:posList>
+                <gml:posList srsDimension="2">-2.395083 42.362724  -2.395000 42.362726  -2.394998 42.362702  -2.394900 42.362705  -2.394902 42.362743  -2.394908 42.362824  -2.395089 42.362820  -2.395087 42.362787  -2.395135 42.362784  -2.395130 42.362723  -2.395083 42.362724  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24511,15 +24490,15 @@
       <ms:edificios gml:id="edificios.4037208">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.345186 42.380525 </gml:lowerCorner>
-        		<gml:upperCorner>-2.345033 42.380626 </gml:upperCorner>
+        		<gml:lowerCorner>-2.345191 42.380502 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345039 42.380603 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.345065 42.380525  -2.345033 42.380555  -2.345154 42.380626  -2.345186 42.380596  -2.345065 42.380525  </gml:posList>
+                <gml:posList srsDimension="2">-2.345071 42.380502  -2.345039 42.380532  -2.345109 42.380574  -2.345159 42.380603  -2.345191 42.380573  -2.345071 42.380502  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24532,15 +24511,15 @@
       <ms:edificios gml:id="edificios.4037209">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.346503 42.380812 </gml:lowerCorner>
-        		<gml:upperCorner>-2.346390 42.380892 </gml:upperCorner>
+        		<gml:lowerCorner>-2.346512 42.380800 </gml:lowerCorner>
+        		<gml:upperCorner>-2.346398 42.380880 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.346503 42.380833  -2.346425 42.380812  -2.346418 42.380823  -2.346400 42.380851  -2.346390 42.380868  -2.346464 42.380892  -2.346488 42.380857  -2.346491 42.380852  -2.346498 42.380841  -2.346503 42.380833  </gml:posList>
+                <gml:posList srsDimension="2">-2.346512 42.380822  -2.346472 42.380811  -2.346433 42.380800  -2.346426 42.380811  -2.346409 42.380840  -2.346398 42.380857  -2.346472 42.380880  -2.346496 42.380845  -2.346499 42.380840  -2.346506 42.380829  -2.346512 42.380822  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24553,15 +24532,15 @@
       <ms:edificios gml:id="edificios.4037210">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.345206 42.382188 </gml:lowerCorner>
-        		<gml:upperCorner>-2.345141 42.382230 </gml:upperCorner>
+        		<gml:lowerCorner>-2.345225 42.382165 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345111 42.382249 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.345141 42.382208  -2.345187 42.382230  -2.345206 42.382211  -2.345162 42.382188  -2.345141 42.382208  </gml:posList>
+                <gml:posList srsDimension="2">-2.345111 42.382207  -2.345187 42.382249  -2.345225 42.382201  -2.345150 42.382165  -2.345111 42.382207  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24834,7 +24813,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338826 42.385508  -2.338863 42.385461  -2.338769 42.385420  -2.338732 42.385467  -2.338826 42.385508  </gml:posList>
+                <gml:posList srsDimension="2">-2.338826 42.385508  -2.338844 42.385484  -2.338863 42.385461  -2.338769 42.385420  -2.338732 42.385467  -2.338826 42.385508  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24994,15 +24973,15 @@
       <ms:edificios gml:id="edificios.4037231">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.359481 42.366750 </gml:lowerCorner>
-        		<gml:upperCorner>-2.359411 42.366813 </gml:upperCorner>
+        		<gml:lowerCorner>-2.359500 42.366750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.359430 42.366813 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359411 42.366756  -2.359421 42.366813  -2.359481 42.366807  -2.359471 42.366750  -2.359411 42.366756  </gml:posList>
+                <gml:posList srsDimension="2">-2.359430 42.366756  -2.359440 42.366813  -2.359500 42.366807  -2.359490 42.366750  -2.359460 42.366753  -2.359430 42.366756  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25015,15 +24994,15 @@
       <ms:edificios gml:id="edificios.4037232">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.359421 42.366756 </gml:lowerCorner>
-        		<gml:upperCorner>-2.359352 42.366819 </gml:upperCorner>
+        		<gml:lowerCorner>-2.359440 42.366756 </gml:lowerCorner>
+        		<gml:upperCorner>-2.359371 42.366819 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359421 42.366813  -2.359411 42.366756  -2.359380 42.366758  -2.359352 42.366764  -2.359361 42.366819  -2.359421 42.366813  </gml:posList>
+                <gml:posList srsDimension="2">-2.359440 42.366813  -2.359430 42.366756  -2.359399 42.366759  -2.359371 42.366764  -2.359381 42.366819  -2.359440 42.366813  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25036,15 +25015,15 @@
       <ms:edificios gml:id="edificios.4037233">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.358317 42.367214 </gml:lowerCorner>
-        		<gml:upperCorner>-2.358252 42.367267 </gml:upperCorner>
+        		<gml:lowerCorner>-2.358337 42.367208 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358273 42.367261 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.358252 42.367227  -2.358285 42.367267  -2.358317 42.367257  -2.358291 42.367214  -2.358252 42.367227  </gml:posList>
+                <gml:posList srsDimension="2">-2.358273 42.367221  -2.358306 42.367261  -2.358337 42.367251  -2.358312 42.367208  -2.358292 42.367215  -2.358273 42.367221  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25057,15 +25036,15 @@
       <ms:edificios gml:id="edificios.4037234">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.356912 42.367507 </gml:lowerCorner>
-        		<gml:upperCorner>-2.356797 42.367586 </gml:upperCorner>
+        		<gml:lowerCorner>-2.356937 42.367499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.356822 42.367578 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.356912 42.367553  -2.356879 42.367507  -2.356797 42.367540  -2.356838 42.367586  -2.356859 42.367577  -2.356875 42.367570  -2.356912 42.367553  </gml:posList>
+                <gml:posList srsDimension="2">-2.356937 42.367546  -2.356904 42.367499  -2.356863 42.367516  -2.356822 42.367533  -2.356863 42.367578  -2.356883 42.367569  -2.356900 42.367562  -2.356937 42.367546  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25086,7 +25065,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359568 42.366978  -2.359384 42.367020  -2.359410 42.367081  -2.359479 42.367064  -2.359491 42.367083  -2.359600 42.367055  -2.359568 42.366978  </gml:posList>
+                <gml:posList srsDimension="2">-2.359568 42.366978  -2.359384 42.367020  -2.359397 42.367051  -2.359410 42.367081  -2.359479 42.367064  -2.359491 42.367083  -2.359600 42.367055  -2.359568 42.366978  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25120,15 +25099,15 @@
       <ms:edificios gml:id="edificios.4037237">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371979 42.364359 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371859 42.364439 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371982 42.364370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371863 42.364451 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371944 42.364439  -2.371979 42.364395  -2.371894 42.364359  -2.371859 42.364402  -2.371944 42.364439  </gml:posList>
+                <gml:posList srsDimension="2">-2.371948 42.364451  -2.371982 42.364407  -2.371897 42.364370  -2.371863 42.364414  -2.371905 42.364433  -2.371948 42.364451  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25149,7 +25128,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.369636 42.362962  -2.369577 42.362919  -2.369457 42.363004  -2.369516 42.363050  -2.369636 42.362962  </gml:posList>
+                <gml:posList srsDimension="2">-2.369636 42.362962  -2.369577 42.362919  -2.369457 42.363004  -2.369516 42.363050  -2.369576 42.363006  -2.369636 42.362962  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25170,7 +25149,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.367756 42.363014  -2.367711 42.363026  -2.367737 42.363080  -2.367782 42.363066  -2.367756 42.363014  </gml:posList>
+                <gml:posList srsDimension="2">-2.367756 42.363014  -2.367711 42.363026  -2.367737 42.363080  -2.367782 42.363066  -2.367769 42.363040  -2.367756 42.363014  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25183,15 +25162,15 @@
       <ms:edificios gml:id="edificios.4037240">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.368331 42.359680 </gml:lowerCorner>
-        		<gml:upperCorner>-2.368246 42.359726 </gml:upperCorner>
+        		<gml:lowerCorner>-2.368336 42.359660 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368251 42.359706 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.368331 42.359726  -2.368330 42.359680  -2.368246 42.359680  -2.368247 42.359726  -2.368331 42.359726  </gml:posList>
+                <gml:posList srsDimension="2">-2.368336 42.359706  -2.368336 42.359660  -2.368251 42.359660  -2.368252 42.359683  -2.368252 42.359706  -2.368336 42.359706  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25204,15 +25183,15 @@
       <ms:edificios gml:id="edificios.4037241">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371502 42.356925 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371201 42.357301 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371507 42.356903 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371207 42.357279 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371316 42.357166  -2.371400 42.357301  -2.371502 42.357265  -2.371313 42.356925  -2.371201 42.356959  -2.371316 42.357166  </gml:posList>
+                <gml:posList srsDimension="2">-2.371322 42.357144  -2.371406 42.357279  -2.371507 42.357243  -2.371318 42.356903  -2.371263 42.356920  -2.371207 42.356937  -2.371322 42.357144  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25225,15 +25204,15 @@
       <ms:edificios gml:id="edificios.4037242">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371400 42.357166 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371204 42.357339 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371406 42.357144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371210 42.357317 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371400 42.357301  -2.371316 42.357166  -2.371265 42.357185  -2.371204 42.357209  -2.371296 42.357339  -2.371400 42.357301  </gml:posList>
+                <gml:posList srsDimension="2">-2.371406 42.357279  -2.371322 42.357144  -2.371271 42.357163  -2.371210 42.357187  -2.371302 42.357317  -2.371406 42.357279  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25246,15 +25225,15 @@
       <ms:edificios gml:id="edificios.4037243">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371951 42.353349 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371847 42.353412 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371957 42.353332 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371868 42.353385 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371873 42.353394  -2.371915 42.353408  -2.371929 42.353412  -2.371951 42.353376  -2.371869 42.353349  -2.371847 42.353385  -2.371873 42.353394  </gml:posList>
+                <gml:posList srsDimension="2">-2.371941 42.353385  -2.371957 42.353348  -2.371877 42.353332  -2.371868 42.353370  -2.371941 42.353385  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25296,7 +25275,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.372285 42.352981  -2.372207 42.352862  -2.372146 42.352889  -2.372151 42.352902  -2.372103 42.352922  -2.372107 42.352944  -2.372122 42.352960  -2.372110 42.352966  -2.372176 42.353028  -2.372285 42.352981  </gml:posList>
+                <gml:posList srsDimension="2">-2.372285 42.352981  -2.372207 42.352862  -2.372146 42.352889  -2.372151 42.352902  -2.372103 42.352922  -2.372107 42.352944  -2.372122 42.352960  -2.372110 42.352966  -2.372143 42.352997  -2.372176 42.353028  -2.372285 42.352981  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25309,15 +25288,15 @@
       <ms:edificios gml:id="edificios.4037246">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371936 42.353477 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371828 42.353541 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371928 42.353444 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371793 42.353523 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371850 42.353477  -2.371828 42.353510  -2.371914 42.353541  -2.371936 42.353509  -2.371850 42.353477  </gml:posList>
+                <gml:posList srsDimension="2">-2.371822 42.353444  -2.371793 42.353478  -2.371906 42.353523  -2.371928 42.353490  -2.371822 42.353444  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25330,15 +25309,15 @@
       <ms:edificios gml:id="edificios.4037247">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371850 42.353460 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371784 42.353510 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371860 42.353370 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371732 42.353478 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371828 42.353510  -2.371850 42.353477  -2.371806 42.353460  -2.371784 42.353493  -2.371828 42.353510  </gml:posList>
+                <gml:posList srsDimension="2">-2.371793 42.353478  -2.371822 42.353444  -2.371860 42.353402  -2.371797 42.353370  -2.371732 42.353450  -2.371793 42.353478  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25351,15 +25330,15 @@
       <ms:edificios gml:id="edificios.4037248">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.371442 42.353486 </gml:lowerCorner>
-        		<gml:upperCorner>-2.371353 42.353548 </gml:upperCorner>
+        		<gml:lowerCorner>-2.371444 42.353472 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371355 42.353534 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.371442 42.353511  -2.371384 42.353486  -2.371353 42.353520  -2.371413 42.353548  -2.371442 42.353511  </gml:posList>
+                <gml:posList srsDimension="2">-2.371444 42.353497  -2.371386 42.353472  -2.371355 42.353506  -2.371385 42.353520  -2.371415 42.353534  -2.371444 42.353497  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25380,7 +25359,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.370439 42.352012  -2.370418 42.351968  -2.370315 42.351990  -2.370333 42.352035  -2.370439 42.352012  </gml:posList>
+                <gml:posList srsDimension="2">-2.370439 42.352012  -2.370418 42.351968  -2.370367 42.351979  -2.370315 42.351990  -2.370333 42.352035  -2.370439 42.352012  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25456,15 +25435,15 @@
       <ms:edificios gml:id="edificios.4037253">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.386652 42.369240 </gml:lowerCorner>
-        		<gml:upperCorner>-2.386218 42.369651 </gml:upperCorner>
+        		<gml:lowerCorner>-2.386644 42.369177 </gml:lowerCorner>
+        		<gml:upperCorner>-2.386170 42.369651 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.386424 42.369651  -2.386652 42.369568  -2.386450 42.369240  -2.386218 42.369318  -2.386424 42.369651  </gml:posList>
+                <gml:posList srsDimension="2">-2.386424 42.369651  -2.386534 42.369614  -2.386644 42.369577  -2.386400 42.369177  -2.386170 42.369257  -2.386213 42.369324  -2.386424 42.369651  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25653,7 +25632,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.379086 42.368095  -2.379061 42.368088  -2.379072 42.368058  -2.378971 42.368037  -2.378964 42.368064  -2.378988 42.368071  -2.378936 42.368194  -2.379033 42.368218  -2.379086 42.368095  </gml:posList>
+                <gml:posList srsDimension="2">-2.379086 42.368095  -2.379061 42.368088  -2.379072 42.368058  -2.378971 42.368037  -2.378964 42.368064  -2.378988 42.368071  -2.378936 42.368194  -2.379033 42.368218  -2.379060 42.368156  -2.379086 42.368095  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25675,27 +25654,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.378923 42.368057  -2.378957 42.367982  -2.378878 42.367964  -2.378847 42.368036  -2.378923 42.368057  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4037264">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.378729 42.366948 </gml:lowerCorner>
-        		<gml:upperCorner>-2.378452 42.367142 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.378729 42.367016  -2.378646 42.366948  -2.378452 42.367067  -2.378527 42.367142  -2.378729 42.367016  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25855,15 +25813,15 @@
       <ms:edificios gml:id="edificios.4037272">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.391794 42.347023 </gml:lowerCorner>
-        		<gml:upperCorner>-2.391647 42.347147 </gml:upperCorner>
+        		<gml:lowerCorner>-2.391804 42.347030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391658 42.347155 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.391794 42.347042  -2.391720 42.347023  -2.391713 42.347045  -2.391702 42.347042  -2.391673 42.347095  -2.391660 42.347092  -2.391647 42.347119  -2.391740 42.347147  -2.391794 42.347042  </gml:posList>
+                <gml:posList srsDimension="2">-2.391804 42.347050  -2.391731 42.347030  -2.391724 42.347052  -2.391712 42.347050  -2.391684 42.347103  -2.391671 42.347099  -2.391658 42.347126  -2.391750 42.347155  -2.391757 42.347141  -2.391804 42.347050  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25884,7 +25842,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.387672 42.349227  -2.387643 42.349222  -2.387583 42.349210  -2.387559 42.349291  -2.387600 42.349301  -2.387650 42.349313  -2.387656 42.349315  -2.387672 42.349227  </gml:posList>
+                <gml:posList srsDimension="2">-2.387672 42.349227  -2.387643 42.349222  -2.387583 42.349210  -2.387559 42.349291  -2.387600 42.349301  -2.387650 42.349313  -2.387656 42.349315  -2.387664 42.349271  -2.387672 42.349227  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25918,15 +25876,15 @@
       <ms:edificios gml:id="edificios.4037275">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.388605 42.349170 </gml:lowerCorner>
-        		<gml:upperCorner>-2.388496 42.349232 </gml:upperCorner>
+        		<gml:lowerCorner>-2.388624 42.349165 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388515 42.349226 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388496 42.349195  -2.388513 42.349232  -2.388605 42.349206  -2.388586 42.349170  -2.388496 42.349195  </gml:posList>
+                <gml:posList srsDimension="2">-2.388515 42.349190  -2.388532 42.349226  -2.388624 42.349200  -2.388605 42.349165  -2.388515 42.349190  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25939,15 +25897,15 @@
       <ms:edificios gml:id="edificios.4037276">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.388513 42.349195 </gml:lowerCorner>
-        		<gml:upperCorner>-2.388393 42.349260 </gml:upperCorner>
+        		<gml:lowerCorner>-2.388532 42.349190 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388412 42.349255 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.388513 42.349232  -2.388496 42.349195  -2.388393 42.349224  -2.388412 42.349260  -2.388513 42.349232  </gml:posList>
+                <gml:posList srsDimension="2">-2.388532 42.349226  -2.388515 42.349190  -2.388464 42.349205  -2.388412 42.349219  -2.388431 42.349255  -2.388532 42.349226  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25968,7 +25926,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390074 42.351117  -2.389971 42.351077  -2.389893 42.351171  -2.389996 42.351217  -2.390074 42.351117  </gml:posList>
+                <gml:posList srsDimension="2">-2.390074 42.351117  -2.389971 42.351077  -2.389932 42.351124  -2.389893 42.351171  -2.389996 42.351217  -2.390074 42.351117  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25989,7 +25947,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.389787 42.350999  -2.389697 42.350944  -2.389627 42.351015  -2.389716 42.351068  -2.389787 42.350999  </gml:posList>
+                <gml:posList srsDimension="2">-2.389787 42.350999  -2.389742 42.350972  -2.389697 42.350944  -2.389627 42.351015  -2.389716 42.351068  -2.389787 42.350999  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26010,7 +25968,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.390376 42.350023  -2.390338 42.349972  -2.390238 42.350006  -2.390268 42.350056  -2.390376 42.350023  </gml:posList>
+                <gml:posList srsDimension="2">-2.390376 42.350023  -2.390338 42.349972  -2.390288 42.349989  -2.390238 42.350006  -2.390268 42.350056  -2.390376 42.350023  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26052,7 +26010,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.389519 42.348715  -2.389521 42.348659  -2.389462 42.348658  -2.389462 42.348716  -2.389519 42.348715  </gml:posList>
+                <gml:posList srsDimension="2">-2.389519 42.348715  -2.389521 42.348659  -2.389462 42.348658  -2.389462 42.348687  -2.389462 42.348716  -2.389519 42.348715  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26073,7 +26031,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.387570 42.344838  -2.387639 42.344807  -2.387597 42.344754  -2.387526 42.344784  -2.387570 42.344838  </gml:posList>
+                <gml:posList srsDimension="2">-2.387570 42.344838  -2.387639 42.344807  -2.387597 42.344754  -2.387562 42.344769  -2.387526 42.344784  -2.387570 42.344838  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26086,7 +26044,7 @@
       <ms:edificios gml:id="edificios.4037283">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.378933 42.352199 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.378991 42.352193 </gml:lowerCorner>
         		<gml:upperCorner>-2.378877 42.352290 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -26094,7 +26052,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.378931 42.352279  -2.378919 42.352199  -2.378877 42.352203  -2.378887 42.352282  -2.378888 42.352290  -2.378933 42.352287  -2.378931 42.352279  </gml:posList>
+                <gml:posList srsDimension="2">-2.378968 42.352261  -2.378991 42.352259  -2.378981 42.352193  -2.378877 42.352203  -2.378887 42.352282  -2.378888 42.352290  -2.378968 42.352284  -2.378968 42.352261  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26107,15 +26065,15 @@
       <ms:edificios gml:id="edificios.4037284">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.378386 42.352505 </gml:lowerCorner>
-        		<gml:upperCorner>-2.378190 42.352656 </gml:upperCorner>
+        		<gml:lowerCorner>-2.378409 42.352486 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378212 42.352638 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.378386 42.352595  -2.378292 42.352505  -2.378190 42.352567  -2.378287 42.352656  -2.378386 42.352595  </gml:posList>
+                <gml:posList srsDimension="2">-2.378409 42.352577  -2.378314 42.352486  -2.378212 42.352549  -2.378261 42.352593  -2.378309 42.352638  -2.378409 42.352577  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26128,15 +26086,15 @@
       <ms:edificios gml:id="edificios.4037285">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.380814 42.357261 </gml:lowerCorner>
-        		<gml:upperCorner>-2.380722 42.357353 </gml:upperCorner>
+        		<gml:lowerCorner>-2.380820 42.357239 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380726 42.357343 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.380774 42.357261  -2.380722 42.357276  -2.380760 42.357353  -2.380814 42.357341  -2.380774 42.357261  </gml:posList>
+                <gml:posList srsDimension="2">-2.380780 42.357239  -2.380726 42.357252  -2.380767 42.357343  -2.380820 42.357331  -2.380800 42.357285  -2.380780 42.357239  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26149,15 +26107,15 @@
       <ms:edificios gml:id="edificios.4037286">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.381357 42.357520 </gml:lowerCorner>
-        		<gml:upperCorner>-2.381260 42.357586 </gml:upperCorner>
+        		<gml:lowerCorner>-2.381361 42.357507 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381264 42.357572 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.381333 42.357520  -2.381260 42.357563  -2.381283 42.357586  -2.381357 42.357544  -2.381333 42.357520  </gml:posList>
+                <gml:posList srsDimension="2">-2.381336 42.357507  -2.381264 42.357550  -2.381287 42.357572  -2.381361 42.357531  -2.381336 42.357507  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26170,15 +26128,15 @@
       <ms:edificios gml:id="edificios.4037287">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.381333 42.357495 </gml:lowerCorner>
-        		<gml:upperCorner>-2.381233 42.357563 </gml:upperCorner>
+        		<gml:lowerCorner>-2.381336 42.357481 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381236 42.357550 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.381260 42.357563  -2.381333 42.357520  -2.381307 42.357495  -2.381233 42.357536  -2.381260 42.357563  </gml:posList>
+                <gml:posList srsDimension="2">-2.381264 42.357550  -2.381336 42.357507  -2.381311 42.357481  -2.381236 42.357523  -2.381264 42.357550  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26191,15 +26149,15 @@
       <ms:edificios gml:id="edificios.4037288">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.381516 42.357276 </gml:lowerCorner>
-        		<gml:upperCorner>-2.381416 42.357347 </gml:upperCorner>
+        		<gml:lowerCorner>-2.381517 42.357252 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381418 42.357323 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.381416 42.357302  -2.381452 42.357347  -2.381516 42.357322  -2.381477 42.357276  -2.381416 42.357302  </gml:posList>
+                <gml:posList srsDimension="2">-2.381418 42.357278  -2.381454 42.357323  -2.381517 42.357298  -2.381479 42.357252  -2.381418 42.357278  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26212,15 +26170,15 @@
       <ms:edificios gml:id="edificios.4037289">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.381230 42.357411 </gml:lowerCorner>
-        		<gml:upperCorner>-2.381125 42.357492 </gml:upperCorner>
+        		<gml:lowerCorner>-2.381245 42.357394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381139 42.357475 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.381125 42.357441  -2.381175 42.357492  -2.381230 42.357464  -2.381176 42.357411  -2.381125 42.357441  </gml:posList>
+                <gml:posList srsDimension="2">-2.381139 42.357424  -2.381189 42.357475  -2.381245 42.357446  -2.381190 42.357394  -2.381139 42.357424  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26233,15 +26191,15 @@
       <ms:edificios gml:id="edificios.4037290">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.380383 42.357870 </gml:lowerCorner>
-        		<gml:upperCorner>-2.380283 42.357958 </gml:upperCorner>
+        		<gml:lowerCorner>-2.380392 42.357855 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380291 42.357943 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.380383 42.357942  -2.380352 42.357870  -2.380283 42.357886  -2.380314 42.357958  -2.380383 42.357942  </gml:posList>
+                <gml:posList srsDimension="2">-2.380392 42.357927  -2.380360 42.357855  -2.380291 42.357871  -2.380322 42.357943  -2.380392 42.357927  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26254,15 +26212,15 @@
       <ms:edificios gml:id="edificios.4037291">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.376123 42.358406 </gml:lowerCorner>
-        		<gml:upperCorner>-2.375996 42.358534 </gml:upperCorner>
+        		<gml:lowerCorner>-2.376126 42.358394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375999 42.358522 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.376123 42.358417  -2.376024 42.358406  -2.375996 42.358521  -2.376091 42.358534  -2.376123 42.358417  </gml:posList>
+                <gml:posList srsDimension="2">-2.376126 42.358404  -2.376027 42.358394  -2.375999 42.358508  -2.376094 42.358522  -2.376110 42.358463  -2.376126 42.358404  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26275,15 +26233,15 @@
       <ms:edificios gml:id="edificios.4037292">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.376093 42.358114 </gml:lowerCorner>
-        		<gml:upperCorner>-2.375997 42.358204 </gml:upperCorner>
+        		<gml:lowerCorner>-2.376098 42.358099 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376002 42.358189 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.376077 42.358204  -2.376093 42.358120  -2.376010 42.358114  -2.375997 42.358197  -2.376077 42.358204  </gml:posList>
+                <gml:posList srsDimension="2">-2.376082 42.358189  -2.376098 42.358105  -2.376015 42.358099  -2.376002 42.358183  -2.376082 42.358189  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26296,15 +26254,15 @@
       <ms:edificios gml:id="edificios.4037293">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.376415 42.357809 </gml:lowerCorner>
-        		<gml:upperCorner>-2.376284 42.357878 </gml:upperCorner>
+        		<gml:lowerCorner>-2.376027 42.357969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375740 42.358026 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.376415 42.357862  -2.376403 42.357809  -2.376284 42.357823  -2.376297 42.357878  -2.376415 42.357862  </gml:posList>
+                <gml:posList srsDimension="2">-2.376023 42.358026  -2.376027 42.357983  -2.375744 42.357969  -2.375740 42.358015  -2.376023 42.358026  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26317,15 +26275,15 @@
       <ms:edificios gml:id="edificios.4037294">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.376512 42.357795 </gml:lowerCorner>
-        		<gml:upperCorner>-2.376436 42.357846 </gml:upperCorner>
+        		<gml:lowerCorner>-2.376517 42.357775 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376247 42.357860 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.376512 42.357829  -2.376499 42.357795  -2.376436 42.357801  -2.376451 42.357846  -2.376512 42.357829  </gml:posList>
+                <gml:posList srsDimension="2">-2.376517 42.357816  -2.376511 42.357775  -2.376445 42.357775  -2.376284 42.357790  -2.376288 42.357798  -2.376247 42.357803  -2.376261 42.357860  -2.376424 42.357838  -2.376419 42.357814  -2.376454 42.357811  -2.376456 42.357833  -2.376486 42.357825  -2.376517 42.357816  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26338,15 +26296,15 @@
       <ms:edificios gml:id="edificios.4037295">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.379098 42.357392 </gml:lowerCorner>
-        		<gml:upperCorner>-2.378959 42.357483 </gml:upperCorner>
+        		<gml:lowerCorner>-2.379116 42.357376 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378977 42.357467 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.379098 42.357465  -2.379070 42.357392  -2.378959 42.357409  -2.378987 42.357483  -2.379098 42.357465  </gml:posList>
+                <gml:posList srsDimension="2">-2.379116 42.357449  -2.379088 42.357376  -2.378977 42.357393  -2.379005 42.357467  -2.379116 42.357449  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26359,15 +26317,15 @@
       <ms:edificios gml:id="edificios.4037296">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.381002 42.356953 </gml:lowerCorner>
-        		<gml:upperCorner>-2.380922 42.356997 </gml:upperCorner>
+        		<gml:lowerCorner>-2.381005 42.356939 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380924 42.356982 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.380950 42.356954  -2.380922 42.356953  -2.380922 42.356969  -2.380922 42.356996  -2.381002 42.356997  -2.381002 42.356955  -2.380950 42.356954  </gml:posList>
+                <gml:posList srsDimension="2">-2.380953 42.356939  -2.380925 42.356939  -2.380924 42.356955  -2.380925 42.356982  -2.381005 42.356982  -2.381005 42.356941  -2.380953 42.356939  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26380,15 +26338,15 @@
       <ms:edificios gml:id="edificios.4037297">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.380930 42.356913 </gml:lowerCorner>
-        		<gml:upperCorner>-2.380848 42.356972 </gml:upperCorner>
+        		<gml:lowerCorner>-2.380934 42.356879 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380841 42.356947 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.380930 42.356944  -2.380901 42.356913  -2.380848 42.356940  -2.380851 42.356944  -2.380877 42.356972  -2.380930 42.356944  </gml:posList>
+                <gml:posList srsDimension="2">-2.380934 42.356920  -2.380895 42.356879  -2.380841 42.356907  -2.380855 42.356920  -2.380881 42.356947  -2.380934 42.356920  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26401,15 +26359,15 @@
       <ms:edificios gml:id="edificios.4037298">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.380967 42.356894 </gml:lowerCorner>
-        		<gml:upperCorner>-2.380901 42.356944 </gml:upperCorner>
+        		<gml:lowerCorner>-2.380971 42.356860 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380895 42.356920 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.380901 42.356913  -2.380930 42.356944  -2.380967 42.356926  -2.380938 42.356894  -2.380901 42.356913  </gml:posList>
+                <gml:posList srsDimension="2">-2.380895 42.356879  -2.380934 42.356920  -2.380971 42.356901  -2.380930 42.356860  -2.380895 42.356879  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27901,6 +27859,6411 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.338575 42.388097  -2.338573 42.388062  -2.338552 42.388063  -2.338532 42.388065  -2.338536 42.388095  -2.338575 42.388097  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673887">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.332289 42.365648 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332233 42.365694 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.332273 42.365648  -2.332233 42.365684  -2.332249 42.365694  -2.332289 42.365657  -2.332273 42.365648  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673888">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.370321 42.331565 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370217 42.331641 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.370321 42.331569  -2.370223 42.331565  -2.370217 42.331637  -2.370316 42.331641  -2.370321 42.331569  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673889">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380289 42.336799 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380229 42.336845 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380289 42.336815  -2.380265 42.336799  -2.380229 42.336829  -2.380253 42.336845  -2.380289 42.336815  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673890">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.384674 42.340285 </gml:lowerCorner>
+        		<gml:upperCorner>-2.384616 42.340331 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.384674 42.340314  -2.384649 42.340285  -2.384616 42.340301  -2.384643 42.340331  -2.384674 42.340314  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673891">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.384483 42.340635 </gml:lowerCorner>
+        		<gml:upperCorner>-2.384428 42.340679 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.384483 42.340658  -2.384456 42.340635  -2.384428 42.340659  -2.384457 42.340679  -2.384483 42.340658  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673894">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386061 42.341511 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385984 42.341563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386061 42.341535  -2.386008 42.341511  -2.385984 42.341540  -2.386036 42.341563  -2.386061 42.341535  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673895">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358278 42.342713 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358239 42.342730 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358278 42.342730  -2.358277 42.342713  -2.358239 42.342713  -2.358239 42.342729  -2.358278 42.342730  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673896">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358758 42.342723 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358697 42.342753 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358758 42.342730  -2.358701 42.342723  -2.358697 42.342750  -2.358753 42.342753  -2.358758 42.342730  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673897">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358528 42.342746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358383 42.342847 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358528 42.342762  -2.358396 42.342746  -2.358383 42.342817  -2.358419 42.342822  -2.358416 42.342833  -2.358487 42.342847  -2.358488 42.342839  -2.358512 42.342843  -2.358528 42.342762  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673899">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393026 42.342075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392875 42.342194 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393026 42.342105  -2.392919 42.342075  -2.392875 42.342164  -2.392983 42.342194  -2.393026 42.342105  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673900">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395367 42.344330 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395283 42.344372 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395367 42.344348  -2.395361 42.344347  -2.395296 42.344330  -2.395283 42.344351  -2.395354 42.344372  -2.395367 42.344348  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673901">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393725 42.345187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393616 42.345274 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393725 42.345209  -2.393662 42.345187  -2.393639 42.345220  -2.393616 42.345254  -2.393677 42.345274  -2.393725 42.345209  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673902">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.368921 42.346594 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368859 42.346633 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.368921 42.346627  -2.368920 42.346623  -2.368917 42.346594  -2.368863 42.346604  -2.368860 42.346629  -2.368859 42.346633  -2.368866 42.346633  -2.368915 42.346628  -2.368921 42.346627  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673903">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.399996 42.346944 </gml:lowerCorner>
+        		<gml:upperCorner>-2.399984 42.346951 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.399984 42.346947  -2.399996 42.346951  -2.399988 42.346944  -2.399984 42.346947  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673904">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.369286 42.347035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.369172 42.347129 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.369286 42.347096  -2.369236 42.347035  -2.369182 42.347056  -2.369172 42.347060  -2.369218 42.347124  -2.369230 42.347120  -2.369235 42.347129  -2.369282 42.347109  -2.369275 42.347099  -2.369286 42.347096  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673905">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.405142 42.347289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.405075 42.347346 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.405142 42.347312  -2.405104 42.347289  -2.405075 42.347325  -2.405109 42.347346  -2.405142 42.347312  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673907">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358498 42.349304 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358363 42.349353 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358498 42.349334  -2.358490 42.349304  -2.358363 42.349322  -2.358374 42.349353  -2.358498 42.349334  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673908">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395663 42.350581 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395545 42.350678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395593 42.350581  -2.395545 42.350617  -2.395620 42.350678  -2.395663 42.350650  -2.395593 42.350581  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673909">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389689 42.349796 </gml:lowerCorner>
+        		<gml:upperCorner>-2.389600 42.349874 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.389689 42.349856  -2.389636 42.349796  -2.389600 42.349813  -2.389653 42.349874  -2.389689 42.349856  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673910">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371141 42.349707 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371039 42.349784 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371141 42.349751  -2.371107 42.349707  -2.371039 42.349743  -2.371078 42.349784  -2.371141 42.349751  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673911">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393657 42.349835 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393492 42.349957 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393570 42.349957  -2.393657 42.349875  -2.393580 42.349835  -2.393492 42.349914  -2.393570 42.349957  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673912">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393570 42.349914 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393406 42.350005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393570 42.349957  -2.393492 42.349914  -2.393406 42.349952  -2.393443 42.350005  -2.393570 42.349957  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673913">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.381654 42.349830 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381610 42.349878 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.381654 42.349847  -2.381628 42.349830  -2.381610 42.349860  -2.381635 42.349878  -2.381654 42.349847  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673914">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393341 42.349974 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393231 42.350058 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393341 42.350031  -2.393304 42.349974  -2.393231 42.350001  -2.393270 42.350058  -2.393341 42.350031  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673915">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.360056 42.349881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.359963 42.350015 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.360056 42.350015  -2.360054 42.349881  -2.359963 42.349883  -2.359965 42.350012  -2.360056 42.350015  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673916">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.392308 42.350163 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392186 42.350291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.392308 42.350169  -2.392285 42.350167  -2.392249 42.350163  -2.392235 42.350190  -2.392249 42.350204  -2.392186 42.350281  -2.392208 42.350291  -2.392259 42.350270  -2.392298 42.350226  -2.392308 42.350169  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673917">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391907 42.350412 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391848 42.350455 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391907 42.350428  -2.391871 42.350412  -2.391848 42.350439  -2.391888 42.350455  -2.391907 42.350428  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673918">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379720 42.350561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379598 42.350666 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379720 42.350581  -2.379664 42.350561  -2.379631 42.350603  -2.379598 42.350645  -2.379653 42.350666  -2.379720 42.350581  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673920">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386540 42.350686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.386473 42.350741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386540 42.350724  -2.386504 42.350686  -2.386473 42.350704  -2.386512 42.350741  -2.386540 42.350724  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673921">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.362223 42.350617 </gml:lowerCorner>
+        		<gml:upperCorner>-2.362159 42.350662 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.362223 42.350658  -2.362218 42.350617  -2.362159 42.350625  -2.362163 42.350662  -2.362223 42.350658  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673922">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388355 42.350809 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388304 42.350858 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388355 42.350850  -2.388341 42.350809  -2.388304 42.350815  -2.388317 42.350858  -2.388355 42.350850  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673923">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.387821 42.350810 </gml:lowerCorner>
+        		<gml:upperCorner>-2.387731 42.350890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.387821 42.350871  -2.387770 42.350810  -2.387731 42.350830  -2.387784 42.350890  -2.387821 42.350871  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673924">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378190 42.350899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378116 42.350970 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378190 42.350916  -2.378136 42.350899  -2.378116 42.350951  -2.378166 42.350970  -2.378190 42.350916  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673925">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.361000 42.350886 </gml:lowerCorner>
+        		<gml:upperCorner>-2.360866 42.350944 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.361000 42.350902  -2.360876 42.350886  -2.360866 42.350925  -2.360987 42.350944  -2.361000 42.350902  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673927">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.368615 42.351196 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368467 42.351401 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.368615 42.351206  -2.368511 42.351196  -2.368467 42.351390  -2.368568 42.351401  -2.368615 42.351206  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673928">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379137 42.352011 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379042 42.352054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379137 42.352044  -2.379129 42.352011  -2.379042 42.352022  -2.379049 42.352054  -2.379137 42.352044  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673930">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.372653 42.352287 </gml:lowerCorner>
+        		<gml:upperCorner>-2.372576 42.352333 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.372653 42.352309  -2.372599 42.352287  -2.372576 42.352310  -2.372626 42.352333  -2.372653 42.352309  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673931">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.372752 42.352351 </gml:lowerCorner>
+        		<gml:upperCorner>-2.372531 42.352424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.372752 42.352394  -2.372659 42.352367  -2.372542 42.352351  -2.372531 42.352372  -2.372581 42.352382  -2.372578 42.352392  -2.372621 42.352400  -2.372656 42.352406  -2.372711 42.352424  -2.372723 42.352403  -2.372745 42.352406  -2.372752 42.352394  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673932">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386044 42.352512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385963 42.352602 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386044 42.352513  -2.385984 42.352512  -2.385963 42.352594  -2.386020 42.352602  -2.386044 42.352513  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673933">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371732 42.352481 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371491 42.352671 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371732 42.352637  -2.371678 42.352540  -2.371613 42.352564  -2.371562 42.352481  -2.371491 42.352505  -2.371567 42.352634  -2.371602 42.352621  -2.371628 42.352671  -2.371732 42.352637  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673934">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386206 42.352571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.386037 42.352641 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386206 42.352580  -2.386087 42.352571  -2.386081 42.352590  -2.386049 42.352590  -2.386037 42.352639  -2.386087 42.352641  -2.386090 42.352620  -2.386194 42.352625  -2.386206 42.352580  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673935">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383985 42.352728 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383930 42.352770 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383985 42.352754  -2.383962 42.352728  -2.383930 42.352741  -2.383958 42.352770  -2.383985 42.352754  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673936">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.372129 42.352853 </gml:lowerCorner>
+        		<gml:upperCorner>-2.372052 42.352911 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.372129 42.352891  -2.372101 42.352853  -2.372052 42.352871  -2.372084 42.352911  -2.372129 42.352891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673937">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.372451 42.353005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.372305 42.353148 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.372451 42.353131  -2.372395 42.353072  -2.372418 42.353063  -2.372362 42.353005  -2.372305 42.353037  -2.372421 42.353148  -2.372451 42.353131  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673938">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383584 42.353120 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383464 42.353219 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383584 42.353190  -2.383527 42.353120  -2.383464 42.353155  -2.383519 42.353219  -2.383584 42.353190  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673939">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383490 42.353168 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383395 42.353260 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383490 42.353242  -2.383443 42.353168  -2.383395 42.353184  -2.383439 42.353260  -2.383490 42.353242  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673940">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.392704 42.353548 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392495 42.353852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.392704 42.353607  -2.392635 42.353584  -2.392635 42.353559  -2.392583 42.353548  -2.392495 42.353774  -2.392501 42.353839  -2.392569 42.353852  -2.392582 42.353795  -2.392704 42.353607  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673941">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393884 42.353750 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393801 42.353787 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393884 42.353755  -2.393810 42.353750  -2.393801 42.353777  -2.393876 42.353787  -2.393884 42.353755  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673942">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394005 42.353755 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393944 42.353786 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394005 42.353782  -2.394002 42.353755  -2.393944 42.353757  -2.393947 42.353786  -2.394005 42.353782  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673943">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.398099 42.354034 </gml:lowerCorner>
+        		<gml:upperCorner>-2.397997 42.354103 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.398099 42.354085  -2.398054 42.354034  -2.397997 42.354063  -2.398013 42.354080  -2.398040 42.354072  -2.398068 42.354103  -2.398099 42.354085  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673944">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.397388 42.353952 </gml:lowerCorner>
+        		<gml:upperCorner>-2.397043 42.354192 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.397295 42.354170  -2.397310 42.354160  -2.397340 42.354192  -2.397388 42.354166  -2.397352 42.354133  -2.397170 42.353998  -2.397150 42.354010  -2.397106 42.353952  -2.397065 42.353971  -2.397106 42.354004  -2.397043 42.354045  -2.397183 42.354157  -2.397189 42.354152  -2.397213 42.354170  -2.397256 42.354141  -2.397295 42.354170  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673945">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.397427 42.354180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.397358 42.354238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.397427 42.354220  -2.397395 42.354180  -2.397358 42.354197  -2.397393 42.354238  -2.397427 42.354220  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673947">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393580 42.354005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393267 42.354215 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393536 42.354154  -2.393559 42.354108  -2.393580 42.354064  -2.393334 42.354005  -2.393267 42.354151  -2.393502 42.354215  -2.393536 42.354154  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673948">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394071 42.354020 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393984 42.354070 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394071 42.354043  -2.394006 42.354020  -2.393984 42.354048  -2.394047 42.354070  -2.394071 42.354043  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673949">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.397556 42.354277 </gml:lowerCorner>
+        		<gml:upperCorner>-2.397349 42.354429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.397556 42.354352  -2.397463 42.354277  -2.397349 42.354355  -2.397446 42.354429  -2.397556 42.354352  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673950">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395735 42.354450 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395648 42.354633 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395650 42.354536  -2.395649 42.354633  -2.395676 42.354630  -2.395706 42.354626  -2.395735 42.354623  -2.395732 42.354526  -2.395713 42.354450  -2.395648 42.354465  -2.395665 42.354511  -2.395662 42.354535  -2.395650 42.354536  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673951">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.365576 42.354392 </gml:lowerCorner>
+        		<gml:upperCorner>-2.365421 42.354506 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.365576 42.354457  -2.365509 42.354392  -2.365421 42.354442  -2.365486 42.354506  -2.365576 42.354457  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673952">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.384977 42.354406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.384819 42.354485 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.384977 42.354438  -2.384956 42.354406  -2.384892 42.354429  -2.384880 42.354410  -2.384819 42.354435  -2.384828 42.354453  -2.384849 42.354485  -2.384977 42.354438  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673953">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371698 42.354751 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371619 42.354810 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371698 42.354771  -2.371645 42.354751  -2.371619 42.354791  -2.371646 42.354800  -2.371673 42.354810  -2.371698 42.354771  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673954">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394357 42.354944 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394142 42.355009 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394308 42.355000  -2.394311 42.355009  -2.394357 42.355006  -2.394349 42.354946  -2.394249 42.354944  -2.394142 42.354947  -2.394145 42.354999  -2.394237 42.355000  -2.394308 42.355000  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673955">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383576 42.354906 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383504 42.354974 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383576 42.354915  -2.383551 42.354906  -2.383504 42.354961  -2.383530 42.354974  -2.383576 42.354915  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673956">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394063 42.355259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393999 42.355320 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394063 42.355265  -2.394002 42.355259  -2.393999 42.355317  -2.394059 42.355320  -2.394063 42.355265  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673957">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.399658 42.355443 </gml:lowerCorner>
+        		<gml:upperCorner>-2.399536 42.355559 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.399658 42.355461  -2.399619 42.355443  -2.399610 42.355460  -2.399619 42.355471  -2.399594 42.355511  -2.399564 42.355493  -2.399536 42.355536  -2.399591 42.355559  -2.399658 42.355461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673958">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383339 42.355338 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383281 42.355380 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383339 42.355358  -2.383306 42.355338  -2.383281 42.355360  -2.383311 42.355380  -2.383339 42.355358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673959">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375773 42.355440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375731 42.355486 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375773 42.355485  -2.375771 42.355440  -2.375752 42.355441  -2.375731 42.355441  -2.375733 42.355486  -2.375753 42.355485  -2.375773 42.355485  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673960">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382626 42.355709 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382348 42.355823 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382626 42.355743  -2.382606 42.355709  -2.382348 42.355789  -2.382368 42.355823  -2.382626 42.355743  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673961">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380719 42.355701 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380645 42.355759 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380719 42.355744  -2.380713 42.355734  -2.380694 42.355701  -2.380645 42.355716  -2.380670 42.355759  -2.380719 42.355744  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673962">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375952 42.355693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375764 42.355756 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375952 42.355750  -2.375946 42.355693  -2.375764 42.355701  -2.375770 42.355756  -2.375952 42.355750  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673963">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382648 42.355754 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382568 42.355804 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382648 42.355782  -2.382630 42.355754  -2.382568 42.355776  -2.382586 42.355804  -2.382648 42.355782  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673964">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375683 42.355741 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375466 42.355810 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375683 42.355789  -2.375678 42.355759  -2.375655 42.355744  -2.375617 42.355741  -2.375466 42.355756  -2.375475 42.355810  -2.375683 42.355789  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673965">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375993 42.355754 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375945 42.355798 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375993 42.355795  -2.375988 42.355754  -2.375945 42.355757  -2.375949 42.355798  -2.375993 42.355795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673966">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375503 42.355837 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375443 42.355881 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375503 42.355875  -2.375497 42.355837  -2.375443 42.355842  -2.375449 42.355881  -2.375503 42.355875  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673967">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.399234 42.356018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.398974 42.356177 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.399214 42.356121  -2.399234 42.356070  -2.399011 42.356018  -2.398974 42.356133  -2.399089 42.356156  -2.399193 42.356177  -2.399199 42.356163  -2.399199 42.356162  -2.399214 42.356121  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673968">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.399520 42.356121 </gml:lowerCorner>
+        		<gml:upperCorner>-2.399199 42.356289 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.399214 42.356121  -2.399199 42.356162  -2.399199 42.356163  -2.399294 42.356188  -2.399459 42.356273  -2.399503 42.356289  -2.399520 42.356264  -2.399330 42.356156  -2.399214 42.356121  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673969">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380272 42.355952 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380232 42.355980 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380272 42.355968  -2.380260 42.355952  -2.380232 42.355965  -2.380245 42.355980  -2.380272 42.355968  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673970">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382142 42.356075 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382083 42.356131 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382142 42.356093  -2.382116 42.356075  -2.382100 42.356094  -2.382083 42.356113  -2.382110 42.356131  -2.382142 42.356093  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673971">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.381752 42.356152 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381629 42.356225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.381752 42.356192  -2.381716 42.356152  -2.381629 42.356190  -2.381656 42.356225  -2.381752 42.356192  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673972">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394464 42.356292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394394 42.356391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394464 42.356299  -2.394421 42.356292  -2.394394 42.356384  -2.394437 42.356391  -2.394464 42.356299  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673973">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382310 42.356184 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382222 42.356244 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382310 42.356215  -2.382246 42.356184  -2.382222 42.356214  -2.382284 42.356244  -2.382310 42.356215  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673974">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380176 42.356848 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380074 42.356965 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380176 42.356955  -2.380152 42.356848  -2.380074 42.356858  -2.380099 42.356965  -2.380119 42.356963  -2.380176 42.356955  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673975">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379941 42.356876 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379859 42.356943 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379941 42.356935  -2.379930 42.356876  -2.379859 42.356883  -2.379863 42.356906  -2.379870 42.356943  -2.379941 42.356935  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673976">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.381901 42.357169 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381667 42.357350 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.381901 42.357272  -2.381791 42.357169  -2.381667 42.357249  -2.381784 42.357350  -2.381901 42.357272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673977">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379372 42.357174 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379309 42.357220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379372 42.357174  -2.379309 42.357181  -2.379315 42.357220  -2.379367 42.357219  -2.379372 42.357174  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673978">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.357697 42.357096 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357552 42.357236 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357697 42.357233  -2.357693 42.357096  -2.357552 42.357099  -2.357557 42.357236  -2.357697 42.357233  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673979">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380468 42.357260 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380343 42.357325 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380468 42.357308  -2.380456 42.357267  -2.380373 42.357281  -2.380366 42.357260  -2.380343 42.357264  -2.380361 42.357325  -2.380468 42.357308  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673980">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378381 42.357243 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378285 42.357314 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378381 42.357276  -2.378357 42.357259  -2.378333 42.357243  -2.378285 42.357281  -2.378333 42.357314  -2.378381 42.357276  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673981">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394697 42.357366 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394590 42.357443 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394697 42.357409  -2.394630 42.357366  -2.394590 42.357400  -2.394657 42.357443  -2.394697 42.357409  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673982">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.357960 42.357178 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357806 42.357307 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357960 42.357298  -2.357945 42.357178  -2.357806 42.357188  -2.357821 42.357307  -2.357960 42.357298  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673984">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.357439 42.357305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357268 42.357393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357439 42.357393  -2.357439 42.357305  -2.357268 42.357305  -2.357268 42.357349  -2.357268 42.357393  -2.357439 42.357393  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673985">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358087 42.357344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357991 42.357387 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357991 42.357344  -2.357994 42.357370  -2.358041 42.357376  -2.358075 42.357387  -2.358087 42.357365  -2.358053 42.357352  -2.357991 42.357344  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673986">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.357680 42.357359 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357541 42.357486 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357680 42.357483  -2.357676 42.357359  -2.357541 42.357361  -2.357545 42.357486  -2.357680 42.357483  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673987">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.342733 42.357288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342657 42.357358 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.342733 42.357296  -2.342672 42.357288  -2.342657 42.357350  -2.342719 42.357358  -2.342733 42.357296  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673988">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358362 42.357381 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358211 42.357508 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358362 42.357392  -2.358231 42.357381  -2.358211 42.357496  -2.358342 42.357508  -2.358362 42.357392  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673989">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358115 42.357383 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357855 42.357678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358115 42.357403  -2.357955 42.357388  -2.357901 42.357383  -2.357855 42.357658  -2.357982 42.357670  -2.358069 42.357678  -2.358115 42.357403  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673990">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380804 42.357498 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380736 42.357554 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380804 42.357538  -2.380777 42.357498  -2.380736 42.357516  -2.380764 42.357554  -2.380804 42.357538  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673991">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.377536 42.357761 </gml:lowerCorner>
+        		<gml:upperCorner>-2.377332 42.357851 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.377536 42.357831  -2.377522 42.357761  -2.377332 42.357776  -2.377350 42.357851  -2.377536 42.357831  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673992">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390885 42.357958 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390852 42.357985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390885 42.357962  -2.390860 42.357958  -2.390852 42.357980  -2.390878 42.357985  -2.390885 42.357962  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673993">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380118 42.357771 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379901 42.357897 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379992 42.357897  -2.380118 42.357864  -2.380102 42.357819  -2.380082 42.357771  -2.380034 42.357780  -2.380016 42.357784  -2.380034 42.357826  -2.379976 42.357838  -2.379963 42.357805  -2.379901 42.357823  -2.379927 42.357888  -2.379982 42.357873  -2.379992 42.357897  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673994">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380416 42.357977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380361 42.358036 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380416 42.358029  -2.380394 42.357977  -2.380361 42.357985  -2.380383 42.358036  -2.380416 42.358029  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673995">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349693 42.357918 </gml:lowerCorner>
+        		<gml:upperCorner>-2.349600 42.357991 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349693 42.357939  -2.349633 42.357918  -2.349600 42.357970  -2.349660 42.357991  -2.349693 42.357939  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673996">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390901 42.358194 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390858 42.358223 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390901 42.358205  -2.390869 42.358194  -2.390858 42.358212  -2.390890 42.358223  -2.390901 42.358205  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673997">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380733 42.358279 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380621 42.358357 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380733 42.358309  -2.380704 42.358282  -2.380679 42.358279  -2.380621 42.358309  -2.380666 42.358357  -2.380733 42.358309  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673998">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390339 42.358346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390264 42.358404 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390339 42.358374  -2.390294 42.358346  -2.390264 42.358377  -2.390312 42.358404  -2.390339 42.358374  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4673999">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380217 42.358351 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380046 42.358443 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380217 42.358410  -2.380193 42.358351  -2.380046 42.358385  -2.380070 42.358443  -2.380217 42.358410  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674000">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.377276 42.358316 </gml:lowerCorner>
+        		<gml:upperCorner>-2.377207 42.358360 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.377276 42.358322  -2.377221 42.358316  -2.377207 42.358351  -2.377264 42.358360  -2.377276 42.358322  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674001">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.377381 42.358340 </gml:lowerCorner>
+        		<gml:upperCorner>-2.377284 42.358414 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.377366 42.358379  -2.377381 42.358360  -2.377335 42.358340  -2.377284 42.358407  -2.377337 42.358414  -2.377354 42.358392  -2.377368 42.358398  -2.377379 42.358384  -2.377366 42.358379  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674002">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380243 42.358542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380171 42.358597 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380243 42.358587  -2.380228 42.358542  -2.380171 42.358552  -2.380186 42.358597  -2.380243 42.358587  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674003">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391347 42.358807 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391098 42.358941 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391270 42.358941  -2.391302 42.358891  -2.391347 42.358845  -2.391230 42.358807  -2.391191 42.358855  -2.391133 42.358837  -2.391098 42.358891  -2.391270 42.358941  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674004">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358467 42.358696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358352 42.358783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358467 42.358731  -2.358410 42.358696  -2.358352 42.358749  -2.358410 42.358783  -2.358438 42.358757  -2.358467 42.358731  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674005">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.401035 42.359182 </gml:lowerCorner>
+        		<gml:upperCorner>-2.400874 42.359312 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.401035 42.359281  -2.400962 42.359182  -2.400874 42.359214  -2.400943 42.359312  -2.401035 42.359281  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674006">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378738 42.359098 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378708 42.359129 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378738 42.359102  -2.378718 42.359098  -2.378708 42.359125  -2.378729 42.359129  -2.378738 42.359102  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674007">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390456 42.359207 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390260 42.359339 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390456 42.359262  -2.390330 42.359207  -2.390260 42.359288  -2.390397 42.359339  -2.390456 42.359262  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674008">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379564 42.359199 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379456 42.359298 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379564 42.359219  -2.379500 42.359199  -2.379456 42.359281  -2.379511 42.359298  -2.379564 42.359219  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674009">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.385961 42.359247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385890 42.359294 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.385961 42.359264  -2.385923 42.359254  -2.385897 42.359247  -2.385890 42.359280  -2.385919 42.359287  -2.385946 42.359294  -2.385961 42.359264  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674010">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386534 42.359294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.386386 42.359429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386462 42.359376  -2.386448 42.359401  -2.386513 42.359429  -2.386531 42.359404  -2.386534 42.359345  -2.386411 42.359294  -2.386386 42.359349  -2.386462 42.359376  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674011">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.381315 42.359467 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381240 42.359532 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.381315 42.359479  -2.381287 42.359473  -2.381258 42.359467  -2.381240 42.359521  -2.381298 42.359532  -2.381315 42.359479  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674012">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.368346 42.359405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368296 42.359498 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.368346 42.359495  -2.368334 42.359405  -2.368296 42.359408  -2.368308 42.359498  -2.368346 42.359495  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674013">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375245 42.359468 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375013 42.359552 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375245 42.359541  -2.375242 42.359505  -2.375239 42.359468  -2.375070 42.359482  -2.375013 42.359488  -2.375023 42.359542  -2.375080 42.359552  -2.375157 42.359546  -2.375245 42.359541  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674014">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.381829 42.359517 </gml:lowerCorner>
+        		<gml:upperCorner>-2.381726 42.359573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.381829 42.359570  -2.381827 42.359517  -2.381726 42.359520  -2.381729 42.359573  -2.381829 42.359570  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674015">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.368433 42.359497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368361 42.359580 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.368433 42.359557  -2.368421 42.359497  -2.368361 42.359504  -2.368373 42.359562  -2.368384 42.359561  -2.368387 42.359580  -2.368421 42.359576  -2.368417 42.359558  -2.368433 42.359557  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674016">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383641 42.359559 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383594 42.359585 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383641 42.359561  -2.383597 42.359559  -2.383594 42.359584  -2.383639 42.359585  -2.383641 42.359561  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674017">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391894 42.359740 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391820 42.359796 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391894 42.359762  -2.391873 42.359751  -2.391853 42.359740  -2.391820 42.359774  -2.391861 42.359796  -2.391894 42.359762  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674018">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378011 42.359777 </gml:lowerCorner>
+        		<gml:upperCorner>-2.377696 42.360004 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378011 42.359895  -2.377892 42.359777  -2.377696 42.359887  -2.377815 42.360004  -2.377816 42.360004  -2.378011 42.359895  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674019">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382420 42.359812 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382359 42.359880 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382420 42.359880  -2.382420 42.359841  -2.382408 42.359841  -2.382408 42.359812  -2.382384 42.359812  -2.382359 42.359812  -2.382360 42.359880  -2.382420 42.359880  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674020">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382556 42.359817 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382478 42.359893 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382556 42.359821  -2.382484 42.359817  -2.382478 42.359890  -2.382550 42.359893  -2.382556 42.359821  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674022">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378404 42.359838 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378213 42.359985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378404 42.359853  -2.378361 42.359838  -2.378319 42.359908  -2.378261 42.359888  -2.378213 42.359966  -2.378270 42.359985  -2.378300 42.359937  -2.378344 42.359952  -2.378404 42.359853  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674024">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378131 42.359942 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378047 42.359999 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378131 42.359962  -2.378078 42.359942  -2.378047 42.359977  -2.378107 42.359999  -2.378131 42.359962  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674025">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376112 42.360240 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375987 42.360312 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376112 42.360303  -2.376109 42.360272  -2.376106 42.360240  -2.375987 42.360250  -2.375990 42.360312  -2.376112 42.360303  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674026">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.370714 42.360809 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370589 42.360909 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.370714 42.360891  -2.370678 42.360809  -2.370606 42.360826  -2.370589 42.360882  -2.370622 42.360874  -2.370638 42.360909  -2.370714 42.360891  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674027">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.392540 42.361136 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392275 42.361232 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.392540 42.361207  -2.392533 42.361168  -2.392429 42.361174  -2.392369 42.361163  -2.392297 42.361136  -2.392275 42.361203  -2.392432 42.361232  -2.392436 42.361222  -2.392441 42.361208  -2.392519 42.361207  -2.392526 42.361207  -2.392540 42.361207  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674028">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.374153 42.361084 </gml:lowerCorner>
+        		<gml:upperCorner>-2.374021 42.361174 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.374153 42.361112  -2.374124 42.361084  -2.374089 42.361104  -2.374021 42.361144  -2.374063 42.361174  -2.374153 42.361112  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674029">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.353398 42.361038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.353306 42.361103 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.353398 42.361064  -2.353335 42.361038  -2.353306 42.361078  -2.353369 42.361103  -2.353398 42.361064  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674030">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.370542 42.361223 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370476 42.361287 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.370542 42.361279  -2.370541 42.361278  -2.370527 42.361223  -2.370476 42.361229  -2.370485 42.361279  -2.370486 42.361287  -2.370542 42.361279  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674031">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393515 42.361558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393443 42.361591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393515 42.361589  -2.393513 42.361558  -2.393443 42.361560  -2.393444 42.361591  -2.393515 42.361589  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674032">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391696 42.361603 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391643 42.361661 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391696 42.361609  -2.391661 42.361603  -2.391653 42.361625  -2.391643 42.361655  -2.391678 42.361661  -2.391696 42.361609  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674033">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394900 42.361645 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394814 42.361793 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394900 42.361786  -2.394880 42.361717  -2.394859 42.361645  -2.394814 42.361652  -2.394854 42.361793  -2.394900 42.361786  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674034">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.392337 42.361693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392281 42.361729 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.392337 42.361728  -2.392336 42.361693  -2.392281 42.361694  -2.392282 42.361729  -2.392337 42.361728  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674035">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375846 42.361618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375761 42.361683 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375815 42.361618  -2.375761 42.361640  -2.375787 42.361683  -2.375846 42.361663  -2.375815 42.361618  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674036">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376564 42.361718 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376450 42.361822 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376564 42.361723  -2.376458 42.361718  -2.376453 42.361776  -2.376450 42.361817  -2.376556 42.361822  -2.376564 42.361723  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674037">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394954 42.361854 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394872 42.362006 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394954 42.361999  -2.394935 42.361928  -2.394915 42.361854  -2.394872 42.361860  -2.394912 42.362006  -2.394954 42.361999  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674038">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375855 42.361824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375758 42.361923 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375855 42.361836  -2.375787 42.361824  -2.375758 42.361910  -2.375826 42.361923  -2.375855 42.361836  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674039">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376483 42.361860 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376440 42.361905 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376482 42.361862  -2.376440 42.361860  -2.376441 42.361905  -2.376483 42.361905  -2.376482 42.361862  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674040">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376276 42.361880 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376115 42.361964 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376276 42.361885  -2.376158 42.361880  -2.376158 42.361890  -2.376115 42.361890  -2.376115 42.361927  -2.376158 42.361928  -2.376158 42.361941  -2.376177 42.361941  -2.376175 42.361962  -2.376246 42.361964  -2.376247 42.361943  -2.376271 42.361943  -2.376276 42.361885  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674041">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395016 42.362069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394930 42.362218 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395016 42.362211  -2.394994 42.362139  -2.394972 42.362069  -2.394930 42.362076  -2.394974 42.362218  -2.395016 42.362211  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674042">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395211 42.362222 </gml:lowerCorner>
+        		<gml:upperCorner>-2.394966 42.362382 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395211 42.362351  -2.395173 42.362222  -2.395105 42.362229  -2.394966 42.362248  -2.395005 42.362382  -2.395065 42.362373  -2.395170 42.362357  -2.395211 42.362351  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674043">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.348778 42.362187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.348732 42.362222 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.348778 42.362214  -2.348766 42.362187  -2.348732 42.362196  -2.348743 42.362222  -2.348778 42.362214  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674044">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386279 42.362631 </gml:lowerCorner>
+        		<gml:upperCorner>-2.386228 42.362666 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386279 42.362631  -2.386229 42.362631  -2.386228 42.362666  -2.386278 42.362666  -2.386279 42.362631  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674045">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395412 42.362512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395307 42.362573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395412 42.362522  -2.395308 42.362512  -2.395307 42.362566  -2.395405 42.362573  -2.395412 42.362522  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674046">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371142 42.363068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370961 42.363219 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371142 42.363179  -2.371009 42.363068  -2.370985 42.363098  -2.370961 42.363128  -2.371072 42.363219  -2.371142 42.363179  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674047">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371639 42.363318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371473 42.363429 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371639 42.363365  -2.371593 42.363318  -2.371567 42.363331  -2.371520 42.363355  -2.371473 42.363380  -2.371516 42.363429  -2.371639 42.363365  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674048">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.364890 42.363350 </gml:lowerCorner>
+        		<gml:upperCorner>-2.364847 42.363375 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.364890 42.363368  -2.364884 42.363350  -2.364847 42.363357  -2.364852 42.363375  -2.364890 42.363368  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674049">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.364738 42.363391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.364613 42.363481 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.364738 42.363450  -2.364701 42.363391  -2.364613 42.363421  -2.364650 42.363481  -2.364738 42.363450  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674050">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371598 42.363488 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371331 42.363704 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371598 42.363665  -2.371406 42.363488  -2.371331 42.363540  -2.371523 42.363704  -2.371598 42.363665  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674051">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371351 42.363485 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370938 42.363772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371258 42.363614  -2.371220 42.363601  -2.371202 42.363636  -2.371185 42.363642  -2.370983 42.363485  -2.370938 42.363514  -2.371190 42.363717  -2.371260 42.363769  -2.371269 42.363763  -2.371282 42.363772  -2.371351 42.363718  -2.371295 42.363679  -2.371286 42.363686  -2.371231 42.363649  -2.371258 42.363614  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674052">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.370226 42.363622 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370094 42.363698 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.370226 42.363670  -2.370180 42.363646  -2.370134 42.363622  -2.370094 42.363664  -2.370160 42.363698  -2.370226 42.363670  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674053">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.372760 42.363839 </gml:lowerCorner>
+        		<gml:upperCorner>-2.372697 42.363882 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.372760 42.363862  -2.372741 42.363839  -2.372697 42.363859  -2.372717 42.363882  -2.372760 42.363862  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674054">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371887 42.363865 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371740 42.363985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371740 42.363911  -2.371782 42.363985  -2.371887 42.363953  -2.371793 42.363865  -2.371784 42.363870  -2.371784 42.363885  -2.371740 42.363911  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674055">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.364900 42.364170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.364772 42.364289 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.364860 42.364257  -2.364846 42.364247  -2.364900 42.364205  -2.364853 42.364171  -2.364851 42.364170  -2.364846 42.364174  -2.364801 42.364209  -2.364809 42.364216  -2.364772 42.364244  -2.364807 42.364270  -2.364798 42.364273  -2.364817 42.364288  -2.364819 42.364289  -2.364851 42.364265  -2.364860 42.364257  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674056">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.372031 42.364441 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371991 42.364472 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.372031 42.364450  -2.372005 42.364441  -2.371991 42.364463  -2.372017 42.364472  -2.372031 42.364450  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674057">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.360500 42.366044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.360376 42.366109 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.360500 42.366080  -2.360482 42.366044  -2.360376 42.366073  -2.360376 42.366073  -2.360394 42.366109  -2.360396 42.366109  -2.360500 42.366080  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674058">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.360582 42.366119 </gml:lowerCorner>
+        		<gml:upperCorner>-2.360505 42.366178 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.360582 42.366157  -2.360548 42.366119  -2.360505 42.366141  -2.360525 42.366162  -2.360539 42.366178  -2.360582 42.366157  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674059">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.365321 42.366560 </gml:lowerCorner>
+        		<gml:upperCorner>-2.365238 42.366622 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.365321 42.366588  -2.365280 42.366560  -2.365238 42.366594  -2.365258 42.366608  -2.365279 42.366622  -2.365321 42.366588  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674060">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.359708 42.367090 </gml:lowerCorner>
+        		<gml:upperCorner>-2.359588 42.367153 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.359708 42.367116  -2.359691 42.367090  -2.359660 42.367101  -2.359628 42.367112  -2.359623 42.367114  -2.359588 42.367126  -2.359591 42.367130  -2.359605 42.367153  -2.359708 42.367116  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674061">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.355943 42.368333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.355904 42.368369 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.355943 42.368341  -2.355907 42.368333  -2.355904 42.368367  -2.355939 42.368369  -2.355943 42.368341  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674062">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349484 42.370739 </gml:lowerCorner>
+        		<gml:upperCorner>-2.349347 42.370844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349484 42.370795  -2.349421 42.370739  -2.349347 42.370788  -2.349413 42.370844  -2.349484 42.370795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674063">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349619 42.370818 </gml:lowerCorner>
+        		<gml:upperCorner>-2.349446 42.370945 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349619 42.370894  -2.349514 42.370818  -2.349446 42.370869  -2.349551 42.370945  -2.349619 42.370894  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674064">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.392155 42.371379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392040 42.371520 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.392155 42.371389  -2.392070 42.371379  -2.392040 42.371510  -2.392125 42.371520  -2.392155 42.371389  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674065">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391986 42.371930 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391881 42.372007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391986 42.371990  -2.391964 42.371930  -2.391881 42.371947  -2.391903 42.372007  -2.391986 42.371990  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674066">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388284 42.372069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388214 42.372170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388214 42.372069  -2.388219 42.372170  -2.388252 42.372169  -2.388284 42.372168  -2.388280 42.372087  -2.388242 42.372089  -2.388241 42.372072  -2.388214 42.372069  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674067">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391889 42.372177 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391818 42.372298 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391889 42.372178  -2.391856 42.372178  -2.391824 42.372177  -2.391818 42.372296  -2.391883 42.372298  -2.391889 42.372178  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674068">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.387643 42.372785 </gml:lowerCorner>
+        		<gml:upperCorner>-2.387609 42.372824 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.387643 42.372822  -2.387636 42.372785  -2.387609 42.372788  -2.387617 42.372824  -2.387643 42.372822  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674069">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.357530 42.373968 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357449 42.374028 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357530 42.373983  -2.357471 42.373968  -2.357449 42.374013  -2.357509 42.374028  -2.357530 42.373983  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674070">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.351086 42.375748 </gml:lowerCorner>
+        		<gml:upperCorner>-2.350888 42.375929 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.350925 42.375776  -2.350890 42.375776  -2.350888 42.375850  -2.350899 42.375929  -2.351002 42.375904  -2.351057 42.375894  -2.351086 42.375889  -2.351085 42.375883  -2.351073 42.375824  -2.350991 42.375841  -2.350978 42.375748  -2.350920 42.375757  -2.350925 42.375776  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674071">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349546 42.376101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.349405 42.376205 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349546 42.376147  -2.349455 42.376101  -2.349405 42.376161  -2.349455 42.376185  -2.349496 42.376205  -2.349546 42.376147  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674072">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.344863 42.376709 </gml:lowerCorner>
+        		<gml:upperCorner>-2.344797 42.376753 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.344863 42.376710  -2.344803 42.376709  -2.344797 42.376747  -2.344852 42.376753  -2.344863 42.376710  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674073">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367230 42.376408 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367140 42.376492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367151 42.376488  -2.367176 42.376490  -2.367201 42.376492  -2.367204 42.376469  -2.367222 42.376470  -2.367230 42.376415  -2.367148 42.376408  -2.367140 42.376467  -2.367154 42.376468  -2.367151 42.376488  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674074">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345150 42.376364 </gml:lowerCorner>
+        		<gml:upperCorner>-2.344918 42.376564 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345150 42.376448  -2.345058 42.376364  -2.344919 42.376469  -2.344953 42.376497  -2.344918 42.376521  -2.344964 42.376564  -2.345123 42.376461  -2.345150 42.376448  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674075">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345420 42.376422 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345067 42.376665 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345185 42.376665  -2.345285 42.376596  -2.345324 42.376619  -2.345355 42.376595  -2.345320 42.376574  -2.345420 42.376502  -2.345368 42.376462  -2.345316 42.376422  -2.345121 42.376555  -2.345119 42.376553  -2.345109 42.376544  -2.345067 42.376566  -2.345185 42.376665  -2.345185 42.376665  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674076">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349081 42.376536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.349026 42.376574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349081 42.376553  -2.349046 42.376536  -2.349026 42.376555  -2.349058 42.376574  -2.349081 42.376553  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674077">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349201 42.376559 </gml:lowerCorner>
+        		<gml:upperCorner>-2.349120 42.376624 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349201 42.376578  -2.349171 42.376559  -2.349120 42.376603  -2.349147 42.376624  -2.349201 42.376578  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674078">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349076 42.376575 </gml:lowerCorner>
+        		<gml:upperCorner>-2.348948 42.376677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349076 42.376624  -2.348999 42.376575  -2.348948 42.376623  -2.349018 42.376677  -2.349047 42.376650  -2.349076 42.376624  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674079">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.349006 42.376703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.348894 42.376772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.349006 42.376724  -2.348961 42.376703  -2.348946 42.376718  -2.348919 42.376705  -2.348894 42.376729  -2.348903 42.376739  -2.348913 42.376750  -2.348952 42.376772  -2.348955 42.376770  -2.349006 42.376724  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674080">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345670 42.376846 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345587 42.376909 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345670 42.376865  -2.345605 42.376846  -2.345587 42.376888  -2.345649 42.376909  -2.345670 42.376865  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674081">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390198 42.377874 </gml:lowerCorner>
+        		<gml:upperCorner>-2.390101 42.377985 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390198 42.377969  -2.390164 42.377874  -2.390101 42.377887  -2.390126 42.377958  -2.390135 42.377985  -2.390168 42.377977  -2.390198 42.377969  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674082">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390096 42.378456 </gml:lowerCorner>
+        		<gml:upperCorner>-2.389948 42.378538 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390096 42.378516  -2.390078 42.378456  -2.389948 42.378478  -2.389969 42.378538  -2.390096 42.378516  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674083">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.355421 42.379318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.355339 42.379368 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.355421 42.379358  -2.355411 42.379318  -2.355375 42.379323  -2.355339 42.379328  -2.355349 42.379368  -2.355421 42.379358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674084">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.353027 42.379420 </gml:lowerCorner>
+        		<gml:upperCorner>-2.352949 42.379472 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.353027 42.379441  -2.352971 42.379420  -2.352949 42.379450  -2.353005 42.379472  -2.353027 42.379441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674085">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.346641 42.379745 </gml:lowerCorner>
+        		<gml:upperCorner>-2.346554 42.379810 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.346641 42.379756  -2.346596 42.379745  -2.346554 42.379798  -2.346567 42.379804  -2.346580 42.379810  -2.346609 42.379792  -2.346641 42.379756  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674086">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.344771 42.381311 </gml:lowerCorner>
+        		<gml:upperCorner>-2.344630 42.381432 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.344746 42.381432  -2.344771 42.381331  -2.344651 42.381311  -2.344630 42.381413  -2.344746 42.381432  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674088">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.344595 42.381342 </gml:lowerCorner>
+        		<gml:upperCorner>-2.344489 42.381416 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.344595 42.381374  -2.344567 42.381366  -2.344570 42.381357  -2.344506 42.381342  -2.344489 42.381380  -2.344530 42.381394  -2.344523 42.381407  -2.344572 42.381416  -2.344595 42.381374  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674089">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.343893 42.381742 </gml:lowerCorner>
+        		<gml:upperCorner>-2.343721 42.381863 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.343893 42.381796  -2.343779 42.381742  -2.343721 42.381809  -2.343830 42.381863  -2.343893 42.381796  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674090">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.337226 42.381444 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337144 42.381511 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.337226 42.381489  -2.337189 42.381444  -2.337144 42.381469  -2.337177 42.381511  -2.337226 42.381489  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674091">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.396092 42.382290 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395960 42.382382 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.396092 42.382340  -2.396051 42.382290  -2.395960 42.382332  -2.396002 42.382382  -2.396092 42.382340  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674092">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.343767 42.382011 </gml:lowerCorner>
+        		<gml:upperCorner>-2.343729 42.382043 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.343767 42.382022  -2.343744 42.382011  -2.343729 42.382029  -2.343750 42.382043  -2.343767 42.382022  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674093">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.396223 42.382348 </gml:lowerCorner>
+        		<gml:upperCorner>-2.396170 42.382388 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.396223 42.382373  -2.396195 42.382348  -2.396187 42.382353  -2.396183 42.382355  -2.396170 42.382363  -2.396173 42.382367  -2.396198 42.382388  -2.396223 42.382373  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674094">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.343194 42.382121 </gml:lowerCorner>
+        		<gml:upperCorner>-2.343144 42.382159 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.343194 42.382137  -2.343161 42.382121  -2.343144 42.382142  -2.343180 42.382159  -2.343194 42.382137  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674095">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345413 42.381826 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345316 42.381907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345413 42.381864  -2.345348 42.381826  -2.345316 42.381871  -2.345370 42.381907  -2.345413 42.381864  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674096">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.342255 42.382553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342225 42.382593 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.342255 42.382586  -2.342253 42.382553  -2.342225 42.382553  -2.342225 42.382593  -2.342255 42.382586  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674097">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.341467 42.383435 </gml:lowerCorner>
+        		<gml:upperCorner>-2.341415 42.383510 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.341467 42.383440  -2.341436 42.383435  -2.341415 42.383504  -2.341451 42.383510  -2.341467 42.383440  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674098">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.340721 42.384351 </gml:lowerCorner>
+        		<gml:upperCorner>-2.340610 42.384437 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.340721 42.384391  -2.340662 42.384351  -2.340610 42.384402  -2.340674 42.384437  -2.340721 42.384391  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674099">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.335699 42.384512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.335551 42.384619 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.335699 42.384585  -2.335692 42.384578  -2.335644 42.384533  -2.335612 42.384512  -2.335551 42.384544  -2.335577 42.384571  -2.335626 42.384619  -2.335626 42.384619  -2.335659 42.384607  -2.335699 42.384585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674100">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.335838 42.384735 </gml:lowerCorner>
+        		<gml:upperCorner>-2.335720 42.384822 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.335838 42.384781  -2.335790 42.384735  -2.335755 42.384753  -2.335720 42.384770  -2.335774 42.384822  -2.335816 42.384798  -2.335838 42.384781  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674101">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333776 42.384831 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333562 42.384995 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333776 42.384889  -2.333650 42.384831  -2.333628 42.384861  -2.333604 42.384854  -2.333562 42.384930  -2.333584 42.384971  -2.333607 42.384977  -2.333634 42.384922  -2.333648 42.384937  -2.333659 42.384921  -2.333660 42.384895  -2.333652 42.384889  -2.333657 42.384879  -2.333679 42.384889  -2.333675 42.384896  -2.333705 42.384908  -2.333695 42.384924  -2.333706 42.384929  -2.333665 42.384987  -2.333681 42.384995  -2.333705 42.384971  -2.333742 42.384927  -2.333776 42.384889  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674102">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333946 42.385112 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333752 42.385332 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333871 42.385145  -2.333796 42.385112  -2.333752 42.385176  -2.333811 42.385201  -2.333760 42.385284  -2.333838 42.385312  -2.333888 42.385321  -2.333918 42.385332  -2.333946 42.385286  -2.333918 42.385270  -2.333932 42.385252  -2.333894 42.385223  -2.333832 42.385195  -2.333871 42.385145  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674103">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333475 42.385175 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333360 42.385275 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333475 42.385204  -2.333406 42.385175  -2.333360 42.385249  -2.333421 42.385275  -2.333475 42.385204  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674104">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333636 42.385194 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333552 42.385249 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333636 42.385223  -2.333574 42.385194  -2.333552 42.385221  -2.333614 42.385249  -2.333636 42.385223  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674105">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339854 42.385233 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339702 42.385355 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339854 42.385317  -2.339742 42.385233  -2.339702 42.385275  -2.339808 42.385355  -2.339854 42.385317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674106">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339916 42.385437 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339824 42.385510 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339916 42.385462  -2.339852 42.385437  -2.339824 42.385487  -2.339883 42.385510  -2.339916 42.385462  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674107">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333561 42.385406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333503 42.385447 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333561 42.385424  -2.333522 42.385406  -2.333503 42.385431  -2.333545 42.385447  -2.333561 42.385424  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674108">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333805 42.385438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333601 42.385600 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333685 42.385572  -2.333761 42.385600  -2.333805 42.385538  -2.333773 42.385523  -2.333790 42.385496  -2.333650 42.385438  -2.333601 42.385511  -2.333699 42.385549  -2.333685 42.385572  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674109">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339822 42.385489 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339784 42.385521 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339822 42.385506  -2.339809 42.385489  -2.339784 42.385505  -2.339798 42.385521  -2.339822 42.385506  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674110">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333170 42.385537 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333096 42.385580 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333170 42.385552  -2.333111 42.385537  -2.333096 42.385561  -2.333153 42.385580  -2.333170 42.385552  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674111">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333291 42.385540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333248 42.385578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333291 42.385552  -2.333261 42.385540  -2.333248 42.385566  -2.333277 42.385578  -2.333291 42.385552  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674112">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.334921 42.385674 </gml:lowerCorner>
+        		<gml:upperCorner>-2.334737 42.385769 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.334921 42.385712  -2.334820 42.385685  -2.334777 42.385674  -2.334757 42.385712  -2.334737 42.385750  -2.334787 42.385766  -2.334799 42.385769  -2.334815 42.385734  -2.334894 42.385757  -2.334921 42.385712  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674113">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333350 42.385771 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333248 42.385843 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333350 42.385796  -2.333282 42.385771  -2.333248 42.385816  -2.333318 42.385843  -2.333350 42.385796  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674114">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.332985 42.385793 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332932 42.385842 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.332985 42.385807  -2.332961 42.385793  -2.332932 42.385832  -2.332956 42.385842  -2.332985 42.385807  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674115">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.336814 42.385826 </gml:lowerCorner>
+        		<gml:upperCorner>-2.336741 42.385903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.336814 42.385835  -2.336780 42.385826  -2.336741 42.385892  -2.336773 42.385903  -2.336814 42.385835  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674116">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.335118 42.385817 </gml:lowerCorner>
+        		<gml:upperCorner>-2.335021 42.385893 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.335118 42.385833  -2.335048 42.385817  -2.335021 42.385874  -2.335089 42.385893  -2.335118 42.385833  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674117">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333535 42.385825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333429 42.385903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333535 42.385854  -2.333465 42.385825  -2.333429 42.385875  -2.333497 42.385903  -2.333535 42.385854  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674118">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333049 42.385830 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332965 42.385890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333049 42.385856  -2.332986 42.385830  -2.332965 42.385864  -2.333023 42.385890  -2.333049 42.385856  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674119">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.337088 42.385881 </gml:lowerCorner>
+        		<gml:upperCorner>-2.336979 42.385954 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.337088 42.385906  -2.337003 42.385881  -2.336979 42.385930  -2.337022 42.385942  -2.337065 42.385954  -2.337088 42.385906  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674120">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.332853 42.385969 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332760 42.386041 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.332853 42.385995  -2.332801 42.385969  -2.332760 42.386015  -2.332810 42.386041  -2.332853 42.385995  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674121">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333116 42.385982 </gml:lowerCorner>
+        		<gml:upperCorner>-2.333080 42.386012 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333116 42.385990  -2.333099 42.385982  -2.333080 42.386003  -2.333095 42.386012  -2.333116 42.385990  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674122">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.332694 42.386007 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332613 42.386076 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.332694 42.386033  -2.332655 42.386007  -2.332613 42.386050  -2.332654 42.386076  -2.332694 42.386033  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674123">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333015 42.386064 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332969 42.386100 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333015 42.386073  -2.332988 42.386064  -2.332969 42.386091  -2.332998 42.386100  -2.333015 42.386073  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674124">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338085 42.386128 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337883 42.386255 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338074 42.386203  -2.338066 42.386175  -2.338085 42.386171  -2.338080 42.386145  -2.338001 42.386154  -2.337995 42.386128  -2.337883 42.386143  -2.337914 42.386255  -2.338012 42.386239  -2.338008 42.386212  -2.338074 42.386203  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674125">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338473 42.386165 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338412 42.386216 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338473 42.386196  -2.338437 42.386165  -2.338412 42.386181  -2.338448 42.386216  -2.338473 42.386196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674126">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.333035 42.386140 </gml:lowerCorner>
+        		<gml:upperCorner>-2.332980 42.386176 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.333035 42.386152  -2.332993 42.386140  -2.332980 42.386164  -2.333022 42.386176  -2.333035 42.386152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674127">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338742 42.386304 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338660 42.386363 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338742 42.386328  -2.338705 42.386304  -2.338660 42.386340  -2.338695 42.386363  -2.338742 42.386328  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674128">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.337889 42.387021 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337787 42.387131 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.337889 42.387030  -2.337853 42.387021  -2.337787 42.387119  -2.337822 42.387131  -2.337889 42.387030  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674129">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.337556 42.387029 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337484 42.387112 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.337556 42.387040  -2.337505 42.387029  -2.337484 42.387097  -2.337525 42.387105  -2.337526 42.387110  -2.337537 42.387112  -2.337546 42.387076  -2.337556 42.387040  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674130">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389284 42.372556 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388968 42.372715 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388970 42.372711  -2.389279 42.372715  -2.389284 42.372560  -2.388968 42.372556  -2.388970 42.372711  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674131">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389883 42.373722 </gml:lowerCorner>
+        		<gml:upperCorner>-2.389604 42.373879 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.389854 42.373879  -2.389883 42.373750  -2.389625 42.373722  -2.389604 42.373849  -2.389854 42.373879  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674132">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345099 42.380627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345012 42.380683 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345038 42.380683  -2.345099 42.380646  -2.345069 42.380627  -2.345012 42.380664  -2.345038 42.380683  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674133">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375742 42.355677 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375668 42.355725 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375742 42.355722  -2.375739 42.355677  -2.375668 42.355683  -2.375672 42.355725  -2.375742 42.355722  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674134">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380196 42.354448 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379961 42.354591 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380152 42.354591  -2.380196 42.354448  -2.380139 42.354469  -2.380023 42.354468  -2.379961 42.354564  -2.380152 42.354591  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674135">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.401136 42.356821 </gml:lowerCorner>
+        		<gml:upperCorner>-2.400976 42.356917 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.401136 42.356867  -2.401013 42.356821  -2.400976 42.356873  -2.401099 42.356917  -2.401117 42.356892  -2.401136 42.356867  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674138">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345461 42.382074 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345311 42.382174 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345311 42.382116  -2.345350 42.382137  -2.345360 42.382124  -2.345440 42.382174  -2.345461 42.382153  -2.345420 42.382130  -2.345407 42.382102  -2.345350 42.382074  -2.345311 42.382116  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674139">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345252 42.382002 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345163 42.382053 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345163 42.382032  -2.345202 42.382053  -2.345217 42.382040  -2.345233 42.382046  -2.345252 42.382025  -2.345200 42.382002  -2.345163 42.382032  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674140">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345297 42.381924 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345211 42.381990 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345211 42.381953  -2.345258 42.381990  -2.345297 42.381960  -2.345247 42.381924  -2.345211 42.381953  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674141">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.345362 42.381954 </gml:lowerCorner>
+        		<gml:upperCorner>-2.345295 42.382006 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.345295 42.381983  -2.345324 42.382006  -2.345362 42.381977  -2.345331 42.381954  -2.345295 42.381983  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674142">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.346362 42.379028 </gml:lowerCorner>
+        		<gml:upperCorner>-2.346270 42.379092 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.346362 42.379073  -2.346329 42.379028  -2.346303 42.379036  -2.346270 42.379046  -2.346313 42.379092  -2.346362 42.379073  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674143">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386435 42.369102 </gml:lowerCorner>
+        		<gml:upperCorner>-2.386358 42.369158 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386389 42.369158  -2.386435 42.369140  -2.386404 42.369102  -2.386358 42.369119  -2.386389 42.369158  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674144">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.386424 42.369324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.385989 42.369733 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.386187 42.369733  -2.386424 42.369651  -2.386213 42.369324  -2.385989 42.369398  -2.386187 42.369733  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674148">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338234 42.387124 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338116 42.387195 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338211 42.387195  -2.338234 42.387159  -2.338139 42.387124  -2.338116 42.387157  -2.338211 42.387195  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674149">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.337866 42.386391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.337788 42.386449 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.337866 42.386418  -2.337822 42.386391  -2.337788 42.386431  -2.337830 42.386449  -2.337866 42.386418  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674150">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338967 42.386030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338837 42.386120 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338967 42.386074  -2.338871 42.386030  -2.338837 42.386075  -2.338926 42.386120  -2.338967 42.386074  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674151">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338557 42.385806 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338490 42.385838 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338557 42.385806  -2.338491 42.385806  -2.338490 42.385838  -2.338556 42.385838  -2.338557 42.385806  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674152">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338663 42.385683 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338528 42.385727 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338662 42.385683  -2.338528 42.385684  -2.338529 42.385727  -2.338651 42.385726  -2.338651 42.385704  -2.338663 42.385704  -2.338662 42.385683  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674153">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.338649 42.385544 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338607 42.385583 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.338644 42.385548  -2.338607 42.385544  -2.338613 42.385583  -2.338649 42.385580  -2.338644 42.385548  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674154">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339360 42.385254 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339234 42.385342 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339281 42.385342  -2.339360 42.385299  -2.339317 42.385254  -2.339234 42.385294  -2.339281 42.385342  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674155">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339181 42.385524 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339094 42.385584 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339133 42.385584  -2.339181 42.385545  -2.339146 42.385524  -2.339094 42.385562  -2.339133 42.385584  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674156">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339308 42.385464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339199 42.385546 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339228 42.385546  -2.339276 42.385506  -2.339308 42.385480  -2.339285 42.385464  -2.339251 42.385492  -2.339199 42.385530  -2.339228 42.385546  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674157">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339284 42.385406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339103 42.385531 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339181 42.385531  -2.339220 42.385499  -2.339201 42.385485  -2.339284 42.385432  -2.339243 42.385406  -2.339186 42.385444  -2.339195 42.385450  -2.339173 42.385464  -2.339144 42.385443  -2.339103 42.385477  -2.339181 42.385531  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674158">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339445 42.384744 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339300 42.384844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339348 42.384844  -2.339445 42.384782  -2.339397 42.384744  -2.339300 42.384803  -2.339348 42.384844  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674159">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367223 42.366513 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367093 42.366608 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367223 42.366555  -2.367161 42.366513  -2.367093 42.366562  -2.367152 42.366608  -2.367223 42.366555  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674160">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367494 42.364762 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367294 42.364923 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367429 42.364916  -2.367463 42.364890  -2.367474 42.364897  -2.367494 42.364883  -2.367471 42.364868  -2.367327 42.364762  -2.367309 42.364801  -2.367294 42.364839  -2.367402 42.364923  -2.367418 42.364906  -2.367429 42.364916  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674161">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.367544 42.364659 </gml:lowerCorner>
+        		<gml:upperCorner>-2.367424 42.364745 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.367497 42.364745  -2.367544 42.364711  -2.367467 42.364659  -2.367424 42.364699  -2.367433 42.364704  -2.367426 42.364711  -2.367469 42.364738  -2.367476 42.364732  -2.367497 42.364745  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674162">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395179 42.362357 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395065 42.362470 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395177 42.362461  -2.395159 42.362395  -2.395179 42.362392  -2.395170 42.362357  -2.395065 42.362373  -2.395098 42.362470  -2.395177 42.362461  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674163">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391616 42.359104 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391416 42.359235 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391616 42.359129  -2.391560 42.359104  -2.391526 42.359144  -2.391469 42.359124  -2.391416 42.359195  -2.391515 42.359235  -2.391544 42.359199  -2.391558 42.359206  -2.391616 42.359129  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674164">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391861 42.358977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391705 42.359059 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391861 42.359013  -2.391740 42.358977  -2.391705 42.359025  -2.391826 42.359059  -2.391861 42.359013  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674165">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391683 42.358923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391511 42.359009 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391683 42.358963  -2.391546 42.358923  -2.391511 42.358971  -2.391645 42.359009  -2.391683 42.358963  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674166">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391217 42.359436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391116 42.359497 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391217 42.359462  -2.391142 42.359436  -2.391116 42.359472  -2.391193 42.359497  -2.391217 42.359462  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674167">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375951 42.361854 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375914 42.361888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375951 42.361854  -2.375921 42.361857  -2.375914 42.361883  -2.375939 42.361888  -2.375951 42.361854  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674168">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376167 42.360500 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376066 42.360563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376132 42.360553  -2.376134 42.360563  -2.376167 42.360556  -2.376147 42.360500  -2.376114 42.360506  -2.376117 42.360515  -2.376066 42.360524  -2.376078 42.360562  -2.376132 42.360553  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674169">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375810 42.360693 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375647 42.360816 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375810 42.360742  -2.375789 42.360729  -2.375768 42.360716  -2.375756 42.360727  -2.375701 42.360693  -2.375662 42.360721  -2.375695 42.360745  -2.375647 42.360780  -2.375675 42.360803  -2.375681 42.360798  -2.375706 42.360816  -2.375776 42.360759  -2.375783 42.360763  -2.375810 42.360742  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674170">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375726 42.360843 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375545 42.360940 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375693 42.360940  -2.375726 42.360888  -2.375587 42.360843  -2.375545 42.360921  -2.375579 42.360931  -2.375593 42.360907  -2.375693 42.360940  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674171">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376121 42.360900 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375976 42.360984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376105 42.360984  -2.376121 42.360947  -2.376086 42.360941  -2.376097 42.360911  -2.376036 42.360900  -2.376024 42.360931  -2.375989 42.360924  -2.375976 42.360955  -2.376105 42.360984  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674172">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376333 42.361135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376202 42.361227 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376333 42.361196  -2.376276 42.361138  -2.376255 42.361149  -2.376242 42.361135  -2.376202 42.361156  -2.376272 42.361227  -2.376333 42.361196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674173">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.374793 42.360657 </gml:lowerCorner>
+        		<gml:upperCorner>-2.374625 42.360785 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.374793 42.360701  -2.374683 42.360657  -2.374625 42.360738  -2.374730 42.360785  -2.374793 42.360701  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674174">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.373551 42.361278 </gml:lowerCorner>
+        		<gml:upperCorner>-2.373340 42.361415 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.373551 42.361358  -2.373480 42.361306  -2.373451 42.361323  -2.373383 42.361278  -2.373340 42.361307  -2.373409 42.361352  -2.373397 42.361361  -2.373471 42.361415  -2.373551 42.361358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674178">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375217 42.360265 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375130 42.360305 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375217 42.360295  -2.375205 42.360292  -2.375208 42.360282  -2.375138 42.360265  -2.375130 42.360287  -2.375213 42.360305  -2.375217 42.360295  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674179">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375243 42.360326 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375201 42.360367 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375243 42.360356  -2.375234 42.360356  -2.375233 42.360326  -2.375201 42.360327  -2.375204 42.360367  -2.375242 42.360366  -2.375243 42.360356  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674180">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.375172 42.361077 </gml:lowerCorner>
+        		<gml:upperCorner>-2.375127 42.361109 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.375156 42.361109  -2.375172 42.361092  -2.375141 42.361077  -2.375127 42.361093  -2.375156 42.361109  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674181">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395650 42.356549 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395557 42.356655 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395620 42.356549  -2.395557 42.356560  -2.395585 42.356655  -2.395650 42.356645  -2.395620 42.356549  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674182">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.396867 42.356254 </gml:lowerCorner>
+        		<gml:upperCorner>-2.396795 42.356316 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.396855 42.356254  -2.396795 42.356260  -2.396807 42.356316  -2.396867 42.356309  -2.396859 42.356273  -2.396855 42.356254  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674183">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.396792 42.356123 </gml:lowerCorner>
+        		<gml:upperCorner>-2.396726 42.356158 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.396786 42.356123  -2.396726 42.356130  -2.396732 42.356158  -2.396792 42.356151  -2.396786 42.356123  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674184">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.397066 42.356143 </gml:lowerCorner>
+        		<gml:upperCorner>-2.396837 42.356273 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.397051 42.356143  -2.396837 42.356157  -2.396855 42.356254  -2.396859 42.356273  -2.397066 42.356254  -2.397051 42.356143  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674185">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.396739 42.355386 </gml:lowerCorner>
+        		<gml:upperCorner>-2.396659 42.355482 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.396659 42.355394  -2.396699 42.355482  -2.396719 42.355477  -2.396739 42.355471  -2.396699 42.355386  -2.396659 42.355394  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674186">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.395713 42.356744 </gml:lowerCorner>
+        		<gml:upperCorner>-2.395480 42.356812 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.395709 42.356744  -2.395480 42.356764  -2.395489 42.356812  -2.395713 42.356791  -2.395709 42.356744  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674187">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376856 42.358038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376742 42.358151 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376816 42.358151  -2.376856 42.358058  -2.376784 42.358038  -2.376742 42.358133  -2.376816 42.358151  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674188">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.377428 42.358281 </gml:lowerCorner>
+        		<gml:upperCorner>-2.377357 42.358344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.377428 42.358293  -2.377395 42.358281  -2.377357 42.358330  -2.377390 42.358344  -2.377428 42.358293  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674189">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.377262 42.358260 </gml:lowerCorner>
+        		<gml:upperCorner>-2.377222 42.358311 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.377262 42.358263  -2.377234 42.358260  -2.377222 42.358306  -2.377251 42.358311  -2.377262 42.358263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674190">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.376974 42.357425 </gml:lowerCorner>
+        		<gml:upperCorner>-2.376906 42.357473 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.376974 42.357460  -2.376964 42.357442  -2.376955 42.357425  -2.376906 42.357439  -2.376925 42.357473  -2.376974 42.357460  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674191">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379949 42.356497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379869 42.356550 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379949 42.356529  -2.379933 42.356497  -2.379869 42.356518  -2.379885 42.356550  -2.379949 42.356529  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674193">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371690 42.363214 </gml:lowerCorner>
+        		<gml:upperCorner>-2.371490 42.363365 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371690 42.363335  -2.371567 42.363214  -2.371490 42.363253  -2.371567 42.363331  -2.371593 42.363318  -2.371639 42.363365  -2.371690 42.363335  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674195">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.371095 42.357504 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370837 42.357547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.371095 42.357547  -2.371094 42.357508  -2.370837 42.357504  -2.370837 42.357541  -2.371095 42.357547  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674196">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.370673 42.357880 </gml:lowerCorner>
+        		<gml:upperCorner>-2.370526 42.358035 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.370673 42.358019  -2.370567 42.357880  -2.370526 42.357897  -2.370632 42.358035  -2.370673 42.358019  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674197">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389005 42.355628 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388885 42.355698 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388905 42.355628  -2.388885 42.355671  -2.388985 42.355698  -2.389005 42.355658  -2.388905 42.355628  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674198">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389165 42.355597 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388991 42.355711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.389121 42.355597  -2.389005 42.355658  -2.388991 42.355711  -2.389053 42.355703  -2.389165 42.355651  -2.389121 42.355597  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674199">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.388775 42.355748 </gml:lowerCorner>
+        		<gml:upperCorner>-2.388714 42.355803 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.388714 42.355790  -2.388714 42.355800  -2.388769 42.355803  -2.388775 42.355749  -2.388716 42.355748  -2.388714 42.355790  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674200">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.390033 42.350892 </gml:lowerCorner>
+        		<gml:upperCorner>-2.389932 42.350970 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.390033 42.350941  -2.389997 42.350892  -2.389932 42.350919  -2.389968 42.350970  -2.390033 42.350941  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674201">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.394151 42.351683 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393699 42.352047 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.394030 42.352047  -2.394151 42.351970  -2.393818 42.351683  -2.393699 42.351757  -2.393865 42.351902  -2.394030 42.352047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674202">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393668 42.351895 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393483 42.352038 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393537 42.352038  -2.393668 42.351939  -2.393610 42.351895  -2.393483 42.351991  -2.393537 42.352038  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674203">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393062 42.351553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.392902 42.351680 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.392956 42.351680  -2.393062 42.351600  -2.393008 42.351553  -2.392902 42.351633  -2.392956 42.351680  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674204">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.393158 42.342035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.393068 42.342136 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.393158 42.342047  -2.393115 42.342035  -2.393099 42.342067  -2.393087 42.342065  -2.393068 42.342123  -2.393115 42.342136  -2.393158 42.342047  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674211">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391773 42.353927 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391677 42.354001 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391714 42.354001  -2.391773 42.353973  -2.391744 42.353927  -2.391677 42.353953  -2.391714 42.354001  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674212">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.391894 42.354101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.391760 42.354225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.391826 42.354225  -2.391894 42.354135  -2.391820 42.354101  -2.391760 42.354191  -2.391826 42.354225  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674998">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.380722 42.357211 </gml:lowerCorner>
+        		<gml:upperCorner>-2.380652 42.357261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.380706 42.357211  -2.380652 42.357224  -2.380669 42.357261  -2.380722 42.357249  -2.380706 42.357211  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4674999">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.382875 42.355878 </gml:lowerCorner>
+        		<gml:upperCorner>-2.382718 42.355990 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.382875 42.355955  -2.382812 42.355878  -2.382752 42.355902  -2.382761 42.355914  -2.382718 42.355934  -2.382768 42.355990  -2.382812 42.355969  -2.382822 42.355979  -2.382875 42.355955  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4675000">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.383291 42.355829 </gml:lowerCorner>
+        		<gml:upperCorner>-2.383137 42.355936 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.383291 42.355884  -2.383241 42.355829  -2.383137 42.355878  -2.383188 42.355936  -2.383291 42.355884  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4675001">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.368480 42.359624 </gml:lowerCorner>
+        		<gml:upperCorner>-2.368251 42.359777 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.368479 42.359765  -2.368480 42.359744  -2.368454 42.359745  -2.368452 42.359729  -2.368436 42.359730  -2.368433 42.359654  -2.368397 42.359656  -2.368398 42.359624  -2.368255 42.359625  -2.368251 42.359660  -2.368336 42.359660  -2.368336 42.359706  -2.368344 42.359777  -2.368402 42.359776  -2.368401 42.359768  -2.368479 42.359765  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4675002">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.378219 42.359688 </gml:lowerCorner>
+        		<gml:upperCorner>-2.378059 42.359844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.378219 42.359729  -2.378157 42.359688  -2.378059 42.359756  -2.378171 42.359844  -2.378219 42.359729  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4675003">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389926 42.357646 </gml:lowerCorner>
+        		<gml:upperCorner>-2.389854 42.357703 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.389916 42.357646  -2.389854 42.357653  -2.389863 42.357703  -2.389926 42.357696  -2.389916 42.357646  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Ribafrecha</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Ribafrecha</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4675004">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.389331 42.357891 </gml:lowerCorner>
+        		<gml:upperCorner>-2.389143 42.358006 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.389178 42.357891  -2.389143 42.357925  -2.389301 42.358006  -2.389331 42.357972  -2.389178 42.357891  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
