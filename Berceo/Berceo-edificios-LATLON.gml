@@ -10009,27 +10009,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4539159">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.892586 42.303820 </gml:lowerCorner>
-        		<gml:upperCorner>-2.892426 42.303924 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.892426 42.303867  -2.892471 42.303924  -2.892509 42.303914  -2.892586 42.303880  -2.892561 42.303849  -2.892543 42.303857  -2.892513 42.303820  -2.892460 42.303843  -2.892470 42.303856  -2.892426 42.303867  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Berceo</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Berceo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4539160">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

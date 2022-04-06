@@ -16,13 +16,13 @@
       <ms:viales gml:id="viales.1541957">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.096120 42.547484 </gml:lowerCorner>
-        		<gml:upperCorner>-3.095120 42.547614 </gml:upperCorner>
+        		<gml:lowerCorner>-3.096016 42.547468 </gml:lowerCorner>
+        		<gml:upperCorner>-3.095117 42.547618 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.096120 42.547484  -3.095461 42.547614  -3.095120 42.547611  </gml:posList>
+            <gml:posList srsDimension="2">-3.096016 42.547468  -3.095999 42.547477  -3.095972 42.547493  -3.095955 42.547503  -3.095937 42.547513  -3.095931 42.547514  -3.095897 42.547522  -3.095878 42.547526  -3.095858 42.547530  -3.095841 42.547534  -3.095822 42.547538  -3.095791 42.547544  -3.095748 42.547553  -3.095732 42.547557  -3.095717 42.547560  -3.095712 42.547561  -3.095705 42.547563  -3.095681 42.547569  -3.095640 42.547579  -3.095597 42.547585  -3.095581 42.547587  -3.095565 42.547590  -3.095551 42.547592  -3.095523 42.547596  -3.095505 42.547598  -3.095406 42.547608  -3.095400 42.547608  -3.095350 42.547611  -3.095301 42.547614  -3.095227 42.547617  -3.095117 42.547618  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
@@ -76,13 +76,13 @@
       <ms:viales gml:id="viales.1541981">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.095120 42.547605 </gml:lowerCorner>
-        		<gml:upperCorner>-3.094991 42.547611 </gml:upperCorner>
+        		<gml:lowerCorner>-3.095117 42.547605 </gml:lowerCorner>
+        		<gml:upperCorner>-3.094991 42.547618 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.095120 42.547611  -3.094991 42.547605  </gml:posList>
+            <gml:posList srsDimension="2">-3.095117 42.547618  -3.095101 42.547617  -3.095093 42.547617  -3.095068 42.547616  -3.095042 42.547612  -3.095021 42.547610  -3.095018 42.547610  -3.095002 42.547607  -3.094991 42.547605  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
@@ -103,26 +103,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.097297 42.547498  -3.096785 42.547425  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Millán de Yécora</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Millán de Yécora</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.131.1</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613100005</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1541986">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.096248 42.547484 </gml:lowerCorner>
-        		<gml:upperCorner>-3.096120 42.547531 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.096248 42.547531  -3.096247 42.547531  -3.096186 42.547529  -3.096120 42.547484  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
@@ -203,6 +183,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-3.097657 42.547517  -3.097537 42.547676  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Millán de Yécora</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Millán de Yécora</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.131.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613100005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4676964">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.096248 42.547514 </gml:lowerCorner>
+        		<gml:upperCorner>-3.096145 42.547531 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.096248 42.547531  -3.096247 42.547531  -3.096186 42.547529  -3.096145 42.547514  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Millán de Yécora</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Millán de Yécora</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.131.1</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613100005</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4676965">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.096145 42.547468 </gml:lowerCorner>
+        		<gml:upperCorner>-3.096016 42.547514 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-3.096145 42.547514  -3.096016 42.547468  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Castrejón</ms:NOMBRE_COMPLETO_VIAL>
@@ -316,13 +336,13 @@
       <ms:viales gml:id="viales.1541969">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.095120 42.547611 </gml:lowerCorner>
+        		<gml:lowerCorner>-3.095117 42.547618 </gml:lowerCorner>
         		<gml:upperCorner>-3.094894 42.547713 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.095120 42.547611  -3.095015 42.547677  -3.094894 42.547713  </gml:posList>
+            <gml:posList srsDimension="2">-3.095117 42.547618  -3.095015 42.547677  -3.094894 42.547713  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Valloncillas</ms:NOMBRE_COMPLETO_VIAL>
@@ -597,12 +617,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.096187 42.547138 </gml:lowerCorner>
-        		<gml:upperCorner>-3.096087 42.547484 </gml:upperCorner>
+        		<gml:upperCorner>-3.096016 42.547468 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.096120 42.547484  -3.096087 42.547426  -3.096100 42.547278  -3.096187 42.547138  </gml:posList>
+            <gml:posList srsDimension="2">-3.096016 42.547468  -3.096027 42.547449  -3.096038 42.547431  -3.096040 42.547428  -3.096044 42.547419  -3.096050 42.547403  -3.096053 42.547397  -3.096053 42.547396  -3.096057 42.547388  -3.096060 42.547382  -3.096073 42.547351  -3.096073 42.547351  -3.096074 42.547346  -3.096076 42.547339  -3.096080 42.547327  -3.096084 42.547311  -3.096088 42.547299  -3.096089 42.547295  -3.096094 42.547283  -3.096105 42.547263  -3.096187 42.547138  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Villanueva</ms:NOMBRE_COMPLETO_VIAL>
@@ -716,13 +736,13 @@
       <ms:viales gml:id="viales.1541985">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.096233 42.547484 </gml:lowerCorner>
-        		<gml:upperCorner>-3.096120 42.547862 </gml:upperCorner>
+        		<gml:lowerCorner>-3.096233 42.547514 </gml:lowerCorner>
+        		<gml:upperCorner>-3.096145 42.547862 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.096233 42.547862  -3.096189 42.547777  -3.096149 42.547682  -3.096145 42.547525  -3.096120 42.547484  </gml:posList>
+            <gml:posList srsDimension="2">-3.096233 42.547862  -3.096189 42.547777  -3.096149 42.547682  -3.096145 42.547525  -3.096145 42.547514  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Travesía Castrejón</ms:NOMBRE_COMPLETO_VIAL>

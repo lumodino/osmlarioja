@@ -8437,13 +8437,13 @@
       <ms:portales gml:id="portales.273287">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.475133 42.229969 </gml:lowerCorner>
-        		<gml:upperCorner>-2.475133 42.229969 </gml:upperCorner>
+        		<gml:lowerCorner>-2.475292 42.229931 </gml:lowerCorner>
+        		<gml:upperCorner>-2.475292 42.229931 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.475133 42.229969 </gml:pos>
+            <gml:pos>-2.475292 42.229931 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Carretera</ms:NOMBRE_COMPLETO_VIAL>

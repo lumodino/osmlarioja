@@ -516,13 +516,13 @@
       <ms:viales gml:id="viales.1542030">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.449386 42.194734 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.449386 42.194711 </gml:lowerCorner>
         		<gml:upperCorner>-2.449098 42.195074 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.449230 42.195074  -2.449222 42.195064  -2.449227 42.195015  -2.449280 42.194991  -2.449327 42.194923  -2.449368 42.194832  -2.449386 42.194757  -2.449374 42.194736  -2.449306 42.194734  -2.449098 42.194808  </gml:posList>
+            <gml:posList srsDimension="2">-2.449230 42.195074  -2.449222 42.195064  -2.449227 42.195015  -2.449280 42.194991  -2.449327 42.194923  -2.449368 42.194832  -2.449386 42.194757  -2.449383 42.194711  -2.449306 42.194734  -2.449098 42.194808  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -616,13 +616,13 @@
       <ms:viales gml:id="viales.1542075">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.449903 42.195373 </gml:lowerCorner>
-        		<gml:upperCorner>-2.449470 42.195599 </gml:upperCorner>
+        		<gml:lowerCorner>-2.449928 42.195373 </gml:lowerCorner>
+        		<gml:upperCorner>-2.449470 42.195601 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.449470 42.195373  -2.449746 42.195497  -2.449903 42.195599  </gml:posList>
+            <gml:posList srsDimension="2">-2.449470 42.195373  -2.449748 42.195481  -2.449928 42.195601  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Real</ms:NOMBRE_COMPLETO_VIAL>
@@ -1056,13 +1056,13 @@
       <ms:viales gml:id="viales.1542065">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.467962 42.234830 </gml:lowerCorner>
-        		<gml:upperCorner>-2.467622 42.235372 </gml:upperCorner>
+        		<gml:lowerCorner>-2.467972 42.234830 </gml:lowerCorner>
+        		<gml:upperCorner>-2.467622 42.235339 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.467622 42.234830  -2.467623 42.234831  -2.467729 42.234927  -2.467832 42.235015  -2.467834 42.235021  -2.467840 42.235043  -2.467866 42.235155  -2.467876 42.235262  -2.467904 42.235315  -2.467962 42.235372  </gml:posList>
+            <gml:posList srsDimension="2">-2.467622 42.234830  -2.467623 42.234831  -2.467729 42.234927  -2.467832 42.235015  -2.467834 42.235021  -2.467840 42.235043  -2.467866 42.235155  -2.467876 42.235262  -2.467904 42.235315  -2.467972 42.235339  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras</ms:NOMBRE_COMPLETO_VIAL>
@@ -1097,12 +1097,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.468114 42.235141 </gml:lowerCorner>
-        		<gml:upperCorner>-2.467962 42.235372 </gml:upperCorner>
+        		<gml:upperCorner>-2.467972 42.235339 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.467962 42.235372  -2.468035 42.235319  -2.468079 42.235235  -2.468114 42.235141  </gml:posList>
+            <gml:posList srsDimension="2">-2.467972 42.235339  -2.468035 42.235319  -2.468079 42.235235  -2.468114 42.235141  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Eras</ms:NOMBRE_COMPLETO_VIAL>
@@ -2122,7 +2122,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.473849 42.232268  -2.473811 42.232249  -2.473674 42.232334  </gml:posList>
+            <gml:posList srsDimension="2">-2.473849 42.232268  -2.473811 42.232249  -2.473743 42.232301  -2.473674 42.232334  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cantarranas</ms:NOMBRE_COMPLETO_VIAL>
@@ -2573,26 +2573,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1542105">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.475278 42.232288 </gml:lowerCorner>
-        		<gml:upperCorner>-2.474983 42.232662 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.474983 42.232288  -2.475077 42.232328  -2.475162 42.232412  -2.475278 42.232620  -2.475136 42.232662  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Camino Palomar</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>San Román de Cameros</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>San Román de Cameros</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.132.9</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2613200038</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1542118">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2623,6 +2603,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.474505 42.232819  -2.474456 42.232856  -2.474336 42.232936  -2.474208 42.233037  -2.474086 42.233139  -2.473999 42.233224  -2.473978 42.233286  -2.473985 42.233385  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Palomar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Román de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Román de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.132.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613200038</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4677130">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.475278 42.232288 </gml:lowerCorner>
+        		<gml:upperCorner>-2.474983 42.232620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.474983 42.232288  -2.475077 42.232328  -2.475162 42.232412  -2.475278 42.232620  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Camino Palomar</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>San Román de Cameros</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>San Román de Cameros</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.132.9</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2613200038</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4677131">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.475278 42.232620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.475136 42.232662 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.475278 42.232620  -2.475136 42.232662  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Palomar</ms:NOMBRE_COMPLETO_VIAL>
