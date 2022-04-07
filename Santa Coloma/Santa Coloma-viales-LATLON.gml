@@ -922,7 +922,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.656262 42.368971  -2.656372 42.368996  -2.656374 42.369151  -2.656400 42.369389  -2.656399 42.369474  -2.656245 42.369811  -2.656216 42.369830  -2.656053 42.369832  </gml:posList>
+            <gml:posList srsDimension="2">-2.656262 42.368971  -2.656372 42.368996  -2.656374 42.369151  -2.656400 42.369389  -2.656399 42.369474  -2.656300 42.369692  -2.656280 42.369763  -2.656272 42.369812  -2.656252 42.369831  -2.656181 42.369830  -2.656053 42.369832  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de los Arenales</ms:NOMBRE_COMPLETO_VIAL>

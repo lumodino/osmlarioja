@@ -1157,12 +1157,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.473704 42.232533 </gml:lowerCorner>
-        		<gml:upperCorner>-2.473385 42.233141 </gml:upperCorner>
+        		<gml:upperCorner>-2.473394 42.233144 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.473385 42.233141  -2.473526 42.232788  -2.473704 42.232533  </gml:posList>
+            <gml:posList srsDimension="2">-2.473394 42.233144  -2.473442 42.233062  -2.473557 42.232755  -2.473704 42.232533  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Diego de Ágreda</ms:NOMBRE_COMPLETO_VIAL>
@@ -1682,7 +1682,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.474016 42.232578  -2.473931 42.232615  -2.473829 42.232713  -2.473706 42.232818  -2.473567 42.232971  -2.473505 42.232986  -2.473461 42.233052  -2.473429 42.233122  </gml:posList>
+            <gml:posList srsDimension="2">-2.474016 42.232578  -2.473931 42.232615  -2.473829 42.232713  -2.473706 42.232818  -2.473567 42.232971  -2.473429 42.233122  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel García Herreros</ms:NOMBRE_COMPLETO_VIAL>
@@ -1837,12 +1837,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.473429 42.233122 </gml:lowerCorner>
-        		<gml:upperCorner>-2.473385 42.233141 </gml:upperCorner>
+        		<gml:upperCorner>-2.473394 42.233144 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.473429 42.233122  -2.473385 42.233141  </gml:posList>
+            <gml:posList srsDimension="2">-2.473429 42.233122  -2.473394 42.233144  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Manuel García Herreros</ms:NOMBRE_COMPLETO_VIAL>
@@ -2822,7 +2822,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.473289 42.231381  -2.473291 42.231376  -2.473320 42.231320  -2.473323 42.231315  -2.473334 42.231296  -2.473352 42.231266  -2.473358 42.231256  -2.473370 42.231239  -2.473391 42.231210  -2.473398 42.231200  -2.473415 42.231180  -2.473439 42.231152  -2.473444 42.231146  -2.473467 42.231124  -2.473475 42.231115  -2.473494 42.231097  -2.473495 42.231096  -2.473514 42.231080  -2.473555 42.231046  -2.473556 42.231046  -2.473599 42.231018  -2.473601 42.231017  -2.473607 42.231013  -2.473625 42.231003  -2.473633 42.230998  -2.473641 42.230994  -2.473650 42.230989  -2.473673 42.230977  -2.473673 42.230977  -2.473698 42.230968  -2.473720 42.230960  </gml:posList>
+            <gml:posList srsDimension="2">-2.473289 42.231381  -2.473298 42.231364  -2.473320 42.231320  -2.473323 42.231315  -2.473334 42.231296  -2.473352 42.231266  -2.473358 42.231256  -2.473370 42.231239  -2.473391 42.231210  -2.473398 42.231200  -2.473415 42.231180  -2.473439 42.231152  -2.473444 42.231146  -2.473467 42.231124  -2.473475 42.231115  -2.473494 42.231097  -2.473495 42.231096  -2.473514 42.231080  -2.473555 42.231046  -2.473556 42.231046  -2.473599 42.231018  -2.473601 42.231017  -2.473607 42.231013  -2.473625 42.231003  -2.473633 42.230998  -2.473641 42.230994  -2.473650 42.230989  -2.473673 42.230977  -2.473673 42.230977  -2.473698 42.230968  -2.473720 42.230960  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Julián Íñiguez</ms:NOMBRE_COMPLETO_VIAL>

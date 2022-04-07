@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-3.108396 42.535537 </gml:lowerCorner>
+      		<gml:lowerCorner>-3.101380 42.544787 </gml:lowerCorner>
       		<gml:upperCorner>-3.089701 42.550850 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -2250,7 +2250,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.096627 42.545832  -3.096622 42.545811  -3.096578 42.545816  -3.096582 42.545837  -3.096627 42.545832  </gml:posList>
+                <gml:posList srsDimension="2">-3.096627 42.545832  -3.096624 42.545821  -3.096622 42.545811  -3.096578 42.545816  -3.096582 42.545837  -3.096627 42.545832  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2302,27 +2302,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4091662">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.099959 42.549623 </gml:lowerCorner>
-        		<gml:upperCorner>-3.099832 42.549721 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.099959 42.549712  -3.099938 42.549623  -3.099832 42.549639  -3.099865 42.549721  -3.099959 42.549712  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Millán de Yécora</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4091663">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -2334,7 +2313,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.099090 42.549458  -3.099135 42.549366  -3.098713 42.549267  -3.098577 42.549219  -3.098546 42.549276  -3.098619 42.549292  -3.098643 42.549353  -3.099090 42.549458  </gml:posList>
+                <gml:posList srsDimension="2">-3.099090 42.549458  -3.099113 42.549412  -3.099135 42.549366  -3.098713 42.549267  -3.098577 42.549219  -3.098546 42.549276  -3.098619 42.549292  -3.098631 42.549322  -3.098643 42.549353  -3.099090 42.549458  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2355,7 +2334,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.101380 42.550731  -3.101257 42.550688  -3.101220 42.550741  -3.101226 42.550745  -3.101171 42.550807  -3.101278 42.550850  -3.101316 42.550810  -3.101380 42.550731  </gml:posList>
+                <gml:posList srsDimension="2">-3.101380 42.550731  -3.101257 42.550688  -3.101220 42.550741  -3.101226 42.550745  -3.101198 42.550776  -3.101171 42.550807  -3.101278 42.550850  -3.101316 42.550810  -3.101380 42.550731  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2376,7 +2355,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.092823 42.548037  -3.092707 42.547982  -3.092636 42.548056  -3.092742 42.548109  -3.092823 42.548037  </gml:posList>
+                <gml:posList srsDimension="2">-3.092823 42.548037  -3.092765 42.548009  -3.092707 42.547982  -3.092636 42.548056  -3.092742 42.548109  -3.092823 42.548037  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2439,7 +2418,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.099325 42.547614  -3.099298 42.547627  -3.099175 42.547703  -3.099175 42.547704  -3.099251 42.547774  -3.099258 42.547780  -3.099406 42.547694  -3.099325 42.547614  </gml:posList>
+                <gml:posList srsDimension="2">-3.099325 42.547614  -3.099298 42.547627  -3.099247 42.547658  -3.099175 42.547703  -3.099175 42.547704  -3.099251 42.547774  -3.099258 42.547780  -3.099406 42.547694  -3.099325 42.547614  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2460,7 +2439,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.099175 42.547704  -3.098862 42.547901  -3.098941 42.547970  -3.099251 42.547774  -3.099175 42.547704  </gml:posList>
+                <gml:posList srsDimension="2">-3.099175 42.547704  -3.098862 42.547901  -3.098902 42.547935  -3.098941 42.547970  -3.099251 42.547774  -3.099175 42.547704  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2515,15 +2494,15 @@
       <ms:edificios gml:id="edificios.4091672">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.093252 42.547309 </gml:lowerCorner>
-        		<gml:upperCorner>-3.093024 42.547561 </gml:upperCorner>
+        		<gml:lowerCorner>-3.093259 42.547322 </gml:lowerCorner>
+        		<gml:upperCorner>-3.093032 42.547575 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.093153 42.547309  -3.093024 42.547342  -3.093115 42.547561  -3.093252 42.547521  -3.093153 42.547309  </gml:posList>
+                <gml:posList srsDimension="2">-3.093160 42.547322  -3.093079 42.547343  -3.093032 42.547355  -3.093122 42.547575  -3.093259 42.547534  -3.093160 42.547322  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2607,7 +2586,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.099141 42.545418  -3.099086 42.545369  -3.098999 42.545418  -3.099050 42.545465  -3.099141 42.545418  </gml:posList>
+                <gml:posList srsDimension="2">-3.099141 42.545418  -3.099086 42.545369  -3.098999 42.545418  -3.099024 42.545442  -3.099050 42.545465  -3.099141 42.545418  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2725,15 +2704,15 @@
       <ms:edificios gml:id="edificios.4091683">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.092702 42.547424 </gml:lowerCorner>
-        		<gml:upperCorner>-3.092219 42.547773 </gml:upperCorner>
+        		<gml:lowerCorner>-3.092715 42.547457 </gml:lowerCorner>
+        		<gml:upperCorner>-3.092232 42.547806 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.092702 42.547658  -3.092368 42.547424  -3.092219 42.547551  -3.092551 42.547773  -3.092702 42.547658  </gml:posList>
+                <gml:posList srsDimension="2">-3.092715 42.547691  -3.092381 42.547457  -3.092232 42.547584  -3.092564 42.547806  -3.092630 42.547756  -3.092715 42.547691  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2775,7 +2754,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.099511 42.545378  -3.099441 42.545432  -3.099511 42.545484  -3.099580 42.545441  -3.099511 42.545378  </gml:posList>
+                <gml:posList srsDimension="2">-3.099511 42.545378  -3.099441 42.545432  -3.099476 42.545458  -3.099511 42.545484  -3.099580 42.545441  -3.099511 42.545378  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2932,90 +2911,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676931">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.108396 42.535537 </gml:lowerCorner>
-        		<gml:upperCorner>-3.108196 42.535685 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.108396 42.535607  -3.108276 42.535537  -3.108196 42.535623  -3.108319 42.535685  -3.108396 42.535607  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676932">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.094620 42.536694 </gml:lowerCorner>
-        		<gml:upperCorner>-3.094378 42.536883 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.094620 42.536758  -3.094544 42.536694  -3.094378 42.536803  -3.094456 42.536883  -3.094550 42.536806  -3.094620 42.536758  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676933">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.097908 42.544436 </gml:lowerCorner>
-        		<gml:upperCorner>-3.097783 42.544546 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.097908 42.544514  -3.097842 42.544436  -3.097783 42.544480  -3.097839 42.544546  -3.097908 42.544514  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676934">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.098004 42.544549 </gml:lowerCorner>
-        		<gml:upperCorner>-3.097765 42.544703 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.098004 42.544625  -3.097941 42.544549  -3.097765 42.544628  -3.097835 42.544703  -3.098004 42.544625  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4676935">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3027,7 +2922,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.089763 42.544860  -3.089756 42.544787  -3.089701 42.544794  -3.089718 42.544866  -3.089763 42.544860  </gml:posList>
+                <gml:posList srsDimension="2">-3.089763 42.544860  -3.089756 42.544787  -3.089701 42.544794  -3.089710 42.544830  -3.089718 42.544866  -3.089763 42.544860  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3058,27 +2953,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676938">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.093849 42.548442 </gml:lowerCorner>
-        		<gml:upperCorner>-3.093709 42.548508 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.093849 42.548449  -3.093721 42.548442  -3.093709 42.548503  -3.093826 42.548508  -3.093849 42.548449  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4676939">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -3090,49 +2964,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.095514 42.548466  -3.095522 42.548485  -3.095539 42.548480  -3.095541 42.548483  -3.095581 42.548471  -3.095566 42.548447  -3.095524 42.548458  -3.095527 42.548463  -3.095514 42.548466  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676940">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.097906 42.548449 </gml:lowerCorner>
-        		<gml:upperCorner>-3.097751 42.548584 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.097906 42.548555  -3.097836 42.548449  -3.097751 42.548481  -3.097826 42.548584  -3.097906 42.548555  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676941">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-3.098446 42.549190 </gml:lowerCorner>
-        		<gml:upperCorner>-3.098320 42.549272 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.098446 42.549220  -3.098393 42.549190  -3.098320 42.549254  -3.098371 42.549272  -3.098398 42.549238  -3.098418 42.549243  -3.098446 42.549220  </gml:posList>
+                <gml:posList srsDimension="2">-3.095514 42.548466  -3.095522 42.548485  -3.095539 42.548480  -3.095541 42.548483  -3.095581 42.548471  -3.095574 42.548459  -3.095566 42.548447  -3.095524 42.548458  -3.095527 42.548463  -3.095514 42.548466  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3153,7 +2985,28 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-3.091707 42.549280  -3.091668 42.549247  -3.091599 42.549292  -3.091638 42.549325  -3.091707 42.549280  </gml:posList>
+                <gml:posList srsDimension="2">-3.091707 42.549280  -3.091668 42.549247  -3.091599 42.549292  -3.091638 42.549325  -3.091672 42.549302  -3.091707 42.549280  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Millán de Yécora</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4676963">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.094359 42.548274 </gml:lowerCorner>
+        		<gml:upperCorner>-3.094286 42.548343 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.094299 42.548294  -3.094286 42.548295  -3.094294 42.548343  -3.094359 42.548336  -3.094350 42.548289  -3.094336 42.548292  -3.094333 42.548274  -3.094314 42.548275  -3.094295 42.548277  -3.094299 42.548294  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
