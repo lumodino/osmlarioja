@@ -22807,27 +22807,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4524597">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.269988 42.217722 </gml:lowerCorner>
-        		<gml:upperCorner>-2.269874 42.217812 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.269985 42.217763  -2.269979 42.217722  -2.269874 42.217731  -2.269881 42.217773  -2.269897 42.217772  -2.269902 42.217812  -2.269988 42.217805  -2.269985 42.217763  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Arnedillo</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Arnedillo</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4524602">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">

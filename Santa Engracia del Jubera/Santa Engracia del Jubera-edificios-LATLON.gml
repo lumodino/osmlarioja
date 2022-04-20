@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.366547 42.243128 </gml:lowerCorner>
-      		<gml:upperCorner>-2.246579 42.373583 </gml:upperCorner>
+      		<gml:lowerCorner>-2.379344 42.241787 </gml:lowerCorner>
+      		<gml:upperCorner>-2.246579 42.385710 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -24,7 +24,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289539 42.302737  -2.289579 42.302740  -2.289587 42.302676  -2.289640 42.302680  -2.289678 42.302385  -2.289518 42.302374  -2.289470 42.302732  -2.289472 42.302733  -2.289539 42.302737  </gml:posList>
+                <gml:posList srsDimension="2">-2.289539 42.302737  -2.289579 42.302740  -2.289587 42.302676  -2.289640 42.302680  -2.289656 42.302553  -2.289678 42.302385  -2.289518 42.302374  -2.289470 42.302732  -2.289472 42.302733  -2.289539 42.302737  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -360,7 +360,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.360040 42.246481  -2.360161 42.246340  -2.360074 42.246296  -2.359935 42.246458  -2.359985 42.246469  -2.360040 42.246481  </gml:posList>
+                <gml:posList srsDimension="2">-2.360040 42.246481  -2.360161 42.246340  -2.360074 42.246296  -2.360004 42.246377  -2.359935 42.246458  -2.359985 42.246469  -2.360040 42.246481  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1024,15 +1024,15 @@
       <ms:edificios gml:id="edificios.4097876">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.306925 42.296689 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306868 42.296742 </gml:upperCorner>
+        		<gml:lowerCorner>-2.306941 42.296689 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306884 42.296742 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306925 42.296734  -2.306919 42.296689  -2.306868 42.296692  -2.306875 42.296742  -2.306925 42.296734  </gml:posList>
+                <gml:posList srsDimension="2">-2.306941 42.296734  -2.306934 42.296689  -2.306884 42.296692  -2.306890 42.296742  -2.306941 42.296734  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1045,15 +1045,15 @@
       <ms:edificios gml:id="edificios.4097877">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.306925 42.296608 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306850 42.296678 </gml:upperCorner>
+        		<gml:lowerCorner>-2.306941 42.296608 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306866 42.296678 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306925 42.296678  -2.306923 42.296608  -2.306850 42.296608  -2.306854 42.296678  -2.306925 42.296678  </gml:posList>
+                <gml:posList srsDimension="2">-2.306941 42.296678  -2.306939 42.296608  -2.306866 42.296608  -2.306869 42.296678  -2.306941 42.296678  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1066,15 +1066,15 @@
       <ms:edificios gml:id="edificios.4097878">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.306846 42.296455 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306755 42.296524 </gml:upperCorner>
+        		<gml:lowerCorner>-2.306862 42.296455 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306771 42.296524 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306825 42.296524  -2.306846 42.296479  -2.306766 42.296455  -2.306755 42.296476  -2.306788 42.296486  -2.306778 42.296512  -2.306825 42.296524  </gml:posList>
+                <gml:posList srsDimension="2">-2.306840 42.296524  -2.306862 42.296479  -2.306782 42.296455  -2.306771 42.296476  -2.306803 42.296486  -2.306793 42.296512  -2.306840 42.296524  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1213,15 +1213,15 @@
       <ms:edificios gml:id="edificios.4097885">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290209 42.302567 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290103 42.302650 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290220 42.302538 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290101 42.302644 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290164 42.302567  -2.290103 42.302587  -2.290143 42.302650  -2.290209 42.302627  -2.290164 42.302567  </gml:posList>
+                <gml:posList srsDimension="2">-2.290172 42.302538  -2.290101 42.302562  -2.290123 42.302595  -2.290154 42.302644  -2.290220 42.302621  -2.290172 42.302538  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1242,7 +1242,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291121 42.307221  -2.291118 42.307163  -2.290912 42.307166  -2.290915 42.307220  -2.291121 42.307221  </gml:posList>
+                <gml:posList srsDimension="2">-2.291121 42.307221  -2.291118 42.307163  -2.291015 42.307164  -2.290912 42.307166  -2.290915 42.307220  -2.291121 42.307221  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1263,7 +1263,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295010 42.307208  -2.295012 42.307141  -2.294983 42.307139  -2.294982 42.307127  -2.294919 42.307124  -2.294918 42.307133  -2.294803 42.307134  -2.294803 42.307199  -2.295010 42.307208  </gml:posList>
+                <gml:posList srsDimension="2">-2.295010 42.307208  -2.295012 42.307141  -2.294983 42.307139  -2.294982 42.307127  -2.294919 42.307124  -2.294918 42.307133  -2.294803 42.307134  -2.294803 42.307166  -2.294803 42.307199  -2.295010 42.307208  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1410,7 +1410,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.298750 42.314574  -2.298876 42.314576  -2.298877 42.314387  -2.298741 42.314387  -2.298750 42.314574  </gml:posList>
+                <gml:posList srsDimension="2">-2.298750 42.314574  -2.298876 42.314576  -2.298877 42.314387  -2.298809 42.314387  -2.298741 42.314387  -2.298750 42.314574  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1494,7 +1494,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305856 42.316257  -2.305933 42.316184  -2.305769 42.316076  -2.305684 42.316158  -2.305856 42.316257  </gml:posList>
+                <gml:posList srsDimension="2">-2.305856 42.316257  -2.305933 42.316184  -2.305769 42.316076  -2.305684 42.316158  -2.305770 42.316208  -2.305856 42.316257  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2145,7 +2145,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290663 42.302038  -2.290531 42.302192  -2.290579 42.302215  -2.290711 42.302061  -2.290663 42.302038  </gml:posList>
+                <gml:posList srsDimension="2">-2.290663 42.302038  -2.290588 42.302126  -2.290531 42.302192  -2.290579 42.302215  -2.290711 42.302061  -2.290663 42.302038  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2292,7 +2292,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.292729 42.299618  -2.292717 42.299618  -2.292720 42.299596  -2.292732 42.299597  -2.292736 42.299567  -2.292607 42.299562  -2.292597 42.299640  -2.292726 42.299647  -2.292729 42.299618  </gml:posList>
+                <gml:posList srsDimension="2">-2.292729 42.299618  -2.292717 42.299618  -2.292720 42.299596  -2.292732 42.299597  -2.292736 42.299567  -2.292607 42.299562  -2.292597 42.299640  -2.292661 42.299644  -2.292726 42.299647  -2.292729 42.299618  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2557,15 +2557,15 @@
       <ms:edificios gml:id="edificios.4097949">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.356026 42.244132 </gml:lowerCorner>
-        		<gml:upperCorner>-2.355944 42.244195 </gml:upperCorner>
+        		<gml:lowerCorner>-2.356096 42.244116 </gml:lowerCorner>
+        		<gml:upperCorner>-2.355944 42.244245 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.355984 42.244132  -2.355944 42.244165  -2.355989 42.244195  -2.356026 42.244164  -2.355984 42.244132  </gml:posList>
+                <gml:posList srsDimension="2">-2.356011 42.244116  -2.355978 42.244140  -2.355944 42.244165  -2.355989 42.244195  -2.355966 42.244208  -2.356014 42.244245  -2.356096 42.244187  -2.356011 42.244116  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2578,15 +2578,15 @@
       <ms:edificios gml:id="edificios.4097950">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.353719 42.281142 </gml:lowerCorner>
-        		<gml:upperCorner>-2.353500 42.281265 </gml:upperCorner>
+        		<gml:lowerCorner>-2.353705 42.281132 </gml:lowerCorner>
+        		<gml:upperCorner>-2.353486 42.281255 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.353558 42.281142  -2.353533 42.281163  -2.353500 42.281186  -2.353677 42.281265  -2.353719 42.281213  -2.353558 42.281142  </gml:posList>
+                <gml:posList srsDimension="2">-2.353545 42.281132  -2.353520 42.281152  -2.353486 42.281176  -2.353575 42.281215  -2.353664 42.281255  -2.353705 42.281203  -2.353545 42.281132  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2599,15 +2599,15 @@
       <ms:edificios gml:id="edificios.4097951">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.353436 42.281174 </gml:lowerCorner>
-        		<gml:upperCorner>-2.353350 42.281233 </gml:upperCorner>
+        		<gml:lowerCorner>-2.353441 42.281163 </gml:lowerCorner>
+        		<gml:upperCorner>-2.353354 42.281222 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.353436 42.281192  -2.353413 42.281174  -2.353350 42.281217  -2.353374 42.281233  -2.353436 42.281192  </gml:posList>
+                <gml:posList srsDimension="2">-2.353441 42.281181  -2.353418 42.281163  -2.353386 42.281184  -2.353354 42.281206  -2.353379 42.281222  -2.353441 42.281181  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2649,7 +2649,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.341071 42.273223  -2.341154 42.273217  -2.341149 42.273201  -2.341198 42.273196  -2.341194 42.273155  -2.341140 42.273156  -2.341139 42.273135  -2.341059 42.273144  -2.341071 42.273223  </gml:posList>
+                <gml:posList srsDimension="2">-2.341071 42.273223  -2.341112 42.273220  -2.341154 42.273217  -2.341149 42.273201  -2.341198 42.273196  -2.341194 42.273155  -2.341140 42.273156  -2.341139 42.273135  -2.341059 42.273144  -2.341071 42.273223  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2788,15 +2788,15 @@
       <ms:edificios gml:id="edificios.4097960">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291354 42.302210 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291226 42.302338 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291354 42.302205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291226 42.302332 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291322 42.302338  -2.291342 42.302296  -2.291354 42.302237  -2.291347 42.302213  -2.291231 42.302210  -2.291226 42.302284  -2.291279 42.302293  -2.291301 42.302298  -2.291293 42.302334  -2.291322 42.302338  </gml:posList>
+                <gml:posList srsDimension="2">-2.291322 42.302332  -2.291342 42.302290  -2.291354 42.302232  -2.291347 42.302208  -2.291232 42.302205  -2.291226 42.302279  -2.291279 42.302288  -2.291301 42.302292  -2.291293 42.302329  -2.291322 42.302332  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2880,7 +2880,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.298890 42.314443  -2.299180 42.314478  -2.299191 42.314420  -2.298899 42.314386  -2.298890 42.314443  </gml:posList>
+                <gml:posList srsDimension="2">-2.298890 42.314443  -2.299180 42.314478  -2.299185 42.314449  -2.299191 42.314420  -2.298899 42.314386  -2.298890 42.314443  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2901,7 +2901,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.300022 42.314521  -2.300040 42.314398  -2.299908 42.314395  -2.299907 42.314402  -2.299806 42.314397  -2.299802 42.314446  -2.299835 42.314447  -2.299834 42.314502  -2.299895 42.314506  -2.299895 42.314512  -2.300022 42.314521  </gml:posList>
+                <gml:posList srsDimension="2">-2.300022 42.314521  -2.300040 42.314398  -2.299908 42.314395  -2.299907 42.314402  -2.299806 42.314397  -2.299802 42.314446  -2.299835 42.314447  -2.299834 42.314502  -2.299895 42.314506  -2.299895 42.314512  -2.299958 42.314517  -2.300022 42.314521  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2914,7 +2914,7 @@
       <ms:edificios gml:id="edificios.4097966">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.301771 42.314773 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.301784 42.314773 </gml:lowerCorner>
         		<gml:upperCorner>-2.301617 42.314890 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -2922,7 +2922,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.301652 42.314773  -2.301617 42.314840  -2.301720 42.314890  -2.301771 42.314827  -2.301652 42.314773  </gml:posList>
+                <gml:posList srsDimension="2">-2.301652 42.314773  -2.301617 42.314840  -2.301720 42.314890  -2.301784 42.314813  -2.301720 42.314783  -2.301698 42.314794  -2.301652 42.314773  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2999,14 +2999,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.307136 42.316060 </gml:lowerCorner>
-        		<gml:upperCorner>-2.306993 42.316156 </gml:upperCorner>
+        		<gml:upperCorner>-2.307009 42.316143 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.307136 42.316120  -2.307111 42.316060  -2.306993 42.316095  -2.307036 42.316156  -2.307136 42.316120  </gml:posList>
+                <gml:posList srsDimension="2">-2.307136 42.316120  -2.307111 42.316060  -2.307009 42.316090  -2.307035 42.316143  -2.307136 42.316120  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3048,7 +3048,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.357832 42.281344  -2.357863 42.281298  -2.357803 42.281277  -2.357677 42.281257  -2.357657 42.281300  -2.357702 42.281312  -2.357795 42.281331  -2.357832 42.281344  </gml:posList>
+                <gml:posList srsDimension="2">-2.357832 42.281344  -2.357863 42.281298  -2.357803 42.281277  -2.357785 42.281274  -2.357677 42.281257  -2.357657 42.281300  -2.357702 42.281312  -2.357795 42.281331  -2.357832 42.281344  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3271,15 +3271,15 @@
       <ms:edificios gml:id="edificios.4097983">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.338336 42.307249 </gml:lowerCorner>
-        		<gml:upperCorner>-2.338195 42.307348 </gml:upperCorner>
+        		<gml:lowerCorner>-2.338339 42.307242 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338198 42.307341 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338336 42.307275  -2.338220 42.307249  -2.338195 42.307316  -2.338319 42.307348  -2.338336 42.307275  </gml:posList>
+                <gml:posList srsDimension="2">-2.338339 42.307269  -2.338222 42.307242  -2.338198 42.307309  -2.338259 42.307325  -2.338321 42.307341  -2.338339 42.307269  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3355,15 +3355,15 @@
       <ms:edificios gml:id="edificios.4097987">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.338457 42.307275 </gml:lowerCorner>
-        		<gml:upperCorner>-2.338319 42.307357 </gml:upperCorner>
+        		<gml:lowerCorner>-2.338460 42.307269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.338321 42.307351 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.338336 42.307275  -2.338319 42.307348  -2.338457 42.307357  -2.338457 42.307302  -2.338457 42.307293  -2.338392 42.307285  -2.338336 42.307275  </gml:posList>
+                <gml:posList srsDimension="2">-2.338339 42.307269  -2.338321 42.307341  -2.338459 42.307351  -2.338460 42.307295  -2.338460 42.307286  -2.338394 42.307279  -2.338339 42.307269  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3909,7 +3909,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.339313 42.307196  -2.339270 42.307128  -2.339174 42.307163  -2.339211 42.307230  -2.339313 42.307196  </gml:posList>
+                <gml:posList srsDimension="2">-2.339313 42.307196  -2.339270 42.307128  -2.339222 42.307146  -2.339174 42.307163  -2.339211 42.307230  -2.339313 42.307196  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4056,7 +4056,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.356515 42.244527  -2.356457 42.244469  -2.356403 42.244499  -2.356461 42.244557  -2.356515 42.244527  </gml:posList>
+                <gml:posList srsDimension="2">-2.356515 42.244527  -2.356486 42.244498  -2.356457 42.244469  -2.356403 42.244499  -2.356461 42.244557  -2.356515 42.244527  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4111,15 +4111,15 @@
       <ms:edificios gml:id="edificios.4098023">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.293778 42.302881 </gml:lowerCorner>
-        		<gml:upperCorner>-2.293673 42.302942 </gml:upperCorner>
+        		<gml:lowerCorner>-2.293790 42.302868 </gml:lowerCorner>
+        		<gml:upperCorner>-2.293685 42.302935 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.293691 42.302881  -2.293673 42.302922  -2.293756 42.302942  -2.293778 42.302899  -2.293691 42.302881  </gml:posList>
+                <gml:posList srsDimension="2">-2.293706 42.302868  -2.293685 42.302915  -2.293768 42.302935  -2.293790 42.302892  -2.293706 42.302868  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4132,15 +4132,15 @@
       <ms:edificios gml:id="edificios.4098024">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.295139 42.303837 </gml:lowerCorner>
-        		<gml:upperCorner>-2.294890 42.304079 </gml:upperCorner>
+        		<gml:lowerCorner>-2.295145 42.303841 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294897 42.304069 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295000 42.303837  -2.294906 42.303888  -2.294890 42.303896  -2.295015 42.304079  -2.295139 42.304030  -2.295000 42.303837  </gml:posList>
+                <gml:posList srsDimension="2">-2.295016 42.303841  -2.294897 42.303887  -2.294959 42.303978  -2.295021 42.304069  -2.295145 42.304020  -2.295016 42.303841  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4153,15 +4153,15 @@
       <ms:edificios gml:id="edificios.4098025">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.295172 42.302797 </gml:lowerCorner>
-        		<gml:upperCorner>-2.294963 42.302959 </gml:upperCorner>
+        		<gml:lowerCorner>-2.295191 42.302776 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294982 42.302939 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295172 42.302842  -2.295018 42.302797  -2.294963 42.302916  -2.295118 42.302959  -2.295172 42.302842  </gml:posList>
+                <gml:posList srsDimension="2">-2.295191 42.302821  -2.295037 42.302776  -2.294982 42.302895  -2.295059 42.302917  -2.295137 42.302939  -2.295191 42.302821  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4182,7 +4182,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295271 42.302998  -2.295163 42.303004  -2.295164 42.303011  -2.295153 42.303232  -2.295253 42.303234  -2.295295 42.303022  -2.295271 42.302998  </gml:posList>
+                <gml:posList srsDimension="2">-2.295271 42.302998  -2.295194 42.303002  -2.295153 42.303232  -2.295253 42.303234  -2.295274 42.303128  -2.295295 42.303022  -2.295271 42.302998  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4203,7 +4203,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.294843 42.302695  -2.294838 42.302785  -2.294947 42.302786  -2.294948 42.302696  -2.294843 42.302695  </gml:posList>
+                <gml:posList srsDimension="2">-2.294843 42.302695  -2.294838 42.302785  -2.294947 42.302786  -2.294948 42.302696  -2.294896 42.302696  -2.294843 42.302695  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4224,7 +4224,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295192 42.303392  -2.295113 42.303355  -2.294941 42.303556  -2.295017 42.303588  -2.295192 42.303392  </gml:posList>
+                <gml:posList srsDimension="2">-2.295192 42.303392  -2.295113 42.303355  -2.294941 42.303556  -2.295017 42.303588  -2.295104 42.303490  -2.295192 42.303392  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4237,15 +4237,15 @@
       <ms:edificios gml:id="edificios.4098029">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.293819 42.302791 </gml:lowerCorner>
-        		<gml:upperCorner>-2.293691 42.302899 </gml:upperCorner>
+        		<gml:lowerCorner>-2.293852 42.302766 </gml:lowerCorner>
+        		<gml:upperCorner>-2.293706 42.302896 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.293819 42.302817  -2.293818 42.302816  -2.293730 42.302791  -2.293691 42.302881  -2.293778 42.302899  -2.293819 42.302817  </gml:posList>
+                <gml:posList srsDimension="2">-2.293852 42.302797  -2.293759 42.302766  -2.293706 42.302868  -2.293790 42.302892  -2.293801 42.302896  -2.293815 42.302868  -2.293852 42.302797  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4476,7 +4476,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.301991 42.314810  -2.301990 42.314882  -2.301989 42.314893  -2.302063 42.314902  -2.302070 42.314842  -2.301991 42.314810  </gml:posList>
+                <gml:posList srsDimension="2">-2.301991 42.314810  -2.301990 42.314882  -2.301989 42.314893  -2.302063 42.314902  -2.302070 42.314842  -2.302031 42.314826  -2.301991 42.314810  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4489,15 +4489,15 @@
       <ms:edificios gml:id="edificios.4098041">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.304706 42.316232 </gml:lowerCorner>
-        		<gml:upperCorner>-2.304637 42.316283 </gml:upperCorner>
+        		<gml:lowerCorner>-2.304719 42.316232 </gml:lowerCorner>
+        		<gml:upperCorner>-2.304650 42.316283 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.304706 42.316245  -2.304654 42.316232  -2.304637 42.316271  -2.304689 42.316283  -2.304706 42.316245  </gml:posList>
+                <gml:posList srsDimension="2">-2.304719 42.316245  -2.304667 42.316232  -2.304650 42.316271  -2.304702 42.316283  -2.304711 42.316264  -2.304719 42.316245  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4518,7 +4518,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305265 42.316820  -2.305227 42.316788  -2.305118 42.316711  -2.305058 42.316741  -2.305178 42.316826  -2.305204 42.316856  -2.305239 42.316836  -2.305240 42.316833  -2.305265 42.316820  </gml:posList>
+                <gml:posList srsDimension="2">-2.305265 42.316820  -2.305227 42.316788  -2.305213 42.316779  -2.305118 42.316711  -2.305058 42.316741  -2.305178 42.316826  -2.305204 42.316856  -2.305239 42.316836  -2.305240 42.316833  -2.305265 42.316820  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4573,15 +4573,15 @@
       <ms:edificios gml:id="edificios.4098045">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.308262 42.315645 </gml:lowerCorner>
-        		<gml:upperCorner>-2.308200 42.315677 </gml:upperCorner>
+        		<gml:lowerCorner>-2.308270 42.315641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.308207 42.315672 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.308257 42.315677  -2.308262 42.315649  -2.308203 42.315645  -2.308200 42.315672  -2.308257 42.315677  </gml:posList>
+                <gml:posList srsDimension="2">-2.308265 42.315672  -2.308270 42.315644  -2.308210 42.315641  -2.308207 42.315667  -2.308236 42.315670  -2.308265 42.315672  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4696,27 +4696,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098051">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.336763 42.306223 </gml:lowerCorner>
-        		<gml:upperCorner>-2.336648 42.306312 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.336747 42.306232  -2.336648 42.306223  -2.336648 42.306267  -2.336657 42.306312  -2.336763 42.306284  -2.336753 42.306259  -2.336747 42.306232  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santa Cecilia</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4098052">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -4749,7 +4728,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359768 42.246436  -2.359846 42.246472  -2.359874 42.246445  -2.359895 42.246424  -2.359883 42.246416  -2.359791 42.246376  -2.359743 42.246424  -2.359768 42.246436  </gml:posList>
+                <gml:posList srsDimension="2">-2.359768 42.246436  -2.359790 42.246446  -2.359846 42.246472  -2.359874 42.246445  -2.359895 42.246424  -2.359883 42.246416  -2.359837 42.246396  -2.359791 42.246376  -2.359743 42.246424  -2.359768 42.246436  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4951,15 +4930,15 @@
       <ms:edificios gml:id="edificios.4098063">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291222 42.301711 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291130 42.301804 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291248 42.301692 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291126 42.301795 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291173 42.301802  -2.291222 42.301798  -2.291211 42.301711  -2.291130 42.301716  -2.291141 42.301804  -2.291173 42.301802  </gml:posList>
+                <gml:posList srsDimension="2">-2.291172 42.301793  -2.291248 42.301788  -2.291240 42.301692  -2.291126 42.301694  -2.291140 42.301795  -2.291172 42.301793  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4972,15 +4951,15 @@
       <ms:edificios gml:id="edificios.4098064">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291022 42.302649 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290919 42.302748 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291037 42.302638 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290934 42.302737 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290919 42.302662  -2.290939 42.302730  -2.290943 42.302748  -2.291022 42.302736  -2.291017 42.302717  -2.290997 42.302649  -2.290919 42.302662  </gml:posList>
+                <gml:posList srsDimension="2">-2.290934 42.302650  -2.290953 42.302718  -2.290958 42.302737  -2.291037 42.302724  -2.291032 42.302706  -2.291012 42.302638  -2.290973 42.302644  -2.290934 42.302650  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5085,7 +5064,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359579 42.246671  -2.359467 42.246633  -2.359437 42.246688  -2.359554 42.246721  -2.359579 42.246671  </gml:posList>
+                <gml:posList srsDimension="2">-2.359579 42.246671  -2.359523 42.246652  -2.359467 42.246633  -2.359437 42.246688  -2.359554 42.246721  -2.359579 42.246671  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5238,27 +5217,6 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098077">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.337055 42.305725 </gml:lowerCorner>
-        		<gml:upperCorner>-2.336957 42.305821 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.337022 42.305725  -2.336963 42.305735  -2.336957 42.305746  -2.336969 42.305821  -2.337055 42.305804  -2.337040 42.305762  -2.337022 42.305725  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santa Cecilia</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -5421,7 +5379,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.356468 42.244456  -2.356359 42.244345  -2.356340 42.244356  -2.356289 42.244384  -2.356399 42.244494  -2.356468 42.244456  </gml:posList>
+                <gml:posList srsDimension="2">-2.356468 42.244456  -2.356427 42.244414  -2.356359 42.244345  -2.356340 42.244356  -2.356289 42.244384  -2.356399 42.244494  -2.356468 42.244456  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5442,7 +5400,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.356340 42.244356  -2.356299 42.244314  -2.356245 42.244344  -2.356289 42.244384  -2.356340 42.244356  </gml:posList>
+                <gml:posList srsDimension="2">-2.356340 42.244356  -2.356320 42.244335  -2.356299 42.244314  -2.356245 42.244344  -2.356289 42.244384  -2.356340 42.244356  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5455,15 +5413,15 @@
       <ms:edificios gml:id="edificios.4098087">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342720 42.272030 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342608 42.272108 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342734 42.272033 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342622 42.272111 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342608 42.272053  -2.342652 42.272108  -2.342720 42.272078  -2.342677 42.272030  -2.342608 42.272053  </gml:posList>
+                <gml:posList srsDimension="2">-2.342622 42.272056  -2.342644 42.272084  -2.342666 42.272111  -2.342734 42.272081  -2.342691 42.272033  -2.342622 42.272056  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5484,7 +5442,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.343126 42.271751  -2.343092 42.271743  -2.343044 42.271735  -2.343019 42.271828  -2.343092 42.271842  -2.343126 42.271751  </gml:posList>
+                <gml:posList srsDimension="2">-2.343126 42.271751  -2.343092 42.271743  -2.343044 42.271735  -2.343019 42.271828  -2.343092 42.271842  -2.343109 42.271796  -2.343126 42.271751  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5505,28 +5463,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.343657 42.271754  -2.343740 42.271757  -2.343743 42.271731  -2.343744 42.271720  -2.343745 42.271710  -2.343661 42.271706  -2.343660 42.271720  -2.343657 42.271754  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>El Collado</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098090">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.343740 42.271754 </gml:lowerCorner>
-        		<gml:upperCorner>-2.343654 42.271793 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.343657 42.271754  -2.343657 42.271756  -2.343655 42.271782  -2.343654 42.271790  -2.343703 42.271792  -2.343737 42.271793  -2.343739 42.271766  -2.343740 42.271757  -2.343657 42.271754  </gml:posList>
+                <gml:posList srsDimension="2">-2.343657 42.271754  -2.343740 42.271757  -2.343743 42.271731  -2.343744 42.271720  -2.343745 42.271710  -2.343703 42.271708  -2.343661 42.271706  -2.343660 42.271720  -2.343657 42.271754  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5547,7 +5484,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342178 42.271817  -2.342179 42.271820  -2.342179 42.271821  -2.342203 42.271889  -2.342268 42.271877  -2.342283 42.271874  -2.342259 42.271804  -2.342258 42.271802  -2.342258 42.271801  -2.342178 42.271816  -2.342178 42.271817  </gml:posList>
+                <gml:posList srsDimension="2">-2.342178 42.271817  -2.342179 42.271820  -2.342179 42.271821  -2.342203 42.271889  -2.342268 42.271877  -2.342283 42.271874  -2.342271 42.271839  -2.342259 42.271804  -2.342258 42.271802  -2.342258 42.271801  -2.342178 42.271816  -2.342178 42.271817  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5568,7 +5505,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342496 42.271931  -2.342624 42.271913  -2.342624 42.271856  -2.342497 42.271875  -2.342496 42.271931  </gml:posList>
+                <gml:posList srsDimension="2">-2.342496 42.271931  -2.342624 42.271913  -2.342624 42.271884  -2.342624 42.271856  -2.342497 42.271875  -2.342496 42.271931  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5581,15 +5518,15 @@
       <ms:edificios gml:id="edificios.4098093">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.294711 42.300351 </gml:lowerCorner>
-        		<gml:upperCorner>-2.294535 42.300465 </gml:upperCorner>
+        		<gml:lowerCorner>-2.294742 42.300308 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294565 42.300422 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.294535 42.300381  -2.294565 42.300465  -2.294711 42.300435  -2.294681 42.300351  -2.294535 42.300381  </gml:posList>
+                <gml:posList srsDimension="2">-2.294565 42.300338  -2.294596 42.300422  -2.294742 42.300393  -2.294711 42.300308  -2.294565 42.300338  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5875,15 +5812,15 @@
       <ms:edificios gml:id="edificios.4098107">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291309 42.302058 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291234 42.302101 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291313 42.302047 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291238 42.302090 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291306 42.302101  -2.291309 42.302065  -2.291239 42.302058  -2.291234 42.302100  -2.291306 42.302101  </gml:posList>
+                <gml:posList srsDimension="2">-2.291310 42.302090  -2.291313 42.302054  -2.291243 42.302047  -2.291238 42.302088  -2.291310 42.302090  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5938,15 +5875,15 @@
       <ms:edificios gml:id="edificios.4098110">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.302483 42.314848 </gml:lowerCorner>
-        		<gml:upperCorner>-2.302407 42.314941 </gml:upperCorner>
+        		<gml:lowerCorner>-2.302492 42.314848 </gml:lowerCorner>
+        		<gml:upperCorner>-2.302416 42.314941 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.302474 42.314941  -2.302483 42.314848  -2.302411 42.314848  -2.302407 42.314939  -2.302474 42.314941  </gml:posList>
+                <gml:posList srsDimension="2">-2.302483 42.314941  -2.302492 42.314848  -2.302420 42.314848  -2.302416 42.314939  -2.302483 42.314941  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5959,15 +5896,15 @@
       <ms:edificios gml:id="edificios.4098111">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.302657 42.314696 </gml:lowerCorner>
-        		<gml:upperCorner>-2.302588 42.314748 </gml:upperCorner>
+        		<gml:lowerCorner>-2.302666 42.314694 </gml:lowerCorner>
+        		<gml:upperCorner>-2.302597 42.314747 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.302657 42.314748  -2.302656 42.314696  -2.302588 42.314698  -2.302593 42.314748  -2.302657 42.314748  </gml:posList>
+                <gml:posList srsDimension="2">-2.302666 42.314747  -2.302665 42.314694  -2.302597 42.314696  -2.302602 42.314746  -2.302666 42.314747  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5980,15 +5917,15 @@
       <ms:edificios gml:id="edificios.4098112">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.304060 42.316754 </gml:lowerCorner>
-        		<gml:upperCorner>-2.303983 42.316857 </gml:upperCorner>
+        		<gml:lowerCorner>-2.304075 42.316746 </gml:lowerCorner>
+        		<gml:upperCorner>-2.303994 42.316838 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303983 42.316766  -2.304004 42.316857  -2.304060 42.316848  -2.304039 42.316754  -2.303983 42.316766  </gml:posList>
+                <gml:posList srsDimension="2">-2.303994 42.316754  -2.304012 42.316838  -2.304039 42.316834  -2.304075 42.316828  -2.304056 42.316746  -2.303994 42.316754  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6009,7 +5946,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306814 42.316622  -2.306797 42.316600  -2.306751 42.316618  -2.306713 42.316565  -2.306686 42.316576  -2.306673 42.316559  -2.306611 42.316584  -2.306626 42.316605  -2.306595 42.316617  -2.306652 42.316691  -2.306814 42.316622  </gml:posList>
+                <gml:posList srsDimension="2">-2.306814 42.316622  -2.306797 42.316600  -2.306751 42.316618  -2.306713 42.316565  -2.306686 42.316576  -2.306673 42.316559  -2.306611 42.316584  -2.306626 42.316605  -2.306595 42.316617  -2.306624 42.316654  -2.306652 42.316691  -2.306814 42.316622  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6303,7 +6240,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.307882 42.297092  -2.307865 42.297107  -2.307847 42.297124  -2.307868 42.297155  -2.307924 42.297176  -2.307949 42.297152  -2.307929 42.297149  -2.307936 42.297132  -2.307948 42.297097  -2.307904 42.297081  -2.307882 42.297092  </gml:posList>
+                <gml:posList srsDimension="2">-2.307882 42.297092  -2.307865 42.297107  -2.307847 42.297124  -2.307868 42.297155  -2.307924 42.297176  -2.307949 42.297152  -2.307929 42.297149  -2.307936 42.297132  -2.307948 42.297097  -2.307926 42.297089  -2.307904 42.297081  -2.307882 42.297092  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7101,7 +7038,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342869 42.273769  -2.343003 42.273819  -2.343033 42.273777  -2.342884 42.273736  -2.342869 42.273769  </gml:posList>
+                <gml:posList srsDimension="2">-2.342869 42.273769  -2.343003 42.273819  -2.343033 42.273777  -2.342934 42.273750  -2.342884 42.273736  -2.342869 42.273769  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7114,15 +7051,15 @@
       <ms:edificios gml:id="edificios.4098166">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291115 42.301585 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291052 42.301634 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291112 42.301561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291048 42.301610 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291105 42.301634  -2.291115 42.301606  -2.291064 42.301585  -2.291052 42.301624  -2.291105 42.301634  </gml:posList>
+                <gml:posList srsDimension="2">-2.291101 42.301610  -2.291112 42.301566  -2.291060 42.301561  -2.291048 42.301600  -2.291101 42.301610  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7135,15 +7072,15 @@
       <ms:edificios gml:id="edificios.4098167">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290703 42.301463 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290520 42.301612 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290705 42.301440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290522 42.301588 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290685 42.301510  -2.290650 42.301513  -2.290639 42.301463  -2.290591 42.301469  -2.290520 42.301477  -2.290537 42.301572  -2.290614 42.301563  -2.290621 42.301612  -2.290703 42.301596  -2.290685 42.301510  </gml:posList>
+                <gml:posList srsDimension="2">-2.290687 42.301487  -2.290651 42.301490  -2.290640 42.301440  -2.290592 42.301446  -2.290522 42.301453  -2.290538 42.301549  -2.290550 42.301548  -2.290556 42.301588  -2.290705 42.301573  -2.290687 42.301487  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7156,15 +7093,15 @@
       <ms:edificios gml:id="edificios.4098168">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290243 42.301601 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290069 42.301694 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290250 42.301572 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290076 42.301665 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290243 42.301608  -2.290069 42.301601  -2.290069 42.301692  -2.290139 42.301694  -2.290141 42.301679  -2.290237 42.301680  -2.290243 42.301608  </gml:posList>
+                <gml:posList srsDimension="2">-2.290250 42.301579  -2.290076 42.301572  -2.290076 42.301663  -2.290146 42.301665  -2.290148 42.301650  -2.290244 42.301651  -2.290250 42.301579  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7177,15 +7114,15 @@
       <ms:edificios gml:id="edificios.4098169">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290191 42.302002 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289979 42.302216 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290193 42.301985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289981 42.302200 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290191 42.302031  -2.290139 42.302002  -2.290015 42.302063  -2.289979 42.302148  -2.290101 42.302216  -2.290135 42.302205  -2.290124 42.302180  -2.290094 42.302183  -2.290028 42.302114  -2.290191 42.302031  </gml:posList>
+                <gml:posList srsDimension="2">-2.290193 42.302015  -2.290140 42.301985  -2.290017 42.302046  -2.289981 42.302132  -2.290103 42.302200  -2.290137 42.302188  -2.290125 42.302163  -2.290096 42.302166  -2.290030 42.302097  -2.290193 42.302015  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7198,15 +7135,15 @@
       <ms:edificios gml:id="edificios.4098170">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290232 42.302130 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290166 42.302186 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290234 42.302114 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290168 42.302170 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290212 42.302130  -2.290166 42.302140  -2.290179 42.302186  -2.290232 42.302174  -2.290212 42.302130  </gml:posList>
+                <gml:posList srsDimension="2">-2.290214 42.302114  -2.290168 42.302123  -2.290181 42.302170  -2.290207 42.302164  -2.290234 42.302157  -2.290214 42.302114  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7219,15 +7156,15 @@
       <ms:edificios gml:id="edificios.4098171">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291202 42.301867 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291080 42.302007 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291207 42.301856 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291084 42.301995 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291193 42.302002  -2.291202 42.301926  -2.291173 42.301924  -2.291173 42.301914  -2.291115 42.301909  -2.291133 42.301891  -2.291080 42.301867  -2.291081 42.301945  -2.291101 42.301948  -2.291099 42.302004  -2.291163 42.302007  -2.291166 42.302002  -2.291193 42.302002  </gml:posList>
+                <gml:posList srsDimension="2">-2.291197 42.301990  -2.291207 42.301914  -2.291177 42.301913  -2.291178 42.301902  -2.291119 42.301897  -2.291137 42.301879  -2.291084 42.301856  -2.291085 42.301933  -2.291106 42.301936  -2.291103 42.301993  -2.291168 42.301995  -2.291171 42.301990  -2.291197 42.301990  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7269,28 +7206,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289875 42.302836  -2.289748 42.302792  -2.289684 42.302873  -2.289806 42.302922  -2.289875 42.302836  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098174">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.289539 42.302733 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289463 42.302834 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289472 42.302733  -2.289463 42.302830  -2.289525 42.302834  -2.289539 42.302737  -2.289472 42.302733  </gml:posList>
+                <gml:posList srsDimension="2">-2.289875 42.302836  -2.289748 42.302792  -2.289716 42.302832  -2.289684 42.302873  -2.289806 42.302922  -2.289875 42.302836  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7332,7 +7248,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289637 42.303137  -2.289571 42.303228  -2.289641 42.303252  -2.289705 42.303169  -2.289637 42.303137  </gml:posList>
+                <gml:posList srsDimension="2">-2.289637 42.303137  -2.289571 42.303228  -2.289606 42.303240  -2.289641 42.303252  -2.289705 42.303169  -2.289637 42.303137  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7366,15 +7282,15 @@
       <ms:edificios gml:id="edificios.4098178">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.302979 42.314322 </gml:lowerCorner>
-        		<gml:upperCorner>-2.302825 42.314484 </gml:upperCorner>
+        		<gml:lowerCorner>-2.302992 42.314324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.302838 42.314485 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.302979 42.314484  -2.302973 42.314325  -2.302833 42.314322  -2.302825 42.314479  -2.302979 42.314484  </gml:posList>
+                <gml:posList srsDimension="2">-2.302992 42.314485  -2.302986 42.314326  -2.302846 42.314324  -2.302838 42.314480  -2.302992 42.314485  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7542,7 +7458,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306742 42.317597  -2.306662 42.317586  -2.306580 42.317793  -2.306662 42.317808  -2.306742 42.317597  </gml:posList>
+                <gml:posList srsDimension="2">-2.306742 42.317597  -2.306662 42.317586  -2.306621 42.317689  -2.306580 42.317793  -2.306662 42.317808  -2.306742 42.317597  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7563,7 +7479,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306209 42.317843  -2.306198 42.317935  -2.306269 42.317940  -2.306281 42.317850  -2.306281 42.317848  -2.306209 42.317843  </gml:posList>
+                <gml:posList srsDimension="2">-2.306209 42.317843  -2.306198 42.317935  -2.306234 42.317937  -2.306269 42.317940  -2.306281 42.317850  -2.306281 42.317848  -2.306209 42.317843  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7584,7 +7500,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306491 42.317882  -2.306503 42.317840  -2.306494 42.317839  -2.306442 42.317833  -2.306427 42.317957  -2.306432 42.317958  -2.306468 42.317963  -2.306491 42.317882  </gml:posList>
+                <gml:posList srsDimension="2">-2.306491 42.317882  -2.306503 42.317840  -2.306494 42.317839  -2.306468 42.317836  -2.306442 42.317833  -2.306427 42.317957  -2.306432 42.317958  -2.306468 42.317963  -2.306491 42.317882  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7605,7 +7521,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306269 42.317940  -2.306369 42.317951  -2.306383 42.317826  -2.306388 42.317779  -2.306294 42.317764  -2.306290 42.317778  -2.306281 42.317848  -2.306281 42.317850  -2.306269 42.317940  </gml:posList>
+                <gml:posList srsDimension="2">-2.306269 42.317940  -2.306319 42.317945  -2.306369 42.317951  -2.306383 42.317826  -2.306388 42.317779  -2.306294 42.317764  -2.306290 42.317778  -2.306281 42.317848  -2.306281 42.317850  -2.306269 42.317940  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7765,15 +7681,15 @@
       <ms:edificios gml:id="edificios.4098197">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290791 42.301930 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290662 42.302024 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290796 42.301925 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290667 42.302019 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290662 42.301963  -2.290749 42.302024  -2.290791 42.301990  -2.290704 42.301930  -2.290662 42.301963  </gml:posList>
+                <gml:posList srsDimension="2">-2.290667 42.301958  -2.290754 42.302019  -2.290796 42.301985  -2.290709 42.301925  -2.290688 42.301942  -2.290667 42.301958  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8101,15 +8017,15 @@
       <ms:edificios gml:id="edificios.4098213">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.358538 42.280878 </gml:lowerCorner>
-        		<gml:upperCorner>-2.358451 42.280938 </gml:upperCorner>
+        		<gml:lowerCorner>-2.358544 42.280868 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358457 42.280929 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.358537 42.280878  -2.358481 42.280878  -2.358451 42.280878  -2.358454 42.280938  -2.358538 42.280936  -2.358537 42.280878  </gml:posList>
+                <gml:posList srsDimension="2">-2.358543 42.280868  -2.358515 42.280868  -2.358487 42.280869  -2.358457 42.280869  -2.358460 42.280929  -2.358544 42.280926  -2.358543 42.280868  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8458,15 +8374,15 @@
       <ms:edificios gml:id="edificios.4098230">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342769 42.273827 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342642 42.273912 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342786 42.273805 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342658 42.273890 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342769 42.273857  -2.342735 42.273827  -2.342728 42.273831  -2.342642 42.273884  -2.342674 42.273912  -2.342769 42.273857  </gml:posList>
+                <gml:posList srsDimension="2">-2.342786 42.273835  -2.342751 42.273805  -2.342744 42.273810  -2.342658 42.273862  -2.342690 42.273890  -2.342726 42.273869  -2.342786 42.273835  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8479,15 +8395,15 @@
       <ms:edificios gml:id="edificios.4098231">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342728 42.273797 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342593 42.273884 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342744 42.273775 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342609 42.273862 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342728 42.273831  -2.342676 42.273797  -2.342593 42.273865  -2.342642 42.273884  -2.342728 42.273831  </gml:posList>
+                <gml:posList srsDimension="2">-2.342744 42.273810  -2.342692 42.273775  -2.342609 42.273844  -2.342658 42.273862  -2.342744 42.273810  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8500,15 +8416,15 @@
       <ms:edificios gml:id="edificios.4098232">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342828 42.273796 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342735 42.273867 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342844 42.273774 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342751 42.273845 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342828 42.273833  -2.342821 42.273827  -2.342786 42.273796  -2.342735 42.273827  -2.342769 42.273857  -2.342781 42.273867  -2.342828 42.273833  </gml:posList>
+                <gml:posList srsDimension="2">-2.342844 42.273811  -2.342837 42.273806  -2.342803 42.273774  -2.342751 42.273805  -2.342786 42.273835  -2.342797 42.273845  -2.342844 42.273811  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8529,7 +8445,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306442 42.317833  -2.306383 42.317826  -2.306369 42.317951  -2.306427 42.317957  -2.306442 42.317833  </gml:posList>
+                <gml:posList srsDimension="2">-2.306442 42.317833  -2.306413 42.317830  -2.306383 42.317826  -2.306369 42.317951  -2.306427 42.317957  -2.306442 42.317833  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8550,7 +8466,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306509 42.317946  -2.306502 42.317961  -2.306506 42.317962  -2.306586 42.317979  -2.306612 42.317920  -2.306533 42.317902  -2.306529 42.317901  -2.306509 42.317946  </gml:posList>
+                <gml:posList srsDimension="2">-2.306509 42.317946  -2.306502 42.317961  -2.306506 42.317962  -2.306586 42.317979  -2.306612 42.317920  -2.306533 42.317902  -2.306529 42.317901  -2.306513 42.317935  -2.306509 42.317946  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8571,7 +8487,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306653 42.318061  -2.306610 42.318050  -2.306580 42.318042  -2.306575 42.318053  -2.306564 42.318077  -2.306546 42.318112  -2.306611 42.318129  -2.306653 42.318061  </gml:posList>
+                <gml:posList srsDimension="2">-2.306653 42.318061  -2.306610 42.318050  -2.306580 42.318042  -2.306575 42.318053  -2.306564 42.318077  -2.306546 42.318112  -2.306579 42.318121  -2.306611 42.318129  -2.306653 42.318061  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8592,7 +8508,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306680 42.318000  -2.306586 42.317979  -2.306506 42.317962  -2.306493 42.318005  -2.306478 42.318067  -2.306564 42.318077  -2.306575 42.318053  -2.306580 42.318042  -2.306610 42.318050  -2.306653 42.318061  -2.306660 42.318063  -2.306680 42.318000  </gml:posList>
+                <gml:posList srsDimension="2">-2.306680 42.318000  -2.306586 42.317979  -2.306506 42.317962  -2.306493 42.318005  -2.306486 42.318036  -2.306478 42.318067  -2.306564 42.318077  -2.306575 42.318053  -2.306580 42.318042  -2.306610 42.318050  -2.306653 42.318061  -2.306660 42.318063  -2.306680 42.318000  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8634,7 +8550,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306312 42.317987  -2.306288 42.318041  -2.306267 42.318091  -2.306363 42.318115  -2.306409 42.318010  -2.306312 42.317987  </gml:posList>
+                <gml:posList srsDimension="2">-2.306312 42.317987  -2.306288 42.318041  -2.306267 42.318091  -2.306363 42.318115  -2.306409 42.318010  -2.306361 42.317999  -2.306312 42.317987  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8655,7 +8571,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306288 42.318041  -2.306239 42.318030  -2.306213 42.318090  -2.306262 42.318102  -2.306267 42.318091  -2.306288 42.318041  </gml:posList>
+                <gml:posList srsDimension="2">-2.306288 42.318041  -2.306239 42.318030  -2.306213 42.318090  -2.306237 42.318096  -2.306262 42.318102  -2.306267 42.318091  -2.306288 42.318041  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8676,7 +8592,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306246 42.318015  -2.306199 42.318003  -2.306164 42.318077  -2.306213 42.318090  -2.306239 42.318030  -2.306246 42.318015  </gml:posList>
+                <gml:posList srsDimension="2">-2.306246 42.318015  -2.306199 42.318003  -2.306164 42.318077  -2.306189 42.318083  -2.306213 42.318090  -2.306239 42.318030  -2.306246 42.318015  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8697,7 +8613,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306200 42.318000  -2.306152 42.317986  -2.306118 42.318065  -2.306164 42.318077  -2.306199 42.318003  -2.306200 42.318000  </gml:posList>
+                <gml:posList srsDimension="2">-2.306200 42.318000  -2.306152 42.317986  -2.306118 42.318065  -2.306141 42.318071  -2.306164 42.318077  -2.306199 42.318003  -2.306200 42.318000  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8739,7 +8655,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.308059 42.316486  -2.308029 42.316414  -2.307853 42.316459  -2.307878 42.316526  -2.308059 42.316486  </gml:posList>
+                <gml:posList srsDimension="2">-2.308059 42.316486  -2.308029 42.316414  -2.307886 42.316451  -2.307853 42.316459  -2.307878 42.316526  -2.308059 42.316486  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8752,15 +8668,15 @@
       <ms:edificios gml:id="edificios.4098244">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290195 42.344372 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290040 42.344460 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290227 42.344372 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290072 42.344461 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290195 42.344397  -2.290161 42.344372  -2.290110 42.344404  -2.290083 42.344380  -2.290040 42.344407  -2.290091 42.344460  -2.290112 42.344448  -2.290195 42.344397  </gml:posList>
+                <gml:posList srsDimension="2">-2.290227 42.344397  -2.290194 42.344372  -2.290168 42.344388  -2.290142 42.344404  -2.290116 42.344380  -2.290072 42.344407  -2.290124 42.344461  -2.290144 42.344448  -2.290227 42.344397  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8773,15 +8689,15 @@
       <ms:edificios gml:id="edificios.4098245">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290311 42.344234 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290075 42.344397 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290343 42.344234 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290108 42.344397 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290311 42.344325  -2.290167 42.344234  -2.290075 42.344290  -2.290161 42.344372  -2.290195 42.344397  -2.290229 42.344376  -2.290311 42.344325  </gml:posList>
+                <gml:posList srsDimension="2">-2.290343 42.344325  -2.290199 42.344234  -2.290154 42.344262  -2.290108 42.344291  -2.290194 42.344372  -2.290227 42.344397  -2.290261 42.344376  -2.290343 42.344325  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8794,15 +8710,15 @@
       <ms:edificios gml:id="edificios.4098246">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290022 42.344126 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289713 42.344335 </gml:upperCorner>
+        		<gml:lowerCorner>-2.290032 42.344127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289723 42.344336 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289719 42.344275  -2.289753 42.344304  -2.289790 42.344280  -2.289836 42.344318  -2.289855 42.344335  -2.290022 42.344218  -2.290008 42.344205  -2.289954 42.344159  -2.289897 42.344191  -2.289877 42.344172  -2.289822 42.344126  -2.289713 42.344197  -2.289767 42.344243  -2.289719 42.344275  </gml:posList>
+                <gml:posList srsDimension="2">-2.289729 42.344276  -2.289763 42.344306  -2.289801 42.344281  -2.289846 42.344320  -2.289865 42.344336  -2.290032 42.344219  -2.290019 42.344207  -2.290002 42.344193  -2.289964 42.344161  -2.289907 42.344193  -2.289887 42.344173  -2.289832 42.344127  -2.289723 42.344198  -2.289777 42.344244  -2.289729 42.344276  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8886,7 +8802,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.287889 42.343043  -2.287925 42.343065  -2.288004 42.342994  -2.288023 42.342977  -2.287800 42.342855  -2.287701 42.342943  -2.287757 42.342977  -2.287757 42.343006  -2.287760 42.343008  -2.287835 42.343052  -2.287841 42.343056  -2.287844 42.343058  -2.287872 42.343032  -2.287889 42.343043  </gml:posList>
+                <gml:posList srsDimension="2">-2.287889 42.343043  -2.287925 42.343065  -2.288004 42.342994  -2.288023 42.342977  -2.287900 42.342909  -2.287800 42.342855  -2.287701 42.342943  -2.287757 42.342977  -2.287757 42.343006  -2.287760 42.343008  -2.287835 42.343052  -2.287841 42.343056  -2.287844 42.343058  -2.287872 42.343032  -2.287889 42.343043  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8983,15 +8899,15 @@
       <ms:edificios gml:id="edificios.4098255">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.282183 42.339534 </gml:lowerCorner>
-        		<gml:upperCorner>-2.282036 42.339661 </gml:upperCorner>
+        		<gml:lowerCorner>-2.282183 42.339536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.282057 42.339661 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.282183 42.339546  -2.282083 42.339536  -2.282059 42.339534  -2.282036 42.339647  -2.282160 42.339661  -2.282183 42.339546  </gml:posList>
+                <gml:posList srsDimension="2">-2.282183 42.339546  -2.282083 42.339536  -2.282070 42.339593  -2.282057 42.339649  -2.282160 42.339661  -2.282183 42.339546  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9012,7 +8928,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.282292 42.339092  -2.282277 42.338899  -2.282164 42.338904  -2.282175 42.339048  -2.282069 42.339052  -2.282072 42.339100  -2.282292 42.339092  </gml:posList>
+                <gml:posList srsDimension="2">-2.282292 42.339092  -2.282277 42.338899  -2.282164 42.338904  -2.282170 42.338976  -2.282175 42.339048  -2.282069 42.339052  -2.282072 42.339100  -2.282292 42.339092  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9243,7 +9159,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.314871 42.293639  -2.314792 42.293619  -2.314741 42.293732  -2.314824 42.293753  -2.314871 42.293639  </gml:posList>
+                <gml:posList srsDimension="2">-2.314871 42.293639  -2.314792 42.293619  -2.314766 42.293676  -2.314741 42.293732  -2.314824 42.293753  -2.314871 42.293639  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9264,7 +9180,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.361748 42.246246  -2.361697 42.246229  -2.361690 42.246240  -2.361668 42.246234  -2.361661 42.246254  -2.361680 42.246261  -2.361672 42.246282  -2.361721 42.246301  -2.361748 42.246246  </gml:posList>
+                <gml:posList srsDimension="2">-2.361748 42.246246  -2.361722 42.246238  -2.361697 42.246229  -2.361690 42.246240  -2.361668 42.246234  -2.361661 42.246254  -2.361680 42.246261  -2.361672 42.246282  -2.361721 42.246301  -2.361748 42.246246  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9747,7 +9663,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.307949 42.297152  -2.308008 42.297161  -2.308019 42.297113  -2.307948 42.297097  -2.307936 42.297132  -2.307929 42.297149  -2.307949 42.297152  </gml:posList>
+                <gml:posList srsDimension="2">-2.307949 42.297152  -2.308008 42.297161  -2.308019 42.297113  -2.307984 42.297105  -2.307948 42.297097  -2.307936 42.297132  -2.307929 42.297149  -2.307949 42.297152  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9936,7 +9852,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.309129 42.297792  -2.309068 42.297808  -2.309103 42.297865  -2.309158 42.297840  -2.309129 42.297792  </gml:posList>
+                <gml:posList srsDimension="2">-2.309129 42.297792  -2.309099 42.297800  -2.309068 42.297808  -2.309103 42.297865  -2.309158 42.297840  -2.309129 42.297792  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10117,15 +10033,15 @@
       <ms:edificios gml:id="edificios.4098309">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342650 42.273070 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342501 42.273196 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342660 42.273085 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342511 42.273212 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342558 42.273070  -2.342501 42.273149  -2.342514 42.273153  -2.342612 42.273196  -2.342650 42.273161  -2.342602 42.273127  -2.342611 42.273114  -2.342584 42.273082  -2.342569 42.273075  -2.342565 42.273074  -2.342558 42.273070  </gml:posList>
+                <gml:posList srsDimension="2">-2.342567 42.273085  -2.342511 42.273164  -2.342523 42.273168  -2.342621 42.273212  -2.342660 42.273176  -2.342612 42.273142  -2.342621 42.273129  -2.342593 42.273097  -2.342579 42.273090  -2.342575 42.273089  -2.342567 42.273085  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10138,15 +10054,15 @@
       <ms:edificios gml:id="edificios.4098310">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.342135 42.272909 </gml:lowerCorner>
-        		<gml:upperCorner>-2.342047 42.272991 </gml:upperCorner>
+        		<gml:lowerCorner>-2.342148 42.272931 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342063 42.273006 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.342067 42.272909  -2.342047 42.272971  -2.342054 42.272973  -2.342105 42.272991  -2.342132 42.272930  -2.342135 42.272924  -2.342067 42.272909  </gml:posList>
+                <gml:posList srsDimension="2">-2.342080 42.272931  -2.342063 42.272985  -2.342066 42.272999  -2.342121 42.273006  -2.342148 42.272943  -2.342080 42.272931  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10201,15 +10117,15 @@
       <ms:edificios gml:id="edificios.4098313">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.281913 42.338890 </gml:lowerCorner>
-        		<gml:upperCorner>-2.281682 42.339056 </gml:upperCorner>
+        		<gml:lowerCorner>-2.281933 42.338890 </gml:lowerCorner>
+        		<gml:upperCorner>-2.281702 42.339056 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.281682 42.338928  -2.281740 42.339056  -2.281913 42.339023  -2.281870 42.338890  -2.281682 42.338928  </gml:posList>
+                <gml:posList srsDimension="2">-2.281702 42.338928  -2.281730 42.338992  -2.281759 42.339056  -2.281933 42.339023  -2.281890 42.338890  -2.281702 42.338928  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10222,15 +10138,15 @@
       <ms:edificios gml:id="edificios.4098314">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.281650 42.338533 </gml:lowerCorner>
-        		<gml:upperCorner>-2.281256 42.338826 </gml:upperCorner>
+        		<gml:lowerCorner>-2.281664 42.338528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.281270 42.338820 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.281650 42.338726  -2.281535 42.338613  -2.281400 42.338533  -2.281256 42.338636  -2.281394 42.338716  -2.281501 42.338826  -2.281650 42.338726  </gml:posList>
+                <gml:posList srsDimension="2">-2.281664 42.338721  -2.281549 42.338608  -2.281414 42.338528  -2.281270 42.338631  -2.281409 42.338710  -2.281462 42.338765  -2.281516 42.338820  -2.281664 42.338721  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10243,15 +10159,15 @@
       <ms:edificios gml:id="edificios.4098315">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.281224 42.338483 </gml:lowerCorner>
-        		<gml:upperCorner>-2.280970 42.338621 </gml:upperCorner>
+        		<gml:lowerCorner>-2.281231 42.338476 </gml:lowerCorner>
+        		<gml:upperCorner>-2.280978 42.338614 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.281195 42.338621  -2.281224 42.338588  -2.280992 42.338483  -2.280970 42.338518  -2.281195 42.338621  </gml:posList>
+                <gml:posList srsDimension="2">-2.281202 42.338614  -2.281231 42.338581  -2.281116 42.338529  -2.281000 42.338476  -2.280978 42.338511  -2.281202 42.338614  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10264,36 +10180,15 @@
       <ms:edificios gml:id="edificios.4098316">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.282713 42.338482 </gml:lowerCorner>
-        		<gml:upperCorner>-2.282551 42.338602 </gml:upperCorner>
+        		<gml:lowerCorner>-2.282722 42.338479 </gml:lowerCorner>
+        		<gml:upperCorner>-2.282560 42.338598 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.282648 42.338602  -2.282713 42.338523  -2.282611 42.338482  -2.282551 42.338561  -2.282648 42.338602  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098317">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.269135 42.347186 </gml:lowerCorner>
-        		<gml:upperCorner>-2.269022 42.347306 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.269135 42.347187  -2.269049 42.347186  -2.269024 42.347186  -2.269022 42.347306  -2.269134 42.347306  -2.269135 42.347187  </gml:posList>
+                <gml:posList srsDimension="2">-2.282658 42.338598  -2.282722 42.338519  -2.282621 42.338479  -2.282560 42.338558  -2.282609 42.338578  -2.282658 42.338598  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10314,7 +10209,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.269134 42.347306  -2.269022 42.347306  -2.269018 42.347350  -2.269133 42.347351  -2.269134 42.347306  </gml:posList>
+                <gml:posList srsDimension="2">-2.269134 42.347306  -2.269022 42.347306  -2.269018 42.347350  -2.269076 42.347350  -2.269133 42.347351  -2.269134 42.347306  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10335,7 +10230,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290954 42.331690  -2.290912 42.331583  -2.290815 42.331601  -2.290861 42.331710  -2.290954 42.331690  </gml:posList>
+                <gml:posList srsDimension="2">-2.290954 42.331690  -2.290933 42.331636  -2.290912 42.331583  -2.290815 42.331601  -2.290861 42.331710  -2.290954 42.331690  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10356,7 +10251,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291566 42.322242  -2.291571 42.322192  -2.291419 42.322197  -2.291421 42.322243  -2.291566 42.322242  </gml:posList>
+                <gml:posList srsDimension="2">-2.291566 42.322242  -2.291571 42.322192  -2.291527 42.322194  -2.291419 42.322197  -2.291421 42.322243  -2.291566 42.322242  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10377,7 +10272,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291712 42.321854  -2.291753 42.321688  -2.291461 42.321648  -2.291398 42.321806  -2.291712 42.321854  </gml:posList>
+                <gml:posList srsDimension="2">-2.291712 42.321854  -2.291753 42.321688  -2.291461 42.321648  -2.291436 42.321710  -2.291398 42.321806  -2.291712 42.321854  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10390,15 +10285,15 @@
       <ms:edificios gml:id="edificios.4098322">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.283930 42.321282 </gml:lowerCorner>
-        		<gml:upperCorner>-2.283594 42.321651 </gml:upperCorner>
+        		<gml:lowerCorner>-2.283929 42.321303 </gml:lowerCorner>
+        		<gml:upperCorner>-2.283594 42.321672 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.283904 42.321454  -2.283776 42.321393  -2.283822 42.321340  -2.283831 42.321329  -2.283808 42.321318  -2.283733 42.321282  -2.283678 42.321346  -2.283717 42.321365  -2.283594 42.321505  -2.283749 42.321579  -2.283720 42.321613  -2.283800 42.321651  -2.283930 42.321535  -2.283862 42.321503  -2.283904 42.321454  </gml:posList>
+                <gml:posList srsDimension="2">-2.283862 42.321523  -2.283844 42.321511  -2.283878 42.321481  -2.283836 42.321460  -2.283795 42.321439  -2.283829 42.321407  -2.283783 42.321389  -2.283827 42.321343  -2.283733 42.321303  -2.283678 42.321367  -2.283716 42.321385  -2.283594 42.321526  -2.283749 42.321600  -2.283720 42.321633  -2.283800 42.321672  -2.283929 42.321556  -2.283862 42.321523  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10419,7 +10314,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.284332 42.321660  -2.284318 42.321651  -2.284240 42.321603  -2.284192 42.321643  -2.284234 42.321669  -2.284247 42.321657  -2.284299 42.321689  -2.284332 42.321660  </gml:posList>
+                <gml:posList srsDimension="2">-2.284332 42.321660  -2.284318 42.321651  -2.284279 42.321627  -2.284240 42.321603  -2.284192 42.321643  -2.284234 42.321669  -2.284247 42.321657  -2.284299 42.321689  -2.284332 42.321660  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10440,7 +10335,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.283628 42.321669  -2.283510 42.321608  -2.283339 42.321790  -2.283457 42.321851  -2.283628 42.321669  </gml:posList>
+                <gml:posList srsDimension="2">-2.283628 42.321669  -2.283569 42.321639  -2.283510 42.321608  -2.283339 42.321790  -2.283457 42.321851  -2.283628 42.321669  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10461,7 +10356,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.281358 42.323529  -2.281238 42.323621  -2.281185 42.323595  -2.281105 42.323659  -2.281203 42.323744  -2.281275 42.323692  -2.281366 42.323747  -2.281408 42.323694  -2.281376 42.323681  -2.281446 42.323604  -2.281459 42.323611  -2.281488 42.323586  -2.281358 42.323529  </gml:posList>
+                <gml:posList srsDimension="2">-2.281358 42.323529  -2.281238 42.323621  -2.281185 42.323595  -2.281105 42.323659  -2.281203 42.323744  -2.281275 42.323692  -2.281366 42.323747  -2.281408 42.323694  -2.281376 42.323681  -2.281411 42.323643  -2.281446 42.323604  -2.281459 42.323611  -2.281488 42.323586  -2.281358 42.323529  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10482,7 +10377,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.283263 42.323718  -2.283218 42.323683  -2.283139 42.323755  -2.283176 42.323788  -2.283263 42.323718  </gml:posList>
+                <gml:posList srsDimension="2">-2.283263 42.323718  -2.283218 42.323683  -2.283139 42.323755  -2.283176 42.323788  -2.283219 42.323753  -2.283263 42.323718  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10495,7 +10390,7 @@
       <ms:edificios gml:id="edificios.4098327">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.282666 42.324360 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.282681 42.324349 </gml:lowerCorner>
         		<gml:upperCorner>-2.282573 42.324427 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -10503,7 +10398,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.282621 42.324427  -2.282666 42.324399  -2.282620 42.324360  -2.282573 42.324386  -2.282621 42.324427  </gml:posList>
+                <gml:posList srsDimension="2">-2.282621 42.324427  -2.282681 42.324391  -2.282658 42.324370  -2.282635 42.324349  -2.282573 42.324386  -2.282621 42.324427  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10524,7 +10419,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.283378 42.323246  -2.283307 42.323192  -2.283267 42.323219  -2.283338 42.323277  -2.283378 42.323246  </gml:posList>
+                <gml:posList srsDimension="2">-2.283378 42.323246  -2.283343 42.323219  -2.283307 42.323192  -2.283267 42.323219  -2.283338 42.323277  -2.283378 42.323246  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10545,7 +10440,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.284912 42.320275  -2.284953 42.320268  -2.284952 42.320259  -2.285008 42.320243  -2.284985 42.320193  -2.284886 42.320205  -2.284912 42.320275  </gml:posList>
+                <gml:posList srsDimension="2">-2.284912 42.320275  -2.284953 42.320268  -2.284952 42.320259  -2.285008 42.320243  -2.284985 42.320193  -2.284943 42.320198  -2.284886 42.320205  -2.284912 42.320275  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10558,15 +10453,15 @@
       <ms:edificios gml:id="edificios.4098330">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.288112 42.314829 </gml:lowerCorner>
-        		<gml:upperCorner>-2.288039 42.314884 </gml:upperCorner>
+        		<gml:lowerCorner>-2.288120 42.314823 </gml:lowerCorner>
+        		<gml:upperCorner>-2.288047 42.314879 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.288112 42.314866  -2.288080 42.314829  -2.288039 42.314852  -2.288065 42.314884  -2.288112 42.314866  </gml:posList>
+                <gml:posList srsDimension="2">-2.288120 42.314860  -2.288088 42.314823  -2.288067 42.314834  -2.288047 42.314846  -2.288073 42.314879  -2.288120 42.314860  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10587,7 +10482,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.287766 42.314977  -2.287726 42.314955  -2.287680 42.314989  -2.287715 42.315018  -2.287766 42.314977  </gml:posList>
+                <gml:posList srsDimension="2">-2.287766 42.314977  -2.287726 42.314955  -2.287680 42.314989  -2.287715 42.315018  -2.287741 42.314997  -2.287766 42.314977  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10608,7 +10503,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290972 42.318434  -2.290982 42.318307  -2.290721 42.318305  -2.290722 42.318432  -2.290972 42.318434  </gml:posList>
+                <gml:posList srsDimension="2">-2.290972 42.318434  -2.290977 42.318370  -2.290982 42.318307  -2.290721 42.318305  -2.290722 42.318432  -2.290972 42.318434  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10643,14 +10538,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.291040 42.314181 </gml:lowerCorner>
-        		<gml:upperCorner>-2.290794 42.314398 </gml:upperCorner>
+        		<gml:upperCorner>-2.290769 42.314390 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290850 42.314398  -2.291040 42.314233  -2.290962 42.314181  -2.290868 42.314270  -2.290891 42.314286  -2.290794 42.314367  -2.290850 42.314398  </gml:posList>
+                <gml:posList srsDimension="2">-2.290859 42.314390  -2.291040 42.314233  -2.290962 42.314181  -2.290896 42.314243  -2.290868 42.314270  -2.290841 42.314300  -2.290825 42.314291  -2.290769 42.314341  -2.290859 42.314390  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10671,7 +10566,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291379 42.314166  -2.291437 42.314115  -2.291355 42.314056  -2.291345 42.314068  -2.291273 42.314022  -2.291220 42.314070  -2.291379 42.314166  </gml:posList>
+                <gml:posList srsDimension="2">-2.291379 42.314166  -2.291437 42.314115  -2.291411 42.314097  -2.291355 42.314056  -2.291345 42.314068  -2.291309 42.314045  -2.291273 42.314022  -2.291220 42.314070  -2.291379 42.314166  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10684,7 +10579,7 @@
       <ms:edificios gml:id="edificios.4098336">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291538 42.313978 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.291538 42.313972 </gml:lowerCorner>
         		<gml:upperCorner>-2.291390 42.314079 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -10692,7 +10587,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291538 42.314028  -2.291444 42.313978  -2.291390 42.314024  -2.291480 42.314079  -2.291538 42.314028  </gml:posList>
+                <gml:posList srsDimension="2">-2.291538 42.314028  -2.291455 42.313972  -2.291423 42.313998  -2.291390 42.314024  -2.291480 42.314079  -2.291538 42.314028  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10839,7 +10734,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.308501 42.297284  -2.308495 42.297293  -2.308478 42.297288  -2.308468 42.297302  -2.308485 42.297308  -2.308478 42.297320  -2.308553 42.297346  -2.308577 42.297310  -2.308501 42.297284  </gml:posList>
+                <gml:posList srsDimension="2">-2.308501 42.297284  -2.308495 42.297293  -2.308478 42.297288  -2.308473 42.297295  -2.308468 42.297302  -2.308485 42.297308  -2.308478 42.297320  -2.308553 42.297346  -2.308577 42.297310  -2.308501 42.297284  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11059,27 +10954,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098354">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.309281 42.297765 </gml:lowerCorner>
-        		<gml:upperCorner>-2.309195 42.297829 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.309220 42.297829  -2.309281 42.297821  -2.309259 42.297765  -2.309195 42.297780  -2.309220 42.297829  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Martín</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4098355">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11223,27 +11097,6 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098362">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.309220 42.297780 </gml:lowerCorner>
-        		<gml:upperCorner>-2.309129 42.297840 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.309195 42.297780  -2.309129 42.297792  -2.309158 42.297840  -2.309220 42.297829  -2.309195 42.297780  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Martín</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
@@ -11692,36 +11545,15 @@
       <ms:edificios gml:id="edificios.4098384">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291773 42.314108 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291634 42.314211 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291773 42.314139 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291673 42.314211 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291634 42.314168  -2.291711 42.314211  -2.291773 42.314159  -2.291697 42.314108  -2.291634 42.314168  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098385">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.295732 42.314259 </gml:lowerCorner>
-        		<gml:upperCorner>-2.295427 42.314488 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295732 42.314415  -2.295621 42.314259  -2.295427 42.314331  -2.295522 42.314452  -2.295550 42.314488  -2.295732 42.314415  </gml:posList>
+                <gml:posList srsDimension="2">-2.291673 42.314190  -2.291711 42.314211  -2.291773 42.314159  -2.291758 42.314149  -2.291743 42.314139  -2.291673 42.314190  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11752,27 +11584,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098387">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.295550 42.314331 </gml:lowerCorner>
-        		<gml:upperCorner>-2.295359 42.314520 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295550 42.314488  -2.295522 42.314452  -2.295427 42.314331  -2.295359 42.314357  -2.295442 42.314479  -2.295471 42.314520  -2.295550 42.314488  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4098388">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11784,7 +11595,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.295471 42.314520  -2.295442 42.314479  -2.295359 42.314357  -2.294968 42.314498  -2.294869 42.314555  -2.294821 42.314563  -2.294858 42.314705  -2.295049 42.314678  -2.295015 42.314548  -2.295212 42.314464  -2.295295 42.314588  -2.295471 42.314520  </gml:posList>
+                <gml:posList srsDimension="2">-2.295471 42.314520  -2.295442 42.314479  -2.295359 42.314357  -2.294968 42.314498  -2.294869 42.314555  -2.294821 42.314563  -2.294858 42.314705  -2.295049 42.314678  -2.295015 42.314548  -2.295114 42.314506  -2.295212 42.314464  -2.295295 42.314588  -2.295471 42.314520  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11818,15 +11629,15 @@
       <ms:edificios gml:id="edificios.4098390">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.293787 42.315345 </gml:lowerCorner>
-        		<gml:upperCorner>-2.293678 42.315429 </gml:upperCorner>
+        		<gml:lowerCorner>-2.293779 42.315338 </gml:lowerCorner>
+        		<gml:upperCorner>-2.293671 42.315422 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.293714 42.315345  -2.293678 42.315400  -2.293746 42.315429  -2.293787 42.315378  -2.293714 42.315345  </gml:posList>
+                <gml:posList srsDimension="2">-2.293707 42.315338  -2.293689 42.315366  -2.293671 42.315393  -2.293739 42.315422  -2.293779 42.315371  -2.293707 42.315338  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -11847,7 +11658,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.314683 42.307328  -2.314699 42.307338  -2.314810 42.307410  -2.314880 42.307457  -2.315112 42.307244  -2.314916 42.307131  -2.314683 42.307328  </gml:posList>
+                <gml:posList srsDimension="2">-2.314683 42.307328  -2.314699 42.307338  -2.314810 42.307410  -2.314880 42.307457  -2.315112 42.307244  -2.314916 42.307131  -2.314758 42.307264  -2.314683 42.307328  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12393,7 +12204,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.356525 42.244536  -2.356467 42.244570  -2.356481 42.244585  -2.356495 42.244597  -2.356556 42.244568  -2.356525 42.244536  </gml:posList>
+                <gml:posList srsDimension="2">-2.356525 42.244536  -2.356467 42.244570  -2.356481 42.244585  -2.356495 42.244597  -2.356556 42.244568  -2.356540 42.244552  -2.356525 42.244536  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12456,7 +12267,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290031 42.300971  -2.290066 42.300991  -2.290088 42.301004  -2.290119 42.300976  -2.290096 42.300962  -2.290061 42.300942  -2.290031 42.300971  </gml:posList>
+                <gml:posList srsDimension="2">-2.290031 42.300971  -2.290048 42.300981  -2.290066 42.300991  -2.290088 42.301004  -2.290119 42.300976  -2.290096 42.300962  -2.290061 42.300942  -2.290031 42.300971  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12666,7 +12477,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.294099 42.300257  -2.294045 42.300266  -2.294058 42.300311  -2.294112 42.300302  -2.294099 42.300257  </gml:posList>
+                <gml:posList srsDimension="2">-2.294099 42.300257  -2.294045 42.300266  -2.294052 42.300288  -2.294058 42.300311  -2.294112 42.300302  -2.294099 42.300257  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12868,15 +12679,15 @@
       <ms:edificios gml:id="edificios.4098440">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.341171 42.273684 </gml:lowerCorner>
-        		<gml:upperCorner>-2.341013 42.273776 </gml:upperCorner>
+        		<gml:lowerCorner>-2.341187 42.273686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.341027 42.273776 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.341171 42.273730  -2.341040 42.273684  -2.341013 42.273727  -2.341132 42.273776  -2.341135 42.273772  -2.341143 42.273763  -2.341160 42.273743  -2.341171 42.273730  </gml:posList>
+                <gml:posList srsDimension="2">-2.341187 42.273702  -2.341060 42.273686  -2.341043 42.273710  -2.341027 42.273733  -2.341132 42.273776  -2.341135 42.273772  -2.341187 42.273702  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13254,7 +13065,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.307009 42.295536  -2.307017 42.295494  -2.306967 42.295492  -2.306958 42.295530  -2.307009 42.295536  </gml:posList>
+                <gml:posList srsDimension="2">-2.307009 42.295536  -2.307013 42.295515  -2.307017 42.295494  -2.306967 42.295492  -2.306958 42.295530  -2.307009 42.295536  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13275,7 +13086,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.308356 42.297399  -2.308320 42.297397  -2.308318 42.297455  -2.308359 42.297450  -2.308356 42.297399  </gml:posList>
+                <gml:posList srsDimension="2">-2.308356 42.297399  -2.308338 42.297398  -2.308320 42.297397  -2.308318 42.297455  -2.308359 42.297450  -2.308356 42.297399  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13813,7 +13624,7 @@
       <ms:edificios gml:id="edificios.4098485">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.359877 42.280596 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.359877 42.280595 </gml:lowerCorner>
         		<gml:upperCorner>-2.359823 42.280636 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -13821,7 +13632,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359877 42.280629  -2.359870 42.280596  -2.359823 42.280600  -2.359828 42.280636  -2.359877 42.280629  </gml:posList>
+                <gml:posList srsDimension="2">-2.359877 42.280629  -2.359870 42.280595  -2.359847 42.280597  -2.359823 42.280600  -2.359828 42.280636  -2.359877 42.280629  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13884,7 +13695,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306501 42.316471  -2.306502 42.316423  -2.306468 42.316423  -2.306467 42.316471  -2.306501 42.316471  </gml:posList>
+                <gml:posList srsDimension="2">-2.306501 42.316471  -2.306502 42.316423  -2.306468 42.316423  -2.306468 42.316430  -2.306468 42.316446  -2.306467 42.316462  -2.306467 42.316471  -2.306501 42.316471  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13897,15 +13708,15 @@
       <ms:edificios gml:id="edificios.4098489">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.358445 42.280880 </gml:lowerCorner>
-        		<gml:upperCorner>-2.358405 42.280933 </gml:upperCorner>
+        		<gml:lowerCorner>-2.358451 42.280870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358411 42.280923 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.358409 42.280933  -2.358445 42.280930  -2.358439 42.280880  -2.358419 42.280881  -2.358420 42.280895  -2.358405 42.280896  -2.358409 42.280933  </gml:posList>
+                <gml:posList srsDimension="2">-2.358415 42.280923  -2.358451 42.280921  -2.358445 42.280870  -2.358425 42.280872  -2.358426 42.280885  -2.358411 42.280886  -2.358415 42.280923  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14304,7 +14115,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.358971 42.246648  -2.358958 42.246613  -2.358924 42.246620  -2.358938 42.246655  -2.358971 42.246648  </gml:posList>
+                <gml:posList srsDimension="2">-2.358971 42.246648  -2.358965 42.246630  -2.358958 42.246613  -2.358924 42.246620  -2.358938 42.246655  -2.358971 42.246648  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14409,7 +14220,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.309308 42.297969  -2.309345 42.297966  -2.309340 42.297933  -2.309303 42.297935  -2.309308 42.297969  </gml:posList>
+                <gml:posList srsDimension="2">-2.309308 42.297969  -2.309345 42.297966  -2.309340 42.297933  -2.309303 42.297935  -2.309306 42.297952  -2.309308 42.297969  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14430,7 +14241,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.359716 42.246610  -2.359750 42.246607  -2.359746 42.246572  -2.359710 42.246575  -2.359716 42.246610  </gml:posList>
+                <gml:posList srsDimension="2">-2.359716 42.246610  -2.359750 42.246607  -2.359746 42.246572  -2.359710 42.246575  -2.359713 42.246592  -2.359716 42.246610  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14808,7 +14619,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303526 42.312453  -2.303423 42.312444  -2.303418 42.312485  -2.303413 42.312516  -2.303412 42.312523  -2.303510 42.312529  -2.303526 42.312453  </gml:posList>
+                <gml:posList srsDimension="2">-2.303526 42.312453  -2.303423 42.312444  -2.303418 42.312485  -2.303413 42.312516  -2.303412 42.312523  -2.303461 42.312526  -2.303510 42.312529  -2.303526 42.312453  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14850,7 +14661,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.303650 42.314355  -2.303656 42.314323  -2.303577 42.314317  -2.303575 42.314348  -2.303650 42.314355  </gml:posList>
+                <gml:posList srsDimension="2">-2.303650 42.314355  -2.303656 42.314323  -2.303617 42.314320  -2.303577 42.314317  -2.303575 42.314348  -2.303650 42.314355  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14884,15 +14695,15 @@
       <ms:edificios gml:id="edificios.4098536">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.305947 42.312660 </gml:lowerCorner>
-        		<gml:upperCorner>-2.305902 42.312690 </gml:upperCorner>
+        		<gml:lowerCorner>-2.305954 42.312653 </gml:lowerCorner>
+        		<gml:upperCorner>-2.305909 42.312683 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305947 42.312671  -2.305918 42.312660  -2.305902 42.312674  -2.305932 42.312690  -2.305947 42.312671  </gml:posList>
+                <gml:posList srsDimension="2">-2.305954 42.312664  -2.305926 42.312653  -2.305909 42.312667  -2.305940 42.312683  -2.305954 42.312664  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14905,15 +14716,15 @@
       <ms:edificios gml:id="edificios.4098537">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.305937 42.312289 </gml:lowerCorner>
-        		<gml:upperCorner>-2.305847 42.312369 </gml:upperCorner>
+        		<gml:lowerCorner>-2.305944 42.312285 </gml:lowerCorner>
+        		<gml:upperCorner>-2.305855 42.312365 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305937 42.312310  -2.305870 42.312289  -2.305847 42.312336  -2.305869 42.312342  -2.305861 42.312364  -2.305893 42.312369  -2.305900 42.312349  -2.305919 42.312353  -2.305937 42.312310  </gml:posList>
+                <gml:posList srsDimension="2">-2.305944 42.312306  -2.305911 42.312295  -2.305878 42.312285  -2.305855 42.312331  -2.305877 42.312337  -2.305868 42.312359  -2.305900 42.312365  -2.305907 42.312344  -2.305927 42.312348  -2.305944 42.312306  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15367,15 +15178,15 @@
       <ms:edificios gml:id="edificios.4098559">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.291176 42.301802 </gml:lowerCorner>
-        		<gml:upperCorner>-2.291141 42.301825 </gml:upperCorner>
+        		<gml:lowerCorner>-2.291175 42.301793 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291140 42.301816 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.291141 42.301804  -2.291144 42.301825  -2.291176 42.301822  -2.291173 42.301802  -2.291141 42.301804  </gml:posList>
+                <gml:posList srsDimension="2">-2.291140 42.301795  -2.291143 42.301816  -2.291175 42.301814  -2.291172 42.301793  -2.291140 42.301795  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15598,7 +15409,7 @@
       <ms:edificios gml:id="edificios.4098570">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.362320 42.246374 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.362323 42.246374 </gml:lowerCorner>
         		<gml:upperCorner>-2.362210 42.246413 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -15606,7 +15417,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.362313 42.246410  -2.362320 42.246374  -2.362210 42.246378  -2.362212 42.246413  -2.362313 42.246410  </gml:posList>
+                <gml:posList srsDimension="2">-2.362323 42.246410  -2.362320 42.246374  -2.362210 42.246378  -2.362212 42.246413  -2.362323 42.246410  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15619,15 +15430,15 @@
       <ms:edificios gml:id="edificios.4098571">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.362194 42.246374 </gml:lowerCorner>
-        		<gml:upperCorner>-2.362158 42.246401 </gml:upperCorner>
+        		<gml:lowerCorner>-2.362202 42.246378 </gml:lowerCorner>
+        		<gml:upperCorner>-2.362146 42.246410 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.362194 42.246376  -2.362158 42.246374  -2.362158 42.246400  -2.362193 42.246401  -2.362194 42.246376  </gml:posList>
+                <gml:posList srsDimension="2">-2.362201 42.246378  -2.362161 42.246381  -2.362161 42.246386  -2.362146 42.246386  -2.362146 42.246394  -2.362147 42.246403  -2.362162 42.246402  -2.362163 42.246410  -2.362202 42.246410  -2.362201 42.246378  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16089,7 +15900,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.343560 42.271839  -2.343577 42.271800  -2.343499 42.271779  -2.343482 42.271818  -2.343560 42.271839  </gml:posList>
+                <gml:posList srsDimension="2">-2.343560 42.271839  -2.343569 42.271820  -2.343577 42.271800  -2.343499 42.271779  -2.343482 42.271818  -2.343560 42.271839  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16249,15 +16060,15 @@
       <ms:edificios gml:id="edificios.4098601">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.366486 42.243386 </gml:lowerCorner>
-        		<gml:upperCorner>-2.366357 42.243467 </gml:upperCorner>
+        		<gml:lowerCorner>-2.366493 42.243397 </gml:lowerCorner>
+        		<gml:upperCorner>-2.366364 42.243478 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.366486 42.243422  -2.366386 42.243386  -2.366357 42.243431  -2.366457 42.243467  -2.366486 42.243422  </gml:posList>
+                <gml:posList srsDimension="2">-2.366493 42.243433  -2.366443 42.243415  -2.366393 42.243397  -2.366364 42.243442  -2.366464 42.243478  -2.366493 42.243433  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16467,7 +16278,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290927 42.347739  -2.290901 42.347738  -2.290902 42.347785  -2.290928 42.347785  -2.290927 42.347739  </gml:posList>
+                <gml:posList srsDimension="2">-2.290927 42.347739  -2.290901 42.347738  -2.290901 42.347762  -2.290902 42.347785  -2.290928 42.347785  -2.290927 42.347739  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16530,7 +16341,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.247793 42.371386  -2.247761 42.371332  -2.247631 42.371381  -2.247675 42.371435  -2.247793 42.371386  </gml:posList>
+                <gml:posList srsDimension="2">-2.247793 42.371386  -2.247761 42.371332  -2.247631 42.371381  -2.247653 42.371408  -2.247675 42.371435  -2.247793 42.371386  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16551,7 +16362,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.247759 42.371318  -2.247670 42.371127  -2.247616 42.371144  -2.247548 42.371165  -2.247583 42.371246  -2.247640 42.371355  -2.247759 42.371318  </gml:posList>
+                <gml:posList srsDimension="2">-2.247759 42.371318  -2.247670 42.371127  -2.247548 42.371165  -2.247583 42.371246  -2.247612 42.371301  -2.247640 42.371355  -2.247759 42.371318  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16565,14 +16376,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.247583 42.371165 </gml:lowerCorner>
-        		<gml:upperCorner>-2.247431 42.371291 </gml:upperCorner>
+        		<gml:upperCorner>-2.247438 42.371294 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.247548 42.371165  -2.247432 42.371214  -2.247431 42.371247  -2.247462 42.371291  -2.247583 42.371246  -2.247548 42.371165  </gml:posList>
+                <gml:posList srsDimension="2">-2.247548 42.371165  -2.247438 42.371211  -2.247444 42.371246  -2.247474 42.371294  -2.247583 42.371246  -2.247548 42.371165  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16585,15 +16396,15 @@
       <ms:edificios gml:id="edificios.4098617">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.257359 42.373538 </gml:lowerCorner>
-        		<gml:upperCorner>-2.257285 42.373583 </gml:upperCorner>
+        		<gml:lowerCorner>-2.257376 42.373532 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257250 42.373598 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.257359 42.373566  -2.257345 42.373538  -2.257285 42.373554  -2.257298 42.373583  -2.257359 42.373566  </gml:posList>
+                <gml:posList srsDimension="2">-2.257376 42.373562  -2.257361 42.373532  -2.257292 42.373552  -2.257289 42.373545  -2.257250 42.373556  -2.257258 42.373573  -2.257270 42.373598  -2.257309 42.373588  -2.257305 42.373581  -2.257376 42.373562  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16677,7 +16488,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.306015 42.317705  -2.305972 42.317702  -2.305969 42.317738  -2.306015 42.317740  -2.306015 42.317705  </gml:posList>
+                <gml:posList srsDimension="2">-2.306015 42.317705  -2.305993 42.317704  -2.305972 42.317702  -2.305969 42.317738  -2.306015 42.317740  -2.306015 42.317705  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16698,7 +16509,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.305628 42.317134  -2.305576 42.317140  -2.305566 42.317114  -2.305516 42.317127  -2.305524 42.317149  -2.305476 42.317162  -2.305509 42.317240  -2.305657 42.317208  -2.305628 42.317134  </gml:posList>
+                <gml:posList srsDimension="2">-2.305628 42.317134  -2.305576 42.317140  -2.305566 42.317114  -2.305541 42.317120  -2.305516 42.317127  -2.305524 42.317149  -2.305476 42.317162  -2.305509 42.317240  -2.305657 42.317208  -2.305628 42.317134  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16711,15 +16522,15 @@
       <ms:edificios gml:id="edificios.4098623">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.304590 42.316008 </gml:lowerCorner>
-        		<gml:upperCorner>-2.304479 42.316076 </gml:upperCorner>
+        		<gml:lowerCorner>-2.304590 42.316002 </gml:lowerCorner>
+        		<gml:upperCorner>-2.304479 42.316070 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.304590 42.316019  -2.304488 42.316008  -2.304479 42.316070  -2.304579 42.316076  -2.304590 42.316019  </gml:posList>
+                <gml:posList srsDimension="2">-2.304590 42.316013  -2.304539 42.316007  -2.304488 42.316002  -2.304479 42.316063  -2.304579 42.316070  -2.304590 42.316013  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16942,15 +16753,15 @@
       <ms:edificios gml:id="edificios.4098634">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.289449 42.301267 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289290 42.301431 </gml:upperCorner>
+        		<gml:lowerCorner>-2.289459 42.301259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289301 42.301424 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289449 42.301282  -2.289326 42.301267  -2.289290 42.301418  -2.289415 42.301431  -2.289449 42.301282  </gml:posList>
+                <gml:posList srsDimension="2">-2.289459 42.301275  -2.289336 42.301259  -2.289301 42.301411  -2.289425 42.301424  -2.289459 42.301275  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16963,15 +16774,15 @@
       <ms:edificios gml:id="edificios.4098635">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.289444 42.301496 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289245 42.301616 </gml:upperCorner>
+        		<gml:lowerCorner>-2.289454 42.301488 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289255 42.301608 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289245 42.301603  -2.289425 42.301616  -2.289433 42.301573  -2.289444 42.301513  -2.289397 42.301509  -2.289264 42.301496  -2.289245 42.301603  </gml:posList>
+                <gml:posList srsDimension="2">-2.289255 42.301596  -2.289436 42.301608  -2.289443 42.301566  -2.289454 42.301506  -2.289407 42.301501  -2.289275 42.301488  -2.289255 42.301596  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17005,15 +16816,15 @@
       <ms:edificios gml:id="edificios.4098637">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.289218 42.301269 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289127 42.301367 </gml:upperCorner>
+        		<gml:lowerCorner>-2.289218 42.301248 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289127 42.301345 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289146 42.301367  -2.289218 42.301358  -2.289199 42.301269  -2.289127 42.301278  -2.289146 42.301367  </gml:posList>
+                <gml:posList srsDimension="2">-2.289146 42.301345  -2.289218 42.301337  -2.289199 42.301248  -2.289127 42.301256  -2.289146 42.301345  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17118,7 +16929,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.289045 42.300322  -2.289040 42.300358  -2.289107 42.300363  -2.289112 42.300327  -2.289045 42.300322  </gml:posList>
+                <gml:posList srsDimension="2">-2.289045 42.300322  -2.289040 42.300358  -2.289074 42.300360  -2.289107 42.300363  -2.289112 42.300327  -2.289045 42.300322  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17181,7 +16992,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.290445 42.300614  -2.290497 42.300559  -2.290430 42.300520  -2.290376 42.300574  -2.290445 42.300614  </gml:posList>
+                <gml:posList srsDimension="2">-2.290445 42.300614  -2.290497 42.300559  -2.290430 42.300520  -2.290376 42.300574  -2.290410 42.300594  -2.290445 42.300614  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17299,20 +17110,1511 @@
       <ms:edificios gml:id="edificios.4098651">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.288913 42.301082 </gml:lowerCorner>
-        		<gml:upperCorner>-2.288763 42.301220 </gml:upperCorner>
+        		<gml:lowerCorner>-2.288930 42.301062 </gml:lowerCorner>
+        		<gml:upperCorner>-2.288779 42.301200 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.288763 42.301216  -2.288884 42.301219  -2.288908 42.301220  -2.288912 42.301150  -2.288913 42.301112  -2.288877 42.301111  -2.288878 42.301084  -2.288806 42.301082  -2.288804 42.301109  -2.288768 42.301108  -2.288763 42.301216  </gml:posList>
+                <gml:posList srsDimension="2">-2.288779 42.301196  -2.288901 42.301200  -2.288925 42.301200  -2.288928 42.301130  -2.288930 42.301092  -2.288894 42.301091  -2.288895 42.301064  -2.288822 42.301062  -2.288821 42.301089  -2.288784 42.301088  -2.288779 42.301196  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677419">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.265757 42.329869 </gml:lowerCorner>
+        		<gml:upperCorner>-2.265659 42.329939 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.265743 42.329869  -2.265693 42.329906  -2.265659 42.329928  -2.265674 42.329939  -2.265710 42.329912  -2.265757 42.329887  -2.265743 42.329869  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.366821 42.241787 </gml:lowerCorner>
+        		<gml:upperCorner>-2.366753 42.241836 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.366821 42.241807  -2.366800 42.241797  -2.366780 42.241787  -2.366753 42.241814  -2.366794 42.241836  -2.366821 42.241807  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677421">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.366752 42.243218 </gml:lowerCorner>
+        		<gml:upperCorner>-2.366714 42.243252 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.366752 42.243223  -2.366727 42.243218  -2.366714 42.243249  -2.366742 42.243252  -2.366752 42.243223  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677422">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.358846 42.246376 </gml:lowerCorner>
+        		<gml:upperCorner>-2.358765 42.246445 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.358801 42.246376  -2.358775 42.246387  -2.358788 42.246397  -2.358765 42.246418  -2.358796 42.246445  -2.358846 42.246420  -2.358801 42.246376  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677424">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.379344 42.257475 </gml:lowerCorner>
+        		<gml:upperCorner>-2.379276 42.257525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.379344 42.257499  -2.379313 42.257475  -2.379276 42.257502  -2.379307 42.257525  -2.379344 42.257499  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677427">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.344071 42.272173 </gml:lowerCorner>
+        		<gml:upperCorner>-2.343918 42.272248 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.344052 42.272201  -2.343940 42.272173  -2.343918 42.272225  -2.344029 42.272248  -2.344035 42.272232  -2.344063 42.272239  -2.344067 42.272231  -2.344071 42.272222  -2.344046 42.272215  -2.344052 42.272201  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677428">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.343703 42.273103 </gml:lowerCorner>
+        		<gml:upperCorner>-2.343656 42.273135 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.343703 42.273108  -2.343664 42.273103  -2.343656 42.273131  -2.343675 42.273133  -2.343694 42.273135  -2.343703 42.273108  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677429">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.344336 42.273174 </gml:lowerCorner>
+        		<gml:upperCorner>-2.344297 42.273208 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.344336 42.273179  -2.344310 42.273174  -2.344297 42.273203  -2.344328 42.273208  -2.344332 42.273194  -2.344336 42.273179  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677430">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.341107 42.273283 </gml:lowerCorner>
+        		<gml:upperCorner>-2.341040 42.273345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.341107 42.273345  -2.341104 42.273287  -2.341045 42.273283  -2.341040 42.273342  -2.341107 42.273345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677431">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.343255 42.273737 </gml:lowerCorner>
+        		<gml:upperCorner>-2.343176 42.273799 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.343255 42.273752  -2.343223 42.273737  -2.343200 42.273761  -2.343176 42.273785  -2.343209 42.273799  -2.343255 42.273752  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677434">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.340762 42.274082 </gml:lowerCorner>
+        		<gml:upperCorner>-2.340685 42.274140 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.340762 42.274102  -2.340734 42.274092  -2.340706 42.274082  -2.340685 42.274122  -2.340737 42.274140  -2.340762 42.274102  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.342476 42.273038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.342369 42.273103 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.342476 42.273070  -2.342395 42.273038  -2.342369 42.273078  -2.342455 42.273103  -2.342476 42.273070  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.257562 42.279723 </gml:lowerCorner>
+        		<gml:upperCorner>-2.257499 42.279764 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.257562 42.279747  -2.257533 42.279723  -2.257499 42.279739  -2.257530 42.279764  -2.257546 42.279755  -2.257562 42.279747  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.357924 42.281304 </gml:lowerCorner>
+        		<gml:upperCorner>-2.357876 42.281340 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.357924 42.281321  -2.357888 42.281304  -2.357876 42.281329  -2.357914 42.281340  -2.357924 42.281321  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677451">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.314464 42.284643 </gml:lowerCorner>
+        		<gml:upperCorner>-2.314249 42.284761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.314464 42.284717  -2.314372 42.284643  -2.314249 42.284726  -2.314292 42.284761  -2.314331 42.284734  -2.314370 42.284708  -2.314419 42.284748  -2.314464 42.284717  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677455">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.269880 42.287333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.269772 42.287399 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.269880 42.287347  -2.269863 42.287333  -2.269811 42.287354  -2.269800 42.287358  -2.269772 42.287378  -2.269775 42.287391  -2.269793 42.287399  -2.269880 42.287347  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.275581 42.291571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.275530 42.291617 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.275581 42.291608  -2.275568 42.291589  -2.275555 42.291571  -2.275530 42.291581  -2.275556 42.291617  -2.275581 42.291608  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.355927 42.293065 </gml:lowerCorner>
+        		<gml:upperCorner>-2.355887 42.293094 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.355927 42.293081  -2.355911 42.293065  -2.355887 42.293077  -2.355903 42.293094  -2.355927 42.293081  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677467">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.307602 42.295253 </gml:lowerCorner>
+        		<gml:upperCorner>-2.307513 42.295316 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.307602 42.295278  -2.307541 42.295253  -2.307513 42.295292  -2.307544 42.295304  -2.307575 42.295316  -2.307602 42.295278  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677471">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.310758 42.296423 </gml:lowerCorner>
+        		<gml:upperCorner>-2.310651 42.296492 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.310758 42.296471  -2.310665 42.296423  -2.310651 42.296439  -2.310683 42.296455  -2.310680 42.296462  -2.310739 42.296492  -2.310758 42.296471  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677473">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.340431 42.297067 </gml:lowerCorner>
+        		<gml:upperCorner>-2.340309 42.297187 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.340431 42.297088  -2.340368 42.297067  -2.340309 42.297167  -2.340361 42.297187  -2.340396 42.297137  -2.340431 42.297088  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.341239 42.297499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.341154 42.297574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.341239 42.297548  -2.341206 42.297499  -2.341190 42.297507  -2.341154 42.297525  -2.341192 42.297574  -2.341239 42.297548  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677483">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.291629 42.299304 </gml:lowerCorner>
+        		<gml:upperCorner>-2.291500 42.299399 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.291629 42.299335  -2.291549 42.299304  -2.291534 42.299329  -2.291500 42.299369  -2.291583 42.299399  -2.291629 42.299335  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297901 42.299459 </gml:lowerCorner>
+        		<gml:upperCorner>-2.297853 42.299504 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297901 42.299496  -2.297894 42.299478  -2.297886 42.299459  -2.297853 42.299467  -2.297869 42.299504  -2.297901 42.299496  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.292756 42.299595 </gml:lowerCorner>
+        		<gml:upperCorner>-2.292736 42.299596 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.292736 42.299595  -2.292736 42.299596  -2.292756 42.299596  -2.292736 42.299595  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677487">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297613 42.299757 </gml:lowerCorner>
+        		<gml:upperCorner>-2.297492 42.299846 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297613 42.299807  -2.297587 42.299782  -2.297561 42.299757  -2.297492 42.299797  -2.297544 42.299846  -2.297613 42.299807  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677488">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.289682 42.299741 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289604 42.299800 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.289682 42.299762  -2.289650 42.299741  -2.289604 42.299779  -2.289636 42.299800  -2.289659 42.299781  -2.289682 42.299762  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677490">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.298081 42.300684 </gml:lowerCorner>
+        		<gml:upperCorner>-2.298008 42.300736 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.298081 42.300705  -2.298056 42.300684  -2.298032 42.300700  -2.298008 42.300716  -2.298033 42.300736  -2.298081 42.300705  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677491">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.299495 42.301228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.299406 42.301286 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.299495 42.301258  -2.299451 42.301228  -2.299429 42.301246  -2.299406 42.301263  -2.299439 42.301286  -2.299495 42.301258  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677493">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.295278 42.301909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295074 42.302043 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.295278 42.301936  -2.295107 42.301909  -2.295074 42.302018  -2.295251 42.302043  -2.295278 42.301936  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677494">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.352108 42.302603 </gml:lowerCorner>
+        		<gml:upperCorner>-2.351965 42.302719 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.352108 42.302631  -2.352018 42.302603  -2.351992 42.302650  -2.351965 42.302697  -2.352058 42.302719  -2.352108 42.302631  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677498">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.340896 42.305961 </gml:lowerCorner>
+        		<gml:upperCorner>-2.340829 42.306028 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.340896 42.305974  -2.340855 42.305961  -2.340839 42.305989  -2.340831 42.306002  -2.340839 42.306005  -2.340829 42.306021  -2.340851 42.306028  -2.340861 42.306012  -2.340872 42.306015  -2.340896 42.305974  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677500">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.339678 42.306241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.339605 42.306297 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.339678 42.306267  -2.339645 42.306241  -2.339605 42.306274  -2.339623 42.306286  -2.339642 42.306297  -2.339678 42.306267  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677504">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.297113 42.306605 </gml:lowerCorner>
+        		<gml:upperCorner>-2.296913 42.306705 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.297094 42.306605  -2.296913 42.306638  -2.296937 42.306705  -2.297025 42.306688  -2.297113 42.306672  -2.297094 42.306605  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.302236 42.310527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.302146 42.310587 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.302236 42.310566  -2.302215 42.310527  -2.302187 42.310536  -2.302146 42.310549  -2.302167 42.310587  -2.302236 42.310566  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677515">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.288040 42.312505 </gml:lowerCorner>
+        		<gml:upperCorner>-2.287888 42.312608 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.288040 42.312550  -2.288028 42.312528  -2.288015 42.312505  -2.287960 42.312520  -2.287956 42.312543  -2.287888 42.312553  -2.287899 42.312572  -2.287919 42.312608  -2.287981 42.312595  -2.287986 42.312572  -2.287988 42.312567  -2.288040 42.312550  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677516">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.306628 42.312804 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306581 42.312848 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.306628 42.312806  -2.306585 42.312804  -2.306581 42.312846  -2.306603 42.312847  -2.306624 42.312848  -2.306628 42.312806  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677517">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.282442 42.313273 </gml:lowerCorner>
+        		<gml:upperCorner>-2.282259 42.313372 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.282360 42.313320  -2.282380 42.313290  -2.282300 42.313273  -2.282259 42.313339  -2.282414 42.313372  -2.282426 42.313356  -2.282442 42.313336  -2.282360 42.313320  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677518">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.281911 42.313384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.281774 42.313496 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.281911 42.313434  -2.281872 42.313409  -2.281832 42.313384  -2.281774 42.313444  -2.281850 42.313496  -2.281911 42.313434  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677520">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.282150 42.313514 </gml:lowerCorner>
+        		<gml:upperCorner>-2.281993 42.313634 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.282150 42.313558  -2.282108 42.313536  -2.282066 42.313514  -2.281993 42.313590  -2.282077 42.313634  -2.282150 42.313558  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677522">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.330004 42.314270 </gml:lowerCorner>
+        		<gml:upperCorner>-2.329860 42.314389 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.330004 42.314300  -2.329951 42.314270  -2.329907 42.314313  -2.329896 42.314324  -2.329892 42.314328  -2.329879 42.314341  -2.329860 42.314359  -2.329891 42.314376  -2.329913 42.314389  -2.329939 42.314363  -2.330004 42.314300  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677525">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.288178 42.314788 </gml:lowerCorner>
+        		<gml:upperCorner>-2.288115 42.314836 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.288178 42.314798  -2.288142 42.314788  -2.288129 42.314807  -2.288115 42.314826  -2.288155 42.314836  -2.288178 42.314798  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677527">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.288344 42.316380 </gml:lowerCorner>
+        		<gml:upperCorner>-2.288267 42.316431 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.288344 42.316417  -2.288331 42.316380  -2.288267 42.316394  -2.288283 42.316431  -2.288314 42.316424  -2.288344 42.316417  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677529">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.307141 42.316859 </gml:lowerCorner>
+        		<gml:upperCorner>-2.307072 42.316910 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.307141 42.316883  -2.307106 42.316859  -2.307072 42.316886  -2.307089 42.316898  -2.307107 42.316910  -2.307141 42.316883  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677530">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.287608 42.317016 </gml:lowerCorner>
+        		<gml:upperCorner>-2.287480 42.317104 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.287608 42.317059  -2.287583 42.317037  -2.287557 42.317016  -2.287480 42.317051  -2.287531 42.317104  -2.287608 42.317059  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677534">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.284895 42.318314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.284807 42.318381 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.284895 42.318341  -2.284872 42.318327  -2.284849 42.318314  -2.284807 42.318354  -2.284854 42.318381  -2.284895 42.318341  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677536">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.298731 42.320324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.298613 42.320402 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.298731 42.320375  -2.298698 42.320324  -2.298613 42.320353  -2.298628 42.320378  -2.298643 42.320402  -2.298731 42.320375  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677539">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294907 42.331268 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294800 42.331345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.294907 42.331327  -2.294884 42.331268  -2.294800 42.331286  -2.294823 42.331345  -2.294907 42.331327  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677540">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.294934 42.331340 </gml:lowerCorner>
+        		<gml:upperCorner>-2.294851 42.331407 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.294934 42.331395  -2.294915 42.331340  -2.294851 42.331352  -2.294861 42.331380  -2.294871 42.331407  -2.294934 42.331395  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677542">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.281681 42.336105 </gml:lowerCorner>
+        		<gml:upperCorner>-2.281496 42.336293 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.281590 42.336171  -2.281612 42.336117  -2.281613 42.336115  -2.281554 42.336105  -2.281496 42.336252  -2.281571 42.336272  -2.281645 42.336293  -2.281681 42.336220  -2.281678 42.336219  -2.281629 42.336209  -2.281637 42.336188  -2.281590 42.336171  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677543">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.269476 42.336389 </gml:lowerCorner>
+        		<gml:upperCorner>-2.269057 42.336832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.269465 42.336500  -2.269476 42.336490  -2.269329 42.336389  -2.269251 42.336462  -2.269207 42.336437  -2.269095 42.336534  -2.269178 42.336588  -2.269104 42.336692  -2.269081 42.336731  -2.269057 42.336769  -2.269215 42.336832  -2.269406 42.336557  -2.269465 42.336500  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677544">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.289778 42.336727 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289662 42.336806 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.289778 42.336795  -2.289770 42.336761  -2.289762 42.336727  -2.289662 42.336736  -2.289675 42.336806  -2.289778 42.336795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677548">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290542 42.344579 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290009 42.344950 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290542 42.344765  -2.290474 42.344692  -2.290370 42.344579  -2.290009 42.344759  -2.290175 42.344950  -2.290542 42.344765  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677549">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.284363 42.350072 </gml:lowerCorner>
+        		<gml:upperCorner>-2.284223 42.350178 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.284363 42.350123  -2.284355 42.350119  -2.284273 42.350072  -2.284223 42.350124  -2.284267 42.350151  -2.284312 42.350178  -2.284363 42.350123  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677550">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.284235 42.350150 </gml:lowerCorner>
+        		<gml:upperCorner>-2.283903 42.350339 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.284235 42.350221  -2.284153 42.350150  -2.283903 42.350300  -2.283941 42.350339  -2.284019 42.350295  -2.284053 42.350329  -2.284069 42.350326  -2.284152 42.350274  -2.284235 42.350221  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677556">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.271305 42.368499 </gml:lowerCorner>
+        		<gml:upperCorner>-2.271263 42.368529 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.271305 42.368512  -2.271280 42.368499  -2.271263 42.368515  -2.271288 42.368529  -2.271305 42.368512  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677560">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.269666 42.375228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.269582 42.375295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.269666 42.375239  -2.269597 42.375228  -2.269582 42.375284  -2.269653 42.375295  -2.269660 42.375267  -2.269666 42.375239  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677562">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.275851 42.379198 </gml:lowerCorner>
+        		<gml:upperCorner>-2.275750 42.379294 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.275851 42.379217  -2.275783 42.379198  -2.275767 42.379238  -2.275750 42.379277  -2.275810 42.379294  -2.275851 42.379217  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677565">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.267068 42.384871 </gml:lowerCorner>
+        		<gml:upperCorner>-2.266964 42.384925 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.267068 42.384903  -2.267052 42.384871  -2.266964 42.384892  -2.266981 42.384925  -2.267024 42.384914  -2.267068 42.384903  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677567">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.265764 42.385201 </gml:lowerCorner>
+        		<gml:upperCorner>-2.265636 42.385296 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.265764 42.385272  -2.265721 42.385201  -2.265679 42.385214  -2.265636 42.385226  -2.265675 42.385296  -2.265764 42.385272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677568">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.264111 42.385522 </gml:lowerCorner>
+        		<gml:upperCorner>-2.263858 42.385710 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.264111 42.385605  -2.264020 42.385522  -2.263961 42.385554  -2.264002 42.385590  -2.263930 42.385624  -2.263858 42.385659  -2.263925 42.385710  -2.264111 42.385605  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677570">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.247670 42.371045 </gml:lowerCorner>
+        		<gml:upperCorner>-2.247517 42.371165 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.247670 42.371127  -2.247622 42.371045  -2.247517 42.371084  -2.247536 42.371133  -2.247548 42.371165  -2.247670 42.371127  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677571">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.295732 42.314259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.295359 42.314520 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.295621 42.314259  -2.295427 42.314331  -2.295359 42.314357  -2.295442 42.314479  -2.295471 42.314520  -2.295550 42.314488  -2.295732 42.314415  -2.295676 42.314337  -2.295621 42.314259  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677578">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.310615 42.296316 </gml:lowerCorner>
+        		<gml:upperCorner>-2.310515 42.296390 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.310615 42.296348  -2.310557 42.296316  -2.310515 42.296359  -2.310574 42.296390  -2.310615 42.296348  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677579">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.310468 42.296135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.310417 42.296187 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.310468 42.296145  -2.310433 42.296135  -2.310417 42.296179  -2.310434 42.296183  -2.310452 42.296187  -2.310468 42.296145  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677580">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.307433 42.315742 </gml:lowerCorner>
+        		<gml:upperCorner>-2.307369 42.315789 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.307369 42.315760  -2.307388 42.315789  -2.307433 42.315770  -2.307416 42.315742  -2.307369 42.315760  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677777">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290677 42.301703 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290511 42.301791 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290511 42.301760  -2.290646 42.301791  -2.290677 42.301733  -2.290531 42.301703  -2.290511 42.301760  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677784">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.289896 42.301649 </gml:lowerCorner>
+        		<gml:upperCorner>-2.289797 42.301735 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.289868 42.301649  -2.289797 42.301667  -2.289829 42.301735  -2.289896 42.301715  -2.289868 42.301649  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Jubera</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677797">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290770 42.299267 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290664 42.299335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290770 42.299292  -2.290727 42.299280  -2.290684 42.299267  -2.290664 42.299312  -2.290750 42.299335  -2.290770 42.299292  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677798">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.290223 42.299193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.290140 42.299228 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.290223 42.299196  -2.290181 42.299195  -2.290140 42.299193  -2.290142 42.299224  -2.290221 42.299228  -2.290223 42.299196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4677807">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.306609 42.316861 </gml:lowerCorner>
+        		<gml:upperCorner>-2.306555 42.316900 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.306609 42.316881  -2.306580 42.316861  -2.306555 42.316888  -2.306593 42.316900  -2.306609 42.316881  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santa Engracia del Jubera</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Santa Engracia del Jubera</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

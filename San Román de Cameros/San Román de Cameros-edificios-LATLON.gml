@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.511662 42.172176 </gml:lowerCorner>
-      		<gml:upperCorner>-2.383007 42.262004 </gml:upperCorner>
+      		<gml:upperCorner>-2.417417 42.262004 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -6934,27 +6934,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.475093 42.234830  -2.474830 42.234802  -2.474826 42.234823  -2.474821 42.234845  -2.475087 42.234872  -2.475093 42.234830  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Román de Cameros</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Román de Cameros</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4093508">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.383102 42.204287 </gml:lowerCorner>
-        		<gml:upperCorner>-2.383007 42.204350 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.383093 42.204287  -2.383009 42.204290  -2.383007 42.204327  -2.383038 42.204326  -2.383035 42.204350  -2.383087 42.204350  -2.383089 42.204325  -2.383102 42.204323  -2.383093 42.204287  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

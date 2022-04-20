@@ -50545,69 +50545,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4661324">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.484488 42.347285 </gml:lowerCorner>
-        		<gml:upperCorner>-2.484377 42.347358 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.484377 42.347288  -2.484444 42.347358  -2.484450 42.347351  -2.484488 42.347303  -2.484458 42.347287  -2.484442 42.347310  -2.484406 42.347297  -2.484379 42.347285  -2.484377 42.347288  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Islallana</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Nalda</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4661325">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.488901 42.358332 </gml:lowerCorner>
-        		<gml:upperCorner>-2.488807 42.358386 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.488807 42.358332  -2.488894 42.358386  -2.488901 42.358377  -2.488807 42.358332  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Islallana</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Nalda</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4661327">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.507164 42.349566 </gml:lowerCorner>
-        		<gml:upperCorner>-2.506715 42.350002 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.506881 42.349991  -2.507112 42.349653  -2.507164 42.349612  -2.507048 42.349566  -2.506885 42.349796  -2.506857 42.349786  -2.506715 42.349986  -2.506756 42.350002  -2.506789 42.349955  -2.506795 42.349957  -2.506881 42.349991  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Islallana</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Nalda</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4661328">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -56080,27 +56017,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.495522 42.349077  -2.495494 42.349074  -2.495491 42.349088  -2.495519 42.349091  -2.495522 42.349077  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Islallana</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Nalda</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4661640">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.507448 42.349145 </gml:lowerCorner>
-        		<gml:upperCorner>-2.507264 42.349369 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.507444 42.349209  -2.507292 42.349145  -2.507264 42.349181  -2.507368 42.349225  -2.507281 42.349338  -2.507354 42.349369  -2.507448 42.349247  -2.507423 42.349237  -2.507444 42.349209  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

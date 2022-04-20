@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.714630 42.301023 </gml:lowerCorner>
-      		<gml:upperCorner>-2.289195 42.581452 </gml:upperCorner>
+      		<gml:lowerCorner>-2.714630 42.567286 </gml:lowerCorner>
+      		<gml:upperCorner>-2.703823 42.581452 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -803,26 +803,6 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.709714 42.573000  -2.709610 42.572941  -2.709498 42.572901  -2.709235 42.572844  -2.708863 42.572722  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle el Horno</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Ábalos</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Ábalos</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.001.16</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2600100064</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:viales gml:id="viales.1542381">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.290266 42.301023 </gml:lowerCorner>
-        		<gml:upperCorner>-2.289195 42.301476 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.290266 42.301476  -2.290214 42.301431  -2.290114 42.301368  -2.289955 42.301304  -2.289654 42.301207  -2.289195 42.301023  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Horno</ms:NOMBRE_COMPLETO_VIAL>

@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.864458 42.471399 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.864458 42.471970 </gml:lowerCorner>
       		<gml:upperCorner>-2.802010 42.547444 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -12043,48 +12043,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676114">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.802973 42.471399 </gml:lowerCorner>
-        		<gml:upperCorner>-2.802747 42.471598 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.802853 42.471399  -2.802747 42.471421  -2.802876 42.471598  -2.802973 42.471560  -2.802853 42.471399  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Rodezno</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4676115">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.802602 42.471491 </gml:lowerCorner>
-        		<gml:upperCorner>-2.802156 42.471804 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.802416 42.471491  -2.802160 42.471546  -2.802156 42.471557  -2.802354 42.471804  -2.802492 42.471750  -2.802556 42.471724  -2.802602 42.471706  -2.802416 42.471491  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Rodezno</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4676117">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -12362,14 +12320,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.844730 42.536657 </gml:lowerCorner>
-        		<gml:upperCorner>-2.844411 42.536841 </gml:upperCorner>
+        		<gml:upperCorner>-2.844409 42.536841 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.844730 42.536751  -2.844672 42.536657  -2.844651 42.536664  -2.844432 42.536741  -2.844411 42.536748  -2.844463 42.536841  -2.844730 42.536751  </gml:posList>
+                <gml:posList srsDimension="2">-2.844730 42.536751  -2.844672 42.536657  -2.844651 42.536664  -2.844432 42.536741  -2.844409 42.536750  -2.844463 42.536841  -2.844730 42.536751  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12579,7 +12537,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.844374 42.536765  -2.844432 42.536741  -2.844313 42.536559  -2.844254 42.536584  -2.844374 42.536765  </gml:posList>
+                <gml:posList srsDimension="2">-2.844374 42.536765  -2.844409 42.536750  -2.844432 42.536741  -2.844313 42.536559  -2.844254 42.536584  -2.844374 42.536765  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

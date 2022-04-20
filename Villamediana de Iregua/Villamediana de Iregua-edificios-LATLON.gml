@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.438227 42.410656 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.438348 42.410656 </gml:lowerCorner>
       		<gml:upperCorner>-2.353011 42.452679 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -25,6 +25,48 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.437636 42.426874  -2.437500 42.426864  -2.437498 42.426915  -2.437633 42.426921  -2.437636 42.426874  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4147757">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.438278 42.421875 </gml:lowerCorner>
+        		<gml:upperCorner>-2.438195 42.421959 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.438278 42.421886  -2.438217 42.421875  -2.438195 42.421948  -2.438258 42.421959  -2.438278 42.421886  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4147758">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.438348 42.421763 </gml:lowerCorner>
+        		<gml:upperCorner>-2.438229 42.421849 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.438326 42.421849  -2.438348 42.421785  -2.438247 42.421763  -2.438229 42.421834  -2.438326 42.421849  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3700,27 +3742,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.417340 42.425217  -2.417383 42.425259  -2.417439 42.425225  -2.417392 42.425191  -2.417340 42.425217  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4273933">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.416708 42.450101 </gml:lowerCorner>
-        		<gml:upperCorner>-2.416478 42.450313 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.416504 42.450128  -2.416478 42.450136  -2.416583 42.450306  -2.416588 42.450313  -2.416708 42.450273  -2.416601 42.450101  -2.416504 42.450128  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12846,48 +12867,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.416265 42.426860  -2.416311 42.426898  -2.416336 42.426887  -2.416376 42.426926  -2.416443 42.426894  -2.416346 42.426817  -2.416282 42.426851  -2.416265 42.426860  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4274368">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.416631 42.449887 </gml:lowerCorner>
-        		<gml:upperCorner>-2.416383 42.450128 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.416397 42.449959  -2.416504 42.450128  -2.416601 42.450101  -2.416631 42.450091  -2.416504 42.449887  -2.416455 42.449904  -2.416383 42.449932  -2.416397 42.449959  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4274369">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.416397 42.449888 </gml:lowerCorner>
-        		<gml:upperCorner>-2.415843 42.450127 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.416314 42.449911  -2.416280 42.449923  -2.416258 42.449888  -2.415843 42.450028  -2.415870 42.450071  -2.415903 42.450125  -2.415904 42.450127  -2.416315 42.449987  -2.416356 42.449973  -2.416373 42.449967  -2.416397 42.449959  -2.416383 42.449932  -2.416329 42.449947  -2.416314 42.449911  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -35115,27 +35094,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4275429">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.429582 42.447195 </gml:lowerCorner>
-        		<gml:upperCorner>-2.429482 42.447264 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.429581 42.447201  -2.429509 42.447195  -2.429505 42.447215  -2.429490 42.447214  -2.429482 42.447254  -2.429574 42.447264  -2.429582 42.447224  -2.429578 42.447223  -2.429581 42.447201  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4275430">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -38310,15 +38268,15 @@
       <ms:edificios gml:id="edificios.4275581">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.421724 42.450260 </gml:lowerCorner>
-        		<gml:upperCorner>-2.421618 42.450337 </gml:upperCorner>
+        		<gml:lowerCorner>-2.421704 42.450305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.421597 42.450382 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.421695 42.450337  -2.421724 42.450281  -2.421646 42.450260  -2.421618 42.450315  -2.421695 42.450337  </gml:posList>
+                <gml:posList srsDimension="2">-2.421674 42.450382  -2.421704 42.450327  -2.421626 42.450305  -2.421597 42.450360  -2.421674 42.450382  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -52211,27 +52169,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4276242">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.416958 42.449412 </gml:lowerCorner>
-        		<gml:upperCorner>-2.415953 42.449947 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.416314 42.449911  -2.416329 42.449947  -2.416383 42.449932  -2.416455 42.449904  -2.416375 42.449775  -2.416332 42.449706  -2.416364 42.449695  -2.416375 42.449691  -2.416913 42.449508  -2.416911 42.449504  -2.416958 42.449489  -2.416919 42.449425  -2.416871 42.449442  -2.416852 42.449412  -2.416376 42.449573  -2.416303 42.449598  -2.416307 42.449603  -2.416276 42.449613  -2.416162 42.449425  -2.416158 42.449417  -2.415972 42.449480  -2.415978 42.449488  -2.416002 42.449527  -2.415953 42.449545  -2.416055 42.449708  -2.416104 42.449691  -2.416164 42.449671  -2.416192 42.449717  -2.416311 42.449906  -2.416314 42.449911  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4276243">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -57628,7 +57565,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.426553 42.448887  -2.426570 42.448895  -2.426594 42.448880  -2.426615 42.448855  -2.426570 42.448831  -2.426529 42.448874  -2.426553 42.448887  </gml:posList>
+                <gml:posList srsDimension="2">-2.426553 42.448887  -2.426561 42.448891  -2.426570 42.448895  -2.426594 42.448880  -2.426615 42.448855  -2.426570 42.448831  -2.426529 42.448874  -2.426553 42.448887  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -58133,27 +58070,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.416059 42.427945  -2.416093 42.427974  -2.416110 42.427963  -2.416149 42.427939  -2.416116 42.427910  -2.416059 42.427945  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4276524">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.428563 42.447961 </gml:lowerCorner>
-        		<gml:upperCorner>-2.428488 42.448030 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.428558 42.447982  -2.428563 42.447974  -2.428520 42.447961  -2.428488 42.448017  -2.428530 42.448030  -2.428558 42.447982  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -60023,27 +59939,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.408540 42.424150  -2.408478 42.424066  -2.408422 42.424092  -2.408448 42.424124  -2.408490 42.424173  -2.408540 42.424150  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4276614">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.415494 42.449290 </gml:lowerCorner>
-        		<gml:upperCorner>-2.415412 42.449351 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.415457 42.449290  -2.415412 42.449327  -2.415449 42.449351  -2.415494 42.449314  -2.415457 42.449290  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -74522,6 +74417,90 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
+      <ms:edificios gml:id="edificios.4289734">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.427593 42.447477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.427533 42.447530 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.427577 42.447530  -2.427593 42.447486  -2.427549 42.447477  -2.427533 42.447521  -2.427577 42.447530  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4297527">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.426561 42.448864 </gml:lowerCorner>
+        		<gml:upperCorner>-2.426453 42.448960 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.426491 42.448960  -2.426561 42.448891  -2.426529 42.448874  -2.426501 42.448864  -2.426483 42.448894  -2.426483 42.448908  -2.426453 42.448940  -2.426491 42.448960  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4297535">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.425644 42.449472 </gml:lowerCorner>
+        		<gml:upperCorner>-2.425578 42.449558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.425629 42.449558  -2.425644 42.449477  -2.425591 42.449472  -2.425578 42.449553  -2.425629 42.449558  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4297546">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.427210 42.448363 </gml:lowerCorner>
+        		<gml:upperCorner>-2.427138 42.448425 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.427138 42.448409  -2.427172 42.448425  -2.427210 42.448378  -2.427177 42.448363  -2.427138 42.448409  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
       <ms:edificios gml:id="edificios.4511840">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -74576,6 +74555,27 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.429115 42.412037  -2.429144 42.411990  -2.429016 42.411949  -2.428987 42.411996  -2.429115 42.412037  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Villamediana de Iregua</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Villamediana de Iregua</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4512697">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.438124 42.422127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.437949 42.422184 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.438124 42.422128  -2.438010 42.422127  -2.438009 42.422140  -2.437949 42.422139  -2.437950 42.422180  -2.438121 42.422184  -2.438124 42.422128  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

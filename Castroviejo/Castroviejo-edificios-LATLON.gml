@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.674321 42.308323 </gml:lowerCorner>
-      		<gml:upperCorner>-2.616974 42.347835 </gml:upperCorner>
+      		<gml:upperCorner>-2.616956 42.347835 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -3335,14 +3335,14 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.617016 42.327514 </gml:lowerCorner>
-        		<gml:upperCorner>-2.616974 42.327552 </gml:upperCorner>
+        		<gml:upperCorner>-2.616956 42.327560 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.616974 42.327522  -2.616996 42.327552  -2.617016 42.327543  -2.617016 42.327543  -2.616992 42.327514  -2.616974 42.327522  </gml:posList>
+                <gml:posList srsDimension="2">-2.616956 42.327528  -2.616979 42.327560  -2.617016 42.327543  -2.617016 42.327543  -2.616992 42.327514  -2.616956 42.327528  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

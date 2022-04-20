@@ -7366,13 +7366,13 @@
       <ms:portales gml:id="portales.4208864">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.700055 42.195270 </gml:lowerCorner>
-        		<gml:upperCorner>-2.700055 42.195270 </gml:upperCorner>
+        		<gml:lowerCorner>-2.700061 42.195283 </gml:lowerCorner>
+        		<gml:upperCorner>-2.700061 42.195283 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.700055 42.195270 </gml:pos>
+            <gml:pos>-2.700061 42.195283 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle el Montito</ms:NOMBRE_COMPLETO_VIAL>
