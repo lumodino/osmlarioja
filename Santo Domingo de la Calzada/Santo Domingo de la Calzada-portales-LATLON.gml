@@ -16291,13 +16291,13 @@
       <ms:portales gml:id="portales.271683">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952678 42.445256 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952678 42.445256 </gml:upperCorner>
+        		<gml:lowerCorner>-2.952716 42.445260 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952716 42.445260 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.952678 42.445256 </gml:pos>
+            <gml:pos>-2.952716 42.445260 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Baños</ms:NOMBRE_COMPLETO_VIAL>
@@ -16312,13 +16312,13 @@
       <ms:portales gml:id="portales.271685">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952673 42.445318 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952673 42.445318 </gml:upperCorner>
+        		<gml:lowerCorner>-2.952712 42.445322 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952712 42.445322 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.952673 42.445318 </gml:pos>
+            <gml:pos>-2.952712 42.445322 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Baños</ms:NOMBRE_COMPLETO_VIAL>
@@ -16333,13 +16333,13 @@
       <ms:portales gml:id="portales.271684">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952706 42.445056 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952706 42.445056 </gml:upperCorner>
+        		<gml:lowerCorner>-2.952745 42.445060 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952745 42.445060 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.952706 42.445056 </gml:pos>
+            <gml:pos>-2.952745 42.445060 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Baños</ms:NOMBRE_COMPLETO_VIAL>
@@ -16480,13 +16480,13 @@
       <ms:portales gml:id="portales.271686">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952661 42.445607 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952661 42.445607 </gml:upperCorner>
+        		<gml:lowerCorner>-2.952700 42.445611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952700 42.445611 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.952661 42.445607 </gml:pos>
+            <gml:pos>-2.952700 42.445611 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Baños</ms:NOMBRE_COMPLETO_VIAL>

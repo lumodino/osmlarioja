@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.980767 42.405157 </gml:lowerCorner>
-      		<gml:upperCorner>-2.919836 42.475710 </gml:upperCorner>
+      		<gml:lowerCorner>-2.991289 42.405157 </gml:lowerCorner>
+      		<gml:upperCorner>-2.909003 42.475710 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -402,7 +402,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.958579 42.431555  -2.958699 42.431565  -2.958707 42.431516  -2.958587 42.431505  -2.958579 42.431555  </gml:posList>
+                <gml:posList srsDimension="2">-2.958579 42.431555  -2.958699 42.431565  -2.958707 42.431516  -2.958647 42.431511  -2.958587 42.431505  -2.958579 42.431555  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -436,15 +436,15 @@
       <ms:edificios gml:id="edificios.4211764">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.957312 42.431003 </gml:lowerCorner>
-        		<gml:upperCorner>-2.957063 42.431078 </gml:upperCorner>
+        		<gml:lowerCorner>-2.957321 42.430993 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957079 42.431068 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.957074 42.431078  -2.957090 42.431075  -2.957312 42.431043  -2.957302 42.431003  -2.957063 42.431038  -2.957074 42.431078  </gml:posList>
+                <gml:posList srsDimension="2">-2.957083 42.431068  -2.957321 42.431033  -2.957311 42.430993  -2.957079 42.431009  -2.957083 42.431068  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1129,15 +1129,15 @@
       <ms:edificios gml:id="edificios.4211797">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.947593 42.442062 </gml:lowerCorner>
-        		<gml:upperCorner>-2.947489 42.442145 </gml:upperCorner>
+        		<gml:lowerCorner>-2.947602 42.442045 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947498 42.442129 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.947527 42.442062  -2.947489 42.442123  -2.947556 42.442145  -2.947593 42.442084  -2.947527 42.442062  </gml:posList>
+                <gml:posList srsDimension="2">-2.947536 42.442045  -2.947498 42.442106  -2.947565 42.442129  -2.947602 42.442067  -2.947536 42.442045  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1339,7 +1339,7 @@
       <ms:edificios gml:id="edificios.4211807">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.940825 42.443774 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.940837 42.443745 </gml:lowerCorner>
         		<gml:upperCorner>-2.940704 42.443863 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -1347,7 +1347,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.940731 42.443774  -2.940704 42.443843  -2.940798 42.443863  -2.940825 42.443794  -2.940731 42.443774  </gml:posList>
+                <gml:posList srsDimension="2">-2.940737 42.443745  -2.940704 42.443843  -2.940798 42.443863  -2.940837 42.443766  -2.940737 42.443745  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1360,15 +1360,15 @@
       <ms:edificios gml:id="edificios.4211808">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.940053 42.443408 </gml:lowerCorner>
-        		<gml:upperCorner>-2.939984 42.443456 </gml:upperCorner>
+        		<gml:lowerCorner>-2.940061 42.443391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939972 42.443456 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.939984 42.443434  -2.940030 42.443456  -2.940053 42.443430  -2.940007 42.443408  -2.939984 42.443434  </gml:posList>
+                <gml:posList srsDimension="2">-2.939972 42.443427  -2.940030 42.443456  -2.940061 42.443417  -2.940001 42.443391  -2.939972 42.443427  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2956,7 +2956,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.953794 42.460978  -2.953757 42.461029  -2.953854 42.461067  -2.953891 42.461015  -2.953794 42.460978  </gml:posList>
+                <gml:posList srsDimension="2">-2.953794 42.460978  -2.953757 42.461029  -2.953854 42.461067  -2.953891 42.461015  -2.953843 42.460996  -2.953794 42.460978  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3641,15 +3641,15 @@
       <ms:edificios gml:id="edificios.4211914">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.946607 42.432453 </gml:lowerCorner>
-        		<gml:upperCorner>-2.945486 42.433284 </gml:upperCorner>
+        		<gml:lowerCorner>-2.946607 42.432107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.945006 42.433284 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.945963 42.433280  -2.945969 42.433284  -2.946360 42.432982  -2.946351 42.432975  -2.946607 42.432777  -2.946142 42.432453  -2.945486 42.432953  -2.945677 42.433083  -2.945963 42.433280  </gml:posList>
+                <gml:posList srsDimension="2">-2.945963 42.433280  -2.945969 42.433284  -2.946360 42.432982  -2.946351 42.432975  -2.946607 42.432777  -2.945660 42.432107  -2.945006 42.432627  -2.945677 42.433083  -2.945963 42.433280  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4706,15 +4706,15 @@
       <ms:edificios gml:id="edificios.4211963">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.947079 42.443727 </gml:lowerCorner>
-        		<gml:upperCorner>-2.946886 42.443931 </gml:upperCorner>
+        		<gml:lowerCorner>-2.947100 42.443725 </gml:lowerCorner>
+        		<gml:upperCorner>-2.946907 42.443929 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.946948 42.443727  -2.946886 42.443898  -2.947056 42.443931  -2.947079 42.443866  -2.947023 42.443855  -2.947061 42.443750  -2.946948 42.443727  </gml:posList>
+                <gml:posList srsDimension="2">-2.946968 42.443725  -2.946907 42.443896  -2.947076 42.443929  -2.947100 42.443864  -2.947043 42.443853  -2.947081 42.443747  -2.946968 42.443725  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5294,15 +5294,15 @@
       <ms:edificios gml:id="edificios.4211991">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.948694 42.432854 </gml:lowerCorner>
-        		<gml:upperCorner>-2.948485 42.433038 </gml:upperCorner>
+        		<gml:lowerCorner>-2.948697 42.432836 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948488 42.433020 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.948616 42.432869  -2.948506 42.432982  -2.948485 42.433004  -2.948549 42.433038  -2.948570 42.433016  -2.948680 42.432903  -2.948694 42.432888  -2.948630 42.432854  -2.948616 42.432869  </gml:posList>
+                <gml:posList srsDimension="2">-2.948619 42.432850  -2.948509 42.432964  -2.948488 42.432986  -2.948552 42.433020  -2.948573 42.432998  -2.948683 42.432884  -2.948697 42.432870  -2.948633 42.432836  -2.948619 42.432850  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5336,15 +5336,15 @@
       <ms:edificios gml:id="edificios.4211993">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.949087 42.433100 </gml:lowerCorner>
-        		<gml:upperCorner>-2.948878 42.433271 </gml:upperCorner>
+        		<gml:lowerCorner>-2.949100 42.433065 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948890 42.433237 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.948966 42.433271  -2.949087 42.433147  -2.948999 42.433100  -2.948878 42.433224  -2.948966 42.433271  </gml:posList>
+                <gml:posList srsDimension="2">-2.948979 42.433237  -2.949100 42.433113  -2.949011 42.433065  -2.948890 42.433189  -2.948979 42.433237  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6467,27 +6467,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.958310 42.440608  -2.958389 42.440626  -2.958400 42.440606  -2.958410 42.440586  -2.958337 42.440571  -2.958325 42.440587  -2.958313 42.440604  -2.958310 42.440608  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4212047">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954529 42.432117 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954147 42.432463 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954229 42.432229  -2.954147 42.432346  -2.954274 42.432396  -2.954378 42.432437  -2.954422 42.432454  -2.954437 42.432463  -2.954423 42.432452  -2.954445 42.432396  -2.954453 42.432376  -2.954472 42.432325  -2.954529 42.432180  -2.954494 42.432171  -2.954308 42.432117  -2.954229 42.432229  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9083,15 +9062,15 @@
       <ms:edificios gml:id="edificios.4212171">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.960449 42.441417 </gml:lowerCorner>
-        		<gml:upperCorner>-2.960344 42.441508 </gml:upperCorner>
+        		<gml:lowerCorner>-2.960458 42.441403 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960353 42.441494 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.960449 42.441508  -2.960446 42.441430  -2.960351 42.441417  -2.960344 42.441487  -2.960449 42.441508  </gml:posList>
+                <gml:posList srsDimension="2">-2.960458 42.441494  -2.960456 42.441416  -2.960361 42.441403  -2.960353 42.441473  -2.960458 42.441494  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9427,7 +9406,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.962366 42.444923  -2.962186 42.444923  -2.962186 42.445073  -2.962367 42.445073  -2.962366 42.444923  </gml:posList>
+                <gml:posList srsDimension="2">-2.962366 42.444923  -2.962186 42.444923  -2.962186 42.444998  -2.962186 42.445073  -2.962367 42.445073  -2.962366 42.444923  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9448,7 +9427,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.961926 42.443165  -2.961842 42.443153  -2.961818 42.443241  -2.961902 42.443254  -2.961926 42.443165  </gml:posList>
+                <gml:posList srsDimension="2">-2.961926 42.443165  -2.961884 42.443159  -2.961842 42.443153  -2.961818 42.443241  -2.961902 42.443254  -2.961926 42.443165  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10007,15 +9986,15 @@
       <ms:edificios gml:id="edificios.4212215">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.951867 42.424446 </gml:lowerCorner>
-        		<gml:upperCorner>-2.951780 42.424504 </gml:upperCorner>
+        		<gml:lowerCorner>-2.951896 42.424437 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951809 42.424495 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.951804 42.424446  -2.951780 42.424477  -2.951843 42.424504  -2.951867 42.424472  -2.951804 42.424446  </gml:posList>
+                <gml:posList srsDimension="2">-2.951833 42.424437  -2.951809 42.424468  -2.951872 42.424495  -2.951896 42.424464  -2.951833 42.424437  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10616,15 +10595,15 @@
       <ms:edificios gml:id="edificios.4212244">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954084 42.431083 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954021 42.431128 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954088 42.431068 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954024 42.431113 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954021 42.431083  -2.954021 42.431128  -2.954084 42.431128  -2.954084 42.431083  -2.954021 42.431083  </gml:posList>
+                <gml:posList srsDimension="2">-2.954024 42.431068  -2.954024 42.431113  -2.954088 42.431113  -2.954088 42.431068  -2.954024 42.431068  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14984,15 +14963,15 @@
       <ms:edificios gml:id="edificios.4212452">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.951804 42.424417 </gml:lowerCorner>
-        		<gml:upperCorner>-2.951713 42.424477 </gml:upperCorner>
+        		<gml:lowerCorner>-2.951833 42.424409 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951742 42.424468 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.951737 42.424417  -2.951713 42.424448  -2.951780 42.424477  -2.951804 42.424446  -2.951737 42.424417  </gml:posList>
+                <gml:posList srsDimension="2">-2.951766 42.424409  -2.951742 42.424440  -2.951809 42.424468  -2.951833 42.424437  -2.951766 42.424409  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15005,15 +14984,15 @@
       <ms:edificios gml:id="edificios.4212453">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.951737 42.424376 </gml:lowerCorner>
-        		<gml:upperCorner>-2.951616 42.424448 </gml:upperCorner>
+        		<gml:lowerCorner>-2.951766 42.424368 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951645 42.424440 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.951616 42.424408  -2.951713 42.424448  -2.951737 42.424417  -2.951641 42.424376  -2.951616 42.424408  </gml:posList>
+                <gml:posList srsDimension="2">-2.951645 42.424399  -2.951742 42.424440  -2.951766 42.424409  -2.951669 42.424368  -2.951645 42.424399  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15047,15 +15026,15 @@
       <ms:edificios gml:id="edificios.4212455">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.943441 42.435123 </gml:lowerCorner>
-        		<gml:upperCorner>-2.942689 42.435661 </gml:upperCorner>
+        		<gml:lowerCorner>-2.943407 42.435054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.942655 42.435592 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.942689 42.435545  -2.943284 42.435661  -2.943441 42.435219  -2.942949 42.435123  -2.942782 42.435308  -2.942846 42.435339  -2.942706 42.435496  -2.942689 42.435545  </gml:posList>
+                <gml:posList srsDimension="2">-2.942655 42.435476  -2.943251 42.435592  -2.943407 42.435150  -2.942915 42.435054  -2.942749 42.435239  -2.942812 42.435270  -2.942672 42.435427  -2.942655 42.435476  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16055,15 +16034,15 @@
       <ms:edificios gml:id="edificios.4212503">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.947623 42.442016 </gml:lowerCorner>
-        		<gml:upperCorner>-2.947527 42.442084 </gml:upperCorner>
+        		<gml:lowerCorner>-2.947632 42.442000 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947536 42.442067 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.947527 42.442062  -2.947593 42.442084  -2.947623 42.442039  -2.947554 42.442016  -2.947527 42.442062  </gml:posList>
+                <gml:posList srsDimension="2">-2.947536 42.442045  -2.947602 42.442067  -2.947632 42.442023  -2.947563 42.442000  -2.947536 42.442045  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19696,7 +19675,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.961564 42.425794  -2.961661 42.425798  -2.961667 42.425734  -2.961571 42.425732  -2.961564 42.425794  </gml:posList>
+                <gml:posList srsDimension="2">-2.961564 42.425794  -2.961661 42.425798  -2.961664 42.425766  -2.961667 42.425734  -2.961571 42.425732  -2.961564 42.425794  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20956,7 +20935,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.959945 42.429220  -2.959939 42.429260  -2.959970 42.429262  -2.959975 42.429223  -2.959945 42.429220  </gml:posList>
+                <gml:posList srsDimension="2">-2.959945 42.429220  -2.959939 42.429260  -2.959970 42.429262  -2.959972 42.429243  -2.959975 42.429223  -2.959945 42.429220  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21313,7 +21292,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.960716 42.437491  -2.960713 42.437503  -2.960684 42.437613  -2.960682 42.437621  -2.960791 42.437637  -2.960795 42.437638  -2.960829 42.437507  -2.960716 42.437491  </gml:posList>
+                <gml:posList srsDimension="2">-2.960716 42.437491  -2.960713 42.437503  -2.960701 42.437549  -2.960684 42.437613  -2.960682 42.437621  -2.960791 42.437637  -2.960795 42.437638  -2.960829 42.437507  -2.960716 42.437491  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23476,7 +23455,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.948794 42.422163  -2.948926 42.422165  -2.948927 42.422125  -2.948795 42.422123  -2.948794 42.422163  </gml:posList>
+                <gml:posList srsDimension="2">-2.948794 42.422163  -2.948926 42.422165  -2.948927 42.422125  -2.948861 42.422124  -2.948795 42.422123  -2.948794 42.422163  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23497,7 +23476,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.949475 42.422271  -2.949384 42.422271  -2.949384 42.422312  -2.949475 42.422312  -2.949475 42.422271  </gml:posList>
+                <gml:posList srsDimension="2">-2.949475 42.422271  -2.949430 42.422271  -2.949384 42.422271  -2.949384 42.422312  -2.949475 42.422312  -2.949475 42.422271  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24518,15 +24497,15 @@
       <ms:edificios gml:id="edificios.4212906">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.956517 42.431394 </gml:lowerCorner>
-        		<gml:upperCorner>-2.956416 42.431469 </gml:upperCorner>
+        		<gml:lowerCorner>-2.956527 42.431394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956426 42.431469 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.956416 42.431402  -2.956426 42.431469  -2.956517 42.431462  -2.956507 42.431394  -2.956416 42.431402  </gml:posList>
+                <gml:posList srsDimension="2">-2.956426 42.431402  -2.956436 42.431469  -2.956527 42.431462  -2.956516 42.431394  -2.956426 42.431402  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24547,7 +24526,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.957357 42.431744  -2.957297 42.431740  -2.957292 42.431776  -2.957353 42.431780  -2.957357 42.431744  </gml:posList>
+                <gml:posList srsDimension="2">-2.957357 42.431744  -2.957297 42.431740  -2.957292 42.431776  -2.957353 42.431780  -2.957355 42.431762  -2.957357 42.431744  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24568,7 +24547,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.960716 42.437491  -2.960829 42.437507  -2.960848 42.437435  -2.960735 42.437418  -2.960716 42.437491  </gml:posList>
+                <gml:posList srsDimension="2">-2.960716 42.437491  -2.960829 42.437507  -2.960848 42.437435  -2.960735 42.437418  -2.960726 42.437454  -2.960716 42.437491  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26584,7 +26563,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.960754 42.437347  -2.960753 42.437351  -2.960752 42.437355  -2.960735 42.437418  -2.960848 42.437435  -2.960867 42.437362  -2.960863 42.437361  -2.960754 42.437347  </gml:posList>
+                <gml:posList srsDimension="2">-2.960754 42.437347  -2.960753 42.437351  -2.960752 42.437355  -2.960746 42.437379  -2.960735 42.437418  -2.960848 42.437435  -2.960867 42.437362  -2.960863 42.437361  -2.960754 42.437347  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -28222,7 +28201,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.966272 42.444167  -2.966136 42.444155  -2.966067 42.444506  -2.966203 42.444519  -2.966204 42.444512  -2.966272 42.444167  </gml:posList>
+                <gml:posList srsDimension="2">-2.966272 42.444167  -2.966136 42.444155  -2.966067 42.444506  -2.966135 42.444513  -2.966203 42.444519  -2.966204 42.444512  -2.966272 42.444167  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -29243,15 +29222,15 @@
       <ms:edificios gml:id="edificios.4213131">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954508 42.431798 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954466 42.431829 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954512 42.431783 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954469 42.431814 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954466 42.431798  -2.954466 42.431829  -2.954508 42.431829  -2.954508 42.431798  -2.954466 42.431798  </gml:posList>
+                <gml:posList srsDimension="2">-2.954469 42.431783  -2.954469 42.431814  -2.954512 42.431814  -2.954512 42.431783  -2.954469 42.431783  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -33317,15 +33296,15 @@
       <ms:edificios gml:id="edificios.4213325">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.965006 42.434993 </gml:lowerCorner>
-        		<gml:upperCorner>-2.964923 42.435052 </gml:upperCorner>
+        		<gml:lowerCorner>-2.965014 42.434985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964931 42.435044 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.965001 42.435052  -2.965006 42.434997  -2.964928 42.434993  -2.964923 42.435048  -2.965001 42.435052  </gml:posList>
+                <gml:posList srsDimension="2">-2.965009 42.435044  -2.965014 42.434989  -2.964936 42.434985  -2.964931 42.435040  -2.965009 42.435044  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34312,7 +34291,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.965254 42.426203  -2.965315 42.426214  -2.965334 42.426218  -2.965349 42.426172  -2.965268 42.426158  -2.965254 42.426203  </gml:posList>
+                <gml:posList srsDimension="2">-2.965254 42.426203  -2.965315 42.426214  -2.965334 42.426218  -2.965341 42.426195  -2.965349 42.426172  -2.965268 42.426158  -2.965254 42.426203  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34598,15 +34577,15 @@
       <ms:edificios gml:id="edificios.4213386">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954504 42.431751 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954453 42.431788 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954507 42.431736 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954457 42.431773 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954462 42.431788  -2.954504 42.431782  -2.954495 42.431751  -2.954453 42.431758  -2.954462 42.431788  </gml:posList>
+                <gml:posList srsDimension="2">-2.954466 42.431773  -2.954507 42.431767  -2.954498 42.431736  -2.954457 42.431743  -2.954466 42.431773  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34619,15 +34598,15 @@
       <ms:edificios gml:id="edificios.4213387">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954454 42.431601 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954381 42.431653 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954457 42.431586 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954385 42.431638 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954398 42.431653  -2.954454 42.431639  -2.954437 42.431601  -2.954381 42.431614  -2.954398 42.431653  </gml:posList>
+                <gml:posList srsDimension="2">-2.954402 42.431638  -2.954457 42.431624  -2.954440 42.431586  -2.954412 42.431592  -2.954385 42.431599  -2.954402 42.431638  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34640,15 +34619,15 @@
       <ms:edificios gml:id="edificios.4213388">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954390 42.431453 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954325 42.431507 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954394 42.431438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954328 42.431492 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954344 42.431507  -2.954390 42.431495  -2.954371 42.431453  -2.954325 42.431464  -2.954344 42.431507  </gml:posList>
+                <gml:posList srsDimension="2">-2.954347 42.431492  -2.954394 42.431480  -2.954374 42.431438  -2.954328 42.431449  -2.954347 42.431492  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -34661,15 +34640,15 @@
       <ms:edificios gml:id="edificios.4213389">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954225 42.431733 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954157 42.431774 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954229 42.431718 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954160 42.431759 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954157 42.431733  -2.954157 42.431774  -2.954225 42.431774  -2.954225 42.431733  -2.954157 42.431733  </gml:posList>
+                <gml:posList srsDimension="2">-2.954160 42.431718  -2.954160 42.431759  -2.954229 42.431759  -2.954229 42.431718  -2.954160 42.431718  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36131,15 +36110,15 @@
       <ms:edificios gml:id="edificios.4213459">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954221 42.431682 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954173 42.431708 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954224 42.431667 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954177 42.431693 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954173 42.431682  -2.954173 42.431708  -2.954221 42.431708  -2.954221 42.431682  -2.954173 42.431682  </gml:posList>
+                <gml:posList srsDimension="2">-2.954177 42.431667  -2.954177 42.431693  -2.954224 42.431693  -2.954224 42.431667  -2.954177 42.431667  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36152,15 +36131,15 @@
       <ms:edificios gml:id="edificios.4213460">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954135 42.431842 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954075 42.431892 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954138 42.431827 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954078 42.431877 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954075 42.431842  -2.954075 42.431892  -2.954134 42.431892  -2.954135 42.431842  -2.954075 42.431842  </gml:posList>
+                <gml:posList srsDimension="2">-2.954078 42.431827  -2.954078 42.431877  -2.954138 42.431877  -2.954138 42.431827  -2.954078 42.431827  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36761,15 +36740,15 @@
       <ms:edificios gml:id="edificios.4213489">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.965028 42.435610 </gml:lowerCorner>
-        		<gml:upperCorner>-2.964885 42.435722 </gml:upperCorner>
+        		<gml:lowerCorner>-2.965020 42.435584 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964877 42.435695 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.964885 42.435652  -2.964913 42.435666  -2.964902 42.435680  -2.964993 42.435722  -2.965004 42.435708  -2.964993 42.435702  -2.965028 42.435661  -2.964967 42.435632  -2.964920 42.435610  -2.964885 42.435652  </gml:posList>
+                <gml:posList srsDimension="2">-2.964877 42.435626  -2.964906 42.435639  -2.964894 42.435653  -2.964985 42.435695  -2.964997 42.435682  -2.964985 42.435676  -2.965020 42.435634  -2.964960 42.435606  -2.964912 42.435584  -2.964877 42.435626  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36782,15 +36761,15 @@
       <ms:edificios gml:id="edificios.4213490">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.964995 42.434781 </gml:lowerCorner>
-        		<gml:upperCorner>-2.964915 42.434817 </gml:upperCorner>
+        		<gml:lowerCorner>-2.965001 42.434764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964921 42.434800 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.964915 42.434781  -2.964915 42.434817  -2.964995 42.434817  -2.964995 42.434781  -2.964915 42.434781  </gml:posList>
+                <gml:posList srsDimension="2">-2.964921 42.434764  -2.964921 42.434800  -2.965001 42.434800  -2.965001 42.434764  -2.964921 42.434764  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36824,15 +36803,15 @@
       <ms:edificios gml:id="edificios.4213492">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.965247 42.435290 </gml:lowerCorner>
-        		<gml:upperCorner>-2.965181 42.435440 </gml:upperCorner>
+        		<gml:lowerCorner>-2.965248 42.435255 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965175 42.435425 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.965192 42.435440  -2.965247 42.435440  -2.965247 42.435345  -2.965246 42.435339  -2.965235 42.435290  -2.965181 42.435297  -2.965192 42.435345  -2.965192 42.435440  </gml:posList>
+                <gml:posList srsDimension="2">-2.965193 42.435425  -2.965248 42.435425  -2.965248 42.435330  -2.965247 42.435323  -2.965230 42.435255  -2.965175 42.435266  -2.965193 42.435330  -2.965193 42.435425  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -36845,15 +36824,15 @@
       <ms:edificios gml:id="edificios.4213493">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.965074 42.435338 </gml:lowerCorner>
-        		<gml:upperCorner>-2.964985 42.435401 </gml:upperCorner>
+        		<gml:lowerCorner>-2.965079 42.435318 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964991 42.435381 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.964986 42.435383  -2.964985 42.435398  -2.965069 42.435401  -2.965074 42.435341  -2.965061 42.435341  -2.964990 42.435338  -2.964986 42.435383  </gml:posList>
+                <gml:posList srsDimension="2">-2.964992 42.435363  -2.964991 42.435378  -2.965075 42.435381  -2.965079 42.435321  -2.965067 42.435321  -2.964996 42.435318  -2.964992 42.435363  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -37265,15 +37244,15 @@
       <ms:edificios gml:id="edificios.4213513">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971522 42.415460 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971428 42.415529 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971526 42.415440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971433 42.415509 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971428 42.415460  -2.971428 42.415478  -2.971428 42.415529  -2.971522 42.415529  -2.971522 42.415478  -2.971522 42.415460  -2.971428 42.415460  </gml:posList>
+                <gml:posList srsDimension="2">-2.971433 42.415440  -2.971433 42.415458  -2.971433 42.415509  -2.971526 42.415509  -2.971526 42.415458  -2.971526 42.415440  -2.971433 42.415440  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -37307,7 +37286,7 @@
       <ms:edificios gml:id="edificios.4213515">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971006 42.415997 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.971072 42.415954 </gml:lowerCorner>
         		<gml:upperCorner>-2.970838 42.416082 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -37315,7 +37294,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.970838 42.416081  -2.970941 42.416082  -2.970942 42.416071  -2.971005 42.416071  -2.971006 42.415997  -2.970942 42.415997  -2.970942 42.416020  -2.970841 42.416017  -2.970838 42.416081  </gml:posList>
+                <gml:posList srsDimension="2">-2.970838 42.416081  -2.970941 42.416082  -2.970942 42.416076  -2.971019 42.416076  -2.971019 42.416012  -2.971064 42.416012  -2.971064 42.415994  -2.971072 42.415993  -2.971070 42.415954  -2.970943 42.415955  -2.970942 42.416020  -2.970841 42.416017  -2.970838 42.416081  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -37349,15 +37328,15 @@
       <ms:edificios gml:id="edificios.4213517">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954114 42.431451 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954063 42.431500 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954117 42.431436 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954066 42.431485 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954114 42.431451  -2.954063 42.431451  -2.954063 42.431500  -2.954114 42.431500  -2.954114 42.431451  </gml:posList>
+                <gml:posList srsDimension="2">-2.954117 42.431436  -2.954066 42.431436  -2.954066 42.431485  -2.954117 42.431485  -2.954117 42.431436  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -37370,15 +37349,15 @@
       <ms:edificios gml:id="edificios.4213518">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954087 42.431365 </gml:lowerCorner>
-        		<gml:upperCorner>-2.954041 42.431406 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954091 42.431350 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954044 42.431391 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954041 42.431365  -2.954041 42.431406  -2.954087 42.431406  -2.954087 42.431365  -2.954041 42.431365  </gml:posList>
+                <gml:posList srsDimension="2">-2.954044 42.431350  -2.954044 42.431391  -2.954091 42.431391  -2.954091 42.431350  -2.954044 42.431350  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -38155,28 +38134,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.945563 42.429154  -2.945507 42.429125  -2.945349 42.429043  -2.945209 42.429192  -2.945498 42.429341  -2.945638 42.429192  -2.945563 42.429154  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4213556">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.943590 42.428268 </gml:lowerCorner>
-        		<gml:upperCorner>-2.943525 42.428310 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.943525 42.428279  -2.943578 42.428310  -2.943590 42.428298  -2.943537 42.428268  -2.943525 42.428279  </gml:posList>
+                <gml:posList srsDimension="2">-2.945563 42.429154  -2.945507 42.429125  -2.945349 42.429043  -2.945209 42.429192  -2.945418 42.429300  -2.945498 42.429341  -2.945638 42.429192  -2.945563 42.429154  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -38189,15 +38147,15 @@
       <ms:edificios gml:id="edificios.4213557">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.943578 42.428279 </gml:lowerCorner>
-        		<gml:upperCorner>-2.943477 42.428356 </gml:upperCorner>
+        		<gml:lowerCorner>-2.943604 42.428241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943409 42.428391 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.943525 42.428279  -2.943477 42.428326  -2.943530 42.428356  -2.943578 42.428310  -2.943525 42.428279  </gml:posList>
+                <gml:posList srsDimension="2">-2.943493 42.428241  -2.943409 42.428333  -2.943508 42.428391  -2.943604 42.428297  -2.943493 42.428241  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -42116,15 +42074,15 @@
       <ms:edificios gml:id="edificios.4213744">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.961400 42.429404 </gml:lowerCorner>
-        		<gml:upperCorner>-2.961285 42.429580 </gml:upperCorner>
+        		<gml:lowerCorner>-2.961435 42.429410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961273 42.429585 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.961324 42.429406  -2.961296 42.429419  -2.961285 42.429554  -2.961312 42.429554  -2.961311 42.429577  -2.961392 42.429580  -2.961400 42.429404  -2.961324 42.429406  </gml:posList>
+                <gml:posList srsDimension="2">-2.961330 42.429438  -2.961329 42.429428  -2.961273 42.429447  -2.961288 42.429526  -2.961274 42.429527  -2.961279 42.429565  -2.961282 42.429570  -2.961328 42.429573  -2.961329 42.429584  -2.961427 42.429585  -2.961435 42.429410  -2.961382 42.429424  -2.961330 42.429438  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -44972,36 +44930,15 @@
       <ms:edificios gml:id="edificios.4213880">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.970793 42.466578 </gml:lowerCorner>
-        		<gml:upperCorner>-2.970646 42.466680 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971050 42.466564 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970646 42.466742 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.970759 42.466680  -2.970793 42.466613  -2.970679 42.466578  -2.970646 42.466653  -2.970759 42.466680  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4213881">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.964825 42.471540 </gml:lowerCorner>
-        		<gml:upperCorner>-2.964710 42.471613 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.964799 42.471613  -2.964825 42.471574  -2.964736 42.471540  -2.964710 42.471580  -2.964799 42.471613  </gml:posList>
+                <gml:posList srsDimension="2">-2.971008 42.466742  -2.971050 42.466655  -2.970805 42.466591  -2.970686 42.466564  -2.970666 42.466608  -2.970646 42.466653  -2.971008 42.466742  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -45056,15 +44993,15 @@
       <ms:edificios gml:id="edificios.4213884">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.967208 42.458682 </gml:lowerCorner>
-        		<gml:upperCorner>-2.966931 42.458841 </gml:upperCorner>
+        		<gml:lowerCorner>-2.967172 42.458689 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966951 42.458829 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.967208 42.458758  -2.967198 42.458754  -2.966970 42.458682  -2.966931 42.458768  -2.967164 42.458841  -2.967207 42.458765  -2.967208 42.458758  </gml:posList>
+                <gml:posList srsDimension="2">-2.967172 42.458746  -2.966990 42.458689  -2.966971 42.458725  -2.966951 42.458762  -2.967126 42.458829  -2.967172 42.458746  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -45413,15 +45350,15 @@
       <ms:edificios gml:id="edificios.4213901">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.954214 42.433012 </gml:lowerCorner>
-        		<gml:upperCorner>-2.953995 42.433249 </gml:upperCorner>
+        		<gml:lowerCorner>-2.954217 42.432963 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953998 42.433200 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.954071 42.433247  -2.954083 42.433249  -2.954096 42.433244  -2.954097 42.433241  -2.954137 42.433249  -2.954149 42.433217  -2.954153 42.433218  -2.954166 42.433213  -2.954170 42.433202  -2.954162 42.433193  -2.954158 42.433192  -2.954159 42.433190  -2.954163 42.433191  -2.954176 42.433186  -2.954180 42.433175  -2.954172 42.433166  -2.954168 42.433165  -2.954169 42.433163  -2.954175 42.433147  -2.954183 42.433125  -2.954187 42.433126  -2.954200 42.433120  -2.954204 42.433110  -2.954196 42.433101  -2.954192 42.433100  -2.954193 42.433098  -2.954197 42.433099  -2.954210 42.433094  -2.954214 42.433083  -2.954206 42.433074  -2.954202 42.433073  -2.954214 42.433040  -2.954174 42.433032  -2.954174 42.433031  -2.954167 42.433021  -2.954157 42.433019  -2.954156 42.433018  -2.954142 42.433024  -2.954141 42.433026  -2.954073 42.433012  -2.954058 42.433052  -2.954043 42.433049  -2.954027 42.433100  -2.954017 42.433127  -2.953995 42.433179  -2.954011 42.433182  -2.953996 42.433221  -2.954065 42.433234  -2.954064 42.433237  -2.954065 42.433238  -2.954071 42.433247  </gml:posList>
+                <gml:posList srsDimension="2">-2.954075 42.433198  -2.954086 42.433200  -2.954099 42.433195  -2.954100 42.433192  -2.954140 42.433200  -2.954152 42.433168  -2.954156 42.433169  -2.954170 42.433164  -2.954173 42.433153  -2.954166 42.433144  -2.954161 42.433143  -2.954162 42.433141  -2.954166 42.433142  -2.954179 42.433137  -2.954183 42.433126  -2.954175 42.433117  -2.954171 42.433116  -2.954172 42.433114  -2.954178 42.433098  -2.954186 42.433076  -2.954190 42.433077  -2.954203 42.433071  -2.954207 42.433061  -2.954199 42.433052  -2.954195 42.433051  -2.954196 42.433049  -2.954200 42.433050  -2.954213 42.433045  -2.954217 42.433034  -2.954209 42.433025  -2.954205 42.433024  -2.954217 42.432991  -2.954177 42.432983  -2.954178 42.432982  -2.954170 42.432972  -2.954160 42.432970  -2.954159 42.432970  -2.954145 42.432975  -2.954144 42.432977  -2.954076 42.432963  -2.954061 42.433003  -2.954046 42.433000  -2.954030 42.433051  -2.954020 42.433078  -2.953998 42.433130  -2.954014 42.433133  -2.954000 42.433172  -2.954068 42.433185  -2.954067 42.433188  -2.954068 42.433189  -2.954075 42.433198  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -46442,15 +46379,15 @@
       <ms:edificios gml:id="edificios.4213950">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.959319 42.406621 </gml:lowerCorner>
-        		<gml:upperCorner>-2.958830 42.406923 </gml:upperCorner>
+        		<gml:lowerCorner>-2.959317 42.406602 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958828 42.406905 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.958830 42.406782  -2.959210 42.406923  -2.959319 42.406762  -2.958939 42.406621  -2.958830 42.406782  </gml:posList>
+                <gml:posList srsDimension="2">-2.958828 42.406763  -2.959208 42.406905  -2.959317 42.406744  -2.958937 42.406602  -2.958882 42.406683  -2.958828 42.406763  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -47996,15 +47933,15 @@
       <ms:edificios gml:id="edificios.4214024">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.958684 42.409121 </gml:lowerCorner>
-        		<gml:upperCorner>-2.958567 42.409203 </gml:upperCorner>
+        		<gml:lowerCorner>-2.958748 42.409105 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958568 42.409298 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.958603 42.409121  -2.958567 42.409173  -2.958649 42.409203  -2.958684 42.409151  -2.958603 42.409121  </gml:posList>
+                <gml:posList srsDimension="2">-2.958604 42.409105  -2.958568 42.409157  -2.958638 42.409182  -2.958612 42.409222  -2.958634 42.409229  -2.958602 42.409279  -2.958655 42.409298  -2.958748 42.409154  -2.958604 42.409105  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -48017,15 +47954,15 @@
       <ms:edificios gml:id="edificios.4214025">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.952466 42.409653 </gml:lowerCorner>
-        		<gml:upperCorner>-2.952331 42.409762 </gml:upperCorner>
+        		<gml:lowerCorner>-2.952478 42.409629 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952327 42.409750 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.952331 42.409731  -2.952383 42.409762  -2.952466 42.409684  -2.952414 42.409653  -2.952331 42.409731  </gml:posList>
+                <gml:posList srsDimension="2">-2.952327 42.409712  -2.952385 42.409750  -2.952478 42.409665  -2.952416 42.409629  -2.952327 42.409712  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -50810,15 +50747,15 @@
       <ms:edificios gml:id="edificios.4214158">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.963441 42.412353 </gml:lowerCorner>
-        		<gml:upperCorner>-2.963314 42.412431 </gml:upperCorner>
+        		<gml:lowerCorner>-2.963438 42.412324 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963303 42.412416 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.963314 42.412380  -2.963338 42.412431  -2.963395 42.412416  -2.963441 42.412405  -2.963433 42.412388  -2.963418 42.412353  -2.963314 42.412380  </gml:posList>
+                <gml:posList srsDimension="2">-2.963303 42.412352  -2.963335 42.412416  -2.963392 42.412402  -2.963438 42.412390  -2.963430 42.412373  -2.963410 42.412324  -2.963367 42.412335  -2.963303 42.412352  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -50831,15 +50768,15 @@
       <ms:edificios gml:id="edificios.4214159">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.962876 42.412506 </gml:lowerCorner>
-        		<gml:upperCorner>-2.962799 42.412563 </gml:upperCorner>
+        		<gml:lowerCorner>-2.962879 42.412494 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962802 42.412551 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.962857 42.412506  -2.962799 42.412520  -2.962818 42.412563  -2.962876 42.412549  -2.962857 42.412506  </gml:posList>
+                <gml:posList srsDimension="2">-2.962860 42.412494  -2.962831 42.412501  -2.962802 42.412508  -2.962821 42.412551  -2.962879 42.412537  -2.962860 42.412494  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -53141,15 +53078,15 @@
       <ms:edificios gml:id="edificios.4214269">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.920658 42.429306 </gml:lowerCorner>
-        		<gml:upperCorner>-2.920253 42.429597 </gml:upperCorner>
+        		<gml:lowerCorner>-2.920683 42.429295 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920278 42.429585 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.920333 42.429350  -2.920303 42.429375  -2.920253 42.429417  -2.920525 42.429597  -2.920541 42.429584  -2.920606 42.429529  -2.920658 42.429485  -2.920386 42.429306  -2.920333 42.429350  </gml:posList>
+                <gml:posList srsDimension="2">-2.920358 42.429338  -2.920328 42.429363  -2.920278 42.429406  -2.920550 42.429585  -2.920566 42.429572  -2.920631 42.429518  -2.920683 42.429474  -2.920411 42.429295  -2.920358 42.429338  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -53162,15 +53099,15 @@
       <ms:edificios gml:id="edificios.4214270">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.920596 42.429315 </gml:lowerCorner>
-        		<gml:upperCorner>-2.920108 42.429676 </gml:upperCorner>
+        		<gml:lowerCorner>-2.920621 42.429303 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920133 42.429665 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.920541 42.429584  -2.920525 42.429597  -2.920253 42.429417  -2.920303 42.429375  -2.920212 42.429315  -2.920108 42.429401  -2.920528 42.429676  -2.920596 42.429620  -2.920541 42.429584  </gml:posList>
+                <gml:posList srsDimension="2">-2.920566 42.429572  -2.920550 42.429585  -2.920278 42.429406  -2.920328 42.429363  -2.920237 42.429303  -2.920133 42.429389  -2.920553 42.429665  -2.920621 42.429608  -2.920566 42.429572  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -53183,15 +53120,15 @@
       <ms:edificios gml:id="edificios.4214271">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.920386 42.429246 </gml:lowerCorner>
-        		<gml:upperCorner>-2.920212 42.429375 </gml:upperCorner>
+        		<gml:lowerCorner>-2.920411 42.429234 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920237 42.429363 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.920294 42.429246  -2.920212 42.429315  -2.920303 42.429375  -2.920333 42.429350  -2.920386 42.429306  -2.920294 42.429246  </gml:posList>
+                <gml:posList srsDimension="2">-2.920319 42.429234  -2.920237 42.429303  -2.920328 42.429363  -2.920358 42.429338  -2.920411 42.429295  -2.920319 42.429234  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -53204,15 +53141,15 @@
       <ms:edificios gml:id="edificios.4214272">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.920294 42.429067 </gml:lowerCorner>
-        		<gml:upperCorner>-2.919836 42.429401 </gml:upperCorner>
+        		<gml:lowerCorner>-2.920319 42.429055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.919860 42.429389 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.919836 42.429222  -2.920093 42.429391  -2.920108 42.429401  -2.920212 42.429315  -2.920294 42.429246  -2.920021 42.429067  -2.919836 42.429222  </gml:posList>
+                <gml:posList srsDimension="2">-2.919860 42.429210  -2.920118 42.429379  -2.920133 42.429389  -2.920237 42.429303  -2.920319 42.429234  -2.920046 42.429055  -2.919860 42.429210  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -56879,15 +56816,15 @@
       <ms:edificios gml:id="edificios.4214447">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.963491 42.473618 </gml:lowerCorner>
-        		<gml:upperCorner>-2.963001 42.473781 </gml:upperCorner>
+        		<gml:lowerCorner>-2.963488 42.473595 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962998 42.473758 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.963491 42.473768  -2.963486 42.473618  -2.963001 42.473624  -2.963008 42.473781  -2.963491 42.473768  </gml:posList>
+                <gml:posList srsDimension="2">-2.963488 42.473745  -2.963483 42.473595  -2.962998 42.473601  -2.963005 42.473758  -2.963488 42.473745  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -57017,6 +56954,5622 @@
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678234">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.942359 42.454247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.942342 42.454259 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.942342 42.454247  -2.942357 42.454259  -2.942359 42.454258  -2.942342 42.454247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678235">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.943826 42.455247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943637 42.455401 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.943637 42.455352  -2.943657 42.455370  -2.943720 42.455401  -2.943826 42.455293  -2.943740 42.455247  -2.943637 42.455352  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678236">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965272 42.409697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965184 42.409747 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965272 42.409709  -2.965192 42.409697  -2.965184 42.409732  -2.965263 42.409747  -2.965272 42.409709  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678237">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960488 42.412844 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960433 42.412900 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960488 42.412854  -2.960451 42.412844  -2.960433 42.412891  -2.960465 42.412900  -2.960488 42.412854  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678238">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971480 42.413959 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971394 42.414015 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971480 42.413972  -2.971408 42.413959  -2.971394 42.414003  -2.971469 42.414015  -2.971480 42.413972  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678239">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971446 42.414044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971366 42.414104 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971446 42.414055  -2.971381 42.414044  -2.971366 42.414092  -2.971431 42.414104  -2.971446 42.414055  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678240">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.991289 42.414047 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991153 42.414179 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.991289 42.414062  -2.991190 42.414047  -2.991153 42.414162  -2.991250 42.414179  -2.991289 42.414062  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678241">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971841 42.414142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971793 42.414182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971841 42.414147  -2.971796 42.414142  -2.971793 42.414178  -2.971831 42.414182  -2.971841 42.414147  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678242">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956644 42.414314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956596 42.414352 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956644 42.414323  -2.956610 42.414314  -2.956596 42.414342  -2.956628 42.414352  -2.956644 42.414323  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678243">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971376 42.414398 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971301 42.414482 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971376 42.414403  -2.971317 42.414398  -2.971301 42.414475  -2.971361 42.414482  -2.971376 42.414403  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678244">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956483 42.414486 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956363 42.414563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956464 42.414523  -2.956470 42.414515  -2.956401 42.414486  -2.956363 42.414535  -2.956429 42.414563  -2.956454 42.414531  -2.956476 42.414540  -2.956483 42.414531  -2.956464 42.414523  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678245">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958936 42.414503 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958801 42.414628 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958936 42.414573  -2.958928 42.414503  -2.958801 42.414508  -2.958805 42.414585  -2.958814 42.414593  -2.958819 42.414628  -2.958932 42.414624  -2.958936 42.414573  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678246">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959160 42.414512 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959072 42.414551 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959072 42.414512  -2.959077 42.414551  -2.959160 42.414550  -2.959156 42.414514  -2.959072 42.414512  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678247">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956463 42.414547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956428 42.414578 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956463 42.414554  -2.956448 42.414547  -2.956428 42.414571  -2.956442 42.414578  -2.956463 42.414554  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678248">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959183 42.414560 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959074 42.414617 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959183 42.414612  -2.959179 42.414560  -2.959074 42.414563  -2.959078 42.414617  -2.959183 42.414612  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678249">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971329 42.414685 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971287 42.414719 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971329 42.414687  -2.971289 42.414685  -2.971287 42.414717  -2.971327 42.414719  -2.971329 42.414687  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678250">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955699 42.415079 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955611 42.415135 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955626 42.415124  -2.955685 42.415135  -2.955699 42.415099  -2.955674 42.415079  -2.955638 42.415093  -2.955617 42.415086  -2.955611 42.415108  -2.955631 42.415112  -2.955626 42.415124  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678251">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955900 42.415138 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955595 42.415398 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955778 42.415387  -2.955823 42.415398  -2.955900 42.415221  -2.955878 42.415216  -2.955900 42.415164  -2.955792 42.415138  -2.955781 42.415160  -2.955794 42.415163  -2.955790 42.415174  -2.955817 42.415181  -2.955805 42.415209  -2.955818 42.415214  -2.955767 42.415332  -2.955721 42.415321  -2.955740 42.415277  -2.955712 42.415270  -2.955722 42.415247  -2.955696 42.415241  -2.955687 42.415262  -2.955642 42.415251  -2.955595 42.415359  -2.955704 42.415386  -2.955718 42.415354  -2.955785 42.415370  -2.955778 42.415387  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678252">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955610 42.415155 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955535 42.415197 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955610 42.415162  -2.955559 42.415155  -2.955558 42.415167  -2.955535 42.415164  -2.955536 42.415184  -2.955585 42.415188  -2.955585 42.415197  -2.955602 42.415196  -2.955610 42.415162  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678253">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971114 42.415210 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971056 42.415250 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971114 42.415214  -2.971057 42.415210  -2.971056 42.415250  -2.971108 42.415250  -2.971114 42.415214  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678254">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961809 42.415209 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961721 42.415277 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961809 42.415227  -2.961756 42.415209  -2.961721 42.415259  -2.961774 42.415277  -2.961809 42.415227  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678255">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968731 42.415736 </gml:lowerCorner>
+        		<gml:upperCorner>-2.968607 42.415809 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968731 42.415748  -2.968622 42.415736  -2.968607 42.415799  -2.968719 42.415809  -2.968731 42.415748  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678256">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959788 42.415759 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959661 42.415864 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959788 42.415775  -2.959693 42.415759  -2.959661 42.415850  -2.959757 42.415864  -2.959788 42.415775  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678257">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971069 42.415778 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970949 42.415808 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971069 42.415806  -2.971068 42.415778  -2.970949 42.415780  -2.970950 42.415808  -2.971069 42.415806  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678258">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971457 42.415861 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971404 42.415903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971404 42.415861  -2.971404 42.415901  -2.971456 42.415903  -2.971457 42.415861  -2.971404 42.415861  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678259">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968676 42.416178 </gml:lowerCorner>
+        		<gml:upperCorner>-2.968595 42.416220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968676 42.416189  -2.968602 42.416178  -2.968595 42.416208  -2.968665 42.416220  -2.968676 42.416189  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678260">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957624 42.416872 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957488 42.416961 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957603 42.416878  -2.957502 42.416872  -2.957488 42.416954  -2.957621 42.416961  -2.957624 42.416932  -2.957598 42.416930  -2.957603 42.416878  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678261">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961416 42.416894 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961042 42.417093 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961416 42.416981  -2.961186 42.416914  -2.961181 42.416924  -2.961078 42.416894  -2.961042 42.416962  -2.961147 42.416993  -2.961131 42.417022  -2.961180 42.417036  -2.961375 42.417093  -2.961416 42.417017  -2.961400 42.417012  -2.961416 42.416981  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678262">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957889 42.417005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957804 42.417054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957889 42.417011  -2.957807 42.417005  -2.957804 42.417051  -2.957882 42.417054  -2.957889 42.417011  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678263">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962348 42.417134 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962200 42.417260 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962348 42.417134  -2.962200 42.417141  -2.962211 42.417189  -2.962202 42.417236  -2.962287 42.417260  -2.962348 42.417134  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678264">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958181 42.417346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958131 42.417381 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958181 42.417368  -2.958148 42.417346  -2.958131 42.417359  -2.958161 42.417381  -2.958181 42.417368  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678265">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957962 42.417745 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957761 42.417888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957783 42.417880  -2.957841 42.417888  -2.957843 42.417866  -2.957831 42.417864  -2.957833 42.417847  -2.957932 42.417860  -2.957962 42.417760  -2.957841 42.417745  -2.957838 42.417769  -2.957780 42.417763  -2.957761 42.417837  -2.957789 42.417840  -2.957783 42.417880  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678266">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958009 42.417837 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957946 42.417895 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958009 42.417839  -2.958007 42.417839  -2.957966 42.417837  -2.957946 42.417890  -2.957986 42.417895  -2.958009 42.417839  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678267">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959612 42.418542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959558 42.418574 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959612 42.418546  -2.959567 42.418542  -2.959558 42.418567  -2.959600 42.418574  -2.959612 42.418546  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678268">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961929 42.418800 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960728 42.419436 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960988 42.419358  -2.960954 42.419348  -2.960967 42.419315  -2.960937 42.419312  -2.961035 42.419060  -2.961451 42.419150  -2.961381 42.419332  -2.961380 42.419384  -2.961428 42.419395  -2.961489 42.419408  -2.961496 42.419409  -2.961604 42.419434  -2.961698 42.419182  -2.961786 42.419199  -2.961929 42.418824  -2.961827 42.418805  -2.961787 42.418800  -2.961729 42.418932  -2.961647 42.418916  -2.961602 42.419030  -2.961091 42.418918  -2.961082 42.418937  -2.961015 42.418924  -2.960890 42.418896  -2.960809 42.419123  -2.960728 42.419350  -2.960825 42.419373  -2.960813 42.419401  -2.960960 42.419436  -2.960988 42.419358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678269">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970693 42.419476 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970656 42.419519 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970693 42.419487  -2.970663 42.419476  -2.970656 42.419514  -2.970682 42.419519  -2.970693 42.419487  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678270">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970575 42.419661 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970482 42.419739 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970575 42.419678  -2.970497 42.419661  -2.970482 42.419726  -2.970555 42.419739  -2.970575 42.419678  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678271">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.979407 42.421241 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979311 42.421334 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.979407 42.421268  -2.979390 42.421261  -2.979400 42.421247  -2.979385 42.421241  -2.979373 42.421256  -2.979360 42.421250  -2.979311 42.421315  -2.979357 42.421334  -2.979407 42.421268  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678272">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960479 42.421245 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960393 42.421302 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960479 42.421272  -2.960413 42.421245  -2.960393 42.421278  -2.960459 42.421302  -2.960479 42.421272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678273">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955972 42.421501 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955913 42.421538 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955972 42.421511  -2.955923 42.421501  -2.955913 42.421528  -2.955962 42.421538  -2.955972 42.421511  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678274">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949995 42.421684 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949940 42.421741 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949995 42.421739  -2.949990 42.421684  -2.949940 42.421684  -2.949944 42.421741  -2.949995 42.421739  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678275">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949371 42.422294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949312 42.422327 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949371 42.422296  -2.949314 42.422294  -2.949312 42.422325  -2.949369 42.422327  -2.949370 42.422316  -2.949371 42.422296  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678276">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.946374 42.423180 </gml:lowerCorner>
+        		<gml:upperCorner>-2.946268 42.423258 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.946374 42.423226  -2.946347 42.423198  -2.946329 42.423180  -2.946268 42.423212  -2.946313 42.423258  -2.946374 42.423226  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678277">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.947615 42.423477 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947519 42.423533 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.947615 42.423502  -2.947578 42.423477  -2.947519 42.423506  -2.947561 42.423533  -2.947615 42.423502  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678278">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968812 42.423752 </gml:lowerCorner>
+        		<gml:upperCorner>-2.968596 42.423894 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968812 42.423845  -2.968651 42.423752  -2.968596 42.423797  -2.968751 42.423894  -2.968812 42.423845  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678279">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956572 42.424048 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956513 42.424106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956572 42.424057  -2.956535 42.424048  -2.956513 42.424097  -2.956550 42.424106  -2.956572 42.424057  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678280">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.969478 42.424716 </gml:lowerCorner>
+        		<gml:upperCorner>-2.969426 42.424760 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.969478 42.424719  -2.969432 42.424716  -2.969426 42.424757  -2.969473 42.424760  -2.969478 42.424719  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678281">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950186 42.424806 </gml:lowerCorner>
+        		<gml:upperCorner>-2.950147 42.424835 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.950186 42.424816  -2.950161 42.424806  -2.950147 42.424825  -2.950172 42.424835  -2.950186 42.424816  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678282">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910633 42.424998 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910581 42.425035 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.910633 42.425017  -2.910597 42.424998  -2.910581 42.425014  -2.910612 42.425035  -2.910633 42.425017  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678283">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912807 42.425218 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912754 42.425256 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912807 42.425232  -2.912781 42.425218  -2.912754 42.425242  -2.912781 42.425256  -2.912807 42.425232  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678284">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.923118 42.425237 </gml:lowerCorner>
+        		<gml:upperCorner>-2.923048 42.425288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.923118 42.425258  -2.923087 42.425237  -2.923048 42.425268  -2.923081 42.425288  -2.923118 42.425258  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678285">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913052 42.425246 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912998 42.425285 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.913052 42.425260  -2.913025 42.425246  -2.912998 42.425270  -2.913026 42.425285  -2.913052 42.425260  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678286">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910994 42.425269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910942 42.425306 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.910994 42.425288  -2.910958 42.425269  -2.910942 42.425285  -2.910973 42.425306  -2.910994 42.425288  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678287">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911284 42.425484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911232 42.425521 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911284 42.425503  -2.911248 42.425484  -2.911232 42.425500  -2.911263 42.425521  -2.911284 42.425503  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678288">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912610 42.425625 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912556 42.425663 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912610 42.425639  -2.912583 42.425625  -2.912556 42.425649  -2.912584 42.425663  -2.912610 42.425639  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678289">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912285 42.425663 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912232 42.425701 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912285 42.425677  -2.912259 42.425663  -2.912232 42.425687  -2.912259 42.425701  -2.912285 42.425677  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678290">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911555 42.425665 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911503 42.425702 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911555 42.425684  -2.911519 42.425665  -2.911503 42.425680  -2.911533 42.425702  -2.911555 42.425684  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678291">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.914059 42.425749 </gml:lowerCorner>
+        		<gml:upperCorner>-2.914006 42.425788 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.914059 42.425763  -2.914032 42.425749  -2.914006 42.425773  -2.914033 42.425788  -2.914059 42.425763  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678292">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912193 42.425777 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912124 42.425836 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912193 42.425794  -2.912174 42.425777  -2.912124 42.425821  -2.912145 42.425836  -2.912193 42.425794  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678293">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.939960 42.425870 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939899 42.425916 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.939960 42.425882  -2.939916 42.425870  -2.939899 42.425904  -2.939943 42.425916  -2.939960 42.425882  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678294">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911958 42.425924 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911906 42.425960 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911958 42.425942  -2.911922 42.425924  -2.911906 42.425939  -2.911937 42.425960  -2.911958 42.425942  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678295">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912176 42.425984 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912123 42.426023 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912176 42.425998  -2.912150 42.425984  -2.912123 42.426008  -2.912151 42.426023  -2.912176 42.425998  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678296">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912124 42.426027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912071 42.426066 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912124 42.426041  -2.912097 42.426027  -2.912071 42.426051  -2.912098 42.426066  -2.912124 42.426041  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678297">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911794 42.426174 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911713 42.426230 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911794 42.426188  -2.911772 42.426174  -2.911713 42.426218  -2.911738 42.426230  -2.911794 42.426188  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678298">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.914783 42.426205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.914748 42.426237 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.914783 42.426205  -2.914750 42.426206  -2.914748 42.426237  -2.914782 42.426236  -2.914783 42.426205  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678299">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913575 42.426209 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913525 42.426239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.913575 42.426232  -2.913567 42.426209  -2.913525 42.426214  -2.913533 42.426239  -2.913575 42.426232  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678300">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.913421 42.426251 </gml:lowerCorner>
+        		<gml:upperCorner>-2.913368 42.426285 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.913421 42.426273  -2.913407 42.426251  -2.913368 42.426263  -2.913382 42.426285  -2.913421 42.426273  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678301">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959720 42.426551 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959674 42.426586 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959720 42.426565  -2.959689 42.426551  -2.959674 42.426572  -2.959705 42.426586  -2.959720 42.426565  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678302">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911520 42.426549 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911467 42.426588 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911520 42.426563  -2.911494 42.426549  -2.911467 42.426573  -2.911495 42.426588  -2.911520 42.426563  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678303">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912836 42.426553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912783 42.426592 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912836 42.426567  -2.912810 42.426553  -2.912783 42.426577  -2.912811 42.426592  -2.912836 42.426567  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678304">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965495 42.426679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965446 42.426716 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965495 42.426686  -2.965457 42.426679  -2.965446 42.426709  -2.965483 42.426716  -2.965495 42.426686  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678305">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.912427 42.426798 </gml:lowerCorner>
+        		<gml:upperCorner>-2.912374 42.426837 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.912427 42.426812  -2.912401 42.426798  -2.912374 42.426822  -2.912401 42.426837  -2.912427 42.426812  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678306">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960188 42.426927 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960082 42.427061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960188 42.427050  -2.960152 42.426927  -2.960082 42.426938  -2.960115 42.427061  -2.960188 42.427050  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678307">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965623 42.427140 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965563 42.427191 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965623 42.427148  -2.965577 42.427140  -2.965563 42.427183  -2.965610 42.427191  -2.965623 42.427148  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678308">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956824 42.427243 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956773 42.427291 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956824 42.427243  -2.956773 42.427243  -2.956773 42.427291  -2.956823 42.427291  -2.956824 42.427243  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678309">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965370 42.427289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965320 42.427337 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965370 42.427294  -2.965332 42.427289  -2.965320 42.427331  -2.965358 42.427337  -2.965370 42.427294  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678310">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911701 42.427289 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911648 42.427327 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911701 42.427303  -2.911675 42.427289  -2.911648 42.427313  -2.911675 42.427327  -2.911701 42.427303  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678311">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910548 42.427406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910495 42.427445 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.910548 42.427420  -2.910522 42.427406  -2.910495 42.427430  -2.910522 42.427445  -2.910548 42.427420  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678312">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957164 42.427541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956964 42.427707 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956964 42.427668  -2.957043 42.427707  -2.957164 42.427574  -2.957123 42.427550  -2.957097 42.427573  -2.957032 42.427541  -2.956980 42.427597  -2.957011 42.427614  -2.956964 42.427668  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678313">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.911197 42.427582 </gml:lowerCorner>
+        		<gml:upperCorner>-2.911144 42.427621 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.911197 42.427596  -2.911171 42.427582  -2.911144 42.427606  -2.911171 42.427621  -2.911197 42.427596  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678314">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949905 42.427861 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949713 42.427977 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949890 42.427892  -2.949787 42.427861  -2.949770 42.427879  -2.949744 42.427870  -2.949713 42.427925  -2.949766 42.427948  -2.949763 42.427964  -2.949802 42.427975  -2.949816 42.427960  -2.949869 42.427977  -2.949905 42.427921  -2.949874 42.427912  -2.949890 42.427892  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678315">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949657 42.427897 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949600 42.427937 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949657 42.427918  -2.949617 42.427897  -2.949600 42.427923  -2.949641 42.427937  -2.949657 42.427918  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678316">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961745 42.427950 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961694 42.427988 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961745 42.427969  -2.961721 42.427950  -2.961694 42.427968  -2.961718 42.427988  -2.961745 42.427969  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678317">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.910359 42.427938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.910252 42.428015 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.910359 42.427993  -2.910275 42.427938  -2.910252 42.427963  -2.910329 42.428015  -2.910359 42.427993  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678318">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.909035 42.428327 </gml:lowerCorner>
+        		<gml:upperCorner>-2.909003 42.428350 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.909035 42.428341  -2.909024 42.428327  -2.909003 42.428336  -2.909015 42.428350  -2.909035 42.428341  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678319">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956348 42.428623 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956192 42.428761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956348 42.428649  -2.956233 42.428623  -2.956192 42.428738  -2.956295 42.428761  -2.956348 42.428649  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678320">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.920412 42.428789 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920340 42.428840 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.920412 42.428823  -2.920365 42.428789  -2.920340 42.428807  -2.920388 42.428840  -2.920412 42.428823  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678321">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956200 42.428846 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956128 42.428914 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956200 42.428862  -2.956149 42.428846  -2.956128 42.428898  -2.956179 42.428914  -2.956200 42.428862  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678322">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961019 42.428949 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960974 42.428977 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961019 42.428952  -2.960977 42.428949  -2.960975 42.428966  -2.960974 42.428974  -2.961016 42.428977  -2.961019 42.428952  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678323">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956261 42.429151 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956178 42.429184 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956261 42.429165  -2.956184 42.429151  -2.956178 42.429171  -2.956256 42.429184  -2.956261 42.429165  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678324">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960209 42.429277 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959954 42.429398 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960209 42.429331  -2.959983 42.429277  -2.959954 42.429344  -2.960182 42.429398  -2.960209 42.429331  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678325">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960260 42.429448 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960188 42.429487 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960260 42.429462  -2.960203 42.429448  -2.960188 42.429481  -2.960245 42.429487  -2.960260 42.429462  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678326">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959880 42.430080 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959805 42.430136 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959880 42.430094  -2.959824 42.430080  -2.959805 42.430122  -2.959862 42.430136  -2.959880 42.430094  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678327">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960044 42.430101 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959980 42.430153 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960044 42.430116  -2.960002 42.430101  -2.959987 42.430126  -2.959980 42.430139  -2.960021 42.430153  -2.960027 42.430144  -2.960044 42.430116  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965680 42.430133 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965584 42.430189 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965680 42.430153  -2.965601 42.430133  -2.965584 42.430170  -2.965664 42.430189  -2.965680 42.430153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678329">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957539 42.430292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957421 42.430374 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957469 42.430325  -2.957475 42.430296  -2.957438 42.430292  -2.957421 42.430369  -2.957460 42.430374  -2.957464 42.430356  -2.957532 42.430364  -2.957539 42.430333  -2.957469 42.430325  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678330">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960145 42.430350 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960058 42.430425 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960145 42.430365  -2.960088 42.430350  -2.960059 42.430410  -2.960058 42.430411  -2.960088 42.430418  -2.960120 42.430425  -2.960145 42.430365  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678331">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.934756 42.430354 </gml:lowerCorner>
+        		<gml:upperCorner>-2.934656 42.430418 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.934756 42.430396  -2.934681 42.430354  -2.934656 42.430376  -2.934730 42.430418  -2.934756 42.430396  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678332">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956094 42.429339 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956025 42.429378 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956044 42.429339  -2.956044 42.429349  -2.956026 42.429349  -2.956025 42.429378  -2.956090 42.429378  -2.956094 42.429339  -2.956044 42.429339  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678333">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957308 42.430679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957257 42.430717 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957308 42.430679  -2.957257 42.430685  -2.957258 42.430717  -2.957307 42.430710  -2.957308 42.430679  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678334">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957185 42.430700 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957147 42.430729 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957185 42.430727  -2.957182 42.430700  -2.957147 42.430703  -2.957150 42.430729  -2.957185 42.430727  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678336">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959577 42.430985 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959478 42.431064 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959577 42.431005  -2.959546 42.430995  -2.959517 42.430985  -2.959500 42.431013  -2.959493 42.431023  -2.959478 42.431047  -2.959523 42.431061  -2.959536 42.431064  -2.959577 42.431005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678337">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.938486 42.431006 </gml:lowerCorner>
+        		<gml:upperCorner>-2.938391 42.431079 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.938486 42.431052  -2.938439 42.431006  -2.938391 42.431034  -2.938437 42.431079  -2.938486 42.431052  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678338">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958773 42.431134 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958736 42.431158 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958773 42.431140  -2.958743 42.431134  -2.958741 42.431139  -2.958736 42.431151  -2.958766 42.431158  -2.958771 42.431147  -2.958773 42.431140  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678339">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959449 42.431206 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959285 42.431295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959449 42.431212  -2.959443 42.431211  -2.959412 42.431206  -2.959380 42.431207  -2.959350 42.431215  -2.959323 42.431227  -2.959301 42.431244  -2.959285 42.431264  -2.959403 42.431295  -2.959409 42.431285  -2.959449 42.431212  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678340">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958996 42.431294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958940 42.431329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958996 42.431304  -2.958950 42.431294  -2.958940 42.431318  -2.958986 42.431329  -2.958996 42.431304  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678341">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957242 42.431069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956367 42.431268 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957242 42.431153  -2.957221 42.431069  -2.956367 42.431178  -2.956388 42.431268  -2.957242 42.431153  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678342">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957281 42.431398 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956769 42.431476 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957281 42.431403  -2.956770 42.431398  -2.956769 42.431472  -2.956863 42.431472  -2.957280 42.431476  -2.957281 42.431403  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678343">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.947300 42.431399 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947232 42.431450 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.947300 42.431444  -2.947292 42.431399  -2.947232 42.431405  -2.947241 42.431450  -2.947300 42.431444  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678344">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953812 42.431464 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953776 42.431488 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.953812 42.431466  -2.953779 42.431464  -2.953776 42.431486  -2.953809 42.431488  -2.953812 42.431466  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678345">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953788 42.431516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953759 42.431544 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.953788 42.431517  -2.953759 42.431516  -2.953759 42.431544  -2.953787 42.431544  -2.953788 42.431517  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678346">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.954253 42.431521 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954204 42.431555 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.954253 42.431521  -2.954204 42.431521  -2.954205 42.431555  -2.954252 42.431553  -2.954253 42.431521  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678347">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959021 42.431558 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958942 42.431594 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959021 42.431566  -2.958947 42.431558  -2.958942 42.431587  -2.959016 42.431594  -2.959021 42.431566  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678348">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.938728 42.431893 </gml:lowerCorner>
+        		<gml:upperCorner>-2.938598 42.431978 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.938728 42.431938  -2.938631 42.431893  -2.938598 42.431934  -2.938695 42.431978  -2.938728 42.431938  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678349">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.943610 42.431923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943502 42.432003 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.943610 42.431964  -2.943549 42.431923  -2.943502 42.431962  -2.943563 42.432003  -2.943587 42.431983  -2.943610 42.431964  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678350">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958932 42.431977 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958881 42.432031 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958932 42.431982  -2.958893 42.431977  -2.958881 42.432027  -2.958920 42.432031  -2.958932 42.431982  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678351">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.947902 42.432062 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947606 42.432281 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.947902 42.432211  -2.947695 42.432062  -2.947606 42.432130  -2.947813 42.432281  -2.947902 42.432211  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678352">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.939541 42.432340 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939488 42.432379 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.939541 42.432361  -2.939520 42.432340  -2.939488 42.432358  -2.939509 42.432379  -2.939541 42.432361  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678353">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.948795 42.432864 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948741 42.432903 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.948795 42.432884  -2.948769 42.432864  -2.948741 42.432883  -2.948767 42.432903  -2.948795 42.432884  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678354">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.948767 42.432926 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948696 42.432987 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.948767 42.432942  -2.948728 42.432926  -2.948696 42.432971  -2.948735 42.432987  -2.948767 42.432942  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678355">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.948360 42.433282 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948317 42.433314 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.948360 42.433301  -2.948335 42.433282  -2.948317 42.433294  -2.948343 42.433314  -2.948360 42.433301  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678356">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.948816 42.433383 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948686 42.433491 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.948816 42.433414  -2.948761 42.433383  -2.948686 42.433463  -2.948747 42.433491  -2.948816 42.433414  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678357">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955360 42.433753 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955154 42.433829 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955360 42.433801  -2.955350 42.433753  -2.955154 42.433795  -2.955193 42.433829  -2.955360 42.433801  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678358">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949946 42.434000 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949883 42.434045 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949946 42.434019  -2.949907 42.434000  -2.949883 42.434026  -2.949922 42.434045  -2.949946 42.434019  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678359">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950003 42.434022 </gml:lowerCorner>
+        		<gml:upperCorner>-2.949938 42.434068 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.950003 42.434042  -2.949960 42.434022  -2.949938 42.434048  -2.949982 42.434068  -2.950003 42.434042  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678360">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921461 42.434084 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921302 42.434201 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921461 42.434156  -2.921352 42.434084  -2.921302 42.434127  -2.921412 42.434201  -2.921461 42.434156  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678361">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921356 42.434215 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921269 42.434278 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921356 42.434250  -2.921303 42.434215  -2.921269 42.434243  -2.921322 42.434278  -2.921356 42.434250  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678362">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922242 42.434213 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922081 42.434329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922242 42.434286  -2.922130 42.434213  -2.922081 42.434253  -2.922194 42.434329  -2.922242 42.434286  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678363">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921442 42.434269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921352 42.434335 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921442 42.434307  -2.921387 42.434269  -2.921352 42.434296  -2.921407 42.434335  -2.921442 42.434307  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678364">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922158 42.434281 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921993 42.434399 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922158 42.434356  -2.922042 42.434281  -2.921993 42.434322  -2.922112 42.434399  -2.922158 42.434356  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678365">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961349 42.434331 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961284 42.434378 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961349 42.434337  -2.961287 42.434331  -2.961284 42.434370  -2.961348 42.434378  -2.961349 42.434337  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678366">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922069 42.434350 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921906 42.434465 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922069 42.434426  -2.921954 42.434350  -2.921906 42.434389  -2.922021 42.434465  -2.922069 42.434426  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957829 42.434379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957755 42.434439 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957829 42.434396  -2.957788 42.434379  -2.957755 42.434422  -2.957797 42.434439  -2.957829 42.434396  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678368">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.920883 42.434388 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920811 42.434441 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.920883 42.434421  -2.920857 42.434388  -2.920811 42.434409  -2.920838 42.434441  -2.920883 42.434421  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678369">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921974 42.434426 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921818 42.434537 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921974 42.434497  -2.921866 42.434426  -2.921818 42.434467  -2.921926 42.434537  -2.921974 42.434497  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678370">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921721 42.434433 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921584 42.434527 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921721 42.434503  -2.921611 42.434433  -2.921584 42.434457  -2.921694 42.434527  -2.921721 42.434503  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678371">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921049 42.434439 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920749 42.434635 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921023 42.434508  -2.921021 42.434489  -2.921012 42.434470  -2.920996 42.434455  -2.920974 42.434444  -2.920949 42.434439  -2.920923 42.434439  -2.920898 42.434445  -2.920877 42.434457  -2.920862 42.434472  -2.920867 42.434481  -2.920749 42.434530  -2.920964 42.434572  -2.920980 42.434593  -2.921014 42.434635  -2.921049 42.434620  -2.921034 42.434603  -2.920990 42.434552  -2.921000 42.434545  -2.921003 42.434543  -2.921015 42.434528  -2.921016 42.434527  -2.921022 42.434511  -2.921023 42.434508  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678372">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.920771 42.434458 </gml:lowerCorner>
+        		<gml:upperCorner>-2.920742 42.434480 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.920771 42.434473  -2.920761 42.434458  -2.920742 42.434465  -2.920752 42.434480  -2.920771 42.434473  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678373">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921857 42.434523 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921721 42.434620 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921857 42.434597  -2.921750 42.434523  -2.921721 42.434546  -2.921828 42.434620  -2.921857 42.434597  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678374">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958373 42.434587 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958301 42.434639 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958373 42.434612  -2.958320 42.434587  -2.958301 42.434614  -2.958366 42.434639  -2.958373 42.434612  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678375">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921733 42.434571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921501 42.434682 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921733 42.434632  -2.921713 42.434629  -2.921713 42.434622  -2.921707 42.434605  -2.921694 42.434589  -2.921675 42.434578  -2.921652 42.434572  -2.921628 42.434571  -2.921605 42.434576  -2.921585 42.434587  -2.921570 42.434602  -2.921505 42.434591  -2.921503 42.434602  -2.921501 42.434614  -2.921563 42.434626  -2.921563 42.434629  -2.921569 42.434647  -2.921582 42.434662  -2.921601 42.434674  -2.921624 42.434681  -2.921649 42.434682  -2.921673 42.434677  -2.921693 42.434667  -2.921708 42.434652  -2.921724 42.434655  -2.921733 42.434632  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678376">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965111 42.434753 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965061 42.434810 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965111 42.434759  -2.965070 42.434753  -2.965061 42.434806  -2.965098 42.434810  -2.965111 42.434759  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678377">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964957 42.435052 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964873 42.435107 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964873 42.435052  -2.964874 42.435105  -2.964956 42.435107  -2.964957 42.435053  -2.964873 42.435052  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678378">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960920 42.435134 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960835 42.435259 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960920 42.435139  -2.960851 42.435134  -2.960835 42.435251  -2.960907 42.435259  -2.960920 42.435139  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678379">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961269 42.435171 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961207 42.435226 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961269 42.435179  -2.961212 42.435171  -2.961208 42.435198  -2.961207 42.435213  -2.961265 42.435226  -2.961267 42.435209  -2.961269 42.435179  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678380">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.947995 42.435491 </gml:lowerCorner>
+        		<gml:upperCorner>-2.947947 42.435525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.947995 42.435509  -2.947964 42.435491  -2.947947 42.435507  -2.947978 42.435525  -2.947995 42.435509  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678381">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965187 42.435564 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965136 42.435614 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965187 42.435568  -2.965153 42.435564  -2.965136 42.435608  -2.965165 42.435614  -2.965187 42.435568  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678382">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957091 42.435696 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957006 42.435752 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957091 42.435703  -2.957074 42.435696  -2.957064 42.435713  -2.957025 42.435701  -2.957006 42.435735  -2.957060 42.435752  -2.957091 42.435703  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678383">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958107 42.435747 </gml:lowerCorner>
+        		<gml:upperCorner>-2.958055 42.435786 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958107 42.435750  -2.958060 42.435747  -2.958055 42.435782  -2.958102 42.435786  -2.958107 42.435750  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678384">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.933696 42.435957 </gml:lowerCorner>
+        		<gml:upperCorner>-2.933573 42.436054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.933696 42.436015  -2.933626 42.435957  -2.933573 42.436003  -2.933660 42.436054  -2.933696 42.436015  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678385">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949006 42.436005 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948941 42.436051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949006 42.436029  -2.948963 42.436005  -2.948941 42.436027  -2.948984 42.436051  -2.949006 42.436029  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678386">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.958039 42.436055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957978 42.436104 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.958039 42.436068  -2.957999 42.436055  -2.957978 42.436091  -2.958018 42.436104  -2.958039 42.436068  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678387">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961215 42.436110 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961178 42.436138 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961215 42.436118  -2.961186 42.436110  -2.961178 42.436130  -2.961205 42.436138  -2.961215 42.436118  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678388">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956936 42.436294 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956863 42.436348 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956936 42.436317  -2.956894 42.436294  -2.956863 42.436325  -2.956904 42.436348  -2.956936 42.436317  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678389">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957502 42.436541 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957387 42.436614 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957502 42.436585  -2.957412 42.436541  -2.957387 42.436573  -2.957466 42.436610  -2.957476 42.436614  -2.957502 42.436585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678390">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973225 42.436690 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973116 42.436772 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973225 42.436751  -2.973200 42.436690  -2.973116 42.436712  -2.973128 42.436739  -2.973136 42.436755  -2.973144 42.436772  -2.973225 42.436751  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678391">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972952 42.436715 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972782 42.436858 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972952 42.436828  -2.972902 42.436715  -2.972782 42.436746  -2.972833 42.436858  -2.972905 42.436840  -2.972929 42.436834  -2.972952 42.436828  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678392">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957185 42.436982 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957130 42.437023 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957185 42.437005  -2.957158 42.436982  -2.957130 42.437001  -2.957157 42.437023  -2.957185 42.437005  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678393">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974924 42.437035 </gml:lowerCorner>
+        		<gml:upperCorner>-2.974696 42.437181 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974696 42.437124  -2.974716 42.437181  -2.974924 42.437129  -2.974875 42.437035  -2.974735 42.437067  -2.974715 42.437094  -2.974722 42.437116  -2.974696 42.437124  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678394">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957261 42.437046 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957196 42.437106 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957261 42.437057  -2.957219 42.437046  -2.957196 42.437095  -2.957238 42.437106  -2.957261 42.437057  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678395">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.932147 42.437113 </gml:lowerCorner>
+        		<gml:upperCorner>-2.932056 42.437170 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.932147 42.437118  -2.932058 42.437113  -2.932056 42.437164  -2.932142 42.437170  -2.932147 42.437118  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678396">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961601 42.437178 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961513 42.437236 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961601 42.437197  -2.961531 42.437178  -2.961513 42.437216  -2.961584 42.437236  -2.961601 42.437197  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678397">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964651 42.437819 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964581 42.437920 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964651 42.437825  -2.964600 42.437819  -2.964592 42.437860  -2.964584 42.437900  -2.964581 42.437914  -2.964632 42.437920  -2.964651 42.437825  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678398">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964689 42.438333 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964632 42.438377 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964689 42.438346  -2.964669 42.438333  -2.964645 42.438353  -2.964632 42.438364  -2.964637 42.438367  -2.964652 42.438377  -2.964689 42.438346  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678399">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968597 42.438535 </gml:lowerCorner>
+        		<gml:upperCorner>-2.968542 42.438573 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968597 42.438559  -2.968584 42.438535  -2.968542 42.438549  -2.968557 42.438573  -2.968597 42.438559  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678400">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968277 42.438742 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967963 42.438982 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968106 42.438744  -2.968072 42.438747  -2.968031 42.438762  -2.968002 42.438787  -2.967972 42.438830  -2.967963 42.438864  -2.967969 42.438898  -2.967994 42.438938  -2.968031 42.438964  -2.968093 42.438980  -2.968137 42.438982  -2.968200 42.438962  -2.968244 42.438931  -2.968271 42.438900  -2.968277 42.438861  -2.968271 42.438834  -2.968256 42.438799  -2.968218 42.438768  -2.968163 42.438749  -2.968128 42.438742  -2.968106 42.438744  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678401">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.967272 42.438769 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967234 42.438815 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.967272 42.438770  -2.967236 42.438769  -2.967234 42.438814  -2.967270 42.438815  -2.967272 42.438770  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678402">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.967323 42.438773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967273 42.438823 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.967323 42.438774  -2.967275 42.438773  -2.967273 42.438822  -2.967321 42.438823  -2.967323 42.438774  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678403">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968270 42.438975 </gml:lowerCorner>
+        		<gml:upperCorner>-2.968191 42.439030 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968270 42.438999  -2.968244 42.438975  -2.968191 42.439005  -2.968217 42.439030  -2.968270 42.438999  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678404">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963876 42.439092 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963771 42.439164 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963876 42.439112  -2.963795 42.439092  -2.963771 42.439144  -2.963812 42.439154  -2.963852 42.439164  -2.963876 42.439112  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678405">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963404 42.439810 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963340 42.439911 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963404 42.439815  -2.963378 42.439810  -2.963346 42.439880  -2.963340 42.439910  -2.963370 42.439911  -2.963373 42.439882  -2.963404 42.439815  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678406">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963657 42.439853 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963513 42.439939 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963637 42.439859  -2.963552 42.439853  -2.963549 42.439877  -2.963546 42.439902  -2.963517 42.439900  -2.963513 42.439932  -2.963615 42.439939  -2.963618 42.439917  -2.963654 42.439920  -2.963657 42.439900  -2.963632 42.439898  -2.963637 42.439859  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678407">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965722 42.440281 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965612 42.440396 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965722 42.440364  -2.965713 42.440281  -2.965612 42.440289  -2.965628 42.440396  -2.965677 42.440392  -2.965673 42.440366  -2.965722 42.440364  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678408">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964553 42.440394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964460 42.440457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964553 42.440402  -2.964485 42.440394  -2.964460 42.440454  -2.964493 42.440457  -2.964495 42.440436  -2.964546 42.440439  -2.964553 42.440402  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678409">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974781 42.440772 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973301 42.441775 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974344 42.440894  -2.974351 42.440915  -2.974235 42.440936  -2.974226 42.440896  -2.974155 42.440908  -2.974120 42.440772  -2.973754 42.440820  -2.973811 42.441053  -2.973851 42.441047  -2.973908 42.441326  -2.973851 42.441330  -2.973853 42.441347  -2.973864 42.441418  -2.973301 42.441476  -2.973342 42.441707  -2.973914 42.441647  -2.974378 42.441598  -2.974419 42.441775  -2.974603 42.441746  -2.974501 42.441305  -2.974533 42.441301  -2.974545 42.441349  -2.974781 42.441320  -2.974748 42.441182  -2.974699 42.441191  -2.974699 42.441197  -2.974637 42.441204  -2.974641 42.441227  -2.974536 42.441245  -2.974533 42.441227  -2.974565 42.441220  -2.974559 42.441186  -2.974518 42.441193  -2.974510 42.441153  -2.974539 42.441149  -2.974529 42.441094  -2.974501 42.441101  -2.974457 42.440877  -2.974344 42.440894  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678410">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974878 42.441619 </gml:lowerCorner>
+        		<gml:upperCorner>-2.974612 42.441753 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974878 42.441725  -2.974856 42.441619  -2.974612 42.441647  -2.974634 42.441753  -2.974878 42.441725  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678411">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974336 42.441686 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973923 42.441862 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974336 42.441837  -2.974300 42.441686  -2.974002 42.441716  -2.973998 42.441696  -2.973923 42.441704  -2.973930 42.441738  -2.973998 42.441731  -2.974017 42.441832  -2.974120 42.441820  -2.974131 42.441862  -2.974336 42.441837  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678413">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962401 42.441997 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962323 42.442061 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962401 42.442010  -2.962362 42.441997  -2.962323 42.442050  -2.962355 42.442061  -2.962401 42.442010  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678414">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965114 42.442534 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965027 42.442587 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965114 42.442549  -2.965095 42.442548  -2.965096 42.442538  -2.965033 42.442534  -2.965027 42.442583  -2.965089 42.442587  -2.965091 42.442570  -2.965111 42.442572  -2.965114 42.442549  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678415">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964939 42.442554 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964892 42.442585 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964939 42.442575  -2.964939 42.442554  -2.964892 42.442555  -2.964892 42.442585  -2.964928 42.442584  -2.964927 42.442575  -2.964939 42.442575  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678416">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971251 42.442726 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970912 42.442953 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971251 42.442878  -2.971134 42.442726  -2.970912 42.442793  -2.970932 42.442823  -2.970964 42.442814  -2.971003 42.442866  -2.970983 42.442872  -2.971032 42.442953  -2.971251 42.442878  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678417">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971046 42.442824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970612 42.443210 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971046 42.443085  -2.971040 42.443075  -2.970940 42.442937  -2.970908 42.442949  -2.970878 42.442907  -2.970914 42.442893  -2.970863 42.442824  -2.970612 42.442909  -2.970733 42.443083  -2.970657 42.443113  -2.970727 42.443210  -2.971046 42.443085  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678418">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965203 42.443314 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964991 42.443540 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965203 42.443346  -2.965090 42.443314  -2.965027 42.443438  -2.964991 42.443509  -2.965101 42.443540  -2.965142 42.443459  -2.965090 42.443444  -2.965104 42.443417  -2.965159 42.443432  -2.965203 42.443346  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678419">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962127 42.443780 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962067 42.443838 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962127 42.443785  -2.962076 42.443780  -2.962067 42.443833  -2.962118 42.443838  -2.962127 42.443785  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.966624 42.443790 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966436 42.443878 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.966624 42.443845  -2.966456 42.443790  -2.966436 42.443823  -2.966604 42.443878  -2.966624 42.443845  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678421">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964751 42.444026 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964698 42.444067 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964751 42.444053  -2.964727 42.444026  -2.964698 42.444040  -2.964723 42.444067  -2.964751 42.444053  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678422">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961253 42.444567 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961175 42.444813 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961253 42.444569  -2.961188 42.444567  -2.961175 42.444811  -2.961240 42.444813  -2.961253 42.444569  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678423">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.967133 42.444611 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967059 42.444745 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.967074 42.444716  -2.967070 42.444737  -2.967108 42.444745  -2.967133 42.444617  -2.967080 42.444611  -2.967059 42.444714  -2.967074 42.444716  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678424">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961218 42.444825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961186 42.444890 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961218 42.444826  -2.961189 42.444825  -2.961186 42.444889  -2.961214 42.444890  -2.961218 42.444826  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678425">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961215 42.444899 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961178 42.444955 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961215 42.444900  -2.961182 42.444899  -2.961178 42.444954  -2.961210 42.444955  -2.961215 42.444900  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678426">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.967577 42.445051 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967466 42.445218 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.967577 42.445207  -2.967525 42.445051  -2.967466 42.445062  -2.967518 42.445218  -2.967577 42.445207  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678427">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968206 42.445161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967845 42.445478 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968206 42.445428  -2.968142 42.445236  -2.968117 42.445161  -2.967992 42.445183  -2.967845 42.445210  -2.967933 42.445478  -2.968206 42.445428  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678428">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.967471 42.445478 </gml:lowerCorner>
+        		<gml:upperCorner>-2.967322 42.445571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.967471 42.445551  -2.967446 42.445478  -2.967322 42.445494  -2.967348 42.445571  -2.967471 42.445551  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678430">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965861 42.446073 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965785 42.446121 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965861 42.446085  -2.965797 42.446073  -2.965785 42.446109  -2.965847 42.446121  -2.965861 42.446085  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678431">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962507 42.446054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962455 42.446086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962507 42.446082  -2.962502 42.446054  -2.962455 42.446058  -2.962459 42.446086  -2.962507 42.446082  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678432">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962880 42.446069 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962630 42.447052 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962880 42.446223  -2.962878 42.446189  -2.962796 42.446192  -2.962787 42.446069  -2.962678 42.446074  -2.962680 42.446102  -2.962630 42.446104  -2.962696 42.447052  -2.962855 42.447046  -2.962804 42.446316  -2.962880 42.446314  -2.962878 42.446282  -2.962803 42.446285  -2.962799 42.446226  -2.962880 42.446223  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678433">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963222 42.446162 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963039 42.446393 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963222 42.446383  -2.963196 42.446162  -2.963039 42.446172  -2.963065 42.446393  -2.963222 42.446383  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678434">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.943865 42.446287 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943694 42.446394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.943865 42.446335  -2.943737 42.446287  -2.943707 42.446333  -2.943725 42.446340  -2.943694 42.446385  -2.943738 42.446394  -2.943739 42.446386  -2.943774 42.446392  -2.943796 42.446359  -2.943838 42.446375  -2.943865 42.446335  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.966492 42.446329 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966306 42.446443 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.966481 42.446391  -2.966492 42.446366  -2.966340 42.446329  -2.966306 42.446404  -2.966464 42.446443  -2.966486 42.446392  -2.966481 42.446391  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678436">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964894 42.446591 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964597 42.446782 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964894 42.446649  -2.964879 42.446645  -2.964656 42.446591  -2.964597 42.446725  -2.964835 42.446782  -2.964894 42.446649  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678437">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.944659 42.446704 </gml:lowerCorner>
+        		<gml:upperCorner>-2.944601 42.446751 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.944659 42.446720  -2.944626 42.446704  -2.944601 42.446735  -2.944634 42.446751  -2.944659 42.446720  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678438">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.956442 42.446841 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956385 42.446888 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.956442 42.446854  -2.956404 42.446841  -2.956385 42.446876  -2.956421 42.446888  -2.956442 42.446854  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678439">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952563 42.447014 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952472 42.447071 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.952563 42.447026  -2.952486 42.447014  -2.952472 42.447058  -2.952549 42.447071  -2.952563 42.447026  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678440">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957601 42.447021 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957554 42.447056 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957601 42.447037  -2.957575 42.447021  -2.957554 42.447040  -2.957580 42.447056  -2.957601 42.447037  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678441">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952570 42.447108 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952446 42.447192 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.952533 42.447130  -2.952472 42.447108  -2.952446 42.447147  -2.952503 42.447168  -2.952498 42.447175  -2.952547 42.447192  -2.952570 42.447156  -2.952527 42.447140  -2.952533 42.447130  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963387 42.447516 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963271 42.447594 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963387 42.447556  -2.963353 42.447516  -2.963271 42.447555  -2.963305 42.447594  -2.963387 42.447556  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678443">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.945498 42.448555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.945450 42.448588 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.945498 42.448571  -2.945483 42.448555  -2.945450 42.448572  -2.945464 42.448588  -2.945498 42.448571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955725 42.448951 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955634 42.449014 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955725 42.448986  -2.955664 42.448951  -2.955634 42.448981  -2.955695 42.449014  -2.955725 42.448986  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678445">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952728 42.450431 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952633 42.450511 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.952728 42.450441  -2.952648 42.450431  -2.952633 42.450502  -2.952714 42.450511  -2.952728 42.450441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678446">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963692 42.450485 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963607 42.450542 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963692 42.450501  -2.963617 42.450485  -2.963607 42.450527  -2.963672 42.450542  -2.963692 42.450501  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952805 42.450495 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952771 42.450529 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.952805 42.450497  -2.952775 42.450495  -2.952771 42.450527  -2.952801 42.450529  -2.952805 42.450497  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678448">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963797 42.450508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.963708 42.450570 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963797 42.450524  -2.963724 42.450508  -2.963708 42.450552  -2.963777 42.450570  -2.963797 42.450524  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678449">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962490 42.451171 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962425 42.451215 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962490 42.451197  -2.962472 42.451171  -2.962425 42.451188  -2.962443 42.451215  -2.962490 42.451197  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962664 42.451176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962517 42.451260 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962649 42.451210  -2.962664 42.451204  -2.962644 42.451176  -2.962517 42.451226  -2.962541 42.451260  -2.962653 42.451216  -2.962649 42.451210  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678451">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962744 42.451325 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962622 42.451402 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962744 42.451365  -2.962715 42.451325  -2.962622 42.451361  -2.962652 42.451402  -2.962744 42.451365  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678452">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962724 42.451550 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962600 42.451628 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962724 42.451592  -2.962695 42.451550  -2.962600 42.451586  -2.962629 42.451628  -2.962724 42.451592  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678453">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962560 42.451604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962498 42.451657 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962560 42.451651  -2.962551 42.451604  -2.962498 42.451609  -2.962508 42.451657  -2.962560 42.451651  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678454">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.942576 42.452159 </gml:lowerCorner>
+        		<gml:upperCorner>-2.942495 42.452232 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.942576 42.452167  -2.942508 42.452159  -2.942495 42.452224  -2.942562 42.452232  -2.942576 42.452167  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678455">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962915 42.452382 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962815 42.452519 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962898 42.452390  -2.962899 42.452383  -2.962852 42.452382  -2.962851 42.452388  -2.962835 42.452388  -2.962834 42.452416  -2.962820 42.452416  -2.962815 42.452518  -2.962839 42.452519  -2.962844 42.452429  -2.962913 42.452431  -2.962915 42.452391  -2.962898 42.452390  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678456">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962812 42.452391 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962703 42.452487 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962795 42.452472  -2.962792 42.452449  -2.962812 42.452447  -2.962806 42.452404  -2.962795 42.452405  -2.962793 42.452391  -2.962703 42.452398  -2.962710 42.452451  -2.962725 42.452450  -2.962729 42.452479  -2.962746 42.452478  -2.962748 42.452487  -2.962787 42.452484  -2.962785 42.452473  -2.962795 42.452472  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678457">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962594 42.452408 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962514 42.452462 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962594 42.452441  -2.962571 42.452408  -2.962514 42.452430  -2.962537 42.452462  -2.962594 42.452441  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678458">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962792 42.452620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962673 42.452711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962792 42.452697  -2.962768 42.452620  -2.962673 42.452637  -2.962694 42.452702  -2.962739 42.452694  -2.962745 42.452711  -2.962768 42.452707  -2.962766 42.452701  -2.962792 42.452697  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678459">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.948933 42.454244 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948801 42.454299 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.948933 42.454266  -2.948812 42.454244  -2.948801 42.454276  -2.948922 42.454299  -2.948933 42.454266  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678460">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953844 42.455344 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953786 42.455391 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.953844 42.455348  -2.953793 42.455344  -2.953791 42.455356  -2.953786 42.455387  -2.953838 42.455391  -2.953841 42.455368  -2.953844 42.455348  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678461">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.951650 42.455571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951563 42.455632 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.951650 42.455587  -2.951580 42.455571  -2.951563 42.455620  -2.951633 42.455632  -2.951650 42.455587  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678462">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950242 42.455890 </gml:lowerCorner>
+        		<gml:upperCorner>-2.950178 42.455947 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.950242 42.455903  -2.950209 42.455890  -2.950178 42.455935  -2.950212 42.455947  -2.950242 42.455903  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.955449 42.458793 </gml:lowerCorner>
+        		<gml:upperCorner>-2.955407 42.458842 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.955449 42.458794  -2.955411 42.458793  -2.955407 42.458840  -2.955446 42.458842  -2.955449 42.458794  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678466">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.952156 42.462495 </gml:lowerCorner>
+        		<gml:upperCorner>-2.952078 42.462541 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.952156 42.462512  -2.952098 42.462495  -2.952078 42.462523  -2.952134 42.462541  -2.952156 42.462512  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678468">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961890 42.467729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961829 42.467768 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961890 42.467761  -2.961887 42.467729  -2.961829 42.467735  -2.961832 42.467768  -2.961890 42.467761  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678469">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962091 42.470018 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962041 42.470049 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962091 42.470049  -2.962089 42.470018  -2.962041 42.470019  -2.962043 42.470049  -2.962091 42.470049  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678470">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953077 42.470641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953012 42.470678 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.953077 42.470650  -2.953020 42.470641  -2.953012 42.470668  -2.953046 42.470672  -2.953070 42.470678  -2.953077 42.470650  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678471">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.953476 42.470730 </gml:lowerCorner>
+        		<gml:upperCorner>-2.953358 42.470803 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.953476 42.470758  -2.953383 42.470730  -2.953358 42.470776  -2.953451 42.470803  -2.953476 42.470758  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678472">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.966184 42.472936 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966125 42.472968 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.966184 42.472968  -2.966184 42.472936  -2.966157 42.472936  -2.966125 42.472936  -2.966125 42.472968  -2.966145 42.472968  -2.966184 42.472968  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678479">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964842 42.471540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964754 42.471596 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964824 42.471596  -2.964842 42.471562  -2.964773 42.471540  -2.964754 42.471574  -2.964824 42.471596  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678480">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.954379 42.461540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.954282 42.461615 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.954282 42.461589  -2.954342 42.461615  -2.954379 42.461567  -2.954316 42.461540  -2.954282 42.461589  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678482">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.985755 42.462515 </gml:lowerCorner>
+        		<gml:upperCorner>-2.985378 42.462599 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.985747 42.462515  -2.985378 42.462536  -2.985389 42.462582  -2.985570 42.462570  -2.985705 42.462560  -2.985711 42.462599  -2.985755 42.462598  -2.985747 42.462515  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.963089 42.451406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962967 42.451477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.963089 42.451433  -2.963071 42.451406  -2.962967 42.451451  -2.962984 42.451477  -2.963089 42.451433  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.962947 42.451466 </gml:lowerCorner>
+        		<gml:upperCorner>-2.962869 42.451517 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.962947 42.451492  -2.962929 42.451466  -2.962869 42.451492  -2.962887 42.451517  -2.962947 42.451492  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678487">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.966845 42.445387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966728 42.445506 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.966845 42.445492  -2.966811 42.445387  -2.966728 42.445402  -2.966767 42.445506  -2.966845 42.445492  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678488">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973160 42.437015 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973070 42.437064 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973160 42.437049  -2.973147 42.437015  -2.973070 42.437030  -2.973086 42.437064  -2.973160 42.437049  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678507">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.940516 42.443335 </gml:lowerCorner>
+        		<gml:upperCorner>-2.940440 42.443394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.940440 42.443372  -2.940486 42.443394  -2.940516 42.443360  -2.940467 42.443335  -2.940440 42.443372  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678508">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.939854 42.443158 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939719 42.443267 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.939719 42.443237  -2.939794 42.443267  -2.939854 42.443185  -2.939776 42.443158  -2.939719 42.443237  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678509">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.940148 42.443078 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939992 42.443168 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.940034 42.443139  -2.940100 42.443168  -2.940148 42.443107  -2.940084 42.443078  -2.940067 42.443099  -2.940025 42.443082  -2.939992 42.443122  -2.940034 42.443139  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678510">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.939508 42.442895 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939365 42.442994 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.939365 42.442934  -2.939459 42.442994  -2.939508 42.442957  -2.939417 42.442895  -2.939365 42.442934  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678511">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.943930 42.448271 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943784 42.448382 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.943930 42.448339  -2.943856 42.448271  -2.943784 42.448318  -2.943860 42.448382  -2.943930 42.448339  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678513">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.943595 42.448143 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943521 42.448198 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.943595 42.448176  -2.943557 42.448143  -2.943521 42.448166  -2.943559 42.448198  -2.943595 42.448176  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678514">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.944814 42.449729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.944335 42.450078 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.944814 42.449928  -2.944633 42.449729  -2.944335 42.449881  -2.944507 42.450078  -2.944814 42.449928  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678516">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.951647 42.455293 </gml:lowerCorner>
+        		<gml:upperCorner>-2.951537 42.455356 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.951647 42.455306  -2.951548 42.455293  -2.951537 42.455341  -2.951635 42.455356  -2.951647 42.455306  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678517">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.965541 42.439713 </gml:lowerCorner>
+        		<gml:upperCorner>-2.965456 42.439783 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.965465 42.439713  -2.965456 42.439779  -2.965534 42.439783  -2.965541 42.439718  -2.965465 42.439713  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678518">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971214 42.416247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971132 42.416314 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971146 42.416247  -2.971132 42.416304  -2.971200 42.416314  -2.971214 42.416257  -2.971146 42.416247  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678522">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922331 42.434144 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922170 42.434261 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922331 42.434218  -2.922219 42.434144  -2.922170 42.434185  -2.922283 42.434261  -2.922331 42.434218  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678523">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.922421 42.434072 </gml:lowerCorner>
+        		<gml:upperCorner>-2.922259 42.434189 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.922421 42.434146  -2.922308 42.434072  -2.922259 42.434113  -2.922373 42.434189  -2.922421 42.434146  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678524">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921724 42.433867 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921562 42.433984 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921724 42.433941  -2.921611 42.433867  -2.921562 42.433908  -2.921676 42.433984  -2.921724 42.433941  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678525">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.921552 42.434010 </gml:lowerCorner>
+        		<gml:upperCorner>-2.921391 42.434127 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.921552 42.434084  -2.921440 42.434010  -2.921391 42.434051  -2.921504 42.434127  -2.921552 42.434084  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678533">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.939950 42.431162 </gml:lowerCorner>
+        		<gml:upperCorner>-2.939870 42.431225 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.939950 42.431186  -2.939909 42.431162  -2.939870 42.431201  -2.939908 42.431225  -2.939950 42.431186  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678539">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957260 42.431219 </gml:lowerCorner>
+        		<gml:upperCorner>-2.956664 42.431380 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957260 42.431303  -2.957239 42.431219  -2.956664 42.431292  -2.956686 42.431380  -2.957260 42.431303  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678593">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.949185 42.421555 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948925 42.421604 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.949185 42.421557  -2.948929 42.421555  -2.948925 42.421600  -2.949183 42.421604  -2.949185 42.421557  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678594">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.966571 42.423271 </gml:lowerCorner>
+        		<gml:upperCorner>-2.966501 42.423320 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.966571 42.423288  -2.966523 42.423271  -2.966501 42.423303  -2.966548 42.423320  -2.966571 42.423288  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678595">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.950937 42.431913 </gml:lowerCorner>
+        		<gml:upperCorner>-2.950726 42.432025 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.950753 42.431913  -2.950726 42.431970  -2.950903 42.432025  -2.950937 42.431965  -2.950753 42.431913  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678597">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.961661 42.425794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.961514 42.426229 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.961514 42.426203  -2.961612 42.426229  -2.961637 42.426014  -2.961661 42.425798  -2.961564 42.425794  -2.961514 42.426203  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678598">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960157 42.428187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960039 42.428244 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960157 42.428243  -2.960157 42.428187  -2.960040 42.428187  -2.960039 42.428244  -2.960157 42.428243  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678599">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.959985 42.428742 </gml:lowerCorner>
+        		<gml:upperCorner>-2.959870 42.428817 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.959983 42.428817  -2.959985 42.428742  -2.959870 42.428742  -2.959873 42.428813  -2.959983 42.428817  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678600">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960103 42.428437 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960068 42.428494 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960103 42.428494  -2.960103 42.428437  -2.960071 42.428437  -2.960068 42.428494  -2.960103 42.428494  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678601">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.960222 42.428214 </gml:lowerCorner>
+        		<gml:upperCorner>-2.960187 42.428242 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.960222 42.428242  -2.960222 42.428214  -2.960189 42.428214  -2.960187 42.428242  -2.960222 42.428242  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678602">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957201 42.429465 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957080 42.429552 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957087 42.429552  -2.957169 42.429548  -2.957168 42.429528  -2.957201 42.429526  -2.957199 42.429485  -2.957128 42.429489  -2.957126 42.429465  -2.957080 42.429466  -2.957087 42.429552  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678603">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.957283 42.429766 </gml:lowerCorner>
+        		<gml:upperCorner>-2.957253 42.429792 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.957279 42.429766  -2.957253 42.429769  -2.957257 42.429792  -2.957283 42.429789  -2.957279 42.429766  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678605">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.944135 42.434259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.943965 42.434486 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:MultiSurface srsName="EPSG:4326">
+            <gml:surfaceMembers>
+              <gml:Polygon>
+                <gml:exterior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.943965 42.434467  -2.943976 42.434469  -2.944063 42.434486  -2.944087 42.434419  -2.944135 42.434278  -2.944010 42.434259  -2.943980 42.434400  -2.943979 42.434403  -2.943967 42.434461  -2.943965 42.434467  </gml:posList>
+                  </gml:LinearRing>
+                </gml:exterior>
+                <gml:interior>
+                  <gml:LinearRing>
+                    <gml:posList srsDimension="2">-2.944066 42.434376  -2.944058 42.434404  -2.944026 42.434398  -2.944033 42.434371  -2.944066 42.434376  </gml:posList>
+                  </gml:LinearRing>
+                </gml:interior>
+              </gml:Polygon>
+            </gml:surfaceMembers>
+          </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Santo Domingo de la Calzada</ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>Santo Domingo de la Calzada</ms:T223_000_INEMUNICIPIO_DENO>
