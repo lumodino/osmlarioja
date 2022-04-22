@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.894496 42.477653 </gml:lowerCorner>
-      		<gml:upperCorner>-2.839544 42.487923 </gml:upperCorner>
+      		<gml:lowerCorner>-2.894496 42.474026 </gml:lowerCorner>
+      		<gml:upperCorner>-2.839544 42.492199 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -5455,15 +5455,15 @@
       <ms:edificios gml:id="edificios.4098913">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.846744 42.479014 </gml:lowerCorner>
-        		<gml:upperCorner>-2.846357 42.479494 </gml:upperCorner>
+        		<gml:lowerCorner>-2.846744 42.478988 </gml:lowerCorner>
+        		<gml:upperCorner>-2.846347 42.479487 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.846725 42.479414  -2.846511 42.479014  -2.846388 42.479050  -2.846357 42.479059  -2.846433 42.479200  -2.846463 42.479257  -2.846458 42.479258  -2.846407 42.479273  -2.846431 42.479318  -2.846487 42.479302  -2.846590 42.479494  -2.846744 42.479449  -2.846725 42.479414  </gml:posList>
+                <gml:posList srsDimension="2">-2.846725 42.479406  -2.846502 42.478988  -2.846347 42.479032  -2.846433 42.479192  -2.846455 42.479234  -2.846399 42.479252  -2.846413 42.479277  -2.846427 42.479303  -2.846484 42.479287  -2.846590 42.479487  -2.846744 42.479442  -2.846725 42.479406  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5484,7 +5484,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.846058 42.479124  -2.845946 42.479153  -2.846063 42.479401  -2.846189 42.479368  -2.846058 42.479124  </gml:posList>
+                <gml:posList srsDimension="2">-2.846058 42.479124  -2.845946 42.479153  -2.846063 42.479401  -2.846189 42.479368  -2.846121 42.479242  -2.846058 42.479124  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5707,15 +5707,15 @@
       <ms:edificios gml:id="edificios.4098925">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.892185 42.479572 </gml:lowerCorner>
-        		<gml:upperCorner>-2.891730 42.479884 </gml:upperCorner>
+        		<gml:lowerCorner>-2.892185 42.479548 </gml:lowerCorner>
+        		<gml:upperCorner>-2.891717 42.479884 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.891730 42.479680  -2.891837 42.479827  -2.891876 42.479884  -2.892185 42.479754  -2.892074 42.479611  -2.892031 42.479629  -2.891987 42.479572  -2.891730 42.479680  </gml:posList>
+                <gml:posList srsDimension="2">-2.891717 42.479660  -2.891837 42.479827  -2.891876 42.479884  -2.892185 42.479754  -2.892080 42.479589  -2.892035 42.479598  -2.892001 42.479548  -2.891717 42.479660  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5812,15 +5812,15 @@
       <ms:edificios gml:id="edificios.4098930">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.889961 42.483543 </gml:lowerCorner>
-        		<gml:upperCorner>-2.889631 42.483747 </gml:upperCorner>
+        		<gml:lowerCorner>-2.889947 42.483576 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889642 42.483771 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.889864 42.483747  -2.889961 42.483632  -2.889768 42.483543  -2.889733 42.483585  -2.889693 42.483566  -2.889631 42.483640  -2.889864 42.483747  </gml:posList>
+                <gml:posList srsDimension="2">-2.889872 42.483771  -2.889947 42.483693  -2.889714 42.483576  -2.889678 42.483615  -2.889642 42.483653  -2.889872 42.483771  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5833,15 +5833,15 @@
       <ms:edificios gml:id="edificios.4098931">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.889584 42.484600 </gml:lowerCorner>
-        		<gml:upperCorner>-2.889480 42.484671 </gml:upperCorner>
+        		<gml:lowerCorner>-2.889609 42.484604 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889471 42.484694 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.889556 42.484671  -2.889584 42.484630  -2.889509 42.484600  -2.889480 42.484641  -2.889556 42.484671  </gml:posList>
+                <gml:posList srsDimension="2">-2.889563 42.484694  -2.889609 42.484651  -2.889564 42.484627  -2.889519 42.484604  -2.889471 42.484648  -2.889563 42.484694  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5862,7 +5862,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.890312 42.484646  -2.890265 42.484620  -2.890210 42.484676  -2.890257 42.484701  -2.890312 42.484646  </gml:posList>
+                <gml:posList srsDimension="2">-2.890312 42.484646  -2.890265 42.484620  -2.890210 42.484676  -2.890234 42.484688  -2.890257 42.484701  -2.890312 42.484646  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5980,15 +5980,15 @@
       <ms:edificios gml:id="edificios.4098938">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.884888 42.482453 </gml:lowerCorner>
-        		<gml:upperCorner>-2.884612 42.482706 </gml:upperCorner>
+        		<gml:lowerCorner>-2.884888 42.482474 </gml:lowerCorner>
+        		<gml:upperCorner>-2.884627 42.482714 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.884873 42.482512  -2.884888 42.482493  -2.884777 42.482453  -2.884766 42.482466  -2.884757 42.482478  -2.884612 42.482660  -2.884683 42.482690  -2.884719 42.482706  -2.884873 42.482512  </gml:posList>
+                <gml:posList srsDimension="2">-2.884888 42.482521  -2.884834 42.482497  -2.884781 42.482474  -2.884771 42.482486  -2.884627 42.482668  -2.884697 42.482699  -2.884733 42.482714  -2.884888 42.482521  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6001,15 +6001,15 @@
       <ms:edificios gml:id="edificios.4098939">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.883915 42.481341 </gml:lowerCorner>
-        		<gml:upperCorner>-2.883482 42.481675 </gml:upperCorner>
+        		<gml:lowerCorner>-2.883915 42.481346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.883448 42.481675 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.883814 42.481675  -2.883820 42.481656  -2.883915 42.481407  -2.883759 42.481379  -2.883584 42.481341  -2.883482 42.481601  -2.883657 42.481639  -2.883814 42.481675  </gml:posList>
+                <gml:posList srsDimension="2">-2.883814 42.481675  -2.883820 42.481656  -2.883915 42.481407  -2.883759 42.481379  -2.883606 42.481346  -2.883596 42.481371  -2.883523 42.481359  -2.883448 42.481559  -2.883475 42.481566  -2.883468 42.481590  -2.883506 42.481598  -2.883503 42.481605  -2.883657 42.481639  -2.883814 42.481675  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6043,15 +6043,15 @@
       <ms:edificios gml:id="edificios.4098941">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.881925 42.481097 </gml:lowerCorner>
-        		<gml:upperCorner>-2.881686 42.481309 </gml:upperCorner>
+        		<gml:lowerCorner>-2.881938 42.481086 </gml:lowerCorner>
+        		<gml:upperCorner>-2.881699 42.481298 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.881810 42.481309  -2.881925 42.481143  -2.881796 42.481097  -2.881686 42.481264  -2.881810 42.481309  </gml:posList>
+                <gml:posList srsDimension="2">-2.881823 42.481298  -2.881938 42.481132  -2.881809 42.481086  -2.881699 42.481253  -2.881823 42.481298  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6085,15 +6085,15 @@
       <ms:edificios gml:id="edificios.4098943">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.883606 42.481008 </gml:lowerCorner>
-        		<gml:upperCorner>-2.883284 42.481329 </gml:upperCorner>
+        		<gml:lowerCorner>-2.883617 42.480991 </gml:lowerCorner>
+        		<gml:upperCorner>-2.883269 42.481375 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.883606 42.481056  -2.883467 42.481008  -2.883284 42.481285  -2.883414 42.481329  -2.883606 42.481056  </gml:posList>
+                <gml:posList srsDimension="2">-2.883617 42.481047  -2.883554 42.481025  -2.883560 42.481015  -2.883484 42.480991  -2.883269 42.481323  -2.883402 42.481375  -2.883617 42.481047  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6708,6 +6708,342 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Casas Blancas (de San Torcuato)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678841">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.843102 42.474026 </gml:lowerCorner>
+        		<gml:upperCorner>-2.843052 42.474063 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.843102 42.474054  -2.843096 42.474040  -2.843091 42.474026  -2.843052 42.474034  -2.843063 42.474063  -2.843102 42.474054  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678842">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.881580 42.475127 </gml:lowerCorner>
+        		<gml:upperCorner>-2.881422 42.475247 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.881542 42.475174  -2.881576 42.475142  -2.881553 42.475127  -2.881513 42.475162  -2.881471 42.475139  -2.881422 42.475186  -2.881532 42.475247  -2.881580 42.475198  -2.881542 42.475174  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678844">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.885876 42.477658 </gml:lowerCorner>
+        		<gml:upperCorner>-2.885837 42.477690 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.885876 42.477675  -2.885860 42.477658  -2.885837 42.477673  -2.885852 42.477690  -2.885876 42.477675  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678845">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.874953 42.478613 </gml:lowerCorner>
+        		<gml:upperCorner>-2.874829 42.478662 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.874953 42.478627  -2.874833 42.478613  -2.874829 42.478644  -2.874947 42.478662  -2.874953 42.478627  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678846">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.886937 42.478710 </gml:lowerCorner>
+        		<gml:upperCorner>-2.886897 42.478740 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.886937 42.478725  -2.886917 42.478710  -2.886897 42.478725  -2.886914 42.478740  -2.886937 42.478725  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678847">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.891095 42.479170 </gml:lowerCorner>
+        		<gml:upperCorner>-2.890714 42.479433 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.891054 42.479272  -2.891081 42.479261  -2.891080 42.479260  -2.891050 42.479219  -2.891022 42.479231  -2.890976 42.479170  -2.890760 42.479260  -2.890714 42.479279  -2.890769 42.479351  -2.890990 42.479260  -2.891029 42.479243  -2.891039 42.479258  -2.891035 42.479260  -2.890782 42.479364  -2.890834 42.479433  -2.891095 42.479325  -2.891054 42.479272  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678848">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.876959 42.479251 </gml:lowerCorner>
+        		<gml:upperCorner>-2.876705 42.479366 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.876959 42.479313  -2.876898 42.479297  -2.876761 42.479260  -2.876729 42.479251  -2.876725 42.479260  -2.876705 42.479309  -2.876925 42.479366  -2.876959 42.479313  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678849">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.846243 42.479364 </gml:lowerCorner>
+        		<gml:upperCorner>-2.846196 42.479398 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.846243 42.479388  -2.846234 42.479364  -2.846196 42.479374  -2.846208 42.479398  -2.846243 42.479388  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678850">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.846326 42.479544 </gml:lowerCorner>
+        		<gml:upperCorner>-2.846128 42.479640 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.846326 42.479576  -2.846324 42.479563  -2.846314 42.479552  -2.846298 42.479546  -2.846280 42.479544  -2.846274 42.479546  -2.846260 42.479553  -2.846251 42.479565  -2.846250 42.479569  -2.846246 42.479565  -2.846228 42.479560  -2.846213 42.479558  -2.846187 42.479560  -2.846162 42.479567  -2.846142 42.479580  -2.846135 42.479585  -2.846128 42.479599  -2.846129 42.479613  -2.846137 42.479626  -2.846151 42.479636  -2.846170 42.479640  -2.846196 42.479640  -2.846224 42.479634  -2.846249 42.479622  -2.846257 42.479616  -2.846265 42.479603  -2.846266 42.479598  -2.846279 42.479603  -2.846285 42.479604  -2.846293 42.479604  -2.846309 42.479599  -2.846321 42.479589  -2.846326 42.479576  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678853">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.878719 42.480166 </gml:lowerCorner>
+        		<gml:upperCorner>-2.878641 42.480217 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.878719 42.480186  -2.878672 42.480166  -2.878641 42.480198  -2.878693 42.480217  -2.878719 42.480186  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678854">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.893790 42.482438 </gml:lowerCorner>
+        		<gml:upperCorner>-2.893741 42.482477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.893790 42.482462  -2.893770 42.482438  -2.893741 42.482451  -2.893759 42.482477  -2.893790 42.482462  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678855">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.890858 42.484948 </gml:lowerCorner>
+        		<gml:upperCorner>-2.890792 42.484997 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.890858 42.484971  -2.890827 42.484948  -2.890792 42.484970  -2.890797 42.484974  -2.890823 42.484996  -2.890825 42.484997  -2.890858 42.484971  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678856">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.889782 42.485233 </gml:lowerCorner>
+        		<gml:upperCorner>-2.889731 42.485272 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.889782 42.485244  -2.889749 42.485233  -2.889731 42.485262  -2.889764 42.485272  -2.889775 42.485255  -2.889782 42.485244  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678857">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.893372 42.492177 </gml:lowerCorner>
+        		<gml:upperCorner>-2.893328 42.492199 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.893372 42.492197  -2.893366 42.492177  -2.893328 42.492177  -2.893335 42.492199  -2.893372 42.492197  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678858">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.885558 42.477691 </gml:lowerCorner>
+        		<gml:upperCorner>-2.885362 42.477826 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.885558 42.477760  -2.885509 42.477711  -2.885488 42.477691  -2.885362 42.477754  -2.885430 42.477826  -2.885558 42.477760  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678859">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.885690 42.477641 </gml:lowerCorner>
+        		<gml:upperCorner>-2.885509 42.477760 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.885690 42.477687  -2.885649 42.477641  -2.885579 42.477676  -2.885509 42.477711  -2.885558 42.477760  -2.885690 42.477687  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>
