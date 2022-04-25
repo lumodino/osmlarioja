@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-2.894496 42.474026 </gml:lowerCorner>
-      		<gml:upperCorner>-2.839544 42.492199 </gml:upperCorner>
+      		<gml:upperCorner>-2.839544 42.487923 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -5518,15 +5518,15 @@
       <ms:edificios gml:id="edificios.4098916">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.872909 42.477722 </gml:lowerCorner>
-        		<gml:upperCorner>-2.872680 42.477876 </gml:upperCorner>
+        		<gml:lowerCorner>-2.873022 42.477711 </gml:lowerCorner>
+        		<gml:upperCorner>-2.872693 42.477887 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.872876 42.477722  -2.872680 42.477740  -2.872699 42.477876  -2.872909 42.477861  -2.872900 42.477816  -2.872887 42.477766  -2.872876 42.477722  </gml:posList>
+                <gml:posList srsDimension="2">-2.872988 42.477711  -2.872693 42.477743  -2.872719 42.477887  -2.873022 42.477859  -2.872988 42.477711  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5539,15 +5539,15 @@
       <ms:edificios gml:id="edificios.4098917">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.874131 42.478488 </gml:lowerCorner>
-        		<gml:upperCorner>-2.874015 42.478561 </gml:upperCorner>
+        		<gml:lowerCorner>-2.874195 42.478470 </gml:lowerCorner>
+        		<gml:upperCorner>-2.874037 42.478557 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.874113 42.478501  -2.874037 42.478488  -2.874015 42.478544  -2.874131 42.478561  -2.874113 42.478501  </gml:posList>
+                <gml:posList srsDimension="2">-2.874195 42.478519  -2.874124 42.478505  -2.874135 42.478481  -2.874081 42.478470  -2.874072 42.478495  -2.874054 42.478491  -2.874037 42.478530  -2.874180 42.478557  -2.874195 42.478519  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5560,36 +5560,15 @@
       <ms:edificios gml:id="edificios.4098918">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.873141 42.478120 </gml:lowerCorner>
-        		<gml:upperCorner>-2.872979 42.478216 </gml:upperCorner>
+        		<gml:lowerCorner>-2.873189 42.478107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.872987 42.478230 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.873135 42.478216  -2.873141 42.478130  -2.872983 42.478120  -2.872979 42.478209  -2.873135 42.478216  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Torcuato</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098919">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.872986 42.477714 </gml:lowerCorner>
-        		<gml:upperCorner>-2.872876 42.477861 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.872876 42.477722  -2.872887 42.477766  -2.872900 42.477816  -2.872909 42.477861  -2.872986 42.477854  -2.872965 42.477714  -2.872876 42.477722  </gml:posList>
+                <gml:posList srsDimension="2">-2.873179 42.478230  -2.873189 42.478117  -2.872998 42.478107  -2.872987 42.478217  -2.873179 42.478230  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5602,36 +5581,15 @@
       <ms:edificios gml:id="edificios.4098920">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.874749 42.478435 </gml:lowerCorner>
-        		<gml:upperCorner>-2.874295 42.478611 </gml:upperCorner>
+        		<gml:lowerCorner>-2.874772 42.478434 </gml:lowerCorner>
+        		<gml:upperCorner>-2.874318 42.478610 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.874295 42.478580  -2.874730 42.478611  -2.874749 42.478468  -2.874315 42.478435  -2.874295 42.478580  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Torcuato</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4098921">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.874172 42.478501 </gml:lowerCorner>
-        		<gml:upperCorner>-2.874113 42.478564 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.874113 42.478501  -2.874131 42.478561  -2.874155 42.478564  -2.874172 42.478512  -2.874113 42.478501  </gml:posList>
+                <gml:posList srsDimension="2">-2.874318 42.478579  -2.874752 42.478610  -2.874772 42.478467  -2.874338 42.478434  -2.874318 42.478579  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6778,15 +6736,15 @@
       <ms:edificios gml:id="edificios.4678845">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.874953 42.478613 </gml:lowerCorner>
-        		<gml:upperCorner>-2.874829 42.478662 </gml:upperCorner>
+        		<gml:lowerCorner>-2.873146 42.478243 </gml:lowerCorner>
+        		<gml:upperCorner>-2.873033 42.478292 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.874953 42.478627  -2.874833 42.478613  -2.874829 42.478644  -2.874947 42.478662  -2.874953 42.478627  </gml:posList>
+                <gml:posList srsDimension="2">-2.873146 42.478245  -2.873033 42.478243  -2.873034 42.478290  -2.873144 42.478292  -2.873146 42.478245  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6829,27 +6787,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.891054 42.479272  -2.891081 42.479261  -2.891080 42.479260  -2.891050 42.479219  -2.891022 42.479231  -2.890976 42.479170  -2.890760 42.479260  -2.890714 42.479279  -2.890769 42.479351  -2.890990 42.479260  -2.891029 42.479243  -2.891039 42.479258  -2.891035 42.479260  -2.890782 42.479364  -2.890834 42.479433  -2.891095 42.479325  -2.891054 42.479272  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4678848">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.876959 42.479251 </gml:lowerCorner>
-        		<gml:upperCorner>-2.876705 42.479366 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.876959 42.479313  -2.876898 42.479297  -2.876761 42.479260  -2.876729 42.479251  -2.876725 42.479260  -2.876705 42.479309  -2.876925 42.479366  -2.876959 42.479313  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6976,27 +6913,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.889782 42.485244  -2.889749 42.485233  -2.889731 42.485262  -2.889764 42.485272  -2.889775 42.485255  -2.889782 42.485244  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Torcuato</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4678857">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.893372 42.492177 </gml:lowerCorner>
-        		<gml:upperCorner>-2.893328 42.492199 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.893372 42.492197  -2.893366 42.492177  -2.893328 42.492177  -2.893335 42.492199  -2.893372 42.492197  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>

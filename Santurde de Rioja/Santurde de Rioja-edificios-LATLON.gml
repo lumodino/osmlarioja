@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.996129 42.375956 </gml:lowerCorner>
-      		<gml:upperCorner>-2.969492 42.412224 </gml:upperCorner>
+      		<gml:lowerCorner>-3.024809 42.373816 </gml:lowerCorner>
+      		<gml:upperCorner>-2.964426 42.412202 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -276,7 +276,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.983691 42.393482  -2.983692 42.393489  -2.983715 42.393489  -2.983739 42.393488  -2.983763 42.393488  -2.983806 42.393488  -2.983829 42.393488  -2.983829 42.393481  -2.983872 42.393481  -2.983872 42.393488  -2.983896 42.393487  -2.983963 42.393487  -2.983965 42.393387  -2.983896 42.393387  -2.983896 42.393375  -2.983894 42.393372  -2.983891 42.393370  -2.983867 42.393371  -2.983863 42.393372  -2.983861 42.393375  -2.983861 42.393388  -2.983685 42.393390  -2.983685 42.393397  -2.983685 42.393399  -2.983691 42.393482  </gml:posList>
+                <gml:posList srsDimension="2">-2.983691 42.393482  -2.983692 42.393489  -2.983715 42.393489  -2.983739 42.393488  -2.983763 42.393488  -2.983806 42.393488  -2.983829 42.393488  -2.983829 42.393481  -2.983872 42.393481  -2.983872 42.393488  -2.983896 42.393487  -2.983963 42.393487  -2.983964 42.393437  -2.983965 42.393387  -2.983896 42.393387  -2.983896 42.393375  -2.983894 42.393372  -2.983891 42.393370  -2.983867 42.393371  -2.983863 42.393372  -2.983861 42.393375  -2.983861 42.393388  -2.983685 42.393390  -2.983685 42.393397  -2.983685 42.393399  -2.983691 42.393482  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1402,15 +1402,15 @@
       <ms:edificios gml:id="edificios.4106075">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971845 42.387686 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971664 42.387807 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971863 42.387679 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971681 42.387800 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971809 42.387807  -2.971845 42.387718  -2.971700 42.387686  -2.971664 42.387774  -2.971809 42.387807  </gml:posList>
+                <gml:posList srsDimension="2">-2.971827 42.387800  -2.971863 42.387712  -2.971801 42.387698  -2.971717 42.387679  -2.971681 42.387768  -2.971827 42.387800  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -1633,15 +1633,15 @@
       <ms:edificios gml:id="edificios.4106086">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.981516 42.387398 </gml:lowerCorner>
-        		<gml:upperCorner>-2.981356 42.387544 </gml:upperCorner>
+        		<gml:lowerCorner>-2.981524 42.387387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981364 42.387533 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981487 42.387544  -2.981516 42.387405  -2.981443 42.387398  -2.981425 42.387489  -2.981424 42.387491  -2.981365 42.387484  -2.981356 42.387531  -2.981487 42.387544  </gml:posList>
+                <gml:posList srsDimension="2">-2.981495 42.387533  -2.981509 42.387463  -2.981524 42.387394  -2.981451 42.387387  -2.981432 42.387477  -2.981432 42.387479  -2.981373 42.387472  -2.981364 42.387519  -2.981495 42.387533  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2922,7 +2922,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.994313 42.384535  -2.994180 42.384464  -2.994030 42.384606  -2.994156 42.384678  -2.994313 42.384535  </gml:posList>
+                <gml:posList srsDimension="2">-2.994313 42.384535  -2.994180 42.384464  -2.994030 42.384606  -2.994093 42.384642  -2.994156 42.384678  -2.994313 42.384535  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4392,7 +4392,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.995887 42.385517  -2.995807 42.385484  -2.995715 42.385558  -2.995796 42.385603  -2.995887 42.385517  </gml:posList>
+                <gml:posList srsDimension="2">-2.995887 42.385517  -2.995807 42.385484  -2.995761 42.385521  -2.995715 42.385558  -2.995796 42.385603  -2.995887 42.385517  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5035,15 +5035,15 @@
       <ms:edificios gml:id="edificios.4106248">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982283 42.390701 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982149 42.390809 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982299 42.390691 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982165 42.390800 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982198 42.390728  -2.982149 42.390787  -2.982150 42.390787  -2.982208 42.390809  -2.982280 42.390728  -2.982283 42.390724  -2.982271 42.390720  -2.982222 42.390701  -2.982221 42.390701  -2.982198 42.390728  </gml:posList>
+                <gml:posList srsDimension="2">-2.982214 42.390719  -2.982197 42.390739  -2.982165 42.390777  -2.982166 42.390778  -2.982225 42.390800  -2.982296 42.390719  -2.982299 42.390715  -2.982287 42.390710  -2.982238 42.390691  -2.982237 42.390691  -2.982214 42.390719  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5455,15 +5455,15 @@
       <ms:edificios gml:id="edificios.4106268">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.972326 42.388748 </gml:lowerCorner>
-        		<gml:upperCorner>-2.972213 42.388816 </gml:upperCorner>
+        		<gml:lowerCorner>-2.972354 42.388728 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972241 42.388796 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972213 42.388793  -2.972305 42.388816  -2.972326 42.388771  -2.972234 42.388748  -2.972213 42.388793  </gml:posList>
+                <gml:posList srsDimension="2">-2.972241 42.388773  -2.972334 42.388796  -2.972354 42.388752  -2.972262 42.388728  -2.972241 42.388773  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5497,15 +5497,15 @@
       <ms:edificios gml:id="edificios.4106270">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.970066 42.388881 </gml:lowerCorner>
-        		<gml:upperCorner>-2.969955 42.388970 </gml:upperCorner>
+        		<gml:lowerCorner>-2.970087 42.388860 </gml:lowerCorner>
+        		<gml:upperCorner>-2.969956 42.388972 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.970066 42.388901  -2.969986 42.388881  -2.969955 42.388950  -2.970035 42.388970  -2.970066 42.388901  </gml:posList>
+                <gml:posList srsDimension="2">-2.970087 42.388882  -2.969989 42.388860  -2.969956 42.388947  -2.970055 42.388972  -2.970087 42.388882  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5518,15 +5518,15 @@
       <ms:edificios gml:id="edificios.4106271">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971366 42.388149 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971211 42.388249 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971383 42.388147 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971227 42.388247 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971238 42.388149  -2.971211 42.388223  -2.971339 42.388249  -2.971366 42.388175  -2.971238 42.388149  </gml:posList>
+                <gml:posList srsDimension="2">-2.971254 42.388147  -2.971227 42.388221  -2.971355 42.388247  -2.971383 42.388173  -2.971318 42.388160  -2.971254 42.388147  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5539,15 +5539,15 @@
       <ms:edificios gml:id="edificios.4106272">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971963 42.387386 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971820 42.387493 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971980 42.387372 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971836 42.387478 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971842 42.387415  -2.971831 42.387441  -2.971820 42.387465  -2.971927 42.387493  -2.971963 42.387413  -2.971856 42.387386  -2.971842 42.387415  </gml:posList>
+                <gml:posList srsDimension="2">-2.971859 42.387401  -2.971847 42.387426  -2.971836 42.387451  -2.971943 42.387478  -2.971961 42.387438  -2.971980 42.387399  -2.971872 42.387372  -2.971859 42.387401  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5631,7 +5631,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.969864 42.387684  -2.969867 42.387639  -2.969873 42.387565  -2.969767 42.387560  -2.969757 42.387679  -2.969864 42.387684  </gml:posList>
+                <gml:posList srsDimension="2">-2.969864 42.387684  -2.969867 42.387639  -2.969873 42.387565  -2.969820 42.387562  -2.969767 42.387560  -2.969757 42.387679  -2.969864 42.387684  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5644,15 +5644,15 @@
       <ms:edificios gml:id="edificios.4106277">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.970061 42.387175 </gml:lowerCorner>
-        		<gml:upperCorner>-2.969833 42.387437 </gml:upperCorner>
+        		<gml:lowerCorner>-2.970086 42.387161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.969833 42.387464 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.969902 42.387437  -2.969932 42.387368  -2.969984 42.387234  -2.970047 42.387245  -2.970061 42.387203  -2.969932 42.387175  -2.969930 42.387179  -2.969863 42.387352  -2.969833 42.387421  -2.969902 42.387437  </gml:posList>
+                <gml:posList srsDimension="2">-2.970031 42.387464  -2.970063 42.387383  -2.969938 42.387354  -2.969984 42.387234  -2.970061 42.387248  -2.970086 42.387189  -2.969939 42.387161  -2.969930 42.387179  -2.969867 42.387341  -2.969863 42.387352  -2.969833 42.387421  -2.970031 42.387464  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5674,27 +5674,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.969925 42.387567  -2.969873 42.387565  -2.969867 42.387639  -2.969919 42.387641  -2.969924 42.387569  -2.969925 42.387567  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106279">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.969611 42.387633 </gml:lowerCorner>
-        		<gml:upperCorner>-2.969492 42.387899 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.969593 42.387899  -2.969611 42.387635  -2.969523 42.387633  -2.969492 42.387897  -2.969593 42.387899  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -5833,15 +5812,15 @@
       <ms:edificios gml:id="edificios.4106286">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977183 42.389198 </gml:lowerCorner>
-        		<gml:upperCorner>-2.976997 42.389322 </gml:upperCorner>
+        		<gml:lowerCorner>-2.977208 42.389176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977022 42.389301 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977026 42.389215  -2.976997 42.389290  -2.977074 42.389306  -2.977152 42.389322  -2.977178 42.389246  -2.977183 42.389232  -2.977180 42.389231  -2.977039 42.389200  -2.977033 42.389198  -2.977026 42.389215  </gml:posList>
+                <gml:posList srsDimension="2">-2.977051 42.389193  -2.977022 42.389269  -2.977098 42.389284  -2.977176 42.389301  -2.977203 42.389224  -2.977208 42.389210  -2.977205 42.389209  -2.977064 42.389178  -2.977058 42.389176  -2.977051 42.389193  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6586,153 +6565,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106322">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.981027 42.390129 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980949 42.390167 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980959 42.390130  -2.980957 42.390129  -2.980949 42.390141  -2.981019 42.390167  -2.981027 42.390155  -2.980959 42.390130  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106323">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.981019 42.390133 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980849 42.390264 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980949 42.390141  -2.980944 42.390147  -2.980906 42.390133  -2.980894 42.390151  -2.980890 42.390158  -2.980900 42.390162  -2.980889 42.390179  -2.980877 42.390196  -2.980866 42.390192  -2.980861 42.390199  -2.980849 42.390217  -2.980887 42.390231  -2.980883 42.390238  -2.980953 42.390264  -2.980962 42.390251  -2.980958 42.390250  -2.981006 42.390178  -2.981011 42.390180  -2.981019 42.390167  -2.980949 42.390141  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106324">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.980961 42.390107 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980883 42.390151 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980894 42.390151  -2.980906 42.390133  -2.980911 42.390126  -2.980949 42.390141  -2.980957 42.390129  -2.980959 42.390130  -2.980961 42.390126  -2.980911 42.390107  -2.980883 42.390147  -2.980894 42.390151  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106325">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.980953 42.390238 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980875 42.390276 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980883 42.390238  -2.980875 42.390250  -2.980876 42.390250  -2.980945 42.390276  -2.980953 42.390264  -2.980883 42.390238  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106326">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.980949 42.390126 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980906 42.390147 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980906 42.390133  -2.980944 42.390147  -2.980949 42.390141  -2.980911 42.390126  -2.980906 42.390133  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106327">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.980887 42.390217 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980845 42.390238 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980849 42.390217  -2.980845 42.390224  -2.980883 42.390238  -2.980887 42.390231  -2.980849 42.390217  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106328">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.980883 42.390195 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980823 42.390254 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980849 42.390217  -2.980861 42.390199  -2.980851 42.390195  -2.980823 42.390235  -2.980873 42.390254  -2.980876 42.390250  -2.980875 42.390250  -2.980883 42.390238  -2.980845 42.390224  -2.980849 42.390217  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4106329">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -6946,15 +6778,15 @@
       <ms:edificios gml:id="edificios.4106339">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.976958 42.388633 </gml:lowerCorner>
-        		<gml:upperCorner>-2.976784 42.388732 </gml:upperCorner>
+        		<gml:lowerCorner>-2.976971 42.388603 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976793 42.388732 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.976892 42.388723  -2.976920 42.388732  -2.976927 42.388720  -2.976958 42.388665  -2.976852 42.388633  -2.976848 42.388639  -2.976839 42.388642  -2.976830 42.388658  -2.976834 42.388665  -2.976831 42.388671  -2.976808 42.388664  -2.976784 42.388708  -2.976849 42.388728  -2.976857 42.388713  -2.976892 42.388723  </gml:posList>
+                <gml:posList srsDimension="2">-2.976958 42.388665  -2.976971 42.388641  -2.976841 42.388603  -2.976808 42.388664  -2.976793 42.388691  -2.976857 42.388713  -2.976892 42.388723  -2.976920 42.388732  -2.976927 42.388720  -2.976958 42.388665  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6988,15 +6820,15 @@
       <ms:edificios gml:id="edificios.4106341">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.972689 42.384282 </gml:lowerCorner>
-        		<gml:upperCorner>-2.972646 42.384355 </gml:upperCorner>
+        		<gml:lowerCorner>-2.972707 42.384278 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972655 42.384354 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972673 42.384282  -2.972646 42.384352  -2.972663 42.384355  -2.972689 42.384286  -2.972673 42.384282  </gml:posList>
+                <gml:posList srsDimension="2">-2.972681 42.384278  -2.972655 42.384348  -2.972681 42.384354  -2.972707 42.384284  -2.972681 42.384278  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7080,7 +6912,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977869 42.393379  -2.977898 42.393313  -2.977768 42.393273  -2.977740 42.393341  -2.977869 42.393379  </gml:posList>
+                <gml:posList srsDimension="2">-2.977869 42.393379  -2.977883 42.393346  -2.977898 42.393313  -2.977768 42.393273  -2.977740 42.393341  -2.977869 42.393379  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7366,15 +7198,15 @@
       <ms:edificios gml:id="edificios.4106359">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982192 42.390858 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982035 42.390917 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982205 42.390842 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982048 42.390902 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982035 42.390891  -2.982181 42.390917  -2.982192 42.390883  -2.982046 42.390858  -2.982035 42.390891  </gml:posList>
+                <gml:posList srsDimension="2">-2.982048 42.390876  -2.982194 42.390902  -2.982205 42.390867  -2.982059 42.390842  -2.982048 42.390876  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7471,15 +7303,15 @@
       <ms:edificios gml:id="edificios.4106364">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982203 42.390825 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982046 42.390883 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982216 42.390810 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982059 42.390867 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982046 42.390858  -2.982192 42.390883  -2.982203 42.390849  -2.982056 42.390825  -2.982048 42.390852  -2.982046 42.390858  </gml:posList>
+                <gml:posList srsDimension="2">-2.982059 42.390842  -2.982205 42.390867  -2.982216 42.390833  -2.982069 42.390810  -2.982060 42.390837  -2.982059 42.390842  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -7933,15 +7765,15 @@
       <ms:edificios gml:id="edificios.4106386">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982045 42.390833 </gml:lowerCorner>
-        		<gml:upperCorner>-2.981919 42.390891 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982058 42.390818 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981932 42.390876 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981919 42.390873  -2.982033 42.390891  -2.982045 42.390852  -2.981933 42.390833  -2.981919 42.390873  </gml:posList>
+                <gml:posList srsDimension="2">-2.981932 42.390858  -2.982045 42.390876  -2.982058 42.390836  -2.981946 42.390818  -2.981932 42.390858  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8080,15 +7912,15 @@
       <ms:edificios gml:id="edificios.4106393">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.972673 42.384272 </gml:lowerCorner>
-        		<gml:upperCorner>-2.972600 42.384352 </gml:upperCorner>
+        		<gml:lowerCorner>-2.972681 42.384269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972608 42.384348 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972646 42.384352  -2.972673 42.384282  -2.972626 42.384272  -2.972600 42.384342  -2.972646 42.384352  </gml:posList>
+                <gml:posList srsDimension="2">-2.972655 42.384348  -2.972681 42.384278  -2.972634 42.384269  -2.972608 42.384338  -2.972655 42.384348  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8101,15 +7933,15 @@
       <ms:edificios gml:id="edificios.4106394">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.972557 42.384301 </gml:lowerCorner>
-        		<gml:upperCorner>-2.972516 42.384325 </gml:upperCorner>
+        		<gml:lowerCorner>-2.972564 42.384292 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972523 42.384317 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972557 42.384308  -2.972522 42.384301  -2.972516 42.384318  -2.972551 42.384325  -2.972557 42.384308  </gml:posList>
+                <gml:posList srsDimension="2">-2.972564 42.384300  -2.972529 42.384292  -2.972523 42.384310  -2.972558 42.384317  -2.972564 42.384300  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8164,15 +7996,15 @@
       <ms:edificios gml:id="edificios.4106397">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971491 42.384013 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971394 42.384072 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971515 42.383979 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971392 42.384069 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971491 42.384029  -2.971409 42.384013  -2.971394 42.384057  -2.971477 42.384072  -2.971491 42.384029  </gml:posList>
+                <gml:posList srsDimension="2">-2.971515 42.383999  -2.971417 42.383979  -2.971392 42.384048  -2.971488 42.384069  -2.971515 42.383999  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8185,15 +8017,15 @@
       <ms:edificios gml:id="edificios.4106398">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.973063 42.382362 </gml:lowerCorner>
-        		<gml:upperCorner>-2.972935 42.382414 </gml:upperCorner>
+        		<gml:lowerCorner>-2.973107 42.382310 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972939 42.382409 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972958 42.382362  -2.972951 42.382381  -2.972944 42.382379  -2.972935 42.382400  -2.972942 42.382401  -2.972948 42.382402  -2.972949 42.382400  -2.972972 42.382405  -2.972975 42.382397  -2.973051 42.382414  -2.973063 42.382386  -2.972958 42.382362  </gml:posList>
+                <gml:posList srsDimension="2">-2.972979 42.382310  -2.972955 42.382371  -2.972948 42.382369  -2.972939 42.382390  -2.972946 42.382391  -2.972951 42.382393  -2.972952 42.382390  -2.972976 42.382396  -2.972979 42.382387  -2.973075 42.382409  -2.973107 42.382339  -2.972979 42.382310  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8206,15 +8038,15 @@
       <ms:edificios gml:id="edificios.4106399">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.973051 42.382397 </gml:lowerCorner>
-        		<gml:upperCorner>-2.972934 42.382446 </gml:upperCorner>
+        		<gml:lowerCorner>-2.973075 42.382387 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972937 42.382440 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972942 42.382401  -2.972934 42.382423  -2.973038 42.382446  -2.973051 42.382414  -2.972975 42.382397  -2.972972 42.382405  -2.972949 42.382400  -2.972948 42.382402  -2.972942 42.382401  </gml:posList>
+                <gml:posList srsDimension="2">-2.972946 42.382391  -2.972937 42.382413  -2.973059 42.382440  -2.973075 42.382409  -2.972979 42.382387  -2.972976 42.382396  -2.972952 42.382390  -2.972951 42.382393  -2.972946 42.382391  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8227,15 +8059,15 @@
       <ms:edificios gml:id="edificios.4106400">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.975151 42.381353 </gml:lowerCorner>
-        		<gml:upperCorner>-2.975024 42.381427 </gml:upperCorner>
+        		<gml:lowerCorner>-2.975156 42.381337 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975029 42.381411 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.975130 42.381427  -2.975151 42.381378  -2.975042 42.381353  -2.975024 42.381403  -2.975130 42.381427  </gml:posList>
+                <gml:posList srsDimension="2">-2.975135 42.381411  -2.975156 42.381361  -2.975047 42.381337  -2.975029 42.381386  -2.975135 42.381411  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8248,15 +8080,15 @@
       <ms:edificios gml:id="edificios.4106401">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.975824 42.380299 </gml:lowerCorner>
-        		<gml:upperCorner>-2.975708 42.380364 </gml:upperCorner>
+        		<gml:lowerCorner>-2.975852 42.380286 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975718 42.380371 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.975726 42.380299  -2.975708 42.380342  -2.975806 42.380364  -2.975824 42.380321  -2.975726 42.380299  </gml:posList>
+                <gml:posList srsDimension="2">-2.975742 42.380286  -2.975728 42.380318  -2.975718 42.380341  -2.975827 42.380371  -2.975852 42.380314  -2.975742 42.380286  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8269,15 +8101,15 @@
       <ms:edificios gml:id="edificios.4106402">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.975879 42.380055 </gml:lowerCorner>
-        		<gml:upperCorner>-2.975757 42.380142 </gml:upperCorner>
+        		<gml:lowerCorner>-2.975883 42.380045 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975762 42.380132 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.975757 42.380097  -2.975834 42.380142  -2.975879 42.380099  -2.975802 42.380055  -2.975757 42.380097  </gml:posList>
+                <gml:posList srsDimension="2">-2.975762 42.380087  -2.975838 42.380132  -2.975883 42.380089  -2.975807 42.380045  -2.975762 42.380087  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8332,15 +8164,15 @@
       <ms:edificios gml:id="edificios.4106405">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.976921 42.378014 </gml:lowerCorner>
-        		<gml:upperCorner>-2.976795 42.378089 </gml:upperCorner>
+        		<gml:lowerCorner>-2.977020 42.378014 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976795 42.378113 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.976891 42.378034  -2.976818 42.378014  -2.976812 42.378026  -2.976795 42.378062  -2.976861 42.378079  -2.976898 42.378089  -2.976915 42.378053  -2.976921 42.378042  -2.976891 42.378034  </gml:posList>
+                <gml:posList srsDimension="2">-2.976891 42.378034  -2.976818 42.378014  -2.976812 42.378026  -2.976795 42.378062  -2.976853 42.378077  -2.976861 42.378079  -2.977006 42.378113  -2.977020 42.378068  -2.976921 42.378042  -2.976891 42.378034  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8353,15 +8185,15 @@
       <ms:edificios gml:id="edificios.4106406">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977867 42.376177 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977766 42.376252 </gml:upperCorner>
+        		<gml:lowerCorner>-2.977880 42.376169 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977751 42.376271 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977820 42.376177  -2.977798 42.376204  -2.977788 42.376199  -2.977766 42.376226  -2.977823 42.376252  -2.977867 42.376197  -2.977820 42.376177  </gml:posList>
+                <gml:posList srsDimension="2">-2.977801 42.376169  -2.977751 42.376241  -2.977829 42.376271  -2.977880 42.376201  -2.977801 42.376169  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8752,15 +8584,15 @@
       <ms:edificios gml:id="edificios.4106425">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.981319 42.387897 </gml:lowerCorner>
-        		<gml:upperCorner>-2.981254 42.387987 </gml:upperCorner>
+        		<gml:lowerCorner>-2.981326 42.387885 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981262 42.387976 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981306 42.387905  -2.981254 42.387897  -2.981264 42.387987  -2.981319 42.387985  -2.981306 42.387905  </gml:posList>
+                <gml:posList srsDimension="2">-2.981314 42.387894  -2.981262 42.387885  -2.981272 42.387976  -2.981326 42.387974  -2.981320 42.387934  -2.981314 42.387894  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9232,39 +9064,18 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106448">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977820 42.376172 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977788 42.376204 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977788 42.376199  -2.977798 42.376204  -2.977820 42.376177  -2.977809 42.376172  -2.977788 42.376199  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4106449">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.977945 42.375961 </gml:lowerCorner>
-        		<gml:upperCorner>-2.977818 42.376034 </gml:upperCorner>
+        		<gml:lowerCorner>-2.977968 42.375961 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977813 42.376057 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.977861 42.375961  -2.977849 42.375986  -2.977830 42.375982  -2.977818 42.376007  -2.977921 42.376034  -2.977945 42.375983  -2.977861 42.375961  </gml:posList>
+                <gml:posList srsDimension="2">-2.977861 42.375961  -2.977849 42.375986  -2.977830 42.375982  -2.977813 42.376016  -2.977947 42.376057  -2.977963 42.376024  -2.977953 42.376020  -2.977968 42.375996  -2.977861 42.375961  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9306,7 +9117,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.984370 42.376964  -2.984271 42.376944  -2.984257 42.376981  -2.984230 42.376977  -2.984221 42.377044  -2.984338 42.377061  -2.984370 42.376964  </gml:posList>
+                <gml:posList srsDimension="2">-2.984370 42.376964  -2.984271 42.376944  -2.984257 42.376981  -2.984230 42.376977  -2.984221 42.377044  -2.984280 42.377052  -2.984338 42.377061  -2.984370 42.376964  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9319,7 +9130,7 @@
       <ms:edificios gml:id="edificios.4106452">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.983530 42.380063 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.983544 42.380045 </gml:lowerCorner>
         		<gml:upperCorner>-2.983437 42.380147 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
@@ -9327,7 +9138,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.983530 42.380081  -2.983475 42.380063  -2.983437 42.380130  -2.983493 42.380147  -2.983530 42.380081  </gml:posList>
+                <gml:posList srsDimension="2">-2.983544 42.380065  -2.983485 42.380045  -2.983461 42.380087  -2.983437 42.380130  -2.983493 42.380147  -2.983544 42.380065  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9432,7 +9243,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981386 42.385096  -2.981397 42.385007  -2.981271 42.384996  -2.981271 42.385086  -2.981386 42.385096  </gml:posList>
+                <gml:posList srsDimension="2">-2.981386 42.385096  -2.981397 42.385007  -2.981271 42.384996  -2.981271 42.385086  -2.981329 42.385091  -2.981386 42.385096  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9445,15 +9256,15 @@
       <ms:edificios gml:id="edificios.4106458">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982148 42.385487 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982059 42.385577 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982175 42.385446 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982059 42.385578 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982120 42.385577  -2.982148 42.385498  -2.982089 42.385487  -2.982059 42.385567  -2.982120 42.385577  </gml:posList>
+                <gml:posList srsDimension="2">-2.982133 42.385578  -2.982175 42.385458  -2.982099 42.385446  -2.982059 42.385567  -2.982096 42.385573  -2.982133 42.385578  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9579,7 +9390,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980123 42.385201  -2.980001 42.385163  -2.979973 42.385217  -2.980092 42.385258  -2.980123 42.385201  </gml:posList>
+                <gml:posList srsDimension="2">-2.980123 42.385201  -2.980001 42.385163  -2.979973 42.385217  -2.980032 42.385237  -2.980092 42.385258  -2.980123 42.385201  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10600,15 +10411,15 @@
       <ms:edificios gml:id="edificios.4106513">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971205 42.412160 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971123 42.412224 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971215 42.412137 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971133 42.412202 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971205 42.412166  -2.971137 42.412160  -2.971123 42.412218  -2.971192 42.412224  -2.971205 42.412166  </gml:posList>
+                <gml:posList srsDimension="2">-2.971215 42.412143  -2.971147 42.412137  -2.971140 42.412166  -2.971133 42.412196  -2.971202 42.412202  -2.971215 42.412143  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10705,15 +10516,15 @@
       <ms:edificios gml:id="edificios.4106518">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.976019 42.401739 </gml:lowerCorner>
-        		<gml:upperCorner>-2.975953 42.401778 </gml:upperCorner>
+        		<gml:lowerCorner>-2.976029 42.401734 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975962 42.401773 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.976019 42.401776  -2.976019 42.401739  -2.975953 42.401740  -2.975953 42.401778  -2.976019 42.401776  </gml:posList>
+                <gml:posList srsDimension="2">-2.976029 42.401771  -2.976029 42.401734  -2.975962 42.401735  -2.975962 42.401773  -2.976029 42.401771  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10734,7 +10545,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.975920 42.395740  -2.975916 42.395561  -2.975686 42.395561  -2.975695 42.395741  -2.975920 42.395740  </gml:posList>
+                <gml:posList srsDimension="2">-2.975920 42.395740  -2.975916 42.395561  -2.975686 42.395561  -2.975693 42.395704  -2.975695 42.395741  -2.975920 42.395740  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10776,7 +10587,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972701 42.392370  -2.972636 42.392351  -2.972614 42.392385  -2.972681 42.392405  -2.972701 42.392370  </gml:posList>
+                <gml:posList srsDimension="2">-2.972701 42.392370  -2.972636 42.392351  -2.972614 42.392385  -2.972648 42.392395  -2.972681 42.392405  -2.972701 42.392370  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10789,15 +10600,15 @@
       <ms:edificios gml:id="edificios.4106522">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.972068 42.389428 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971977 42.389522 </gml:upperCorner>
+        		<gml:lowerCorner>-2.972080 42.389428 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971989 42.389522 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.972068 42.389441  -2.972025 42.389428  -2.971977 42.389507  -2.972021 42.389522  -2.972068 42.389441  </gml:posList>
+                <gml:posList srsDimension="2">-2.972080 42.389441  -2.972037 42.389428  -2.971989 42.389508  -2.972032 42.389522  -2.972080 42.389441  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10881,7 +10692,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980126 42.384291  -2.980082 42.384284  -2.980076 42.384312  -2.980123 42.384317  -2.980126 42.384291  </gml:posList>
+                <gml:posList srsDimension="2">-2.980126 42.384291  -2.980082 42.384284  -2.980076 42.384312  -2.980099 42.384314  -2.980123 42.384317  -2.980126 42.384291  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10894,15 +10705,15 @@
       <ms:edificios gml:id="edificios.4106527">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.983757 42.385653 </gml:lowerCorner>
-        		<gml:upperCorner>-2.983622 42.385724 </gml:upperCorner>
+        		<gml:lowerCorner>-2.983768 42.385638 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983629 42.385722 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.983740 42.385724  -2.983757 42.385670  -2.983638 42.385653  -2.983622 42.385707  -2.983740 42.385724  </gml:posList>
+                <gml:posList srsDimension="2">-2.983747 42.385722  -2.983768 42.385650  -2.983648 42.385638  -2.983629 42.385704  -2.983747 42.385722  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10923,7 +10734,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.984564 42.383388  -2.984564 42.383326  -2.984470 42.383324  -2.984468 42.383387  -2.984564 42.383388  </gml:posList>
+                <gml:posList srsDimension="2">-2.984564 42.383388  -2.984564 42.383326  -2.984470 42.383324  -2.984468 42.383387  -2.984516 42.383388  -2.984564 42.383388  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10936,15 +10747,15 @@
       <ms:edificios gml:id="edificios.4106529">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.987392 42.380952 </gml:lowerCorner>
-        		<gml:upperCorner>-2.987298 42.381027 </gml:upperCorner>
+        		<gml:lowerCorner>-2.987398 42.380932 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987303 42.381008 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.987338 42.381027  -2.987392 42.381008  -2.987350 42.380952  -2.987298 42.380971  -2.987338 42.381027  </gml:posList>
+                <gml:posList srsDimension="2">-2.987344 42.381008  -2.987398 42.380989  -2.987356 42.380932  -2.987303 42.380952  -2.987344 42.381008  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10957,15 +10768,15 @@
       <ms:edificios gml:id="edificios.4106530">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.984829 42.382238 </gml:lowerCorner>
-        		<gml:upperCorner>-2.984714 42.382331 </gml:upperCorner>
+        		<gml:lowerCorner>-2.984841 42.382221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.984686 42.382327 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.984794 42.382331  -2.984829 42.382256  -2.984751 42.382238  -2.984714 42.382314  -2.984794 42.382331  </gml:posList>
+                <gml:posList srsDimension="2">-2.984798 42.382327  -2.984841 42.382241  -2.984801 42.382231  -2.984761 42.382221  -2.984748 42.382248  -2.984697 42.382237  -2.984686 42.382263  -2.984735 42.382275  -2.984720 42.382307  -2.984798 42.382327  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12007,15 +11818,15 @@
       <ms:edificios gml:id="edificios.4106580">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.980582 42.384446 </gml:lowerCorner>
-        		<gml:upperCorner>-2.980507 42.384482 </gml:upperCorner>
+        		<gml:lowerCorner>-2.980582 42.384421 </gml:lowerCorner>
+        		<gml:upperCorner>-2.980450 42.384465 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.980577 42.384482  -2.980582 42.384450  -2.980510 42.384446  -2.980507 42.384477  -2.980577 42.384482  </gml:posList>
+                <gml:posList srsDimension="2">-2.980577 42.384465  -2.980582 42.384433  -2.980452 42.384421  -2.980450 42.384451  -2.980577 42.384465  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12091,15 +11902,15 @@
       <ms:edificios gml:id="edificios.4106584">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982315 42.391043 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982246 42.391093 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982705 42.390712 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982558 42.390851 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982246 42.391080  -2.982299 42.391093  -2.982315 42.391056  -2.982263 42.391043  -2.982246 42.391080  </gml:posList>
+                <gml:posList srsDimension="2">-2.982558 42.390829  -2.982645 42.390851  -2.982705 42.390736  -2.982611 42.390712  -2.982558 42.390829  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13537,27 +13348,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.4106653">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982057 42.390471 </gml:lowerCorner>
-        		<gml:upperCorner>-2.981962 42.390512 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981962 42.390474  -2.982055 42.390512  -2.982057 42.390509  -2.981965 42.390471  -2.981962 42.390474  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.4106654">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -14002,15 +13792,15 @@
       <ms:edificios gml:id="edificios.4106675">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982342 42.390724 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982208 42.390833 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982359 42.390715 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982225 42.390823 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982280 42.390728  -2.982208 42.390809  -2.982267 42.390832  -2.982268 42.390833  -2.982342 42.390746  -2.982341 42.390746  -2.982294 42.390728  -2.982283 42.390724  -2.982280 42.390728  </gml:posList>
+                <gml:posList srsDimension="2">-2.982296 42.390719  -2.982225 42.390800  -2.982283 42.390823  -2.982284 42.390823  -2.982359 42.390737  -2.982358 42.390736  -2.982311 42.390719  -2.982299 42.390715  -2.982296 42.390719  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14065,15 +13855,15 @@
       <ms:edificios gml:id="edificios.4106678">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.981785 42.389922 </gml:lowerCorner>
-        		<gml:upperCorner>-2.981717 42.389990 </gml:upperCorner>
+        		<gml:lowerCorner>-2.981807 42.389909 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981740 42.389977 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981717 42.389981  -2.981719 42.389981  -2.981771 42.389990  -2.981772 42.389990  -2.981785 42.389932  -2.981730 42.389922  -2.981717 42.389981  </gml:posList>
+                <gml:posList srsDimension="2">-2.981740 42.389968  -2.981741 42.389968  -2.981794 42.389977  -2.981795 42.389977  -2.981807 42.389920  -2.981752 42.389909  -2.981740 42.389968  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14128,15 +13918,15 @@
       <ms:edificios gml:id="edificios.4106681">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.981744 42.388509 </gml:lowerCorner>
-        		<gml:upperCorner>-2.981617 42.388613 </gml:upperCorner>
+        		<gml:lowerCorner>-2.981752 42.388498 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981624 42.388601 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.981631 42.388510  -2.981617 42.388603  -2.981617 42.388604  -2.981730 42.388613  -2.981730 42.388612  -2.981744 42.388519  -2.981744 42.388518  -2.981632 42.388509  -2.981631 42.388510  </gml:posList>
+                <gml:posList srsDimension="2">-2.981639 42.388499  -2.981625 42.388591  -2.981624 42.388592  -2.981738 42.388601  -2.981738 42.388600  -2.981745 42.388554  -2.981752 42.388507  -2.981752 42.388506  -2.981639 42.388498  -2.981639 42.388499  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14317,15 +14107,15 @@
       <ms:edificios gml:id="edificios.4106690">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.982159 42.390933 </gml:lowerCorner>
-        		<gml:upperCorner>-2.982069 42.391007 </gml:upperCorner>
+        		<gml:lowerCorner>-2.982175 42.390929 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982085 42.391003 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.982097 42.390934  -2.982069 42.390995  -2.982131 42.391007  -2.982159 42.390945  -2.982159 42.390944  -2.982129 42.390938  -2.982097 42.390933  -2.982097 42.390934  </gml:posList>
+                <gml:posList srsDimension="2">-2.982112 42.390930  -2.982085 42.390991  -2.982116 42.390997  -2.982146 42.391003  -2.982175 42.390941  -2.982175 42.390940  -2.982144 42.390935  -2.982113 42.390929  -2.982112 42.390930  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14443,15 +14233,15 @@
       <ms:edificios gml:id="edificios.4106696">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971414 42.409116 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971343 42.409163 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971423 42.409099 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971352 42.409147 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971343 42.409150  -2.971399 42.409163  -2.971414 42.409129  -2.971359 42.409116  -2.971343 42.409150  </gml:posList>
+                <gml:posList srsDimension="2">-2.971352 42.409133  -2.971407 42.409147  -2.971423 42.409113  -2.971368 42.409099  -2.971352 42.409133  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14464,15 +14254,15 @@
       <ms:edificios gml:id="edificios.4106697">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971399 42.409150 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971320 42.409215 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971407 42.409133 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971329 42.409198 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971343 42.409150  -2.971320 42.409201  -2.971375 42.409215  -2.971399 42.409163  -2.971343 42.409150  </gml:posList>
+                <gml:posList srsDimension="2">-2.971352 42.409133  -2.971329 42.409184  -2.971384 42.409198  -2.971407 42.409147  -2.971352 42.409133  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14485,15 +14275,15 @@
       <ms:edificios gml:id="edificios.4106698">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.971369 42.409222 </gml:lowerCorner>
-        		<gml:upperCorner>-2.971293 42.409293 </gml:upperCorner>
+        		<gml:lowerCorner>-2.971378 42.409205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971301 42.409276 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.971369 42.409235  -2.971318 42.409222  -2.971293 42.409286  -2.971325 42.409293  -2.971327 42.409285  -2.971346 42.409289  -2.971369 42.409235  </gml:posList>
+                <gml:posList srsDimension="2">-2.971378 42.409218  -2.971327 42.409205  -2.971301 42.409269  -2.971334 42.409276  -2.971336 42.409268  -2.971354 42.409273  -2.971378 42.409218  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14548,15 +14338,15 @@
       <ms:edificios gml:id="edificios.4106701">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.973987 42.402311 </gml:lowerCorner>
-        		<gml:upperCorner>-2.973910 42.402352 </gml:upperCorner>
+        		<gml:lowerCorner>-2.974003 42.402301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973927 42.402343 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.973977 42.402352  -2.973987 42.402324  -2.973918 42.402311  -2.973910 42.402340  -2.973977 42.402352  </gml:posList>
+                <gml:posList srsDimension="2">-2.973993 42.402343  -2.974003 42.402315  -2.973935 42.402301  -2.973927 42.402330  -2.973993 42.402343  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14619,7 +14409,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.978054 42.396704  -2.978038 42.396746  -2.978132 42.396765  -2.978148 42.396723  -2.978054 42.396704  </gml:posList>
+                <gml:posList srsDimension="2">-2.978054 42.396704  -2.978038 42.396746  -2.978132 42.396765  -2.978140 42.396744  -2.978148 42.396723  -2.978054 42.396704  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14632,15 +14422,15 @@
       <ms:edificios gml:id="edificios.4106705">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.979171 42.395779 </gml:lowerCorner>
-        		<gml:upperCorner>-2.979049 42.395839 </gml:upperCorner>
+        		<gml:lowerCorner>-2.979176 42.395751 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979058 42.395839 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.979166 42.395839  -2.979171 42.395784  -2.979058 42.395779  -2.979049 42.395835  -2.979166 42.395839  </gml:posList>
+                <gml:posList srsDimension="2">-2.979166 42.395839  -2.979176 42.395761  -2.979063 42.395751  -2.979058 42.395836  -2.979166 42.395839  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14662,6 +14452,1581 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.979270 42.395907  -2.979268 42.395856  -2.979224 42.395856  -2.979226 42.395909  -2.979270 42.395907  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678910">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.984448 42.374787 </gml:lowerCorner>
+        		<gml:upperCorner>-2.984386 42.374840 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.984448 42.374797  -2.984420 42.374787  -2.984403 42.374809  -2.984386 42.374831  -2.984413 42.374840  -2.984448 42.374797  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678911">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.984208 42.374826 </gml:lowerCorner>
+        		<gml:upperCorner>-2.984175 42.374855 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.984197 42.374837  -2.984202 42.374830  -2.984191 42.374826  -2.984175 42.374845  -2.984197 42.374855  -2.984208 42.374842  -2.984197 42.374837  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678912">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.988219 42.375440 </gml:lowerCorner>
+        		<gml:upperCorner>-2.988155 42.375713 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.988185 42.375440  -2.988155 42.375711  -2.988166 42.375711  -2.988177 42.375712  -2.988188 42.375713  -2.988219 42.375442  -2.988185 42.375440  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678913">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.978084 42.375990 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977951 42.376101 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.978084 42.376012  -2.978005 42.375990  -2.977951 42.376076  -2.978022 42.376101  -2.978084 42.376012  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678914">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.977495 42.377246 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977457 42.377271 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.977495 42.377252  -2.977465 42.377246  -2.977463 42.377251  -2.977457 42.377265  -2.977487 42.377271  -2.977495 42.377252  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678915">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.977354 42.377296 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977313 42.377329 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.977354 42.377300  -2.977326 42.377296  -2.977319 42.377309  -2.977313 42.377321  -2.977340 42.377329  -2.977354 42.377300  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678916">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964460 42.378465 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964429 42.378495 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964460 42.378466  -2.964430 42.378465  -2.964429 42.378495  -2.964460 42.378495  -2.964460 42.378466  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678917">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.964460 42.378508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.964426 42.378534 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.964460 42.378534  -2.964460 42.378521  -2.964460 42.378508  -2.964426 42.378509  -2.964426 42.378534  -2.964460 42.378534  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678918">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.976292 42.378849 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976190 42.378930 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.976292 42.378883  -2.976214 42.378849  -2.976190 42.378902  -2.976255 42.378930  -2.976292 42.378883  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678919">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970890 42.379361 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970836 42.379465 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970890 42.379362  -2.970844 42.379361  -2.970836 42.379464  -2.970882 42.379465  -2.970886 42.379414  -2.970890 42.379362  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678920">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.976450 42.379509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976401 42.379547 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.976450 42.379518  -2.976415 42.379509  -2.976401 42.379537  -2.976438 42.379547  -2.976450 42.379518  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678921">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.976445 42.379547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976408 42.379583 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.976445 42.379552  -2.976424 42.379547  -2.976408 42.379577  -2.976430 42.379583  -2.976445 42.379552  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678922">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.976254 42.379636 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976155 42.379723 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.976155 42.379703  -2.976211 42.379723  -2.976254 42.379655  -2.976200 42.379636  -2.976193 42.379642  -2.976179 42.379637  -2.976169 42.379654  -2.976183 42.379658  -2.976155 42.379703  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678923">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.976355 42.379670 </gml:lowerCorner>
+        		<gml:upperCorner>-2.976294 42.379716 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.976355 42.379688  -2.976321 42.379670  -2.976294 42.379697  -2.976329 42.379716  -2.976355 42.379688  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678924">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.975904 42.380121 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975823 42.380182 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.975904 42.380131  -2.975879 42.380121  -2.975862 42.380150  -2.975841 42.380138  -2.975823 42.380156  -2.975844 42.380169  -2.975866 42.380182  -2.975904 42.380131  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678925">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.975943 42.380355 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975882 42.380399 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.975943 42.380366  -2.975919 42.380360  -2.975896 42.380355  -2.975882 42.380388  -2.975932 42.380399  -2.975943 42.380366  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678926">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.987914 42.380856 </gml:lowerCorner>
+        		<gml:upperCorner>-2.987758 42.381007 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.987800 42.380856  -2.987778 42.380871  -2.987797 42.380892  -2.987758 42.380911  -2.987844 42.381007  -2.987914 42.380973  -2.987826 42.380875  -2.987826 42.380874  -2.987800 42.380856  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678929">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.984653 42.382211 </gml:lowerCorner>
+        		<gml:upperCorner>-2.984613 42.382240 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.984617 42.382211  -2.984613 42.382237  -2.984631 42.382239  -2.984649 42.382240  -2.984653 42.382214  -2.984617 42.382211  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678931">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973189 42.382445 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973102 42.382523 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973189 42.382459  -2.973130 42.382445  -2.973102 42.382510  -2.973103 42.382509  -2.973161 42.382523  -2.973189 42.382459  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678933">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974764 42.383231 </gml:lowerCorner>
+        		<gml:upperCorner>-2.974625 42.383344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974764 42.383259  -2.974679 42.383231  -2.974625 42.383319  -2.974626 42.383320  -2.974710 42.383344  -2.974764 42.383259  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678934">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983001 42.383117 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982850 42.383208 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.982967 42.383117  -2.982850 42.383147  -2.982877 42.383208  -2.982937 42.383196  -2.982944 42.383208  -2.983001 42.383192  -2.982967 42.383117  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678935">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974573 42.383535 </gml:lowerCorner>
+        		<gml:upperCorner>-2.974335 42.383761 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974573 42.383550  -2.974521 42.383535  -2.974513 42.383553  -2.974450 42.383536  -2.974435 42.383576  -2.974416 42.383571  -2.974335 42.383731  -2.974402 42.383761  -2.974454 42.383653  -2.974519 42.383670  -2.974573 42.383550  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678936">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971180 42.383885 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971098 42.383951 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971180 42.383898  -2.971112 42.383885  -2.971098 42.383939  -2.971168 42.383951  -2.971180 42.383898  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678938">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971148 42.383967 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971075 42.384005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971148 42.383979  -2.971083 42.383967  -2.971075 42.383991  -2.971137 42.384005  -2.971148 42.383979  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678939">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.979981 42.384238 </gml:lowerCorner>
+        		<gml:upperCorner>-2.979941 42.384272 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.979981 42.384270  -2.979978 42.384254  -2.979975 42.384238  -2.979942 42.384242  -2.979941 42.384241  -2.979949 42.384272  -2.979981 42.384270  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678940">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972606 42.384236 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972488 42.384288 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972606 42.384257  -2.972493 42.384236  -2.972488 42.384263  -2.972488 42.384263  -2.972595 42.384288  -2.972606 42.384257  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678941">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.974395 42.384462 </gml:lowerCorner>
+        		<gml:upperCorner>-2.974249 42.384531 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.974395 42.384490  -2.974266 42.384462  -2.974249 42.384503  -2.974378 42.384531  -2.974395 42.384490  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678942">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973617 42.384803 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973350 42.384923 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973617 42.384857  -2.973375 42.384803  -2.973350 42.384867  -2.973591 42.384923  -2.973617 42.384857  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678943">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.995280 42.384877 </gml:lowerCorner>
+        		<gml:upperCorner>-2.995211 42.384931 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.995255 42.384877  -2.995211 42.384916  -2.995235 42.384931  -2.995280 42.384892  -2.995276 42.384891  -2.995255 42.384877  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678944">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.995228 42.384923 </gml:lowerCorner>
+        		<gml:upperCorner>-2.995096 42.385031 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.995202 42.384923  -2.995096 42.385014  -2.995122 42.385031  -2.995175 42.384985  -2.995228 42.384940  -2.995202 42.384923  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678945">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.992170 42.384943 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991891 42.385025 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.992169 42.384943  -2.991891 42.385006  -2.991898 42.385025  -2.992170 42.384963  -2.992169 42.384943  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678946">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983713 42.385066 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983386 42.385193 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983411 42.385066  -2.983398 42.385107  -2.983386 42.385148  -2.983387 42.385148  -2.983683 42.385193  -2.983713 42.385117  -2.983411 42.385066  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678947">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.991810 42.385119 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991730 42.385140 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.991732 42.385119  -2.991730 42.385137  -2.991809 42.385140  -2.991810 42.385121  -2.991732 42.385119  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678948">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.996158 42.385140 </gml:lowerCorner>
+        		<gml:upperCorner>-2.996075 42.385210 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.996110 42.385140  -2.996075 42.385171  -2.996113 42.385194  -2.996118 42.385191  -2.996147 42.385210  -2.996158 42.385198  -2.996130 42.385183  -2.996152 42.385169  -2.996110 42.385140  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678950">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.997239 42.386482 </gml:lowerCorner>
+        		<gml:upperCorner>-2.997180 42.386525 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.997203 42.386482  -2.997180 42.386503  -2.997217 42.386525  -2.997239 42.386503  -2.997203 42.386482  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678951">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973451 42.386386 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973276 42.386543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973451 42.386423  -2.973322 42.386386  -2.973287 42.386467  -2.973294 42.386469  -2.973276 42.386513  -2.973385 42.386543  -2.973406 42.386500  -2.973414 42.386502  -2.973451 42.386423  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678952">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.969888 42.387061 </gml:lowerCorner>
+        		<gml:upperCorner>-2.969808 42.387130 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.969888 42.387070  -2.969817 42.387061  -2.969808 42.387124  -2.969875 42.387130  -2.969888 42.387070  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678954">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.989137 42.387697 </gml:lowerCorner>
+        		<gml:upperCorner>-2.989067 42.387725 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.989069 42.387697  -2.989067 42.387725  -2.989134 42.387725  -2.989137 42.387698  -2.989069 42.387697  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678955">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.981396 42.387682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981277 42.387774 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.981312 42.387682  -2.981277 42.387751  -2.981363 42.387774  -2.981379 42.387741  -2.981396 42.387707  -2.981312 42.387682  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678956">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971513 42.387698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971440 42.387733 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971513 42.387714  -2.971448 42.387698  -2.971440 42.387718  -2.971505 42.387733  -2.971513 42.387714  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678958">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971802 42.387809 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971765 42.387852 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971802 42.387814  -2.971783 42.387809  -2.971765 42.387848  -2.971786 42.387852  -2.971802 42.387814  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678959">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.989131 42.387844 </gml:lowerCorner>
+        		<gml:upperCorner>-2.989076 42.387913 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.989094 42.387844  -2.989085 42.387875  -2.989076 42.387906  -2.989115 42.387913  -2.989131 42.387849  -2.989094 42.387844  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678960">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-3.024809 42.391012 </gml:lowerCorner>
+        		<gml:upperCorner>-3.024757 42.391042 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-3.024761 42.391012  -3.024757 42.391034  -3.024801 42.391042  -3.024809 42.391021  -3.024761 42.391012  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678961">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.982327 42.391038 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982259 42.391086 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.982274 42.391038  -2.982259 42.391076  -2.982311 42.391086  -2.982327 42.391049  -2.982274 42.391038  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678962">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.988928 42.391814 </gml:lowerCorner>
+        		<gml:upperCorner>-2.988850 42.391873 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.988878 42.391814  -2.988864 42.391834  -2.988850 42.391853  -2.988900 42.391873  -2.988928 42.391834  -2.988878 42.391814  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678963">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.982999 42.393447 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982926 42.393543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.982980 42.393447  -2.982926 42.393453  -2.982936 42.393498  -2.982946 42.393543  -2.982999 42.393536  -2.982980 42.393447  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678964">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.984167 42.393517 </gml:lowerCorner>
+        		<gml:upperCorner>-2.984114 42.393557 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.984167 42.393517  -2.984140 42.393517  -2.984114 42.393518  -2.984115 42.393557  -2.984167 42.393557  -2.984167 42.393517  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678965">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.971088 42.393527 </gml:lowerCorner>
+        		<gml:upperCorner>-2.971021 42.393589 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.971088 42.393535  -2.971033 42.393527  -2.971027 42.393554  -2.971021 42.393581  -2.971074 42.393589  -2.971088 42.393535  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678966">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983509 42.395536 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983441 42.395593 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983479 42.395536  -2.983441 42.395580  -2.983473 42.395593  -2.983509 42.395547  -2.983479 42.395536  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678967">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983350 42.395707 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983302 42.395750 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983335 42.395707  -2.983302 42.395739  -2.983322 42.395750  -2.983350 42.395722  -2.983335 42.395707  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678968">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.977996 42.396710 </gml:lowerCorner>
+        		<gml:upperCorner>-2.977950 42.396744 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.977996 42.396719  -2.977962 42.396710  -2.977950 42.396737  -2.977987 42.396744  -2.977996 42.396719  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678969">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.992001 42.399473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.991956 42.399512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.992001 42.399476  -2.991977 42.399475  -2.991961 42.399473  -2.991960 42.399480  -2.991956 42.399509  -2.991996 42.399512  -2.992001 42.399476  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678970">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970387 42.399627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970321 42.399671 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970387 42.399639  -2.970332 42.399627  -2.970321 42.399665  -2.970381 42.399671  -2.970387 42.399639  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678971">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.973530 42.401194 </gml:lowerCorner>
+        		<gml:upperCorner>-2.973466 42.401256 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.973523 42.401202  -2.973480 42.401194  -2.973466 42.401249  -2.973505 42.401256  -2.973512 42.401230  -2.973527 42.401231  -2.973529 42.401224  -2.973530 42.401217  -2.973520 42.401215  -2.973523 42.401202  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678972">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.968983 42.401644 </gml:lowerCorner>
+        		<gml:upperCorner>-2.968893 42.401711 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.968983 42.401684  -2.968944 42.401644  -2.968893 42.401672  -2.968931 42.401711  -2.968983 42.401684  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678973">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.984901 42.404656 </gml:lowerCorner>
+        		<gml:upperCorner>-2.984842 42.404696 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.984901 42.404678  -2.984881 42.404656  -2.984862 42.404664  -2.984842 42.404672  -2.984862 42.404696  -2.984901 42.404678  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678975">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970362 42.412120 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970334 42.412152 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970361 42.412120  -2.970334 42.412120  -2.970335 42.412152  -2.970362 42.412151  -2.970361 42.412120  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678976">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972871 42.402509 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972718 42.402571 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972866 42.402571  -2.972871 42.402517  -2.972724 42.402509  -2.972718 42.402563  -2.972792 42.402567  -2.972866 42.402571  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678977">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.985341 42.403542 </gml:lowerCorner>
+        		<gml:upperCorner>-2.985268 42.403638 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.985341 42.403625  -2.985307 42.403542  -2.985274 42.403550  -2.985290 42.403590  -2.985268 42.403595  -2.985276 42.403616  -2.985285 42.403638  -2.985308 42.403632  -2.985341 42.403625  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678981">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970981 42.387109 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970908 42.387144 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970981 42.387125  -2.970916 42.387109  -2.970912 42.387119  -2.970908 42.387129  -2.970973 42.387144  -2.970981 42.387125  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678982">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.983409 42.378553 </gml:lowerCorner>
+        		<gml:upperCorner>-2.983324 42.378609 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.983409 42.378560  -2.983343 42.378553  -2.983324 42.378599  -2.983394 42.378609  -2.983409 42.378560  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678983">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.975202 42.381794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.975075 42.381869 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.975180 42.381869  -2.975202 42.381819  -2.975093 42.381794  -2.975075 42.381844  -2.975180 42.381869  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678990">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.986969 42.381406 </gml:lowerCorner>
+        		<gml:upperCorner>-2.986792 42.381504 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.986821 42.381504  -2.986969 42.381446  -2.986940 42.381406  -2.986792 42.381464  -2.986821 42.381504  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678991">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.982108 42.373816 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982031 42.373869 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.982061 42.373816  -2.982046 42.373833  -2.982031 42.373850  -2.982079 42.373869  -2.982108 42.373834  -2.982061 42.373816  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678992">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.982299 42.374050 </gml:lowerCorner>
+        		<gml:upperCorner>-2.982263 42.374075 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.982274 42.374050  -2.982263 42.374065  -2.982287 42.374075  -2.982299 42.374061  -2.982286 42.374055  -2.982274 42.374050  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4678993">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.981027 42.390107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.980823 42.390276 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.980953 42.390264  -2.980962 42.390251  -2.980958 42.390250  -2.981006 42.390178  -2.981011 42.390180  -2.981019 42.390167  -2.981027 42.390155  -2.980959 42.390130  -2.980961 42.390126  -2.980911 42.390107  -2.980883 42.390147  -2.980894 42.390151  -2.980890 42.390158  -2.980900 42.390162  -2.980889 42.390179  -2.980877 42.390196  -2.980866 42.390192  -2.980861 42.390199  -2.980851 42.390195  -2.980823 42.390235  -2.980873 42.390254  -2.980876 42.390250  -2.980945 42.390276  -2.980953 42.390264  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679060">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.970388 42.387383 </gml:lowerCorner>
+        		<gml:upperCorner>-2.970031 42.387545 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.970220 42.387422  -2.970063 42.387383  -2.970031 42.387464  -2.970172 42.387499  -2.970366 42.387545  -2.970388 42.387498  -2.970206 42.387459  -2.970220 42.387422  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679066">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972126 42.409805 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972008 42.409850 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972121 42.409850  -2.972126 42.409816  -2.972014 42.409805  -2.972008 42.409840  -2.972121 42.409850  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679069">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972482 42.409849 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972333 42.409893 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972476 42.409893  -2.972482 42.409859  -2.972411 42.409854  -2.972339 42.409849  -2.972333 42.409884  -2.972476 42.409893  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679070">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.972787 42.409929 </gml:lowerCorner>
+        		<gml:upperCorner>-2.972744 42.409963 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.972782 42.409963  -2.972787 42.409931  -2.972748 42.409929  -2.972744 42.409960  -2.972782 42.409963  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679071">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.980300 42.384353 </gml:lowerCorner>
+        		<gml:upperCorner>-2.980246 42.384392 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.980293 42.384392  -2.980300 42.384360  -2.980254 42.384353  -2.980246 42.384385  -2.980293 42.384392  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679089">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.981059 42.388737 </gml:lowerCorner>
+        		<gml:upperCorner>-2.980907 42.388844 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.981041 42.388737  -2.980907 42.388755  -2.980929 42.388844  -2.981059 42.388826  -2.981041 42.388737  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679090">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.980636 42.388802 </gml:lowerCorner>
+        		<gml:upperCorner>-2.980461 42.388912 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.980545 42.388811  -2.980461 42.388822  -2.980477 42.388912  -2.980567 42.388900  -2.980636 42.388890  -2.980614 42.388802  -2.980545 42.388811  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679091">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.981295 42.389142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981229 42.389227 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.981295 42.389142  -2.981229 42.389142  -2.981229 42.389227  -2.981295 42.389227  -2.981295 42.389142  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Santurde de Rioja</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>Santurde de Rioja</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4679092">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.981293 42.389044 </gml:lowerCorner>
+        		<gml:upperCorner>-2.981229 42.389078 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.981291 42.389044  -2.981229 42.389049  -2.981232 42.389078  -2.981293 42.389074  -2.981291 42.389044  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
