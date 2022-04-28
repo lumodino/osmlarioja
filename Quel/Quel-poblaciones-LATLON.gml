@@ -1118,7 +1118,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO></ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>Quel (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Quel</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

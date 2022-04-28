@@ -1056,7 +1056,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO>Orzales [Desaparecido]</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>San Vicente de la Sonsierra</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

@@ -383,7 +383,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO></ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>Laguna de Cameros (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Laguna de Cameros</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

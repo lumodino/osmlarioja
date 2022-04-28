@@ -1072,7 +1072,7 @@
             </gml:surfaceMembers>
           </gml:MultiSurface>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO>El Villar (de Enciso)</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>El Villar</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Enciso</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

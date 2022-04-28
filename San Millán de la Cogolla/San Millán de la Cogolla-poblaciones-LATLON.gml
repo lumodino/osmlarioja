@@ -660,7 +660,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO></ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>San Millán de la Cogolla (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>San Millán de la Cogolla</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

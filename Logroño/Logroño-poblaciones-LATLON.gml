@@ -6128,6 +6128,48 @@
         <ms:T108_000_MUNICIPIOS_DENO>Logroño</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4164329">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.481110 42.484379 </gml:lowerCorner>
+        		<gml:upperCorner>-2.480534 42.485110 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.480813 42.485110  -2.481110 42.484425  -2.480849 42.484379  -2.480534 42.485039  -2.480813 42.485110  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Logroño (diseminado)</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Logroño</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4164330">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.444855 42.444811 </gml:lowerCorner>
+        		<gml:upperCorner>-2.444001 42.445533 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.444772 42.445533  -2.444855 42.444866  -2.444066 42.444811  -2.444001 42.445475  -2.444772 42.445533  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Logroño (diseminado)</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Logroño</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
 </wfs:FeatureCollection>
 
 

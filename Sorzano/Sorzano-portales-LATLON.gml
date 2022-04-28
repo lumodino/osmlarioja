@@ -247,13 +247,13 @@
       <ms:portales gml:id="portales.230242">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.527678 42.342233 </gml:lowerCorner>
-        		<gml:upperCorner>-2.527678 42.342233 </gml:upperCorner>
+        		<gml:lowerCorner>-2.527686 42.342215 </gml:lowerCorner>
+        		<gml:upperCorner>-2.527686 42.342215 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.527678 42.342233 </gml:pos>
+            <gml:pos>-2.527686 42.342215 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Polideportivo</ms:NOMBRE_COMPLETO_VIAL>

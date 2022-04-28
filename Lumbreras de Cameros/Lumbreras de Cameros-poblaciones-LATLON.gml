@@ -724,7 +724,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO></ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>Lumbreras de Cameros (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Lumbreras de Cameros</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>
@@ -745,7 +745,7 @@
             </gml:exterior>
           </gml:Polygon>
         </ms:msGeometry>
-        <ms:T108_000_NUCL_URB_DENO></ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_NUCL_URB_DENO>San Andrés (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Lumbreras de Cameros</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

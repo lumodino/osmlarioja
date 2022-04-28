@@ -77,12 +77,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.528112 42.342244 </gml:lowerCorner>
-        		<gml:upperCorner>-2.527706 42.342376 </gml:upperCorner>
+        		<gml:upperCorner>-2.527721 42.342364 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.528112 42.342244  -2.527816 42.342364  -2.527770 42.342376  -2.527706 42.342299  </gml:posList>
+            <gml:posList srsDimension="2">-2.528112 42.342244  -2.527816 42.342364  -2.527772 42.342328  -2.527721 42.342283  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Plaza Polideportivo</ms:NOMBRE_COMPLETO_VIAL>
@@ -773,26 +773,6 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1547195">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.530650 42.341764 </gml:lowerCorner>
-        		<gml:upperCorner>-2.529279 42.342330 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.530650 42.341764  -2.530608 42.341805  -2.530381 42.342000  -2.530224 42.342053  -2.529715 42.342160  -2.529393 42.342297  -2.529279 42.342330  </gml:posList>
-          </gml:LineString>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Calle Cien Doncellas</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
-        <ms:COD_CATASTRAL_VIAL>26.144.31</ms:COD_CATASTRAL_VIAL>
-        <ms:COD_INE_VIAL>2614400067</ms:COD_INE_VIAL>
-      </ms:viales>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:viales gml:id="viales.1547210">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -843,6 +823,46 @@
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
             <gml:posList srsDimension="2">-2.532420 42.341163  -2.532257 42.341177  -2.532116 42.341215  -2.531849 42.341321  -2.531719 42.341396  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cien Doncellas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.144.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614400067</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4682632">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.530650 42.341764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.530452 42.341939 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.530650 42.341764  -2.530608 42.341805  -2.530452 42.341939  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Calle Cien Doncellas</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.144.31</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614400067</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4682633">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.530452 42.341939 </gml:lowerCorner>
+        		<gml:upperCorner>-2.529279 42.342330 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.530452 42.341939  -2.530381 42.342000  -2.530224 42.342053  -2.529715 42.342160  -2.529393 42.342297  -2.529279 42.342330  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Cien Doncellas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1953,16 +1973,36 @@
       </ms:viales>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:viales gml:id="viales.1547269">
+      <ms:viales gml:id="viales.4682616">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.528154 42.343099 </gml:lowerCorner>
-        		<gml:upperCorner>-2.527032 42.343620 </gml:upperCorner>
+        		<gml:lowerCorner>-2.528154 42.343384 </gml:lowerCorner>
+        		<gml:upperCorner>-2.527635 42.343620 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.528154 42.343620  -2.528137 42.343613  -2.528134 42.343611  -2.528126 42.343608  -2.528123 42.343607  -2.528119 42.343605  -2.528107 42.343600  -2.528045 42.343573  -2.528016 42.343560  -2.528012 42.343558  -2.527982 42.343544  -2.527968 42.343538  -2.527933 42.343522  -2.527892 42.343503  -2.527873 42.343494  -2.527862 42.343489  -2.527782 42.343452  -2.527753 42.343438  -2.527703 42.343416  -2.527670 42.343400  -2.527658 42.343395  -2.527530 42.343335  -2.527419 42.343284  -2.527312 42.343235  -2.527271 42.343216  -2.527250 42.343206  -2.527240 42.343201  -2.527229 42.343196  -2.527155 42.343160  -2.527080 42.343123  -2.527075 42.343121  -2.527055 42.343111  -2.527032 42.343099  </gml:posList>
+            <gml:posList srsDimension="2">-2.528154 42.343620  -2.528137 42.343613  -2.528134 42.343611  -2.528126 42.343608  -2.528123 42.343607  -2.528119 42.343605  -2.528107 42.343600  -2.528045 42.343573  -2.528016 42.343560  -2.528012 42.343558  -2.527982 42.343544  -2.527968 42.343538  -2.527933 42.343522  -2.527892 42.343503  -2.527873 42.343494  -2.527862 42.343489  -2.527782 42.343452  -2.527753 42.343438  -2.527703 42.343416  -2.527670 42.343400  -2.527658 42.343395  -2.527635 42.343384  </gml:posList>
+          </gml:LineString>
+        </ms:msGeometry>
+        <ms:NOMBRE_COMPLETO_VIAL>Avenida Logroño</ms:NOMBRE_COMPLETO_VIAL>
+        <ms:NOMBRE_POBLAMIENTO>Sorzano</ms:NOMBRE_POBLAMIENTO>
+        <ms:NOMBRE_MUNICIPIO>Sorzano</ms:NOMBRE_MUNICIPIO>
+        <ms:COD_CATASTRAL_VIAL>26.144.18</ms:COD_CATASTRAL_VIAL>
+        <ms:COD_INE_VIAL>2614400006</ms:COD_INE_VIAL>
+      </ms:viales>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:viales gml:id="viales.4682617">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.527635 42.343099 </gml:lowerCorner>
+        		<gml:upperCorner>-2.527032 42.343384 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:LineString srsName="EPSG:4326">
+            <gml:posList srsDimension="2">-2.527635 42.343384  -2.527530 42.343335  -2.527419 42.343284  -2.527312 42.343235  -2.527271 42.343216  -2.527250 42.343206  -2.527240 42.343201  -2.527229 42.343196  -2.527155 42.343160  -2.527080 42.343123  -2.527075 42.343121  -2.527055 42.343111  -2.527032 42.343099  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida Logroño</ms:NOMBRE_COMPLETO_VIAL>

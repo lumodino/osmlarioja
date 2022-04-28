@@ -8,8 +8,8 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=edificios&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.768032 42.554906 </gml:lowerCorner>
-      		<gml:upperCorner>-2.721552 42.606678 </gml:upperCorner>
+      		<gml:lowerCorner>-2.799354 42.517948 </gml:lowerCorner>
+      		<gml:upperCorner>-2.704965 42.615019 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -738,7 +738,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756815 42.557205  -2.756962 42.557271  -2.757097 42.557107  -2.756951 42.557041  -2.756815 42.557205  </gml:posList>
+                <gml:posList srsDimension="2">-2.756815 42.557205  -2.756867 42.557229  -2.756962 42.557271  -2.757097 42.557107  -2.756951 42.557041  -2.756815 42.557205  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2286,7 +2286,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752639 42.603321  -2.752557 42.603391  -2.752587 42.603414  -2.752624 42.603440  -2.752720 42.603370  -2.752808 42.603304  -2.752779 42.603286  -2.752802 42.603268  -2.752765 42.603243  -2.752742 42.603263  -2.752721 42.603251  -2.752639 42.603321  </gml:posList>
+                <gml:posList srsDimension="2">-2.752639 42.603321  -2.752557 42.603391  -2.752587 42.603414  -2.752624 42.603440  -2.752720 42.603370  -2.752759 42.603341  -2.752808 42.603304  -2.752779 42.603286  -2.752802 42.603268  -2.752765 42.603243  -2.752742 42.603263  -2.752721 42.603251  -2.752639 42.603321  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2349,7 +2349,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.749520 42.603410  -2.749441 42.603389  -2.749372 42.603516  -2.749449 42.603539  -2.749520 42.603410  </gml:posList>
+                <gml:posList srsDimension="2">-2.749520 42.603410  -2.749441 42.603389  -2.749372 42.603516  -2.749449 42.603539  -2.749484 42.603474  -2.749520 42.603410  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -2808,7 +2808,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.745018 42.606472  -2.745100 42.606473  -2.745108 42.606231  -2.745026 42.606230  -2.745018 42.606472  </gml:posList>
+                <gml:posList srsDimension="2">-2.745018 42.606472  -2.745100 42.606473  -2.745101 42.606438  -2.745108 42.606231  -2.745026 42.606230  -2.745018 42.606472  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -3669,7 +3669,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757880 42.602614  -2.757917 42.602629  -2.757940 42.602599  -2.757905 42.602583  -2.757880 42.602614  </gml:posList>
+                <gml:posList srsDimension="2">-2.757880 42.602614  -2.757899 42.602621  -2.757917 42.602629  -2.757940 42.602599  -2.757905 42.602583  -2.757880 42.602614  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -4785,27 +4785,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.758344 42.562216  -2.758438 42.562220  -2.758437 42.562105  -2.758373 42.562101  -2.758373 42.562095  -2.758311 42.562088  -2.758304 42.562176  -2.758350 42.562184  -2.758344 42.562216  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3967058">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758914 42.570951 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758721 42.571094 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758721 42.571025  -2.758741 42.571040  -2.758731 42.571047  -2.758751 42.571063  -2.758759 42.571068  -2.758793 42.571094  -2.758914 42.571004  -2.758878 42.570978  -2.758850 42.570958  -2.758840 42.570966  -2.758819 42.570951  -2.758721 42.571025  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6611,7 +6590,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761557 42.570305  -2.761683 42.570294  -2.761651 42.570068  -2.761526 42.570077  -2.761557 42.570305  </gml:posList>
+                <gml:posList srsDimension="2">-2.761557 42.570305  -2.761683 42.570294  -2.761651 42.570068  -2.761526 42.570077  -2.761542 42.570191  -2.761557 42.570305  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -6653,7 +6632,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761811 42.570816  -2.761793 42.570747  -2.761436 42.570776  -2.761432 42.570856  -2.761498 42.570891  -2.761537 42.570911  -2.761728 42.570899  -2.761813 42.570824  -2.761811 42.570816  </gml:posList>
+                <gml:posList srsDimension="2">-2.761811 42.570816  -2.761793 42.570747  -2.761436 42.570776  -2.761432 42.570856  -2.761498 42.570891  -2.761537 42.570911  -2.761632 42.570905  -2.761728 42.570899  -2.761813 42.570824  -2.761811 42.570816  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -8186,7 +8165,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755973 42.566643  -2.755921 42.566723  -2.755968 42.566741  -2.755951 42.566769  -2.756011 42.566792  -2.756078 42.566678  -2.756028 42.566662  -2.755973 42.566643  </gml:posList>
+                <gml:posList srsDimension="2">-2.755973 42.566643  -2.755947 42.566683  -2.755921 42.566723  -2.755968 42.566741  -2.755951 42.566769  -2.756011 42.566792  -2.756078 42.566678  -2.756028 42.566662  -2.755973 42.566643  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -9194,7 +9173,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762152 42.570066  -2.762099 42.569887  -2.761848 42.569927  -2.761901 42.570107  -2.762152 42.570066  </gml:posList>
+                <gml:posList srsDimension="2">-2.762152 42.570066  -2.762126 42.569976  -2.762099 42.569887  -2.761848 42.569927  -2.761901 42.570107  -2.762152 42.570066  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -10611,27 +10590,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3967335">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758819 42.570910 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758665 42.571025 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758763 42.570910  -2.758665 42.570983  -2.758721 42.571025  -2.758819 42.570951  -2.758763 42.570910  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3967336">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -11232,27 +11190,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.756335 42.560673  -2.756387 42.560714  -2.756392 42.560710  -2.756451 42.560670  -2.756492 42.560641  -2.756448 42.560599  -2.756335 42.560673  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3967365">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758741 42.570969 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758589 42.571082 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758645 42.570969  -2.758623 42.570986  -2.758589 42.571011  -2.758684 42.571082  -2.758708 42.571065  -2.758731 42.571047  -2.758741 42.571040  -2.758721 42.571025  -2.758665 42.570983  -2.758658 42.570978  -2.758645 42.570969  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -12774,27 +12711,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3967438">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758896 42.570861 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758753 42.570966 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758819 42.570951  -2.758840 42.570966  -2.758850 42.570958  -2.758896 42.570924  -2.758809 42.570861  -2.758753 42.570903  -2.758756 42.570905  -2.758763 42.570910  -2.758819 42.570951  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3967439">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -13037,7 +12953,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.749934 42.606281  -2.749837 42.606255  -2.749809 42.606319  -2.749907 42.606343  -2.749934 42.606281  </gml:posList>
+                <gml:posList srsDimension="2">-2.749934 42.606281  -2.749837 42.606255  -2.749809 42.606319  -2.749907 42.606343  -2.749921 42.606312  -2.749934 42.606281  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -13323,36 +13239,15 @@
       <ms:edificios gml:id="edificios.3967464">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756318 42.563745 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756102 42.563899 </gml:upperCorner>
+        		<gml:lowerCorner>-2.756312 42.563718 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756096 42.563872 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756318 42.563802  -2.756197 42.563745  -2.756102 42.563843  -2.756221 42.563899  -2.756318 42.563802  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3967465">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756504 42.563707 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756325 42.563858 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756458 42.563746  -2.756414 42.563707  -2.756364 42.563751  -2.756381 42.563770  -2.756325 42.563826  -2.756370 42.563858  -2.756504 42.563793  -2.756458 42.563746  </gml:posList>
+                <gml:posList srsDimension="2">-2.756312 42.563775  -2.756191 42.563718  -2.756096 42.563816  -2.756215 42.563872  -2.756312 42.563775  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14562,15 +14457,15 @@
       <ms:edificios gml:id="edificios.3967523">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.721654 42.586179 </gml:lowerCorner>
-        		<gml:upperCorner>-2.721552 42.586266 </gml:upperCorner>
+        		<gml:lowerCorner>-2.721662 42.586160 </gml:lowerCorner>
+        		<gml:upperCorner>-2.721560 42.586247 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.721654 42.586192  -2.721574 42.586179  -2.721552 42.586252  -2.721634 42.586266  -2.721654 42.586192  </gml:posList>
+                <gml:posList srsDimension="2">-2.721662 42.586173  -2.721582 42.586160  -2.721560 42.586233  -2.721643 42.586247  -2.721652 42.586210  -2.721662 42.586173  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14583,15 +14478,15 @@
       <ms:edificios gml:id="edificios.3967524">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756709 42.563562 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756401 42.563746 </gml:upperCorner>
+        		<gml:lowerCorner>-2.756693 42.563547 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756327 42.563814 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756414 42.563707  -2.756458 42.563746  -2.756523 42.563703  -2.756567 42.563744  -2.756709 42.563662  -2.756694 42.563649  -2.756589 42.563562  -2.756437 42.563657  -2.756401 42.563694  -2.756414 42.563707  </gml:posList>
+                <gml:posList srsDimension="2">-2.756369 42.563711  -2.756327 42.563788  -2.756359 42.563814  -2.756551 42.563730  -2.756693 42.563647  -2.756678 42.563635  -2.756573 42.563547  -2.756421 42.563642  -2.756385 42.563680  -2.756369 42.563711  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14604,15 +14499,15 @@
       <ms:edificios gml:id="edificios.3967525">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757138 42.563378 </gml:lowerCorner>
-        		<gml:upperCorner>-2.756784 42.563554 </gml:upperCorner>
+        		<gml:lowerCorner>-2.757133 42.563332 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756779 42.563508 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757138 42.563449  -2.756980 42.563402  -2.756899 42.563378  -2.756838 42.563449  -2.756784 42.563505  -2.756856 42.563534  -2.756912 42.563554  -2.756982 42.563541  -2.757138 42.563449  </gml:posList>
+                <gml:posList srsDimension="2">-2.757133 42.563402  -2.756975 42.563356  -2.756894 42.563332  -2.756833 42.563402  -2.756779 42.563458  -2.756851 42.563487  -2.756907 42.563508  -2.756977 42.563494  -2.757133 42.563402  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14738,7 +14633,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752590 42.557198  -2.752584 42.557120  -2.752457 42.557118  -2.752469 42.557197  -2.752590 42.557198  </gml:posList>
+                <gml:posList srsDimension="2">-2.752590 42.557198  -2.752584 42.557120  -2.752457 42.557118  -2.752463 42.557157  -2.752469 42.557197  -2.752590 42.557198  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14751,15 +14646,15 @@
       <ms:edificios gml:id="edificios.3967532">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754785 42.558255 </gml:lowerCorner>
-        		<gml:upperCorner>-2.754681 42.558336 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754794 42.558247 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754691 42.558329 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754726 42.558336  -2.754785 42.558311  -2.754740 42.558255  -2.754681 42.558281  -2.754726 42.558336  </gml:posList>
+                <gml:posList srsDimension="2">-2.754735 42.558329  -2.754794 42.558303  -2.754772 42.558275  -2.754750 42.558247  -2.754691 42.558273  -2.754735 42.558329  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -14793,15 +14688,15 @@
       <ms:edificios gml:id="edificios.3967534">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751685 42.557935 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751402 42.558810 </gml:upperCorner>
+        		<gml:lowerCorner>-2.751687 42.557935 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750669 42.558967 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751430 42.558422  -2.751411 42.558808  -2.751572 42.558810  -2.751586 42.558258  -2.751677 42.558259  -2.751679 42.558169  -2.751685 42.557938  -2.751410 42.557935  -2.751402 42.558255  -2.751434 42.558256  -2.751430 42.558402  -2.751434 42.558402  -2.751430 42.558422  </gml:posList>
+                <gml:posList srsDimension="2">-2.751402 42.558255  -2.751384 42.558730  -2.750917 42.558723  -2.750917 42.558754  -2.750670 42.558758  -2.750669 42.558905  -2.750717 42.558905  -2.750723 42.558947  -2.750928 42.558945  -2.750931 42.558963  -2.751153 42.558965  -2.751440 42.558967  -2.751440 42.558951  -2.751630 42.558949  -2.751630 42.558909  -2.751687 42.558905  -2.751677 42.558259  -2.751679 42.558169  -2.751685 42.557938  -2.751410 42.557935  -2.751402 42.558255  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -15990,15 +15885,15 @@
       <ms:edificios gml:id="edificios.3967591">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751235 42.558199 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751090 42.558300 </gml:upperCorner>
+        		<gml:lowerCorner>-2.751235 42.558183 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751090 42.558284 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751234 42.558300  -2.751235 42.558201  -2.751091 42.558199  -2.751090 42.558296  -2.751234 42.558300  </gml:posList>
+                <gml:posList srsDimension="2">-2.751235 42.558284  -2.751235 42.558185  -2.751091 42.558183  -2.751090 42.558280  -2.751235 42.558284  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16011,15 +15906,15 @@
       <ms:edificios gml:id="edificios.3967592">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.747106 42.558225 </gml:lowerCorner>
-        		<gml:upperCorner>-2.746909 42.558444 </gml:upperCorner>
+        		<gml:lowerCorner>-2.747099 42.558225 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746909 42.558414 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.746961 42.558239  -2.746909 42.558246  -2.746975 42.558444  -2.747004 42.558444  -2.747106 42.558420  -2.747043 42.558225  -2.746961 42.558239  </gml:posList>
+                <gml:posList srsDimension="2">-2.746961 42.558239  -2.746909 42.558246  -2.746965 42.558414  -2.747032 42.558406  -2.747099 42.558397  -2.747043 42.558225  -2.746961 42.558239  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -16053,15 +15948,15 @@
       <ms:edificios gml:id="edificios.3967594">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759324 42.555322 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759038 42.555408 </gml:upperCorner>
+        		<gml:lowerCorner>-2.759317 42.555283 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759031 42.555381 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759322 42.555322  -2.759038 42.555322  -2.759039 42.555350  -2.759039 42.555370  -2.759040 42.555397  -2.759040 42.555408  -2.759081 42.555408  -2.759258 42.555405  -2.759324 42.555404  -2.759322 42.555322  </gml:posList>
+                <gml:posList srsDimension="2">-2.759315 42.555283  -2.759031 42.555294  -2.759033 42.555381  -2.759074 42.555380  -2.759178 42.555379  -2.759251 42.555378  -2.759317 42.555377  -2.759315 42.555283  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -17216,7 +17111,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725058 42.587603  -2.725033 42.587572  -2.724963 42.587601  -2.724986 42.587633  -2.725058 42.587603  </gml:posList>
+                <gml:posList srsDimension="2">-2.725058 42.587603  -2.725033 42.587572  -2.724963 42.587601  -2.724986 42.587633  -2.725022 42.587618  -2.725058 42.587603  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -18447,15 +18342,15 @@
       <ms:edificios gml:id="edificios.3967708">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725600 42.587648 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725441 42.587755 </gml:upperCorner>
+        		<gml:lowerCorner>-2.725586 42.587616 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725426 42.587723 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725563 42.587755  -2.725600 42.587683  -2.725478 42.587648  -2.725441 42.587724  -2.725563 42.587755  </gml:posList>
+                <gml:posList srsDimension="2">-2.725549 42.587723  -2.725586 42.587651  -2.725464 42.587616  -2.725426 42.587692  -2.725549 42.587723  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19140,15 +19035,15 @@
       <ms:edificios gml:id="edificios.3967741">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.752032 42.603635 </gml:lowerCorner>
-        		<gml:upperCorner>-2.751934 42.603707 </gml:upperCorner>
+        		<gml:lowerCorner>-2.752042 42.603618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751877 42.603713 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751994 42.603635  -2.751934 42.603678  -2.751972 42.603707  -2.752032 42.603665  -2.751994 42.603635  </gml:posList>
+                <gml:posList srsDimension="2">-2.751985 42.603618  -2.751953 42.603636  -2.751922 42.603655  -2.751910 42.603642  -2.751877 42.603663  -2.751938 42.603713  -2.751961 42.603698  -2.751972 42.603707  -2.752042 42.603663  -2.751985 42.603618  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19854,15 +19749,15 @@
       <ms:edificios gml:id="edificios.3967775">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725450 42.586922 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725380 42.586974 </gml:upperCorner>
+        		<gml:lowerCorner>-2.725449 42.586908 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725379 42.586960 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725431 42.586974  -2.725450 42.586936  -2.725399 42.586922  -2.725380 42.586960  -2.725431 42.586974  </gml:posList>
+                <gml:posList srsDimension="2">-2.725430 42.586960  -2.725449 42.586922  -2.725397 42.586908  -2.725379 42.586946  -2.725430 42.586960  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19875,15 +19770,15 @@
       <ms:edificios gml:id="edificios.3967776">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.721988 42.586614 </gml:lowerCorner>
-        		<gml:upperCorner>-2.721920 42.586666 </gml:upperCorner>
+        		<gml:lowerCorner>-2.722000 42.586596 </gml:lowerCorner>
+        		<gml:upperCorner>-2.721932 42.586648 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.721963 42.586666  -2.721988 42.586636  -2.721944 42.586614  -2.721920 42.586650  -2.721963 42.586666  </gml:posList>
+                <gml:posList srsDimension="2">-2.721975 42.586648  -2.722000 42.586618  -2.721955 42.586596  -2.721932 42.586632  -2.721953 42.586640  -2.721975 42.586648  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19904,7 +19799,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.725813 42.578090  -2.725803 42.578092  -2.725795 42.578096  -2.725787 42.578101  -2.725782 42.578107  -2.725779 42.578114  -2.725778 42.578121  -2.725780 42.578128  -2.725784 42.578135  -2.725790 42.578141  -2.725798 42.578146  -2.725807 42.578149  -2.725816 42.578150  -2.725818 42.578150  -2.725826 42.578149  -2.725833 42.578148  -2.725843 42.578184  -2.725994 42.578163  -2.725967 42.578061  -2.725817 42.578083  -2.725818 42.578090  -2.725813 42.578090  </gml:posList>
+                <gml:posList srsDimension="2">-2.725813 42.578090  -2.725803 42.578092  -2.725795 42.578096  -2.725787 42.578101  -2.725782 42.578107  -2.725779 42.578114  -2.725778 42.578121  -2.725780 42.578128  -2.725784 42.578135  -2.725790 42.578141  -2.725798 42.578146  -2.725807 42.578149  -2.725816 42.578150  -2.725818 42.578150  -2.725826 42.578149  -2.725833 42.578148  -2.725843 42.578184  -2.725918 42.578174  -2.725994 42.578163  -2.725967 42.578061  -2.725817 42.578083  -2.725818 42.578090  -2.725813 42.578090  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -19946,7 +19841,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.760611 42.571456  -2.760486 42.571502  -2.760642 42.571731  -2.760753 42.571690  -2.760761 42.571686  -2.760611 42.571456  </gml:posList>
+                <gml:posList srsDimension="2">-2.760611 42.571456  -2.760486 42.571502  -2.760564 42.571616  -2.760642 42.571731  -2.760753 42.571690  -2.760761 42.571686  -2.760611 42.571456  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20274,15 +20169,15 @@
       <ms:edificios gml:id="edificios.3967795">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.751031 42.601401 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750963 42.601459 </gml:upperCorner>
+        		<gml:lowerCorner>-2.751076 42.601401 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750963 42.601465 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751031 42.601410  -2.750979 42.601401  -2.750963 42.601450  -2.751016 42.601459  -2.751031 42.601410  </gml:posList>
+                <gml:posList srsDimension="2">-2.751031 42.601410  -2.750979 42.601401  -2.750971 42.601425  -2.750963 42.601450  -2.751061 42.601465  -2.751076 42.601417  -2.751031 42.601410  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20471,7 +20366,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752624 42.603440  -2.752587 42.603414  -2.752536 42.603458  -2.752561 42.603478  -2.752624 42.603440  </gml:posList>
+                <gml:posList srsDimension="2">-2.752624 42.603440  -2.752587 42.603414  -2.752536 42.603458  -2.752561 42.603478  -2.752592 42.603459  -2.752624 42.603440  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20912,7 +20807,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.731016 42.576044  -2.730977 42.575975  -2.730884 42.576000  -2.730918 42.576067  -2.731016 42.576044  </gml:posList>
+                <gml:posList srsDimension="2">-2.731016 42.576044  -2.730977 42.575975  -2.730931 42.575987  -2.730884 42.576000  -2.730918 42.576067  -2.731016 42.576044  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -20954,7 +20849,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762927 42.570363  -2.762791 42.570374  -2.762830 42.570636  -2.762966 42.570625  -2.762927 42.570363  </gml:posList>
+                <gml:posList srsDimension="2">-2.762927 42.570363  -2.762837 42.570371  -2.762791 42.570374  -2.762830 42.570636  -2.762966 42.570625  -2.762927 42.570363  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21849,15 +21744,15 @@
       <ms:edificios gml:id="edificios.3967870">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754662 42.558554 </gml:lowerCorner>
-        		<gml:upperCorner>-2.754599 42.558604 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754664 42.558550 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754602 42.558599 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754599 42.558567  -2.754621 42.558604  -2.754662 42.558590  -2.754640 42.558554  -2.754599 42.558567  </gml:posList>
+                <gml:posList srsDimension="2">-2.754602 42.558563  -2.754613 42.558581  -2.754623 42.558599  -2.754664 42.558585  -2.754643 42.558550  -2.754602 42.558563  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21899,7 +21794,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.729513 42.575867  -2.729452 42.576034  -2.729314 42.576036  -2.729311 42.576045  -2.729311 42.576178  -2.729558 42.576167  -2.729548 42.576033  -2.729604 42.576027  -2.729650 42.575862  -2.729513 42.575867  </gml:posList>
+                <gml:posList srsDimension="2">-2.729513 42.575867  -2.729452 42.576034  -2.729314 42.576036  -2.729311 42.576045  -2.729311 42.576178  -2.729558 42.576167  -2.729548 42.576033  -2.729604 42.576027  -2.729650 42.575862  -2.729582 42.575865  -2.729513 42.575867  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21912,15 +21807,15 @@
       <ms:edificios gml:id="edificios.3967873">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.736774 42.572130 </gml:lowerCorner>
-        		<gml:upperCorner>-2.736624 42.572234 </gml:upperCorner>
+        		<gml:lowerCorner>-2.736862 42.572142 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736639 42.572288 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.736729 42.572234  -2.736774 42.572191  -2.736669 42.572130  -2.736624 42.572173  -2.736729 42.572234  </gml:posList>
+                <gml:posList srsDimension="2">-2.736806 42.572288  -2.736862 42.572237  -2.736684 42.572142  -2.736662 42.572163  -2.736639 42.572184  -2.736806 42.572288  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21933,15 +21828,15 @@
       <ms:edificios gml:id="edificios.3967874">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.743912 42.574248 </gml:lowerCorner>
-        		<gml:upperCorner>-2.743851 42.574301 </gml:upperCorner>
+        		<gml:lowerCorner>-2.743929 42.574248 </gml:lowerCorner>
+        		<gml:upperCorner>-2.743869 42.574301 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.743861 42.574248  -2.743851 42.574290  -2.743851 42.574301  -2.743911 42.574301  -2.743912 42.574249  -2.743861 42.574248  </gml:posList>
+                <gml:posList srsDimension="2">-2.743879 42.574248  -2.743874 42.574269  -2.743869 42.574290  -2.743869 42.574301  -2.743929 42.574301  -2.743929 42.574249  -2.743879 42.574248  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21954,15 +21849,15 @@
       <ms:edificios gml:id="edificios.3967875">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.745941 42.570104 </gml:lowerCorner>
-        		<gml:upperCorner>-2.745773 42.570207 </gml:upperCorner>
+        		<gml:lowerCorner>-2.745880 42.570134 </gml:lowerCorner>
+        		<gml:upperCorner>-2.745786 42.570203 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.745941 42.570146  -2.745905 42.570104  -2.745773 42.570165  -2.745809 42.570207  -2.745941 42.570146  </gml:posList>
+                <gml:posList srsDimension="2">-2.745880 42.570176  -2.745862 42.570155  -2.745845 42.570134  -2.745786 42.570161  -2.745822 42.570203  -2.745880 42.570176  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -21983,7 +21878,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.750425 42.570090  -2.750421 42.570095  -2.750523 42.570149  -2.750535 42.570137  -2.750663 42.570007  -2.750561 42.569952  -2.750425 42.570090  </gml:posList>
+                <gml:posList srsDimension="2">-2.750425 42.570090  -2.750421 42.570095  -2.750523 42.570149  -2.750535 42.570137  -2.750663 42.570007  -2.750612 42.569980  -2.750561 42.569952  -2.750425 42.570090  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -22731,15 +22626,15 @@
       <ms:edificios gml:id="edificios.3967912">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754567 42.558200 </gml:lowerCorner>
-        		<gml:upperCorner>-2.754508 42.558245 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754577 42.558192 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754518 42.558237 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754508 42.558217  -2.754539 42.558245  -2.754567 42.558228  -2.754535 42.558200  -2.754508 42.558217  </gml:posList>
+                <gml:posList srsDimension="2">-2.754518 42.558209  -2.754549 42.558237  -2.754577 42.558220  -2.754545 42.558192  -2.754518 42.558209  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -22991,7 +22886,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751168 42.570508  -2.751072 42.570452  -2.750848 42.570653  -2.750803 42.570694  -2.750801 42.570696  -2.750896 42.570753  -2.750945 42.570710  -2.751168 42.570508  </gml:posList>
+                <gml:posList srsDimension="2">-2.751168 42.570508  -2.751120 42.570480  -2.751072 42.570452  -2.750848 42.570653  -2.750803 42.570694  -2.750801 42.570696  -2.750896 42.570753  -2.750945 42.570710  -2.751168 42.570508  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23004,15 +22899,15 @@
       <ms:edificios gml:id="edificios.3967925">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.749633 42.569143 </gml:lowerCorner>
-        		<gml:upperCorner>-2.749259 42.569443 </gml:upperCorner>
+        		<gml:lowerCorner>-2.749660 42.569141 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749286 42.569440 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.749633 42.569231  -2.749490 42.569143  -2.749374 42.569249  -2.749259 42.569353  -2.749397 42.569443  -2.749633 42.569231  </gml:posList>
+                <gml:posList srsDimension="2">-2.749660 42.569229  -2.749588 42.569185  -2.749517 42.569141  -2.749401 42.569247  -2.749286 42.569351  -2.749424 42.569440  -2.749660 42.569229  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23151,15 +23046,15 @@
       <ms:edificios gml:id="edificios.3967932">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.761715 42.572631 </gml:lowerCorner>
-        		<gml:upperCorner>-2.761461 42.572727 </gml:upperCorner>
+        		<gml:lowerCorner>-2.761722 42.572656 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761468 42.572753 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761461 42.572632  -2.761464 42.572727  -2.761715 42.572726  -2.761713 42.572631  -2.761461 42.572632  </gml:posList>
+                <gml:posList srsDimension="2">-2.761468 42.572658  -2.761470 42.572706  -2.761472 42.572753  -2.761722 42.572752  -2.761721 42.572656  -2.761468 42.572658  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23852,7 +23747,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752000 42.570958  -2.752125 42.570894  -2.752006 42.570764  -2.751880 42.570827  -2.752000 42.570958  </gml:posList>
+                <gml:posList srsDimension="2">-2.752000 42.570958  -2.752125 42.570894  -2.752066 42.570829  -2.752006 42.570764  -2.751880 42.570827  -2.752000 42.570958  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23865,15 +23760,15 @@
       <ms:edificios gml:id="edificios.3967966">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754254 42.569726 </gml:lowerCorner>
-        		<gml:upperCorner>-2.753668 42.570210 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754248 42.569662 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753662 42.570201 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753872 42.570121  -2.754032 42.570067  -2.754119 42.570210  -2.754254 42.570158  -2.753948 42.569726  -2.753668 42.569834  -2.753872 42.570121  </gml:posList>
+                <gml:posList srsDimension="2">-2.753964 42.570201  -2.754106 42.570147  -2.754248 42.570094  -2.753942 42.569662  -2.753662 42.569770  -2.753964 42.570201  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23894,7 +23789,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754835 42.569461  -2.754743 42.569334  -2.754429 42.569458  -2.754515 42.569577  -2.754548 42.569564  -2.754835 42.569461  </gml:posList>
+                <gml:posList srsDimension="2">-2.754835 42.569461  -2.754743 42.569334  -2.754429 42.569458  -2.754472 42.569518  -2.754515 42.569577  -2.754548 42.569564  -2.754835 42.569461  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23915,7 +23810,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.760138 42.573187  -2.760144 42.573261  -2.760149 42.573310  -2.760386 42.573295  -2.760372 42.573173  -2.760138 42.573187  </gml:posList>
+                <gml:posList srsDimension="2">-2.760138 42.573187  -2.760144 42.573261  -2.760149 42.573310  -2.760386 42.573295  -2.760372 42.573173  -2.760229 42.573182  -2.760138 42.573187  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -23999,7 +23894,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759553 42.572070  -2.759101 42.572257  -2.759194 42.572379  -2.759646 42.572191  -2.759553 42.572070  </gml:posList>
+                <gml:posList srsDimension="2">-2.759553 42.572070  -2.759101 42.572257  -2.759194 42.572379  -2.759646 42.572191  -2.759599 42.572130  -2.759553 42.572070  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24012,15 +23907,15 @@
       <ms:edificios gml:id="edificios.3967973">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759899 42.572572 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759648 42.572700 </gml:upperCorner>
+        		<gml:lowerCorner>-2.759884 42.572582 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759648 42.572713 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759867 42.572575  -2.759866 42.572572  -2.759648 42.572624  -2.759682 42.572700  -2.759899 42.572648  -2.759867 42.572575  </gml:posList>
+                <gml:posList srsDimension="2">-2.759848 42.572582  -2.759648 42.572624  -2.759664 42.572662  -2.759685 42.572713  -2.759884 42.572675  -2.759848 42.572582  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24723,27 +24618,6 @@
       </ms:edificios>
     </gml:featureMember>
     <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968007">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754119 42.570067 </gml:lowerCorner>
-        		<gml:upperCorner>-2.753872 42.570266 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753872 42.570121  -2.753975 42.570266  -2.754119 42.570210  -2.754032 42.570067  -2.753872 42.570121  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
       <ms:edificios gml:id="edificios.3968008">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
@@ -24755,7 +24629,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752393 42.568298  -2.752679 42.568160  -2.752598 42.568059  -2.752305 42.568197  -2.752393 42.568298  </gml:posList>
+                <gml:posList srsDimension="2">-2.752393 42.568298  -2.752679 42.568160  -2.752638 42.568109  -2.752598 42.568059  -2.752305 42.568197  -2.752393 42.568298  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24768,15 +24642,15 @@
       <ms:edificios gml:id="edificios.3968009">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.750931 42.566218 </gml:lowerCorner>
-        		<gml:upperCorner>-2.750216 42.566623 </gml:upperCorner>
+        		<gml:lowerCorner>-2.750950 42.566202 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750234 42.566606 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.750822 42.566218  -2.750216 42.566488  -2.750326 42.566623  -2.750931 42.566354  -2.750822 42.566218  </gml:posList>
+                <gml:posList srsDimension="2">-2.750840 42.566202  -2.750234 42.566471  -2.750344 42.566606  -2.750950 42.566337  -2.750840 42.566202  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24789,15 +24663,15 @@
       <ms:edificios gml:id="edificios.3968010">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.752515 42.566391 </gml:lowerCorner>
-        		<gml:upperCorner>-2.752181 42.566638 </gml:upperCorner>
+        		<gml:lowerCorner>-2.752534 42.566371 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752199 42.566618 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752181 42.566463  -2.752279 42.566638  -2.752515 42.566566  -2.752417 42.566391  -2.752181 42.566463  </gml:posList>
+                <gml:posList srsDimension="2">-2.752199 42.566443  -2.752297 42.566618  -2.752534 42.566546  -2.752436 42.566371  -2.752199 42.566443  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24818,7 +24692,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752728 42.566824  -2.752648 42.566692  -2.752201 42.566841  -2.752282 42.566973  -2.752728 42.566824  </gml:posList>
+                <gml:posList srsDimension="2">-2.752728 42.566824  -2.752648 42.566692  -2.752523 42.566733  -2.752201 42.566841  -2.752282 42.566973  -2.752728 42.566824  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24860,7 +24734,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751785 42.566893  -2.751682 42.566734  -2.751357 42.566851  -2.751445 42.566984  -2.751578 42.566937  -2.751594 42.566961  -2.751785 42.566893  </gml:posList>
+                <gml:posList srsDimension="2">-2.751785 42.566893  -2.751682 42.566734  -2.751555 42.566780  -2.751357 42.566851  -2.751445 42.566984  -2.751578 42.566937  -2.751594 42.566961  -2.751785 42.566893  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -24881,7 +24755,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.751218 42.567129  -2.751279 42.567104  -2.751222 42.567025  -2.751091 42.567075  -2.751046 42.567010  -2.750790 42.567107  -2.750890 42.567252  -2.751218 42.567129  </gml:posList>
+                <gml:posList srsDimension="2">-2.751218 42.567129  -2.751279 42.567104  -2.751222 42.567025  -2.751091 42.567075  -2.751074 42.567050  -2.751046 42.567010  -2.750790 42.567107  -2.750890 42.567252  -2.751218 42.567129  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25511,7 +25385,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752681 42.565771  -2.752838 42.565696  -2.752703 42.565541  -2.752545 42.565617  -2.752681 42.565771  </gml:posList>
+                <gml:posList srsDimension="2">-2.752681 42.565771  -2.752838 42.565696  -2.752703 42.565541  -2.752624 42.565579  -2.752545 42.565617  -2.752681 42.565771  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25532,7 +25406,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.753648 42.565373  -2.753528 42.565240  -2.753334 42.565336  -2.753459 42.565466  -2.753648 42.565373  </gml:posList>
+                <gml:posList srsDimension="2">-2.753648 42.565373  -2.753528 42.565240  -2.753431 42.565288  -2.753334 42.565336  -2.753459 42.565466  -2.753648 42.565373  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25545,15 +25419,15 @@
       <ms:edificios gml:id="edificios.3968046">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.752559 42.565795 </gml:lowerCorner>
-        		<gml:upperCorner>-2.752369 42.565884 </gml:upperCorner>
+        		<gml:lowerCorner>-2.752606 42.565795 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752299 42.566051 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.752369 42.565832  -2.752393 42.565884  -2.752559 42.565844  -2.752541 42.565807  -2.752524 42.565811  -2.752518 42.565795  -2.752369 42.565832  </gml:posList>
+                <gml:posList srsDimension="2">-2.752299 42.565847  -2.752374 42.566051  -2.752606 42.566003  -2.752539 42.565854  -2.752561 42.565849  -2.752541 42.565807  -2.752524 42.565811  -2.752518 42.565795  -2.752299 42.565847  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25595,7 +25469,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754759 42.565471  -2.754692 42.565524  -2.754795 42.565612  -2.754873 42.565546  -2.754759 42.565471  </gml:posList>
+                <gml:posList srsDimension="2">-2.754759 42.565471  -2.754726 42.565498  -2.754692 42.565524  -2.754795 42.565612  -2.754873 42.565546  -2.754759 42.565471  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25608,15 +25482,15 @@
       <ms:edificios gml:id="edificios.3968049">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.755392 42.564209 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755126 42.564533 </gml:upperCorner>
+        		<gml:lowerCorner>-2.755400 42.564204 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755135 42.564528 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755216 42.564209  -2.755197 42.564260  -2.755158 42.564252  -2.755126 42.564340  -2.755168 42.564348  -2.755152 42.564392  -2.755175 42.564397  -2.755157 42.564447  -2.755224 42.564460  -2.755204 42.564517  -2.755287 42.564533  -2.755392 42.564243  -2.755216 42.564209  </gml:posList>
+                <gml:posList srsDimension="2">-2.755224 42.564204  -2.755206 42.564255  -2.755167 42.564247  -2.755135 42.564335  -2.755176 42.564343  -2.755160 42.564387  -2.755183 42.564392  -2.755165 42.564442  -2.755233 42.564455  -2.755212 42.564512  -2.755295 42.564528  -2.755400 42.564238  -2.755312 42.564221  -2.755224 42.564204  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25629,15 +25503,15 @@
       <ms:edificios gml:id="edificios.3968050">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754598 42.564100 </gml:lowerCorner>
-        		<gml:upperCorner>-2.754490 42.564221 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754600 42.564077 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754492 42.564199 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754598 42.564177  -2.754568 42.564177  -2.754568 42.564102  -2.754585 42.564102  -2.754585 42.564100  -2.754503 42.564100  -2.754503 42.564144  -2.754491 42.564144  -2.754490 42.564190  -2.754506 42.564190  -2.754506 42.564221  -2.754598 42.564221  -2.754598 42.564177  </gml:posList>
+                <gml:posList srsDimension="2">-2.754600 42.564155  -2.754570 42.564155  -2.754570 42.564079  -2.754587 42.564080  -2.754587 42.564078  -2.754505 42.564077  -2.754505 42.564121  -2.754493 42.564121  -2.754492 42.564167  -2.754508 42.564167  -2.754508 42.564198  -2.754600 42.564199  -2.754600 42.564155  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25650,15 +25524,15 @@
       <ms:edificios gml:id="edificios.3968051">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.754624 42.564102 </gml:lowerCorner>
-        		<gml:upperCorner>-2.754568 42.564177 </gml:upperCorner>
+        		<gml:lowerCorner>-2.754626 42.564079 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754570 42.564155 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.754624 42.564177  -2.754624 42.564131  -2.754584 42.564131  -2.754585 42.564102  -2.754568 42.564102  -2.754568 42.564177  -2.754598 42.564177  -2.754624 42.564177  </gml:posList>
+                <gml:posList srsDimension="2">-2.754626 42.564155  -2.754626 42.564109  -2.754586 42.564109  -2.754587 42.564080  -2.754570 42.564079  -2.754570 42.564155  -2.754600 42.564155  -2.754626 42.564155  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -25847,7 +25721,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755513 42.564340  -2.755691 42.564326  -2.755597 42.564186  -2.755549 42.564206  -2.755513 42.564340  </gml:posList>
+                <gml:posList srsDimension="2">-2.755513 42.564340  -2.755691 42.564326  -2.755597 42.564186  -2.755573 42.564196  -2.755549 42.564206  -2.755513 42.564340  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26582,7 +26456,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.760883 42.572835  -2.760542 42.572808  -2.760516 42.572987  -2.760807 42.573011  -2.760813 42.572966  -2.760863 42.572970  -2.760883 42.572835  </gml:posList>
+                <gml:posList srsDimension="2">-2.760883 42.572835  -2.760542 42.572808  -2.760534 42.572867  -2.760516 42.572987  -2.760807 42.573011  -2.760813 42.572966  -2.760863 42.572970  -2.760883 42.572835  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26603,7 +26477,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.761788 42.573078  -2.761779 42.572969  -2.761471 42.572981  -2.761480 42.573091  -2.761788 42.573078  </gml:posList>
+                <gml:posList srsDimension="2">-2.761788 42.573078  -2.761779 42.572969  -2.761625 42.572975  -2.761471 42.572981  -2.761480 42.573091  -2.761788 42.573078  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26624,7 +26498,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757817 42.572499  -2.757706 42.572551  -2.757950 42.572831  -2.758056 42.572775  -2.757817 42.572499  </gml:posList>
+                <gml:posList srsDimension="2">-2.757817 42.572499  -2.757762 42.572525  -2.757706 42.572551  -2.757950 42.572831  -2.758056 42.572775  -2.757817 42.572499  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26637,15 +26511,15 @@
       <ms:edificios gml:id="edificios.3968098">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757694 42.573664 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757368 42.573902 </gml:upperCorner>
+        		<gml:lowerCorner>-2.757700 42.573682 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757374 42.573920 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757471 42.573902  -2.757694 42.573823  -2.757591 42.573664  -2.757368 42.573743  -2.757471 42.573902  </gml:posList>
+                <gml:posList srsDimension="2">-2.757477 42.573920  -2.757700 42.573841  -2.757598 42.573682  -2.757374 42.573761  -2.757426 42.573841  -2.757477 42.573920  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26658,15 +26532,15 @@
       <ms:edificios gml:id="edificios.3968099">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.758749 42.574793 </gml:lowerCorner>
-        		<gml:upperCorner>-2.758625 42.574895 </gml:upperCorner>
+        		<gml:lowerCorner>-2.758721 42.574794 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758597 42.574896 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.758727 42.574895  -2.758749 42.574807  -2.758647 42.574793  -2.758625 42.574882  -2.758727 42.574895  </gml:posList>
+                <gml:posList srsDimension="2">-2.758699 42.574896  -2.758721 42.574807  -2.758619 42.574794  -2.758597 42.574882  -2.758699 42.574896  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26688,132 +26562,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.759784 42.572410  -2.759791 42.572426  -2.759818 42.572492  -2.759825 42.572509  -2.759983 42.572472  -2.759914 42.572380  -2.759784 42.572410  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968101">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759789 42.572520 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759768 42.572545 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759779 42.572520  -2.759768 42.572522  -2.759777 42.572545  -2.759789 42.572542  -2.759779 42.572520  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968102">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759825 42.572492 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759760 42.572522 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759825 42.572509  -2.759818 42.572492  -2.759760 42.572505  -2.759768 42.572522  -2.759779 42.572520  -2.759814 42.572512  -2.759825 42.572509  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968103">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759791 42.572410 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759551 42.572480 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759791 42.572426  -2.759784 42.572410  -2.759772 42.572413  -2.759551 42.572463  -2.759558 42.572480  -2.759791 42.572426  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968104">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759709 42.572519 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759586 42.572562 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759709 42.572536  -2.759702 42.572519  -2.759586 42.572545  -2.759593 42.572562  -2.759709 42.572536  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968105">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759818 42.572426 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759558 42.572545 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759818 42.572492  -2.759791 42.572426  -2.759558 42.572480  -2.759586 42.572545  -2.759702 42.572519  -2.759709 42.572536  -2.759768 42.572522  -2.759760 42.572505  -2.759818 42.572492  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968106">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.759777 42.572522 </gml:lowerCorner>
-        		<gml:upperCorner>-2.759709 42.572558 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.759777 42.572545  -2.759768 42.572522  -2.759709 42.572536  -2.759719 42.572558  -2.759777 42.572545  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -26973,15 +26721,15 @@
       <ms:edificios gml:id="edificios.3968114">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.757585 42.570978 </gml:lowerCorner>
-        		<gml:upperCorner>-2.757377 42.571135 </gml:upperCorner>
+        		<gml:lowerCorner>-2.757600 42.570978 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757391 42.571135 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.757530 42.571135  -2.757585 42.571024  -2.757429 42.570978  -2.757377 42.571089  -2.757530 42.571135  </gml:posList>
+                <gml:posList srsDimension="2">-2.757544 42.571135  -2.757600 42.571024  -2.757521 42.571001  -2.757443 42.570978  -2.757391 42.571089  -2.757544 42.571135  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27003,27 +26751,6 @@
             <gml:exterior>
               <gml:LinearRing>
                 <gml:posList srsDimension="2">-2.756134 42.572372  -2.756022 42.572189  -2.756000 42.572157  -2.755985 42.572161  -2.755891 42.572190  -2.755869 42.572196  -2.755757 42.572230  -2.755877 42.572440  -2.756134 42.572372  </gml:posList>
-              </gml:LinearRing>
-            </gml:exterior>
-          </gml:Polygon>
-        </ms:msGeometry>
-        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
-        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
-      </ms:edificios>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:edificios gml:id="edificios.3968116">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.755669 42.572278 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755552 42.572415 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Polygon srsName="EPSG:4326">
-            <gml:exterior>
-              <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.755669 42.572344  -2.755641 42.572278  -2.755552 42.572332  -2.755593 42.572415  -2.755669 42.572344  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27057,15 +26784,15 @@
       <ms:edificios gml:id="edificios.3968118">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756029 42.572675 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755933 42.572740 </gml:upperCorner>
+        		<gml:lowerCorner>-2.756295 42.572372 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755877 42.572732 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756011 42.572675  -2.755962 42.572690  -2.755933 42.572726  -2.755933 42.572740  -2.756029 42.572706  -2.756011 42.572675  </gml:posList>
+                <gml:posList srsDimension="2">-2.756134 42.572372  -2.755877 42.572440  -2.756044 42.572732  -2.756295 42.572659  -2.756134 42.572372  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27078,15 +26805,15 @@
       <ms:edificios gml:id="edificios.3968119">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.756011 42.571846 </gml:lowerCorner>
-        		<gml:upperCorner>-2.755548 42.572763 </gml:upperCorner>
+        		<gml:lowerCorner>-2.756044 42.571846 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755510 42.572779 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.756011 42.572675  -2.755877 42.572440  -2.755757 42.572230  -2.755869 42.572196  -2.755706 42.571846  -2.755548 42.571910  -2.755708 42.572245  -2.755641 42.572278  -2.755669 42.572344  -2.755593 42.572415  -2.755624 42.572481  -2.755698 42.572449  -2.755869 42.572763  -2.755933 42.572740  -2.755933 42.572726  -2.755962 42.572690  -2.756011 42.572675  </gml:posList>
+                <gml:posList srsDimension="2">-2.756044 42.572732  -2.755877 42.572440  -2.755757 42.572230  -2.755869 42.572196  -2.755706 42.571846  -2.755548 42.571910  -2.755615 42.572050  -2.755510 42.572082  -2.755555 42.572188  -2.755526 42.572197  -2.755598 42.572397  -2.755642 42.572473  -2.755698 42.572449  -2.755788 42.572614  -2.755878 42.572779  -2.756044 42.572732  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27183,15 +26910,15 @@
       <ms:edificios gml:id="edificios.3968124">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.764091 42.570963 </gml:lowerCorner>
-        		<gml:upperCorner>-2.763828 42.571216 </gml:upperCorner>
+        		<gml:lowerCorner>-2.764115 42.570963 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763852 42.571216 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764091 42.571175  -2.763997 42.570963  -2.763828 42.571004  -2.763923 42.571216  -2.764091 42.571175  </gml:posList>
+                <gml:posList srsDimension="2">-2.764115 42.571175  -2.764021 42.570963  -2.763936 42.570983  -2.763852 42.571004  -2.763946 42.571216  -2.764115 42.571175  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27204,15 +26931,15 @@
       <ms:edificios gml:id="edificios.3968125">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.767633 42.575122 </gml:lowerCorner>
-        		<gml:upperCorner>-2.767260 42.575422 </gml:upperCorner>
+        		<gml:lowerCorner>-2.767657 42.575135 </gml:lowerCorner>
+        		<gml:upperCorner>-2.767284 42.575434 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.767260 42.575335  -2.767414 42.575422  -2.767633 42.575209  -2.767479 42.575122  -2.767260 42.575335  </gml:posList>
+                <gml:posList srsDimension="2">-2.767284 42.575348  -2.767438 42.575434  -2.767657 42.575222  -2.767580 42.575178  -2.767503 42.575135  -2.767284 42.575348  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27225,15 +26952,15 @@
       <ms:edificios gml:id="edificios.3968126">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.768032 42.576636 </gml:lowerCorner>
-        		<gml:upperCorner>-2.767972 42.576709 </gml:upperCorner>
+        		<gml:lowerCorner>-2.768038 42.576636 </gml:lowerCorner>
+        		<gml:upperCorner>-2.767977 42.576709 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.767972 42.576641  -2.767987 42.576709  -2.768032 42.576705  -2.768020 42.576636  -2.767972 42.576641  </gml:posList>
+                <gml:posList srsDimension="2">-2.767977 42.576641  -2.767992 42.576709  -2.768038 42.576705  -2.768026 42.576636  -2.768002 42.576639  -2.767977 42.576641  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27254,7 +26981,7 @@
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.764503 42.574930  -2.764521 42.574821  -2.764424 42.574812  -2.764406 42.574921  -2.764503 42.574930  </gml:posList>
+                <gml:posList srsDimension="2">-2.764503 42.574930  -2.764521 42.574821  -2.764472 42.574817  -2.764424 42.574812  -2.764406 42.574921  -2.764503 42.574930  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27267,15 +26994,15 @@
       <ms:edificios gml:id="edificios.3968128">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.762884 42.569282 </gml:lowerCorner>
-        		<gml:upperCorner>-2.762556 42.569509 </gml:upperCorner>
+        		<gml:lowerCorner>-2.762970 42.569317 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762587 42.569544 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.762884 42.569462  -2.762817 42.569282  -2.762556 42.569327  -2.762613 42.569509  -2.762884 42.569462  </gml:posList>
+                <gml:posList srsDimension="2">-2.762915 42.569498  -2.762970 42.569488  -2.762959 42.569451  -2.762948 42.569413  -2.762894 42.569427  -2.762848 42.569317  -2.762587 42.569362  -2.762644 42.569544  -2.762915 42.569498  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27330,15 +27057,15 @@
       <ms:edificios gml:id="edificios.3968131">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.763654 42.569219 </gml:lowerCorner>
-        		<gml:upperCorner>-2.763451 42.569344 </gml:upperCorner>
+        		<gml:lowerCorner>-2.763692 42.569228 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763471 42.569357 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.763607 42.569219  -2.763451 42.569278  -2.763494 42.569344  -2.763654 42.569286  -2.763607 42.569219  </gml:posList>
+                <gml:posList srsDimension="2">-2.763649 42.569228  -2.763560 42.569260  -2.763471 42.569291  -2.763514 42.569357  -2.763692 42.569294  -2.763649 42.569228  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27393,15 +27120,15 @@
       <ms:edificios gml:id="edificios.3968134">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.748636 42.605530 </gml:lowerCorner>
-        		<gml:upperCorner>-2.748501 42.605632 </gml:upperCorner>
+        		<gml:lowerCorner>-2.748651 42.605540 </gml:lowerCorner>
+        		<gml:upperCorner>-2.748516 42.605642 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Polygon srsName="EPSG:4326">
             <gml:exterior>
               <gml:LinearRing>
-                <gml:posList srsDimension="2">-2.748575 42.605530  -2.748501 42.605585  -2.748564 42.605632  -2.748636 42.605578  -2.748575 42.605530  </gml:posList>
+                <gml:posList srsDimension="2">-2.748590 42.605540  -2.748516 42.605596  -2.748579 42.605642  -2.748615 42.605615  -2.748651 42.605588  -2.748590 42.605540  </gml:posList>
               </gml:LinearRing>
             </gml:exterior>
           </gml:Polygon>
@@ -27449,6 +27176,3534 @@
           </gml:Polygon>
         </ms:msGeometry>
         <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681299">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.706212 42.534154 </gml:lowerCorner>
+        		<gml:upperCorner>-2.706160 42.534199 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.706177 42.534196  -2.706185 42.534199  -2.706212 42.534170  -2.706178 42.534154  -2.706160 42.534173  -2.706177 42.534196  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681300">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738254 42.517948 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738231 42.517968 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738254 42.517961  -2.738247 42.517948  -2.738231 42.517951  -2.738238 42.517968  -2.738254 42.517961  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681301">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735424 42.518428 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735410 42.518442 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735424 42.518439  -2.735420 42.518428  -2.735410 42.518430  -2.735412 42.518442  -2.735424 42.518439  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681302">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705924 42.518606 </gml:lowerCorner>
+        		<gml:upperCorner>-2.705871 42.518649 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.705924 42.518608  -2.705873 42.518606  -2.705872 42.518627  -2.705871 42.518648  -2.705923 42.518649  -2.705924 42.518608  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681303">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.740366 42.519011 </gml:lowerCorner>
+        		<gml:upperCorner>-2.740329 42.519031 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.740366 42.519022  -2.740360 42.519011  -2.740329 42.519019  -2.740337 42.519031  -2.740366 42.519022  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681304">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.739730 42.519084 </gml:lowerCorner>
+        		<gml:upperCorner>-2.739518 42.519277 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.739730 42.519238  -2.739645 42.519084  -2.739518 42.519123  -2.739560 42.519200  -2.739602 42.519277  -2.739730 42.519238  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681305">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738630 42.519584 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738594 42.519605 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738630 42.519595  -2.738626 42.519584  -2.738594 42.519596  -2.738600 42.519605  -2.738630 42.519595  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681306">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.710876 42.520231 </gml:lowerCorner>
+        		<gml:upperCorner>-2.710839 42.520266 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.710876 42.520263  -2.710869 42.520231  -2.710839 42.520234  -2.710842 42.520250  -2.710845 42.520266  -2.710876 42.520263  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681307">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.736384 42.520316 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736340 42.520344 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.736384 42.520333  -2.736374 42.520316  -2.736357 42.520323  -2.736340 42.520330  -2.736347 42.520344  -2.736384 42.520333  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681308">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729107 42.522205 </gml:lowerCorner>
+        		<gml:upperCorner>-2.729058 42.522240 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729107 42.522222  -2.729085 42.522205  -2.729071 42.522215  -2.729058 42.522224  -2.729079 42.522240  -2.729107 42.522222  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681309">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.708348 42.522305 </gml:lowerCorner>
+        		<gml:upperCorner>-2.708262 42.522362 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.708348 42.522358  -2.708344 42.522305  -2.708262 42.522308  -2.708264 42.522335  -2.708267 42.522362  -2.708348 42.522358  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681310">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.730276 42.523346 </gml:lowerCorner>
+        		<gml:upperCorner>-2.730222 42.523385 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.730276 42.523375  -2.730264 42.523346  -2.730222 42.523355  -2.730228 42.523370  -2.730234 42.523385  -2.730276 42.523375  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681311">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.718304 42.523612 </gml:lowerCorner>
+        		<gml:upperCorner>-2.718272 42.523640 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.718304 42.523612  -2.718272 42.523612  -2.718272 42.523623  -2.718272 42.523639  -2.718304 42.523640  -2.718304 42.523612  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681313">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735056 42.525434 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735012 42.525468 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735056 42.525444  -2.735027 42.525434  -2.735012 42.525458  -2.735041 42.525468  -2.735049 42.525456  -2.735056 42.525444  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681316">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.713965 42.528214 </gml:lowerCorner>
+        		<gml:upperCorner>-2.713923 42.528246 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.713965 42.528226  -2.713942 42.528214  -2.713923 42.528233  -2.713934 42.528239  -2.713945 42.528246  -2.713965 42.528226  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681318">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733492 42.528910 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733426 42.528961 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733492 42.528928  -2.733461 42.528910  -2.733426 42.528943  -2.733457 42.528961  -2.733475 42.528945  -2.733492 42.528928  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681319">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.705024 42.529055 </gml:lowerCorner>
+        		<gml:upperCorner>-2.704965 42.529100 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.705024 42.529095  -2.705021 42.529079  -2.705016 42.529055  -2.704991 42.529057  -2.704965 42.529060  -2.704973 42.529100  -2.705024 42.529095  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681320">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.715540 42.529484 </gml:lowerCorner>
+        		<gml:upperCorner>-2.715453 42.529558 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.715540 42.529540  -2.715497 42.529484  -2.715453 42.529502  -2.715475 42.529530  -2.715496 42.529558  -2.715540 42.529540  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681321">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.728105 42.530330 </gml:lowerCorner>
+        		<gml:upperCorner>-2.728000 42.530403 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.728105 42.530364  -2.728071 42.530330  -2.728025 42.530355  -2.728000 42.530368  -2.728033 42.530403  -2.728105 42.530364  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681323">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.720572 42.535478 </gml:lowerCorner>
+        		<gml:upperCorner>-2.720534 42.535512 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.720572 42.535480  -2.720538 42.535478  -2.720534 42.535510  -2.720569 42.535512  -2.720572 42.535480  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681325">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.715474 42.537523 </gml:lowerCorner>
+        		<gml:upperCorner>-2.715306 42.537661 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.715474 42.537634  -2.715409 42.537523  -2.715306 42.537549  -2.715341 42.537605  -2.715376 42.537661  -2.715474 42.537634  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681327">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.716440 42.538896 </gml:lowerCorner>
+        		<gml:upperCorner>-2.716297 42.539029 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.716440 42.539001  -2.716365 42.538896  -2.716297 42.538932  -2.716334 42.538980  -2.716370 42.539029  -2.716440 42.539001  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681328">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.745810 42.543066 </gml:lowerCorner>
+        		<gml:upperCorner>-2.745724 42.543110 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.745810 42.543098  -2.745800 42.543066  -2.745724 42.543077  -2.745734 42.543110  -2.745772 42.543104  -2.745810 42.543098  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681329">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751923 42.543645 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751885 42.543670 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751923 42.543655  -2.751909 42.543650  -2.751895 42.543645  -2.751885 42.543660  -2.751913 42.543670  -2.751923 42.543655  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681331">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729192 42.545905 </gml:lowerCorner>
+        		<gml:upperCorner>-2.729128 42.545955 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729192 42.545941  -2.729171 42.545905  -2.729128 42.545918  -2.729138 42.545937  -2.729148 42.545955  -2.729192 42.545941  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681332">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757952 42.548374 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757883 42.548430 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757952 42.548389  -2.757931 42.548382  -2.757909 42.548374  -2.757883 42.548415  -2.757925 42.548430  -2.757952 42.548389  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681333">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725229 42.548937 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725201 42.548959 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725229 42.548937  -2.725205 42.548938  -2.725203 42.548949  -2.725201 42.548959  -2.725225 42.548957  -2.725229 42.548937  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681334">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729415 42.550667 </gml:lowerCorner>
+        		<gml:upperCorner>-2.729326 42.550735 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729415 42.550670  -2.729329 42.550667  -2.729326 42.550717  -2.729364 42.550735  -2.729372 42.550735  -2.729381 42.550735  -2.729397 42.550728  -2.729412 42.550705  -2.729415 42.550670  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681335">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758763 42.551458 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757664 42.552050 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758763 42.551544  -2.758483 42.551476  -2.758450 42.551578  -2.757803 42.551458  -2.757664 42.551861  -2.758591 42.552050  -2.758763 42.551544  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681336">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764334 42.551906 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764023 42.552137 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764171 42.552116  -2.764251 42.552137  -2.764288 42.552061  -2.764334 42.551966  -2.764107 42.551906  -2.764023 42.552077  -2.764040 42.552082  -2.764171 42.552116  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681337">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764171 42.552082 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764020 42.552157 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764171 42.552116  -2.764040 42.552082  -2.764020 42.552117  -2.764147 42.552157  -2.764171 42.552116  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681338">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.734775 42.551940 </gml:lowerCorner>
+        		<gml:upperCorner>-2.734699 42.551996 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.734775 42.551964  -2.734753 42.551952  -2.734730 42.551940  -2.734699 42.551972  -2.734744 42.551996  -2.734775 42.551964  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681339">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764017 42.552226 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763873 42.552287 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764017 42.552267  -2.764006 42.552226  -2.763873 42.552246  -2.763884 42.552287  -2.764017 42.552267  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681340">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763709 42.552230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763575 42.552310 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763709 42.552296  -2.763694 42.552230  -2.763575 42.552244  -2.763590 42.552310  -2.763709 42.552296  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681341">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757660 42.552729 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757594 42.552776 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757660 42.552740  -2.757610 42.552729  -2.757594 42.552764  -2.757644 42.552776  -2.757660 42.552740  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681342">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762986 42.553048 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762848 42.553184 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762897 42.553184  -2.762957 42.553107  -2.762958 42.553107  -2.762986 42.553069  -2.762933 42.553048  -2.762848 42.553165  -2.762897 42.553184  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681343">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763124 42.553107 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762776 42.553411 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763061 42.553259  -2.763124 42.553178  -2.763072 42.553156  -2.763005 42.553127  -2.762958 42.553107  -2.762957 42.553107  -2.762897 42.553184  -2.762776 42.553340  -2.762943 42.553411  -2.763012 42.553322  -2.763061 42.553259  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681344">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763096 42.553098 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763005 42.553156 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763005 42.553127  -2.763072 42.553156  -2.763096 42.553128  -2.763030 42.553098  -2.763005 42.553127  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681345">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763092 42.553259 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763012 42.553336 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763061 42.553259  -2.763012 42.553322  -2.763048 42.553336  -2.763070 42.553303  -2.763092 42.553271  -2.763061 42.553259  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681346">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763114 42.553508 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762957 42.553588 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763114 42.553567  -2.762973 42.553508  -2.762971 42.553511  -2.762957 42.553529  -2.763098 42.553588  -2.763114 42.553567  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681347">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763031 42.553561 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762946 42.553617 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763031 42.553586  -2.762968 42.553561  -2.762946 42.553592  -2.763009 42.553617  -2.763031 42.553586  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681348">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762927 42.553576 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762881 42.553610 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762927 42.553585  -2.762893 42.553576  -2.762881 42.553601  -2.762915 42.553610  -2.762927 42.553585  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681349">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758600 42.553655 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758530 42.553710 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758600 42.553670  -2.758577 42.553655  -2.758554 42.553675  -2.758530 42.553696  -2.758554 42.553710  -2.758600 42.553670  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681351">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764022 42.554284 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763968 42.554315 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764022 42.554301  -2.763978 42.554284  -2.763968 42.554298  -2.763990 42.554307  -2.764012 42.554315  -2.764022 42.554301  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681352">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.739029 42.554297 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738992 42.554365 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.739029 42.554363  -2.739017 42.554297  -2.738992 42.554300  -2.738998 42.554333  -2.739004 42.554365  -2.739029 42.554363  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681353">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758888 42.555269 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758865 42.555281 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758865 42.555270  -2.758865 42.555281  -2.758876 42.555281  -2.758888 42.555281  -2.758888 42.555269  -2.758865 42.555270  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681354">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725076 42.555266 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725038 42.555295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725076 42.555274  -2.725049 42.555266  -2.725038 42.555287  -2.725065 42.555295  -2.725071 42.555284  -2.725076 42.555274  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681355">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.776082 42.556587 </gml:lowerCorner>
+        		<gml:upperCorner>-2.776013 42.556643 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.776082 42.556597  -2.776027 42.556587  -2.776020 42.556610  -2.776013 42.556633  -2.776067 42.556643  -2.776082 42.556597  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681356">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725122 42.556625 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725073 42.556659 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725122 42.556638  -2.725088 42.556625  -2.725073 42.556646  -2.725107 42.556659  -2.725114 42.556648  -2.725122 42.556638  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681357">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.730157 42.556845 </gml:lowerCorner>
+        		<gml:upperCorner>-2.730115 42.556869 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.730157 42.556851  -2.730128 42.556845  -2.730122 42.556854  -2.730115 42.556863  -2.730144 42.556869  -2.730157 42.556851  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681358">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754743 42.557091 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754673 42.557169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754743 42.557101  -2.754677 42.557091  -2.754673 42.557109  -2.754676 42.557125  -2.754684 42.557161  -2.754738 42.557169  -2.754743 42.557101  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681360">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757845 42.557941 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757523 42.558054 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757576 42.558048  -2.757636 42.558049  -2.757670 42.558050  -2.757802 42.558054  -2.757802 42.558039  -2.757804 42.558014  -2.757842 42.558015  -2.757845 42.557944  -2.757746 42.557941  -2.757745 42.557959  -2.757526 42.557953  -2.757523 42.558011  -2.757578 42.558013  -2.757576 42.558048  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681361">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758344 42.558060 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758093 42.558155 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758093 42.558060  -2.758095 42.558151  -2.758220 42.558153  -2.758344 42.558155  -2.758344 42.558062  -2.758093 42.558060  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681362">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759234 42.558080 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759170 42.558130 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759234 42.558125  -2.759231 42.558103  -2.759228 42.558080  -2.759189 42.558083  -2.759170 42.558085  -2.759177 42.558130  -2.759234 42.558125  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681363">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.726753 42.558058 </gml:lowerCorner>
+        		<gml:upperCorner>-2.726705 42.558094 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.726753 42.558072  -2.726741 42.558065  -2.726730 42.558058  -2.726705 42.558080  -2.726729 42.558094  -2.726753 42.558072  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681364">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759498 42.558688 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759411 42.558798 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759498 42.558789  -2.759483 42.558743  -2.759467 42.558688  -2.759411 42.558698  -2.759442 42.558798  -2.759461 42.558795  -2.759498 42.558789  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681365">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.762705 42.559405 </gml:lowerCorner>
+        		<gml:upperCorner>-2.762612 42.559477 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.762612 42.559414  -2.762622 42.559477  -2.762705 42.559470  -2.762700 42.559438  -2.762694 42.559405  -2.762612 42.559414  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681366">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735941 42.559764 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735901 42.559795 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735941 42.559776  -2.735919 42.559764  -2.735910 42.559774  -2.735901 42.559783  -2.735923 42.559795  -2.735941 42.559776  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681367">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763341 42.560678 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763258 42.560746 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763341 42.560736  -2.763326 42.560678  -2.763292 42.560683  -2.763258 42.560687  -2.763273 42.560746  -2.763341 42.560736  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681368">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765135 42.560905 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765080 42.560947 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765135 42.560932  -2.765120 42.560905  -2.765080 42.560921  -2.765088 42.560934  -2.765095 42.560947  -2.765135 42.560932  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681369">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750128 42.561743 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750077 42.561775 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750128 42.561752  -2.750107 42.561747  -2.750087 42.561743  -2.750077 42.561765  -2.750118 42.561775  -2.750128 42.561752  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681371">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752308 42.561996 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752214 42.562051 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752308 42.562018  -2.752290 42.561996  -2.752214 42.562029  -2.752231 42.562051  -2.752308 42.562018  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681372">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752317 42.562121 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751675 42.562896 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752317 42.562255  -2.751969 42.562216  -2.751992 42.562121  -2.751809 42.562198  -2.751675 42.562395  -2.751735 42.562517  -2.751887 42.562541  -2.751848 42.562680  -2.751840 42.562709  -2.751753 42.562723  -2.751771 42.562773  -2.752042 42.562896  -2.752285 42.562867  -2.752283 42.562825  -2.752221 42.562655  -2.752227 42.562652  -2.752317 42.562255  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681373">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.772769 42.562920 </gml:lowerCorner>
+        		<gml:upperCorner>-2.772677 42.562987 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.772769 42.562955  -2.772713 42.562920  -2.772677 42.562953  -2.772733 42.562987  -2.772751 42.562971  -2.772769 42.562955  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681374">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.736113 42.563237 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736071 42.563274 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.736113 42.563273  -2.736113 42.563255  -2.736112 42.563237  -2.736071 42.563238  -2.736072 42.563274  -2.736113 42.563273  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681375">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.772506 42.563368 </gml:lowerCorner>
+        		<gml:upperCorner>-2.772390 42.563456 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.772506 42.563395  -2.772468 42.563381  -2.772431 42.563368  -2.772390 42.563429  -2.772466 42.563456  -2.772506 42.563395  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681376">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.737136 42.563897 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737085 42.563940 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.737136 42.563934  -2.737130 42.563916  -2.737125 42.563897  -2.737085 42.563904  -2.737096 42.563940  -2.737136 42.563934  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681377">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755749 42.564186 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755709 42.564222 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755749 42.564211  -2.755726 42.564186  -2.755709 42.564195  -2.755732 42.564222  -2.755749 42.564211  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681378">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755895 42.564193 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755840 42.564239 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755895 42.564216  -2.755871 42.564193  -2.755840 42.564208  -2.755876 42.564239  -2.755895 42.564216  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681379">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.755871 42.564230 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755769 42.564293 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.755871 42.564268  -2.755827 42.564249  -2.755782 42.564230  -2.755769 42.564246  -2.755855 42.564293  -2.755871 42.564268  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681380">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.741720 42.564316 </gml:lowerCorner>
+        		<gml:upperCorner>-2.741683 42.564345 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.741720 42.564332  -2.741703 42.564316  -2.741683 42.564329  -2.741700 42.564345  -2.741710 42.564338  -2.741720 42.564332  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681382">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752633 42.565000 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752509 42.565087 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752633 42.565056  -2.752598 42.565000  -2.752509 42.565030  -2.752527 42.565059  -2.752544 42.565087  -2.752633 42.565056  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681386">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.788815 42.567116 </gml:lowerCorner>
+        		<gml:upperCorner>-2.788743 42.567168 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.788815 42.567140  -2.788788 42.567116  -2.788743 42.567144  -2.788770 42.567168  -2.788792 42.567154  -2.788815 42.567140  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681387">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.782705 42.567221 </gml:lowerCorner>
+        		<gml:upperCorner>-2.782650 42.567283 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.782705 42.567228  -2.782672 42.567221  -2.782650 42.567276  -2.782683 42.567283  -2.782694 42.567256  -2.782705 42.567228  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681388">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.773825 42.567361 </gml:lowerCorner>
+        		<gml:upperCorner>-2.773779 42.567394 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.773825 42.567367  -2.773790 42.567361  -2.773784 42.567374  -2.773779 42.567388  -2.773814 42.567394  -2.773821 42.567377  -2.773825 42.567367  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681389">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.782697 42.567661 </gml:lowerCorner>
+        		<gml:upperCorner>-2.782626 42.567712 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.782697 42.567702  -2.782694 42.567687  -2.782676 42.567661  -2.782651 42.567669  -2.782626 42.567676  -2.782640 42.567703  -2.782650 42.567712  -2.782697 42.567702  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681390">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766845 42.567938 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766778 42.568000 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766845 42.567999  -2.766843 42.567938  -2.766778 42.567939  -2.766780 42.568000  -2.766813 42.567999  -2.766845 42.567999  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681391">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.799001 42.568260 </gml:lowerCorner>
+        		<gml:upperCorner>-2.798936 42.568295 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.799001 42.568265  -2.798941 42.568260  -2.798938 42.568275  -2.798936 42.568291  -2.798977 42.568295  -2.798979 42.568284  -2.798997 42.568286  -2.799001 42.568265  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681392">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.745331 42.568347 </gml:lowerCorner>
+        		<gml:upperCorner>-2.745292 42.568380 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.745331 42.568368  -2.745318 42.568347  -2.745292 42.568361  -2.745308 42.568380  -2.745319 42.568374  -2.745331 42.568368  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681393">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763212 42.568627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763153 42.568660 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763212 42.568660  -2.763211 42.568627  -2.763153 42.568627  -2.763154 42.568660  -2.763212 42.568660  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681394">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.794085 42.569027 </gml:lowerCorner>
+        		<gml:upperCorner>-2.794044 42.569059 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.794085 42.569035  -2.794070 42.569031  -2.794055 42.569027  -2.794044 42.569051  -2.794073 42.569059  -2.794085 42.569035  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681395">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763826 42.569199 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763771 42.569247 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763826 42.569236  -2.763798 42.569199  -2.763771 42.569208  -2.763796 42.569247  -2.763826 42.569236  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681396">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.796388 42.569352 </gml:lowerCorner>
+        		<gml:upperCorner>-2.796300 42.569416 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.796388 42.569387  -2.796352 42.569352  -2.796326 42.569367  -2.796300 42.569382  -2.796336 42.569416  -2.796388 42.569387  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681397">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.733842 42.569731 </gml:lowerCorner>
+        		<gml:upperCorner>-2.733812 42.569762 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.733842 42.569761  -2.733840 42.569731  -2.733812 42.569732  -2.733813 42.569747  -2.733814 42.569762  -2.733842 42.569761  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681398">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763408 42.570017 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763305 42.570062 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763408 42.570036  -2.763399 42.570017  -2.763352 42.570030  -2.763305 42.570042  -2.763312 42.570062  -2.763408 42.570036  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681399">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.736522 42.570423 </gml:lowerCorner>
+        		<gml:upperCorner>-2.736477 42.570457 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.736522 42.570433  -2.736492 42.570423  -2.736477 42.570448  -2.736507 42.570457  -2.736514 42.570445  -2.736522 42.570433  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681400">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.798278 42.570620 </gml:lowerCorner>
+        		<gml:upperCorner>-2.798247 42.570650 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.798278 42.570625  -2.798256 42.570620  -2.798251 42.570633  -2.798247 42.570645  -2.798269 42.570650  -2.798278 42.570625  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681401">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751611 42.570528 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751553 42.570563 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751611 42.570545  -2.751566 42.570528  -2.751553 42.570546  -2.751598 42.570563  -2.751611 42.570545  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681402">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.752008 42.570616 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751920 42.570677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.752008 42.570652  -2.751947 42.570616  -2.751920 42.570641  -2.751982 42.570677  -2.752008 42.570652  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681403">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.730231 42.570571 </gml:lowerCorner>
+        		<gml:upperCorner>-2.730141 42.570650 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.730231 42.570586  -2.730169 42.570571  -2.730153 42.570606  -2.730141 42.570635  -2.730202 42.570650  -2.730231 42.570586  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681404">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751939 42.570666 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751897 42.570697 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751939 42.570676  -2.751910 42.570666  -2.751897 42.570687  -2.751926 42.570697  -2.751939 42.570676  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681405">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751569 42.570728 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751476 42.570797 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751569 42.570760  -2.751519 42.570728  -2.751476 42.570766  -2.751526 42.570797  -2.751569 42.570760  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681406">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766184 42.570768 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765926 42.570831 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766184 42.570795  -2.766178 42.570768  -2.766116 42.570771  -2.766041 42.570775  -2.765926 42.570783  -2.765933 42.570831  -2.765993 42.570827  -2.766052 42.570823  -2.766122 42.570810  -2.766184 42.570795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681407">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.761313 42.570780 </gml:lowerCorner>
+        		<gml:upperCorner>-2.761256 42.570836 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.761313 42.570830  -2.761304 42.570780  -2.761256 42.570786  -2.761266 42.570836  -2.761313 42.570830  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681408">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.799354 42.571627 </gml:lowerCorner>
+        		<gml:upperCorner>-2.799306 42.571677 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.799354 42.571634  -2.799330 42.571627  -2.799318 42.571648  -2.799306 42.571669  -2.799330 42.571677  -2.799354 42.571634  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681409">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.727885 42.572159 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727823 42.572219 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.727885 42.572169  -2.727848 42.572159  -2.727836 42.572184  -2.727823 42.572209  -2.727860 42.572219  -2.727885 42.572169  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681410">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750823 42.572473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.750768 42.572520 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750808 42.572502  -2.750804 42.572500  -2.750823 42.572482  -2.750814 42.572478  -2.750806 42.572473  -2.750787 42.572490  -2.750768 42.572508  -2.750789 42.572520  -2.750808 42.572502  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681411">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.793850 42.572651 </gml:lowerCorner>
+        		<gml:upperCorner>-2.793800 42.572687 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.793850 42.572667  -2.793838 42.572659  -2.793826 42.572651  -2.793800 42.572671  -2.793825 42.572687  -2.793850 42.572667  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681412">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.732894 42.572765 </gml:lowerCorner>
+        		<gml:upperCorner>-2.732760 42.572871 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.732894 42.572795  -2.732863 42.572780  -2.732832 42.572765  -2.732760 42.572844  -2.732817 42.572871  -2.732894 42.572795  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681413">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.753064 42.573192 </gml:lowerCorner>
+        		<gml:upperCorner>-2.752997 42.573231 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.753064 42.573198  -2.753026 42.573198  -2.752999 42.573192  -2.752997 42.573224  -2.753062 42.573231  -2.753064 42.573198  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681415">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759159 42.573861 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759060 42.573914 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759159 42.573913  -2.759158 42.573887  -2.759157 42.573861  -2.759060 42.573862  -2.759061 42.573914  -2.759159 42.573913  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681416">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759695 42.574773 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759646 42.574807 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759695 42.574775  -2.759672 42.574774  -2.759648 42.574773  -2.759646 42.574805  -2.759693 42.574807  -2.759695 42.574775  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681417">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759056 42.575320 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758920 42.575432 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759056 42.575375  -2.758999 42.575320  -2.758948 42.575364  -2.758955 42.575372  -2.758920 42.575400  -2.758988 42.575432  -2.759041 42.575387  -2.759056 42.575375  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681418">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756410 42.575394 </gml:lowerCorner>
+        		<gml:upperCorner>-2.756364 42.575430 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756410 42.575414  -2.756399 42.575404  -2.756388 42.575394  -2.756364 42.575410  -2.756384 42.575430  -2.756410 42.575414  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681419">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759404 42.575486 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759158 42.575718 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759404 42.575520  -2.759279 42.575486  -2.759271 42.575509  -2.759248 42.575572  -2.759158 42.575681  -2.759199 42.575700  -2.759239 42.575718  -2.759400 42.575525  -2.759404 42.575520  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681420">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.756030 42.575784 </gml:lowerCorner>
+        		<gml:upperCorner>-2.755880 42.575838 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.756030 42.575793  -2.755998 42.575791  -2.755883 42.575784  -2.755880 42.575827  -2.755918 42.575828  -2.755918 42.575834  -2.756024 42.575838  -2.756030 42.575793  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681421">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758786 42.576176 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758579 42.576340 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758786 42.576194  -2.758758 42.576176  -2.758743 42.576197  -2.758716 42.576222  -2.758684 42.576248  -2.758626 42.576216  -2.758579 42.576267  -2.758618 42.576290  -2.758589 42.576323  -2.758622 42.576340  -2.758658 42.576304  -2.758695 42.576269  -2.758707 42.576273  -2.758756 42.576240  -2.758775 42.576227  -2.758786 42.576194  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681423">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.784125 42.576712 </gml:lowerCorner>
+        		<gml:upperCorner>-2.784068 42.576757 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.784125 42.576734  -2.784122 42.576712  -2.784068 42.576715  -2.784073 42.576757  -2.784099 42.576746  -2.784125 42.576734  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681424">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.778326 42.577339 </gml:lowerCorner>
+        		<gml:upperCorner>-2.778276 42.577377 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.778326 42.577344  -2.778305 42.577341  -2.778284 42.577339  -2.778276 42.577372  -2.778318 42.577377  -2.778326 42.577344  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681425">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.757623 42.577806 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757518 42.577907 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.757518 42.577806  -2.757521 42.577904  -2.757613 42.577907  -2.757617 42.577895  -2.757619 42.577859  -2.757623 42.577809  -2.757555 42.577808  -2.757518 42.577806  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681426">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.727550 42.578253 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727506 42.578287 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.727550 42.578275  -2.727532 42.578253  -2.727506 42.578264  -2.727524 42.578287  -2.727550 42.578275  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681427">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.760076 42.578369 </gml:lowerCorner>
+        		<gml:upperCorner>-2.760020 42.578408 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.760076 42.578386  -2.760057 42.578369  -2.760043 42.578377  -2.760020 42.578390  -2.760038 42.578408  -2.760076 42.578386  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681428">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759922 42.579367 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759838 42.579445 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759922 42.579378  -2.759891 42.579372  -2.759860 42.579367  -2.759838 42.579434  -2.759899 42.579445  -2.759922 42.579378  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681429">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.778985 42.580032 </gml:lowerCorner>
+        		<gml:upperCorner>-2.778878 42.580121 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.778985 42.580102  -2.778951 42.580032  -2.778878 42.580051  -2.778895 42.580086  -2.778912 42.580121  -2.778985 42.580102  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681431">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758107 42.580414 </gml:lowerCorner>
+        		<gml:upperCorner>-2.757984 42.580504 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758107 42.580436  -2.758044 42.580414  -2.757984 42.580477  -2.758039 42.580504  -2.758073 42.580470  -2.758107 42.580436  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681432">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.771747 42.582947 </gml:lowerCorner>
+        		<gml:upperCorner>-2.771675 42.583005 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.771747 42.582959  -2.771692 42.582947  -2.771675 42.582994  -2.771731 42.583005  -2.771747 42.582959  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681433">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.772995 42.583238 </gml:lowerCorner>
+        		<gml:upperCorner>-2.772964 42.583269 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.772995 42.583268  -2.772994 42.583238  -2.772964 42.583239  -2.772965 42.583269  -2.772995 42.583268  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681434">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723985 42.584212 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723906 42.584273 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723985 42.584233  -2.723954 42.584212  -2.723930 42.584232  -2.723906 42.584252  -2.723937 42.584273  -2.723985 42.584233  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681435">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.776786 42.585071 </gml:lowerCorner>
+        		<gml:upperCorner>-2.776690 42.585140 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.776786 42.585109  -2.776722 42.585071  -2.776706 42.585085  -2.776690 42.585100  -2.776717 42.585117  -2.776752 42.585140  -2.776786 42.585109  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681436">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.727245 42.586054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727082 42.586212 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.727245 42.586089  -2.727176 42.586054  -2.727082 42.586180  -2.727150 42.586212  -2.727245 42.586089  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681437">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723255 42.588161 </gml:lowerCorner>
+        		<gml:upperCorner>-2.723220 42.588202 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723255 42.588161  -2.723223 42.588161  -2.723221 42.588182  -2.723220 42.588201  -2.723252 42.588202  -2.723255 42.588161  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681439">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764914 42.588698 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764834 42.588763 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764914 42.588710  -2.764884 42.588704  -2.764854 42.588698  -2.764834 42.588751  -2.764894 42.588763  -2.764914 42.588710  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681440">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.724960 42.590574 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724860 42.590643 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.724960 42.590588  -2.724886 42.590574  -2.724873 42.590601  -2.724860 42.590628  -2.724938 42.590643  -2.724960 42.590588  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681441">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.739372 42.591812 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738866 42.591963 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.739372 42.591884  -2.739361 42.591848  -2.739350 42.591812  -2.738866 42.591891  -2.738888 42.591963  -2.739372 42.591884  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681442">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764721 42.594030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764629 42.594101 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764721 42.594054  -2.764666 42.594030  -2.764629 42.594077  -2.764656 42.594089  -2.764684 42.594101  -2.764721 42.594054  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681444">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751697 42.601706 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751524 42.601832 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751697 42.601751  -2.751577 42.601706  -2.751550 42.601748  -2.751524 42.601790  -2.751640 42.601832  -2.751697 42.601751  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681445">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.737350 42.603728 </gml:lowerCorner>
+        		<gml:upperCorner>-2.737213 42.603822 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.737222 42.603815  -2.737326 42.603811  -2.737328 42.603822  -2.737341 42.603821  -2.737336 42.603806  -2.737350 42.603805  -2.737350 42.603798  -2.737336 42.603799  -2.737328 42.603755  -2.737346 42.603752  -2.737345 42.603743  -2.737333 42.603742  -2.737333 42.603728  -2.737317 42.603729  -2.737319 42.603744  -2.737240 42.603749  -2.737225 42.603736  -2.737213 42.603746  -2.737229 42.603761  -2.737231 42.603800  -2.737224 42.603811  -2.737222 42.603815  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681446">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.773925 42.604497 </gml:lowerCorner>
+        		<gml:upperCorner>-2.773750 42.604568 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.773925 42.604565  -2.773924 42.604526  -2.773922 42.604497  -2.773836 42.604499  -2.773750 42.604501  -2.773753 42.604568  -2.773925 42.604565  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681447">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.746754 42.605322 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746672 42.605388 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.746754 42.605345  -2.746716 42.605322  -2.746672 42.605365  -2.746710 42.605388  -2.746732 42.605366  -2.746754 42.605345  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681448">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.746666 42.605419 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746608 42.605469 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.746666 42.605430  -2.746633 42.605419  -2.746608 42.605457  -2.746641 42.605469  -2.746666 42.605430  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681449">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.746625 42.605503 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746564 42.605550 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.746625 42.605516  -2.746584 42.605503  -2.746564 42.605537  -2.746606 42.605550  -2.746625 42.605516  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681450">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.731629 42.606397 </gml:lowerCorner>
+        		<gml:upperCorner>-2.731580 42.606431 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.731629 42.606426  -2.731622 42.606397  -2.731580 42.606401  -2.731587 42.606431  -2.731603 42.606429  -2.731629 42.606426  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681451">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.730296 42.614964 </gml:lowerCorner>
+        		<gml:upperCorner>-2.730190 42.615019 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.730296 42.614978  -2.730201 42.614964  -2.730190 42.615004  -2.730285 42.615019  -2.730296 42.614978  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681464">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.735399 42.603242 </gml:lowerCorner>
+        		<gml:upperCorner>-2.735368 42.603264 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.735371 42.603264  -2.735399 42.603261  -2.735395 42.603242  -2.735368 42.603245  -2.735371 42.603264  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681465">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.748320 42.592902 </gml:lowerCorner>
+        		<gml:upperCorner>-2.748296 42.592927 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.748319 42.592927  -2.748320 42.592902  -2.748296 42.592902  -2.748297 42.592927  -2.748319 42.592927  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681470">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749402 42.589570 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749369 42.589599 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.749400 42.589599  -2.749402 42.589572  -2.749372 42.589570  -2.749371 42.589584  -2.749369 42.589598  -2.749400 42.589599  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681471">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.778164 42.561544 </gml:lowerCorner>
+        		<gml:upperCorner>-2.778122 42.561577 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.778144 42.561577  -2.778164 42.561554  -2.778143 42.561544  -2.778133 42.561555  -2.778122 42.561567  -2.778144 42.561577  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681472">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.777963 42.559019 </gml:lowerCorner>
+        		<gml:upperCorner>-2.777833 42.559101 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.777927 42.559101  -2.777963 42.559072  -2.777915 42.559045  -2.777867 42.559019  -2.777833 42.559051  -2.777927 42.559101  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681473">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.729456 42.547667 </gml:lowerCorner>
+        		<gml:upperCorner>-2.729388 42.547719 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.729415 42.547719  -2.729456 42.547703  -2.729430 42.547667  -2.729409 42.547675  -2.729388 42.547682  -2.729415 42.547719  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681475">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.739211 42.555054 </gml:lowerCorner>
+        		<gml:upperCorner>-2.739092 42.555137 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.739184 42.555137  -2.739211 42.555084  -2.739164 42.555069  -2.739118 42.555054  -2.739092 42.555108  -2.739184 42.555137  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681476">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.716324 42.531098 </gml:lowerCorner>
+        		<gml:upperCorner>-2.716265 42.531145 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.716324 42.531145  -2.716324 42.531098  -2.716295 42.531099  -2.716266 42.531101  -2.716265 42.531145  -2.716324 42.531145  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681477">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.746467 42.570490 </gml:lowerCorner>
+        		<gml:upperCorner>-2.746394 42.570543 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.746467 42.570522  -2.746440 42.570490  -2.746394 42.570511  -2.746408 42.570527  -2.746422 42.570543  -2.746467 42.570522  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681478">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.727970 42.589327 </gml:lowerCorner>
+        		<gml:upperCorner>-2.727831 42.589424 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.727879 42.589327  -2.727855 42.589344  -2.727831 42.589360  -2.727925 42.589424  -2.727970 42.589390  -2.727879 42.589327  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681479">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.753881 42.587156 </gml:lowerCorner>
+        		<gml:upperCorner>-2.753853 42.587172 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.753879 42.587172  -2.753881 42.587156  -2.753868 42.587157  -2.753855 42.587158  -2.753853 42.587171  -2.753879 42.587172  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681483">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722748 42.587149 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722542 42.587221 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722748 42.587205  -2.722747 42.587149  -2.722542 42.587169  -2.722547 42.587221  -2.722748 42.587205  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681484">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.722888 42.587179 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722768 42.587218 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.722887 42.587217  -2.722888 42.587180  -2.722768 42.587179  -2.722771 42.587218  -2.722887 42.587217  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681485">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.723038 42.587174 </gml:lowerCorner>
+        		<gml:upperCorner>-2.722963 42.587219 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.723017 42.587219  -2.723038 42.587192  -2.722982 42.587174  -2.722963 42.587203  -2.722990 42.587211  -2.723017 42.587219  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681486">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.724872 42.589706 </gml:lowerCorner>
+        		<gml:upperCorner>-2.724731 42.589825 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.724872 42.589766  -2.724830 42.589745  -2.724856 42.589720  -2.724824 42.589706  -2.724797 42.589732  -2.724787 42.589726  -2.724731 42.589782  -2.724770 42.589803  -2.724809 42.589825  -2.724872 42.589766  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681487">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759825 42.572410 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759551 42.572562 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759709 42.572536  -2.759719 42.572558  -2.759777 42.572545  -2.759789 42.572542  -2.759779 42.572520  -2.759814 42.572512  -2.759825 42.572509  -2.759818 42.572492  -2.759791 42.572426  -2.759784 42.572410  -2.759772 42.572413  -2.759551 42.572463  -2.759558 42.572480  -2.759586 42.572545  -2.759593 42.572562  -2.759709 42.572536  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681488">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.750125 42.569452 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749732 42.569744 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.750125 42.569549  -2.750055 42.569501  -2.749985 42.569452  -2.749732 42.569637  -2.749871 42.569744  -2.750125 42.569549  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681489">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.745502 42.571582 </gml:lowerCorner>
+        		<gml:upperCorner>-2.745450 42.571617 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.745468 42.571617  -2.745502 42.571616  -2.745502 42.571582  -2.745480 42.571583  -2.745467 42.571583  -2.745457 42.571587  -2.745451 42.571595  -2.745450 42.571600  -2.745451 42.571607  -2.745454 42.571611  -2.745461 42.571615  -2.745468 42.571617  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681490">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759745 42.577942 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759129 42.578264 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759745 42.578017  -2.759718 42.577981  -2.759691 42.577945  -2.759660 42.577957  -2.759647 42.577942  -2.759204 42.578139  -2.759196 42.578129  -2.759129 42.578158  -2.759197 42.578255  -2.759222 42.578244  -2.759237 42.578264  -2.759276 42.578248  -2.759270 42.578240  -2.759725 42.578045  -2.759713 42.578030  -2.759745 42.578017  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681491">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.759135 42.578471 </gml:lowerCorner>
+        		<gml:upperCorner>-2.759021 42.578513 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.759135 42.578496  -2.759125 42.578471  -2.759021 42.578493  -2.759034 42.578513  -2.759087 42.578507  -2.759135 42.578496  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681492">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758878 42.578381 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758699 42.578519 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758878 42.578478  -2.758845 42.578381  -2.758699 42.578408  -2.758729 42.578505  -2.758741 42.578502  -2.758746 42.578519  -2.758795 42.578511  -2.758788 42.578494  -2.758878 42.578478  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681493">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.760498 42.576133 </gml:lowerCorner>
+        		<gml:upperCorner>-2.760322 42.576238 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.760488 42.576214  -2.760498 42.576193  -2.760498 42.576171  -2.760485 42.576155  -2.760462 42.576142  -2.760438 42.576133  -2.760414 42.576133  -2.760392 42.576136  -2.760375 42.576142  -2.760364 42.576147  -2.760334 42.576142  -2.760328 42.576166  -2.760322 42.576190  -2.760350 42.576194  -2.760351 42.576209  -2.760360 42.576219  -2.760385 42.576231  -2.760416 42.576238  -2.760445 42.576236  -2.760473 42.576224  -2.760488 42.576214  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681500">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758317 42.575029 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758169 42.575270 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758233 42.575270  -2.758255 42.575142  -2.758317 42.575137  -2.758306 42.575083  -2.758296 42.575029  -2.758172 42.575039  -2.758190 42.575136  -2.758169 42.575262  -2.758233 42.575270  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681501">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.758794 42.574619 </gml:lowerCorner>
+        		<gml:upperCorner>-2.758729 42.574661 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.758785 42.574661  -2.758794 42.574625  -2.758736 42.574619  -2.758729 42.574655  -2.758785 42.574661  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681505">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.751951 42.567846 </gml:lowerCorner>
+        		<gml:upperCorner>-2.751887 42.567892 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.751912 42.567892  -2.751951 42.567876  -2.751939 42.567861  -2.751928 42.567846  -2.751887 42.567862  -2.751912 42.567892  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681509">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766167 42.569666 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766083 42.569743 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766161 42.569666  -2.766083 42.569671  -2.766089 42.569743  -2.766167 42.569740  -2.766161 42.569666  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681510">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.764550 42.568825 </gml:lowerCorner>
+        		<gml:upperCorner>-2.764208 42.569010 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.764550 42.568907  -2.764260 42.568825  -2.764208 42.568928  -2.764352 42.568969  -2.764495 42.569010  -2.764550 42.568907  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681511">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.749941 42.560429 </gml:lowerCorner>
+        		<gml:upperCorner>-2.749663 42.560732 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.749941 42.560697  -2.749831 42.560429  -2.749663 42.560470  -2.749765 42.560732  -2.749941 42.560697  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681512">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.738100 42.551187 </gml:lowerCorner>
+        		<gml:upperCorner>-2.738058 42.551220 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.738100 42.551189  -2.738060 42.551187  -2.738059 42.551203  -2.738058 42.551218  -2.738097 42.551220  -2.738100 42.551189  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681513">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.754942 42.554473 </gml:lowerCorner>
+        		<gml:upperCorner>-2.754887 42.554494 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.754887 42.554494  -2.754932 42.554494  -2.754942 42.554493  -2.754942 42.554473  -2.754887 42.554473  -2.754887 42.554494  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681514">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.765487 42.577588 </gml:lowerCorner>
+        		<gml:upperCorner>-2.765332 42.577651 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.765332 42.577604  -2.765404 42.577628  -2.765476 42.577651  -2.765487 42.577635  -2.765343 42.577588  -2.765332 42.577604  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra (diseminado)</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681518">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.766874 42.558030 </gml:lowerCorner>
+        		<gml:upperCorner>-2.766792 42.558090 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.766821 42.558090  -2.766874 42.558071  -2.766846 42.558030  -2.766792 42.558050  -2.766807 42.558070  -2.766821 42.558090  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>San Vicente de la Sonsierra</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681750">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.725237 42.587321 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725167 42.587373 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.725218 42.587373  -2.725237 42.587335  -2.725186 42.587321  -2.725167 42.587359  -2.725218 42.587373  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Peciña</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681751">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.745544 42.606652 </gml:lowerCorner>
+        		<gml:upperCorner>-2.745352 42.606764 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.745382 42.606764  -2.745529 42.606720  -2.745521 42.606706  -2.745544 42.606699  -2.745520 42.606652  -2.745352 42.606706  -2.745382 42.606764  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO>Rivas de Tereso</ms:T223_000_NUCL_URB_DENO>
+        <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
+      </ms:edificios>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:edificios gml:id="edificios.4681760">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.763257 42.570133 </gml:lowerCorner>
+        		<gml:upperCorner>-2.763188 42.570169 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.763257 42.570152  -2.763250 42.570133  -2.763188 42.570149  -2.763195 42.570169  -2.763257 42.570152  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T223_000_NUCL_URB_DENO></ms:T223_000_NUCL_URB_DENO>
         <ms:T223_000_INEMUNICIPIO_DENO>San Vicente de la Sonsierra</ms:T223_000_INEMUNICIPIO_DENO>
       </ms:edificios>
     </gml:featureMember>

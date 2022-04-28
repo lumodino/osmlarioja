@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=poblaciones&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.773889 42.258003 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.871548 42.230472 </gml:lowerCorner>
       		<gml:upperCorner>-2.762474 42.266242 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -608,6 +608,27 @@
           </gml:MultiSurface>
         </ms:msGeometry>
         <ms:T108_000_NUCL_URB_DENO>Anguiano</ms:T108_000_NUCL_URB_DENO>
+        <ms:T108_000_MUNICIPIOS_DENO>Anguiano</ms:T108_000_MUNICIPIOS_DENO>
+      </ms:poblaciones>
+    </gml:featureMember>
+    <gml:featureMember>
+      <ms:poblaciones gml:id="poblaciones.4681764">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="EPSG:4326">
+        		<gml:lowerCorner>-2.871548 42.230472 </gml:lowerCorner>
+        		<gml:upperCorner>-2.870235 42.231074 </gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <ms:msGeometry>
+          <gml:Polygon srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">-2.871548 42.230676  -2.871475 42.230539  -2.871263 42.230598  -2.871187 42.230472  -2.871099 42.230482  -2.870650 42.230634  -2.870727 42.230766  -2.870656 42.230791  -2.870626 42.230731  -2.870235 42.230829  -2.870352 42.231074  -2.870506 42.231039  -2.870491 42.231013  -2.870846 42.230931  -2.870875 42.230979  -2.871001 42.230941  -2.870955 42.230857  -2.871075 42.230817  -2.871118 42.230887  -2.871227 42.230855  -2.871190 42.230787  -2.871548 42.230676  </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </ms:msGeometry>
+        <ms:T108_000_NUCL_URB_DENO>Anguiano (diseminado)</ms:T108_000_NUCL_URB_DENO>
         <ms:T108_000_MUNICIPIOS_DENO>Anguiano</ms:T108_000_MUNICIPIOS_DENO>
       </ms:poblaciones>
     </gml:featureMember>

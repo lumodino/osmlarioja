@@ -3355,13 +3355,13 @@
       <ms:portales gml:id="portales.268405">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.725056 42.587611 </gml:lowerCorner>
-        		<gml:upperCorner>-2.725056 42.587611 </gml:upperCorner>
+        		<gml:lowerCorner>-2.725022 42.587618 </gml:lowerCorner>
+        		<gml:upperCorner>-2.725022 42.587618 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.725056 42.587611 </gml:pos>
+            <gml:pos>-2.725022 42.587618 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vial B</ms:NOMBRE_COMPLETO_VIAL>

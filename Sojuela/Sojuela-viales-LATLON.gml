@@ -2282,7 +2282,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.546207 42.372143  -2.546078 42.372052  -2.545938 42.371970  -2.545798 42.371913  -2.545618 42.371875  -2.545418 42.371830  -2.545218 42.371785  -2.545027 42.371814  -2.544867 42.371861  -2.544791 42.371865  -2.544727 42.371805  -2.544662 42.371712  -2.544618 42.371669  </gml:posList>
+            <gml:posList srsDimension="2">-2.546207 42.372143  -2.546078 42.372052  -2.545938 42.371970  -2.545798 42.371913  -2.545722 42.371897  -2.545641 42.371876  -2.545511 42.371842  -2.545416 42.371818  -2.545339 42.371801  -2.545288 42.371787  -2.545191 42.371786  -2.545095 42.371797  -2.544867 42.371861  -2.544791 42.371865  -2.544727 42.371805  -2.544662 42.371712  -2.544618 42.371669  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino Nuevo Bodegas</ms:NOMBRE_COMPLETO_VIAL>
@@ -2456,13 +2456,13 @@
       <ms:viales gml:id="viales.1547040">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.546967 42.369386 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.546972 42.369386 </gml:lowerCorner>
         		<gml:upperCorner>-2.546069 42.370326 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.546069 42.370294  -2.546256 42.370326  -2.546326 42.370321  -2.546499 42.370274  -2.546671 42.370170  -2.546822 42.369990  -2.546916 42.369857  -2.546956 42.369689  -2.546967 42.369386  </gml:posList>
+            <gml:posList srsDimension="2">-2.546069 42.370294  -2.546256 42.370326  -2.546326 42.370321  -2.546499 42.370274  -2.546671 42.370170  -2.546822 42.369990  -2.546916 42.369857  -2.546957 42.369781  -2.546972 42.369654  -2.546967 42.369386  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Moncalvillo</ms:NOMBRE_COMPLETO_VIAL>
