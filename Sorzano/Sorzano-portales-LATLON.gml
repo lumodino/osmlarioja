@@ -37,13 +37,13 @@
       <ms:portales gml:id="portales.4159157">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.528668 42.343836 </gml:lowerCorner>
-        		<gml:upperCorner>-2.528668 42.343836 </gml:upperCorner>
+        		<gml:lowerCorner>-2.528674 42.343824 </gml:lowerCorner>
+        		<gml:upperCorner>-2.528674 42.343824 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.528668 42.343836 </gml:pos>
+            <gml:pos>-2.528674 42.343824 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera de San Antón a Islallana</ms:NOMBRE_COMPLETO_VIAL>

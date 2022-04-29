@@ -257,12 +257,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.602063 42.400010 </gml:lowerCorner>
-        		<gml:upperCorner>-2.601762 42.400406 </gml:upperCorner>
+        		<gml:upperCorner>-2.601775 42.400412 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.602063 42.400010  -2.601762 42.400406  </gml:posList>
+            <gml:posList srsDimension="2">-2.602063 42.400010  -2.601775 42.400412  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Conde de Garay</ms:NOMBRE_COMPLETO_VIAL>
@@ -416,13 +416,13 @@
       <ms:viales gml:id="viales.1547366">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.601762 42.400406 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.601775 42.400412 </gml:lowerCorner>
         		<gml:upperCorner>-2.601581 42.400581 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.601762 42.400406  -2.601744 42.400445  -2.601736 42.400454  -2.601730 42.400460  -2.601726 42.400463  -2.601702 42.400483  -2.601692 42.400491  -2.601676 42.400504  -2.601668 42.400511  -2.601653 42.400524  -2.601639 42.400535  -2.601633 42.400541  -2.601608 42.400561  -2.601607 42.400562  -2.601590 42.400576  -2.601581 42.400581  </gml:posList>
+            <gml:posList srsDimension="2">-2.601775 42.400412  -2.601744 42.400445  -2.601736 42.400454  -2.601730 42.400460  -2.601726 42.400463  -2.601702 42.400483  -2.601692 42.400491  -2.601676 42.400504  -2.601668 42.400511  -2.601653 42.400524  -2.601639 42.400535  -2.601633 42.400541  -2.601608 42.400561  -2.601607 42.400562  -2.601590 42.400576  -2.601581 42.400581  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Conde de Garay</ms:NOMBRE_COMPLETO_VIAL>
@@ -1536,13 +1536,13 @@
       <ms:viales gml:id="viales.1547365">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.601762 42.400047 </gml:lowerCorner>
-        		<gml:upperCorner>-2.601464 42.400406 </gml:upperCorner>
+        		<gml:lowerCorner>-2.601775 42.400047 </gml:lowerCorner>
+        		<gml:upperCorner>-2.601464 42.400412 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.601762 42.400406  -2.601722 42.400387  -2.601715 42.400384  -2.601711 42.400382  -2.601681 42.400362  -2.601674 42.400357  -2.601661 42.400348  -2.601645 42.400337  -2.601644 42.400336  -2.601636 42.400327  -2.601629 42.400320  -2.601606 42.400298  -2.601602 42.400291  -2.601594 42.400278  -2.601580 42.400257  -2.601569 42.400238  -2.601550 42.400205  -2.601526 42.400167  -2.601520 42.400156  -2.601511 42.400138  -2.601505 42.400128  -2.601485 42.400092  -2.601480 42.400080  -2.601466 42.400051  -2.601464 42.400047  </gml:posList>
+            <gml:posList srsDimension="2">-2.601775 42.400412  -2.601722 42.400387  -2.601715 42.400384  -2.601711 42.400382  -2.601681 42.400362  -2.601674 42.400357  -2.601661 42.400348  -2.601645 42.400337  -2.601644 42.400336  -2.601636 42.400327  -2.601629 42.400320  -2.601606 42.400298  -2.601602 42.400291  -2.601594 42.400278  -2.601580 42.400257  -2.601569 42.400238  -2.601550 42.400205  -2.601526 42.400167  -2.601520 42.400156  -2.601511 42.400138  -2.601505 42.400128  -2.601485 42.400092  -2.601480 42.400080  -2.601466 42.400051  -2.601464 42.400047  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Hornos</ms:NOMBRE_COMPLETO_VIAL>
@@ -1556,13 +1556,13 @@
       <ms:viales gml:id="viales.1547367">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.602143 42.400406 </gml:lowerCorner>
-        		<gml:upperCorner>-2.601762 42.400537 </gml:upperCorner>
+        		<gml:lowerCorner>-2.602143 42.400412 </gml:lowerCorner>
+        		<gml:upperCorner>-2.601775 42.400537 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.602143 42.400537  -2.602143 42.400537  -2.602141 42.400536  -2.602139 42.400536  -2.602128 42.400533  -2.602125 42.400532  -2.602107 42.400527  -2.602095 42.400524  -2.602089 42.400522  -2.602067 42.400517  -2.602032 42.400506  -2.601975 42.400488  -2.601952 42.400480  -2.601929 42.400473  -2.601907 42.400464  -2.601903 42.400462  -2.601889 42.400457  -2.601845 42.400439  -2.601834 42.400436  -2.601814 42.400431  -2.601812 42.400430  -2.601795 42.400422  -2.601775 42.400412  -2.601766 42.400408  -2.601762 42.400406  </gml:posList>
+            <gml:posList srsDimension="2">-2.602143 42.400537  -2.602143 42.400537  -2.602141 42.400536  -2.602139 42.400536  -2.602128 42.400533  -2.602125 42.400532  -2.602107 42.400527  -2.602095 42.400524  -2.602089 42.400522  -2.602067 42.400517  -2.602032 42.400506  -2.601975 42.400488  -2.601952 42.400480  -2.601929 42.400473  -2.601907 42.400464  -2.601903 42.400462  -2.601889 42.400457  -2.601845 42.400439  -2.601834 42.400436  -2.601814 42.400431  -2.601812 42.400430  -2.601795 42.400422  -2.601775 42.400412  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Carretera Hornos</ms:NOMBRE_COMPLETO_VIAL>
