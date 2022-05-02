@@ -5245,13 +5245,13 @@
       <ms:portales gml:id="portales.229025">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.424225 42.285602 </gml:lowerCorner>
-        		<gml:upperCorner>-2.424225 42.285602 </gml:upperCorner>
+        		<gml:lowerCorner>-2.424236 42.285599 </gml:lowerCorner>
+        		<gml:upperCorner>-2.424236 42.285599 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.424225 42.285602 </gml:pos>
+            <gml:pos>-2.424236 42.285599 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Vadillos</ms:NOMBRE_COMPLETO_VIAL>
