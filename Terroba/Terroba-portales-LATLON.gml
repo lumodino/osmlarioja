@@ -8,52 +8,10 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=portales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.444832 42.256681 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.444832 42.256765 </gml:lowerCorner>
       		<gml:upperCorner>-2.442722 42.259029 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.229338">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.442863 42.256681 </gml:lowerCorner>
-        		<gml:upperCorner>-2.442863 42.256681 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.442863 42.256681 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
-        <ms:EXTENSION>A</ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26132</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Terroba</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Terroba</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
-    <gml:featureMember>
-      <ms:portales gml:id="portales.229339">
-        <gml:boundedBy>
-        	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.443219 42.256729 </gml:lowerCorner>
-        		<gml:upperCorner>-2.443219 42.256729 </gml:upperCorner>
-        	</gml:Envelope>
-        </gml:boundedBy>
-        <ms:msGeometry>
-          <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.443219 42.256729 </gml:pos>
-          </gml:Point>
-        </ms:msGeometry>
-        <ms:NOMBRE_COMPLETO_VIAL>Carretera Logroño</ms:NOMBRE_COMPLETO_VIAL>
-        <ms:NUMERO_POLICIA>1</ms:NUMERO_POLICIA>
-        <ms:EXTENSION></ms:EXTENSION>
-        <ms:CODIGO_POSTAL>26132</ms:CODIGO_POSTAL>
-        <ms:NOMBRE_POBLAMIENTO>Terroba</ms:NOMBRE_POBLAMIENTO>
-        <ms:NOMBRE_MUNICIPIO>Terroba</ms:NOMBRE_MUNICIPIO>
-      </ms:portales>
-    </gml:featureMember>
     <gml:featureMember>
       <ms:portales gml:id="portales.229334">
         <gml:boundedBy>
@@ -1087,13 +1045,13 @@
       <ms:portales gml:id="portales.4250133">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.444425 42.258311 </gml:lowerCorner>
-        		<gml:upperCorner>-2.444425 42.258311 </gml:upperCorner>
+        		<gml:lowerCorner>-2.444431 42.258301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.444431 42.258301 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.444425 42.258311 </gml:pos>
+            <gml:pos>-2.444431 42.258301 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Luezas</ms:NOMBRE_COMPLETO_VIAL>
@@ -1108,13 +1066,13 @@
       <ms:portales gml:id="portales.4164379">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.444388 42.258311 </gml:lowerCorner>
-        		<gml:upperCorner>-2.444388 42.258311 </gml:upperCorner>
+        		<gml:lowerCorner>-2.444395 42.258301 </gml:lowerCorner>
+        		<gml:upperCorner>-2.444395 42.258301 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.444388 42.258311 </gml:pos>
+            <gml:pos>-2.444395 42.258301 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Camino de Luezas</ms:NOMBRE_COMPLETO_VIAL>
