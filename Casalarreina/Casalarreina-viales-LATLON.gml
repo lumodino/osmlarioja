@@ -8,7 +8,7 @@
    xsi:schemaLocation="http://mapserver.gis.umn.edu/mapserver http://ogc.larioja.org/wfs/callejerodelarioja/request.php?SERVICE=WFS&amp;VERSION=1.1.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=viales&amp;OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1  http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd">
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
-      		<gml:lowerCorner>-2.929303 42.536628 </gml:lowerCorner>
+      		<gml:lowerCorner>-2.929303 42.536611 </gml:lowerCorner>
       		<gml:upperCorner>-2.901411 42.553659 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
@@ -936,13 +936,13 @@
       <ms:viales gml:id="viales.1517289">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.917557 42.536628 </gml:lowerCorner>
+        		<gml:lowerCorner>-2.917558 42.536611 </gml:lowerCorner>
         		<gml:upperCorner>-2.913100 42.544060 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.917557 42.536628  -2.917438 42.536930  -2.917301 42.537156  -2.917157 42.537392  -2.917023 42.537615  -2.916884 42.537852  -2.916736 42.538097  -2.916612 42.538320  -2.916467 42.538544  -2.916308 42.538802  -2.916216 42.538959  -2.916085 42.539178  -2.915942 42.539413  -2.915778 42.539680  -2.915649 42.539902  -2.915544 42.540079  -2.915413 42.540277  -2.915253 42.540546  -2.915079 42.540825  -2.914931 42.541058  -2.914827 42.541233  -2.914697 42.541448  -2.914524 42.541727  -2.914375 42.541973  -2.914189 42.542268  -2.914063 42.542483  -2.913897 42.542755  -2.913728 42.543032  -2.913567 42.543297  -2.913322 42.543699  -2.913100 42.544060  </gml:posList>
+            <gml:posList srsDimension="2">-2.917558 42.536611  -2.917438 42.536930  -2.917301 42.537156  -2.917157 42.537392  -2.917023 42.537615  -2.916884 42.537852  -2.916736 42.538097  -2.916612 42.538320  -2.916467 42.538544  -2.916308 42.538802  -2.916216 42.538959  -2.916085 42.539178  -2.915942 42.539413  -2.915778 42.539680  -2.915649 42.539902  -2.915544 42.540079  -2.915413 42.540277  -2.915253 42.540546  -2.915079 42.540825  -2.914931 42.541058  -2.914827 42.541233  -2.914697 42.541448  -2.914524 42.541727  -2.914375 42.541973  -2.914189 42.542268  -2.914063 42.542483  -2.913897 42.542755  -2.913728 42.543032  -2.913567 42.543297  -2.913322 42.543699  -2.913100 42.544060  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Avenida de La Rioja</ms:NOMBRE_COMPLETO_VIAL>

@@ -3460,13 +3460,13 @@
       <ms:portales gml:id="portales.4044622">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.948470 42.545660 </gml:lowerCorner>
-        		<gml:upperCorner>-2.948470 42.545660 </gml:upperCorner>
+        		<gml:lowerCorner>-2.948497 42.545648 </gml:lowerCorner>
+        		<gml:upperCorner>-2.948497 42.545648 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.948470 42.545660 </gml:pos>
+            <gml:pos>-2.948497 42.545648 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Iglesia</ms:NOMBRE_COMPLETO_VIAL>

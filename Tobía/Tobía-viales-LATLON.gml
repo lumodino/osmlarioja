@@ -677,12 +677,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-2.815877 42.298705 </gml:lowerCorner>
-        		<gml:upperCorner>-2.815556 42.298748 </gml:upperCorner>
+        		<gml:upperCorner>-2.815560 42.298748 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.815874 42.298705  -2.815877 42.298732  -2.815857 42.298748  -2.815767 42.298731  -2.815621 42.298727  -2.815556 42.298741  </gml:posList>
+            <gml:posList srsDimension="2">-2.815874 42.298705  -2.815877 42.298732  -2.815857 42.298748  -2.815767 42.298731  -2.815687 42.298717  -2.815621 42.298727  -2.815560 42.298723  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Piñuela</ms:NOMBRE_COMPLETO_VIAL>
@@ -696,13 +696,13 @@
       <ms:viales gml:id="viales.1547694">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.815556 42.298699 </gml:lowerCorner>
-        		<gml:upperCorner>-2.815217 42.298741 </gml:upperCorner>
+        		<gml:lowerCorner>-2.815560 42.298699 </gml:lowerCorner>
+        		<gml:upperCorner>-2.815217 42.298723 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.815556 42.298741  -2.815428 42.298706  -2.815217 42.298699  </gml:posList>
+            <gml:posList srsDimension="2">-2.815560 42.298723  -2.815428 42.298706  -2.815217 42.298699  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Piñuela</ms:NOMBRE_COMPLETO_VIAL>
@@ -802,7 +802,7 @@
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-2.816125 42.297801  -2.816116 42.297859  -2.816099 42.298063  -2.816075 42.298180  -2.815994 42.298306  </gml:posList>
+            <gml:posList srsDimension="2">-2.816125 42.297801  -2.816116 42.297859  -2.816114 42.297964  -2.816099 42.298063  -2.816075 42.298180  -2.815994 42.298306  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Valle</ms:NOMBRE_COMPLETO_VIAL>
