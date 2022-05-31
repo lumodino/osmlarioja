@@ -9,7 +9,7 @@
       <gml:boundedBy>
       	<gml:Envelope srsName="EPSG:4326">
       		<gml:lowerCorner>-3.007625 42.522466 </gml:lowerCorner>
-      		<gml:upperCorner>-3.000094 42.526966 </gml:upperCorner>
+      		<gml:upperCorner>-2.999828 42.526966 </gml:upperCorner>
       	</gml:Envelope>
       </gml:boundedBy>
     <gml:featureMember>
@@ -217,12 +217,12 @@
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
         		<gml:lowerCorner>-3.002020 42.524166 </gml:lowerCorner>
-        		<gml:upperCorner>-3.000094 42.526308 </gml:upperCorner>
+        		<gml:upperCorner>-2.999828 42.526484 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:LineString srsName="EPSG:4326">
-            <gml:posList srsDimension="2">-3.002020 42.524166  -3.001918 42.524324  -3.001773 42.524662  -3.001574 42.524979  -3.000569 42.525936  -3.000094 42.526308  </gml:posList>
+            <gml:posList srsDimension="2">-3.002020 42.524166  -3.001918 42.524324  -3.001773 42.524662  -3.001574 42.524979  -3.000569 42.525936  -3.000145 42.526268  -2.999828 42.526484  </gml:posList>
           </gml:LineString>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Río</ms:NOMBRE_COMPLETO_VIAL>

@@ -4594,13 +4594,13 @@
       <ms:portales gml:id="portales.326261">
         <gml:boundedBy>
         	<gml:Envelope srsName="EPSG:4326">
-        		<gml:lowerCorner>-2.629996 42.254029 </gml:lowerCorner>
-        		<gml:upperCorner>-2.629996 42.254029 </gml:upperCorner>
+        		<gml:lowerCorner>-2.629983 42.254049 </gml:lowerCorner>
+        		<gml:upperCorner>-2.629983 42.254049 </gml:upperCorner>
         	</gml:Envelope>
         </gml:boundedBy>
         <ms:msGeometry>
           <gml:Point srsName="EPSG:4326">
-            <gml:pos>-2.629996 42.254029 </gml:pos>
+            <gml:pos>-2.629983 42.254049 </gml:pos>
           </gml:Point>
         </ms:msGeometry>
         <ms:NOMBRE_COMPLETO_VIAL>Calle Juan Pascual</ms:NOMBRE_COMPLETO_VIAL>
